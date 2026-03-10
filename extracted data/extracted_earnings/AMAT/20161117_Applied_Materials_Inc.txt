@@ -1,0 +1,719 @@
+Q4 2016 Earnings Call
+
+Operator
+Welcome to the Applied Materials earnings conference call. During the presentation, all
+participants will be in a listen-only mode. Afterwards, you will be invited to participate in a
+question-and-answer session. As a reminder, this conference is being recorded.
+In a moment, I'll turn the conference over to `Michael Sullivan, Vice President-Investor Relations, Vice President of Investor Relations.
+`Michael Sullivan, Vice President-Investor Relations `
+Thank you. In a moment, we'll discuss the results for our fourth quarter and 2016 fiscal year, which
+ended on October 30. Joining me are Gary Dickerson, our President and CEO, and Bob Halliday,
+our Chief Financial Officer.
+Before we begin, let me remind you that today's call contains forward-looking statements,
+including Applied's current view of its industries, performance, products, share positions,
+profitability, and business outlook. These statements are subject to risks and uncertainties that
+could cause actual results to differ materially from those expressed or implied by such
+statements and are not guarantees of future performance. Information concerning these risks
+and uncertainties is contained in Applied's most recent Form 10-Q and 8-K filings with the SEC. All
+forward-looking statements are based on management's estimates, projections, and
+assumptions as of November 17, 2016, and Applied assumes no obligation to update them.Today's call also includes non-GAAP adjusted financial measures. Reconciliations to GAAP
+measures are contained in today's earnings press release and in our reconciliation slides, which
+are available on the Investors page of our website at appliedmaterials.com.
+And now, I'd like to turn the call over to Gary Dickerson.
+`Gary E. Dickerson, President, Chief Executive Officer & Director `
+Thanks, Mike.
+I'm delighted to report that Applied Materials delivered record revenue and earnings in our fourth
+quarter, capping off an outstanding year. In fiscal 2016, we grew orders, revenue, and earnings to
+the highest levels in the company's history, and made significant progress towards our longer-
+term strategic and financial goals. Some of our major accomplishments this year include our
+highest semiconductor orders and revenues since the year 2000 and record performance in
+display and service, where both groups exceeded all-time highs for orders and revenue.
+I want to thank all of our employees for their passion to create value for our customers and for
+making 2016 a great year for Applied. Looking ahead, I see tremendous capabilities, momentum,
+and opportunities across the company. This gives me increased confidence that we will again
+drive sustainable growth in 2017 and beyond.
+On today's call, I'll start by explaining some of the key factors contributing to our record
+performance and describe our strategy for long-term sustainable growth. I'll then provide our
+market view and describe why Applied has an increasingly positive outlook. I'll conclude with brief
+updates on our major businesses. After that, Bob will provide additional details about our results
+as well as his perspective on our future outlook.
+At Applied, our strategy of inflection-focused innovation leadership is delivering profitable
+growth. In both semiconductor and display, large multiyear inflections are enabled by materials
+innovation. Applied has by far the broadest and deepest capabilities in materials engineering. It's
+our ability to combine these competencies, technologies, and products that really sets us apart
+and allows us to sustainably grow faster than the markets we serve. To fuel growth, we focused
+our organization investments to deliver highly differentiated solutions that enable customers to
+build new devices and structures that were never possible before.
+At the same time, we have implemented a new operating system for the company that's driving
+repeatable success and increasing our product hit rate. A key element of this is our product
+development engine. We've already trained more than 5,000 engineers how to use these
+methods. And as a result, we now see inflections sooner, develop solutions faster, and generate
+higher residual value from our large installed base of tools.
+Over the past few quarters, I talked about five major market drivers that are contributing to our
+record performance today and will fuel growth for years to come. These drivers are leading-edge
+foundry and logic, 3D NAND, patterning, advanced display, and China. At our analyst event in
+September, we gave comprehensive updates on these five drivers. So today, I'll only cover two
+where we have new information to share.
+Let me start with patterning. At the analyst meeting, we said we expect our patterning
+opportunity to expand to around $3 billion by 2019, growing 2.3 times since 2012. In recent weeks,
+new details about EUV adoption have been made public, and this gives us increased confidence
+in these projections. Our model is consistent with others and assumes that EUV will primarily beused for cuts and vias in foundry and logic applications. That's about 20% of the total patterning
+market.
+For the other 80%, we see customers expanding multi-patterning solutions, and this significantly
+grows our addressable market. Pulling all this together, we believe that in the most aggressive
+case for EUV adoption, our 2019 patterning opportunity will still grow to around $3 billion, as
+previously forecasted. In scenarios where EUV adoption rates are slower than the most optimistic
+case, our patterning growth could be significantly higher.
+Looking beyond 2019, we see cuts and vias remaining the primary application for EUV and our
+patterning opportunity continuing to expand. Patterning is an area where Applied is making
+significant investments and has room to grow. We've already gained around 15 points of market
+share since 2012. We see strong customer pull for new materials-enabled patterning processes
+where we have innovative new technologies and believe we can gain another 15 points of share
+by 2019.
+My second update relates to display. We announced that our equipment has been selected for
+the world's first Gen 10.5 LCD TV fab. The push to Gen 10.5 is driven by rapid growth in the
+market for large-format TVs, 60 inches and above. A Gen 10.5 substrate is about 80% bigger
+than the current Gen 0.85 (sic) [Gen 8.5] standard, allowing customers to optimize output for
+larger screens. In addition, demand for our OLED manufacturing equipment is broadening. With
+this strength in both TV and mobile, we are increasing our estimate for 2017 display capital
+spending. We now believe customers will invest around $2 billion more than 2016.
+In the past few weeks, we've also increased our forecast for wafer fab equipment. We now
+expect 2016 wafer fab equipment spending will be at least 5% higher than in 2015, driven by
+additional foundry capacity and incremental investments in 3D NAND. At the same time, our view
+of 2017 is strengthening. We believe spending will be higher this year, with logic and foundry
+investment remaining at robust levels and growth in memory spending.
+Looking further ahead, I'm very excited about emerging trends in virtual and augmented reality,
+big data and artificial intelligence and smart vehicles. These new drivers for semiconductor and
+display span consumer, enterprise and industrial applications, and layer on top of existing
+demand for mobility, PCs, and other consumer electronics. Our discussions with leading
+companies in these areas make it clear that these new applications create huge demand for
+memory and require major advances in silicon technology. These trends add to my view that
+demand for capital equipment is becoming less cyclical and normalized annual spending is
+increasing over time.
+I will now talk about the progress we're making in each of our major businesses. In
+semiconductor, we are seeing robust demand across the board and, as we said in September,
+we expect 2016 to be a strong share gain year for Applied. Growth in our leadership businesses
+is being driven by foundry and logic inflections and also by memory as epitaxy, implant, and rapid
+thermal processing are adopted in 3D NAND. In particular, we see strong growth in CMP, where
+we've increased revenues around 60% since 2012, and metal CVD, where we expect double-
+digit share gains this year.
+Our leadership businesses are in a really great position to grow. In 2016, we converted well over
+90% of our development positions to volume production wins. We're also making significant
+market share gains in etch and CVD. Fiscal 2016 was our third consecutive year of growth in CVD
+and fourth consecutive year of growth in etch, where revenues reached a nine-year high. Overall,
+our combined etch and CVD revenues exceeded $2.7 billion for the year.I'm very excited by our product pipeline in etch and ALD. We are seeing rapid adoption of our
+innovative new solutions, including selective etch and Olympia ALD that together generated
+more than $230 million of revenue this year. I'm also pleased by the progress we're making in
+advanced packaging. We have some great new products and, based on the positions we are
+winning, we expect to double our packaging revenues over the next 12 months.
+In inspection and process control, we also delivered our highest ever orders and revenue this
+year. In 2016, we believe that we'll gain about 20 points of e-beam inspection share, around 7
+points of share in e-beam overall, and secure the number one position in this market. E-beam is
+the fastest growing segment in inspection and we are winning new applications that support
+sustainable share gains for years to come.
+In service, our strategy is to deliver more value to customers with our advanced service products.
+Our service teams are more tightly aligned with our product groups than ever before. Together,
+they are reducing ramp times, improving device performance and yield, and optimizing output
+and operating costs for customers. In the fourth quarter, we set new records for both orders and
+revenue, and when we look at year-on-year comparisons, we've now grown our service business
+every single quarter for the past three years.
+Display is also setting records with two large inflections driving growth. The first is large format
+TVs driving investment in new Gen 10 capacity. Large format TV units are expected to grow at
+15% to 20% annually over the next three years compared to single digit growth rates for TVs
+overall. The second is OLED where investment is increasing as multiple customers start to ramp
+this technology and battle for leadership in next-generation mobile screens. At our analyst
+meeting, we said that our market opportunity in display is expanding significantly, up to 10 times
+in the case of OLED.
+We are focused on building out our product portfolio to deliver the solutions our customers need
+to transition to new display products over the next few years. We have great traction with our
+new thin film encapsulation and e-beam review products and have more significant new products
+that will be announced in 2017.
+In summary, I strongly believe this is Applied's time. We set new performance records in 2016 and
+we're seeing the impact of the investments we've made in our organization and product pipeline
+over the past several years.
+As we look ahead to 2017 and beyond, we see strength in our markets as large multi-year
+inflections continue to evolve and new emerging demand drivers layer on top of mobility and
+computing. Across the company, we are focused on extending our innovation leadership.
+Applied's solutions are enabling customers to build new devices and structures that were never
+possible before. This puts us in a unique position to drive sustainable growth and raise the ceiling
+on our financial performance.
+Now, let me hand the call over to Bob, who will provide more details about our results and
+outlook. Bob?
+`Robert J. Halliday, Chief Financial Officer & Senior Vice President `
+Thanks, Gary.
+In September, we raised the ceiling on our expectations for our markets and our company. Since
+then, we've increased our 2016 WFE forecast to a range of $33.5 billion to $34 billion. Our internal
+projection for 2017 WFE is $1 billion higher than that and it assumes only modest DRAMinvestment, China spending, and NAND penetration of hard drives. So our early view on 2018 and
+the longer-term horizon is positive as well.
+So, while our Analyst Day was just eight weeks ago, I already feel more confident in our ability to
+hit our 2019 financial model. After the Analyst Day, the slide that sparked the most interest was
+the one comparing average WFE spending and the standard deviation around the average for
+two periods, 2000 through 2009 and 2010 through 2016.
+What really caught everyone's attention was the one standard deviation fell from $8 billion in the
+earlier period to $2.7 billion since. The WFE industry has evolved since 2010 and that deserves
+some discussion. I'll give you the major factors that lead me to believe it's a fundamentally more
+stable and attractive business.
+First: the semiconductor industry we serve has become larger, more diversified and less volatile.
+Specifically, semi content was led by PCs, which have multi-year demand cycles time to enterprise
+upgrades. Now, we've added mobility, which has annual consumer replacement cycles and
+generates more semi revenue than PCs. And today, we're laying on additional semi demand
+drivers, including big data, IoT, cloud infrastructure, artificial intelligence, virtual reality, and self-
+driving cars.
+Second: the cycles of the past were mainly driven by PC DRAM, which was the largest, most
+competitive and most generic technology. Today, DRAM is near the bottom in spending, there
+are fewer producers, and the designs have been tailored to servers and mobile devices,
+including multi-chip stacks. It's no longer one size fits all.
+Third: NAND spending has surpassed DRAM, and NAND continues to unlock growth potential as
+the gigabyte cost approaches hard drives. Fourth: foundry capacity additions tend to be contract-
+based and demand-driven rather than supply-driven, and foundry has gone from being the
+smallest category to the biggest today. And fifth: our customers now add capacity on a more
+flexible basis, building out lines and line extensions instead of entire mega fabs.
+Not only has the industry changed, but Applied has changed in ways that give us larger and more
+diverse revenues and profits. Over the past few years, we've achieved relatively balanced market
+share across all of the semiconductor device types. Most of our businesses are now benefiting
+from 3D NAND and our success in NAND has been a springboard to our new patterning wins in
+DRAM. At the same time, we've greatly expanded our service business, whose revenues are up
+by over 30% in just the past three years.
+By 2019, this relatively stable business should deliver almost a quarter of our revenue and an
+even greater percentage of our operating profits. And Applied is uniquely positioned as the
+equipment leader in display. We're on track to triple our overall opportunity with new display
+products and we're accelerating our display pipeline by leveraging our semiconductor IP, including
+e-beam, identify new technology through applied ventures and securing R&D co-funding.
+In both semi and display, we can point to specific inflections and winning products that will drive
+our growth through the model period and beyond. And in all of our markets, I believe we're
+demonstrating systemic improvements in our ability to outperform. The better allocation
+spending, more efficient execution and product development engine are now culturally ingrained.
+Now, what's the significance of this greater stability? I'll mention just three things. First, our order
+variations now reflect seasonality more than cyclicality. We're focused on driving year-over-year
+revenue and earnings growth and we plan to stop reporting quarterly orders as of 2016. To help
+you feel comfortable with this change, I'm telling you now that I expect our Q1 of fiscal 2017orders to be meaningfully higher in both semi and display. I also plan to detail our Q1 orders on
+the February call, so you can have a complete set of data for your calendar 2016 models.
+Second, this stability gives us a unique opportunity to get closer to our customers and here's why.
+The technology road maps are getting harder. So, customers increasingly want to work with the
+most capable suppliers and we're the broadest and most capable. Today, our customers are
+asking us to engage earlier and ramp new enabling technologies much sooner and more
+aggressively. This costs money. But the more stable business environment gives us confidence
+that we can invest more in our customers' roadmaps and generate more attractive risk-adjusted
+returns.
+Number three, the stability helps us deliver higher, more predictable profits and increased cash
+flow. It's great for our financial stability. Eight weeks ago, we showed you our 2019 financial model.
+Some of you realize that we plan to generate substantial free cash flow well beyond what's
+needed to achieve our share count objective. We regularly evaluate the best means of returning
+excess cash to shareholders, and we know some shareholders value dividend growth as much as
+buybacks. We're evaluating our options for this additional liquidity, and we're monitoring the tax
+policy environment for any changes that could influence our thinking about the mix.
+Now, I'll shift gears and comment on our performance during Q4, our focus on our revenue and
+profits as compared to the same period last year. We grew company revenue by 39% year over
+year and more than doubled our non-GAAP earnings per share. We increased non-GAAP gross
+margin by 1.5 points year over year, and our spending discipline helped us to increase non-GAAP
+operating profit by 82% year over year.
+The non-GAAP tax rate was a little lower than expected due to a favorable geographic mix.
+At the segment level, we grew Semiconductor Systems revenue by 42% year over year and
+segment non-GAAP operating margin by 9.1 points. We increased service revenues by 13% year
+over year and non-GAAP operating profit by 1.9 points. And we grew display revenue by 92% year
+over year and non-GAAP operating profit by 10.9 points.
+Moving to the balance sheet, we delivered strong operating cash flow of $797 million in Q4 or
+24% of revenue. We grew total cash and investments to $4.68 billion after returning $279 million
+to shareholders through buybacks and dividends. For the year, we distributed 106% of free cash
+flow to shareholders. At year end, about 14% of cash and investments were onshore. The
+onshore balance has since increased to roughly 45%, reflecting the effects of intra-company
+transactions.
+Now, I'll provide our guidance for the first quarter of 2017. We expect our overall revenue to be
+close to the record levels set in Q4. Our expectation represents year-over-year growth of
+approximately 45% plus or minus 3 points. Within this outlook, Semiconductor Systems revenue
+should be near the 15-year high achieved in Q4. This forecast represents year-over-year growth
+of about 55% plus or minus 3 points.
+Services revenue is seasonally lower in Q1, but we expect it to be up by about 10% year over year
+plus or minus 2 points. And display revenue should be up by about 65% year over year plus or
+minus 10 points. Our non-GAAP earnings per share should be in the range of $0.62 to $0.70, the
+midpoint of which would be up by 154% year over year.
+As a reminder, Q1 of 2016 was a 14-week quarter. Since it's the first quarter of a new year, I'll help
+you with your modeling questions. In Q1, non-GAAP gross margin is likely to be up by about a
+point from 43.7% in Q4, reflecting very positive mix. For the full year, we expect gross margin toreach approximately 44%, which would bring us to within 60 basis points of the midpoint of our
+2019 model.
+Non-GAAP OpEx is likely to be $625 million in Q1 plus or minus $10 million. Our quarterly run rate
+in the balance of the year may be approximately $635 million, which remains below the model.
+Our non-GAAP tax rate is likely to be around 11%, which is at the model. And we'll continue to buy
+back shares to achieve the share count target in the model.
+In summary, we delivered new levels of revenue and profitability in 2016 and demonstrated the
+benefits of the strategy we've been working to implement over the past several years. But this is
+just the beginning. The industry is bigger and more attractive. Our opportunity set is larger, our
+customer relationships are stronger, and our new product pipeline is better than ever.
+We've raised the ceiling with our 2019 target financial model, and we're making excellent
+progress already. Our stronger performance is sustainable and we are confident in our ability to
+deliver increasingly predictable cash returns to our shareholders.
+Now, Mike, let's start the Q&A.
+`Michael Sullivan, Vice President-Investor Relations `
+Thanks, Bob. To help us reach as many people as we can, please ask just one question at this
+time. If you have an additional question later, please poll the operator and we'll do our best to
+answer it later in the call.
+Operator, let's please begin.
+Q&A
+Operator
+Certainly. Our first question for today comes from the line of `C.J. Muse, Analyst, Evercore Group LLC from Evercore.
+Q - `C.J. Muse, Analyst, Evercore Group LLC
+Good afternoon. Thank you for taking my question. I guess if you look back here or at least with
+the implied guide for calendar 2016 or for Q4, you're growing roughly 24-plus percent. And if you
+think about mix next year, I'm assuming growing display, growing NAND. How should we think
+about your relative outperformance to the rest of the industry?
+A - `Robert J. Halliday, Chief Financial Officer & Senior Vice President `
+Sure. In our fiscal year, not calendar year, next year, we think in semi, it's going to be healthier in
+general for the environment. We feel good about the environment and we're going to gain share.
+We don't want to give the expected numbers right now, but we're going to gain WFE share next
+year in a number of places.
+And then display, we see display revenues up a significant amount next year. And then we see
+the service business continue to grow. So, we'll outperform the markets we're in, but additionally,
+we think the markets are pretty good next year. Our outlook is WFE is up. Our outlook is that
+spending on display equipment is up and services will be good.
+Operator
+Thank you. And our next question comes from the line of `Toshiya Hari, Analyst, Goldman Sachs & Co. from Goldman Sachs.Q - `Toshiya Hari, Analyst, Goldman Sachs & Co. `
+Great, thanks for taking my question. Bob, you talked about 2017 WFE being up about $1 billion
+based on modest expectations for DRAM, China and NAND. Can you dig a little bit deeper into
+those three items and give a little color as to what you're assuming in the model?
+A - `Robert J. Halliday, Chief Financial Officer & Senior Vice President `
+Sure. Part of what we were answering there was that we think there's wind at our back into 2018
+too. So, if you look at 2017, we think NAND is up next year, we think foundry is strong, and we
+think logic is pretty good. DRAM up some next year, but what we don't see is high levels of
+absolute DRAM spending, because this year is not too big. What we're modeling, and we might
+be a little conservative, is not a big change in China spending. We think that hits more in 2018 if
+you just look at buildings and shells and stuff like that.
+We're big believers China is going to happen, but we think we have wind at our back in 2018
+based on a few things. We think China ramps a fair amount more in 2018. We think DRAM
+probably has upside in 2018, not to mention some of these alternate form memories we're
+starting to see early now. And thirdly, NAND by the end of next year is probably going to get to
+about 700,000 wafer starts and that's about $1.4 million. And we think all of that eventually gets –
+virtually all of that gets converted. So, we think there's still strong NAND spending in 2018.
+A - `Michael Sullivan, Vice President-Investor Relations `
+Thanks, Toshiya.
+Operator
+Thank you. And our next question comes from the line of `Harlan Sur, Analyst, JPMorgan Securities LLC from JPMorgan.
+Q - `Harlan Sur, Analyst, JPMorgan Securities LLC `
+Good afternoon and good job on the quarterly execution. One of the key takeaways from the
+analyst meeting was the order trajectory, right? So, specifically, book-to-bill as a leading indicator
+of the revenue and the earnings power momentum.
+Past four years, you guys have had book-to-bill greater than one and, obviously, clearly an
+indicator of the growth of the business. As you look at your customer and program pipeline for
+fiscal 2017, combined with your view on growth in flat panel and WFE industry spending growth, is
+2017 likely to be the fifth consecutive year of book-to-bill greater than one for the team?
+A - `Robert J. Halliday, Chief Financial Officer & Senior Vice President `
+Well, what we said earlier in the call was that we see our bookings continuing strong, but the
+volatility of bookings quarter-to-quarter, in particular, we're going to stop reporting bookings after
+Q1. We're going to give it to you in Q1. In Q1, we see up meaningfully. And what we mean by
+meaningfully is up more than strong double digits from Q4. So people have been worried that we
+peaked in Q3 bookings, down some in Q4. We see a strong Q1 and we see a strong year overall.
+So, we think the momentum is still with us and our revenues are going to be up and our share is
+going to be up next year.
+In terms of quarterly variability in orders, I'm not sure. In terms of book-to-bill next year, we don't
+have clarity on the second half because it's too early for us to tell. But we see a strong WFE year,
+share up, strong spending on display. Frankly, it's more strong in both those than we saw eightweeks ago. For instance, the large TVs are doing well, the Gen 10 stuff, the profitability of the
+display guys is good.
+So we see display as pretty darn strong next year. We see breadthening of demand for mobile
+display. You're up to 9 or 10 people trying to make OLED displays now for mobile. And then within
+WFE, we're getting a lot of pull from customers to increase production and shipments. So, we
+think overall, next year, we think we're going to have very healthy bookings whether it's where it
+is relative to 1, I don't know right now.
+A - `Michael Sullivan, Vice President-Investor Relations `
+Thanks, Harlan.
+Operator
+Thank you. And our next question comes from `Timothy Arcuri, Analyst, Cowen & Co. LLC from Cowen & Company.
+Q - `Timothy Arcuri, Analyst, Cowen & Co. LLC `
+Thank you very much. Bob, I'm curious on China, how much you're putting in. I know that you think
+China is sort of generally more of a 2018 thing than a 2017 thing, but I'm wondering if you can
+give us some numbers in terms of what is embedded in your WFE forecast next year for China
+versus what it was this year. Thanks.
+A - `Robert J. Halliday, Chief Financial Officer & Senior Vice President `
+I'll tell you what, Tim, I'll give you a sense of what's in the numbers, then I'll give you my qualitative
+assessment on the numbers. We think it's down a little bit next year, but – the numbers say it's
+down a little bit next year, but we think it's flat. So I think I'm probably conservative on that. So,
+what's buried in my numbers is down a little bit, but we think there's probably upside there to be
+honest with you. Gary is shaking his head that he definitely doesn't think it's down next year.
+A - `Gary E. Dickerson, President, Chief Executive Officer & Director `
+I would say that – Applied, we're strong in all regions including China and as we've talked about
+before, it's one of the strongest reasons in semi and display. Right now, it looks like 2017 is going
+to be roughly the same as 2016, but it's up a pretty significant amount from where we were a
+couple of years ago. 2018, we think could be meaningfully up above the 2017 forecast, so those
+are my thoughts.
+A - `Michael Sullivan, Vice President-Investor Relations `
+Thanks, Tim.
+Operator
+Thank you. And our next question comes from the line of `Atif Malik, Analyst, Citigroup Global Markets, Inc. (Broker) from Citigroup.
+Q - `Atif Malik, Analyst, Citigroup Global Markets, Inc. (Broker) `
+Thanks for taking my question and great job on the quarter, a question for Gary. Gary, thanks for
+the update on the patterning with the base and the bull case on EUV. And then on the display
+side, can you just give us a little bit of an update or a preview on what some of the new products
+that you're working on, on the OLED side, plan to achieve? Are these products meant to removethe supply chain bottlenecks, or do they target some of the cost of ownership or other
+technology challenges?
+A - `Gary E. Dickerson, President, Chief Executive Officer & Director `
+Sure, thanks for the question. Our strategy overall is inflection focused innovation and what we've
+talked about in display is an opportunity to triple our served market over the next few years. The
+team in display is really, really an outstanding team, driving innovative new products, targeting
+major customer inflections, and you can already see growth in display with thin film encapsulation
+and e-beam, two products that we've introduced in the last couple of years that are really
+generating meaningful revenue for the display business.
+And so, we're really continuing the same playbook. We're focused on inflections that are
+meaningful for our customers. We have very strong pull and investment from customers in these
+new products and high confidence that these new businesses will add meaningful revenue for
+our display business, and increased confidence that we're going to hit or exceed the model that
+we showed for 2019. We'll disclose more about the specific products in 2017, next year.
+A - `Michael Sullivan, Vice President-Investor Relations `
+And then I think Atif asked two questions, even though I asked for one, and I wonder if you could
+comment on the EUV.
+A - `Gary E. Dickerson, President, Chief Executive Officer & Director `
+Oh, sure. So, we talked about patterning at our investor meeting in New York and we see
+patterning as a great opportunity. We forecasted about a $3 billion TAM by 2019. And when we
+look at EUV adoption, we agree with others that the view of EUV is going to be mostly focused
+on vias and cuts and logic. So, when you look at the leading customer roadmaps, vias and cuts
+and logics is about 20% of the total patterning TAM. 80% of the TAM will continue to add multi-
+patterning and that gives us increased confidence in the $3 billion estimate that we had at our
+investor meeting.
+Basically, if you take the most aggressive EUV assumption for adoption, something like 10 layers
+adopted at 5 nanometer logic for vias and cuts, you come up to the $3 billion estimate. Of
+course, if it's not in this most aggressive assumption, then the TAM could be higher. And Applied
+is really in a great position to gain share. We talked about a $1 billion number in our model for
+2019 for Applied, and we have great confidence in that number.
+We already gained 15 points of share in patterning since 2012. We're forecasting at least 15%
+more between now and 2019, really great products in etch, in selective removal, CVD, ALD, CMP,
+really, really, really great new products, and we have line of sight to the 2019 model with many
+application wins and increasing customer pull for these innovative new products.
+A - `Michael Sullivan, Vice President-Investor Relations `
+Thanks.
+Operator
+Thank you. And our next question comes from the line of `Stephen Chin, Analyst, UBS Securities LLC from UBS.
+Q - `Stephen Chin, Analyst, UBS Securities LLC `Thanks. Hi, Gary and Bob. So, I have a follow-up question on your 2017 view on foundry, logic,
+WFE. Does your 2017 view assume there will be much foundry logic customer reuse the 10-
+nanometer equipment for the 7-nanometer node or does it assume limited equipment reuse for
+foundry/logic? Thanks.
+A - `Robert J. Halliday, Chief Financial Officer & Senior Vice President `
+Sure, we've had a couple questions on – peak questions on reuse. Let me give you some context
+on how we look at the business, then I'll answer your specific question, Stephen. We actually really
+believe three things. One: that the industry is growing more and more attractive in which we
+compete. Total spending is trending up and volatility is trending down in both WFE and in capital
+spending for displays.
+Secondly, Applied, I think, is trending up in terms of the breadth of our product offerings and
+reduced volatilities. We have the similar share across NAND, foundry, DRAM and logic. We're
+gaining share. We have a deep product pipeline. So, I think the second thing is the trend is the
+industry is looking good. The trend is Applied is becoming more and more attractive and less
+volatile.
+And third: those things combine to produce very predictable cash flow, which we can talk about
+later on the call, gives us opportunity to return cash to investors. In terms of risk, there's some
+replacement reuse in 10-nanometer and 7-nanometer in next year. I think it's pretty moderate,
+frankly. I think 10-nanometer is not going to be a big node. I think people are going to rush to go
+to 7-nanometer, but 10-nanometer devices are shipping next year, 7-nanometer a year after, so
+the ability to migrate equipment is somewhat limited.
+The second thing is the comparison everybody always gives is the 20-nanometer to 16-
+nanometer/14-nanometer migration. That was distinct in a couple ways. One, you had the biggest
+consumer of computer chips in the world switch from one vendor to another in a node. And
+secondly, you had gone from the last planar FinFET device to the first – last planar to the first
+FinFET, which really made the last device unattractive. So is there going to be reuse of some kind
+of equipment from 10-nanometer to 7-nanometer? Yes, I don't think its next year, and I think it's
+going to be much smoother than it was in 2015.
+A - `Michael Sullivan, Vice President-Investor Relations `
+Thanks, Stephen.
+Operator
+Thank you. And our next question comes from the line of Krish Sankar from Bank of America.
+Q - `Sreekrishnan Sankaranarayanan, Analyst, Bank of America Merrill Lynch
+Hi, thanks for taking my question. I'd like a two-part question, Bob. One, as you mentioned, the
+business is getting more seasonal versus cyclical. When you look at the order trend, you had a dip
+in orders for semis in your October quarter. Is that the seasonality you're talking about on a go-
+forward basis? And along the same path, when you look into calendar 2017, can you help us
+understand – dig a little more, deeper on how the WFE profile looks like first half versus second
+half for NAND, DRAM, foundry and logic?
+A - `Robert J. Halliday, Chief Financial Officer & Senior Vice President `Yeah, I do believe that, as we said on the call – the previous part of the call, I do think it's more
+seasonal than cyclical. We have a lot of data that shows it. So, for instance, even if you look, as we
+said, the script we got asked the most questions about at the Analyst Day was this average WFE
+spending since 2010 is up to like $31.7 billion, I think it is, with a volatility about $2.8 billion, versus
+2000. In 2009, it was like $25.5 billion with a volatility of $8 billion.
+I'll give you more details on that. If you look at memory as a sum, because virtually every
+customer makes DRAM and NAND, the average before 2010, one standard deviation, one sigma,
+was $6 billion on an average spend of $10.7 billion. Since 2010, it's $3 billion standard deviation on
+an average spend of $12 billion, when you put DRAM and NAND together.
+The second thing is, virtually every year since 2012, I think it is, it's up pretty much $1 billion to $2
+billion every year, total memory spending. Now, if you get lost in the weeds between DRAM and
+NAND, it's a little different. But the companies manage their budgets that way. They say, we're
+going to spend on DRAM this year and NAND that year, ramp this fab this year, the other fab the
+next year.
+And then on foundry, foundry spending before 2010, it was about $2 billion on an average. The
+standard deviation was $2 billion. FinFET is $1.5 billion on a spend of $12 billion, and the spend pre-
+2010 average $4.5 billion. So the magnitude of these standard deviations, the volatility is going
+down, okay? It really is. It's seasonal, non-cyclical.
+In terms of your specific question about – I guess it was about next year, we're not exactly sure. I'll
+give you some data for us. We think our number one – Q1 bookings were up. We think on the
+year, WFE is up. We think our share is up. I was just looking at the data. We think year over year,
+it's a chance that every quarter year over year is up. So I think it's less.
+In terms of the seasonality, you specifically asked on foundry. Historically, spending on WFE and
+foundry, foundry is the one that tends to be a little more seasonal because it's Christmas and
+Chinese New Year. They historically have taken equipment more March through August, like end
+of February through August, and then they might have another spurt if they need more later in
+the year.
+This year was a little different because one of our big foundry customers is trying to more level-
+load themselves and get a head start on 10-nanometer. So we had a little bit different cycle in
+terms of spending, because remember, 10-nanometer is not shipping until next year. And then
+the other thing that made this year a little different is there's just sustained demand for 3D
+NAND, so we had some at the beginning of the year. We have a pull at the end of the year.
+So the seasonality, which is more than cyclicality, is being mapped to a technology transition,
+which is very helpful too. And again, that's not so much cyclical, it's more of a technology trend
+that's going to go on for years.
+A - `Michael Sullivan, Vice President-Investor Relations `
+Thanks, Krish.
+Operator
+Thank you. And our next question comes from the line of `Farhan Ahmad, Analyst, Credit Suisse Securities (USA) LLC (Broker) from Credit Suisse.
+Q - `Farhan Ahmad, Analyst, Credit Suisse Securities (USA) LLC (Broker) `Thanks for taking my question. My first question is regarding the January quarter orders outlook.
+On the prior call, you had indicated that orders would be flattish in the January quarter from
+October. I just want to understand. What has improved, and how do you see the order trend by
+different segments within SSG?
+A - `Robert J. Halliday, Chief Financial Officer & Senior Vice President `
+I'm trying to get off my orders bad habit, but I'll try and help a little bit. What we said last quarter,
+to make sure we put a floor, because we had spiked up a lot in every metric you could measure
+the last few quarters, orders, revenues, EPS. We wanted to give people a sense, we were going
+to continue strong, that our share gains, our revenue growth, our operating margin expansion
+was sustainable.
+So what we said last quarter was hey, orders are not going to fall off a cliff. The number is going
+to start with a three in the next two quarters, Q4 and Q1. And in fact, they will start with a three.
+And in fact, the three was a little bit – we thought it would be a little higher in Q4, and some of
+those went into Q1. So we think we're up double digits in Q1. So it's probably a little bit timing and
+the magnitude is probably a little stronger because where we are getting pull is on some flash
+devices, stuff like that, 3D NAND. So it's strong and it's probably stronger even than we thought a
+few months ago.
+A - `Michael Sullivan, Vice President-Investor Relations `
+Thanks, Farhan.
+Operator
+Thank you. And our next question comes from the line of Romit Shah from Nomura.
+Q - `Romit J. Shah, Analyst, Nomura Securities International, Inc. `
+Yes, hi. Thank you. It just seems that AI, machine learning, and self-driving car adoption is coming
+along a lot faster than we thought at the start of the year. And we know these applications are
+iterative and very compute intensive. I'm wondering if this could be – all this could be an
+incremental driver next year for your memory and logic businesses.
+A - `Gary E. Dickerson, President, Chief Executive Officer & Director `
+I don't know about next year, but I would say that we are definitely increasingly bullish about the
+longer term. We've talked about five drivers in our model between now and 2019, these
+multiyear waves. So we're very confident in those drivers, and we talked about that in the
+prepared remarks. But I would say definitely increasingly bullish relative to the longer-term
+opportunity, as we're engaged with some of the leading technology companies around cognitive
+computing. Smart vehicles, you saw a big announcement from Samsung this week with an $8
+billion acquisition. There's an incredible amount of money being spent.
+And when you look at these drivers, VR, AR, smart vehicles, cognitive computing, all of these
+different areas, you need higher performance computing. And we had the CEO of one company
+that was here recently and we were talking about logic devices, what are the size of those logic
+devices going to be. And basically said as big as I can build them, as big as I can fit it into the
+reticle field.
+And he was also talking about the amount of memory that's going to be needed for some of
+these future applications, and it's much, much bigger than I think any of us could imagine. So Iwould think we are much more bullish about the longer term relative to the drivers for high-
+performance computing and for memory.
+I'm also bullish about the innovation pipeline that we have within Applied Materials. I really believe
+that the $500 million per year that we've moved in terms of innovation, we are already enabling
+people to design devices that they could not have dreamed of building a few years ago. And I
+strongly believe that the pipeline we have now, the best is still coming in that pipeline. So I'm
+really bullish about the market. Bob talked about where we compete being better, more stable,
+upward trajectory, less volatile. Applied is in the best position we've ever been in to enable all of
+these great big inflections to happen.
+A - `Michael Sullivan, Vice President-Investor Relations `
+Thanks, Romit.
+Operator
+Thank you. And our next question comes from the line of Joe Moore from Morgan Stanley.
+Q - `Joseph Moore, Analyst, Morgan Stanley & Co. LLC `
+Thank you. I wanted to ask about your multiyear commentary when you said you're still optimistic
+even beyond 2017. Can you talk about NAND in that context? And as you go through a very high
+capital intensity period of planar to 3D conversions and 3D greenfield, you'll get to the point
+where you're doing more layer count increases, which is less capital intensive. Shouldn't NAND
+turn into a headwind at some point in the next couple years? And how do you think about that in
+that multi-year context of overall WFE?
+A - `Robert J. Halliday, Chief Financial Officer & Senior Vice President `
+Sure, Joe. This is going to be a historic day. I'm going to use phraseology on this in the next
+minute that's never been used by a CFO in an American public company before, so hold on. So I
+have a couple of slides in front of me that shows the demand for solid-state disk drive market
+growth in both enterprise and PCs. So these numbers, you can argue them a little bit, but I think
+they're in the ballpark.
+So 2015, there was about 12 petabytes of demand for solid-state disk drives in enterprise. That
+goes up to almost 120,000 petabytes in 2020. So it goes from 12,000 to 120,000, okay? And on
+the PC side, in – what did I say, 2015, it's about 20,000 going to 140,000 petabytes in 2020. Let
+me give you another way to look at those. Our estimates that the penetration across all PCs,
+including workstations, notebooks in 2015 was 21.8% and was only 15% in 2014, up to 31.6% of
+those have solid-state disk drives going to 77.5% in 2020.
+And if you go look at the enterprise servers, this year, it is about 20%. It was 14% of all of them in
+2014 and we see it going to 26% in 2020. So, again, the total petabytes, I'll use that word again,
+is going up over 100,000 petabytes from 2016 to 2020 in each PCs and enterprise. So, the
+demand is there. They're expanding the addressable market for NAND.
+So, other data I have seen is that for servers alone, you might have to add 500,000 wafer starts
+of capacity and your average NAND fact of 100,000 costs about $5 billion or $6 billion, say, $5
+billion, $6 billion. So that's about $25 billion, $30 billion. And upgrades are about another $25
+billion to $30 billion. So you could have $50 billion to $60 billion of spending, and that's cross-
+calibrated, over the next sort of five years maybe, 2020 type data, four or five years. So, if youtake it over four years, that's like you're going to be $50 billion, I would say. So it's over $10 billion
+a year, okay? So we've upped this year's forecast.
+Next year, we're over I think $11 billion and change, and I'm not sure it doesn't stay at $10 billion
+and more for a few years to come, because we're kind of looking at the end user demand for
+solid-state disk drives, penetrating hard disk drives by market. We're looking at capital intensity
+and we're getting feedback from customers. And in the short term, they're shipping everything
+they can build.
+So, what's the point? I think the NAND build-out goes on for a while and I think people
+underestimate because the other thing is they're going to convert the 2D to 3D because they're
+not going to be able to sell the 2D, and that will drive them to sell even more 3D and hit cost
+points that eat into the hard disk drives even faster. So, I think there's a bunch of ways you can
+get a number that could be $10 billion for a while.
+A - `Michael Sullivan, Vice President-Investor Relations `
+Great. Thanks, Joe.
+A - `Gary E. Dickerson, President, Chief Executive Officer & Director `
+And I'd like to say that I was proud to use the word petabytes today.
+Operator
+Thank you. And our next question comes from the line of `Patrick Ho, Analyst, Stifel, Nicolaus & Co., Inc. from Stifel Nicolaus.
+Q - `Patrick Ho, Analyst, Stifel, Nicolaus & Co., Inc. `
+Thank you very much. Bob, maybe if you could just clarify, again, the growth that you're expecting
+in total display spending in 2017. Is that incrementally because of the Gen 10.5 build-out that
+you're seeing? Or are you also anticipating a further increase in OLED spending next year?
+A - `Robert J. Halliday, Chief Financial Officer & Senior Vice President `
+I think we're seeing a few things. In actual spending, I think probably we're up more – we have a
+slide on that somewhere. I think we're up probably more in TVs versus what we thought two
+months ago. We think that there's huge demand for OLED from mobile. The question is how fast
+can they ramp it? I think it's a question of supply more than demand. I think on TV, they can ramp
+the big TVs and they're going to ramp them pretty aggressively, particularly in China. This Gen
+10.5 is ramping. There's going to be more to come after that.
+So, we're up to over $16.5 billion next year for display CapEx. I don't have the numbers from two
+months ago, but the growth is in both, but I think the thing that's bigger in two months for us is
+the TV because the TV sizes are coming bigger than we thought, the individual TV sizes, and the
+profitability is quite strong in the TV panel business, which is a leading indicator of spending, and
+then these big fabs. So, I think they're both very healthy, but I think the increase in space is
+probably a little bit more on the TV side.
+A - `Michael Sullivan, Vice President-Investor Relations `
+Thanks, Patrick.
+OperatorThank you. And our next question comes from the line of `Edwin Mok, Analyst, Needham & Co. LLC from Needham.
+Q - `Edwin Mok, Analyst, Needham & Co. LLC `
+Hi. Thanks for taking my question. My question is on the DRAM side. Bob, you sound a little more
+conservative on DRAM, but we've seen your pricing improve and some talk about customer
+looking to moving into next node. Are you just being conservative or have you – what are you
+hearing from the customer and are you seeing signs that maybe they'll start moving onto the
+next node?
+A - `Robert J. Halliday, Chief Financial Officer & Senior Vice President `
+Yeah, we think DRAM is up some next year, but we think most customers who make DRAM and
+NAND are assuming a priority on NAND right now because they're seeing an expansion in their
+addressable market for NAND, number one. Number two: it's a competitive situation that they
+don't want to miss that growing market. And DRAM, their pricing is pretty good, so I think their
+capital dollars will go to NAND.
+A - `Michael Sullivan, Vice President-Investor Relations `
+Thanks.
+Operator
+Thank you. And our next question comes from the line of `Jerome Ramel, Analyst, Exane BNP Paribas from BNP Paribas.
+Q - `Jerome Ramel, Analyst, Exane BNP Paribas `
+I'd like to know what is your assumption in terms of in-store capacity with (53:24) 10-nanomter
+node from next year.
+A - `Robert J. Halliday, Chief Financial Officer & Senior Vice President `
+Could you...
+A - `Michael Sullivan, Vice President-Investor Relations `
+Jerome, our line was quiet for a moment. It sounded like you were talk about 10 nanometers and
+was it the capacity at the end of the year or something? Sorry, we couldn't quite here.
+Q - `Jerome Ramel, Analyst, Exane BNP Paribas `
+Yeah, yes.
+A - `Michael Sullivan, Vice President-Investor Relations `
+Can you please just repeat? Thank you.
+Q - `Jerome Ramel, Analyst, Exane BNP Paribas `
+Yeah. Can you share with us what is your assumption for the 10 nanometer node capacity that you
+have at the end of, let's say, Q4 2017 for the industry?
+A - `Robert J. Halliday, Chief Financial Officer & Senior Vice President `Sure. The chart I'm looking at, we put – I'll give you what I have easily available, okay? The
+spending in 2016 in foundry, 59% is, we think, estimating 2016 is for 10-nanometer/7-nanometer
+and about the same percentage next year, because you're still seeing strength at some of the
+trailing-edge stuff, 28-nanometer and – particularly 28-nanometer is pretty strong still. In fact, we
+think it might be up next year. And then, in terms of the split between 10-nanometer and 7-
+nanometer, the total capacity between 10-nanometer and 7-nanometer is around 70,000 –
+80,000 wafer starts at the end of this year, but 110,000 to 130,000 in the next year. I think the
+vast majority of that's 10-nanometer.
+A - `Michael Sullivan, Vice President-Investor Relations `
+Yeah. Thanks, Jerome.
+Operator
+Thank you. And our next question comes from the line of `Mehdi Hosseini, Analyst, Susquehanna International Group from Susquehanna.
+Q - `Mehdi Hosseini, Analyst, Susquehanna International Group `
+Yes. Thanks for taking my question. You sound really positive regarding the demand drivers and
+you're going to stop providing booking numbers on a quarterly basis. So, if you're so confident,
+why not provide an annual revenue and earnings target so that we can better track these multi-
+year cycles that you're going through?
+A - `Robert J. Halliday, Chief Financial Officer & Senior Vice President `
+We never have in the industry. I'm not going to start now. We don't give guidance out a year.
+Q - `Mehdi Hosseini, Analyst, Susquehanna International Group `
+But you stopped providing booking, so...
+A - `Robert J. Halliday, Chief Financial Officer & Senior Vice President `
+But here's what we gave you. We gave you a 2019 model that gave you a WFE assumption,
+revenue assumption by product, share assumptions. We told you in the Analyst Day that our
+share gains were almost linear from now through 2019 and we told you that our service business
+was going to grow almost linearly by year. And we told you that display was going to be growing
+up to that number too. So, our growth in revenue from 2015/2016 to 2019, we think is pretty
+straight line. Now, giving absolute numbers a year in advance? We don't have that level of
+precision.
+Operator
+Thank you. And our next question comes from the line of Tom Diffely from D.A. Davidson.
+Q - `Thomas Robert Diffely, Analyst, D. A. Davidson & Co. `
+Yeah. Good afternoon. When you look at the next few years and a lot of the growth coming from
+both the flat panel OLED as well as China, what impact does that have on your both cost
+structure and your margin structure?
+A - `Robert J. Halliday, Chief Financial Officer & Senior Vice President `
+I'm sorry, Tom. Could you repeat it, please?Q - `Thomas Robert Diffely, Analyst, D. A. Davidson & Co. `
+Yes, when you look at growth coming specifically from a couple of large markets like the OLED
+and China, what impact does ramping revenue in those particular markets do to your cost
+structure and margin structure over time?
+A - `Robert J. Halliday, Chief Financial Officer & Senior Vice President `
+I'll give it a shot. In terms of – okay, if you want to look at cost structures applied, most of our
+sales are related to physical products we sell and they share common factories which are
+predominantly in Singapore and the U.S. So the material cost, product cost is similar. And then
+Taiwan is a big source for our displays. So, the material cost structures and supply chains are
+worldwide. So wherever we sell them doesn't matter too much for us. In terms of differentiation
+and mix, which sometimes drive gross margins, different device customers use different mix of
+our hardware and products.
+In terms of OLED, we look at the OLED display market for our existing products as being similar
+margin profiles to our TV markets and by regions similar. The opportunity for us on margin is the
+new products we're going to be introducing the next couple of years in display, which we think
+are very highly differentiated and very attractive products which have upside for us. In terms of
+margins by region, it goes predominantly to mix of products, but historically, we provide a high
+level of service to customers in China, and so we usually do well in terms of share there in
+particular.
+A - `Gary E. Dickerson, President, Chief Executive Officer & Director `
+Yeah, the incremental operating profit, if we look at China, is pretty good for us. We have a very
+strong position, really great relationships and a really great team supporting customers, both
+multinationals and the domestic companies. And also, the incremental profit for us in display is a
+positive for the company overall.
+A - `Michael Sullivan, Vice President-Investor Relations `
+Great. And then, operator, I think we have time for just one more question, please.
+Operator
+Certainly. Our final question for today comes from the line of Jagadish Iyer from Summit
+Redstone.
+Q - `Jagadish K. Iyer, Analyst, Summit Redstone Partners LLC `
+Yeah. Thanks for taking my question. Bob, I'm just trying to reconcile on the flash segment. We
+had a good spreading this year, but why were your orders essentially flat between fiscal 2015 and
+fiscal 2016? I understand its fiscal year, but what does it mean for fiscal 2017, given the spending
+that you are seeing for the flash? Thanks.
+A - `Robert J. Halliday, Chief Financial Officer & Senior Vice President `
+We had one particular customer in 2015 that gave us orders pretty far in advance because they
+wanted to lock in capacity deliveries from us. So, I think that was the aberration. I think the trend
+line is up. If you look at total WFE, it's up for flash and if you look at – our sales are up and,
+probably, they're up next year too. So, a little bit in 2015, one particular customer in particularA - `Michael Sullivan, Vice President-Investor Relations `
+Thanks, Jagadish, for your question. And, Bob, would you like to summarize before we close the
+call?
+A - `Robert J. Halliday, Chief Financial Officer & Senior Vice President `
+Sure. It seems like a year ago, but we only had Analyst Day about six weeks ago, maybe a little
+more, in New York. And I have to say, even in the last eight to nine weeks, I increasingly believe
+that the industries we serve are becoming more and more attractive and growing and more
+diverse and less volatile.
+Gary talked about some of the demand drivers for our customers, whether it's autonomous cars,
+it's virtual reality, it's AI, big data. You really feel this being driving in Silicon Valley. You see it
+everywhere. We had some of the CEOs of these companies come in and talk to us and it's real,
+it's happening. Look at some of the highest performing stocks in the space this year, that's what's
+driving them.
+So, one, the industries we serve, and display is also that way, where it's kind of doubled in terms
+of spending, are becoming more and more attractive and more demand drivers, which makes
+them less volatile for us. Second, Applied is performing better. I think we are more and more
+becoming more and more innovative and executing better and there's compounding benefits
+from that. So I think that results in us in a broad range of opportunities. Our biggest problem is
+just picking and choosing among good opportunities at this point. So Applied is becoming
+broader, more diverse, and less volatile. And more predictably we're going to do better, all right?
+And then finally, those two things combined and potential with tax legislation that there's a really
+good opportunity to return superior cash returns to investors, including which we've said – I think
+we said earlier today that we were conservative in the financial model we showed eight weeks
+ago in terms of the cash and we kept a little bit of conservatism in the cash in the model because
+we want to be opportunistic if there was tax law changes that we could return even greater
+returns to investors.
+So I think the industry is becoming more diverse and less volatile and more attractive in terms of
+growth, more drivers, Applied is becoming that way, and the leverage down to the cash line,
+especially if you get some tax legislation that's attractive is a pretty powerful combination for
+Applied.
+A - `Michael Sullivan, Vice President-Investor Relations `
+Great. Okay. Thanks, Bob, and we'd like to thank everyone for joining us this afternoon. A replay
+of this call will be available on our website beginning at 5:00 PM Pacific Time today. So, thank you
+for your continued interest in Applied Materials.
+Operator
+Ladies and gentlemen, thank you for your participation in today's conference. This does conclude
+the program and you may now disconnect. Everyone, have a great day.

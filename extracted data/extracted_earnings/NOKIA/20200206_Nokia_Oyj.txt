@@ -1,0 +1,695 @@
+Y 2019 Earnings Call
+
+Presentation
+Operator
+Hello, and welcome to the Nokia Fourth Quarter and Full Year 2019 Earnings Conference Call. All
+participants will be in listen-only mode. (Operator Instructions) After today's presentation, there
+will be an opportunity to ask questions (Operator Instructions)
+I would now like to turn the conference over to Mr. `Matt Shimao, Head of Investor Relations, Head of Investor Relations. Sir,
+you may begin.
+`Matt Shimao, Head of Investor Relations `
+Ladies and gentlemen, welcome to Nokia's fourth quarter and full year 2019 conference call. I'm
+`Matt Shimao, Head of Investor Relations, Head of Nokia Investor Relations. `Rajeev Suri, President and Chief Executive Officer, President and CEO of Nokia; and
+`Kristian Pullola, Chief Financial Officer, CFO of Nokia are here in Espoo with me today.
+During this call, we'll be making forward-looking statements regarding the future business and
+financial performance of Nokia and its industry. These statements are predictions that involve
+risks and uncertainties. Actual results may therefore differ materially from the results we currently
+expect. Factors that could cause such differences can be both external, such as general,
+economic and industry conditions, as well as internal operating factors. We have identified such
+risks in more detail on Pages 60 through 75 of our 2018 Annual Report on Form 20-F, our Financial
+Report for Q4 and full year 2019 issued today, as well as our other filings with the US Securities
+and Exchange Commission.
+Please note that our results release, the complete interim report with tables, and the
+presentation on our website, include non-IFRS results information in addition to the reporteddetailed explanation of the content of the non-IFRS information and a reconciliation between the
+non-IFRS and the reported information.
+With that, Rajeev, over to you.
+`Rajeev Suri, President and Chief Executive Officer `
+Thanks, Matt, and thanks to all of you for joining. I would like to start my remarks today by talking
+about the two areas where we will have a particularly sharp focus this year, executing in Mobile
+Access and strengthening cash generation. I will then come back to an overview of our fourth
+quarter and give you some more color on our results and what we see going forward.
+Executing in Mobile Access and strengthening cash generation are the two most pressing issues
+that we face. Since we announced our third quarter results, we have listened carefully to you, our
+investors and many other stakeholders. We are committed to improving our performance. And
+based on the feedback we have received, are taking steps to provide greater transparency on
+progress against the commitments that we have made.
+Before going into the details, however, let me make two additional upfront comments. First,
+despite our strong fourth quarter results, we still have plenty of work to do, particularly in Mobile
+Access. We expect to make meaningful progress over the course of the year, and as I said a few
+months ago, expect our turnaround to have firmly taken hold by the end of this year. Second,
+while we are very focused on addressing the areas where we need to improve, we saw robust
+performance in many other parts of the company in both the fourth quarter and full year 2019.
+On a full year basis, IP routing continued its strong momentum, gaining significant market share
+and improving profitability. Nokia Software delivered on its promise, with an operating margin that
+was up sharply from 2018. Nokia Enterprise also delivered exceedingly well, hitting its double-digit
+sales growth target and considerably outperforming the market. And Nokia Technologies
+increased its already excellent profitability. While all of this is good, we are well aware of the fact
+(Technical Difficulty) Mobile Access is not performing well, Nokia as a company will struggled to
+perform well. So let me turn to that now.
+To start, let me just be clear about terminology. When I talk about Mobile Access, I'm talking
+about the combination of our product-focused Mobile Networks business group, and our Global
+Services organization. This is the right grouping to look at overall mobile performance given the
+close linkage between the two. In our earnings release, we report net sales for Mobile Access for
+precisely this reason. Within Mobile Access, our focus is on four key areas: first, improving
+profitability through consistent product cost reductions; second, maintaining scale to be
+competitive; third, enhancing commercial management and deal discipline; and fourth, further
+strengthening operational performance in services.
+Let me talk more about each of these topics, starting with improving profitability through
+consistent product cost reductions, which are essential to improving our Nokia level gross
+margins over time. We are highly competitive in 4G and are consistently rated as having the best
+performing 4G networks in North America, Europe, and other parts of the world by third-parties
+such as RootMetrics, Tutela and others. But as we discussed last quarter, we are facing
+challenges with higher radio product costs in the early stages of 5G.
+Our teams in Mobile Networks, procurement, and others, are working hard to optimize those
+costs by addressing every possible part of product bill of materials, including semiconductors,
+were a transition to system-on-chip is critical. We are making the right progress, but it will take
+time for those results to show in our financial performance. There is typically about a six-monthlag when a new cost optimized product is shipped and when it starts to impact the financials.
+Volumes need to increase and deployments need to take place.
+To address our 5G product cost issues and meet higher performance requirements, we have
+started rolling out Nokia's new system-on-chip 5G Powered by ReefShark base station portfolio.
+These new products made up about 10% of our 5G product shipments in Q4 2019, and we
+expect that number to increase progressively over the course of the year, ending at more than
+35%. For full year 2021, we would be in the range of 70% and the transition would essentially be
+complete in 2022.
+To give you visibility to how we are performing, we will give quarterly updates this year on the
+percentage of 5G Powered by ReefShark base station shipment will flag any issues that we see,
+both positive and negative. As of today, we are tracking against our plan and have seen some of
+our SoC development proceeding slightly ahead of schedule. This is complex work, however, so
+there is always a risk of issues or delays. That said, we are now shipping our 5G Powered by
+ReefShark Massive MIMO product, which launched at the end of 2019. Volumes will ramp up over
+the first half of the year as new variants are added, and we expect to have a full lineup of 5G
+Powered by ReefShark Massive MIMO by the end of the second quarter.
+New 5G ReefShark based products will continue to come and we saw the successful tape-out of
+two new chips in January. As I'm sure many of you know, tape-out is the final step of the design
+process before chips have sent to be manufactured into engineering samples for product
+integration and testing. We're also making good progress on the next releases of 5G software
+with integration and verification, showing improving quality and maturity compared to earlier
+releases. These efforts have been boosted by both added R&D headcount and better
+productivity. In short, we are tracking well, but there is still plenty of work to do.
+The second issue I want to discuss is maintaining scale and specifically scale related to mobile
+radio products. We expect that when all the results are in, Nokia will have a 4G plus 5G market
+share in the range of 27% for 2019, excluding China. While this means we lost some share in the
+year in this part of our overall primary addressable market, we expect to stabilize at
+approximately the same level, 27% for 2020. Normal footprint fluctuations, of course, are always
+possible but we have and expect to continue to have the necessary scale to be competitive.
+One reason we have that confidence is that our 5G win rate remains strong. This metric factors in
+customer size and measures how we are doing in converting our end of 2018 4G footprint, as
+well as adding new 5G footprint where we did not previously have a 4G installed base. At the end
+of the fourth quarter 2019, our 5G win rate was over 100% excluding China, and in the mid-90%
+range, including China. Reflected in this overall performance, we have seen gains in Korea, Japan
+and the Middle East, offset by some losses including in limited parts of Europe.
+In addition, we added two new communication service provider customers, where we do not
+currently have a 4G footprint. One of those being the publicly announced deal with Vodafone
+Hutchison Australia, the other is a European operator that is not public. In short, outside of China,
+our position remains strong with customers where we have an existing 4G base and we've added
+some new 5G customers as well. As of today, we have 66 5G deal wins and 19 live networks
+deployed. Pleasingly, we also added two new enterprise 5G customers, including Deutsche Bank.
+So that you can track our progress going forward, we will give quarterly updates on our win rate,
+as well as a qualitative view on customer developments that we are seeing. While the win rate is
+a good way to look at longer-term developments, near-term outcomes will be impacted by
+things like purchase orders, network rollout, timelines, deliveries and customer acceptances.As additional background, three comments. First, we are focused on 4G plus 5G share figures as
+that is the best way to assess the question of scale and purchasing power. It is also increasingly
+difficult to disaggregate the two technologies' products like Massive MIMO can be used for either
+one.
+Second, we are looking at our 4G plus 5G share, excluding China, given that pursuing share in
+China presents significant profitability challenges and the market has some unique dynamics. As
+you know, we are a long-term player in China, and it worked hard to meet requirements in the
+country, including support for the TDS-CDMA standard, when no other Western vendor stepped
+up. We will continue to engage with our operator customers in China to support their 5G
+ambitions, but what we do with them needs to work for Nokia as well.
+I want to be very clear that we are not backing away from China, but simply executing against a
+clear strategic goal to improve our overall business mix in the country. This means that we will be
+prudent in 5G, while targeting more attractive opportunities with service providers in core,
+routing, transport, fixed access, and our current 4G business, as well as with enterprise and web
+scale customers. We still expect to be a sizable player in China well into the future, and with the
+procurement round still to come, our final position in 5G will only be clear in time.
+Third, I want to emphasize that if you look at our performance in 2019 against our total primary
+addressable market, excluding China, we were in line with market growth. The losses in mobile
+radio that I just mentioned were largely offset by gains in IP routing, optical, and mobile packet
+core.
+The next focus area in Mobile Access is enhancing commercial management and deal discipline.
+Over the course of 2019, we have put in place strengthened commercial management processes
+designed to drive better performance in current contracts and improve outcomes in new ones.
+Deal decisions now include a sharp focus on cash and return on capital employed metrics,
+improved contractual terms and formal upsell commitments, as well as our standard revenue and
+margin requirements. We've also reviewed projects and customers that do not perform to our
+standard and have identified levers to enable better future outcomes. In some cases, there are
+projects where we will renegotiate terms, and in fact, there are some where we are already
+doing so. As expected, these new processes have already generated meaningful margin
+opportunities for Nokia in 2020 and we have included these into targets for sales teams and
+others.
+Finally, further strengthening operational improvements and services, where as I've noted before,
+a turnaround is starting to take hold as we increase operational discipline and enhance our efforts
+to manage for margin and cash. I'm pleased that we saw progress in our Global Services
+operating margin in full year 2019 compared to 2018, even if we are still below what we believe
+we can achieve. I also expect progress to continue in 2020 given better execution, although we
+will have some headwinds given a roughly similar level of network deployment services as in 2019
+as new 5G builds proceed.
+Improvements in 2019, particularly in the second half, were driven by a number of things, including
+turnaround of poorly performing projects, strict execution discipline and enforcement of standard
+delivery models resulting in fast -- first time right network deployments, investments in
+digitalization and automation driven productivity, which are starting to show results, the exit of six
+low margin managed services deals, tighter control of inventories, and strengthened capabilities
+in new customer and higher margin growth areas. All of this work should be reflected over time in
+our Networks' gross margin as the drivers and actions I just discussed take hold.So to conclude on Mobile Access, we will start to provide regular updates on: one, progress on
+improving 5G product cost through a transition to our 5G Powered by ReefShark portfolio; two, a
+qualitative assessment of progress against our goal to stabilize our 2020 4G plus 5G market
+share level, excluding China, at a similar level to 2019; and three, our 5G win rate, which is a good
+proxy for our longer-term 5G market share position.
+Now let me turn to our second focus area of strengthening cash generation. We saw solid cash
+performance in the fourth quarter, with a EUR1.4 billion increase in our net cash position, allowing
+us to end the year with a net cash balance of EUR1.73 billion. We expect 2020 to be free cash
+flow positive. As we noted in our third quarter announcement, our Board said that it expects to
+resume dividend distributions after Nokia's net cash position rises to approximately EUR2 billion.
+Given typical cash seasonality, we would not expect to reach that level in the first three quarters
+of this year. Should we exceed the EUR2 billion level after that point, the Board will assess the
+possibility of proposing a dividend distribution for financial year 2020.
+In his remarks today, Kristian will give a deeper perspective on the drivers of cash this year, where
+we faced some particular headwinds related to Nokia Technologies and restructuring. We have a
+structured program in place, including a centralized volume to drive a company-wide focus on
+free cash flow and release of working capital. Project asset optimization, strengthened
+contractual terms with customers and suppliers and reinforced controls across our supply chain
+and management of inventory. With the work we did in 2019, we were able to reduce inventories
+in the fourth quarter to the lowest level since the first quarter of 2018. Going forward, we have
+further increased the weight of cash targets in the incentives, not just for Nokia senior leaders,
+but for many on the front line with customers. We expect this change will ensure that we maintain
+our momentum in this critical area.
+Kristian will also talk about how we will adjust our approach to earnings per share guidance, but
+now let me turn to the fourth quarter where we delivered strong results. While Nokia level
+constant currency, net sales were down, we slightly increased operating margin compared to the
+same period last year, generated strong free cash flow, and increased our net cash balance to
+EUR1.73 billion, as I said.
+Despite the generally good performance in the quarter, our Networks' gross margins where we
+face challenges coming in at 34.2% for Q4 2019 versus 36.3% in Q4 2018. On a full year basis,
+Networks' gross margin was 30.6% for 2019, compared to 34.7% in 2018. On a full year 2019
+basis, Nokia level net sales were up 1% in constant currency globally, and 5% excluding China. And
+our non-IFRS operating margin was down about 1 percentage point versus 2018. We remain on
+track with cost reduction initiatives relative to our commitment to reduce 2020 cost by EUR500
+million compared to 2018. In 2019, we achieved EUR200 million of recurring cost savings as
+expected even when you exclude the savings benefit from the release of employee incentives.
+We did this despite facing considerable currency exchange headwinds of EUR125 million.
+Even though I've already addressed Mobile Access, let me talk briefly about the Q4 performance
+in our other business groups, starting with IP and Optical Networks or ION. Overall, our
+momentum in this business was very good. ION's best quarter ever in terms of both absolute
+profits and profitability, and one of the best as far as sales go. Our FP4 product leadership in IP
+routing, combined with the power of the global Nokia sales channel helped deliver constant
+currency growth of 6% in the quarter and 12% for the full year, excluding the video business that
+we're exiting. At a time when the routing market is declining, we are clearly gaining share while
+also improving profitability.Optical Networks had a good year and fourth quarter. Constant currency Q4 sales rose 16% year-
+on-year, and profitability increased meaningfully for the full year. Even if there is plenty of work still
+to do, including continuously reducing product costs, we can now say with confidence that we are
+one of the scale players in Optical. Pleasingly, our leading PSE-3 chipset is shipping in volume and
+has already been deployed in the first direct optical connection between the USA and Africa with
+Angola Cables.
+Next Nokia Software, where our underlying performance has also been strong. Profitability, as I
+said, was very good with full year operating profit, that was up sharply by 31% compared to 2018.
+Software sales were down in the fourth quarter and slightly for the full year on a constant
+currency basis, but I want to make two points to put those results in context. First, we had a tough
+compare in the fourth quarter, given that the same period in 2018 was Nokia Software's strongest
+top line quarter on record. Second, on a full year basis, software grew in every region except
+China and India. As you know, we report India as part of the Asia-Pacific region. Overall, I remain
+confident that the trajectory is in the right direction for our Software business
+Then Nokia Enterprise. I talked on previous calls about a goal of double-digit growth for full year
+2019, and the team delivered that. Constant currency year-on-year net sales growth was 33% in
+Q4 and 18% for the full year versus 2018. Q4 and full year 2019 absolute profits and profitability
+both improved year-on-year. For 2020, we are aiming for double-digit sales growth again.
+Importantly, for a business in growth mode, we added nearly 40 new customers in Q4, including
+Microsoft to close with 122 new logos for the year, excellent growth.
+Two important things for you to consider when assessing our Enterprise business. First, we have
+moved quickly to grow the business from less than 5% of our total revenue to about 7% in 2019. If
+we maintain our trajectory, I see no reason why we cannot get to 10% and even beyond. Second,
+while we have been very successful in leveraging our routing and optical portfolios in the
+Enterprise, we are now seeing rapid uptake of our wireless capabilities. We more than doubled
+the number of private wireless customers in 2019 to around 130 in total and see continued robust
+demand in the market.
+Next Fixed Networks, which continues to face challenges in the market transition from copper to
+fiber as I have noted before. We saw some initial signs of progress in Q4, including a lower
+decline rate in constant currency year-on-year sales and strongly improved profitability compared
+to the first three quarters of the year. On a full year basis, however, the results from Fixed were
+disappointing. We continue to have a sharp focus on costs and have targeted selective expansion
+in new areas, particularly Fixed Wireless Access, where the pipeline is robust.
+Finally, even though Nokia Technologies sales were down in both Q4 and full year 2019,
+profitability remained robust with a 320 basis point increase in operating margin for the full year
+compared to 2018. Excluding 2018, revenue from our divested Digital Health business, licensing
+revenues in 2019 were roughly stable. Our existing license agreements provide us with some
+near-term stability in this business, and as renewal deals come up, we will be adding our strong
+portfolio of 5G patents into the current licensing package of earlier generations of mobile
+technology. We believe these new patents have meaningful value for us to tap in the future.
+With that, let me turn to giving a regional perspective and to first say that we expect that when all
+the results are in, we will have gained share in our primary addressable market in every region
+with the exception of China and Asia-Pacific.
+Asia-Pacific, while very strong in many countries, was impacted by India, more on that in just asee all of the operators report their 2019 CapEx. On a constant currency full year 2019 basis, we
+saw sales increase in Asia-Pacific, Europe, Latin America and North America. Sales were down for
+the same period in Middle East and Africa by 2%, but that was still a good performance in the
+context of challenging market dynamics. It is also pleasing to see that we have now been chosen
+by early adopter operators in the leading 5G markets from Sprint and Verizon in the US, to
+SoftBank in Japan, to Korea Telecom in South Korea amongst others. In addition to being
+selected by Orange, France, and O2 in the UK.
+I've already talked in detail about China and would now like to share some more color on North
+America and India. With 5G deployments progressing in 2019, North America saw 1% constant
+currency sales growth for the full year, despite a 5% constant currency decline in the fourth
+quarter. Uncertainty related to the announced operator merger where we have a large footprint
+has continue to present challenges. And as I said last quarter, we cannot predict when this
+situation will be resolved. We ended the year having launched 5G networks in many US markets
+and expect that progress to continue in 2020.
+Next, India, which we report as part of the Asia- Pacific region and which is a country where we
+have a long history and robust share. As I'm sure you know, India's telecom sector is in the midst
+of some serious turbulence. A general market slowdown after multiple years of heavy 3G and 4G
+investments by operators was exacerbated when the Indian Supreme Court recently ruled that
+operators need to pay large accumulated financial liabilities dating back several years. Like other
+companies in this market, Nokia is now trying to fully understand the full potential impact of these
+developments and their impact on customer demand and overall market risk. It is too early to say
+how the situation will play out, but it is certainly an area that we are watching closely
+With that, let me turn the call over to Kristian.
+`Kristian Pullola, Chief Financial Officer `
+Thank you, Rajeev. I will take a different approach today than in previous quarters. I will start with
+cash, as this is what we do internally nowadays in all our meetings to remind the organization of
+the focus needed; I will then continue with a brief summary of our financial results for Nokia
+Technologies and Group Common and Other; then take a look at Group level results in Q4 and
+full year '19; and finally, I will quickly provide an update on our cost savings program and close with
+some remarks on our guidance.
+Okay. Let's start with our cash performance in Q4. On a sequential basis, Nokia's net cash
+increased approximately EUR1.4 billion to a quarter-end balance of approximately EUR1.7 billion.
+The higher than expected cash balance was partly driven by lower than expected restructuring
+cash outflows were approximately 100 million, moved from '19 to '20. Free cash flow was positive
+EUR1.4 billion in Q4, primarily driven by operating cash flow, which benefited from a solid adjusted
+net profit, net cash inflows from net working capital, and a one-time benefit as a result of settling
+certain interest rate derivatives. This one-time benefit totaled EUR190 million, of which EUR160
+million positively impacted free cash flow and EUR30 million positively impacted cash from
+financing activities. These inflows were partly offset by outflows related to CapEx, restructuring,
+cash taxes, and a convertible loan to one of our partners.
+To give a bit deeper -- to dive a bit deeper into net working capital. Excluding restructuring cash
+outflows, we generated EUR320 million from net working capital, primarily driven by EUR680
+million decrease in inventories as expected. There were two key parts to achieving this. First, our
+solid Q4 net sales enabled us to reduce our previously existing inventories in accordance with our
+plans. Secondly, our efforts to optimize our incoming inventories has kicked in strongly. The teamnumbers. Offsetting this, receivables increased EUR360 million, mostly driven by seasonality,
+partly offset by improved collections, including higher sales of receivables.
+In Q4, we were also able to collect a portion of the overdue receivable from a state-owned
+operator and we expect to collect the remainder in the upcoming quarters. Liabilities were
+approximately flat -- approximately flat, as we did not see typical seasonal increases in accounts
+payable. This was due to a combination of two things. First, already having high inventory levels
+earlier in the year. And second, our successful efforts in improving our inventory management.
+The strong free cash flow performance in Q4 led to a full year free cash flow that was somewhat
+negative as expected. While we are -- while we are showing signs of progress, there is clearly still
+more work to be done here. We have plans for this and we are making needed changes, and
+we'll track the execution very closely throughout 2020. As I have explained in the past quarters,
+the whole Nokia organization has put extensive focus on free cash flow.
+One area I would like to provide a bit more clarity around is our cash conversion, meaning
+converting our non-IFRS profits into free cash flow. We are focused on improving our cash
+conversion over time. We do, however, have two large headwinds in 2020. First, our free cash
+flow continues to be negatively impacted by restructuring. These outflows amounted to EUR450
+million in '19 and are expected to be EUR550 million in '20. Second, while Nokia Technologies
+business generates a strong operating profit, the annual free cash flow performance can differ
+significantly from our P&L performance, both up and down. This has to do with the structure of
+some of the agreements, where we receive large prepayments in cash. We put this on our
+balance sheet and recognize this as net sales over the lifetime of the agreement. Due to these
+factors, we expect a substantial gap between P&L performance and free cash flow performance
+in 2020. Of course, over the life of each agreement, the free cash flow performance matches
+the P&L performance.
+On the other hand, we expect four tailwinds for our cash conversion in 2020. First, the fact that
+our CapEx is lower than our depreciation and amortization, mainly due to the adoption of IFRS 16.
+Second, our pensions related cash outflows are less than our P&L expenses as we can utilize our
+pension surpluses to offset cash requirements. Third, financial interest where our cash outflows
+are less than our non-IFRS P&L expenses, mainly due to some non-cash expenses related to the
+interest component of certain customer contract booked in financial interest. And fourth, taxes
+where our cash taxes are lower than our non-IFRS P&L taxes, due to the utilization of deferred tax
+assets. The four tailwinds are relatively small in size, and as a result, we face significant overall
+headwinds when it comes to converting our non-IFRS profits into free cash flow in 2020.
+Therefore, our positive recurring free cash flow guidance in 2020 is driven by our assumptions of
+an improvement in net working capital performance, as well as improved operational results. This
+will be partly offset by a larger expected difference in 2020 between profits and free cash flow in
+Nokia Technologies. Over time, we expect the gap between our non-IFRS net profit and free
+cash flow to narrow, particularly as our restructuring cash flows decline. Of course, if we signed
+any new license agreements that include large cash prepayments, our free cash flow
+performance could be better than our non-IFRS net profit in one quarter or a year, and then the
+gap between our non-IFRS net profit and free cash flow could re-expand.
+Two final points here. First, a purely accounting topic, and this relates to the implementation of
+IFRS 16, which involves leasing payments. This was implemented at the start of '19, which means
+that our '18 and '19 cash flow statements are not fully comparable, approximately 220 million of
+cash outflows that were shown in cash outflows from operating activities in '18 are now shown as
+cash outflows from financing activities. This has a positive impact on our net cash from operatingactivities and a negative impact on our cash -- net cash from financing activities. Also this had a
+positive impact on our recurring free cash flow calculation in '19. However, no impact on net cash.
+Second, FX moves can have a large impact on net cash.
+Then over to Nokia Technologies, where the team finished '19 with a -- with good results. While
+Q4 net sales declined 11% year-on-year, this was primarily related to higher one-time sales in the
+year ago quarter. Excluding these, net sales would have declined slightly year-on-year. Our
+annualized licensing run rate continues to be EUR1.4 billion. From a profitability perspective, Q4
+operating margin improved 310 basis points. This was primarily due to lower patent portfolio
+costs and lower licensing related litigation costs.
+Moving on to Group Common and Other. Net sales declined 11% year-on-year on a constant
+currency basis as declines in Radio Frequency Systems or RFS were partly offset by growth in
+Alcatel Submarine Networks or ASN. In RFS, net sales were negatively impacted by temporary
+CapEx constraints in North America related to ongoing merger activity, as well as the absence of
+a large customer roll out which benefited the year ago quarter. In ASN, growth was driven by the
+ramp up of new projects, which are also expected to benefit 2020. ASN closed the year with a
+very strong order book.
+The operating loss in Group Common and Other worsened year-on-year, reflecting the following
+four items. First, a negative fluctuation in other income and expenses due to lower gains from our
+venture fund investments, which benefited the year ago quarter. Second, our continued
+digitalization investments, as I have explained in recent quarters, we are focused on driving
+automation and increasing productivity. This resulted in an overall increase in operating expenses
+of approximately 80 million for the full year '19 compared to full year '18 shown in Group
+Common and Other, and we expect to continue to invest in digitalization at similar levels in 2020.
+Third, a higher operating loss in RFS, which were primarily driven by lower net sales and a lower
+gross margin due to unfavorable regional mix. And fourth, the previous three items were partly
+offset by higher operating profit in ASN, primarily resulting from lower operating expenses.
+Then looking at Nokia Group level results. Net sales were flat in Q4 on a reported basis. That
+said, we grew 3% excluding the Greater China region, where an increase in competitive intensity
+combined with our prudent approach towards deal making had negative impact on both our
+Networks business as well as on Nokia Software.
+Our non-IFRS operating profit increased slightly year-on-year as our continued cost savings
+progress was partly offset by lower operating -- sorry, lower gross profit in Networks. Financial
+income and expense was an expense of approximately 340 million for the full year '19, and came
+in below our guidance assumption of 400 million. This was primarily due to lower interest
+expenses and improved FX results in Q4 '19. Taxes for full year '19 were slightly better compared
+to our expectations. Consequently, our results for the full year '19 were in line with the revised
+guidance range that we provided last quarter.
+Next, a quick update on our cost savings program. 2019 marked a year when we made
+considerable strong progress on our cost savings initiatives. Excluding the impact of lower
+incentive accruals, we successfully achieved approximately EUR200 million of recurring cost
+savings in 2019 as planned, all of which was attributable to operating expenses. As we complete
+our program in 2020, we expect to drive an additional EUR300 million of cost savings. We
+believe we have good visibility on achieving these savings.
+Just as I indicated, lower incentive accruals had a positive impact on our overall results. This wasapproximately 200 million. Therefore, modeling group level operating expenses for 2020,
+assuming we pay out on target annual incentives and assuming we achieve our expected cost
+savings targets, our non-IFRS operating expenses in 2020 would be approximately 50 million
+higher than in 2019.
+On restructuring cash outflows, as I mentioned earlier, we shifted approximately 100 million from
+'19 to '20, and now expect cash outflows of approximately 550 million in 2020. Regarding our
+network equipment swaps, we have now completed this program with an end result of coming in
+EUR50 million less than what we originally anticipated.
+Then Turning to our guidance. We have today reiterated our outlook for 2020 non-IFRS diluted
+EPS, operating margin and recurring free cash flow. As Rajeev mentioned, I wanted to touch
+briefly on our EPS guidance for full year 2020. Our current guidance is for EUR0.25 plus or minus
+EUR0.05. We intend on providing updates each quarter on our progress against this range, and
+will adjust the midpoint accordingly, if necessary. We have maintained our guidance this quarter.
+Please note that we expect 2020 to be back-end loaded, similar to what we experienced in '19,
+with the majority of operating profit and free cash flow to be generated in the fourth quarter.
+Finally, I wanted to know two additional risks that we had flagged in our commentary today. First
+regarding India, where customer demand could weaken and risk could increase further after the
+Supreme Court upheld a ruling that telecom companies must pay retroactive license and
+spectrum fees. This potential impact has not been factored into our outlook for full year 2020.
+The second risk is regarding the coronavirus, and specifically on the potential for temporary
+disruption particularly in our supply chain. While our global supply chain helps to mitigate some of
+the risk, it is a bit too early to tell if this will have a material impact on our business. Needless to
+say that we are monitoring the situation closely.
+In summary, we intend to show progressive signs of improvements over the course of 2020. We
+clearly have a lot of work ahead of us, and we will stay focused to ensure continued solid
+execution in accordance with our plans.
+With that, I hand over to Matt for Q&A.
+`Matt Shimao, Head of Investor Relations `
+Thank you, Kristian. For the Q&A session, please limit yourself to one question only. As a courtesy
+to everyone else in the queue. Cari, please go ahead.
+Questions And Answers
+Operator
+We will now begin the question-and-answer session. (Operator Instructions) The first question will
+come from `Alexander Peterc, Analyst, Societe Generale CIB of Societe Generale CIB.
+Q - `Alexander Peterc, Analyst, Societe Generale CIB `
+Yes, good afternoon, and thanks for taking my question. Can I confess on your new KPI, the 35%
+target that you have for the 5G Powered by ReefShark, is this target constrained by the supply of
+SoC components by the timing of supply? Can this improve meaningfully in the course of 2020? I
+mean, is this a minimum or is there any downside risk to this target? Thanks.
+A - `Rajeev Suri, President and Chief Executive Officer `Thank you, Alexander. So the nature of the risk is very conventional rather than unique. We are
+now executing on a normal SoC development path with multiple partners instead of only one as
+we said last time. Yeah, there are both internal risk and external risk that we need to track and
+manage. While I don't think the timeline can necessarily be accelerated, we have improved our
+capability to track and manage the risks. We have increased our SoC R&D capacity by about 60%
+over the past year, and we continue to ramp up in 2020 so that we can ensure that we have the
+capability to track and manage both the internal and external risks.
+And for 2020, we have three ReefShark SoC under development. As I said, two of these have
+been taped out already, which is an important milestone. So while there remains work ahead, this
+inherently means that some of the overall risk is now in our rearview mirror.
+A - `Matt Shimao, Head of Investor Relations `
+Thank you, Alex. Cari, we'll take our next question please.
+Operator
+The next question will come from `David Mulholland, Analyst, UBS of UBS.
+Q - `David Mulholland, Analyst, UBS `
+Thanks very much. Just wanted to follow-up a little bit on the last question. Obviously, you've
+talked a little bit about working with all this suppliers in terms of your ASIC strategy, but can you
+just help us to understand how does your breakdown particularly in the Mobile business this year
+between your own internal developed products, manufactured refinery with third-party
+providers? And how do you still drive differentiation when you're using a third-party? Are you
+giving your own IP going into those products as well or is it more of an off-the-shelf solution?
+A - `Rajeev Suri, President and Chief Executive Officer `
+Yeah, thanks. So -- thanks David. So our SoC strategy has all along been a bit like this. We specify
+a custom SoC with a partner. We develop some IP blocks for it. Our SoC partner has or develop
+some IP blocks. And then, this SoC partner packages the customer SoC for us using our IP blocks,
+their IP blocks, and third-party IP blocks such as RM processors and the likes, and takes a design
+to foundry. Now what has changed is that, we no longer work with only one supplier but with two
+other SoC partners making custom silicon for us in Mobile Networks. And they all have some
+unique assets, be it an RF or baseband, we've also ramped up significantly our own R&D capacity
+for specification, design, and validation of the chips, working with SoC partners.
+When we selected new partners, we also made sure that we select somebody who already has
+some knowledge and has done work with somebody else. So it give us a running start.
+A - `Matt Shimao, Head of Investor Relations `
+Thank you, David. Cari, we'll take our next question please.
+Operator
+The next question is from `Tal Liani, Analyst, Bank of America of Bank of America.
+Q - `Tal Liani, Analyst, Bank of America `
+Hi guys. First question is just about the coronavirus. What's the impact if you see at all? And moreabout the need for ASIC versus FPGAs. You noted it in the prepared remarks, you related to it,
+would you mind to discuss where you are in the process and how does it help you to bring up
+gross margins? Thanks.
+A - `Kristian Pullola, Chief Financial Officer `
+I think on the coronavirus, as I said, we are monitoring the situation closely. It's too early to call if
+this will have a material impact or not, if we will be able to mitigate the situation. On the other
+hand, our global supply chain helps us as a starting point here. We will update US as we move
+along here.
+A - `Rajeev Suri, President and Chief Executive Officer `
+And on the question regarding to system-on-chip. We are transitioning from FPGA to system-on-
+chip. And this is a metric that will give you an update and this is that we got to 10% of the 5G
+Powered by ReefShark system-on-chip portfolio. We started ramping up volumes and that will get
+to 35% by the end of this year -- greater than 35%, and then 70% by the end of '21, and then the
+whole thing will be complete about 100% in 2022.
+A - `Matt Shimao, Head of Investor Relations `
+Thank you, Tal. Cari, next question please.
+Operator
+The next question comes from `Richard Kramer, Analyst, Arete Research of Arete Research.
+Q - `Richard Kramer, Analyst, Arete Research `
+Thanks very much. Rajeev, potentially turning your back on the China RAN market is a very big
+move, given the volumes that historically have been coming out of that market. So can you talk a
+little bit more about how you balance having your supply chain there, the R&D efforts, and
+specifically what the fate of Nokia Shanghai Bell might be if you decide that the profit pool in RAN
+there isn't worth participating in? Thanks very much.
+A - `Rajeev Suri, President and Chief Executive Officer `
+Thanks, Richard. So we're not turning our back on China. I want to be very clear about that. We
+are trying to change -- our strategy is to change our business mix in China, right. So we want to
+sell more to web scale players, to state-owned enterprises, and with the service providers, i.e.,
+the operators, we want to change the business mix towards a higher proportion of core, routing,
+fixed access, naturally being the game in 4G, as well as transport. So increase the business mix
+with higher margin components.
+On 5G, we expect that there'll be significant profitability challenges. Again, we'll look at the case.
+It needs to make sense for us on a -- in a three to four-year basis, and we don't know yet,
+because the procurement round is yet to come. But overall, I'd say that we will still be a sizable
+player in China. We want to go with the strategy that allows us to increase our business mix in a
+way that margins are better, as well as cash flow is stronger.
+A - `Matt Shimao, Head of Investor Relations `
+Thank you, Richard. Cari, next question please.Operator
+The next question comes from `Alexander Duval, Analyst, Goldman Sachs of Goldman Sachs.
+Q - `Alexander Duval, Analyst, Goldman Sachs `
+Yes. Hi there. `Alexander Duval, Analyst, Goldman Sachs speaking. You're guiding to your overall addressable market for
+the Group and not to grow in 2020, and then market share to stay stable, I mean, interestingly
+that Nokia wouldn't grow. Given that in 2019, the wireless market actually grew at its fastest rate
+for some years with Nokia growing 1%. And then now we're still in the early innings of 5G into
+2020, and you're talking about a lower market growth rate and implicitly a lower growth rate to
+Nokia. Does that mean that beyond 2021 there is no further growth the next couple of years for
+the company?
+A - `Rajeev Suri, President and Chief Executive Officer `
+Thanks, Alex. So well, number one, last year, excluding China, we grew at a much faster rate,
+closer to 5%. And then, when it comes to this year, the main difference between our previous
+market outlook and our current market outlook is that we are now presenting these numbers
+excluding the China market. Excluding China, our views in the market have not changed
+significantly over the past three months. I've already added some color on China. Then when it
+comes to the market overall, with regard to Mobile Access, we expect that this year it will be a
+number of operative -- last year was about -- last couple of years was about lead countries, lead
+operators and lead countries. And now it's going to be about 80 to 100 operators starting to roll
+out 5G at some point this year, and next year there will be another 50, 60 operators rolling out
+5G. So expect that 2021 should be the scale phase -- majority phase of 5G roll out.
+A - `Matt Shimao, Head of Investor Relations `
+Thank you, Alex. Cari, we'll take our next question please.
+Operator
+The next question is from `Sandeep Deshpande, Analyst, JP Morgan of JP Morgan.
+Q - `Sandeep Deshpande, Analyst, JP Morgan `
+Yeah, hi. My question is regarding Nokia Technology. I mean, over the last couple of years, I mean,
+the business has gone up and down, but it hasn't been growing very much. Are there more
+contracts to be got in terms of the smartphone vendors or is that all essentially done and now we
+are waiting for whenever the IoT market happens in Nokia Technology or are there -- is there a
+near-term growth driver for Nokia Technology? Thank you.
+A - `Rajeev Suri, President and Chief Executive Officer `
+So I think it's fair to say that the majority of the smartphone volume is under license. There are still
+opportunities in the smaller players that we are going after. And from a smartphone point of view,
+the next thing will be then the renewals which will then also include, you know the 5G patents that
+we have. And in general, kind of, going through the discussion on how devices have become less
+intelligent and the network more intelligent and because of that there is more value in the
+connectivity. Then, we are kind of going after the growth opportunities outside of smartphones.
+Connected cars is one. Other devices, the second. And there, the team is making progress
+landing deals and some of that will take -- will take time, will involve longer discussions, and someof -- some of those deals we are going after directly and some of that opportunity we are
+addressing through the established patent pools in the industry.
+A - `Matt Shimao, Head of Investor Relations `
+Thank you, Sandeep. Cari, we'll take our next question please.
+Operator
+The next question comes from `Achal Sultania, Analyst, Credit Suisse of Credit Suisse.
+Q - `Achal Sultania, Analyst, Credit Suisse `
+Yeah, hi. Good afternoon. I'm just trying to -- Rajeev, I'm just trying to understand the -- your
+comments in China again. I guess, China revenues are obviously down for you a lot. You're saying
+that ex-China your TAM is flat and you grow in line. So I'm just trying to understand, if China has
+the potential to be down again in 2020 for you and can it have an impact on the growth
+assumptions for the Networks business, because it's still about 10% of network sales?
+A - `Rajeev Suri, President and Chief Executive Officer `
+Thanks, Achal. So, it's hard to predict China at this point because of the procurement round. It's
+gotten delayed. So we don't know what the outcome of the procurement round of 5G is the CP 1
+[ph]. But I would say that the strategy that I laid out, obviously, has -- it's a longer-term strategy, all
+of it is now going to play out. So hard to give a sizing of how China will evolve at this point in
+2020.
+A - `Matt Shimao, Head of Investor Relations `
+Thank you, Achal. Cari, we'll take our next question.
+Operator
+The next question is from `Stefan Slowinski, Analyst, Exane BNP Paribas of Exane BNP Paribas.
+Q - `Stefan Slowinski, Analyst, Exane BNP Paribas `
+Yes, hello. Thank you for taking my question. Just a follow-up on the Technologies business.
+There was already a gap, I guess, between the non-IFRS profit and the cash generation over the
+past few years, well, except for some of the one-offs and now you think the gap is going to
+increase in 2020. I mean, can you give us an idea of how much -- what's the cash conversion
+going to be like for the Technologies business and is that specific to 2020 in terms of timing of
+contracts? Should we expect that to, kind of, re-normalize in 2021? Thank you.
+A - `Kristian Pullola, Chief Financial Officer `
+Yeah. So as I said in my prepared remarks, this is a business where we -- from time to time
+related to some of the contracts receive upfront payments or payments that are weighted
+towards the earlier years rather than paid equally over the life of the contract and that is what is
+now having an impact on 2020. So the conversion will go down relative to '19.
+And then as I said, once we get a face where there will be renewals, then depending on how
+those renewals pan out, there might be a uptick or we might actually get then large upfront
+payments again. Let's see how those renewals go. I will -- I'm not in a position to quantify this. We'19 to '20. And as I said, the drivers there are, why do we go from a slightly negative to a positive,
+we'll have an improvement in profitability, we will have an improvement in how we manage our
+net working capital, but then that will somewhat be offset by then the headwind created by the
+fact that the cash conversion related to Nokia Technologies is slightly worse in 2020 over '19.
+A - `Matt Shimao, Head of Investor Relations `
+Thank you, Stefan. Cari, we'll take our next question please.
+Operator
+The next question is from `Dominik Olszewski, Analyst, Morgan Stanley of Morgan Stanley.
+Q - `Dominik Olszewski, Analyst, Morgan Stanley `
+Hello. Thank you for taking my question. With regards to the useful KPI data you've given on the
+proportion of shipments on 5G ReefShark, maybe could you give us some idea of the sensitivity
+of how -- if that accelerates at a faster or slower pace than you expect so versus, let's say, that
+35%. How that impacts your Group margin? Thank you.
+A - `Kristian Pullola, Chief Financial Officer `
+First of all, I think, it's fair to point out that when we talk about the percentage here, it's a
+shipment based metrics. And as a result of that, the financial implications of that will come with a
+lag of a couple of quarters. And of course, if we improve this, then we'll have the product cost
+improvements coming through earlier and that's of course what the team is focused on.
+A - `Matt Shimao, Head of Investor Relations `
+Thank you, Dominic. Cari, next question please.
+Operator
+The next question is from `Paul Silverstein, Analyst, Cowen with Cowen.
+Q - `Paul Silverstein, Analyst, Cowen `
+I appreciate you all taking the question. With respect to the margin improvement on Mobile
+Access, how much of the improvement, if any, is beyond the FPGA to SoC transition? What are
+the other levers and what are the magnitude of it?
+A - `Rajeev Suri, President and Chief Executive Officer `
+Thanks, Paul. So the -- the other levers are Global Services improvement and execution, which has
+already happened to some degree in 2019 but more needs to continue automation,
+digitalization, better contract management and so on. There is the system-on-chip product cost
+that we talked about, and then there is the better commercial deal discipline, centralized pricing
+war rooms, exiting some -- some contracts or changing contract terms where there might be the
+option [ph].
+Q - `Paul Silverstein, Analyst, Cowen `
+And they're all important?
+A - `Rajeev Suri, President and Chief Executive Officer `And they are all important. Absolutely.
+A - `Matt Shimao, Head of Investor Relations `
+Thank you, Paul. Cari, we'll take our next question please.
+Operator
+The next question is from `Sebastien Sztabowicz, Analyst, Kepler Cheuvreux with Kepler Cheuvreux.
+Q - `Sebastien Sztabowicz, Analyst, Kepler Cheuvreux `
+Hi, everyone, and thanks for taking my question. Have you quantified the opportunity to swap
+away equipment in the core networks in Europe and also do you see an opportunity on the RAN
+market with 35% market share cap potentially on radio access network in Europe for Irish vendor.
+Thank you.
+A - `Rajeev Suri, President and Chief Executive Officer `
+Sebastien, so this is -- it's the policy maker to decide. We watch the situation closely. We're there
+for our customers when they need us. We have been -- we have, as we said in our conversion
+rate or the win rate of 5G outside of China, it's above 100%. We also won a very nice deal in
+Vodafone Hutchison Australia, which is a sole supplier deal. In terms of core, yes, there is the
+opportunity in Europe, but we'll just watch it and we have to be thoughtful about swap costs and
+things like that in terms of how much we want to take prudently.
+A - `Matt Shimao, Head of Investor Relations `
+Thank you, Sebastien. Cari, we'll take our next question.
+Operator
+The next question is from `Simon Leopold, Analyst, Raymond James of Raymond James.
+Q - `Simon Leopold, Analyst, Raymond James `
+Thank you very much for taking the question. I wanted to see if maybe you could double click on
+attaching the changes in the mobility business to overall gross margin, specifically, the effect of
+declining presumably profitable 4G business as you're making this transition to the system-on-a-
+chip in 5G. How do we think about how material the effect of that would be on overall gross
+margin through the year? Thank you.
+A - `Kristian Pullola, Chief Financial Officer `
+Okay. As we've said, the more system-on-chip deliveries we get, the better the cost position of
+the Nokia 5G product is. And that will then, you know all other things equal flow through to an
+improvement in gross margin. With that, we will also be able to get --- as we get the scale in 5G
+to a situation where 5G gross margins in general are at a level that actually the shift in mix from
+4G to 5G will have less of an impact on the gross margin development going forward. So I'm not
+sure if I understand the question, but that's, of course, what we manage. And then as Rajeev
+said, it's about how do we -- we deal discipline, get further improvements, how do we get
+improvements through better operational performance and services, and those things will also
+then drive gross margin going forward.A - `Rajeev Suri, President and Chief Executive Officer `
+Of course. That's -- Simon in Mobile Access comment, and so when you step back and say better
+mix in Enterprise and Nokia Software and IP routing, we will also improve gross margins
+potentially.
+A - `Matt Shimao, Head of Investor Relations `
+Thank you, Simon. Cari, I think we have time for our final question of the day.
+Operator
+The final question will come from `Edward Snyder, Analyst, Charter Equity of Charter Equity.
+Q - `Edward Snyder, Analyst, Charter Equity `
+Thanks a lot. Rajeev, I would like to revisit `Richard Kramer, Analyst, Arete Research's question. I think, correct me if I'm
+wrong, but he wasn't asking you about leaving China, he was asking about leaving the RAN
+market in China, which is I think very valid question given you've already pointed out that 60% of
+the market for this business. I mean, it's a little confusing on my end, because if you can rotate to
+United States, but if you look at the lay of the land, (inaudible) T-Mobile and AT&T have backed
+off the discussions of millimeter wave. T-Mobile is going to put 5 (inaudible) has put on band 71,
+which doesn't require MIMO at all?
+And AT&T is talking about putting on FirstNet, which is an established network that may not use
+MIMO. So I'm just curious, if you do back out of just the RAN market not trying completely, where
+do you rotate to regain share, especially if the US is going to be deploying a lot of MIMOs.
+Verizon hits a 31 city target, but very few cells in many of the cities, maybe a couple of streets,
+and they are struggling to get the citing requirements there. So can you maybe give us a little bit
+more detail on how that works to keep your costs and your scaling in RAN market competitive if
+you're not addressing China's RAN market? I appreciate it. Thank you.
+A - `Rajeev Suri, President and Chief Executive Officer `
+Thanks, Edward. So just quick. In the US, there will be low-band build, that's starting to be
+underway now. There'll be a mid-band that will still take maybe a couple of years with the 3.7 to
+4.2 CBR, et cetera. On the Enterprise side, there'll be private wireless build, think about utilities,
+large field area network. So there are opportunities on the US side. Then of course, as I said, we
+expect some 80 to 100 operators starting to roll out 5G in the rest of the world, and that's this
+year, and then next year we expect another 50 or 60. So it will start to be a scale market in terms
+of 5G maturity.
+On China, again, we're not saying we're backing out of the RAN market. We're still there in 4G.
+We will be prudent in 5G. I do want to point out that even if we say, 60% of the global volume, it
+is roughly half of that in terms of revenue market share, i.e., China RAN as a percentage of total
+market, and it's minuscule in terms of profit contribution over the next three years or so.
+A - `Matt Shimao, Head of Investor Relations `
+Thank you, Ed, and thank you all for your questions today. I'd now like to turn the call back to
+Rajeev.
+A - `Rajeev Suri, President and Chief Executive Officer `So thank you, Matt, and Kristian, and thanks to all of you for your questions. I'd like to close with a
+couple of brief thoughts. First, I want to say again that we have heard you, our investors and other
+stakeholders. We are taking steps to give you some better visibility to the work we have
+underway. And as part of that effort, Nokia will hold a Capital Markets Day for Investors in the
+second half of this year in order to give you a deeper perspective on our strategy and
+operational progress.
+Second, despite the challenges we have faced in Mobile Access, other parts of our business
+continue to perform well in 2019. We closed the year demonstrating sustained momentum with
+product leadership in areas like our FP4-based routing products and made good progress on our
+strategic focus areas of Enterprise and Software.
+Finally, while I believe that 2020 will present its share of challenges, I remain confident that we
+are taking the right steps to deliver progressive improvement over the course of this year and to
+position us for a stronger 2021.
+With that, I'll hand the call back over to Matt.
+A - `Matt Shimao, Head of Investor Relations `
+Ladies and gentlemen, this concludes our conference call. I would like to remind you that during
+the conference call today, we have made a number of forward-looking statements that involve
+risks and uncertainties. Actual results may, therefore, differ materially from the results currently
+expected. Factors that could cause such differences can be both external such as general
+economic and industry conditions, as well as internal operating factors. We have identified these
+in more detail on Pages 60 through 75 of our 2018 Annual Report on Form 20-F, our Financial
+Report for Q4 and full year 2019 issued today, as well as our other filings with the US Securities
+and Exchange Commission. Thank you.
+Operator
+Thank you. The conference has now concluded. Thank you all for attending today's presentation.
+You may now disconnect your lines. Have a great day.

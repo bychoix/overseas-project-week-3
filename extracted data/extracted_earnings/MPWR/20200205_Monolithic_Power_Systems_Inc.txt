@@ -1,0 +1,416 @@
+Q4 2019 Earnings Call
+
+Presentation
+Operator
+Ladies and gentlemen, thank you for standing by, and welcome to Monolithic Power Systems
+Fourth Quarter 2019 Earnings Conference Call. At this time, all participants lines are in a listen-only
+mode. After the speakers' presentation, there will be a question-and-answer session. (Operator
+Instructions) Please be advised that today's conference is being recorded.
+I would now like to hand the conference over to your speaker today, Monolithic's CFO, Bernie
+Blegen. Please go ahead sir.
+`Bernie Blegen, Vice President and Chief Financial Officer `
+Thank you very much. Good afternoon, and welcome to the fourth quarter of 2019 Monolithic
+Power Systems conference call. I'm joined today by Michael Hsing, Monolithic's CEO and Founder.
+In the course of today's conference call, we will make forward-looking statements and projections
+that involve risk and uncertainty, which could cause results to differ materially from management's
+current views and expectations. Please refer to the safe harbor statement contained in the
+earnings release published today.
+Risks, uncertainties and other factors that could cause actual results to differ are identified in the
+safe harbor statements contained in the Q4 earnings release and in our SEC filings, including our
+Form 10-K filed on March 1, 2019 and Form 10-Q filed on November 1, 2019, both of which are
+accessible through our website, www.monolithicpower.com. MPS assumes no obligation to
+update the information provided on today's call.
+We will be discussing gross margin, operating expense, R&D and SG&A expense, operating
+income, interest and other income, net income and earnings on both a GAAP and a non-GAAP
+basis. These non-GAAP financial measures are not prepared in accordance with GAAP, and should
+not be considered as a substitute for or superior to measures of financial performance prepared
+in accordance with GAAP.
+A table that outlines the reconciliation between the non-GAAP financial measures to GAAP
+financial measures is included in our earnings release, which we have filed with the SEC. I wouldrefer investors to the Q4 2018, Q3 2019 and Q4 2019 earnings releases, as well as to the
+reconciling tables that are posted on our website.
+I'd also like to remind you that today's conference call is being webcast live over the internet and
+will be available for replay on our website for one year, along with the earnings release filed with
+the SEC earlier today. For the full year 2019, MPS achieved record revenue of $627.9 million,
+growing 7.8% from the prior year, while our industry segment experienced a significant downturn.
+As always, we executed our strategies consistently. In recent years, especially in 2019, more and
+more first tier companies recognized MPS's superior technologies as well as our product quality
+and our excellent customer support. We see a lot more high quality growth opportunities ahead
+of us. Our objective is to successfully manage our expenses to support our growth, which will in
+turn benefit our shareholders in both the long and short term.
+Here are few highlights which we achieved in 2019. Introduced leading-edge system solutions
+using QSMod technologies for GPU based artificial intelligence and machine learning applications.
+Introduced 48 volt QSMod technology for both cloud-based and automotive applications.
+Coupled with our design wins in QSMod and AI applications, MPS is at the early stage of this
+important revenue ramp.
+Won a major contract to support a Tier 1 automotive supplier, which will begin generating revenue
+in the next two to three years. Successfully co-developed cutting-edge solutions for smart driving
+systems and lighting applications. Began volume shipments of high-current programmable power
+modules for communication applications such as 5G networks. Entered the high-performance
+analog market with the formation of a high-precision data acquisition business group.
+With input from our customers, we have completed the detailed product specifications. We
+expect to release these products in 2020. The initial revenue ramp is expected to begin in 2021.
+The roll-out of these advanced products will mark MPS's introduction into the highly profitable
+high speed precision data acquisition market segments. We understand the road to success may
+not be smooth. However, we believe our commitment will pay off in the long term and our
+shareholders will be pleased with the results of these efforts in the coming years.
+Let's go through low lights. We really don't have any, except there is one item worth pointing out.
+We deliberately reduced our inventory in Q3 and Q4 2019, which in hindsight was not necessary.
+As a result, our current inventory level is too low for MPS to maximize our growth in the next few
+months.
+Although we can still keep up our growth rate as in the past, we unfortunately may not be able to
+take full advantage of all the potential upsides. In order to fulfill customers' demand in the second
+half of 2020, we now have to commit tremendous effort in order to accelerate our schedule to
+bring up a second 12-inch fab. This has created an unnecessary hardship for our team.
+Turning back to our full year 2019 revenue by market segment, compared with 2018,
+communications revenue up 20.1%, computing and storage up 18.9%, automotive up 12.8% and
+industrial up 12.3%. Consumer revenue was down 10.8%. Full year 2019 computing and storage
+revenue grew $30.1 million over the prior year to $189.2 million. This 18.9% increase primarily
+resulted from strong sales growth for cloud computing and high-end notebooks. Computing and
+storage revenue represented 30.1% of MPS's total revenue in 2019 compared with 27.3% in 2018.
+Communications revenue grew $14.2 million to $84.8 million. This improvement was primarily due
+to initial ramping of 5G infrastructure sale. Communications revenue represented 13.5% of our
+2019 revenue compared with 12.1% in 2018.Automotive revenue grew $10.2 million to $90.3 million in 2019. This growth primarily represented
+increased sales of infotainment, safety and connectivity application products. Automotive
+revenue represented 14.4% of MPS's full year 2019 revenue compared with 13.8% in 2018.
+Industrial revenue grew $10.9 million to $99.4 million in 2019. This growth reflected sales for
+applications in power sources, security and industrial meters. Industrial revenue represented
+15.8% of MPS's full year 2019 revenue compared with 15.2% in 2018. Consumer revenue fell $19.9
+million to $164.2 million. With the exception of home appliances and wearables, all major
+consumer markets decreased between years. Consumer revenue represented 26.2% of MPS's
+full year 2019 revenue compared with 31.6% in 2018.
+Switching to Q4, MPS had a record fourth quarter with revenue of $166.7 million, 1.2% lower than
+revenue generated in the third quarter of 2019, but 8.6% higher than the comparable quarter of
+2018. Our market segment revenue from computing and storage grew 27.8% year-over-year,
+automotive grew 8.6% and communications grew 8.5%. Industrial was essentially even with Q4,
+2018, while consumer revenue fell 5.7% from the prior year.
+Fourth quarter 2019 GAAP gross margin was 55.1%, 10 basis points lower than the third quarter of
+2019, but even with margin reported in the fourth quarter of 2018. Our GAAP operating income
+was $30.7 million compared to $30.0 million reported in third quarter of 2019 and $33.1 million
+reported in the fourth quarter of 2018. Fourth quarter 2019 non-GAAP gross margin was 55.5%,
+10 basis points lower than both the third quarter of 2019 and the fourth quarter of 2018. Our non-
+GAAP operating income was $50.8 million compared to $51.4 million reported in the prior quarter
+and $46.6 million reported in the fourth quarter of 2018.
+Let's review our operating expenses. Our GAAP operating expenses were $61.2 million in the
+fourth quarter compared with $63.1 million in the third quarter of 2019 and $51.5 million in the
+fourth quarter of 2018. Our non-GAAP fourth quarter 2019 operating expenses were $41.8 million,
+down from the $42.5 million we spent in the third quarter of 2019, but up from the $38.7 million
+reported in the fourth quarter of 2018.
+On both a GAAP and a non-GAAP basis, fourth quarter 2019 litigation expenses were $991,000
+compared with a $692,000 expense in Q3, 2019 and a $409,000 expense in Q4, 2018. The
+differences between GAAP and non-GAAP operating expenses for the quarters discussed here
+are stock compensation and income or loss from an unfunded deferred comp plan. Fourth
+quarter 2019 stock compensation expense including $574,000 charged to cost of goods sold
+was $18.7 million compared with $21.3 million recorded in the third quarter of 2019.
+Switching to the bottom line. Fourth quarter 2019 GAAP net income was $32.4 million or $0.70 per
+fully diluted share compared with $0.64 per share in the third quarter of 2019 and $0.61 per share
+in the fourth quarter of 2018. Q4, 2019 non-GAAP net income was $48.4 million or $1.04 per fully
+diluted share compared with $1.08 per share in the third quarter of 2019 and $0.99 per share in
+the fourth quarter of 2018. Fully diluted share is outstanding at the end of Q4, 2019 were 46.5
+million.
+Now, let's look at the balance sheet. As of December 31, 2019, cash, cash equivalents and
+investments totaled $458.5 million compared to $422.0 million at the end of the third quarter of
+2019. For the quarter, MPS generated operating cash flow of about $61.0 million, compared with
+Q3, 2019 operating cash flow of $72.4 million. Fourth quarter 2019 capital spending totaled $8.7
+million.
+Accounts receivable ended the fourth quarter of 2019 at $52.7 million or 29 days of sales
+outstanding compared with the $58.3 million or 31 days reported at the end of the third quarterof 2019 and the $55.2 million or 33 days reported in the fourth quarter of 2018.
+Our internal inventories at the end of the fourth quarter of 2019 were $127.5 million, down from
+the $135.6 million at the end of the third quarter of 2019. Days of inventory fell to 155 days at the
+end of Q4, 2019 from the 163 days at the end of the third quarter of 2019.
+Before turning to our outlook for Q1, 2020, I would like to remind everybody of our long-term
+non-GAAP financial model, which has been largely unchanged for the past five years. First, we
+target to grow revenue at a rate that is 10 to 15 percentage points greater than our peers. In a
+year where the market is expected to grow between 5 to 8 percentage points, we believe that
+MPS should be able to grow annual revenue from 15% to 20%.
+Second, we target quarterly gross margin to grow by 10 to 20 basis points sequentially. Third, to
+ensure continued growth, we target increases in our R&D and SG&A investment at 50% to 60%
+of the annual revenue growth rate. Finally, we expect to return 30% to 40% of the company's
+annual free cash flow to shareholders. This long-term financial model is an important tool in
+setting expectations for accelerated revenue growth and providing operating leverage while
+allowing for a proper level of business reinvestment.
+I would now like to turn to our Q1, 2020 outlook. We are forecasting Q1, 2020 revenue in the
+range of $161 million to $167 million. We also expect the following. GAAP gross margin in the range
+of 55.1% to 55.7%. Non-GAAP gross margin in range the of 55.4% to 56.0%. Total stock-based
+compensation expense of $18 million to $20 million including approximately $600,000 that would
+be charged to cost of goods sold. GAAP R&D and SG&A expenses between $58.4 million and
+$62.4 million. Non-GAAP R&D and SG&A expenses to be in the range of $41.0 million to $43.0
+million. This estimate excludes stock compensation and litigation expenses. Litigation expenses
+to be in the range of $1.5 million to $2.5 million as MPS prepares for an upcoming trial, which is set
+to begin at the end of March.
+Interest income is expected to range from $1.5 million to $1.7 million before foreign exchange
+gains or losses. Fully diluted shares to be in the range of 46.2 million to 47.2 million shares. Finally,
+we are pleased to announce a 25% increase in our quarterly dividend to $0.50 per share from
+$0.40 per share, for shareholders of record as of March 31, 2020.
+In conclusion, we will continue executing on our strategy and winning market share.
+I will now open the phone lines for questions.
+Questions And Answers
+Operator
+(Question And Answer)
+Thank you. (Operator Instructions) And our first question comes from `Jeremy Kwan, Stifel, Nicolaus & Company, Inc. with Stifel
+Nicolaus, your line is open.
+Q - `Jeremy Kwan, Stifel, Nicolaus & Company, Inc. `
+Yes. Good afternoon and congrats on the strong results and outlook, especially in a challenging
+environment. I guess my first question regarding, you mentioned about not having sufficient
+inventory in hand to meet all the immediate demand you're seeing. Is there a way you can kind of
+quantify what's kind of being left on the table and is there a chance to capture this maybe later
+on in the coming quarters?A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+All these products, which design are linked, and our customers have upside, many of them, they
+told us. So we believe okay these socket are difficult to change you can't change month-by-
+month. And those volumes still will be with us.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+Yes, We're not trying to identify a risk factor with regard to our ability to execute against
+expectations. We're just saying that it would be imprudent for us to allow our investors to believe
+that there is even more upside beyond that, because we may have some constraint with regard
+to inventory.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Yes, our inventories, they involve a few thousand products, and very difficult to predict, which
+ones will ramp first. And so, that causes a lot of problems for our planning and also for our
+shipments. We're now doing partial shipment.
+Q - `Jeremy Kwan, Stifel, Nicolaus & Company, Inc. `
+Great. Thank you very much. That's helpful clarity. And I guess my follow-up would be -- Bernie,
+you mentioned entering the high-performance analog market with the high precision data
+acquisition group. Can you give us more details about this maybe you or Michael maybe what
+initial applications it's going to go after first, and how you plan to compete in this market, and
+maybe your sales strategy, do you need more distribution partners, or is this something that you
+can leverage your e-commerce platform? Thank you.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Initial one is in -- these initial market segment they're in the communications and as well as
+medical applications. And we don't have a long-term strategy I think through our internet --
+through our e-commerce, and we try to push everything through e-commerce market.
+Q - `Jeremy Kwan, Stifel, Nicolaus & Company, Inc. `
+Great. Thank you very much.
+Operator
+Thank you. And our next question comes from `Alessandra Vecchi, William Blair with William Blair. Your line is
+open
+Q - `Alessandra Vecchi, William Blair `
+Great. Thanks. Congratulations on a wonderful quarter. Just on 48 volt, you talked about the new
+product introductions in 2019 and I believe you guys said on the last earnings call that you'd be
+seeing some revenue in Q1. Can you just update us on that? And how we should think about the
+total revenue opportunity there as we look into 2020 and 2021?
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+Yes. I don't think that we guided per se on giving an exact revenue outlook for Q1 with beginning
+of 48 volt, but we said that it would be in 2020. And right now everything is tracking pretty muchalong our expectations. So what's really exciting is that I think that it validates our strategy to have
+gone into 48 volt, and to enjoy and participate in many of the opportunities that it brings us.
+Q - `Alessandra Vecchi, William Blair `
+Okay, that's helpful. And then I apologize if I missed it. But Bernie, did you give us a little bit of
+clarity in terms of by segment in Q1 what segments maybe you thought would be the strongest
+sequentially?
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+Yeah again, I think the broader question there is , what is the revenue drivers looking like, and at
+this point, I think it's a continuation of more of what we've been seeing recently. So for example,
+the compute and storage market is very well positioned for growth in the early part of the year
+likewise communication, we believe that there's also a significant opportunity for growth
+particularly in Q1.
+When you look at oh I should make one asterisk on computing notebooks, which we report in
+computing are seasonal and coming out of Q4 they tend to have a seasonal decline which we are
+anticipating as well. But when you look at storage or cloud computing, I think that we are very well
+positioned.
+And then after that, if you look at consumer, again that still has not hit a steady state or showed
+any signs of being healthy, and again consumer is also very seasonal and it's normal to expect a
+decline from Q4 to Q1. And then when you look at industrial, a lot of that was revenue
+performance particularly in the second half of the year, reflected inventory builds on the part of
+certain of our customers who are anticipating trade restrictions. And so that area may fall off in Q1
+and automotive that tends to go either on a plateau or when it gets designed in a new revenue
+opportunity there's a spike.
+Q - `Alessandra Vecchi, William Blair `
+Okay, just on automotive, some other semiconductor companies have alluded to sort of a
+bottoming out, and improvement there. So are you seeing a similar situation? I know it depends
+on what model you are designed into and what whatnot but do you feel like the worst is behind
+you?
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+I think we are too small to call the industry, we're growing to all these greenfield markets and that
+the least thing that we have said that this is the end of the world or this is the beginning of the
+world, it's the beginning of the world for MPS.
+Q - `Alessandra Vecchi, William Blair `
+Understood. That's it for me. Thank you so much.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+Thanks, Alex.
+Operator
+Thank you. Our next question comes from `Michelle Waller, Needham & Company. with Needham. Your line is open.Q - `Michelle Waller, Needham & Company. `
+Hi, guys. Thanks for taking the question, and congrats on the results. So I guess the first one for
+me is in terms of the next generation gaming consoles launching in 2020. Could you guys walk us
+through what the ramp is expected to look like for MPS? Is it only a backhalf driver or do you think
+you'll see some meaningful up-tick in 2Q? And from a gross margin perspective. How should we
+think about the impact to corporate gross margins during that ramp?
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Are you talking about gaming particularly.
+Q - `Michelle Waller, Needham & Company. `
+Yes. And Specifically, yes.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Gaming is not a major part of our business, and that is all linked into one product, is in the
+consumer segment, and it is in a share that's similar CPU Core Power. So the business is very
+lumpy, but we treat this very opportunistically, and our customers really like our solutions, and we
+will support them again when the demand come.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+And we would probably expect to see a similar ramp as we did in 2017.
+Q - `Michelle Waller, Needham & Company. `
+Okay. That's helpful. And then for my follow-up. you guys mentioned previously that your dollar
+content opportunity with the whitley server platform increased to $70 from $50 in the purley
+platform. I'm just trying to figure out, I know this is a bit further off, but with the equal stream
+platform that's expected to launch in 2021. How do you guys see your dollar content opportunity
+changing generation over generation? Or just any color you can give there would be helpful?
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+On the dollar content, we haven't seen an opportunity to expand beyond what we currently are
+getting on the V14. But then again, the specs are not entirely finalized. So if it turns out that the
+space or the power requirements are materially different from what V14 is. There might be an
+opportunity for pricing leverage.
+Q - `Michelle Waller, Needham & Company. `
+Okay. Thank you. That's all for me. Thanks guys.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+Thank you.
+Operator
+Thank you. And our next question comes from Matt Ramsay with Cowen. Your line is open.
+Q - `Joshua Buchalter, Cowen & Company `Hey guys, this is Josh, Buchalter on behalf of Matt. Thanks for taking my questions, and congrats
+on the results in a tough environment. I guess the first question was if we think about your
+inventory commentary from last quarter, are there any couple of items in particular that you could
+point to, that drove the change in your thought process from 3Q to 4Q. And then also, is there
+any margin impact from bringing on the new 12-inch Fab and your sort of what sounds like
+capacity constraints?
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Well, in talking about margins and a new 12 inch Fabs, okay? every time we're bringing up a fab
+we will have a very immediate impact for the margin improvement these products that are from
+new fab is always a year or two years down the road. In terms of which segments where our
+inventory is tight and again, it's actually across the board.
+Q - `Joshua Buchalter, Cowen & Company `
+Got it. Thank you. And I guess in the beginning of the call, you mentioned several Tier-1
+companies launching with your design wins. Were there any, I guess if you'd rank order one or
+two that you're most excited about heading into 2020. Thank you and congrats again.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+This we said that Bernie said at the beginning of the call, and okay, There's a few things that we
+achieved in 2019. And all of these will generate a significant revenue in 2020.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+Yes, and it's not restricted to any one end-market segments. It's actually very broad-based the
+level of customer engagement that we're receiving from Tier 1.
+Q - `Joshua Buchalter, Cowen & Company `
+Thanks guys.
+Operator
+Thank you. And our next question comes from `Rick Schafer, Oppenheimer & Co. with Oppenheimer. Your line is open.
+Q - `Rick Schafer, Oppenheimer & Co. `
+Yes. Hi guys. I'll echo everyone else's congratulations on another monolithic quarter, another
+great quarter, so good job. I just had a -- maybe a question on coronavirus, since it's the topic du
+jour. You guys have three of your four production foundries in China, so I'm just curious, Michael or
+Bernie, if you're seeing any signs of supply disruption or do you expect to see any signs, once
+guys just start coming back to work next week.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+All the fab as far as we know they are all open, they are all operating and they are in really tight
+conditions, okay? and all the assemblies, same thing I came and so far and really hasn't disrupted
+our supply.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `And again Rick It's a very early stage to really fully appreciate or understand how any of our
+businesses will be impacted.
+Q - `Rick Schafer, Oppenheimer & Co. `
+Sure. I understand. So maybe a follow-up if I could just on your auto biz, I know you guys secured
+one of the -- I think the number one Tier 1 auto supplier a few months ago. I'm just curious where
+we stand on securing the number two Tier 1 auto supplier, and as part of your answer, I'm curious.
+I mean from after you signed number one, have you seen -- is it too soon to have seen any
+noticeable uptick in design activity, and maybe also just a comment on China in general. I'd be
+interested, I know that it was kind of a slow year for China auto, basically canceled the design
+year, I think last year, or the model year. I'm curious, kind of what your expectations are for China
+this year, or what you're seeing? Thanks.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Well, okay. Overall everybody told us that china auto will not be a good year from an MPS side we
+are looking pretty good in fall of 2020. And all these number one, number two, number three,
+arcing all those and we are deeply engaged and that we see all the activities that we -- they are
+more than we can handle and now we have to pick and choose.
+Q - `Rick Schafer, Oppenheimer & Co. `
+Got it. Thanks, Michael.
+Operator
+Thank you. And our next question comes from Ross Seymore with Deutsche Bank. Your line is
+open.
+Q - `Melissa Lim, Deutsche Bank `
+Hi guys, this is Melissa on behalf of Ross. Congratulations on the really solid quarter. I know you
+guys don't guide out more than one quarter, but I guess from a high level perspective. Now that
+we're coming out of this industry downturn. What are your expectations for returning to either
+seasonal or even above seasonal growth? Is this moderated by your inventory constraints? And
+how are you thinking about the slope of the recovery from here?
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Well, -- you call it industrial out of the downturn we came. And as we said, as Bernie said earlier,
+we will grow above the industrial market. Again, plus we will see an upturn about 10%, 15% to
+20%. So we are committed on that.
+Q - `Melissa Lim, Deutsche Bank `
+Okay, great. And then does the inventory constraints? Is that kind of restricting that growth
+prospect or do you think you can still kind of hit that target?
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+We try to and as we said earlier, we cannot maximize it. Because our customers are pulling the
+requirements, okay? And so, we have to keep the line up, and we handle partial shipment, and
+that's our inventory is in a very low stage.Q - `Melissa Lim, Deutsche Bank `
+Got it. And then the last one for me is your computing and storage segment has been driving
+really strong growth, and I was just curious when you look into 2020. How are you thinking about
+the shape of that business? And in particular are you worried about any risk of inventory digestion
+of lumpy buying or do you think that it's really strong secular growth that's driving the strength.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+Yes, when you look at 2019, I think the first half of the year was an anomaly where the hyper
+scales were trying to digest excess capacity. And so I would see, with the V 14 having been just
+recently rolled out a return to a more normalized adoption process.
+Q - `Melissa Lim, Deutsche Bank `
+Okay, great. Thank you, guys.
+Operator
+Thank you. (Operator Instructions) And our next question comes from `Tore Svanberg, Stifel Nicolaus & Co. with Stifel.
+Your line is open.
+Q - `Tore Svanberg, Stifel Nicolaus & Co. `
+Yes, thank you and congratulations again, very nice results. First question on inventory being tight,
+I mean you're at 156 days. So how tight is it? I mean, I know you want to run a little bit higher than
+that, but it doesn't seem alarmingly low either. So maybe could just elaborate a little bit on that.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+I think we're a 155 days right now. And if you were to look at sort of the Industry standards, we're
+probably in about the mid point range of what people might expect. There's two things though
+that differentiate us. The first is the diversity of the number of products that we maintain. And
+then the second is that we build inventories ahead of when we sell them.
+And as a result because we're growing at a rate that is 10 to 15 percentage points faster than the
+industry that puts more pressure on us to have more inventory available in an earlier stage. So it's
+as much a risk management decision with the level we carry, and I think that we've said previously
+that we're more comfortable with inventory levels between about a 160 and 180 days.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Yeah, stagnant companies inventory. Yes is very predictable for the growth company and a we
+have a particular for MPS. We have if not thousands, we have a hundred project and that they are
+taking off, the some of those faster other ones are slower, how do we pick on those, very difficult
+to call?
+Q - `Tore Svanberg, Stifel Nicolaus & Co. `
+Well, it's a good problem to have. Second question, and I always ask you this Michael. If you could
+give us an update on your e-commerce business we notice that the website keeps changing. So
+if you could update on those that would be great. Thanks.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `The e-commerce site, okay. Other than the MPS website e-commerce we're still learning from
+that one okay, but our product we sell to the third party's e-commerce sites doing really well. And
+so as a result of our learning and we are changing it you see that on our website. And so that so
+far we can't give you the significant number yet, okay? but feel end of the 2020. I think that,that
+will move some needles.
+Q - `Tore Svanberg, Stifel Nicolaus & Co. `
+Great. So at least you are now seeing that the traffic really moving in the right direction sounds
+like.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Yes. The key is the traffic But yes, the key is the traffic so we can again give you an analogy. We
+Believe again a year ago, we believe there's a lot of fish in the Pacific Ocean. So we dropped the
+fish in the middle of Pacific Ocean, we didn't target anything. And our learning fishing what kind of
+fish where are they? we are a lot more targeted. So we have gone through that phase, okay, we
+are a lot more targeted now.
+Q - `Tore Svanberg, Stifel Nicolaus & Co. `
+Very good, make sure you have enough bait. Last Question on the e-motion business, if you
+could also update us there including obviously, your system level motor products.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Yes, so the model is that the intent is just not selling a motor and intend to provide a convenience
+for our customers for the initial ramp. So okay, we -- those business at the very beginnings and I
+go through we see quite a few orders from our internet and then typically those customers are
+going very slow.
+And I mean, their project takes a year and the year and a half and to ramp. It's not like they're
+selling a silicon piece, okay? and usually a model for the guys it takes about three or four years.
+And in terms of e-motions, we have I don't know what --bernie maybe Bernie you can say. That
+okay $20 some million, this year more than $20 million -- last year $20 some million. This year we
+are going to keep up a similar growth rate, and so we will be assuming we would be a $30 million
+or $40 million. Okay?
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+And I think that we're comfortable in saying that it can be a $30 million or $40 million business
+here in the next few years. I think though that Michael makes a very good point as far as the
+length of time between adoption and when you actually generate revenue many of those
+applications almost have have characteristics similar to automotive.
+Q - `Tore Svanberg, Stifel Nicolaus & Co. `
+Very good. Congratulations again.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Thank you.
+OperatorThank you, and I'm showing no further questions at this time. I'd like to turn the call back to Bernie
+Blegen, for any closing remarks.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+Thank you. I'd like to thank you all for joining us for this conference call. And look forward to
+talking to you again during our first quarter 2020 conference call, which will likely be in April. Thank
+you and have a nice day.
+Operator
+Ladies and gentlemen, this concludes today's conference call. Thank you for participating. You
+may now disconnect, everyone have a great day.

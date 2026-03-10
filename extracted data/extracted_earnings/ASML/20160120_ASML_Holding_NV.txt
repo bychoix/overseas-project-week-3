@@ -1,0 +1,744 @@
+Q4 2015 Earnings Call
+
+Operator
+Ladies and gentlemen, thank you for standing by, and welcome to ASML 2015 Fourth Quarter and
+Annual Results Conference Call on January 20, 2016. Throughout today's introduction, all
+participants will be in a listen-only mode. After ASML's introduction, there will be an opportunity to
+ask questions. I would now like to open the Q&A queue.
+I would not like to turn the conference call off to Mr. Craig DeYoung. Please go ahead, sir.
+Craig DeYoung `
+Thank you, Aaron, and good morning and good afternoon, ladies and gentlemen. This is Craig
+DeYoung, Vice President of Investor Relations at ASML. Joining me today from our headquarters
+here in Veldhoven in the Netherlands is Mr. Peter Wennink, our CEO, and Wolfgang Nickl, ASML
+CFO.
+The subject of today's call is ASML's 2015 fourth quarter and annual results. Before we start, I'd
+like to take a brief moment to address some questions from previous calls about our Q&A
+queue. The process is you'll be advised that the Q&A starts upon the operator's instructions at
+the opening of the call and not before. Therefore, there's really no value in calling in too long
+before the call starts in an attempt to get into the queue. And as the operator mentioned,
+questions will be taken in the order that they're received. The length of the call will be 60
+minutes. The call will be broadcast and is being broadcast live over the Internet at asml.com, and
+a replay of the call will be available on our website for approximately 90 days.Lastly, before we begin, I'd like to caution listeners that comments made by management during
+the conference call will include forward-looking statements within the meanings of the Federal
+Securities Laws. These forward-looking statements involve material risks and uncertainties. For a
+discussion of these risk factors, I encourage you to review the Safe Harbor statement contained
+in today's press release and presentation found on our website at asml.com and in ASML's
+Annual Report on Form 20-F and other documents as filed with the Securities and Exchange
+Commission.
+With that, I'd like to turn the call over to Peter Wennink for a brief introduction.
+Peter Wennink `
+Good morning, good afternoon, ladies and gentlemen, and thank you for joining us for our fourth
+quarter and annual 2015 results conference call. Before we begin the question-and-answer
+session, Wolfgang and I would like to provide an overview and some commentary on the recent
+quarter and provide our view of the coming quarters.
+Wolfgang will start with a review of the Q4 financial performance, with added comments on our
+short-term outlook. And I will complete the introduction with some further comments on the
+current general business environment and our future business outlook.
+So, Wolfgang?
+Wolfgang U. Nickl `
+Thank you, Peter, and welcome, everyone. For Q4, our net sales came in at €1.43 billion. This
+included system sales of €881 million of which memory represented 44% and logic represented
+56%. Service and field option sales came in strong at €553 million. This part of our business's
+growth continues driven by strong demand for holistic lithography options, high-value upgrades
+and a growing installed base.
+Our gross margin for the quarter came in at 46%, slightly above the guidance. R&D expenses
+came in at €273 million and SG&A expenses came in at €90 million, essentially as we guided. For
+the full-year, our net sales reached a new record of €6.3 billion, which is up 7% from the prior year
+and includes over €2 billion for field options and services. Gross margin for 2015 was 46.1%, up
+from 44.3% in 2014. Our basic earnings per share for 2015 were €3.22, up 18% year-over-year.
+Turning to the balance sheet. Quarter-over-quarter cash, cash equivalents and short-term
+investments grew from €2.68 billion to €3.41 billion, driven by a strong free cash flow, which was
+impacted by a significant amount of customer prepayments on orders received. In Q4, we
+repurchased shares worth €141 million, bringing the total amount for repurchased shares in 2015
+to €565 million.
+Regarding the order book, Q4 bookings came in at €1.2 billion, 31% above our Q3 booking.
+Strength in memory bookings continued to be notable with a significant growth in our foundry
+bookings, leading to a strong and nicely balanced backlog across all industry sectors of
+approximately €3.2 billion.
+With that, I would like to turn to our expectations and guidance for the first quarter of 2016. We
+expect continued healthy memory shipments supported by a strong backlog. Our service and
+field options sales will be around the €500 million mark again. We expect relatively modest logic
+shipments in the first quarter of 2016, leading us to guide Q1 revenue at approximately €1.3
+billion. As indicated, at this time last quarter, we do, however, expect our logic customers to takeshipments in Q2, which will start the ramp of 10-nanometer, and as a result, we expect Q2 sales
+to increase significantly from Q1.
+Based upon expected customer and product mix, a lower sales volume forecast and lower field
+option sales, we expect gross margins for Q1 to come in at around 42%. R&D expenses for the
+first quarter will be about €275 million and SG&A is expected to come in at about €90 million,
+both roughly the same as the previous quarter.
+Our annualized tax rate for 2016 is expected to increase to around 13% based upon a change in
+tax rules that transfer some tax benefit into R&D credits.
+Peter will talk more about our 2015 EUV accomplishments and 2016 key performance targets
+shortly, but I would like to make a few points regarding 2016 EUV shipments and explain a bit
+further the current and expected situation related to EUV revenue recognition.
+We completed three EUV shipments in 2015 and started the shipment of a fourth system before
+year-end. One of the three systems was recognized in revenue during 2015. The other two
+systems that shipped and the one system where shipment was started, should lead to a revenue
+of about €110 million in the middle of 2016 with the balance booked in 2017.
+For 2016, we expect to ship between six and seven EUV systems. The 2016 shipments will be a
+combination of NXE:3300, NXE:3350s and NXE:3400 going to both logic and memory
+customers. As a reminder, we will continue to guide expected revenue timing on additional EUV
+systems as they ship.
+And finally but certainly not without significant importance, ASML paid €302 million in dividends in
+2015 and we purchased 6.3 million of our own shares for €565 million, providing a total cash
+return to shareholders of €867 million during the year.
+In 2016, we are proposing to our Annual General Meeting of Shareholders on April 29 to increase
+our dividend by 50% to a level of €1.05 per ordinary share. Today, we have also announced the
+plan for an additional €1 billion of share repurchases over 2016 and 2017 on top of the remaining
+€500 million from our prior program.
+With that, I would like to turn the call back over to Peter.
+Peter Wennink `
+Thank you, Wolfgang. As Wolfgang highlighted, we concluded a financially very satisfying year.
+Expectations for the first quarter sales are approximately €1.3 billion, reflecting continued
+shipments for 28-nanometer, 16/14-nanometer logic capacity additions, albeit, at a relatively low
+level, and shipments to memory customers consisting of a mix of advanced and more mature
+system types.
+While first quarter sales are expected to be relatively moderate, we clearly see, as Wolfgang
+said, a significant increase in combined system and service sales in the second quarter, largely
+driven by system shipments for the initial ramp of advanced 10-nanometer production processes
+at our logic customers.
+While it is still a bit too early to say anything quantitatively about 2016, we do see trends and
+developments that we believe are worthwhile mentioning.
+In memory, as evidenced by the fourth quarter bookings and our current backlog strength, our
+customers have indicated that their system demand will continue throughout the first half of 2016at levels roughly equivalent to those of Q4. Although we expect that two DRAM fabs will continue
+to install some additional tools largely meant to support the next DRAM node, we also believe
+that 2016 shipments to this application will be down versus a strong 2015.
+On NAND, we believe that the capacity expansions will be focused on 3D NAND applications.
+With the announcement of the conversion of a Chinese fab to 3D NAND, that is now largely
+supported in our current backlog, we expect a flattish level of NAND systems revenues versus
+2015.
+One additional memory development that appears to be worth following is the introduction of
+the X-Point architecture. While the full opportunity extent of this new memory architecture is still
+under evaluation, its potential seems significant and could, therefore, become important to our
+business as the advanced processes anticipated in this application are quite litho-intensive.
+As for logic, it has now become clear to us that the introduction of the advanced 10-nanometer
+node ramp is progressing well, hence, the continued and clear customer commitment to ramp
+this node starting in Q2 2016. The speed and initial size of this ramp can be explained by the
+value proposition provided by the significant shrink of this node versus the 16-nanometer and 14-
+nanometer node. The ultimate spend levels for logic in 2016 will depend amongst other things,
+what the level of end-demand and the rate at which our customers will be able to execute their
+ramp, and it's, therefore, too early to accurately predict this today.
+For field options and services, we see continued strength in 2016, and this should show growth
+previously estimated to be in the range of 10%. On the product side, ASML continues to focus
+R&D spend on lithography tools that are essential to ramp all of the current and advanced
+processes.
+With the growing little challenges of complex and costly multi-pass patterning, our recently
+launched TWINSCAN NXT:1980 deep-UV immersion scanner with significant improvements in all
+key performance metrics started volume shipments last quarter. And now, with its widespread
+acceptance, it is ramping at a rate greater than any other advanced system in our history.
+Our holistic lithography products continue to gain acceptance of leading-edge customers, who
+are using our full suite of immersion process window enhancements and process control
+solutions to optimize yield at the most advanced product nodes. Holistic lithography products are
+now extending also into EUV processes, with customers evaluating our EUV source mask
+optimization software for the development of their 7-nanometer and 5-nanometer technologies.
+And finally, on EUV, as most of you are aware, our 2015 focus has been on improving EUV stability,
+availability and productivity, the key performance metrics that drive new technology adoption. In
+several recent public presentations, our customers have clearly recognized our EUV progress in
+these areas. In a four-week customer-run manufacturing readiness test at production conditions,
+we've seen 15,000 wafers exposed with comparable results achieved using the same power
+configuration at multiple customers.
+On the raw productivity side, we have a new system configuration, the NXE:3350 that has
+demonstrated in our factory more than 1,250 wafers exposed in a 24-hour period. Six out of eight
+systems at customer sites have achieved four-week average system availability of greater than
+70%, with one system reaching the 80% mark. However, the worldwide average is currently still
+lower, indicating that performance stability in the entire installed base needs to be further
+improved.We believe that our 2016 performance targets of 1,500 wafers per day and 80% total system
+availability are achievable, and will, therefore, be aggressively pursued over the course of this
+calendar year.
+Now, with that, we'll be happy to take your questions.
+Craig DeYoung `
+Thank you, Peter. Ladies and gentlemen, the operator will instruct you momentarily on the
+protocol for the Q&A session. But beforehand, as I always do, I'd like to ask you to kindly limit
+yourself to one question with one short follow-up, if necessary. This will allow us to get as many
+callers on today as possible.
+Now, operator, can we have your instructions and then the first caller, please?
+Q&A
+Operator
+Of course, sir. Ladies and gentlemen, at this time we'll begin the question-and-answer session.
+One moment please for the first question and that comes from Kai Korschelt from the Bank of
+America. Please go ahead.
+Q - `Kai F. Korschelt, Bank of America Merrill Lynch `
+Yes. Good afternoon, gentlemen, and thanks for taking my question. So the first one was just on
+the second quarter. So I'm just wondering what level of visibility do you have? What could be the
+magnitude of, I guess, the snapback? And the reason I'm asking is, I think, if I just your bookings in
+the fourth quarter and if I add maybe €0.5 billion service sales then it looks like we should be well
+above €1.6 billion. So I'm just wondering if that's the right ballpark. And then I have a follow-up.
+Thank you.
+A - Wolfgang U. Nickl `
+Well, we don't want to leave you down any particular number, but we chose the word significantly
+wisely, so we wouldn't do that if it would be just a little bit up. So we'll leave it at that today, but
+it's all underpinned by a strong ramp in 10-nanometer, and we also said that memory will be
+throughout the first half at Q4 levels. So I think you can approximate it from there pretty well.
+Q - `Kai F. Korschelt, Bank of America Merrill Lynch `
+Okay. And then, just a quick one on the gross margin. So I think the Q1 guidance is probably below
+where most people think it would be even if we look back at quarters with similar revenue – run
+rates. So I'm just wondering broadly one of the reasons and should we kind of expect that if we
+do see the recovery in demand and revenues in the second quarter that we should sort of settle
+back at the 47%, 48% level that, I think, we've become used to that's obviously before EUV.
+Thank you.
+A - Wolfgang U. Nickl `
+Yeah, Kai, I can address that as well. First of all, there are no structural changes in a sense that
+you should be worried that pricing came down or we have any cost issues. This is purely a
+function of lower volume at one, and then, more so a change in mix between products and
+customers. And then, also, within the service and field options the service is a bit higher whenwhen we say foundry is lower and memory is higher, foundry tools are usually in a richer
+configuration going to the customer.
+Now, if you want to look at Q2, we won't give you an exact number, but when you consider that
+the volume will go up and the foundry shipments will go up and it's 10-nanometer, it will be pretty
+nicely configured tools. You'll know in which direction the margin will go.
+Q - `Kai F. Korschelt, Bank of America Merrill Lynch `
+Okay. Great. Thank you.
+A - Wolfgang U. Nickl `
+Thank you.
+Operator
+The next question comes from Sandeep Deshpande. Please state your company name followed
+by your question.
+Q - `Sandeep S. Deshpande, JPMorgan Cazenove `
+Yeah. Hi. I'm Sandeep Deshpande from JPMorgan. My question would be, Peter, on the memory
+market, you said that you're going to have a flattish trend in the first half in the memory market.
+Do you see this into the second half substantially correcting? Or you don't have visibility at this
+point into this segment?
+Secondly, I have a quick question on EUV as well. I mean, clearly, EUV is progressing much better
+at this point in terms of throughput and you've given some of the statistics. What timeframe do
+you see EUV actually being built for production volumes? Thanks.
+A - Peter Wennink `
+Okay. On the memory market, like I said in the introductory comments, we have very clear
+visibility, given by our customers, also evidenced by our bookings that we received in the fourth
+quarter on what we are going to ship in the first half, which is focused on also the introduction of
+the new DRAM nodes. So you could say, it's clearly a technology transition that is driving the
+shipments in the first half. We don't have that visibility yet on the second half. This is our current
+thinking. I already gave you some indication of what was said by some of the market research
+analyst firms.
+They expect – and if they are right, 25% bit growth for next year would mean about flat wafer
+capacity year-on-year 2016 versus 2015. So that means that if the initial shipments of the
+technology transition happen in the first half, then the second half will be lower if there are no
+capacity additions needed. How much lower? That's a bit too early to say, but clearly, first half,
+technology trend and transitions and second half, probably, a lot less.
+Q - `Sandeep S. Deshpande, JPMorgan Cazenove `
+Thank you.
+A - Peter Wennink `
+On EUV throughput, yes, and we've made good progress. We've agreed with our customersYou have to look at 2016 as I would say the last phase in the EUV introduction of where our
+customers are developing their next nodes for which they're planning their production output in
+2018 and 2019. So it's the last phase of the development node and the qualification of those
+architectures that we will see in 2018/2019 hitting the market.
+That means that 2017 will be the year where we will start to see the start of the EUV shipments
+for production. And they will be used in 2018. And that will accelerate throughout 2018. So 2017,
+we'll see the first start to make sure we can do – customers can do the output in 2018 which will
+accelerate in 2018 further on.
+So that's nothing different than we said, I think, last quarter. So no change from that respect.
+Q - `Sandeep S. Deshpande, JPMorgan Cazenove `
+Thanks, Peter.
+Operator
+The next question comes from `Gareth Jenkins, UBS Ltd. (Broker). Please state your company name followed by
+your question.
+Q - `Gareth Jenkins, UBS Ltd. (Broker) `
+Yeah. A couple if I could, or rather one and one follow-up. So I just wondered if you could talk
+about 10-nanometer ramp. Now you've got maybe a bit more visibility around that, should we still
+be thinking about 10% pure wafer starts between the 20/16/14 nodes and the 7/10 nodes, but
+also a 40% to 50% lithography intensity increase. Just wondered if you could kind of elaborate on
+that now you've got more line of sight and then I have a follow-up on EUV. Thank you.
+A - Peter Wennink `
+Yeah. Just for clarification, I just missed a part of your question on your 10%. You referred to 10%,
+what was that exactly?
+Q - `Gareth Jenkins, UBS Ltd. (Broker) `
+The low wafer starts, Peter, between...
+A - Peter Wennink `
+Okay. Sorry.
+Q - `Gareth Jenkins, UBS Ltd. (Broker) `
+...20/16/14 and 7/10.
+A - Peter Wennink `
+Yeah. It's basically that's the assumption on the 10% that we still work with. We don't have any
+other data. I'll comment on that a bit later also. The 40% litho intensity, yes, that's what node-on-
+node. That's still what we think is a realistic number. On the node-on-node wafer capacity
+reduction, the 10% is still what we are using. You have to bear in mind that starting from the 28-
+nanometer node, we see those nodes extending a lot longer than what we saw in the past. And
+you've been around a long time, so you know that between five and 10 years ago, nodes had a
+two-year life, and then the previous nodes stopped, next node came and lasted about two yearsand almost all logic customers moved in the same time period, which is less the case today or
+not the case today.
+We see the initial acceptance of a new node being driven by the leading-edge customers. And
+they install rather swiftly and rather fast quite a significant amount of capacity and then you see
+the other customers in that segment, you could say, the second-tier customers following later.
+This is also what we see today. 28-nanometer is still being shipped even in Q1 of 2016, which is
+more than four years after the initial introduction.
+So you can see a kind of coming back in the first phase of that node, and but on much longer tail,
+which also makes it more difficult for us to say how much will that wafer capacity for that node be,
+yeah? We assume 10%, but over time, it needs to be proven whether this is the correct number.
+Q - `Gareth Jenkins, UBS Ltd. (Broker) `
+That's great. And just one follow-up. It looks like your Chinese orders are very strong. Some are
+around €500 million, which I assume is mostly Dalian. Can you just give us a sense of your market
+share into China through the course of this year or rather on those orders?
+A - Peter Wennink `
+Well, our market share in China has always been pretty good, and it will stay pretty good. I'm not
+going to give you an exact number, but we have no worries about our market share in China.
+Q - `Gareth Jenkins, UBS Ltd. (Broker) `
+Okay. Thanks.
+Operator
+The next question comes from `Jérôme Ramel, Exane, Inc.. Please state your company name followed by
+your question.
+Q - `Jérôme Ramel, Exane, Inc.
+Yeah. Good afternoon. `Jérôme Ramel, Exane, Inc. from Exane BNP Paribas. Peter, just wanted to come back
+to the point you made that your clients seem to be keen on moving to the 10-nanometer node
+because that's a significant improvement compared to the 16/14, let's say, the 20-nanometer.
+Could you just give us a sense why is it better? Is it in terms of yield, it's in terms of cost per
+transistor? What would make the 10-nanometer node more attractive than the 16/14?
+A - Peter Wennink `
+Yeah. From a lithography point of view, the 16/14 node is very similar from a litho half-pitch
+dimension point of view, very similar to the 20-nanometer node. So you really should not
+compare 16-nanometer and 14-nanometer from a litho pitch point of view to 10-nanometer, but
+really 20-nanometer to 10-nanometer. And that's a big shrink. And as you know, shrink has a big
+impact on the cost per bit. So it is driven by cost per bit. And for some customers, actually, it's
+also value, just putting more functionality on the same square surface. That's what's driving it.
+Q - `Jérôme Ramel, Exane, Inc.
+So you see – to be clear, you see the cost per transistor going down at 10-nanometer node?A - Peter Wennink `
+Yes. Yes.
+Q - `Jérôme Ramel, Exane, Inc.
+Okay. And maybe just one follow-up, you gave kind of a guidance for the full-year, I mean,
+quantitative guidance for the memories or Flash being flat and DRAM going down. I'm not sure I
+understood for logic and foundry what the trends are qualitatively compared to 2015.
+A - Peter Wennink `
+Well, I think the – Wolfgang said the first quarter is relatively benign, but we really see the ramp
+starting in Q2. And then also, we're extending into IDM, not only for our foundry but also IDM on
+10-nanometer, which will be the remainder of the year, which will drive the remainder of the year.
+Now, if you just look at the size of that ramp, and the ultimate size for this year is always a bit
+difficult to predict in the third week of January, so as we're very early in this year. But if you look at
+that, what customers are telling us, it's going to be a significant ramp and will be driven by the
+leading-edge players, not so much by the followers, which will follow on, I said it in an earlier – as
+an answer to an earlier question, which will probably have a much longer tail. But the initial ramp
+what we are seeing will be significant and that causes us to state that the 2016 logic market for us
+will be significantly higher than 2015.
+Q - `Jérôme Ramel, Exane, Inc.
+For logic, that includes logic and foundry or that's just purely logic?
+A - Peter Wennink `
+That is logic versus foundry and IDM.
+Q - `Jérôme Ramel, Exane, Inc.
+Okay. Thank you.
+A - Peter Wennink `
+Yeah.
+Operator
+The next question comes from Mr. Muse. Please state your company name followed by your
+question.
+Q - `C.J. Muse, Evercore ISI
+Yeah. Good afternoon. `C.J. Muse, Evercore ISI with Evercore ISI. I guess, first question, and I know there's a lot
+of moving parts here, but curious what are the key milestones we should be watching for EUV to
+be designed in at the 7-nanometer node.
+A - Peter Wennink `
+I think we mentioned those. I think for our customers, it's most important that they have a certain
+level of productivity, but it's very important that when you start planning your production, that theavailability is critical. So the 80% availability target is what we agreed with our customers. This is
+what we are at least following, and I'd also like to refer to our presentation where you can see
+that.
+On productivity, quite interesting. One of our key customers in a question that was asked recently
+on whether 500 wafers per day would be sufficient for them to go into production, assuming a
+reliable or a – let's say, good availability of the tool. And the answer was yes, they would use it. So
+you can draw a conclusion from that answer, that it's not so much now about the productivity, it is
+about the availability, so this is what we're really focusing on this year.
+Q - `C.J. Muse, Evercore ISI
+That's helpful. And I guess, as a follow-up, in terms of foundry logic spend this year, clearly, a very
+good year for 10-nanometer. Curious if you could share your thoughts on sort of the mix this year
+between 10-nanometer China foundry spending year-over-year as well as whether you're seeing
+any incremental capacity adds at the 14-nanometer, 16-nanometer nodes. And then, I guess, to
+follow on to that, your expectations for that 10-nanometer ramp to continue into 2017.
+A - Peter Wennink `
+Yeah. I make some notes. The 10-nanometer ramp is predominantly outside China, if you refer to
+China. When we see the Chinese logic or foundry market, we're clearly focusing on the nodes
+before 10-nanometer. So the 28-nanometer node is still relatively strong in China, but also very
+clear indications of the move to 16-nanometer and 14-nanometer. And that is where we see
+Chinese foundries going. Like I said, the 10-nanometer ramp will be outside China.
+2017, it was a good question. I think it's too early for us to say anything about 2017. I think what
+we'll have to go through is the next two quarters, three quarters of the initial ramp, which we
+have a pretty decent visibility of. And 2017 will be driven, I think, by the end-markets. And we'll just
+– a bit too early to comment on that, C.J.
+A - Wolfgang U. Nickl `
+But, directionally for – C.J., directionally for 2016, the 10-nanometer will make out the majority of
+our shipments.
+A - Peter Wennink `
+Sure, sure.
+A - Wolfgang U. Nickl `
+But there will still be 28-nanometer and 16-nanometer and 14-nanometer shipments as well.
+A - Peter Wennink `
+Yeah, but those are then predominantly in the direction of China and somewhat in Taiwan.
+Q - `C.J. Muse, Evercore ISI
+Great. Thank you so much.
+OperatorThe next question comes from Mr. Hosseini. Please state your company name followed by your
+question. Mr. Hosseini, you can ask your question.
+A - Craig DeYoung `
+It sounds like he's not there, operator. Why don't we go to the next one?
+Operator
+The next question comes from Amit – I'm sorry for the pronunciation – Harchandani from Citi.
+Please go ahead, sir.
+Q - `Amit B. Harchandani, Citigroup Global Markets Ltd. `
+Thanks. This is Amit Harchandani from Citigroup. Good afternoon, ladies and gentlemen.
+A - Peter Wennink `
+Hi.
+Q - `Amit B. Harchandani, Citigroup Global Markets Ltd. `
+I've got two questions. Firstly, with regards to a topic that does come up often for discussion,
+which is equipment reuse. We've heard some of your peers talk about it or customers talk about
+it. Could you give us a sense of how you see equipment reuse impacting your prospects for this
+year as compared to last year and more so looking forward towards your medium-term financial
+roadmap across the different end-segments? So that would be my first question and I have a
+follow-up.
+A - Peter Wennink `
+Okay. The equipment reuse, it always – it appears to dominate some of our discussions lately, but
+it's always been there, yeah? Large IDMs have always done this. And it's a very sensible way to
+manage your capital efficiency. Now, with tool prices going up to where they currently are,
+advance DPV (32:39) prices of €50 million. There's more and more focus of our customers on
+capital efficiency.
+And the reuse program, which we have designed by adapting the architecture in such a way that
+we get upgrade from one node to the other and with litho intensity going up with about 40%
+node-on-node and there's a very clear drive on our customers to say what part of my installed
+base can we upgrade to the next node, that's called a reuse. That doesn't cover the 40% litho
+intensity at all. It just covers part of it, yeah? And we have had situations whereby reuses, let's say,
+upgrades were planned on a previous node, but never happened because the previous node
+extended longer than the original planning.
+So it's nothing new. I think it's going to be part of our business going forward, very healthy part if
+you think about an extensive upgrade from a NXT:1950 to a NXT:1970, for instance, it's a €20
+million-plus upgrade with a decent margin, which is good business for us, helps us. It increased
+our services and option sales business and helps our customers to manage their installed base.
+So I think it's going to be part of our business going forward. It might be new to some of our
+peers, but it isn't to us, because our tools have always been one of the most expensive in the
+customer fab. So it's here to stay and it's good.Q - `Amit B. Harchandani, Citigroup Global Markets Ltd. `
+Thanks, Peter. And then, just to clarify, the extent of reuse that you're seeing out there right now
+is in line with your 2020 financial roadmap?
+A - Wolfgang U. Nickl `
+Yes, it is.
+A - Peter Wennink `
+Absolutely. Yes. In our 2020 roadmap, we have actually included that reuse. It is an inevitable
+event. And the level of reuse that we're seeing is very much in line with our expectations.
+Q - `Amit B. Harchandani, Citigroup Global Markets Ltd. `
+Thank you. And just as a follow-up, if I may, Wolfgang. Could you kindly, just once again, explain or
+elaborate upon your comment of EUV revenue recognition for this year? I'm afraid I did not catch
+it correctly. Was it €110 million in the middle of the year? So what are we looking for in terms of
+EUV revenues this year? If you could shed some light on that. Thank you.
+A - Wolfgang U. Nickl `
+You got that right. I mean, first of all, we told you that while we are on this transition period,
+where we can recognize not when a tool leaves our factory, we will give you guidance as we ship
+the tools. And I said we shipped three tools last year and of which only one recognized. And on
+top of that, we started the shipment of another tool. Of the two tools that shipped and have not
+recognized last year and the tool that has started to ship, from these three tools together, you
+should expect approximately €110 million in revenue that will be somewhere in the Q2, Q3
+midyear timeframe, and the balance of the revenue will likely recognize in 2017.
+Now, the starting point and then we also said that we'll ship more tools this year. And those, of
+course, will – we also told you there is, for instance, NXE:3300 amongst them, which will
+recognize faster, because there the recognition rules are different, because we just need to
+demonstrate that we can bring the wafer.
+So there's more to come. So you got to bear with us as we make these shipments. And lastly, I'll
+say also that we will start to see some service revenue in the EUV field. We already had some last
+year. Our total revenue was about €100 million or so and only a little bit over €60 million came
+from systems. So you have to bear with us, Amit. We'll give you information as we go through the
+year.
+Q - `Amit B. Harchandani, Citigroup Global Markets Ltd. `
+Just to confirm, a minimum of €110 million, but the actual number could vary depending on your
+updates as you go through the quarter, no?
+A - Wolfgang U. Nickl `
+That is correct.
+Q - `Amit B. Harchandani, Citigroup Global Markets Ltd. `
+Thank you.Operator
+Your next question comes from Mr. Sanganeria. Please state your company name followed by
+your question. I'm sorry. One moment. Go ahead, sir.
+Q - `Mahesh Sanganeria, RBC Capital Markets LLC `
+(37:14) same level as – hello?
+A - Wolfgang U. Nickl `
+Go ahead. We can hear you.
+Q - `Mahesh Sanganeria, RBC Capital Markets LLC `
+Can you hear me?
+A - Peter Wennink `
+Yes.
+A - Wolfgang U. Nickl `
+We hear you now.
+Q - `Mahesh Sanganeria, RBC Capital Markets LLC `
+Yes. Okay. You said memory at similar level to Q4 which has about €350 million down 35%. So
+first half at that level and second half you said decline. That will indicate a significant down year-
+over-year. Did I understand that clearly?
+A - Peter Wennink `
+Well, I refer to DRAM. And since we don't split out DRAM in the fourth quarter results, so DRAM
+shipments will be about equivalent to Q4. NAND will be over the year, year-on-year will be about
+flat.
+Q - `Mahesh Sanganeria, RBC Capital Markets LLC `
+Okay. And I want to follow up on the China. You had pretty strong orders in China. Somebody
+mentioned €500 million, pretty close, and mostly probably on NAND side, is that shipment to
+China mostly in Q2?
+A - Peter Wennink `
+That shipment starts in Q1.
+Q - `Mahesh Sanganeria, RBC Capital Markets LLC `
+Starts in Q1? Okay.
+A - Peter Wennink `
+And will continue, yes.
+Q - `Mahesh Sanganeria, RBC Capital Markets LLC `All right. Thank you.
+A - Peter Wennink `
+Thanks.
+Operator
+The next questions come from Mr. `Mehdi Hosseini, Susquehanna Financial Group LLLP. Please state your company name followed by
+your question.
+Q - `Mehdi Hosseini, Susquehanna Financial Group LLLP `
+Thanks for taking my question. Peter, going back to your 2015 performance, your foundry
+revenues are up 36%, but immersion system shipment was down and ASPs were down, too. And
+can you help me understand how did this mix change despite the fact that the foundries were up
+so much? And I have a follow-up.
+A - Wolfgang U. Nickl `
+For 2016, you said?
+Q - `Mehdi Hosseini, Susquehanna Financial Group LLLP `
+2015.
+A - Wolfgang U. Nickl `
+2015. 2015. Yeah. Again, foundry shipments up – the ASP – we shipped significantly more systems
+altogether, and there were also KrF in all those systems in there. So like-for-like, the ASP didn't go
+down, but because of the mix, the ASP went down.
+A - Peter Wennink `
+Yeah, and it's KrF.
+Q - `Mehdi Hosseini, Susquehanna Financial Group LLLP `
+Does that reflect the foundry spend more on a trailing edge versus leading edge?
+A - Peter Wennink `
+There is absolutely – like we said earlier, we are currently shipping a different node layers. We're
+shipping 28-nanometer, 14-nanometer, 16-nanometer, the first 10-nanometer R&D tools. So it's a
+quite mixed bag of those tools. So to draw a conclusion on ASPs and ASP trends is a bit difficult,
+because it's quite a mixed bag. But, what we can say is that with every node transition the ASP
+goes up because of the richer configuration including a lot more holistic litho options.
+Now, in 2015, which is through, we had a mixed bag of 28-nanometer node, 14-nanometer, 16-
+nanometer node and some 30-nanometer, 10-nanometer node shipments. So, I think it's a bit
+difficult and it did get include as we put in the presentation as lot more KrF.
+Q - `Mehdi Hosseini, Susquehanna Financial Group LLLP `
+Okay. And then my follow-up question has to do with China. Can you elaborate more what areChina?
+A - Peter Wennink `
+Well, it's both foundry and now also memory, so it's a shift to us or it's the shift to region and it's
+stronger. And that's because memory is now also adding on top of the logic shipments, which
+have predominantly driven by 28-nanometer.
+Q - `Mehdi Hosseini, Susquehanna Financial Group LLLP `
+So, there is a new NAND fab that is coming online, but also one of your Korean customers has a
+fab in (41:25). How should we think about the mix, new fab, existing fab on the 3D NAND and also
+the foundry market? Is it evenly split or is one more than the others?
+A - Peter Wennink `
+Well, I think there are existing fabs and refurb fab. One of the existing fabs that you refer to is
+already full. So, that means that the refurb fab is going to take tools. That's what it is. It's as
+simple as that and not more difficult than that. So...
+Q - `Mehdi Hosseini, Susquehanna Financial Group LLLP `
+Got it. Thank you.
+Operator
+The next question comes from Pierre Ferragu. Please state your company name followed by your
+question.
+Q - `Pierre C. Ferragu, Sanford C. Bernstein & Co. LLC `
+Hey. Good morning. It's Pierre Ferragu, Bernstein. So, I have a question on your gross margin for
+the back-end of the year. If I understand you correctly, foundry is going to be very strong, that's a
+10-nanometer node, it's very high-end tools, a lot of options and upgrades, and memory is going
+to be low. So, should we expect like a very healthy gross margin development beyond Q2? So,
+like Q3 and Q4 gross margin should be also heading in the right direction? So, that's one
+question.
+And then I have just a quick follow-up on EUV. I get, at some point, confused about insertion. My
+understanding is that both your IDM customers and your foundry customers are going to insert
+EUV at the 5-nanometer nodes, so not the next one but the one after. Is that also how you see
+the world from where you are?
+And then maybe on this 5-nanometer node insertion, how much visibility do you have today on
+how heavy an insertion it is going to be? Are we going to use EUV tools only at a very, very low
+level for the first layers or are we heading into a more massive adoption of EUV at this 5-
+nanometer node? Thanks.
+A - Wolfgang U. Nickl `
+Yeah. Let me answer that EUV question first. Whether it's called 5-nanometer or 7-nanometer, I
+don't want to go into that nomenclature, because there is a lot of confusion about what is what.
+And I'm also not going to tell you what we believe the lithography pitches because that's what's
+probably going to make it easier to understand that we're talking about the same thing.What is most important and that's what we should focus on is why do you call it 5 or why do you
+call it 7. Our customers, our leading-edge customers make it very clear to us that they will start
+the output of their chip architectures that need EUV, whether that's 5, whether that's 7, I don't
+know how they call it and I don't care. But, when they need EUV for output, it's 2018 starting,
+2018, 2019, which actually means that our shipments for production purposes need to start in
+2017. It takes about a year to really qualify for a production ramp.
+So, this is what we are focusing on. This is what we're discussing with our customers and this is
+also driving the decision points and the entry points for our customer for production and the
+insertion. It is 2018, 2019 timeframe.
+Q - `Pierre C. Ferragu, Sanford C. Bernstein & Co. LLC `
+Okay. And in terms of the volume of insertions, is that going – do you have already visibility on
+how high in the architectural the chip EUV is going to be used? Is it just going to be the most
+critical layer or more than that? Do you have that visibility already or is that still something that
+needs to be defined?
+A - Peter Wennink `
+Yeah. We have visibility, reasonable visibility from our customers. But it actually leads us to believe
+what we said in the past, that the first year of volume ramp – and as you know with the
+lengthening of the nodes – we discussed it a couple of quarters ago, everything is about six
+months to 12 months later than we thought about a year ago. But we believe that the initial year
+of the production shipment will be a dozen or so tools and then this will double every year that
+we move on.
+So, we are still – all our simulation models still show the same thing. So, the first year of the
+production shipments, it's about a dozen tools and then it will double the year after that and
+double the year after that. That would be (45:55) right model.
+A - Wolfgang U. Nickl `
+And as it relates to the gross margin question, Pierre, yeah, you're right from the direction – in the
+second half, as logic will be a bigger part of it, directionally margin goes up. Of course, we don't
+know the exact volume yet, so we can't describe that volume effect, but directionally, you're right.
+One caveat: if there's a concentration of EUV revenue recognition in a quarter, you will see some
+distortion, but when we get to that bridge we will explain to you how that works and show you
+the margin without EUV as well.
+Q - `Pierre C. Ferragu, Sanford C. Bernstein & Co. LLC `
+Okay. And thank you very much.
+A - Wolfgang U. Nickl `
+You're welcome.
+Operator
+Next question comes from Andrew Gardiner. Please state your company name followed by your
+question.
+Q - `Andrew M. Gardiner, Barclays Capital Securities Ltd. `Thank you. It's Barclays. Good afternoon, guys. Just another one on EUV. In terms of the sort of
+looking at the milestones you're targeting for this year, I'm just trying to understand roughly when
+we might be able to sort of get a better idea as to how you're making progress. You seem to be
+in a bit of a gap at the moment. Clearly, the customers have the 3300 tools installed and running.
+And those are a lot of the metrics you were talking about. The 3350s are there or on their way.
+So, when can we expect to see some of the first news on the 3350 tools at the customer sites?
+Is SPIE too early or is it going to be a bit later than that?
+A - Peter Wennink `
+Well, it's a good question. As you pointed out, the 3350 is really the tool that has the
+improvements on it that will give us the 1,500 wafers per day and the 80% availability capability.
+Now, those tools are just starting to ship. They need to be installed. The installation only takes a
+quarter or three months, which actually makes it too late for any, let's say, significant information
+on the SPIE Conference, which is in February. So, it will be around mid-year. That's what you need
+to focus on.
+Q - `Andrew M. Gardiner, Barclays Capital Securities Ltd. `
+Okay. And then just a sort of quick follow-up. I mean, you've highlighted the six tool to seven tool
+shipments, EUV tool shipments this year. Can you give us any sense as to when those are coming
+or you haven't really – I know there's no revenue recognition for those tools. But, just in terms of
+the rough timing of shipment to – for us to gauge when those are leaving the facility.
+A - Peter Wennink `
+Well, they have started to leave the facility this quarter, the first one. So, it will be throughout the
+year. There will be a tool shipping every quarter. And as to revenue recognition, Wolfgang already
+said it. He gave some clear guidance for the revenue recognition of the tools that we shipped
+last year and the one that was in the process of shipping towards the end of the year. Now, of the
+six tools to seven tools that will ship in this year, there will be some revenue recognition because
+there's a 3300 in there, which will very likely – two of them could be, which will book revenue. And
+also, on the 3350s, it depends on the conditions or the order conditions whether we can take
+some revenue already in 2016. So, that's why Wolfgang said it's the minimum, and there's very
+likely going to be EUV revenue on top of that in the course of the year.
+Q - `Andrew M. Gardiner, Barclays Capital Securities Ltd. `
+Understood. Thanks very much, guys.
+Operator
+Next question comes from Francois Meunier. Please go ahead, sir.
+Q - `Francois A. Meunier, Morgan Stanley & Co. International Plc `
+Thanks for taking my question. I just wanted to have some technical details about this 3350B that
+you're currently running in your factory. First, congratulations for achieving the 1,250 wafers per
+day in Q4. That's a great achievement. What was the availability of this machine actually during
+Q4? And maybe if you could give us some details about the laser which was used, if it was 120
+watts or a different laser source for EUV. That's the first question.
+The second question is, I know it's a bit cheeky, but it's good to announce the €1 billion share
+buyback, but why not more given the progress made by EUV at the moment and your confidencein the 2020 target of €10 billion revenues? Thank you.
+A - Wolfgang U. Nickl `
+Well, I'll start with the second part and then Peter will answer the first part. Well, this is just another
+layer. We have a very clearly stated financial policy that as we evaluate what our minimum cash
+needs are, then we service the dividend first, that we want to have at least stable, preferably
+growing. The last six years, we have always been growing it. And then all the balance will go
+towards share buybacks.
+Now, we just roll out layers of these share buybacks, and as soon as we have used up the money,
+we will introduce the next layer, Francois. But you shouldn't be concerned by that at all. We're
+executing the financial policy, and as we generate the free cash flow, once we're through the
+remaining €1.5 billion, you should expect us to announce the next tranche.
+A - Peter Wennink `
+On your question on the technical details of the 3350, well, we started shipping the 3350 in our
+factory and we measure availability at the customer sites while we haven't installed it yet and are
+running it at the customer site. So, it would be a bit difficult to give you an answer there. It's too
+early.
+And also, to the question of, as an earlier question, when are we going to see data on availability
+and wafer spread per day, probably more towards the middle of the year. So, the technical
+details, but there are some features in the 3350 like the in-situ cleaning and some other features
+that give us the confidence that we should have a higher availability and also a higher throughput,
+not so much because we have a stronger laser, the laser is the same, but more because of the
+transparency of the illuminator and the optics that gives us a better transmission. And that's why
+we get a better throughput.
+Q - `Francois A. Meunier, Morgan Stanley & Co. International Plc `
+Okay. Thank you.
+Operator
+The next question comes from Mr. Ahmad. Please state your company name followed by your
+question.
+Q - `Farhan Ahmad, Credit Suisse Securities (USA) LLC (Broker) `
+Hello. This is `Farhan Ahmad, Credit Suisse Securities (USA) LLC (Broker) from Credit Suisse. Thanks for taking my question. Peter, my first
+question is regarding 3D NAND. I just wanted to make sure I understand correctly. Relative to your
+last call, it seems like you're upticking on the overall NAND CapEx. And I wanted to understand
+whether the linearity of the CapEx is also more rigid like the DRAM CapEx in the first-half or do
+you expect like the NAND CapEx to be more evenly split throughout the year?
+A - Peter Wennink `
+Well, the 3D NAND guidance is up as compared to last quarter where we thought we were going
+to be down in this year, but that's because we have this new refurb fab of 3D NAND in China that
+actually came up. And it's relatively flat throughout the year, so, there's not a big bias to one or
+the other half.Q - `Farhan Ahmad, Credit Suisse Securities (USA) LLC (Broker) `
+Got it. And then, relative to your NXE:3350 systems, they're supposed to get you to about 80%
+availability and 1,500 wafers per day. Where do you see the performance in the lab today and
+what should we expect when the tools are at the customer site? Should we start getting like
+1,500 wafers per day from the get-go or will that take some time to get demonstrated at the
+customer sites?
+A - Peter Wennink `
+What our customers will actually do, because they're very expensive machines, they will always
+ramp these tools slowly. They go through a process of qualification and then they will start
+increasing the power, they will start increasing – with increasing the power, they will get more
+wafers. So, it's going to be through cycles of learning. So, it is not to be expected that they will
+gung-ho from day one. They will probably say, let's start where the 3300 left off, and then,
+they're going to gradually increase.
+Q - `Farhan Ahmad, Credit Suisse Securities (USA) LLC (Broker) `
+Got it. Thank you. That's all I had.
+A - Peter Wennink `
+Thank you.
+Operator
+The next question comes from Patrick Ho. Please state your company name followed by your
+question.
+Q - `Patrick J. Ho, Stifel, Nicolaus & Co., Inc. `
+Thank you very much. Stifel Nicolaus. Peter, just in terms of the EUV insertion at the 7-nanometer
+logic node, do you believe that change in cadence with their tick-tock process? Do you believe
+that buys you a little more time in terms of, I guess, guaranteeing the insertion for high-volume
+production at 7-nanometers.
+A - Peter Wennink `
+Well, I don't think that's related. I mean, customers have their plans on whether they follow
+cadence A or cadence B. What they tell us is that they need that production output in a certain
+period, in a certain year, which is starting in 2018, and then you just calculate back using the cycle
+time that we need and then we come to a moment where we need to start shipping the tool.
+And what ultimately drives the decision of the customer to say I need that output in 2018 or 2019
+– there are many, many reasons. It is not only cadence, it's also time that they need to actually
+develop that next node. And for us, it's not that relevant. Most relevant is when do they need the
+tool, when do they tell us that they need the tool; and that's clear, 2018-2019 output, 2017
+shipment starting for us.
+Q - `Patrick J. Ho, Stifel, Nicolaus & Co., Inc. `
+Great. And my follow-up question in terms of the holistic lithography growth that you've seen
+over the last few years, how do you project the growth first in 2016 and maybe over the nextcouple of years given that it's gotten strong adoption? Do you see the growth rate's tapering out
+somewhat or will you expect to continue to see that growth in that segment of your business?
+A - Wolfgang U. Nickl `
+Yeah. So, in 2014, our holistic lithography business was just over €500 million. Last year, it was
+over €600 million, so it's growing nicely. We previously talked about by 2017-2018, we want to be
+at €1 billion for this business. And as a remainder, to a very large degree, a software type of
+business with very healthy gross margins, only the yields start being the hardware there.
+And then, you can anticipate that it will continue to grow going into our 2020 plan. It's part of
+helping us on the accretion of the gross margin to a 50% level. And we've also started to see
+and report it back to you that customers are evaluating some of the software features for EUV as
+well. So, it's not going to go away when EUV is coming in.
+A - Peter Wennink `
+Yeah. And I think just to add to this, I think on the total service and option sales, which includes
+holistic litho that Wolfgang referred to. In our model, we see that growing from the €2 billion,
+where we are today, to the €3 billion to €3.5 billion by that time by 2020.
+Q - `Patrick J. Ho, Stifel, Nicolaus & Co., Inc. `
+Great. Thank you.
+A - Craig DeYoung `
+Excuse me. Ladies and gentlemen, we have time for one last call. So, if you are unable to get
+through on this call and still have questions, please feel free to contact the Investor Relations
+Department with your question, and we'll get back to you as soon as we can. Now, Aaron, can we
+have the last caller, please?
+Operator
+The final question comes from `Timothy Arcuri, Cowen & Co. LLC. Please state your company name followed by your
+question.
+Q - `Timothy Arcuri, Cowen & Co. LLC `
+Cowen and Company. Thanks. I had two questions. I guess, first of all, Peter, just on the overall
+2016 outlook, I know you said that DRAM is going to be down a lot, NAND is flat, and logic is up a
+lot due to 10-nanometer. So, where do you and Wolfgang think that that leads us for the year?
+Obviously, it's going to be up, but how much? Is it like up 10% a comfortable number for the year
+at least?
+A - Peter Wennink `
+Well, we're all well-trained accountants. So, if you take 2015, and I will give you a percentage up,
+we would guide you for 2016, which we said we weren't going to do. So, unfortunately, we have
+to stick to what we call as qualitative guidance. And I think throughout the year we get – there's a
+better feel for how the back end of the year is developing, and really talk about really the Q4,
+back-end of 2016.
+Q - `Timothy Arcuri, Cowen & Co. LLC `Okay. And then I guess just a follow-up on China, I know that there were some questions asked
+about this. But, the big order number of roughly €500 million, sounds like this is really 3D NAND.
+But, if I divide the number, that suggests it's like 120,000 of wafer starts worth of capacity. And
+we know that the Korea fab in China is full, and the only fab this big is the one that's still searching
+for a technology partner. I think the fab you talked about it in the prepared remarks is like half this
+size. So, are we seeing orders for this other fab that's still looking for a technology partner or is
+my math not right?
+A - Peter Wennink `
+Well, let me make one thing clear, China is not only 3D NAND. That's a new feature of the
+Chinese market, on this particular refurb fab, and that's only part of the story. There's also
+Chinese foundries in there. So, there's also onesies and twosies shipment to a fab that are
+almost full. So it's a mixed bag. It's definitely not only 3D NAND.
+Q - `Timothy Arcuri, Cowen & Co. LLC `
+Okay. Thanks so much.
+A - Peter Wennink `
+Yeah. Okay. That's it.
+Well, thank you, everybody. On behalf of ASML's board of management, I'd like to thank you for
+joining us on the call today. So, operator, if you could formally close the call, we'd appreciate it.
+Thank you.
+Operator
+Ladies and gentlemen, this concludes the ASML 2015 fourth quarter and annual results
+conference call. Thank you for participating. You may now disconnect your lines.

@@ -1,0 +1,531 @@
+Y 2020 Earnings Call
+
+Presentation
+Operator
+Hello and welcome to the Nokia Fourth Quarter and Full Year 2020 Earnings Teleconference and
+Video Call. All participants will be in listen-only mode. (Operator Instructions) After today's
+presentation, there will be an opportunity to ask questions. (Operator Instructions) Please note
+that this this event is being recorded.
+I would now like to turn the conference over to Mr.`Matt Shimao, Head of Investor Relations, Head of Investor Relations. Sir,
+you may begin.
+`Matt Shimao, Head of Investor Relations `
+Ladies and gentlemen, welcome to Nokia's Fourth Quarter and Full Year 2020 Conference Call.
+I'm `Matt Shimao, Head of Investor Relations, Head of Nokia Investor Relations. `Pekka Lundmark, President and Chief Executive Officer, President and CEO of Nokia;
+and `Marco Wiren, Chief Financial Officer, CFO of Nokia are here with me via teleconference and video today. During this
+call, we'll be making forward-looking statements regarding our future business and financial
+performance. These statements are predictions that involve risks and uncertainties. Actual results
+made, therefore, differ materially from the results we currently expect. Factors that could cause
+such differences can be both external as well as internal operating factors. We have identified
+such risks in more detail in the section titled operating and financial review and prospects-risk
+factors of our 2019 annual report on Form 20-F, our financial report for Q1 published on April 30th
+on Form 6-K, as well as our other filings with the U.S. Securities and Exchange Commission.
+Please note that our results release, the complete report with tables and the presentation on our
+website include non-IFRS and comparable results information in addition to the reported results
+information. Our complete financial report with tables available on our website includes a detailed
+explanation of the content of the non-IFRS information and a reconciliation between the non-IFRS
+and the reported information. Today's stock exchange release and presentation can be found on
+the investor relations section of the Nokia website.`Pekka Lundmark, President and Chief Executive Officer `
+Thank you very much, Matt, and dear investors, welcome to join us today. I'm happy to report that
+we had a solid Q4 to end 2020, and actually as you will have seen we came in at the high end of
+our previously-communicated outlook range. The Nokia level non-IFRS result both gross margin
+and operating margin were healthy, and they were up. Non-IFRS operating margin was 16.6%, and
+that was up 20 basis points. And then, of course, for the full year the increase was bigger, we
+came in at 9.7% and previous year was 8.6%.
+And as you have seen, gross margin development pretty good non-IFRS gross margin, 41.8% for
+the quarter and 40% the year before. This was driven by, first of all, regional mix shift towards
+higher margin North American market. It was also driven by our R&D efforts to enhance product
+quality and cost competitiveness and this is, of course, pretty encouraging, all of it. Most of this
+was in the Networks business and then, of course, this was the last year now when we report in
+this structure where Networks is one business this year we will zoom a little bit deeper into the
+different components of the Networks business.
+What we would like to highlight is that Q4 operating profit benefited about EUR250 million from 2
+drivers, EUR150 million early payment and then EUR100 million from Nokia venture fund valuation
+that Marco will talk about a bit more in detail. And if you turn or kind of calculate that how much
+the EPS effect out of these two items would have been, it would have been EUR0.035. We also
+reiterated our earlier view on 2021 operating margin outlook, so we keep the 7% to 10% margin
+forecast for this year. And then one important thing to note, which Marco will talk more about is
+that we have 1 pretty large item derecognition of tax asset in Q4, which Marco will talk about as I
+said.
+Then if I -- I mean that was a very quick high-level summary of the result itself. And now I would
+like to move over to a little bit more details and I start with the regional picture and the regional
+situation. And then, of course, when you look at this picture, here you see that clearly the
+performer of the quarter was the North American market. For the group, our full-year sales were
+down 5% for the quarter. This was mostly because of currencies. In constant currencies the
+quarter was 1% up. But then, of course, for full-year 2020, we cannot be happy with the fact that
+we were down 6% on reported and 4% constant currency.
+But, once again, in Q4, the performer was clearly North American region where we had 11%
+reported and 19% USD i.e. constant-currency based growth. This partially reflects the recognized
+net sales, also the item that I highlighted EUR150 million earlier this year - earlier. But in general,
+of course, this is pretty strong performance. Our second largest market, Europe, remained flat
+and in constant currencies, it was up 2%. One thing that is important to note and which is
+personally driving the European market is the swap opportunities due to geopolitical issues and
+majority of these opportunities are in Europe. There are some deals in other parts of the world as
+well, but we believe that we have won to-date around half of the value of such deals and this, of
+course, supports our business, including -- specifically including in Europe.
+What is important then, of course, from margin point-of-view is that when you have a swap deal
+like some of the ones that we have recently won, typically, in the beginning -- in the early stages
+of that deal first year, sometimes too, the margins are lower and then they pick up when you go
+further. The other regions are, of course, smaller for us. There we have -- had some headwinds.
+In China, we have clearly lost market share, there's no question about that. In the other parts, it's
+not that much a market share question, there are some tough comparables, as you can see, in
+Asia Pacific in Q4 last year, because of the Rakuten deal in Japan and also in Middle East and
+Africa because of strong deliveries to Saudi Arabia a year ago. So fairly stable in these parts ofthe world, but of course, in Latin America the important thing to keep track on this, of course, the
+overall economy and the COVID situation, which has clearly delayed some of the investments
+that would otherwise have taken place in that market.
+So overall, solid performance by most of our regions. And then I move on to the structure of the
+customers that we have and, of course, CSPs are clearly our largest customer group, over 80%.
+But the growth is increasingly on the enterprise side. We can roughly -- now I simplify quite a lot,
+but, in general, we can expect that the CSP market will remain flattish. Of course, there are
+structural changes like from 4G to 5G and so on, but the overall market is flattish. But the
+enterprise market this is expected to grow close to double digit over several years to come. So
+this is clearly one place where we want to find growth and we are finding it.
+We had full-year sales growth 14% on constant currencies and we have a healthy pipeline of new
+opportunities. We won 79 new customers in Q4, it was 83 in Q3. We have currently 260 private
+wireless customers. Of course, the enterprise business is not only private wireless. We are selling
+a lot of routing and fixed access products to these customers as well. But this is a promising case
+and a couple of highlights perhaps worth mentioning. Wireless -- private wireless partnerships
+with both AT&T and Verizon that we published during the quarter. So overall, solid job and great
+promise in this segment, which will be further driven by then the next steps in a way the mission-
+critical networks serious industrial digitalization that is gradually taking speed. So we really believe
+that we will be in the heart of the fourth industrial revolution through our enterprise position,
+which is already now a solid 1 with good potential for the future.
+Cash flow is, of course, an extremely important measure and Marco will talk a bit more about
+that. I just highlight that we had EUR2.5 billion net cash at the end of the year. Here also, just
+because we just want to be as transparent as possible, we do want to highlight that in the very
+last days of the year, we had the EUR500 million payment from a customer, sometimes 1 day or 2
+can make a difference. Had it been on the January side, the end result today would have been
+the same, but then this figure would have been EUR2 billion instead of EUR2.5 billion.
+You will also have seen the Board's proposal that there would be no dividend for the financial
+year 2020 and this is also something that Marco will address in a bit more detail in a moment.
+Then I move to the next angle to the performance and that is then the business-specific
+performance, and I start from the largest business, which is Networks. And again -- then again,
+reminding ourselves the fact that this is the last quarter when we report using this type of a unit
+called Networks. But overall, we had 7% reported and 2% constant-currency Q4 sales decline and
+that constant-currency decline was 5% for the full year. This decline was in Q4 mainly driven by
+mobile access and optical networks, in mobile access not by the product, but more by
+deployment services. This is important to note the product part actually did pretty well.
+In Q4, IP routing and fixed access net sales grew on constant-currency basis and declined on a
+reported basis. And we had 280 basis points gross margin improvement in the Network business,
+primarily due to the progress in mobile access, and here I would like to highlight the promising
+progress that we have made in 5G product cost reductions. I'll come back to that in a second,
+which is, of course, something that will carry us also in the future because the product
+development in 5G has been actually delivering in a pretty promising manner.
+Operating profit decreased somewhat due to some of the loss allowances and project cost
+allowances that we have put on the balance sheet at the end of the quarter. And once again, this
+business benefited positively about EUR150 million at the end of the quarter from this timing of a
+transaction with one particular customer. One thing to note for the network business goingforward is the global component market situation where there's been a lot of talk about
+shortages, some of that highlighted by the car makers.
+We believe that our situation is manageable, but it requires a lot of attention. There are here and
+there some point-to-point delivery risks in Q1, nothing that would change the big picture, but this
+is something that our businesses are paying a lot of attention to we are intensifying our contacts
+and the discussions with the key vendors, discussing forecasts, reservations, inventories and
+everything. This is something that will most likely be there. This is not a Nokia-specific issue in any
+way, but a world issue for the next year or two. Difficult to say exactly where it will all lead to, but
+requires a lot of attention.
+Then inside the Networks business, a couple of comments on mobile access. First, I already
+mentioned that we had clear improvements on the product side, but also in the Q4 and full-year
+result due to stronger competitiveness and cost position of mobile radio. As I said, the top-line
+challenge in this business did not come from the product side, it's from the deployment services
+side. We had growth in radio access products in Q4 and also full year, and the 5G growth was
+partially offset by decreases in legacy radio access products. 5G gross margin was up due to
+product cost reduction, partly helped by higher ReefShark volumes and this is really important
+and also encouraging that we actually increased our own target or exceeded our own target on
+ReefShark. 43% was the share of deliveries in Q4 when our earlier communicated target was
+35% and we are reiterating the target of 70% at the end of this year, and then 100% at the end
+of next year.
+So this gives us confidence that the turnaround, which started already a year, 1.5 years ago is on
+the right track. But however, there is still, obviously, work -- a lot of work to do. And as I've said
+earlier, one of the important things which then also will be reflected in this year's mobile networks
+result is that we will continue to invest, we will actually increase our R&D investment to make sure
+that we repeat the success of 4G also in 5G. Our 5G conversion rate, excluding China, is currently
+at 90%, and that's negatively impacted by our market share development in North America. This
+is a bit controversial because 2020 and the end of 2020, as you saw, we had strong growth in
+North America, but now going into this year, exactly as we have highlighted earlier, we are facing
+some headwinds in mobile networks in terms of top line because of North America and also
+China. And then there is a price erosion challenge also that we are facing and the combined
+effect of all of this will lead to this year to this earlier communicated zero expected comparable
+operating profit for the new mobile networks business.
+But market share wise, again, on balance, 4G, 5G market share in 2020, excluding China, we
+estimate that 27% to 28%. And now for this year, we are targeting 25% to 27% market share. So
+it's not that dramatic, but still there is a short -- a small drop. We have currently 195 commercial
+5G engagements, including paid trials, and 45 5G -- live 5G networks. You will have noted some
+of the recent highlights, the 5G deal with T-Mobile, U.S. Federal 5G Cybersecurity project, cloud-
+native core software deal with 1 in Singapore and many, many more. I don't have time to have
+time to go through all of them at the moment.
+We noted in the outlook assumptions, as a continuation of what we have said earlier about the
+profitability of this business this year that there will be a significant decline in top line of this
+business this year, and that is one key reason why the profitability is so challenging. It's important
+to highlight this because the reason for that expected zero comparable operating margin in
+mobile networks this year is not our technology competitiveness, which is improving quickly. It is
+some customers earlier made decisions about market shares, which will affect our top line in
+2021.Then to the next business in Networks, which is fixed access. I'm quite encouraged by the
+situation in this business. We had 5% decrease in reported net sales, but 1% growth in constant
+currencies decreases because of copper access and services, but then there is pretty strong
+growth in digital home and fiber access. And the interesting detail about this business, which is
+very important is that we had record high order book for this business at the end of the year. And
+when it comes to technology, we launched our 25G PON, passive optical network technology,
+which has received an excellent reception on the market and there's a lot of customers who
+consider deployments of 25G solutions. And just as one highlight, one large customer, AT&T,
+recently joined the 25G PON MSA, an industry organization to promote and accelerate 25G PON.
+This is a technology where we currently roughly-speaking believe that we have 18 months
+advantage to the closest competitor.
+IP routing is, of course, a great business. We had actually top-line wise the best quarter since the
+Alcatel-Lucent acquisition. We had on constant currency basis an increase in top Line of 5%, and
+that makes this quarter higher than the year before, if you take it on constant currency basis. We
+had a lot of key wins and, of course, the FP4 routing silicon platform is the key technology driver
+in this, and we have had a lot of wins recently, Deutsche Telekom, TELUS in Canada, (inaudible) in
+Indonesia and then a California-based data networking or data center and Internet service
+company Equinix, global companies. Some of the examples of these wins. In short, we are well
+placed for the next steps in IP routing business going into 2021, and obviously, you have not seen
+everything on the product side yet.
+Optical networks had a challenging year from -- and the quarter from top-line perspective. Q4
+last year was a really tough comparison as you can see here, but we were down 10% even in
+constant currency. Also here, even though this business has had its share of challenges, there is
+now promising developments on the technology side, we have launched our WaveFabric
+Elements portfolio with the PSE-V and then the Elenion acquisition all supporting the development
+into 2021 and beyond. So we do expect improvement in this business this year and then going
+forward as well.
+Then the next business is software business. Great 5% constant-currency sales growth in the
+quarter, reported basis, unfortunately because of currency decrease by 1%, great and solid 2021
+order book and several cloud-core wins, including SoftBank, and one thing I would like to highlight
+is in January, which, of course, is after the reporting quarter ended, we announced a software
+partnership with Google to jointly develop cloud-native 5G core solutions for CSPs and
+enterprises. So the comprehensiveness of our cloud-native, multi-vendor, multi-network portfolio
+continues to give us a strong position in the telco software market.
+And finally then, Nokia Technologies, 2% increase in net sales and 3% in constant currencies. This
+growth was primarily due to patent licensing and higher catch-up net sales from a renewed
+patent licensing agreement that we delivered in Q4. Of course, full-year sales decreased a little
+bit, largely due to a reduction in brand licensing revenue and certain one-off brand licensing
+revenue mostly because of the declined handset market because of COVID-19.
+We have increased our R&D expenses a little bit to continue to develop our intellectual property
+portfolio and to maintain it, and this is also something that we are focusing on in the future, not
+only monetizing the portfolio that we currently have, but really taking advantage of our research
+organization. The fact that we have already now 1,350 declared 5G essential patents, and then,
+ongoing expansion to new areas such as consumer products, IoT solutions going forward,
+automotive segment, et cetera. So this is pretty solid performance in this business as well.And then before I hand it over to Marco, a couple of comments on the leadership team and the
+operational model. The old leadership team was 17 members. Now the new one will be 11, and it's
+almost complete. Now there is only 1 appointment still to be made, which is in the pipeline, which
+is our Chief Corporate Affairs Officer, but everything else is now in place. This organization has
+been effective now for 1 month, so it's, of course, very early stage. Fundamental principle here is,
+of course, full P&L accountability to the businesses -- for businesses led by a business group
+president. This does, of course, not mean that these businesses would operate in silos in the
+customer interface, and that's why we have a customer experience organization led by Ricky
+Corker, who is responsible for the account teams that are facing the customer. But this should not
+be mixed with the P&L responsibility, which is very clear. It is in the BGs, led by the BG President.
+Another very important detail that I want to highlight here is the appointment of Nishant Batra as
+our Chief Strategy and Technology officer. His task is really to drive our technology strategy
+across businesses, challenge businesses in terms of technology, but also then take care of our
+network architecture and our product architecture across businesses, and very importantly, to
+drive our long-term research, including Bell Labs. This whole thing that we have done to the
+organization at the operational model is major simplification from the previous one. As I have said
+before, just one example, in the previous model a fairly simple mobile access deal required 5
+management team members to participate. Now it is only 1 and that simplifies things greatly.
+Then I actually believe that this is enough for my part. Marco will now go through the financials in
+more detail, and then after that, we are ready for your questions. So now I'm happy to hand over
+to you, Marco.
+`Marco Wiren, Chief Financial Officer `
+Thank you so much and hello for my side as well. There's basically 4 areas that I would like to
+cover with you today. And I will start with Group Common and Others and then go over to the
+cash position and liquidity position at the end of the year. And then explain a little bit more about
+the derecognition of the Finnish DTA, deferred tax asset that impacted our reported results. And
+then finally, I will close with some comments about our '21 guidance.
+So if we start with Group Common and just starting here that we had a very strong year-on-year
+net sales growth. And this was actually second quarter in a row. And the main the main driver here
+was the ASN, Alcatel Submarine Networks. And if you remember, already in Q3, they started a
+very (inaudible) path and this continued in Q4 as well. And just to point out here that due to
+COVID, we had to close our factories in Alcatel Submarine Networks and that affected heavily
+their business and volumes as well. And now when the factories have been reopened, they have
+been able to deliver occurring as well.
+Another thing that I would like to highlight on the ASN side is as well that they have -- first of all,
+they are market leader today in their business and their order book is extremely good, EUR1.75
+billion at the end of 2020. And of course, we believe that we can continue a good development
+when it comes to top line during '21 as well. Then another item that I would like to highlight in the
+Group Common and that's the EUR100 million impact that we got just in the end of the year. As
+we have the venture fund in Nokia and that fund is investing in different funds, and in those funds,
+there were three IPOs, and those shares hiked quite remarkably in latter part of the year. And
+that's why we got this EUR100 million extra boost in our operating profit as well.
+And if I go into the net cash part and just want to give you a little bit more flavor on the cash flow
+development. Just like Pekka already mentioned, we had EUR500 million early payment that was
+due in actually in Q1, 2021, but that came in actually last day of the year in our bank account, andnet working capital. Although net working capital increased a little bit, EUR50 million in Q4, and if
+you look at the big items here, we had receivables increase EUR1.1 billion. And of course, this is
+quite typical in our business because we have seasonality where a lot of our sales are quite back-
+end heavy towards the end of the year. And then of course, I want to mention as well that we've
+been reducing our total amount of sale of receivables.
+And this was offset by that we had about a EUR500 million decrease in inventories and this is also
+a seasonal impact because a lot of shipments go out in latter part of the year. But also we had
+some component lead time issues and that affected inventories a little bit as well. And then we
+had about EUR600 million increase in liabilities. And that ended that free cash flow in quarter 4
+was almost EUR800 million, and for the full year, it was EUR1.35 billion. And of course, this was
+affected by the EUR500 million early payment that we got and that's why we exceeded also the
+guidance that we had given to you earlier. And if we look a little bit more about liquidity position
+and also our debt portfolio.
+First of all, if you look net cash EUR2.5 billion at the end of the year, and that's quarter-on-quarter
+increase about EUR600 million. And the total cash is EUR8.1 billion, and that's about EUR400
+million increase quarter-on-quarter. And in addition to the cash position, I will say that we have
+about EUR1.5 billion undrawn RFCs, which are sustainably linked as well. And in addition to that if
+we look at the right-hand side of the slide, you can see that we have quite well balanced debt
+portfolio. And this year we have a maturity of EUR350 million, and that actually is something we
+already are working on and we will redeem that one month before the due date. The due date is
+in March, but we will do this already in February. Otherwise next year we have this EUR400 million
+bond maturity, but all of all if you look at the maturity profile, the average tenure is about 5.5
+years, and average interest is approximately 2%.
+So I would say it's quite undemanding and well balanced. And also if you look the spread
+between different sources, you see that we have both Euro and U.S. bonds, we had Nordic and
+European Investment Bank loans as well. So if we go to the DTA, deferred tax asset issue and this
+is in the Finnish legal entities and this is only accounting technicality. So it doesn't impact cash, but
+of course, we have to book that in our reported numbers. I would like to highlight also that the tax
+asset itself is not lost, so we can still utilize that in the future, but it's just that according to rules,
+accounting rules, when we have a cumulative loss position X amount of months, then we have to
+book this tax asset away from our balance sheet. And this is the reason why we've done this now.
+It doesn't reflect the future of the results, it's backward-looking, so I just want to highlight that as
+well. In light of this, we also have given a little bit more highlight on the tax expenses. So in 2021,
+we expect about EUR450 million tax expenses, and we believe that in longer term this will be
+about the same level as well. Remember that on quarterly basis, this will vary because of the
+different mix on the profits from different countries and different countries have different tax
+rates, and also the timing of the patent licensing cash flow and related withholding tax. So these
+are the reasons.
+And if we look also the full-year '21 outlook, first starting with the net sales and operating profit.
+Net sales guidance that we have given now is a little bit different than what we have given before.
+Now we have assumed that year-end and Euro/USD rate, which was $1.23. And if you look the
+average rate that we had in 2020, it was $1.14. And just you to understand that if we would have
+$1.14 in our books and if the year-end rate $1.23 would have been valid throughout the whole year,
+that would have had almost EUR800 million negative impact on our top line. So you understand
+the magnitude of the currency in U.S. dollars.Otherwise, I would say that we have quite balanced cost and sales in different currencies. Now
+we have about 55% of our sales is in USD currencies and about 50% is in the cost side. In Euros,
+it's 20% on the sales side and 25% on the cost side, and then other currencies are balanced as
+well. So it's quite well balanced when it comes to the FX. When it comes to net sales again, we
+will have significant decline in mobile networks, just like Pekka mentioned already, and this is the
+fact that not all 4G contracts will be converted into 5G. And also we see some price pressure in
+North America.
+Then we see growth in Network Infrastructure and Nokia Technologies, which is offsetting this
+decline in mobile networks. And if we look at the FX again, just some kind of rule of thumb, you
+can see that if we have a 10% increase in Euro/USD that would give about 4% to 5% negative
+impact on the top line and quite neutral impact on the operating profit side. And when it comes
+to the operating profit guidance, we keep our previous guidance between 7% to 10%. And of
+course, key drivers here, again, are the challenging environment in North America, specifically on
+mobile network side, and then we will increase the R&D investments in the 5G. And then of
+course, there's some uncertainties due to COVID as well.
+And if we look the outlook for cash and dividend, we guide on free cash flow basis a positive cash
+flow, and we will give more information about this at the Capital Markets Day as well. CapEx is
+estimated to be a little bit higher, about EUR700 million, and there's basically 2 drivers here. One
+is that we will have a little bit more CapEx on the real estate side and then we will invest a little bit
+more on the Alcatel Submarine Networks side to be able to deliver that big order book that we
+have in our end of last year. So we have to increase the capacity a little bit.
+And just like Pekka mentioned already, also the Board is proposing no dividend based on 2020
+profits. And just giving you some flavor, Board is very pleased to see the operational
+performance that we have and also the cash performance, and we have strengthened our cash
+position. But of course, because we want to secure that we can increase our investments in 5G,
+but also other strategic areas. And secure that we continue with a very good track record on
+sustainable cash generation, Board decided not to give any dividend.
+And of course, after this year, again, Board will make a new assessment as normal practice is.
+And I also want to assure you that we are assisting our current dividend policy and we indicated
+earlier as well that at the Capital Markets Day, we will give you more information about the
+dividend policy. And just want to give you a reminder that we have a Capital Markets Day on
+March 18, and you are all welcomed. I definitely hope that you can call in as well, and we will focus
+on much more on the different businesses, give more light into the disciplined portfolio
+management of those businesses and the clear path for value creation for business as well.
+And also we want to give you more information about the turnaround in mobile networks and
+which steps we are taking going forward and maintaining the strength in network infrastructure
+and clear path to maintain the technological leadership in in IP routing and related market share
+gains as well. And also when it comes to Cloud and Network Services, both when it comes to CSP
+and enterprise markets, we'll give you a value creation path for that business as well. And of
+course, we will give you some more light on the sustainable technology licensing, and I really
+hope that you will get the information you expect and have opportunity to call in.
+With that, I would like to now hand over the Matt for Q&As.
+`Matt Shimao, Head of Investor Relations `
+Thank you, Marco. For the Q&A session, please limit yourself to one question only as a courtesyQuestions And Answers
+Operator
+(Question And Answer)
+Thank you. And we will now begin the question-and-answer session. (Operator Instructions) And
+our first question today will come from `Andrew Gardiner, Barclays Capital with Barclays. Please go ahead.
+Q - `Andrew Gardiner, Barclays Capital `
+Thanks very much. Good afternoon. I was hoping to go into a little bit more detail on some of the
+comments you made on the mobile market share and the -- and the for the revenue you expect
+within the mobile access business. So Pekka, you said that you expect to drop from about 27% to
+28% 4G, 5G market share ex-China last year to 25% to 27% this year. And I suppose if I sort of
+then think about what is expected for the mobile access market, yes, going to grow this year
+quite clearly given 5G led by China. But I think even without that with North America and Europe, it
+should be growing by low single digits. And so I consider your slight market growth offset by your
+market share pressure in the middle of the range, I get to something around a low single-digit
+decline. Maybe it's mid-single-digit when we consider the FX headwinds you guys faced. It sounds
+however, when you talk about significant decline that it's -- it's more than that. Just can you give
+us a bit more detail there. Do you think you're facing more price pressure than others, given
+some of the technology issues you faced in the past? Just a bit more detail in terms of what
+specifically you're expecting in mobile networks revenue would be helpful?
+A - `Pekka Lundmark, President and Chief Executive Officer `
+Okay. Thank you. I mean that's of course, one of the most essential questions that -- and issues
+that we are facing -- facing this year. If I comment market shares, first, expectation is clearly that in
+China and in North America this year, we will have lower market shares. And of course that 25% to
+27% that you referred to, that's excluding China. But then overall, when we take top-line, of
+course China is in that game as well. We do not believe that we would be facing a situation where
+we would have to sell our product cheaper than competitors. There is price erosion in the market.
+We certainly do not want to be the one who would be driving prices down, but it is reality that the
+prices are eroding and the price erosion is stronger in the North American market than it is in
+other parts of the world. So from that point of view, the top-line and then it comes to the
+definition of this significant.
+There are three components. There is the volume, which is driven by market share, then there is
+price erosion, which together with volume drives top-line. And then on top of that, there is the
+currency headwind, which is actually going to be quite significant this year. So these three
+components together and up to significant. Then of course, what you should note and hopefully,
+this is then the positive side of the story is that when you take our guidance for top-line -- group
+top-line this year and we are not guiding any midpoint or anything like that. But just for the sake of
+argument, if you mathematically take the midpoint and then eliminates the effect of currency
+headwind. That would lead to roughly flat top-line for the group this year, which would mean that
+then excluding currency effects, the other businesses would actually compensate for the drop in
+mobile networks top-line.
+A - Unidentified Speaker
+Thank you for your question, Andrew. Cole, next question, please.Operator
+And the next question will come from `Sami Sarkamies, Nordea with Nordea Markets. Please go ahead.
+Q - `Sami Sarkamies, Nordea `
+Thanks. I want to understand a bit better what happened in Q4 with regards to your product mix
+at mobile access. At the third quarter, you were prepared for a lower share of ReefShark-based
+sales in Q4, but this was not the case as you benefited from earlier than anticipated product
+releases. Are you running ahead of your targets, thinking of system organization and was the
+EUR150 million tailwind from early revenue recognition driven by this matter?
+A - `Pekka Lundmark, President and Chief Executive Officer `
+Not. Thank you, Sami. The EUR150 million thing is unrelated to this one. That was a customer
+specific issue. I would not draw the conclusion that the 43% share would be an indication of the
+overall program being ahead of targets. We maintain this 70% target by the end of this year and
+100% target by the end of next year. These percentages jump up and down always dependent
+on the mixture of customer deliveries in that specific quarter. Actually, the way it's measured is
+deliveries from the factory to customer, but then there is a further delay often six months
+between that event and then until the revenue is recognized. After it's typically installed and take
+commission and taken into use, that's when the revenue is recognized. So I know that there is a
+temptation to draw that conclusion, but that would be pushing it a little bit.
+A - Unidentified Speaker
+Thank you, Sami. Cole, next question, please.
+Operator
+And your next question will come from Alex Duval with Goldman Sachs. Please Go ahead.
+Q - `Alexander Duval, Goldman Sachs `
+Hello everyone. Thanks for the question. You obviously had solid cash generation in the quarter
+relative to your prior guidance, even with that EUR500 million early payment of cash. I just
+wondered if you could expand a bit more as to why you got that early payment? And then also,
+it'd be interesting to know in terms of the underlying improvement, which was better than
+expected. What were the main operational drivers? And how sustainable is that as we look
+forward to coming year?
+A - `Marco Wiren, Chief Financial Officer `
+Yes. Thank you, very good point. And I would say that reason for this early payment from the
+customer side, which was due in Q1 2021 is only the customer that can actually answer that
+question. We didn't expect that, it came. And it could be just banking days arrow here as well. For
+the other point, I would say that, if you look how we have been able to reduce the net working
+capital, which is the main driver on how we can improve our efficiency in collecting cash. 2/3 of the
+improvements that we've seen now in the latter part of the year is actually totally coming from
+higher efficiency on net working capital and only 1/3 is coming from volume based. So I would say
+that, that we have been able to increase the efficiency in net working capital. And we measure
+this in rotation days and we've seen that they have been improving.Thank you, Alex for question. Cole, we'll take the next question, please.
+Operator
+And your next question will come from `Alexander Peterc, Societe Generale CIB with Societe Generale CIB. Please go
+ahead.
+Q - `Alexander Peterc, Societe Generale CIB `
+Yes. Hi. Good afternoon. And thank you for the question. I just had a question really on back to
+market share on the timing of the market share shifts that you see. So if you help me understand,
+I was thinking maybe China share loss was 2020 affair and then we don't have a further impacts
+from China in '21 or I was mistaken. And then the same for North America? Is that only a '21
+impact, we're going to be having this share loss hampering growth in North America for more
+years than just the current year? And then obviously for Europe, you have some gains here. Have
+those already transpired and what we saw in the final quarter? Or is there more to come in '21
+and beyond? Thanks.
+A - `Pekka Lundmark, President and Chief Executive Officer `
+Yes, the overall market share, excluding China. Remember, this 25% to 27% this year and 27% to
+28% last year was excluding China. So that effect is eliminated. Clearly, the negative driver this
+year is North America and then Europe is actually supporting this mitigating some of that negative
+effect. We have guided only this year's market share and it's actually very difficult to say anything
+yet about '22 or '23, we may be able to shed some light on this question at the Capital Market
+Day, but there is still so many deals to be negotiated and hopefully one during this year that will
+then affect next year's and 2023's market share that it's simply too early to comment that.
+A - Unidentified Speaker
+Thank you, Alex. Cole, next question, please.
+Operator
+Our next question will come from `David Mulholland, UBS with UBS. Please go ahead.
+Q - `David Mulholland, UBS `
+Hi. Thanks. Just following on from the last question. I know it's probably a bit early to try and touch
+on this, but with what you're seeing in terms of your customer engagements and I knowing that
+the Verizon and North America issues are largely behind us. Do you feel confident that you're
+holding your share in the rest of your North America base? And if that's the case, we're not past
+the issues in China and you're gaining share in Europe, do you think that we will at the very least
+be troughing in terms of market share in 2021 given the engagement you see with your
+customers with the product today? Or is it too early to have that confidence and you need to see
+a bit more of customer interaction and success on winning this year?
+A - `Pekka Lundmark, President and Chief Executive Officer `
+Yes, we do need to see more customer interaction before we are able to say anything about '22
+or '23 market share. Of course, some of the recent deal activity that we have had, especially the
+ones that we have published is promising, but it's still too early to call. And then of course, when it
+comes to individual customers, customer names, including in North America, we never commentindividual customers speculations in terms of what they might not decide in the future. So into
+that, we cannot unfortunately go. So it's still too early to call '22 or '23 market share.
+A - Unidentified Speaker
+Thank you, David for your question. Cole, we'll take the next one.
+Operator
+And your next question will come from Robert Sanders with Deutsche Bank. Please go ahead.
+Q - `Rob Sanders, Deutsche Bank `
+Yes, hi, good afternoon. I just had a question about Europe. If you look at the historical rand share
+in Europe at 50% for the Chinese vendors in 4G, how much of that share would you say is already
+up for grabs in 5G? And related to this, after you complete the swaps you're doing, do you think
+actually Europe could end up becoming a more attractive market from a pricing point of view
+over time?
+A - `Pekka Lundmark, President and Chief Executive Officer `
+I do believe that Europe will be an attractive market, but it's not possible. I'm sorry to answer your
+question through any numbers or anything like that. We are not able to simply estimate that we
+are looking at our market share in Europe, which is trending up at the moment, but it is not up to
+us to speculate on where that would be coming from. And then especially when it comes to the
+comments about geopolitics. As I have said earlier, we are a business, we are not politicians. So
+we are not participating in any political speculations. We are focusing on our business and what
+we are seeing in our customers. And as I said, we have seen a positive market share trend in
+Europe.
+A - Unidentified Speaker
+Thank you Rob. Cole, next question, please.
+Operator
+And our next question will come from `Simon Leopold, Raymond James with Raymond James. Please go ahead.
+Q - `Simon Leopold, Raymond James `
+Thanks for taking the question. I wanted to see if maybe you could offer some thoughts on how
+the C-band auction that's underway in the United States might affect Nokia? For example, there
+are some that are arguing that the money spent on the auction will reduce what operators will
+spend on the networks, while other arguments are saying, no, it demonstrates large intentions to
+spend and it's a good thing. And on top of that, I'd like to get a better understanding of your
+product competitive positioning with mid-band? Thank you.
+A - `Pekka Lundmark, President and Chief Executive Officer `
+Yes, I mean, those are exactly the two ways to look at that thing, but I mean, hey look, if
+somebody spends a lot of money on something makes a big investment. Shouldn't that lead to a
+very high interest to do everything possible to maximize the return on that investment? And how
+do you maximize that return, you need to maximize the spectrum efficiency, you need to
+maximize the investment into your service, which would indicate that it would more be the latterone of the two alternatives that we are -- that you are highlighting. Then when it comes to our
+product competitiveness in C-band, now when we are making quick progress on ReefShark and
+system on chip, we are seeing a pretty strong competitiveness when we complete the road map
+during this year. So we are ready.
+A - Unidentified Speaker
+Okay. Thank you, Simon for your question. Unfortunately, it looks like we won't be able to get
+through the entire queue. So Cole, we'll take our last question for today.
+Operator
+And that question will come from Peter Nielsen with ABG. Please go ahead.
+Q - `Peter Kurt Nielsen, ABG `
+Thank you very much. You've made some comments that you are -- have improved your
+competitiveness on the product side. Could you elaborate a little bit on -- and where more --
+where specifically you feel sort of that you have improved your 5G competitiveness? And also
+has these encouraging comments and trends you're seeing make you believe that you can
+perhaps catch up a bit sooner than you had anticipated and spoke to us about three months
+ago? Thank you.
+A - `Pekka Lundmark, President and Chief Executive Officer `
+Well, it's -- there is no big difference to what we said three months ago. We were pretty
+confident on our ability to catch up back then and I would like to repeat that confidence today. We
+are now already in the second month of 2021, and as I've said earlier, 2021 is the year during
+which we believe that for all relevant and significant parts, we will complete the catch up. So we
+are optimistic. And this is of course -- I mean, this is a matter of both silicon customer and in some
+cases, merchant silicon, but then it's very much the software features and software functionality.
+There are clearly areas where we don't need any catch-up anymore. We are one of the leaders
+and one of the examples is clearly end-to-end network slicing, which cuts across the whole
+network and also across 4G and 5G and makes it possible for operators to offer specific
+enterprise -- enterprise specific slices when they are doing their industrial applications and there's
+more to come. So we are approaching a situation where there is no need to talk about catch up
+anymore, but there is a lot of work still to do this year, but once we get through this year, I believe
+we will get there.
+A - Unidentified Speaker
+Thank you, Peter Kurt. And thank you to all of you for your questions today. Thank you also, Pekka
+and Marco. Ladies and gentlemen, this concludes today's call. I would like to remind you that
+during the call today, we have made a number of forward-looking statements that involve risks
+and uncertainties. Actual results may therefore differ materially from the results currently
+expected. Factors that could cause such differences can be both external and internal factors. We
+have identified these in more detail in the section titled, Operating and Financial Review and
+Prospects, Risk Factors of our 2019 annual report on Form 20-F, our financial report for Q1
+published on April 30th on Form 6-K as well as our other filings with the U.S. Securities and
+Exchange Commission. Thank you.
+OperatorThe conference has now concluded. Thank you for attending today's presentation. You may now
+disconnect your lines at this time.

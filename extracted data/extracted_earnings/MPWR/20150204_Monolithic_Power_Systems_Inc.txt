@@ -1,0 +1,456 @@
+Q4 2014 Earnings Call
+
+Operator
+Good day, ladies and gentlemen, and welcome to the Monolithic Power Systems, Inc. Q4 and Full
+Year 2014 Earnings Conference Call. At this time, all participants are in a listen-only mode. Later,
+we will conduct a question-and-answer session and instructions will follow at that time. As a
+reminder, this conference call is being recorded.
+I would now like to hand the conference over to Ms. Meera Rao, CFO of Monolithic Power
+Systems. Ma'am, you may begin.
+Meera P. Rao `
+Thank you, Candice. Good afternoon and welcome to the fourth quarter and fiscal year 2014
+Monolithic Power Systems conference call. Michael Hsing, CEO and Founder of MPS, is with me on
+today's call.
+In the course of today's conference call we will make forward-looking statements and projections
+that involve risk and uncertainty which could cause results to differ materially from management's
+current views and expectations. Please refer to the Safe Harbor Statement contained in the
+earnings release published today. Risks, uncertainties, and other factors that could cause actual
+results to differ are identified in the Safe Harbor Statements contained in the Q4 earnings release
+and in our SEC filings, including our Form 10-K filed on March 10, 2014, and a Form 10-Q filed on
+October 31, 2014 which are accessible through our website www.monolithicpower.com. MPS
+assumes no obligation to update the information provided on today's call.
+We will be discussing gross margin, operating expense, operating income, net income and
+earnings on both a GAAP and a non-GAAP basis. These non-GAAP financial measures are not
+prepared in accordance with GAAP and should not be considered as a substitute for or superior
+to measures of financial performance prepared in accordance with GAAP. A table that outlines
+the reconciliation between the non-GAAP financial measures to GAAP financial measures is
+included in our earnings release, which we have filed with the SEC. I would refer investors to the
+Q1 through Q4 releases for both 2013 and 2014, as well as to the reconciling tables that areI'd also like to remind you that today's conference call is being webcast live over the internet and
+will be available for replay on our website for one year along with the earnings release filed with
+the SEC earlier today.
+MPS is pleased to announce record annual revenue of $282.5 million. Full-year revenue growth of
+18.7% clearly outperformed the analog industry which SIA estimates grew 10.2% over the prior
+year. For 2014, MPS' non-GAAP gross margin also expanded 60 basis points to 54.6%.
+Further, our non-GAAP operating income, excluding the $9.5 million O2 Micro payment grew 3.6%
+to $16.6 million achieving record non-GAAP EPS of $1.43, a stellar growth rate of 34.9% over 2013.
+Over our first decade as a public company, we have grown consistently and organically at a
+compound annual growth rate of 19.5%. Over that same period our shareholder return measured
+in stock price appreciation grew at a CAGR of 17.5% per year.
+Diving into year-over-year revenue growth by market, Industrial was up a record 43.3%,
+Consumer revenue grew 22.8% and Communications also increased 15.3% over 2013. Let me
+speak to the results of each end market.
+In Industrial and Automotive markets, sales rose to $49 million fueled by product sales for
+applications in smart meters, automotive, security and power adaptors. We've also seen
+significant design win activities in Industrial and Automotive. These design win activities will
+continue to translate into revenue growth in 2015 and 2016.
+Revenue from Consumer markets increased to $122.8 million, driven primarily by high-value
+consumer markets like gaming, LED lighting, battery management and home appliances.
+Communications revenue grew to $64.6 million, fueled largely by growth in networking and
+Telecom opportunities.
+Computing revenue was down $1.8 million to $46.1 million, mainly due to the ramp down in a huge
+HD client program that bottomed out in the first quarter of 2014, offsetting the growth in SSD.
+Switching to Q4. MPS had a record fourth quarter with revenue of $75.7 million, representing year-
+over-year growth of 19.1%. Our fourth quarter revenue was above the midpoint of our guidance.
+Non-GAAP gross margin was 54.9%, the same as the third quarter and 70 basis points higher
+than the 54.2% reported in the fourth quarter from a year ago. Our non-GAAP operating income
+was $18.3 million compared to the $19.6 million reported in the prior quarter and the $13.7 million
+reported in the fourth quarter of 2013.
+Q4 non-GAAP net income was $17.2 million or $0.43 per fully diluted share compared with $0.46
+per share in the previous quarter and $0.32 per share in the fourth quarter of 2013.
+Let's review our operating expenses. Our non-GAAP fourth quarter 2014 operating expenses
+were $23.3 million, essentially flat with the $23.4 million we spent in the third quarter. Our GAAP
+operating expenses were $31.8 million in the fourth quarter compared with $32 million in the third
+quarter. The difference between non-GAAP operating expenses and GAAP operating expenses
+for these quarters is stock compensation expense, income or loss on an unfunded deferred
+compensation plan and acquisition-related transaction costs, specifically in the third quarter.
+Stock comp expense attributable to operating expenses was $8.3 million in the fourth quarter
+compared with $8.6 million in the prior quarter. In addition, we incurred approximately $107,000 of
+deal-related expenses in relation to the Sensima acquisition in the third quarter of 2014.
+Investment income related to an unfunded deferred compensation plan reduced GAAPoperating expenses by $110,000 in the third quarter but added $175,000 of expense in the
+fourth quarter.
+On a non-GAAP basis, our Q4 net income was $17.2 million or $0.43 per fully diluted share. This
+result is computed with an estimated tax rate of 7.5%. Q4 2014 GAAP net income was $8.9 million
+or $0.22 per fully diluted share.
+Now let's look at the balance sheet. Cash, cash equivalents, and investments were $244.1 million
+at the end of the fourth quarter of 2014, above the $238.5 million at the end of the prior quarter.
+In Q4, MPS generated operating cash flow of about $20.6 million. Cash proceeds from employee
+stock option exercises contributed $1.5 million. These cash inflows were partially offset by $8.2
+million of expenditures to purchase 194,000 shares under our stock buyback program. In Q4, we
+also funded the $5.8 million quarterly dividend declared in Q3 and repurchased $2.4 million of
+capital equipment.
+Accounts receivable ended the fourth quarter at $25.6 million higher than the $24.3 million at the
+end of the prior quarter due to higher sales in the third month of Q4 compared to the prior
+quarter.
+Days of sales outstanding were up 31 days in the fourth quarter from the 28 days in the prior
+quarter and down from the 34 days in the year-ago quarter. Our internal inventories at the end of
+the fourth quarter were $40.9 million, essentially flat with the $41.6 million at the end of the prior
+quarter.
+Days of inventory increased 107 days at the end of Q4 from the 105 days at the end of Q3. Days
+of inventory in the distributor channels were once again lower than the prior quarter and at the
+lowest level we have seen in the last two years.
+I would now like to turn to outlook for the first quarter of 2015. We are forecasting Q1 revenue in
+the range of $70 million to $74 million. We also expect the following: non-GAAP gross margin in
+the range of 54.4% to 55.4%; GAAP gross margin in the range of 53.5% to 54.5%; total stock-
+based compensation expense of $8.5 million to $9.5 million, including approximately $300,000
+that would be charged to cost of goods; litigation expenses of $100,000 to $200,000; non-
+GAAP R&D and SG&A expense to be in the range of $23.3 million to $24.3 million, this estimate
+excludes stock compensation expense and litigation expenses; fully diluted shares to be in the
+range of 40.4 million to 40.8 million shares before share buyback.
+In conclusion, MPS had outstanding results in its first decade as a public company. Our product
+diversity strategy, backed by MPS's proprietary leading edge technology, has proven successful.
+Looking ahead into the next decade, we will continue to execute the strategy for sustainable and
+consistent growth and thereby enhance value to our shareholders.
+I'll now open the microphone for questions.
+Q&A
+Operator
+And our first question comes from the line of Tore Svanberg of Stifel. Your line is now open.
+Q - `Tore E. Svanberg, Stifel, Nicolaus & Co., Inc. `
+Yes. Thank you and congratulations on the results and I guess, on the decade. So my first
+question is on your Communications business. It was up 10% sequentially, which sort of bucks thetrend seasonally and maybe even in relation to some of your peers. So, can you talk a little bit
+about what's going on with that business and would you expect the momentum to continue?
+A - Meera P. Rao `
+The increase – quarter-over-quarter increase that you saw in Q4 was in our traditional gateway
+business. If you remember, back in Q3 had been a little choppy and lower than we expected. So
+you are correct, it is a seasonally higher. Looking into Q1, I do expect to see some seasonal
+weakness in traditional gateway business. Our networking and telecommunication business has
+been steady through the fourth quarter and we expect the same in the first quarter.
+Q - `Tore E. Svanberg, Stifel, Nicolaus & Co., Inc. `
+Very good. And my next question and I don't want to necessarily pick on anything negative, but
+the one area that saw a decline last year was your Storage and Computing business. Obviously,
+there were some specific reasons why. But as we look into 2015, should we expect that business
+to show growth more in line with what your SSD business is doing?
+A - Meera P. Rao `
+Yes. Because we have less exposure from the client HDD business and our SSD business will
+continue to grow over the year.
+Q - `Tore E. Svanberg, Stifel, Nicolaus & Co., Inc. `
+Okay, very good. And then, again, looking at 2015 and looking at your four segments, could you
+maybe rank what segment you expect to grow relatively faster and relatively lower?
+A - Meera P. Rao `
+We expect all four segments to grow and I've never been a fan for ranking them. We expect
+particularly in our newer products in each of these markets we expect to see very good growth
+next year.
+A - Michael R. Hsing `
+And also, the Computing business and a lot of a designing win will come in as a revenue in the
+second half of the year.
+Q - `Tore E. Svanberg, Stifel, Nicolaus & Co., Inc. `
+Okay, very good. And just one last question. Could you talk a little bit about your relative visibility
+here in this quarter? I mean, I know this quarter is seasonally a done quarter with Chinese New
+Year and so on, but just relatively speaking, how is your visibility looking for the quarter in terms of
+backlog or bookings momentum or anything like that? Thanks.
+A - Meera P. Rao `
+It's a quarter where we came in with very good bookings, backlog rather and we have continued
+to see good bookings. We feel comfortable about the guidance we've given and so we are
+confident right now.
+Q - `Tore E. Svanberg, Stifel, Nicolaus & Co., Inc. `
+Very good. Thank you and congratulations again.A - Meera P. Rao `
+Thank you.
+A - Michael R. Hsing `
+Thank you.
+Operator
+Thank you. And our next question comes from the line of Steve Smigie of Raymond James. Your
+line is now open.
+Q - `J. Steven Smigie, Raymond James & Associates, Inc. `
+Great. Thanks a lot, guys. Another solid year, I think something like 19% growth, pretty close to
+20% there. Can you comment, Michael on what you see as the opportunity for this year looking at
+all the new products you're talking about the growth, could you do another 20% growth year or
+better?
+A - Michael R. Hsing `
+I can't predict what the percentages are, really depend on the microeconomic. But I can tell you
+this and whatever we – in the past three or four years, we did obviously, we did, right, all the
+results that have come from what we did three or four years ago. And next year results is what
+we plan to see about two – or one to three years ago and everything is, all the indications are
+we're on the right track and from Computing to – Cloud Computing, mainly the servers,
+communication side, and also Industrial and Automotive. In all these segments we are doing really
+well.
+Q - `J. Steven Smigie, Raymond James & Associates, Inc. `
+Okay, great. And specific to the server market, we saw obviously Infineon and International
+Rectifier merged, and then obviously Maxim bought out another of the competitors in this space,
+it seems like it's opening up a lot for you guys plus you have some real innovations. Can you talk
+about the opportunity in the server market in 2015 and maybe even into 2016 as you maybe get
+some designs, opportunity to ramp into 2016?
+A - Michael R. Hsing `
+Yes. Obviously it presents another – MPS as a player and that we have a much better chance now.
+But the server market is very conservative and the name of companies has an effect on when and
+how you do your part. Our (17:40 – 17:46) successful now and also the Vcore and that we start to
+shipping now.
+A - Meera P. Rao `
+Just to add to that very quickly, for this year's revenue, all the design wins have already been
+done back in 2014, and so we've seen that play through. I think as next year comes out, that's
+when it gets more interesting, that's where the consolidation in the marketplace plus it will be our
+second round in this market. All those things would play to our benefit.
+Q - `J. Steven Smigie, Raymond James & Associates, Inc. `Okay. Last question, if I could sneak one more in, just as we look at gross margin going forward, it
+seems like you are getting decent traction on the newer products and those carry higher gross
+margin than historically. What's the gross margin expansion opportunity there as the mix
+improves? Could it be a couple hundred basis points or better for the year?
+A - Meera P. Rao `
+We've been – as we've been saying in the past we expect to grow our gross margin steadily and
+consistently. As you know, as we get more of the higher margin revenue, we have
+opportunistically taken some of the lower margin revenue so that we can accelerate top-line and
+bottom line growth and we expect to do the same. So I can say over time as revenue grows, I'd
+expect to see a slow and steady increase in gross margin.
+Q - `J. Steven Smigie, Raymond James & Associates, Inc. `
+Great. Okay. Thanks a lot and congratulations on the numbers.
+A - Meera P. Rao `
+Thank you.
+Operator
+Thank you. And our next question comes from the line of Ross Seymore of Deutsche Bank. Your
+line is now open.
+Q - `Matt Diamond, Deutsche Bank Securities, Inc. `
+Hey, good afternoon guys. This is actually `Matt Diamond, Deutsche Bank Securities, Inc. on for Ross. I want to ask a question that
+has been alluded to earlier, but I'm going to ask it a little bit of a different way. Could you walk us
+through the drivers of your long-term growth? There's a target out there of 20% to 25%. I'm just
+curious what drivers you see to get there over the next year or so, the next two to three years
+even, just any of the biggest positives and negatives that you can see at this point?
+A - Meera P. Rao `
+As you know, one of – our key strategy is to grow through diversification, so we expect the
+growth to come in from multiple markets. For example, if you take Communications, some of the
+growth is coming from the newer networking and telecom market. We could also opportunistically
+play more in the traditional Gateway business. When you look at computing, our growth
+opportunity comes both from the SSD storage as well as Cloud Computing. And as we look at
+Consumer, particularly our newer high-value market opportunity markets like battery
+management, LED lighting, home appliances, gaming, all these will be growth areas. Not to
+forget Industrials where we have had multiple markets that are growing in Industrial as well as
+Automotive. And in addition to all this, we have our module which will be contributing revenue this
+year.
+So all these together will be contributing growth for us this year and more so next year. And we
+feel very confident that we're going to have strong growth. Since we don't forecast more than a
+quarter, I don't feel comfortable saying our growth could be X percent or Y percent. But you are
+right, our long-term growth model is to grow top line at 20%, 25%.
+A - Michael R. Hsing `Well, all of these what Meera mentioned it, they are doing really well in 2014. And Meera missed
+another big component of it. The AC to DC and that contributes a tremendous revenue and we
+will continue to focus and continue to grow.
+Q - `Matt Diamond, Deutsche Bank Securities, Inc. `
+Got it. And in the same vein, could you talk about your OpEx trajectory for 2015? I know it's been
+mentioned that you have enough capacity for these new products but I'm wondering if anything
+has changed from 3Q to 4Q OpEx wise as far as the trajectory for 2015?
+A - Meera P. Rao `
+Our Q4 OpEx was the same level as Q3, but was a little higher than guidance and part of the
+reason is that we had higher new product development costs that we saw in Q4. So, going
+forward into 2015, other than the pay raises, which we talked about in the last call, we do expect
+as revenue grows we will continue to increase our investment because that helps us grow even
+faster in outer years. So we will do some investment in both the R&D side as well as in sales and
+marketing. But it will be in line with revenue growth, meaning that the revenue growth is going to
+be higher.
+Q - `Matt Diamond, Deutsche Bank Securities, Inc. `
+Okay, great. Thanks very much.
+A - Meera P. Rao `
+You're welcome.
+Operator
+Thank you. And our next question comes from the line of Anil Doradla of William Blair. Your line is
+now open.
+Q - `Anil Kumar Doradla, William Blair & Co. LLC `
+Hey, guys, congrats from my side too.
+A - Meera P. Rao `
+Thank you.
+Q - `Anil Kumar Doradla, William Blair & Co. LLC `
+Meera, can you comment about the inventory levels in the channel, what you're seeing up there?
+And I have a follow-up.
+A - Meera P. Rao `
+Sure. Inventory in the channels, when we came into the fourth quarter, it was already lower than
+the level we had been operating in for the last two years. And given the concerns that we had
+heard across industry of perhaps some softness in Q4, we continue to manage the inventory in
+the channels fairly lean in Q4 and, as a result, we came in even lower than the prior quarter. And
+our expectation is, as we see business improve over the next few quarters, we will take inventory
+in the channel back up to the levels that we typically operate at.Q - `Anil Kumar Doradla, William Blair & Co. LLC `
+Okay, great. And Michael, recently you acquired the Swiss company Sensima, the touchless motor
+company, what's the latest on that front and are there any revenues yet for Monolithic apart from
+that acquisition?
+A - Michael R. Hsing `
+Yes. I've been with the group and visiting our customers a couple of times. The results are great
+and some of the opportunity we got instant revenue and other ones take a little longer time. In a
+couple of years, our shareholder will think MPS provides (24:48).
+Q - `Anil Kumar Doradla, William Blair & Co. LLC `
+Okay.
+A - Meera P. Rao `
+Also I think the current revenues are the revenue that we have available revenue currently, but
+the design wins are shaping up nicely and that's where we expect to see a lot more revenue in
+future years.
+Q - `Anil Kumar Doradla, William Blair & Co. LLC `
+And then – sorry, go ahead.
+A - Michael R. Hsing `
+(25:11) technology and it will revolutionize the motion control.
+Q - `Anil Kumar Doradla, William Blair & Co. LLC `
+Great.
+A - Michael R. Hsing `
+Many other competitors don't realize that.
+Q - `Anil Kumar Doradla, William Blair & Co. LLC `
+Right. And I don't know how to ask this, but you've talked about the pipeline, the design wins in
+two to three years ago are shaping up the revenues this year, last year, but there is a delay. If you
+were to look at the pipeline and if there was a discount factor to the actual revenues, can you
+share with us some color about that typically the pipeline, is it discounted like 60%, 70%, or
+whatever has been the pipeline has more or less translate in revenues? And how has that
+evolved over the time, I mean, some qualitatively? Thank you very much and congrats.
+A - Meera P. Rao `
+We haven't looked at it with a discount to our design wins. Typically, once we have the design
+wins, we do see revenue come in. A lot of how much revenue comes in depends upon how our
+end customers succeed in the marketplace and also depends upon the macro, but we've been I
+would say overall very happy with the conversion of design wins into revenue.
+Q - `Anil Kumar Doradla, William Blair & Co. LLC `Okay. Great. Thanks, guys.
+Operator
+Thank you. And our next question comes from the line of `Ruben Roy, Piper Jaffray & Co (Broker) of Piper Jaffray. Your line is
+now open.
+Q - `Ruben Roy, Piper Jaffray & Co (Broker) `
+Hi, and thank you. Meera, I'm wondering, if you could just give us a little bit of commentary on the
+server-side of the storage and computing business near-term, kind of was it as expected in Q4
+and maybe an update on the Grantley cycle would be great? Thanks.
+A - Meera P. Rao `
+Sure. On the Grantley cycle, this is one where most of the design wins had been completed in
+2013 and 2014. We started up seeing our first revenue in Q3 and we just ramped in Q4 and we
+expect to see this ramping up continue to ramp this year. Most of the design wins on the Grantley
+server side are in the point of load. We do have a few Vcore design wins at some of the
+emerging server makers in Asia. And...
+A - Michael R. Hsing `
+And in the U.S.
+A - Meera P. Rao `
+And the second tier in the U.S. So this is the first cycle for us, where we prove our products. We
+do have superior products but we have to prove ourselves as a supplier and that our products
+are reliable, and we are very excited about all the design activity that's taking place for the next
+cycle because we feel they are better positioned as a result of having played in the Grantley
+cycle.
+Q - `Ruben Roy, Piper Jaffray & Co (Broker) `
+That's really helpful. Thanks, Meera. And to that end, on the last bit of commentary, for the next
+cycle, I guess, which includes Purley from Intel, would you say that you have both a content driver
+coming as well as market share, or is it just market share, there's no additional content coming?
+A - Meera P. Rao `
+I agree on both.
+Q - `Ruben Roy, Piper Jaffray & Co (Broker) `
+Okay. Okay. And then just finally, I had a follow-up question on the storage side. You had Q1 of
+last year the hit from the one OEM, solid-state drives were a big growth driver. I think you're
+running solid-state drives at maybe a third to a little bit better as a portion of the overall storage
+business. Do you have an idea as you look out into 2015 based on design wins where solid-state
+drives end up and what that might do for growth in that storage area? Thank you.
+A - Meera P. Rao `
+Sure. SSD drive revenue in storage is more than half of that, I think close to 60%. And so most of
+our design wins are either on the enterprise side or on the high-end client side. And so ourdesign wins are playing out. We also have a second SSD PMIC that we have introduced, but this
+one is targeting PCIe and SAS, and we expect to see revenue on that in the second half of this
+year as well. And so all these things together will be driving our growth.
+Q - `Ruben Roy, Piper Jaffray & Co (Broker) `
+Great. Thanks, Meera.
+Operator
+Thank you. And our next question comes from the line of Rick Schafer of Oppenheimer. Your line
+is now open.
+Q - `Shawn P. Simmons, Oppenheimer & Co., Inc. (Broker) `
+Hey, guys. This is Shawn Simmons calling in for Rick. Congrats on the good results and guide. My
+first question just centers around your Automotive and Industrial business, you guys saw a nice
+uptick here last year. I guess, how do you view that business for 2015? Do you expect to see sort
+of the same incremental growth? And can you potentially quantify Automotive now as a
+percentage of sales?
+A - Michael R. Hsing `
+Yeah. Let me answer that. The Industrial Automotive business, as you know, has a long design-in
+cycle. These revenues all happened in three or four years ago and we start to focus on it. And for
+next year we see continued growth and in terms of quantify the numbers, we don't disclose that.
+And I'll let Meera to mention (30:49). The trainees, we focused on this three or four years ago
+and we continue to focus on in the numbers and the world (30:56) growth.
+A - Meera P. Rao `
+We've always said in the past for the last two, three years is that Industrial is always the slowest
+to grow and we expect steady growth, and we recognize that we've actually done a lot better
+than that. And I expect 2015 results are going to be better than the slow and steady nature of
+growth that we typically associate with Industrial.
+But in terms of an actual growth percentage, we don't give that kind of guidance. I'd say at this
+point Automotive is one of the four big drivers in this and I expect as this year goes through, it will
+be one of the faster growing drivers within the Industrial and Automotive segment.
+Q - `Richard E. Schafer, Oppenheimer & Co., Inc. (Broker) `
+Okay, great. And if I can follow-up on that, have your two distribution agreements from last year –
+has that by any chance accelerated that growth in there? I mean, how are those relationships
+progressing?
+A - Meera P. Rao `
+Those relationships are largely for Industrial and Automotive revenues. And so the design wins
+that they are generating would be revenue out later in time just because of the time it takes to
+convert a design win in Industrial and Automotive. So they have been very helpful but that's going
+to be a future years growth.
+Q - `Richard E. Schafer, Oppenheimer & Co., Inc. (Broker) `Okay, great. And then my last question is just on the power modules. I know you guys are
+expecting to see some revenues this year. And how significant do you think that can be and
+where do you expect some of those initial design wins to start ramping?
+A - Meera P. Rao `
+We have design wins currently for the first four or five modules that we introduced. We already
+have design wins that is in practically every market that we play in. But as we've said before, just
+looking at the time to convert from design wins to revenue, Consumer is always the fastest. So
+the revenue we expect to see this year will mostly be Consumer. We'd be very happy if some of
+the others converted also this year. So we expect the revenues from modules – all I'm willing to
+say is...
+A - Michael R. Hsing `
+Double it. Double it, because the number is small. In 2003 we introduced five or six modules. In
+2014, we introduced three times amount like 2015, 2016. And so those products will generate
+revenue in about 18 to 36 months timeframe.
+Q - `Richard E. Schafer, Oppenheimer & Co., Inc. (Broker) `
+Okay, great. Thanks, guys.
+Operator
+Thank you. And our next question comes from the line of Lena Zhang of Blaylock Beal Van. Your
+line is now open.
+Q - `Liwen Zhang, Blaylock Beal Van LLC `
+Actually, thank you. My question has been answered. Congratulations as well.
+A - Meera P. Rao `
+Thanks, Lena.
+Operator
+Thank you. And our next question comes from the line of Steve Smigie of Raymond James. Your
+line is now open.
+Q - `J. Steven Smigie, Raymond James & Associates, Inc. `
+Great. Thanks a lot for the opportunity on the follow-up. Meera, I just wanted to follow-up on the
+modules. As you said you talked about you guys doing fairly well here in Consumer. I'm just
+curious what are the margins like on those Consumers? On the one hand, I feel like the modules
+are very differentiated products or expect something better, but at the end of the day it's still the
+Consumer market, so I was hoping you could get some color on that?
+A - Meera P. Rao `
+Yeah. We expect the margins on all the modules to be good. Even in the Consumer market it will
+be above Consumer margins.
+A - Michael R. Hsing `Above Corporate average.
+A - Meera P. Rao `
+Above Corporate average too.
+Q - `J. Steven Smigie, Raymond James & Associates, Inc. `
+Okay. And, again, you guys have done a good job, I think trying to diversify away from just being a
+consumer company. With that said, in some extent good to hear that Consumer is probably
+actually going to grow here, right, as the modules take off. Is that fair to think because of the
+success of the modules that you can still have healthy growth in Consumer?
+A - Meera P. Rao `
+We expect to have healthy growth in Consumer not just because of the modules but also
+because some of these newer high-value opportunities that we have found like battery
+management, LED lighting, home appliances...
+A - Michael R. Hsing `
+These are (35:25) and the sport cameras, and these are all very high customers that appreciate
+our technology and they will pay for those type of products. I think you see it in the Internet of
+Things the emerging and there's a lot more demand for those type of products.
+Q - `J. Steven Smigie, Raymond James & Associates, Inc. `
+Okay, good.
+A - Meera P. Rao `
+The Internet of Things presents a lot of opportunity for our modules.
+Q - `J. Steven Smigie, Raymond James & Associates, Inc. `
+Okay. And then, Meera, on your comment about gross margins, as you said, you'll have the
+newer products growing and getting a higher gross margin but you're also going to take some
+lower margin stuff given that opportunity. Lower margin stuff that you would take, is that
+Consumer or is it kind of spread out across the end markets there?
+A - Meera P. Rao `
+I would say it's in our traditional Consumer, maybe even in our traditional Gateway business.
+Those are the kinds of markets that we play in opportunistically. But the net idea is that at the end
+of the day when our revenue grows we still expect to show an expansion net-net in our gross
+margin.
+Q - `J. Steven Smigie, Raymond James & Associates, Inc. `
+Right. On that Gateway stuff, I mean, obviously, you have some exciting new stuff ramping in
+COMS, but I think a decent chunk of COMS is still the Gateway business. How are you trying to
+manage that Gateway revenue? Do you just keep trying to grow that as well or is it more just kind
+of a cash cow business?
+A - Meera P. Rao `For us, as we see opportunities we keep playing. How much we pick up is all driven by how our
+revenues and margins are playing out. But it's an opportunistic play for us.
+Q - `J. Steven Smigie, Raymond James & Associates, Inc. `
+Okay. Great. And you talked about in Industrial and Auto last question, I apologize – is just you had
+– the Auto was one of the major drivers. Can you just give an update on the other three major
+drivers in there?
+A - Meera P. Rao `
+Sure. We have smart meters; we have security and surveillance and then we also have power
+adaptors.
+Q - `J. Steven Smigie, Raymond James & Associates, Inc. `
+Okay. And any particular one of those you expect to do better in 2015 versus the others?
+A - Meera P. Rao `
+Automotive.
+Q - `J. Steven Smigie, Raymond James & Associates, Inc. `
+Okay. Great. Thank you.
+A - Meera P. Rao `
+Thank you.
+Operator
+Thank you. And I'm showing no further questions at this time. I would like to turn the conference
+back over to Meera Rao for any closing remarks.
+A - Meera P. Rao `
+Thank you for joining us for this call and we look forward to talking to you again in April for our
+next conference call. Thank you. Have a nice day.
+Operator
+Ladies and gentlemen, thank you for participating in today's conference. This does conclude
+today's program and you may all disconnect. Have a great day everyone.

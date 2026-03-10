@@ -1,0 +1,605 @@
+Q4 2015 Earnings Call
+
+Operator
+Good day, and welcome to the Logitech Fourth Quarter Financial Results Conference Call. At this
+time, all participants are in a listen-only mode. We will be conducting a question-and-answer
+session, and instructions will follow at that time.
+This call is being recorded for replay purposes and may not be reproduced in whole or in part
+without written authorization from Logitech.
+I would now like to introduce your host for today's call, Mr. Joe Greenhalgh, Vice President of
+Investor Relations and Corporate Treasurer at Logitech. Please go ahead.
+Joe Greenhalgh
+Welcome to the Logitech conference call to discuss the company's financial results for the fourth
+quarter ended March 31, 2015. The press release, our prepared remarks and slides, as well as the
+live webcast of this call are available online at logitech.com.
+As noted in our press release, we published our prepared remarks on our website in advance of
+this call. Those remarks are intended to serve in place of extended formal comments today, and
+they will not be read on this call.
+During the course of this call, we may make forward-looking statements, including forward-
+looking statements with respect to future operating results that are being made under the Safe
+Harbor of the Securities Litigation Reform Act of 1995. Forward-looking statements involve risks
+and uncertainties that could cause actual results to differ materially from those anticipated in the
+statements.
+Factors that could cause actual results to differ materially include those set forth in Logitech's
+Annual Report on Form 10-K dated November 13, 2014 and subsequent filings, which are available
+online on the SEC EDGAR database, and in the final paragraphs of the press release and
+prepared remarks from Logitech, reporting fourth quarter financial results for fiscal 2015.Forward-looking statements made during this call represent management's outlook only as of
+today, and the company undertakes no obligation to update or revise any forward-looking
+statements as a result of new developments or otherwise.
+Please note that today's call will include results reported on both a GAAP and a non-GAAP basis.
+Non-GAAP reporting is provided to help you better understand our business. However, non-GAAP
+financial results are not meant to be considered in isolation or as a substitute for, or superior to
+GAAP results. Non-GAAP measures have inherent limitations and should be used only in
+conjunction with Logitech's consolidated financial statements prepared in accordance with GAAP.
+Our press release includes a table detailing the non-GAAP measures, together with the
+corresponding GAAP numbers and a reconciliation to GAAP. This information is also posted on
+our Investor Relations website. The slides that accompany this call include both GAAP and non-
+GAAP measures, and are also available on our Investor Relations website. We encourage
+listeners to review these items.
+This call is being recorded and will be available for replay on the Logitech website. Joining us
+today Zürich are Bracken Darrell, President and Chief Executive Officer; and Vincent Pilette, Chief
+Financial Officer.
+I'd now like to turn the call over to Bracken.
+Bracken P. Darrell `
+Thanks, Joe, and thanks all of you for joining us. Fiscal year 2015 was a very strong year. In two
+years, we've tripled our profits, we delivered the highest earnings per share this year in seven
+years, and we've transitioned the company into growth mode.
+Now, let me give a brief overview and I'll also give you a few telling facts that will show you our
+business model is working well. As you know, our basic business model is two key things,
+optimize profit in PC peripherals, and build new categories that will become sustainable growth
+engines. It's that simple.
+So, how are we doing optimizing profit? Not only did we deliver our three-year goal in year two,
+we also over delivered virtually every line item of our profit improvement goal, gross margin,
+overhead or OpEx and operating income. In short, we crushed this goal.
+This year's operating income is not only the best since 2008, but we tripled profit between fiscal
+year 2013 and fiscal year 2015, and actually delivered the second strongest EPS in the last seven
+years; all that even though the PC market was down. The iPad market was down even more. And
+the dollar strengthened radically.
+As our founder would often say, we didn't miss because of market weakness or currency
+upheaval. We delivered in spite of it. So, I think you'll agree our profit optimization strategy is
+working well. But as I said at our Analyst and Investor Day, our transition to becoming a growth
+company is also working very well.
+Looking at our business from a distance, one might say, how can you claim that the growth story
+is working very well, Bracken, when your reported net sales in FY 2015 were flat? Well, the answer
+is that it's clear, once you look more deeply into the business, that we are growing. But to
+understand our real existing growth rate, you need to dissect our business just a little bit. Vincent
+and I will do that now. I'll also share some telling growth facts underneath that.Let me start by saying that we are growing 6% in Retail Strategic, and that's the most relevant
+growth rate. Why is this 6% Retail Strategic constant currency growth rate the most relevant?
+First, I suggest you exclude OEM and Lifesize. Neither is central to our strategy. And more
+importantly, together they operate at breakeven contribution. More on that later. That makes
+Retail Strategic 90% of our net sales and 100% of our profit.
+You'll also notice I ignored the things we exited in fiscal year 2014, though all of the fiscal year
+2015 comparisons have them in the base. Strategic Retail is just retail for fiscal year 2016. So, our
+real growth rate for the company, figuratively speaking, is 6% for fiscal year 2015, and our back
+half and exit rate for Q4 was actually 7%. And the really, really cool thing is the way we're growing,
+new businesses.
+Remember, we've grown three new businesses from essentially seeds to real businesses in just
+the past three years. These businesses, Bluetooth speakers, Video Collaboration, and Tablet
+Accessories, are all virtually new in the past three years, and they generated $380 million in sales
+in fiscal year 2015.
+This year alone, our growth categories, those three categories plus reinvigorated Gaming, were
+up by 28% in constant currency. And that growth rate as we exited the year was even stronger, at
+45%, 45% in Q4. If you're starting to appreciate the growth story, let me tell you more exciting
+things. Let me show you how much has changed our profile, just one level below the surface.
+Here's some telling facts you haven't heard from us before.
+Remember when we said a few years ago that we would do fewer, bigger products with great
+design? UE BOOM was not only our biggest product in fiscal year 2015, it's now our biggest
+product ever, best this year and best in the almost 34-year history of the company. Our Bluetooth
+speaker business more than doubled. And we're off to a strong start with our next music product,
+UE MEGABOOM, which was launched last quarter. It immediately became one of our top five
+products as well.
+And there's fewer bigger strategies, not just working in music. Let's look at an example from
+Video Collaboration. The Logitech ConferenceCam CC3000e has become bigger than any
+standalone keyboard. That's right. That one product is larger than any single standalone keyboard
+we make. Naturally, it too is one of our top selling products for the year and the quarter.
+Our overall Video Collaboration business also more than doubled this year. And we're building on
+that momentum with the Logitech ConferenceCam Connect, a portable all-in-one video
+conferencing solution we began shipping at the end of Q4.
+One more example of a fewer and bigger focus. In Gaming, we launched the G502 Proteus Core
+Tunable Gaming Mouse this year, and it almost immediately became not only our biggest gaming
+mouse, but helped propel our overall gaming business to 43% growth in Q4, and 28% for the full
+year. That mouse too is now also one of our top selling products. In fact, five of our top 13
+products in the company are now from our growth categories.
+I'm really excited about the growth story as products, because we love products. But now – let's
+now look at our transformation from another perspective: regional sales. Overall, we have very
+good momentum. In the Americas region, we delivered a second straight year of high-single-digit
+growth, with growth of 9% in constant currency.
+In Asia Pacific, we delivered two straight years of low-single-digit sales growth, but Asia Pacific
+growth in the back-half started to look like the AMR's growth in the past few years. Q4 in constant
+currency showed strong acceleration to 11%.And EMEA, well, even all the noise of a sluggish Europe – even with all the noise of a sluggish
+Europe, if you double-click on our EMEA business, you'll find a nice surprise. Our sales
+performance in EMEA is stronger than it appears. The combination of the strong U.S. dollar and
+extremely weak Russia and UK markets obscure quite a story. Our constant currency sales in
+EMEA excluding Russia and Ukraine grew 11% in Q4.
+Our growth tells us that customers like what we're doing. We also have another kind of growth
+occurring: growth in our reputation for design. We have strong momentum with design and
+innovation experts. We're winning more design awards than any year ever in the company's
+history. Just last month, we announced that six of our products were honored with Red Dot 2015
+Design Awards. Over the last two years, we've received almost 50 prestigious design awards,
+more product design awards than in any year – any period in our history, and we expect more to
+be coming soon.
+Now, I'll hand it back over to Vincent for more details on our performance.
+Vincent Pilette `
+Thank you, Bracken, and good afternoon, everyone. I'm also very pleased by our Q4 and full year
+performance. For the second year in a row, we finished the fiscal year with better-than-expected
+results and, this time, despite the significant headwinds from the stronger U.S. dollar. Our
+underlying growth drivers are improving significantly as Bracken highlighted with our Retail
+Strategic sales up by 6% in constant currency in fiscal year 2015.
+We improved our gross margin for the second year in a row and delivered a record gross margin
+in FY 2015. We reduced our operating expenses in absolute terms for the second straight year
+and achieved the lowest level of spend in the last five years. And as a result, we delivered our
+highest EPS in the last seven years.
+And we continue to generate strong cash from operations, achieving a record cash conversion
+cycle in FY 2015. Although we have a lot of work in front of us to capture our full-market
+opportunity and navigate through the challenges of global currency headwinds, we are very
+excited by the momentum we have exiting the fiscal year 2015.
+As I come back on a few numbers, let's start with our operating profit. For fiscal year 2015, we
+delivered non-GAAP operating profit of $191 million, well above our initial turnaround target
+highlighted here in Zürich about two years ago. The 9% operating profit margin achieved in FY
+2015 compares to 6.5% profit margin a year ago and 3.1% two years ago. The accelerated profit
+improvement was driven by higher gross margins and disciplined spending, combined with
+improvements to the fundamental growth drivers such as innovation, product design and
+distribution effectiveness.
+Our FY 2015 non-GAAP gross margin improved by 190 basis points to a record 36.8%. While our
+gross margin did benefit from non-recurring events, our rate improvement mainly reflects the
+success of our product cost reduction initiatives. We achieved gross margin improvements across
+all product categories in our profit maximization category by more strategically managing product
+design and component costs.
+In the growth category, we improved gross margin as we scaled the business. As an example,
+gross margin in the mobile speaker category improved by about 400 basis points year-over-year
+and has become a good proof point of the advantage of scale in that category.Going into fiscal year 2016, this (12:42) currency headwinds of historic magnitude will significantly
+impact our gross margin. We have deployed pricing increases across most of our products in key
+impacted markets. We have developed new cost reduction initiative specifically related to the
+decline in oil price and the dollar appreciation. It will take time to see the impact of those actions
+but we are confidently maintaining our long-term gross margin target of around 35%.
+On the operating expense front, we continue to demonstrate disciplined spend management
+with our non-GAAP operating expenses down for the second consecutive year and falling below
+$600 million for the first time since fiscal year 2010. The spending reductions we delivered go
+beyond what you can see in our results as we use some of the savings to invest in future growth
+particularly in support of our growth category. Our infrastructure spend was down 11% year-over-
+year while our business spend, R&D, marketing and sales was up 2%.
+Non-GAAP G&A was down to 4.6% of net sales, on track to achieve the long-term business
+model of around 4%.
+Disciplined spend management, which means not only making every dollar more effective but
+also generating savings to invest in our growth engine has become part of our organization's
+DNA. It will serve us well in fiscal year 2016 as we accelerate the transformation of our internal
+support functions towards our long-term model. Savings from this accelerated transformation will
+be used to offset currency headwinds and to invest in R&D and sales to support our growth
+opportunities.
+Moving on to cash flow, Q4 was another very strong cash-generation quarter driven by the
+improvement we have made managing our working capital. Our cash flow from operations for
+the quarter was $42 million, driven by cash conversion cycle of just 26 days, the second best in
+our history in Q4. For FY 2015, we generated cash flow from operations of $179 million with our
+cash conversion cycle reaching an all-time low of just 23 days.
+Moving forward, we have slightly adjusted our inventory strategy. We ended Q4 with higher
+inventory balance compared to the prior year. A portion of this increase was related to the West
+Coast port strike in the United States, but much of it was driven by our strategic actions. With
+sales in our mobile speaker category and video collaboration category doubling for the second
+year in a row, we chose to invest in more inventory for those categories in support of our strong
+sales momentum. Additionally, as one example of our cost reduction initiatives, we have
+implemented a strategy to reduce air freight expenses by building products early enough to
+allow for shipment via sea.
+As a result of this operational shift, we expect that our inventory levels during fiscal year 2016 will
+be somewhat higher than what they were during most of FY 2015.
+Our strong cash position continues to be the foundation of our capital allocation strategy focused
+on small acquisitions as a priority, annual dividends, and opportunistic share buybacks. As we
+shared last month, we plan to pay out $250 million in dividends for FY 2015 through FY 2017.
+Regarding buybacks, we have $248 million remaining in our current program, which we began to
+use last quarter.
+Let me wrap up my comment by focusing on currency. The fiscal year 2016 outlook that we
+shared at last month's Analyst and Investor Day, assume that the euro/USD exchange rate was at
+$1.12. It has fallen well below that rate so far in FY 2016, and there is little reason to believe that it
+will reach or exceed that planning rate in the near future.As I mentioned, we are taking a variety of actions to offset the impact of the stronger dollar,
+including double-digit price increases for our products in a number of markets. But keep in mind
+that holding our non-GAAP operating income outlook constant in the face of increasing currency
+headwinds indicates, in fact, an effective increase in our outlook and in our underlying efficiency.
+In constant currency, our FY 2016 operating profit outlook would represent approximately a 35%
+growth if the currency rates stay at the level they are today. The structural changes we are
+making to the business will position us very well to reach our long-term model faster once the
+currency volatility has settled.
+And on that note, I'll turn it back to Bracken.
+Bracken P. Darrell `
+Thanks, Vincent. Now I would close on how we'll continue to build a great design company in the
+years ahead, an innovation company with strong sustainable growth. Before I do, let me add a
+comment to Vincent's about the strong dollar. While this creates some short-term pain, we're
+assuming the strong dollar is here to stay and we're playing offense, going on the attack by
+treating this as an opportunity to accelerate our transformation to strong growth. We're doing
+things right now that we might have done more gradually had the dollar appreciation never
+happened.
+Let me share some of these key actions with you. First, we're focusing our entire company on our
+Strategic Retail business growth. In that regard, we're actually increasing our investment in growth
+categories and future growth categories, so-called plants and seeds. We continue to approach
+future growth categories or seeds with small startup style (18:16) teams. Remember, growing
+from seeds to strong growth businesses is not new to us. As I mentioned earlier, in fiscal year
+2015 we generated $380 million in sales from Mobile Speakers, Tablet Accessories and Video
+Collaboration, all businesses that started as seeds within the last few years.
+One consequence of our focus on our retail business going forward is that we've begun the
+process to exit the OEM business. It will be gradual over fiscal year 2016 as we'll honor our
+commitments to customers that extend over varying periods of time.
+We're working through the operational tails of this transition with our customers and we'll share
+more with you over the coming months. This business gave birth to Logitech, and our final exit
+from it is now the real symbol of just how far we've come.
+From two small offices, one in Apples, Switzerland and another on the top of a bicycle shop in
+University Avenue in Palo Alto. That little company originally served PC makers. But we've become
+an innovation company, creating new businesses under our own brands; Logitech has
+transformed.
+Regarding our Lifesize business, we continue to see significant momentum in its new cloud-
+based video communication offering. In the nine months since its launch, we have acquired more
+than 1,100 customers, almost every week hitting new peaks in concurrent cloud calls. And usage,
+as measured by unique monthly callers, has been doubling every quarter.
+Looking at this fast growth rate, we decided to reorganize Lifesize with the goal of
+deemphasizing Lifesize's legacy offering more quickly, to enable maximum traction with Lifesize
+Cloud. Like our move in Logitech to exit the non-strategic parts of our business, we began to do
+the same with Lifesize, and we'll then double down on the cloud opportunity to grow faster. Thisbusiness is obviously not synergistic with our focus on Strategic Retail. We're implementing these
+actions, and considering others, to optimize the value of this unique asset.
+Another key step we're taking is streamlining our overall cost structure through product,
+overhead and infrastructure cost reductions, and a strategically targeted restructuring. This
+realignment is based on an analysis of each of our key business areas rather than an across-the-
+board head count reduction. We will reduce positions in some areas and increase them in others,
+like software, with the goal of becoming a faster, more profitable company, with capabilities well
+aligned to our growth businesses.
+Over the coming year, the restructuring cost is expected to be between $15 million and $20
+million, with the savings used to continue fueling new capabilities to expand growth and offset
+currency headwinds.
+That brings me to our outlook for fiscal year 2016. Consistent with last month's Analyst & Investor
+Day, our outlook for fiscal year 2016 non-GAAP operating income remains $150 million. We're
+planning to deliver that in spite of the uncertainty around the length of the transition period to
+exit OEM, as well as any impact from shifting Lifesize to a stronger focus on cloud-based
+offerings.
+We're also confirming our outlook for 7% constant currency growth for our Retail Strategic sales.
+I'm very pleased with our results in fiscal year 2015 and with the progress we're making in
+becoming a growth company: best EPS in seven years; strongest constant currency retail growth
+in four years; a growth strategy that's working in delivering big products; and we're excited about
+the surprises in store in fiscal year 2016.
+Finally, we're playing offense, or in European football terms, going on the attack. We're taking the
+strong dollar appreciation that many of you see – as many see as some kind of a crisis, and
+turning it into an opportunity to accelerate our transformation to strong growth.
+We've sharpened our strategic focus through our Retail Strategic business and are rapidly
+aligning the company to that. We're generating significant cost savings and using those savings to
+fund current growth categories, as well as seeds to drive future growth.
+I'm more excited than ever about Logitech's future, and I look forward to sharing updates with
+you as we move through fiscal year 2016. And with that, Vincent and I are available now to take
+your questions. Please follow the instructions of the operator.
+Q&A
+Operator
+Our first question comes from `Youssef Essaegh, Barclays Capital Securities Ltd. with Barclays.
+Q - `Youssef Essaegh, Barclays Capital Securities Ltd. `
+Hello. Thank you for giving me the opportunity to speak first here. I wanted to ask you about the
+OEM business. It still represents about 6% of your sales. And now you have decided to run down
+this business. So, I was just wondering if this was taken into account when you first guided us for
+2015 – sorry, 2016 a few weeks ago, or that wasn't the case and this is a new decision? And if so,
+what do you think is going to replace the OEM revenue in your guidance? Thank you.
+A - Bracken P. Darrell `Yeah. That was – Youssef, thanks for the question. Yeah. It was not considered in the guidance we
+gave before, but we're very comfortable that – you'll notice we're really guiding on strategic
+retail. And we're assuming that we're going to exit the OEM business over the rest of the year.
+The combination of OEM and Lifesize are – our assumption here, and we're going to manage it
+that way, is that we'll break even essentially on those businesses, so they won't affect the bottom
+line.
+Q - `Youssef Essaegh, Barclays Capital Securities Ltd. `
+Okay. So in that case, in the rest of the businesses, where are you seeing the upside, is it in
+Mobile Speakers or what else, otherwise? (23:44)
+A - Vincent Pilette `
+Hey, Youssef, just to be very clear in the guidance, we're guiding on Retail Strategic same than a
+few weeks ago, 7% in constant currency, up. We're not guiding on a full year total company level
+for revenue, because we're still working the plan with our customer with regard to OEM, and
+understand the full impact on the top line. As Bracken mentioned, we know all the levers in our
+P&L. Those two businesses combined run at breakeven, and we confirm the bottom line
+guidance of $150 million despite the currency headwind.
+Q - `Youssef Essaegh, Barclays Capital Securities Ltd. `
+Okay. Oh, sorry. I missed that the revenue guidance is not there anymore. Okay. Thank you. So
+sorry about that. Thank you.
+A - Bracken P. Darrell `
+Okay. Thanks, Youssef.
+Operator
+Our next question comes from Andrew Humphrey with Morgan Stanley.
+A - Bracken P. Darrell `
+Hi Andrew.
+Q - `Andrew E. Humphrey, Morgan Stanley & Co. International Plc `
+Hi there. Thanks for taking my question. Just on the gross margin mix, if I may, I mean, you had a
+stronger performance in growth categories this quarter, slightly weaker in profit maximization,
+which is good for top line, I think. But on the gross margin side of things, I think, typically, you've
+said margin for the profit maximization categories is higher. I wonder can you talk about your full
+year gross margin guidance in that context. I mean, that kind of just over 35% figure that you've
+given, kind of $1.12, how does mix affect that given what you've seen this quarter?
+A - Vincent Pilette `
+Yeah. So, Andrew, this is Vincent. So in Q4, Q4 is always a lower gross margin. We have two
+impacts. The higher E&O (25:24) write-off as we prepare to exit the OEM business, that's about –
+accounting (25:28) for about a point, and we have a currency impact now that's about to show up
+partially offset still by hedge but of 1.6 percentage point. If you add those two, that gives you the
+kind of operational trend that we've been in Q4, always lower but somewhat in line with the restof the year. Moving forward, we did consider the currency impact. We have pricing actions. We did
+consider cost reduction, and we still maintain an overall gross margin of around 35%.
+Q - `Andrew E. Humphrey, Morgan Stanley & Co. International Plc `
+Great. Thank you very much.
+Operator
+Our next question comes from `Jörn Iffert, UBS AG (Broker) with UBS.
+Q - `Jörn Iffert, UBS AG (Broker)
+Thanks for taking my questions. First one would be on the ever selling price hikes. And has this
+already happened with the distributors and retailers or is this still in process and what is the
+acceptance level here on the customer side? Do you also observe competitors are doing this or
+are they waiting before market leader Logitech is (26:26) doing this? An update would be
+appreciated.
+Next one, please, on the restructuring cost of $15 million to $20 million. What is your (26:33) cash?
+What is non-cash? And can you give us some more details on the benefits here? Reduced
+headcounts, what roughly could be the percentage, and other structural savings? And if you are
+stating that you'll reinvest this in growth, does it mean your growth for the future is becoming
+more, in brackets, (26:51) capital intensive?
+And the last question would be, please, on the momentum starting into Q1 2016, if you are on the
+similar run rate like you have exited Q4 2015? Thanks very much.
+A - Bracken P. Darrell `
+Okay. We'll take each – I'll take the first and the third one, and then I'll hand off the middle one to
+Vincent. So, in terms of pricing, yeah, the pricing actions are communicated. They're under way in
+virtually everywhere. We're going to be raising price around the world which is most of the
+markets that are non-U.S. or U.S. dollar based. The communications happened. It'll start to show
+up in – with customers sometime in late April through the end of May. I think we'll start to see it in
+– I think we'll start to see the effect of it in Q1.
+I can't speak for competitors, obviously, on what they're doing from a pricing standpoint. What I
+can say is when you look at the computer industry as a whole or the electronics industry as a
+whole, you're just hearing price increases every day. I mean, they're growing across. And even
+when I meet with customers, they almost seem – as I've noticed customers, they seem not only
+not surprised but sort of waiting for us to raise price. So I'm optimistic that the pricing will go
+through as planned. It's a little too early to say how – where we'll end up on that but we'll certainly
+be aggressive on the pricing side.
+On the momentum coming out of the quarter, it's really too early to say. This is the very
+beginning of our quarter, so it'd be very premature for me to give you any glimpse of that. But I
+felt very good about the momentum coming out of Q4. We finished the back half of the year, the
+entire back half of the year with 7% constant currency strategic retail growth. And that's the
+strongest half-year period we've had yet and I'm optimistic we're going to deliver the guidance
+for this year on strategic retail.
+A - Vincent Pilette `Jörn, this is Vincent, on restructuring. Most of the restructuring cost will be cash items in term of
+impact, the majority of the impact is for OEM and Lifesize. And then, the third dimension, (28:47)
+as Bracken mentioned, is the realignment of our infrastructure functions to their entertainment
+(28:53) business model. The savings coming from that third action will either be used to offset
+stronger currency headwinds if that is the case or used to invest in new capabilities like R&D in
+software or new funding if you want the seeds for future new categories.
+It's not really that it is more capital-intensive. It's that we're creating the OpEx room in our P&L to
+be able to fund the future mid-term and long-term growth.
+Going into Q1, Bracken gave you the momentum on the top line in term of impact on spend. You
+should see an OpEx that's slightly flat to declining moving into Q1, and obviously, the big
+unknown, we're still working through all the details is all of our customers is the length of the
+transition of the OEM business as we exit that business. And that is why we chose to focus our
+guidance on Retail Strategic but confirming to investors that we feel very confident in our overall
+operating profit guidance of $150 million for the full year.
+Q - `Jörn Iffert, UBS AG (Broker)
+Thanks very much. Just, please, one very quick follow up. On your guidance, on the 7% organic
+growth in strategic retail, taking into account I read and that the price, actually the 10% to 15%,
+does that mean that volumes should be flattish for fiscal year 2016 in your guidance? Is it fair to
+assume?
+A - Vincent Pilette `
+That's a very good question, right. (30:20) We had a lot of debate. As you know, it's never an
+easy thing to increase price. We see many dynamics in the market. We will not be alone and
+currency is forcing all companies to look at that. We do not want to plan for 100% success and we
+do some kind of a trade-off between volume and price or price per unit. Our goal really when we
+do those price increases is to protect our gross margin or gross profit of the business.
+Q - `Jörn Iffert, UBS AG (Broker)
+Thank you very much.
+A - Bracken P. Darrell `
+I would add, I think we – as you know, we have very strong market shares in most of our
+categories, 40%, 50%. And that puts us in a good position once we take these pricing moves.
+Q - `Jörn Iffert, UBS AG (Broker)
+All right. Thanks.
+A - Bracken P. Darrell `
+Thank you.
+Operator
+Our next question comes from Tavis McCourt with Raymond James.
+Q - `Tavis C. McCourt, Raymond James & Associates, Inc. `Hey. Thanks. A couple of questions. First, Bracken, on the pricing. I think you raised prices on
+some of the mature products a couple of years ago or maybe throughout the last couple of
+years. Aside from that, do you have any history of raising prices by this much to have any at least
+evidence of what the elasticity of demand may be?
+A - Bracken P. Darrell `
+Yeah, we have – we've had – over the past, we've had periods in specific markets where we've
+raised price before. And so when currency issues have happened in individual markets in Asia, et
+cetera, we've raised price. I don't think – I think it's very safe to say we've never raised prices this
+dramatically in Europe and I think that's the big one. The good news on that is that, and I'm sure
+you're hearing this elsewhere, because of the incredible depths of the change in the currency
+and the timeframe, it's really put the whole industry in a position I think where there's a lot of
+gross margin pain if we don't do something in pricing.
+So we'll see. We can only speak for ourselves. We're out there. We're raising our prices and we're
+confident that we're going to make it work.
+Q - `Tavis C. McCourt, Raymond James & Associates, Inc. `
+And then a couple of follow-ups on the non-strategic businesses. So the rationale for the OEM
+business historically was it gave you a lot of volume, I think, covered overhead, do you – what are
+the impacts of losing the scale from a manufacturing standpoint and its potential impact on the
+mouse and keyboard retail businesses?
+A - Bracken P. Darrell `
+Yeah, you can bet that we really did our homework on that, Tavis, because that was one of the
+big questions. As we really drilled into that, we found we are well above kind of mission –
+minimum motor (32:54) quantities and minimum efficient scale in all the components that we use,
+both in our in-house mice as well as the ones we're building for OEMs. So we're convinced with a
+big margin of error that this is a good move from a profitability standpoint over the medium term.
+So we're not – we didn't find any issues there at all.
+Q - `Tavis C. McCourt, Raymond James & Associates, Inc. `
+Okay. And two follow-ups for Vincent. Vincent, the 7% constant currency growth guidance for
+retail in fiscal 2016, what would that be on a reported basis? I know OEM and Lifesize are going to
+be a bit of moving target this year but at least on a retail basis, given where their currency is now
+(33:36).
+A - Vincent Pilette `
+So your guess in term of what the rate will be through FY 2016 is as good as mine. But if you
+study this rate, the euro-USD at $1.06, we would lose about 6 percentage point on a reported
+basis. So, a 7% constant currency gross rate would be equivalent on a 1% USD year-over-year
+using $1.06 in FY 2016.
+Q - `Tavis C. McCourt, Raymond James & Associates, Inc. `
+Great. And on Lifesize as you kind of focus on the cloud business, some of those legacy products
+generated nice gross margin. Is that a business that'll go into a loss-making category for a few
+quarters as you make this transition, or will you cut costs...A - Vincent Pilette `
+No. We're still working the transition point. I think in term of the plan that we focus, we've had a
+very successful launch in the first 10 months. Obviously, as you know with cloud, you build the
+infrastructure and then you need scale to be able to be more profitable. But we don't see a big
+disconnect between the gross margin we had on the infrastructure business and the cloud gross
+margins slightly under today but moving towards that 65% that we've had. So, from that
+perspective, we're not too worried.
+The real thing for us is for both OEM and Lifesize is managing the transition. For OEM is exiting
+the business, and for Lifesize, it's really doubling down on that cloud, which will shrink the overall
+revenue but accelerate the growth and the penetration in our customer space. (35:03)
+Q - `Tavis C. McCourt, Raymond James & Associates, Inc. `
+Okay. Thanks, Vincent. Thanks, Bracken.
+A - Bracken P. Darrell `
+Thanks, Tavis.
+Operator
+Our next question comes from `Michael Foeth, Bank Vontobel AG (Research Firm) with Bank Vontobel.
+Q - `Michael Foeth, Bank Vontobel AG (Research Firm)
+Yes. Hello, guys. One question on the OEM business exits again, can you remind us how
+integrated the manufacturing of retail and OEM mice is? And would you eventually consider fully
+outsourcing or externalizing the production of both retail and OEM?
+A - Bracken P. Darrell `
+Yeah. The answer to your question, is they're not very integrated. Surprisingly not integrated. It
+might surprise some of you that most of our OEM mice were not made in our factory, which
+makes this even more logical. In fact, our factory now makes – this may also surprise you – our
+factory also makes a lot of our growth products, where we have IP and know-how that we really
+don't want to share broadly with other people, at least as we launch these categories.
+Q - `Michael Foeth, Bank Vontobel AG (Research Firm)
+So, you will simply stop producing OEM mice in your...
+A - Bracken P. Darrell `
+Yeah. We're going to stop selling OEM mice, and most of those we didn't produce.
+Q - `Michael Foeth, Bank Vontobel AG (Research Firm)
+Okay. Right. So is there – is it in fact just a phase-out, or can you sell this business or the IP?
+A - Bracken P. Darrell `
+That's a good question. We got that in the press conference we had today. I think it's a declining
+business. It's operating – it's a very low margin business. It's hard to imagine that we're going tosell that for a lot. So, I wouldn't assume much, if you think that there is a possibility of selling it.
+A - Vincent Pilette `
+Our number one objective is really working with the customer and making sure we can live with
+our commitment and work a transition plan that would work, first and foremost, for our
+customers.
+Q - `Michael Foeth, Bank Vontobel AG (Research Firm)
+Okay. Thank you.
+A - Bracken P. Darrell `
+Thank you.
+Operator
+Our next question comes from `Paul Coster, JPMorgan Securities LLC with JPMorgan.
+Q - `Paul Coster, JPMorgan Securities LLC `
+Thanks for taking my questions. So regarding the OEM mix, which seems to make sense, just
+want to check though that you're not losing some kind of intimacy regarding OEM intentions or
+does that even matter? (37:14)
+A - Bracken P. Darrell `
+Yes – this is – and, Paul, you're exactly right. This is one of the arguments we made for staying in it
+to ourselves. I think as we got further into that, we realized a lot of the benefit, maybe there was
+in the beginning or even the last decade, has kind of dissipated. The kind of relationship we've
+ended up with at the OEMs we supply is great, while we think most of that relationship we'll be
+able to sustain what we need going forward as the biggest mouse player in the industry. So we
+don't think we're losing anything there.
+Q - `Paul Coster, JPMorgan Securities LLC `
+Okay. And then on the growth category, so I think we've all seen categories that experience
+hyper growth for two, three years and then you slow down pretty dramatically. It sounds like
+you've got really good momentum on the mobile speaker side at minimum and also on the
+video, on the conferencing side. Can you talk just a little bit about whether – how long you see
+this hyper growth phase lasting for those categories?
+A - Bracken P. Darrell `
+They're both – I think they're still at – both at very early stages. I'm sure you won't see the kind of
+growth that you see at the very beginning. But I think you're going to see very strong growth over
+the next several years in both category. Video collaboration, for example, some people would
+estimate there are 20 million rooms that ought to be video enabled and right now, about 1 million
+of them are, 1 million. So there's a lot of room left. We always say, for the cost of one room or
+one chair in a conference room, you can video enable the room now.
+On the Bluetooth speaker side, the growth has just been extraordinary. And I think – we don't see
+a real – something that's going to really stop that. Undoubtedly it will start to crest a little bit, but Istructural growth curve, and the consumer dynamics there don't suggest there's any end in sight
+there either.
+So those are three of the four growth businesses we have where I feel really good about the
+fundamental category growth, and we're building more. So the new seed stuff is not in any of
+those categories, and they're all in either non-existing categories or are very small ones that we
+think can have exponential growth.
+Q - `Paul Coster, JPMorgan Securities LLC `
+Thank you.
+A - Bracken P. Darrell `
+I would add one other thing on music, which I think is a really interesting – Bluetooth speakers. If
+you look at the penetration of the Bluetooth speaker category relative to mobile phones, it's
+almost as small as that video collaboration penetration of the rooms that ought to have video. So
+it's very, very small, in the single digit – 2%, 3%, 4%, 5%. There's a lot of room left.
+Q - `Paul Coster, JPMorgan Securities LLC `
+Thank you.
+A - Bracken P. Darrell `
+Thank you, Paul.
+Operator
+Our next question comes from `Andreas Müller, Zürcher Kantonalbank (Broker) with Zürcher.
+Q - `Andreas Müller, Zürcher Kantonalbank (Broker)
+Yes. Thanks for taking my question. I have a question on the inventory days. How many days
+would you say of the 17 days longer inventory days are structural, basically changing from air
+freight to shipping and also holding more inventories on these growth categories?
+A - Vincent Pilette `
+Yeah. So, on the year-over-year basis when you look at March 31 inventory, inventory days, you're
+right, we have 17 days. If you look at on dollar basis, we have $50 million. I would say about half of
+that growth would be that structural growth that we will keep into the inventory. The rest is
+coming from the port strike in the U.S. as I mentioned. So, about half of it, Andreas.
+Q - `Andreas Müller, Zürcher Kantonalbank (Broker)
+Okay. Thanks.
+Operator
+Our next question comes from `Felix Remmers, Credit Suisse Securities Europe Ltd (Switzerland) with Credit Suisse.
+Q - `Felix Remmers, Credit Suisse Securities Europe Ltd (Switzerland) `
+Yes. Hi everyone. Thanks. Yes, hi. Do you hear me?A - Vincent Pilette `
+Yes.
+A - Bracken P. Darrell `
+Yes, sir.
+Q - `Felix Remmers, Credit Suisse Securities Europe Ltd (Switzerland) `
+Perfect. Okay. Thanks for taking my question. On OEM, one last point. Not clear to me is the time
+line. So how we should model the transition or the phase out here, so can we assume for fiscal
+year 2017 (41:20) already zero sales in that category?
+And on Lifesize, I mean, what are the incremental steps you're taking because the transition to
+the cloud is actually nothing new we have talked about that a couple of quarters now. So, I was
+wondering what are the incremental steps you're taking, and I was wondering how much sales
+you're generating already in the cloud here.
+And then, lastly, the PC gaming appears to do underlying very well. So, can you share some color
+here on the trajectory at the moment? So, last quarter, you grew 24% if you adjust for everything.
+So, is that number actually growing quarter-over-quarter?
+A - Bracken P. Darrell `
+Okay. I'm going to take a couple of these, and just to divide it up, I'll let Vincent take one, too. So,
+on the OEM timeframe, it's really hard for us to say it right now. We're planning. As Vincent said,
+our priority really is to make sure that the customers that we serve for many years have a good
+transition into other places. So, we're going to manage that. I don't know how long that will take. It
+– I certainly don't expect it to happen past fiscal year 2016. So – but we'll see at what quarter
+we're actually fully out. So, we'll just have to see. I'll let you take the second.
+A - Vincent Pilette `
+If I can just...
+A - Bracken P. Darrell `
+Yeah.
+A - Vincent Pilette `
+...add on that OEM, Felix. Right, we now have built a reputation of delivering on what we say,
+right? And rather than throwing some numbers, will it take three months or six months, we just
+don't know. And we're asking if it's possible to really build your model around Retail Strategic for
+the sales, which will grow in 7% constant currency and understand that we will manage the decline
+of that business to keep it even (42:54) on the OEM side and deliver the $150 million for the full
+year. After that, if you need to plug a number, you'll get it as good as mine. As soon as we have
+more information and an operational plan worked out with our customers, then we will inform you
+on what it means for the full year. That's in OEM.
+A - Bracken P. Darrell `Let me take the PC gaming (43:11) and have Lifesize back to Vincent. So, our PC gaming U.S. that
+we see momentum is the momentum headed in our direction on PC gaming. I think the answer is
+yes. We're starting – we've really had a very strong quarter and really a strong year on improving
+our mouse lineup. I mean, we really got a strong lineup right now. We've grown a lot of market
+share and we see a lot more room there.
+In keyboards, we've launched some great keyboards. We've been constrained on demand. So
+you're going to see us unlock that demand or the supply, unlock that supply especially as we exit
+Q2 and into Q3 when the peak season hits. And then there're headsets, which have been very,
+very strong. And so, yeah, I think the momentum is going to get better and better. We'll see.
+A - Vincent Pilette `
+On Lifesize, Felix, this is – so we launched our cloud about 10 months ago. We told you that was
+the strategy for the asset to make it more valuable shifting from the old to the new. But we're
+managing a slow transition. We've seen two things: one is a very fast adoption of our cloud. Yes,
+still small into the base (44:12). But by any SaaS business model, if you want, we have a very fast
+start.
+At the same time, we've seen a faster decline of the infrastructure revenue. And rather than
+trying to balance all of it, we thought we would take the opportunity now to refocus also all the
+sales organizations to be cloud-based focus, and then we'll still take orders for the old revenue.
+But we're not going to sell it any more actively. And I think that's the next step, if you want, in the
+acceleration of the transformation.
+A - Bracken P. Darrell `
+Okay. And not to insult your knowhow here, but in case you're not as familiar with when we say
+SaaS, Software as a Service is what we're referring to.
+Q - `Felix Remmers, Credit Suisse Securities Europe Ltd (Switzerland) `
+Sure. Okay. Thank you very much.
+A - Bracken P. Darrell `
+Thank you.
+Operator
+There are no further questions at this time. I would like to turn the conference back over to Mr.
+Darrell for closing remarks.
+A - Bracken P. Darrell `
+Okay. Thank you very much. I'll just close with three or four things. First, we're really proud and
+excited about the year we just closed. This Retail Strategic, which is obviously what we're focused
+on in constant currency is 6% for the full year, 7% in the back half of the year, and then guiding 7%
+going into next year. I think we're just in the right place on this. The second one is we're very
+proud of the earnings performance. It took a lot of work to get there, and I think we really got all
+the engines firing underneath, the plumbing that's working to make sure that we have our
+earnings just continue to improve over time.A third one is, you know it and you've heard it and we've written it, we're really organizing this
+business, including the exit of OEM, to focus, and double down on Retail Strategic. That's what
+Logitech is going to be going forward. And I think you'll be excited about some of the surprises
+we have in store in that area into next year.
+So, with that, I'm going to close. Thank you all very, very much for attending, and we're going to
+go out in the sun here in Zurich.
+Operator
+That concludes our conference call for today. You may now disconnect. Thank you.

@@ -1,0 +1,695 @@
+Q4 2017 Earnings Call
+
+Presentations and will remain archived until our next quarterly call.
+A replay of this call will also be available until February 4, 2018.
+During the presentation, we will describe certain of the more significant factors that impacted
+year-over-year performance. The supplemental materials describe additional factors that
+impacted year-over-year performance. Unless otherwise noted, all references in these remarks
+and supplemental materials to company-specific financial metrics relating to continuing
+operations of the company and the fourth quarter of 2017, and all references to period-to-period
+increases or decreases and financial metrics are year-over-year. We may also describe certainproducts and devices, which have applications submitted and pending for certain regulatory
+approvals.
+During the call, we will make forward-looking statements within the meaning of the federal
+securities laws, including statements regarding events or developments that we believe or
+anticipate will or may occur in the future. These forward-looking statements are subject to a
+number of risks and uncertainties, including those set forth in our SEC filings, and actual results
+might differ materially from any forward-looking statements that we make today. These forward-
+looking statements speak only as of the date that they are made and we do not assume any
+obligation to update any forward-looking statement, except as required by law.
+With that, I'd like to turn the call over to Tom.
+`Thomas P. Joyce, Jr., President, Chief Executive Officer & Director, Jr. `
+`Thank you, Tracy. Good morning, everyone, and thanks for joining us on the call. With us today are, Matt, and good morning, everyone. Before we get into the details of the quarter, I'd
+like to touch briefly on the announcement we made this morning regarding our CFO transition
+plan. As I'm sure many of you saw, we announced that Matt McGrew, our current Group CFO of
+our Diagnostics and Dental platforms will succeed Dan Comas as Chief Financial Officer of
+Danaher on January 1, 2019.
+Dan will continue on as an Executive Vice President and a member of the office of the Chief
+Executive, post January 1, 2019, as he begins a gradual transition to retirement. Dan, it goes
+without saying that it has been and will continue to be a privilege working with you. For the past 27
+years, all of us at Danaher have valued your outstanding financial stewardship, thoughtful
+guidance and long-time friendship. Danaher would not be where it is today without your
+leadership, strategic vision and humility. We're also very pleased that you'll continue to work with
+us post 2018 to ensure a seamless CFO transition and provide a strategic counsel we value so
+highly.
+Many of you know Matt McGrew from his time as Vice President of Investor Relations, but Matt
+has had a number of important roles during his past 14 years with Danaher. Matt is uniquely
+qualified to take on the position of CFO as he will be able to leverage his extensive Danaher
+experience in internal audit, M&A, Investor Relations, and as Group CFO with operational
+experience across four of our five platforms.
+Throughout his tenure with Danaher, Matt has consistently demonstrated superior leadership and
+played an integral role in the company's growth both organically and inorganically. We look
+forward to helping Matt transition to this important role with Dan's guidance and strategic
+counsel. With that, let's get to our results.
+We're very pleased by our strong fourth quarter performance, as the team delivered 5.5% core
+revenue growth, solid margin expansion and double-digit adjusted earnings per share growth.
+These results capped a solid year for Danaher, and we are very encouraged by the momentum
+we built throughout 2017.
+2017 was a great example of how we run the Danaher playbook. We improved gross margins to
+nearly 56%, lowered G&A, increased our investments in sales and marketing and R&D to drive
+accelerating core growth, all while delivering 70 basis points of core operating margin expansion.
+This operating model continues to demonstrate how we build a better, stronger Danaher.
+For the full year, our differentiated portfolio, organic growth investments and good commercial
+execution helped drive 3.5% core revenue growth, including mid-single digit growth in three outof our four reporting segments. Our total annual revenues are now nearly $18.5 billion.
+We generated $2.9 billion of free cash flow in 2017, resulting in mid-teens growth year-on-year
+that helps position us for more significant capital deployment in 2018. Our free cash to net
+income conversion ratio was 117% and 2017 represents the 26th consecutive year in which our
+free cash flow has exceeded net income.
+From an M&A perspective, we deployed nearly $400 million of capital in 2017 on 10 strategic bolt-
+on acquisitions, each of which will help enhance their respective platforms. We also remain
+encouraged by the great performance at our most recently acquired larger businesses: Cepheid,
+Phenomenex, Pall and Nobel Biocare.
+Turning now to the fourth quarter. Sales grew 11% to $5.1 billion as the impact of currency
+translation increased revenues by 3% and acquisitions increased revenues by 2.5%. Core revenue
+increased 5.5%, led by four of our five platforms that grew between 5.5% and 7.5%.
+Geographically, high-growth markets grew high single-digits with China and India continuing to
+lead the way. In developed markets, we saw acceleration as both the U.S. and Western Europe
+were up mid-single digits.
+Gross margin for the fourth quarter was 55.8%, an increase of 130 basis points, while core
+operating margin expanded 105 basis points, led by our Life Sciences and Diagnostics platforms.
+These margin results are a testament to our team's consistent execution using the tools of the
+Danaher Business System. Fourth quarter adjusted diluted net EPS was $1.19, bringing full year
+adjusted EPS to $4.03, both representing double-digit growth year-on-year.
+Now let's take a more detailed look at fourth quarter results across the portfolio. In Life Sciences,
+reported revenue was up 12% and core revenue grew 7.5%, which marks the platform's highest
+quarterly core growth rate in over four years. Life Sciences operating profit margin was 20%, with
+both core and reported operating margins increasing over 300 basis points. This increase was
+broad-based across the platform, driven primarily by outstanding DBS execution, new product
+innovations and better than expected topline performance.
+Beckman Life Sciences delivered high single-digit core revenue growth for the second
+consecutive quarter, led by ongoing strong performance in our flow cytometry and particle
+counting businesses. We believe the Beckman team continues to take market share, driven by
+improved commercial execution and new product innovations. Over the past three years,
+Beckman has refreshed its portfolio, launching approximately 20 new products. Several of these
+new products address higher growth areas such as biologic and genomic workflows, setting the
+business up well for continued strong performance.
+Leica Microsystems core revenue was up low single digits, led by growth in Western Europe and
+China, primarily in the medical and research end markets. Core revenue at SCIEX increased at a
+mid-single digit rate, led by continued strength in the food, environmental and pharmaceutical
+end markets.
+In addition, Phenomenex had a very good quarter, growing core revenue high single digits as
+both SCIEX and Phenomenex are starting to leverage each other's go-to-market capabilities. At
+Pall, core revenue grew nearly 10%, its best quarterly growth rate since we acquired the business,
+as our microelectronics and single-use technologies businesses continue to perform very well.
+In addition, biopharma and process and industrial finished the year on a strong note, as these
+businesses rebounded nicely from the hurricane disruptions that impacted third quarter results. In
+October, our Life Sciences platform successfully closed the acquisition of IDBS, a softwareinformatics leader in the life sciences space. IDBS' software provides a data management
+platform, enabling its research customers to better capture, manage and report on scientific
+insights. This platform, in combination with our Life Sciences instrumentation, will enable
+researchers to accelerate their innovation efforts, helping them make better and faster scientific
+decisions.
+Moving now to Diagnostics. Reported revenue increased 13.5% and core revenue increased 6%.
+Core operating margin grew by 105 basis points and reported operating margin increased 690
+basis points to 19.5%. At Beckman Coulter, core revenue grew at a low single-digit rate, led by
+solid growth in our amino assay, urinalysis and clinical chemistry product lines. Regionally, the
+growth was driven by China and Latin America.
+At Radiometer, core revenue increased mid-single digits in the quarter as both our blood gas and
+AQT product lines continued to perform well.
+Leica Biosystems delivered high single-digit core revenue growth, led by increased demand in
+both our advanced staining and core histology product lines. Growth was broad-based across
+most regions with particular strength in North America and Western Europe.
+Turning to Cepheid. The team had an outstanding quarter. Core revenue increased greater than
+25% driven by growth in all major product lines and geographies. For the full year 2017, Cepheid's
+core revenue grew approximately 20%, which is almost double the expected rate from when we
+announced the acquisition. This outperformance was driven by a combination of strong
+commercial execution, test menu expansion and an ever increasing installed base of instruments.
+Overall, it was a tremendous first year at Cepheid with DBS helping to deliver improvements
+across the company. Since we acquired the business last November, Cepheid has achieved 400
+basis points of gross margin expansion, increased operating margins from just above breakeven
+into the mid-teens and improved on-time delivery by over 1,500 basis points. The team has also
+meaningfully embraced two key commercial DBS growth tools, transformative marketing and
+funnel management. These tools have helped Cepheid expand its market visibility, generate
+more potential leads and increase the number of new customers they're serving. As a result, we
+believe Cepheid continues to expand its leading market position and gain market share.
+Turning to our Dental segment. Reported revenue increased 2.5% and core revenue was down
+slightly. Dental's operating profit margin was 13.1% as both core and reported operating margins
+declined. By product line, performance was in line with our expectations.
+Growth in our specialty consumables businesses, implants and orthodontics, was offset by
+declines in equipment and traditional consumables. As expected, the declines in traditional
+consumable growth rates have started to moderate. However, our equipment business was
+negatively impacted by the recent realignment of certain distributor and manufacturer
+relationships. We anticipate these difficult market conditions to persist through the first half of
+2018. We continue to be pleased with the performance in our specialty consumables businesses.
+Nobel Biocare in particular had a great quarter, growing core revenue high single digits driven by
+North America and China. December marked the three year anniversary of the Nobel acquisition
+and they have made tremendous progress. Not only has the team meaningfully improved
+operating margins, but has also increased R&D spend by approximately 20%, launched more
+than 25 new products and increased their sales force by 15% over the past two years. These
+growth initiatives, along with the execution of DBS tools to streamline sales funnel processes and
+increase new customer starts, has helped Nobel post mid-single digit core growth in each of theMoving now to our Environmental and Applied Solutions segment. Reported revenue grew 12.5%,
+with core revenue up 6%. Core operating margin declined by 50 basis points and reported
+operating margin decreased to 23.1%, driven primarily by increased productivity initiatives and
+investment spend within our Water Quality platform.
+In product identification, core revenue increased at a mid-single digit rate led by strong demand
+for marking and coding equipment and related consumables. Solid growth in our packaging and
+color solutions offerings was attributed to increased demand in North America and Western
+Europe.
+Videojet's core revenue increased high-single digits in the quarter with broad-based growth
+across most major product lines and geographies. The fourth quarter capped off another great
+year for Videojet as the business continued to compound returns and gain market share. Over
+the past five years, Videojet has averaged mid-single digit core revenue growth, continued to
+expand margins and also completed a number of strategic bolt-on acquisitions.
+One of those acquisitions, Laetus had its best quarter of core revenue growth since we acquired
+the business in 2015. As a reminder, Laetus is a leading supplier of track and trace inspection
+systems for pharmaceutical packaging plants. With the help of DBS tools, Laetus has generated
+greater market awareness and demand within the pharmaceutical tracking vertical and we
+believe is well positioned for growth going forward. In our packaging and color solutions
+businesses, core revenue at Esko was up mid-single digits while X-Rite was up low-single digits.
+Finally, turning to Water Quality. Core revenue growth for the platform increased at a mid-single
+digit rate. Hach had its best quarter of the year with core revenue growing mid-single digits. This
+growth was driven by solid performance across our core municipal and industrial end markets
+with strength in Western Europe and China. Hach also continued its healthy cadence of bolt-on
+acquisitions, closing two deals in the quarter, AppliTek and Kipp & Zonen.
+AppliTek is a leading provider of wet chemistry processing analyzers and integrated systems that
+will help Hach offer a broader suite of parameters to its core industrial and municipal customers.
+Kipp & Zonen specializes in making instrumentation that's relied upon by meteorologists for
+applications such as climate research, water resource management and materials testing. Kipp &
+Zonen will join Hach's environmental business and nicely complements our existing offerings,
+providing us an opportunity to deliver enhanced customer solutions. We're excited to welcome
+both teams to Danaher.
+At ChemTreat, core revenue grew at a low single-digit rate driven by increases in the food, steel
+and oil and gas end markets, primarily in North America. It's worth noting that 2017 marks
+ChemTreat's 50th consecutive year of revenue growth, a tremendous accomplishment and a
+testament to the team's commitment to continuous improvement and their best-in-class
+commercial execution.
+Lastly, Trojan had a great quarter, delivering double-digit core growth, driven by healthy demand
+and increased bidding activity in the North American municipal market. Trojan continues to
+execute very well, significantly improving customer win rates to help drive share gains relative to
+its markets.
+So to wrap up, we're very pleased with our strong fourth quarter results, capping off a good year
+for Danaher and helping to build momentum as we start 2018.In 2017, the team delivered double-digit adjusted EPS growth, meaningful margin improvement
+and cash flow generation and saw core revenue growth accelerate through the year. We also
+executed on a number of strategic bolt-on acquisitions, continued to focus on integration of our
+recent larger deals and we now have a balance sheet that positions us well for a more significant
+capital deployment in 2018.
+As we look ahead, we believe that the strength of our portfolio, combined with the power of the
+Danaher Business System, provide us with the foundation to achieve long-term shareholder value
+creation. We are initiating first quarter adjusted diluted net EPS guidance between $0.90 and
+$0.93, which assumes core growth of 3.5% to 4%. We continue to expect full year 2018 core
+revenue growth of 3.5% to 4% and adjusted diluted net EPS to be in the range of $4.25 and
+$4.35.
+`Matthew E. Gugino, Vice President, Investor Relations `
+Thanks, Tom. That concludes our formal comments. Tracy, we're now ready for questions.
+Q&A
+Operator
+`Thank you, Tracy. Good morning, everyone, and thanks for joining us on the call. With us today are. And we'll go first to `Scott Davis, Analyst, Melius Research LLC with Melius Research.
+Q - `Scott Davis, Analyst, Melius Research LLC `
+Good morning, guys.
+A - `Thomas P. Joyce, Jr., President, Chief Executive Officer & Director, Jr. `
+Good morning, Scott.
+Q - `Scott Davis, Analyst, Melius Research LLC `
+Congrats to Mr. Comas. It's been a great run. We will -- we'll miss you, man.
+A - `Thomas P. Joyce, Jr., President, Chief Executive Officer & Director, Jr. `
+He's not done yet.
+Q - `Scott Davis, Analyst, Melius Research LLC `
+It sounds like you -- you already put him out to pasture, but Dan, you're too young to fully retire,
+so I'm guessing, we'll see you doing some other stuff.
+A - `Daniel L. Comas, Chief Financial Officer & Executive Vice President `
+I'll be around for a while.
+Q - `Scott Davis, Analyst, Melius Research LLC `
+All right. Well, congrats. You've done a great job and best to Matt McGrew. I'm sure he'll do a
+great job as well. So anyways, I wanted to give a shout out to my boy, Gugino too. He could – he's
+ready for promotion, so don't forget about him.
+A - `Thomas P. Joyce, Jr., President, Chief Executive Officer & Director, Jr. `He's doing quite well.
+Q - `Scott Davis, Analyst, Melius Research LLC `
+Matt, you owe me $100, but anyway...
+A - Operator
+Thanks Scott.
+Q - `Scott Davis, Analyst, Melius Research LLC `
+Let's step back and just a bit, I mean, the step up in core growth was pretty exceptional really, but
+can you walk us around the world? It wasn't clear where the positive surprises came from globally.
+It was by business, it was clear, but let's clear globally?
+A - `Thomas P. Joyce, Jr., President, Chief Executive Officer & Director, Jr. `
+Well, Scott, it was really very positive on a global basis. Of course, I think we all know from a
+macro perspective, we're in a unique time, right. We're in a time of globally synchronous,
+economic expansion and I think in many respects, our businesses are well positioned to take
+advantage of that growth rate on a global basis across all those many markets in which we
+participate.
+What we saw in the fourth quarter was continued good performance in the high-growth markets,
+exceptional growth in China and India as we've seen consistently throughout the course of the
+year, some improving performance in places like Latin America and Russia, and frankly still some
+softness in places like the Middle East. But I think what was maybe a bit more noteworthy than the
+continued good performance in the high-growth markets was the incremental strength that we
+saw in the developed markets. In the U. S. and in Europe, both of those markets, up mid-single
+digits is I think where the real difference is on a global basis.
+Now clearly, our businesses were well positioned to take advantage of opportunities in each of
+those markets. We saw obviously particular strength in our Life Sciences businesses and our
+Diagnostics businesses, up north of 7% and 6% respectively, improved performance sequentially
+in our Water Quality business, which we expected, and consistent performance in product
+identification. So I think overall, pretty well in line with what's happening in the macro from a
+geographic perspective, but I think clearly four of the five platforms incredibly well positioned
+relative to those macro drivers.
+Q - `Scott Davis, Analyst, Melius Research LLC `
+Yeah, so that just begs the natural question of when you think about your guidance, 3.5% to 4%,
+the first half of the year, you've got reasonably easy comps, you made positive comments about
+the global macro. I mean, is there something you've seen in January that leads to be a little bit
+more conservative? Or is it just the standard kind of Danaher, it's still early in the year, let's wait
+and see before we raise that guide?
+A - `Thomas P. Joyce, Jr., President, Chief Executive Officer & Director, Jr. `
+Yeah. No, I wouldn't say it's anything in particular that we've seen on a near term basis, Scott. I
+think it's much more to the latter point you made, which is it's very early in the year. We're
+encouraged by what obviously the finish we saw. What little we've seen of January to this point
+gives us encouragement as well. And I think it's just early at this point and, obviously, we'll beupdating throughout the course of the year, but I think for now we feel very good about the
+guidance that we have and we'll watch carefully as this quarter unfolds.
+Q - `Scott Davis, Analyst, Melius Research LLC `
+Okay. I'll pass it on. Congrats, Dan and Mr. McGrew, and look forward to the future.
+A - `Thomas P. Joyce, Jr., President, Chief Executive Officer & Director, Jr. `
+Thanks, Scott.
+A - `Daniel L. Comas, Chief Financial Officer & Executive Vice President `
+Thanks, Scott.
+Operator
+And we'll go next to Tycho Peterson with JPMorgan.
+Q - `Tycho W. Peterson, Analyst, JPMorgan Securities LLC `
+Hey. Thanks. A question on, in terms of the delta relative to our model, Life Sciences certainly
+stood out. You called out Beckman Life Science, Phenomenex. Can you quantify what Pall Life
+Sciences was up, and then was there any catch-up effect from 3Q there that you can quantify and
+any budget flush dynamic that you're willing to call out?
+A - `Thomas P. Joyce, Jr., President, Chief Executive Officer & Director, Jr. `
+Tycho, our best sense was the Life Sciences was up 7.5%. There was probably about a point
+benefit for kind of hurricane recovery, so call it ex-hurricane recovery more like 6.5%. That was
+also followed through with very strong orders. We were, I think as you went into the beginning of
+January, slightly worried that there was some budget flush, but our January orders have remained
+very strong, actually not only in Life Sciences, but more broadly.
+Q - `Tycho W. Peterson, Analyst, JPMorgan Securities LLC `
+Okay. And then a question on Cepheid, obviously this has done incredibly well. I'm just wondering
+if you can provide a little bit more color on how much of this is coming from new cartridge
+launches versus flu trends versus HBDC in some of these other markets?
+A - `Thomas P. Joyce, Jr., President, Chief Executive Officer & Director, Jr. `
+Tycho, thanks for the question and good morning. We saw really broad-based strong
+performance from Cepheid. There were a number of factors that I think contributed to that, not
+the least of which certainly was enhanced commercial execution.
+One of the things we track at Cepheid is our installed base and our new customer additions. And
+since we've acquired the business, our new customer additions are plus 15% since we acquired
+the business. I think menu is certainly a contributor with Xpress Flu, with Flu/RSV, with Strep Test
+all introduced in 2017, all making a difference. Yes, continued strength in the high burden
+developing countries but very good strength in the developed markets as well.
+Clearly, we are in the midst of, certainly from a patient perspective, a very challenging flu season
+and, yes, that does drive growth at Cepheid. But I think if you step back and you look at the
+performance in the fourth quarter, that performance is driven far beyond the early strength of theflu season and really represents, I think, a number of both commercial execution enhancements
+and menu expansions that have driven growth in the installed base.
+Q - `Tycho W. Peterson, Analyst, JPMorgan Securities LLC `
+Okay. `Thank you, Tracy. Good morning, everyone, and thanks for joining us on the call. With us today are. Congrats on the quarter.
+A - `Thomas P. Joyce, Jr., President, Chief Executive Officer & Director, Jr. `
+Thanks, Tycho.
+Operator
+And we'll go next to `Ross Muken, Analyst, Evercore Group LLC with Evercore ISI.
+Q - `Ross Muken, Analyst, Evercore Group LLC `
+Good morning, guys, and congrats to Matt and Dan. So maybe on Dental, right. Some of the
+underlying trends particularly in the recently acquired business in Nobel seemed better, but
+obviously some of the noise still exists with the channel and maybe on sort of basic consumables.
+I guess, based on what you've seen, kind of closing the year to start the year, I mean in terms of
+cadence and in terms of your thoughts on how some of the changes you've made over time are
+starting to play out and the pieces where you've been able to influence it versus maybe some of
+the market factors you don't have control on, what's your sort of updated thoughts on how that's
+gone and in terms of maybe some of the small wins it seems like you're getting in pieces like
+Nobel?
+A - `Thomas P. Joyce, Jr., President, Chief Executive Officer & Director, Jr. `
+Thanks, Ross. The fourth quarter played out pretty much in line with what we expected. I think we
+all know that 2017 was clearly a difficult year in the industry, but there are a number of things that
+actually are quite encouraging for us, starting with the specialty consumables business. I
+mentioned in my comments earlier the terrific performance that we've seen at Nobel. We've
+seen very consistent and good performance from Ormco as well, and those two businesses,
+those specialty consumables businesses, represent half our Dental segment.
+Mid-single digit growth across that group of businesses combined in the fourth quarter with
+Nobel being high-single digits. And there's no question, I think those are some pretty attractive
+markets to participate in. Could the strength there be taking a little bit of wallet share from some
+of the more traditional consumables? Maybe, a little bit tough to pinpoint on that, but in general,
+that half of our segment, we were quite encouraged by.
+The high-growth markets have continued to perform very well. High single-digit growth in the
+fourth quarter and throughout our 2017. And then operational execution. We've talked in the past
+and I think we've just finished up our second year of talking about our Dental platform,
+approaching the Dental platform as a new acquisition. And we've done a number of things to
+right-size the cost structure while reinvesting over the last couple of years. We consolidated
+operating companies from 10 down to four, reduced the manufacturing and back office sites by
+nearly a third.
+Gross margins up 100 basis points as a result of a number of those changes and yet we're still
+reinvesting. R&D up 100 basis points as a percent of sales, up 20% in 2017 year-on-year, a whole
+bunch of new products, 25 new products as I mentioned in Nobel. So this is a $3 billion platform
+we have today and admittedly, that doesn't represent an enormous percentage of Danaher, andclearly where we've seen the weakness in about half of that platform is an even smaller
+percentage of the overall platform, but these are strong brands and great franchises. Good
+secular trends around digital dentistry and so on, and overall, we feel good about the operational
+improvements and the progress we're making, and we continue to drive to create long-term
+value out of that platform.
+Q - `Ross Muken, Analyst, Evercore Group LLC `
+That's super helpful. And maybe just on the capital allocation front. So you guys, free cash
+continues to be really tremendous, 100% plus of net income. I guess as you're staring out over
+the balance of the year, it looks like the leverage levels are going to get back to kind of a
+manageable place. I mean how are you balancing kind of your sort of balance sheet capacity
+versus sort of public market multiples, it looks like you're a little bit busy on the tuck-in side in the
+last quarter or two, so help us just think through kind of how that environment looks like for you
+right now?
+A - `Thomas P. Joyce, Jr., President, Chief Executive Officer & Director, Jr. `
+We feel very good about where we sit today, Ross. The 10 acquisitions that we did in the past
+year were strategic enhancements to a number of our platforms and the spend that we
+executed during the course of the year was certainly within the range of the spend that we
+anticipated during the course of the year particularly in light of the capital deployment that had
+preceded that over a couple of years of 2015 and 2016.
+As we enter 2018, as I mentioned, I think the balance sheet is in great shape. It positions us now
+to take advantage of opportunities as they come along. Optimally, we would deploy that capital
+at or above our free cash flow and for deals that really are strategically important to any one of
+our platforms today, we'd be willing to stretch that a bit.
+So we feel great about how we entered the year. We've seen activity pick up a little bit. Second
+half of the year, you saw a little bit more activity in those bolt-on than in the first half of the year,
+and I think that bodes well for how things might open up here with people feeling good about
+their own valuations, clearly as sellers, but I think it's also probably worth noting now that tax
+reform has been determined, if you will, that takes a level of uncertainty out of the market, and
+any time you eliminate uncertainty, confidence grows and that may help things out as well.
+Q - `Ross Muken, Analyst, Evercore Group LLC `
+Great, thanks and congrats guys.
+A - `Thomas P. Joyce, Jr., President, Chief Executive Officer & Director, Jr. `
+`Thank you, Tracy. Good morning, everyone, and thanks for joining us on the call. With us today are.
+Operator
+We'll take our next question from `Steven Winoker, Analyst, UBS Securities LLC with UBS.
+Q - `Steven Winoker, Analyst, UBS Securities LLC `
+Thanks. Good morning all.
+A - `Thomas P. Joyce, Jr., President, Chief Executive Officer & Director, Jr. `Q - `Steven Winoker, Analyst, UBS Securities LLC `
+I want to echo Scott's comments, congratulating Dan and Matt. I know you'll hear it a lot, but I
+don't think it's truer in any organization. So great to see you, and we'll miss you. Just on gross
+margin, Dan.
+A - `Thomas P. Joyce, Jr., President, Chief Executive Officer & Director, Jr. `
+(35:10)
+Q - `Steven Winoker, Analyst, UBS Securities LLC `
+Yeah, yeah, right. Well, that's...
+A - `Thomas P. Joyce, Jr., President, Chief Executive Officer & Director, Jr. `
+(35:13)
+Q - `Steven Winoker, Analyst, UBS Securities LLC `
+Yeah, no, he still has to make the next four quarters. Dan, come on. Dan, could you maybe give a
+little more color on the puts and takes around the gross margin, 130 basis points. Obviously, you
+guys are less sensitive in your cost structure to material inflation than a lot of other companies,
+but maybe just talk about the price, productivity mix impact versus other headwinds?
+A - `Daniel L. Comas, Chief Financial Officer & Executive Vice President `
+Sure. I mean, all up a big of the driver is the continued expansion of gross margins at Pall. It's,
+obviously, been a multiyear effort, the big step up, the 400 basis points step up in gross margin
+at Cepheid year-on-year are probably the two biggest drivers. At our 55% gross margin, we just
+don't have that much impact from sort of commodities and direct labor inflation. It's a little bit of a
+headwind right now, but at those levels, it's relatively modest. And clearly, when you put in
+together 5.5% core growth, you get very good fall through including on the gross margin side.
+Q - `Steven Winoker, Analyst, UBS Securities LLC `
+Okay. And then, so you would expect that to continue?
+A - `Daniel L. Comas, Chief Financial Officer & Executive Vice President `
+Yeah, probably not at the – we're not going to get another 400 basis points step up at Cepheid
+next year in gross margin, but yeah, I think we're very well positioned from a gross margin. And I
+think you saw in the operating margin side, as many of you remember, we had negative OMX,
+core OMX in the first quarter of this year and we still ended up at the high end of our range of 50
+to 75 basis points of core margin expansion. I feel very good about how we're set up in terms of
+core margins going into 2018, including some of the actions we took in the latter part of 2017.
+Q - `Steven Winoker, Analyst, UBS Securities LLC `
+Okay. And then maybe just talk through a little more of the margin dynamics on the down 50
+basis points at Environmental and Applied Solutions?
+A - `Daniel L. Comas, Chief Financial Officer & Executive Vice President `Sure. That was primarily at Water, a couple of different factors. Trojan being very strong, a little bit
+of negative mix, but the Water business particularly Hach came to us kind of early in the fourth
+quarter with some opportunities both on the growth side and on the cost side to take some
+actions. It was clear we were having a very good quarter. We let them execute upon those actions
+both top and bottom line. You did see their growth accelerate. I just saw for January that a very
+strong start to the year. So I think some of their growth investments still like they are paying off
+pretty quickly here.
+So I'm not that concerned. A fair amount of it was kind of orchestrated through the quarter, just
+given the strength we've had. And granted we're not going to have the uplift we have in that
+segment that I think we'll continue to have in Diagnostics and Dental, but I think you'll see more
+normalized margin improvement across those businesses. PID had a very good quarter, very
+good year in terms of margins and I think you'll see Water sort of back on track here, starting
+early this year.
+Q - `Steven Winoker, Analyst, UBS Securities LLC `
+Okay. Great. Thanks. I'll pass it on.
+A - `Thomas P. Joyce, Jr., President, Chief Executive Officer & Director, Jr. `
+Thanks, Steve.
+Operator
+And we'll go next to Jeff Sprague with Vertical Research.
+Q - `Jeffrey Todd Sprague, Analyst, Vertical Research Partners LLC `
+`Thank you, Tracy. Good morning, everyone, and thanks for joining us on the call. With us today are. Good morning, everyone.
+A - `Thomas P. Joyce, Jr., President, Chief Executive Officer & Director, Jr. `
+Good morning, Jeff.
+A - `Daniel L. Comas, Chief Financial Officer & Executive Vice President `
+Good morning, Jeff.
+Q - `Jeffrey Todd Sprague, Analyst, Vertical Research Partners LLC `
+I'm not going to say anything about Dan or Matt, because everybody is getting way too misty-
+eyed on this call.
+A - `Daniel L. Comas, Chief Financial Officer & Executive Vice President `
+I appreciate that.
+Q - `Jeffrey Todd Sprague, Analyst, Vertical Research Partners LLC `
+We got a year. So, hi, just a couple of things. Just back to tax reform. You guys obviously do a fair
+amount of bolt-ons and just looking at this provision on deals that are structured as asset deals
+where you can get immediate expensing of the fixed assets of the target company. I just
+wondered if you can give us a little context on this from a Danaher standpoint. Are a lot of your
+bolt-on deals typically asset deals? And do you have the ability to structure them that way? Andbecause it – it kind of change the economic lens you're looking through when you look at these
+properties?
+A - `Daniel L. Comas, Chief Financial Officer & Executive Vice President `
+Jeff, there's always been an advantage to acquire the assets as opposed to the stock of an
+entity, probably even more so now.
+I would say that we're sort of incrementally encouraged versus where we were two months ago,
+generally around tax reform. We said in December, we thought our rate would be 21%. I think it'll
+probably be close to 20% to 21% this year. We talked about a toll tax being probably in the
+magnitude of $100 million a year for the next five years. We now think it's going to be more or
+like $50 million to $60 million, so I feel like sort of incrementally. And finally, to your point, as often
+been the case, often with acquisitions, particularly asset acquisitions, there's an opportunity to do
+even more tax work to potentially lower that ETR even more over time.
+Q - `Jeffrey Todd Sprague, Analyst, Vertical Research Partners LLC `
+And then on the investment spend in Environmental & Applied, I'm just wondering, is that kind of
+traditional restructuring or you're doing something to further drive growth? Obviously, the tempo
+in the business seems like it's quite strong. I guess there's always some belt-tightening to do
+around the edges, but is this more growth oriented? Or is it more a restructuring oriented?
+A - `Daniel L. Comas, Chief Financial Officer & Executive Vice President `
+It's a little bit of both, more growth oriented, Hach adding both on the R&D side and the feet on
+the street side. We've seen very good numbers on the municipal and the industrial side. They
+actually got better through the year and we let -- we gave them some latitude to ramp it up even
+more in Q4.
+Q - `Jeffrey Todd Sprague, Analyst, Vertical Research Partners LLC `
+And then finally, just on the distributor realignment in Dental. Are we just now kind of working
+through the comparisons associated with the realignment that's happened in the last several
+months or so, six months or so maybe it's longer than that, but, and so we're just kind of working
+through the annualization of these dynamics? Or is there still some things shifting around in the
+business?
+A - `Thomas P. Joyce, Jr., President, Chief Executive Officer & Director, Jr. `
+Jeff, those relationships changed in a formal way, at the beginning of September last year. So
+we're about four, five months into what is a shift in largely exclusive arrangements that involved
+our relationship with Henry Schein and Dentsply Sirona's relationship with Patterson. Essentially
+changing places in terms of a number of equipment-related product lines particularly around
+imaging. When that sort of thing happens, there's a series of adjustments that need to be made.
+Some of that comes in the form of inventory. Some of that comes in the form of actually sellout
+that is associated with sales teams, learning new products, shifting incentives, et cetera, which
+can further, along with the inventory adjustments have an impact on sell in.
+So it's a series of factors that come together that does take a number of months to work its way
+through the system. At the end of the day, the market becomes a little bit more of a level playing
+field when you have less exclusive arrangements between manufacturers and distributors. We
+believe it'll still take a better part of the first half of this year for those adjustments to work theirIn the meantime, we're encouraged by seeing the traditional consumables side, which has been
+challenged as well moderate a bit in the fourth quarter. We take that all together and we still think
+our Dental business is likely to be flattish in the first half of this year with the -- especially
+consumables business is continuing to perform quite well, high-growth markets continuing to
+perform quite well and much of the operational improvements that we're putting in place
+continuing to improve profitability.
+Q - `Jeffrey Todd Sprague, Analyst, Vertical Research Partners LLC `
+Great. Thanks for the color. Appreciate it.
+A - `Daniel L. Comas, Chief Financial Officer & Executive Vice President `
+Thanks Jeff.
+A - `Thomas P. Joyce, Jr., President, Chief Executive Officer & Director, Jr. `
+Thanks Jeff.
+Operator
+We'll take our next question from Derik De Bruin with Bank of America Merrill Lynch.
+Q - `Derik de Bruin, Analyst, Bank of America Merrill Lynch `
+Hey good morning.
+A - `Daniel L. Comas, Chief Financial Officer & Executive Vice President `
+Good morning Derik.
+Q - `Derik de Bruin, Analyst, Bank of America Merrill Lynch `
+Hey, just a couple, one quick one and then one follow-up. So net interest expense, interest
+income, so what's the guide for 2018, could you remind me?
+A - `Daniel L. Comas, Chief Financial Officer & Executive Vice President `
+$145 million.
+Q - `Derik de Bruin, Analyst, Bank of America Merrill Lynch `
+Great, thank you, okay. And I guess could you talk a little bit about more pharma demand. I mean
+we're starting to see some big companies talking about increasing their capital allocations and
+spending. Could you sort of talk about what you see in the pharma space and order pickups in
+that area. On the equipment side, less so on the bioprocess side. I'm just wondering if some of
+the stuff you're seeing is directly related to some of the commentary that we're hearing on them
+stepping up some of the spend.
+A - `Thomas P. Joyce, Jr., President, Chief Executive Officer & Director, Jr. `
+Derik, we feel good about the overall pharma market today, not just in bioprocessing and
+biologic-driven pharma demand, but across small molecule as well and we would point to the
+continued good performance in our equipment businesses at SCIEX, at Beckman Life Sciences, at
+Phenomenex, at Leica Microsystems, each of those businesses on the equipment side continuingto perform very well. And not all of those businesses have as significant exposure to the biologic
+side of Life Sciences or certainly pharma as we do, say, at Pall.
+Where, by the way, we saw some improved performance clearly in the fourth quarter, obviously
+not all a function of the recovery from the third quarter hurricane disruptions, but in fact, we saw
+good order rate trends around biologic and small molecules, good order rate trends around our
+single-use technologies as well. So on balance, I would say the overall pharma market, biologics
+and small molecules combined, continues to be in pretty good shape.
+Q - `Derik de Bruin, Analyst, Bank of America Merrill Lynch `
+And the Diagnostics side, any possible CapEx to allocate any PAMA blowback?
+A - `Thomas P. Joyce, Jr., President, Chief Executive Officer & Director, Jr. `
+Not really, Derik. Again, it's early relative to PAMA. Those rates, as you know, are just going into
+place. As I mentioned previously, our exposure there is relatively modest with 60% of our volume
+outside the United States, this being only a U.S. impact and limited to Medicare reimbursements
+for outpatient spending, which again further mitigates the impact on us.
+So it's certainly reasonable to think that customers will leverage the reduction in reimbursement
+associated with PAMA more broadly, but then again, I don't think that's necessarily anything new. I
+think anytime there are competitive dynamics in a market like the diagnostics market, certainly in
+the central lab, there's going to be some pricing pressure. PAMA will create a little bit of an
+additional rationale for that, but on a fact basis, the exposure there, again U.S. only, hospital
+outpatient and Medicare reimbursement would suggest it's relatively modest.
+Q - `Derik de Bruin, Analyst, Bank of America Merrill Lynch `
+`Thank you, Tracy. Good morning, everyone, and thanks for joining us on the call. With us today are.
+A - `Thomas P. Joyce, Jr., President, Chief Executive Officer & Director, Jr. `
+`Thank you, Tracy. Good morning, everyone, and thanks for joining us on the call. With us today are.
+Operator
+And we'll go next to `Steve Beuchaw, Analyst, Morgan Stanley & Co. LLC with Morgan Stanley.
+Q - `Steve Beuchaw, Analyst, Morgan Stanley & Co. LLC `
+Hi, good morning. And thanks for the time here, guys.
+A - `Thomas P. Joyce, Jr., President, Chief Executive Officer & Director, Jr. `
+Hey, Steve.
+Q - `Steve Beuchaw, Analyst, Morgan Stanley & Co. LLC `
+First question is a geographic focus question. We've talked a fair amount here on this call about
+the developed markets. I wonder if we could spend just a minute or two on China as it didn't get
+as much attention on the call. Where in China do you think that we have a particularly good 2018,
+how are things evolving there? Where in China, given some of the liquidity news items out there,
+should we maybe budget in something that is a little bit more moderate relative to 2017?A - `Thomas P. Joyce, Jr., President, Chief Executive Officer & Director, Jr. `
+Steve, China has been an important growth driver for us for a number of years. Today, we do I
+think in excess of $2 billion of revenue in China. We have strong positions across each of the
+platforms and there are extraordinary, I think, secular market drivers in China that support
+obviously our Water Quality platform with the environmental concerns in China. Product ID even
+with the growth of the middle class and consumer packaged goods.
+Diagnostics and Life Science both receiving significant amount of investment from the Chinese
+government. And as I've mentioned a number of times, our Dental business continues to grow
+high single digits and in certain quarters, double digits pretty consistently in China. So I think if you
+step back, you would say, boy, this is a portfolio that really lines up well with a number of key
+growth drivers in the Chinese market. In terms of any changes, you have the impact of a relatively
+new five-year plan in China. Again, I think that's going to be supportive broadly across most of our
+platforms. I don't think there's much of a change there. So in general, we feel pretty good about
+continuing contributions from the Chinese market in each one of the platforms.
+A - `Daniel L. Comas, Chief Financial Officer & Executive Vice President `
+Steve, one of the things that was encouraging in China was we were up double-digit for the year
+and we were basically 10%, 11% every quarter through 2017. So it feels like we have pretty good
+momentum. It's a bigger base now, so could that tick down a point or two, sure. But things are still
+feeling pretty good over there.
+Q - `Steve Beuchaw, Analyst, Morgan Stanley & Co. LLC `
+Good to hear. Good to hear. One more big picture question for Tom. It's hard not to look at the
+improvement of organic growth here, core growth in the last couple of quarters, and hear the
+really encouraging commentary on new product flow and execution across the businesses and
+think, hey, wow, these guys have seen some step-up in R&D, step-up in commercial investment,
+really pay off. It'd be helpful just to hear what you've learned and how this success, or at least the
+way I perceive it as a success, downstream of an investment effort, how's that changing your
+thinking if at all about the medium or long-term appropriate levels of spend on R&D and sales
+and marketing in the organization. Thanks so much.
+A - `Thomas P. Joyce, Jr., President, Chief Executive Officer & Director, Jr. `
+Thanks, Steve. Well, clearly, this has been an evolution for us. Part of that evolution, Steve, is the
+evolution of the portfolio. Many of the changes that we've made in the portfolio over quite a
+number of years, not just in the last two years or so, but really over the last probably better than
+five years, have set up a portfolio that is really aligned to markets that have great growth drivers.
+I think secondly, we've seen an evolution in the Danaher Business System. As the tools of DBS
+have evolved beyond Lean into leadership and most importantly, into growth, then we see the
+tools of DBS, which by the way continue to evolve even in 2017. We've developed incremental
+growth tools that are having an impact on each of our businesses from a commercial execution
+perspective, but also in terms of driving higher rates of innovation.
+And I think finally on innovation, I think it has and will continue to play an increasingly important role
+in our growth rates, and those investments in R&D have paid off and we could point to a number
+of those examples in our businesses where we see new products incrementing their growth
+rates. I'd point specifically for example to Videojet who's got probably the most robust new
+product pipeline in its history today with the 1860 now fully sensored and wired to the Internet forgreater levels of customer service, Hach's launch of the Claros System, leveraging the Internet of
+Things as well.
+So I think the portfolio evolution, the evolution of the tools in the Danaher Business System,
+continued investment in R&D to drive higher rates of innovation and then finally inorganically,
+obviously, the deals we've done over the last couple of years have been incremental to our
+growth rates. You clearly look at the impact of Cepheid and Phenomenex, our most recent
+acquisitions, but certainly Pall and Nobel, having an impact.
+And those 10 strategic bolt-on acquisitions, each of those have strategic impacts on our
+businesses and the ability to drive incremental growth over time, through what, at times there's
+kind of early-stage investment that can drive long-term innovation-related growth. So it's really a
+combination of things. Have we learned a lot in the process? Certainly, we have, but I think that
+learning has come really as a function of executing a plan.
+Operator
+And we'll go next to Richard Eastman with Baird.
+Q - `Rick C. Eastman, Analyst, Robert W. Baird & Co., Inc. `
+Hi, guys. Good morning.
+A - `Thomas P. Joyce, Jr., President, Chief Executive Officer & Director, Jr. `
+Good morning Rick.
+Q - `Rick C. Eastman, Analyst, Robert W. Baird & Co., Inc. `
+Good morning. Could we just circle back, if you will, to the Life Sciences op margin here in the
+quarter? And maybe just speak a little bit to Pall, the strength at Pall and the impact of mix on that
+op margin? I'm curious, Dan, you flagged Pall's gross margin improvement as a big factor in
+overall margin improvement and expansion, but could you maybe just give us a sense to what
+Pall's gross margin improvement during and for the full year in calendar 2017?
+A - `Daniel L. Comas, Chief Financial Officer & Executive Vice President `
+As you know, Rick, when we purchased the business, it was a high-teens op business, and we're
+up circa 1,000 basis points since the time of the acquisition. And a big chunk of that has been
+improvement in the gross margin. I would say that one of the things that was encouraging in the
+quarter was the gross margin improvement in Life Sciences was pretty broad-based and a
+number of the businesses grew mid-single digits. Beck Life Sciences improved their gross
+margins and in turn their operating margin.
+We're seeing the same thing at SCIEX, good margin expansion. So though I noted Pall as a big
+driver of the Life Science improvement, it was this broad-based, particularly to put up that sort of
+number as I've seen it and clearly the better core growth helps. And all those businesses are
+doing a good job of expanding the gross margins, leveraging G&A, all stepping up their R&D and
+sales and marketing, so we're getting those margins step up, back to Tom's point, about
+investing and grow while stepping up our growth investments.
+Q - `Rick C. Eastman, Analyst, Robert W. Baird & Co., Inc. `I see. And again, when you look at the op margin here, for the fourth quarter, assuming Pall, both
+Pall Life Sciences as well as PI, stepped up and rebounded, how do you look at the gross margin
+in the fourth quarter here as maybe a new structural level here to grow off of and leverage off of
+with core growth going forward for Life Sciences?
+A - `Daniel L. Comas, Chief Financial Officer & Executive Vice President `
+Rick, I'd have to look at it more carefully. I mean as you know, there is some seasonal benefit in
+the fourth quarter in Life Science with equipment sales, which were very strong, but I believe we
+made a lot of structural changes in the cost profile across Life Science. So I'd have to look at it
+specifically kind of go into the next couple of quarters, but the step-up is real.
+Q - `Rick C. Eastman, Analyst, Robert W. Baird & Co., Inc. `
+Okay. And then just last question, follow-up on Dental. When we look at the Dental, I think Tom,
+you had suggested maybe first half of 2018 would see flattish revenue so perhaps a little bit of
+growth in the back half, but I'm curious, when you look at the margin expectation around Dental
+for 2018, do we have enough restructuring? Do we have enough growth investments without a
+great deal of topline to drive 50 to 100 basis points of margin improvement in 2018? What does
+the plan look like given the sales outlook?
+A - `Thomas P. Joyce, Jr., President, Chief Executive Officer & Director, Jr. `
+Rick, I think we've balanced that pretty well over the last couple of years and we'll continue to do
+that in 2018. We've applied restructuring dollars to drive enhanced productivity in a number of
+different areas, but at the same time, we've invested in R&D, and we've invested in sales and
+marketing and have cited those numbers as you may recall. And so I think it's a balance, and I
+think we've struck that balance pretty well in 2016 and 2017. And I don't anticipate that we will
+approach that any differently in 2018.
+Q - `Rick C. Eastman, Analyst, Robert W. Baird & Co., Inc. `
+Okay, very good. `Thank you, Tracy. Good morning, everyone, and thanks for joining us on the call. With us today are.
+A - `Thomas P. Joyce, Jr., President, Chief Executive Officer & Director, Jr. `
+Thanks Rick.
+Operator
+And we'll take our final question today from `Doug Schenkel, Analyst, Cowen & Co. LLC with Cowen and Company.
+A - `Thomas P. Joyce, Jr., President, Chief Executive Officer & Director, Jr. `
+Hey Doug.
+Q - `Doug Schenkel, Analyst, Cowen & Co. LLC `
+Hi good morning. I'm going to start on Pall. You guys had a solid quarter even normalized for
+hurricane effects. Your commentary on order trends is encouraging. Specific to bioproduction, is it
+safe to say that you have seen an improvement in demands or at least a normalization
+subsequent to some of the customer inventory rebalancing dynamics you mentioned earlier in
+2017?A - `Thomas P. Joyce, Jr., President, Chief Executive Officer & Director, Jr. `
+Doug, it is safe to say that. It was solid performance even normalized. The order trends are good,
+and those order trends do point to an improvement in the demand profile. As I think you and
+others know, we saw a number of customers in that market adjust inventory levels, in a couple of
+cases, slow down production during the course of 2017, and I think in the late third quarter and
+into certainly the fourth quarter, we saw order trends improve. So we're encouraged by that.
+Q - `Doug Schenkel, Analyst, Cowen & Co. LLC `
+Okay. And maybe just to close out by going back to something we covered at length earlier in the
+discussion, the topic of 2018 guidance rationale. You were clear in saying that based on what you
+saw in January, you don't think there was any pull forward of revenue from Q1 into Q4 and we
+know you have a history of tending to be prudently conservative with guidance especially early in
+the year.
+That said, I just want to confirm two other things. One, the current FX rates would seemingly cut
+out as much as $0.10 to full year EPS relative to when you originally guidance at least based on
+our amount, that those are not fully reflected in current guidance. And second, that you've not
+fully adjusted guidance for the lower tax rate dynamic that you mentioned in response to an
+earlier question? `Thank you, Tracy. Good morning, everyone, and thanks for joining us on the call. With us today are.
+A - `Daniel L. Comas, Chief Financial Officer & Executive Vice President `
+Doug, it's Dan. Let me try to answer that. We have a – we've been in this world, 13, 14 years,
+we've sort of avoided adjusting December guidance when we get to January. Just feels too early,
+too quick. I also recognize that the January call next year will be Matt McGrew's first call, so I'm
+not suddenly looking to sort of change things up here. But you're right, there is some tailwinds
+out there.
+Q4 demand, December demand, January numbers, they all play – they all point to good
+numbers. We are benefiting from the further weakness of the dollar, and we are a little more
+optimistic on the tax rate. Yes, a little – a few offsets there, probably higher share count, but that
+offsets are modest. So net-net, we're feeling pretty good about where we are, and if those good
+things continue, we'll have plenty of opportunities to update you through the year. I hope that
+helps.
+Q - `Doug Schenkel, Analyst, Cowen & Co. LLC `
+Okay. That's very helpful. `Thank you, Tracy. Good morning, everyone, and thanks for joining us on the call. With us today are.
+Operator
+This does conclude today's question-and-answer session. At this time, I would like to turn the call
+back to Mr. Gugino for any additional or closing remarks.
+A - `Matthew E. Gugino, Vice President, Investor Relations `
+Thanks, Tracy, and thanks, everyone for joining us. We're around all day for questions.
+Operator
+This does conclude today's conference. We thank you for your participation. You may now
+disconnect.

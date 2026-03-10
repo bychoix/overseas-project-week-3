@@ -1,0 +1,576 @@
+Q4 2021 Earnings Call
+
+Presentation
+Operator
+Welcome everyone to the MPS Fourth Quarter 2021 Earnings Webinar. Please note that this
+webinar is being recorded, and will be archived for one year on our Investor Relations page at
+www.monolithicpower.com. My name is Genevieve Cunningham, and I will be the moderator for
+this webinar. Joining me today are Michael Hsing, CEO and Founder of MPS; and `Bernie Blegen, Vice President and Chief Financial Officer,
+VP and CFO. In the course of today's conference call, we will make forward-looking statements
+and projections that involve risk and uncertainty, which could cause results to differ materially from
+management's current views and expectations.
+Please refer to the safe harbor statement contained in the earnings release published today.
+Risks, uncertainties, and other factors that could cause actual results to differ are identified in the
+safe harbor statements contained in the Q4 earnings release and in our SEC filings, including our
+Form 10-K filed on March 1, 2021, and Form 10-Q filed on November 8, 2021, both of which are
+accessible through our website. MPS assumes no obligation to update the information provided
+on today's call.
+We will be discussing gross margin, operating expense, R&D and SG&A expense, operating
+income, other income, income before income taxes, net income, and earnings on both a GAAP
+and a non-GAAP basis. These non-GAAP financial measures are not prepared in accordance with
+GAAP, and should not be considered as a substitute for or superior to measures of financial
+performance prepared in accordance with GAAP. A table that outlines the reconciliation between
+the non-GAAP financial measures to GAAP financial measures is included in our Q4 and full-year
+2021 earnings release, which we have filed with the SEC and is currently available on our website.
+I'd also like to remind you that today's conference call is being webcast live over the internet, and
+will be available for replay on our website for one year, along with the earnings release filed with
+the SEC earlier today.
+Now, I'd like to turn the call over to `Bernie Blegen, Vice President and Chief Financial Officer.
+`Bernie Blegen, Vice President and Chief Financial Officer `Thanks, Jen. In 2021, MPS surpassed the $1 billion revenue milestone by achieving a record full
+year revenue of $1.2 billion, 43.0% higher than the prior year. This performance represented
+consistent execution against our strategies and being recognized by more first-tier companies
+for our superior technologies, product quality, and excellent customer support. As we see, more
+highly qualified -- high-quality growth opportunities ahead of us, we continue to invest in our
+infrastructure and operational capabilities.
+In 2021, MPS grew capacity by 40%, and we are on track to expand capacity in 2022 well beyond
+$2 billion, allowing the company to successfully ramp new product revenue and achieve strategic
+market share gains. Here are a few highlights, which we achieved in 2021. Brought online a new 8-
+inch fab and continue to qualify parts in the 12-inch fab we brought online in 2020. We will
+continue to invest in growing fab and assembly capacities.
+We design processor cores and MCU technology into products requiring more sophisticated
+power solutions, such as USB power delivery, smart motor drives, and high-power electrification.
+Our first prototype of a high-precision analog-digital converter product for medical applications
+achieved outstanding silicon performance in lab evaluations. We have started customer sampling
+in Q1 '22. Validation of this technology is a strong first step in developing a new business
+segment, supporting both industrial and infrastructure end market applications.
+We believe new product revenue from a large number of previously released designs will ramp in
+2022. A representative sample includes product supporting applications in VR14, 5G, BMS, ADAS,
+AI, USB PD, DDR, and many more. Turning to our full year 2021 revenue by market segment.
+Compared to 2020, automotive revenue was up 87.5%, computing and storage revenue up
+47.0%, industrial revenue up 54.5%, consumer revenue up 28.1%, and communications revenue
+up 15.3%, demonstrating just how broad-based our full year 2021 revenue improvement was.
+Automotive revenue grew $95.4 million to $204.3 million in 2021. This 87.5% year-over-year gain
+primarily represented increased sales of our highly integrated applications supporting the digital
+cockpit, automotive -- automated driver assistance systems and connectivity. Automotive revenue
+represented 16.9% of MPS' full year 2021 revenue, compared with 12.9% in 2020. Full year 2021
+computing and storage revenue grew $119.1 million over the prior year to $372.3 million. This
+47.0% increase primarily resulted from strong sales growth for enterprise notebooks, cloud
+computing, and storage applications.
+Computing and storage revenue represented 30.8% of MPS' total revenue in 2021, compared
+with 30.0% in 2020. Industrial revenue grew $65.2 million to $184.8 million in 2021. This 54.5%
+year-over-year increase was broad-based, with each of our primary product lines enjoying better
+than double-digit revenue growth. Industrial revenue represented 15.3% of MPS' full year 2021
+revenue, compared with 14.2% in 2020. Consumer revenue grew $61.9 million to $282.3 million,
+reflecting increased product sales for home appliances and smart TVs. Consumer revenue
+represented 23.4% of MPS' full year 2021 revenue, compared with 26.1% in 2020.
+Communications revenue grew $21.8 million to $164.1 million. This 15.3% improvement reflected
+higher sales of products for both infrastructure and wireless routers and gateway applications.
+Communications revenue represented 13.6% of our 2021 revenue, compared with 16.9% in 2020.
+Switching to Q4. MPS had a record fourth quarter with revenue of $336.5 million, 4.0% higher than
+the revenue generated in the third quarter of 2021 and 44.4% higher than the comparable
+quarter in 2020.
+By market segment, revenue for computing and storage grew 91.6% year-over-year,
+communication grew 54.7%, automotive grew 43.2%, industrial grew 33.3%, and consumer grew1.9%. Fourth quarter 2021 GAAP gross margin was 57.6%, same as third quarter 2021 and 230
+basis points higher than the fourth quarter of 2020. Our GAAP operating income was $78.6
+million, compared to $77.1 million reported in the third quarter of 2021, and $40.0 million reported
+in the fourth quarter of 2020.
+Fourth quarter 2021 non-GAAP gross margin was 57.9%, 10 basis points higher than the third
+quarter of 2021, and 220 basis points higher than the fourth quarter of 2020. The year-over-year
+expansion in fourth quarter non-GAAP gross margin is largely due to a shift in sales mix favoring
+high-value greenfield products and operational efficiency gains, which more than offset higher
+product input costs. MPS achieved noteworthy market share gains in 2021 due in large measure
+to product availability and discipline sales price management. Our non-GAAP operating income
+was $112.0 million, compared to $108.4 million reported in the prior quarter, and $66.3 million
+reported in the fourth quarter of 2020.
+Let's review our operating expenses. Our GAAP operating expenses were $115.3 million in the
+fourth quarter, compared with $109.2 million in the third quarter of 2021, and $88.9 million in the
+fourth quarter of 2020. Our non-GAAP fourth quarter 2021 operating expenses were $83.0
+million, up from the $78.7 million we spent in the third quarter of 2021, and up from the $63.6
+million reported in the fourth quarter of 2020. On both a GAAP and a non-GAAP basis, fourth
+quarter 2021 litigation expense was a credit balance of $420,000, compared with $3.4 million
+expense in Q3 2021, and a $1.5 million expense in Q4 2020.
+The credit balance in fourth quarter 2021 litigation expense reflected an IP settlement, refund of
+a legal retainer and lower than anticipated fees. The differences between GAAP and non-GAAP
+operating expenses for the quarters discussed here are stock compensation expense, and
+income or loss from an unfunded deferred compensation plan. Fourth quarter 2021 stock
+compensation expense, including $921,000 charged to cost of goods sold was $31.2 million,
+compared with $31.6 million recorded in the third quarter of 2021.
+Switching to the bottom line. Fourth quarter 2021 GAAP net income was $77. -- $72.7 million or $1.51
+per fully diluted share, compared with $1.44 per share in the third quarter of 2021, and $0.90 per
+share in the fourth quarter of 2021. Q4 2021 non-GAAP net income was $102.1 million or $2.12 per
+fully diluted share, compared with $2.06 per share in the third quarter of 2021 and $1.31 per share
+in the fourth quarter of 2020. Fully diluted shares outstanding at the end of Q4 2021 were 48.2
+million.
+Now let's look at the balance sheet. As of December 31, 2021, cash, cash equivalents and
+investments totaled $727.5 million, compared to $744.5 million at the end of the third quarter of
+2021. For the fourth quarter of 2021, MPS generated an operating cash flow of about $28.2 million,
+compared with Q3 2021 operating cash flow of $117.8 million. The between quarter drop in
+operating cash flow, primarily reflected a $51.3 million increase in inventory and higher accounts
+receivable. Fourth quarter of 2021 capital spending totaled $17.6 million.
+Accounts receivable end of fourth quarter of 2021 at $104.8 million or 28 days of sales
+outstanding, compared with the $79.9 million or 22 days of sales outstanding reported at the end
+of the third quarter of 2021, and a $66.8 million or 26 days reported at the end of the fourth
+quarter of 2020. Our internal inventories at the end of the fourth quarter of 2021 were $259.4
+million, up from $208.1 million at the end of the third quarter of 2021. Calculated on a basis
+consistent with our past practice, and as you can see from the webinar video, days in inventory
+rose to 166 days at the end of Q4 2021 from the 134 days at the end of the third quarter of 2021.Historically, we've calculated days of inventory on-hand as a function of the current quarter
+revenue. We believe comparing current inventory levels with the following quarter's revenue
+provides a better economic match. On this basis, again, you can see days of inventory increased
+to 152 days at the end of the fourth quarter of 2021 from 133 days at the end of the third quarter
+of 2021. I would now like to turn to our Q1 2022 outlook.
+We are forecasting Q1 2022 revenue in the range of $354 million to $366 million. We also expect
+the following: GAAP gross margin in the range of 57.4% to 58.0%. Non-GAAP gross margin in the
+range of 57.7% to 58.3%. Total stock-based compensation expense of $36.9 million to $38.9
+million, including approximately $1.1 million that would be charged to cost of goods sold. GAAP,
+R&D and SG&A expenses between $119.2 million and $123.2 million. Non-GAAP, R&D and SG&A
+expenses to be in the range of $83.4 million, $85.4 million. This estimate excludes stock
+compensation, and litigation expenses.
+Litigation expenses to be in the range of $2.3 million to $2.7 million. Interest income is expected
+to range from $1.0 million to $1.4 million before foreign exchange gains or losses. Fully diluted
+shares to be in the range of 47.8 million to 48.8 million shares. Finally, I'm pleased to announce a
+25% increase in our quarterly dividend to $0.75 per share from $0.60 per share for stockholders
+of record as of March 31, 2022.
+In conclusion, MPS' strong financial performance in 2021 was largely due to a 40% increase in fab
+and assembly capacity, which supported our high-value greenfield product revenue ramp.
+Looking ahead, MPS is on track to expand capacity in 2022 well beyond $2 billion, allowing the
+company to successfully ramp new product revenue and achieve strategic market share gains in
+2023, 2024, and beyond.
+Questions And Answers
+Operator
+(Question And Answer)
+Thank you, Bernie. Analysts, I would now like to begin our Q&A session. (Operator Instructions)
+Our first question is from `Tore Svanberg, Stifel Nicolaus & Co. of Stifel Nicolaus.
+Tore, your line is now open.
+Q - `Tore Svanberg, Stifel Nicolaus & Co. `
+Yes. Thank you, and congratulations on the very, very strong results. So, I'm going to ask this
+question differently. Usually people ask you how come you carry so much inventory? This time I'm
+going to ask you, how were you able to actually get your inventory days that high? How are you
+both finding their capacity and again being able to build the inventory in spite of this very, very
+tight environment we're seeing in the industry?
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Well, as you know the -- in the -- in this business okay building inventories and qualify fabs, okay.
+These are not one day, two day things, they're not short-term. These all we planted a few years
+ago. And now we -- just the opportunity presents it, and we just catch it. And nothing was a short-
+term, okay. We couldn't -- we don't have a crystal ball for the futures. And we just react, we just
+plan ahead and react as a fast as we can.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `And I think to add to that, that shows that we have a lot of inventory on hand that presents the
+capacity to allow us for sales in the next two quarters. So, what we've done is made conscious
+investments in inventory in the supply chain and what we're trying to do is manage such that we
+hold the inventory. We're still keeping channel in the -- channel inventory lean, and we're trying to
+make sure the best of our abilities that we're in touch with the inventories that our customers are
+keeping, so they're likewise.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Yeah. I also want to add, okay? As you remember and a few years ago and I talked about MPS is
+going for well beyond million or couple of million dollars. And I wasn't joking, and we plan ahead
+for our business. That's what we saw a few years ago. And now you grow this much is -- of
+course, we didn't expect that and -- but we do have capacities and that gave me and we do have
+to do some creative ways in the scrambling to get to a 45% in -- so, that's all that is. It wasn't --
+we don't have a magic tricks in the last six months or so.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+And it's good as you -- as Michael noted, we crossed the $1 billion revenue threshold, and our
+revenue growth rate is accelerated from storage precedent.
+Q - `Tore Svanberg, Stifel Nicolaus & Co. `
+Yeah. No. Well done. As my follow-up question, could you just add a little bit more color on the $2
+billion worth of capacity? You've talked about now ramping in an 8-inch. You're also qualifying
+products on 12-inch. Will there actually be 12-inch product sales this year?
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Yes. We're qualified as you know, so MPS don't build a fact and we don't have a lot of capital
+spending -- but we do have increase all these capacity qualify fabs -- that costs money. And so, to
+answer your questions, we do transitions, and okay, now -- nowadays, okay, we get all this
+capacity, whether it's 12 inch or 8 inch as much as we can.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+And just to add to that, that was our second 12-inch fab that we brought online in 2020.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Yes.
+Q - `Tore Svanberg, Stifel Nicolaus & Co. `
+Right. Very good. I'll go back in line. Thank you and congrats again.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Okay. Thank you.
+Operator
+Our next question comes from `William Stein, Truist of Truist. William, your line is now open.
+Q - `William Stein, Truist `Great. Thanks for taking my question. Congrats on the eye-popping results and outlook. I want to
+ask about the module business that you've spoken about in the past, this thing that might even
+accelerate growth further over time. I'm wondering, what percentage of revenue modules
+contributes today and how we should think about the trajectory of that business. And if you could
+also comment on comment on any potential tuck in acquisitions that were either executed or
+contemplated for -- in the future to fulfill your strategy in that area. Thank you.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Yes. Okay. I'm glad you asked the question, the module business, I think the side of a 10% in the
+fall this year?
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+It's actually a mid-single digits.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Okay. Yeah. And so, you can quantify much more accurately, okay. I don't know -- members in
+detail. All I know we grow -- 100% every years and in the last couple years. And now, you using
+the word accelerating this years and the next couple years, that's what I see it now.
+And the other things, okay, the second part of your question is about the acquisitions for the tuck
+in technology or to enhance our future growth on the using our MPS technology for those
+companies. Yeah, we are engaged with a handful of company like a more than five or six
+companies. And we're -- so far, we're quite engaging with it and nothing -- nothing materialize,
+we should announce it now.
+Q - `William Stein, Truist `
+Thank you.
+Operator
+Our next question is from Alex Vecchi of William Blair. Alex, your line is now open.
+Q - `Alessandra Vecchi, William Blair `
+Thanks for taking my question. And I echo the congratulations on the outstanding results. Just
+maybe to expand on Tore's question with regards to the capacity expansion, from 2 billion on.
+Can you quantify how much more capacity you think you'll be adding in the next year or two or
+three year the right way to think about it? I think in the past, you've alluded to the fact that the
+current product portfolio can support upwards of three to four billion in revenue. So, is that sort of
+the right way to think about the long-term trajectory?
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Yes. That's a absolutely, correct. And for the semiconductors and then, yes, we have to have a
+fab capacities and for that kind of revenues, but even going to futures, okay, because we're
+selling more high-dollar, modules in the solutions and the which utilizes silicons even less. So, we
+have -- we should have a -- we shouldn't -- wafer capacity even should -- less factors.
+Q - `Alessandra Vecchi, William Blair `That's actually really helpful. And then similarly with the comments on in terms of the segment
+breakdown, the storage and compute segment was very strong order and I think you've talked a
+little bit about enterprise notebooks. It seems like that's one of the areas notebooks in general,
+where there's a little investor trepidation going forward. Can you maybe talk about what the
+opportunity there is and/or maybe with the SAM is for your notebook outlook over the next few
+years?
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+Sure. I think it's important to qualify that the growth that we've experienced in particular over the
+last 2-3 years has really been at the enterprise level. What we're selling into units that would retail
+for above $1200, and we've been very successful as far as capturing a large part of market share
+that really is not necessarily driven by consumer trends. So, they're not as prone to the downward
+unit numbers that are being projected for notebooks.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Yeah. Overall, we want to achieve a balanced growth. We don't want to be known as the
+notebook company, and that's -- as MPS's strategy is diversify the growth.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+And just to pick up on Michael's point, we saw a very strong uptick in our cloud and server
+business, particularly in Q4, which we expect to continue to ramp into 2022.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Overall, the notebook revenue is a very, very -- single digit.
+Q - `Alessandra Vecchi, William Blair `
+Thank you. With that, I'll hop back into queue.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Okay.
+Operator
+Our next question is from `Quinn Bolton, Needham & Company of Needham. Quinn, your line is now open.
+Q - `Quinn Bolton, Needham & Company `
+Hey, guys. I'll offer my congratulations as well. And Bernie and Michael, I'm surprised you haven't
+gotten the question yet, but I follow the company for a long time. I think this is the biggest gross
+margin beat you guys may have ever put up. If I got my numbers right, you beat gross margin by
+130 basis points in this quarter. Looking back to the third quarter, I think you had a $4 million
+litigation revenue in the number that drove strength and gross margin, but that was clearly a one-
+time issue. So, can you talk first about what drove the strength in gross margins and you're
+guiding them effectively flat, up 10 basis points technically in the first quarter. So, it looks like that
+margin strength continues to be; just talk about gross margin.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `Sure. We tried to reflect on that a little bit in the prepared comments, where I indicated that
+we're benefiting right now by a more favorable shift in our product mix, which is higher margins
+on the new Greenfield business, but also operational efficiencies as far as we indicated earlier,
+the percentage of silicon that's coming from 12-inch, but also is a reflection of our improved our
+improved quality standards. So, I think that as we reflected on what the sustainable margin going
+forward that we've offered sort of a new floor, which we look to grow again 10 to 20 basis points
+sequentially. Although obviously, we'll keep our eyes open, if there is an opportunity to have
+another step up.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+If -- there's another side, a few years ago, we talked about a greenfield product, and then you
+actually, I remember, asked -- there's no headwind in, is it a -- any headwind in the gross margins.
+So, the answer was all these new product greenfield product law and at the high-end products
+and higher values. And so, the gross margin should be better. So, this times, and we didn't
+increase the price that much, where we pretty much passed the cost to our customers of -- not
+even passed to our customers by as Bernie said of shifted to 12 inch and also the internal
+efficiency improvement and with a higher gross margin product that is the majority of the gross
+margin improvement.
+Q - `Quinn Bolton, Needham & Company `
+Got it. And as a follow on, you know for two quarters now, you've seen a pretty nice increase in
+your internal inventory levels. Wondering if you could just comment as you're building that internal
+inventory. How much of that is for new greenfield products versus say the run rate business?
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+We -- it clearly shifted away from a consumer side. And so that will allocated a lot of product for --
+these are high-end targeted -- MPS targeted market segment. So, we grow the inventories in the
+-- for those segments.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+I think something to add there is that we do have some high volume business and we're treating
+that as run rate. So, we're -- it's probably the area that has the tightest capacity, but where we
+have these new products, the greenfield opportunities, and we have new customers and new
+markets as an insurance policy to make sure that they're perceived very positively and that we
+can cover upside potential we have been building inventory to support that and I think that's
+being reflected very well as far as the customer acceptance of the new products as well as
+market share gains afforded by the appropriate inventory levels.
+Q - `Quinn Bolton, Needham & Company `
+Got it. Thank you.
+Operator
+Our next question is from `Ross Seymore, Deutsche Bank of Deutsche Bank. Ross, your line is now open.
+Q - `Ross Seymore, Deutsche Bank `
+Thanks for letting me ask the question. I'll echo the congrats. I wanted to follow-up on the
+second-half of your answer to Quinn's question there, Bernie. In the past, you guys have alwaysgained market share and very consistently. So, this year was -- well, this past year was no
+different. But you also had significantly greater availability than your competition.
+So, I just wanted to see what the client or the customer relationship, how that's been enhanced
+because of the availability. Do you believe that the wins you've gotten from availability will lead to
+sticky relationships going forward? You mentioned moving up into kind of first tier customer base.
+I'm just trying to figure out the sustainability of the revenue growth because of that availability
+dynamic?
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+That's a very good question. How does the hell we grow like a 45% of the over -- close to $1
+billion base? Well, you think about it, okay, all these product that were released in greenfield
+products and these two are first tier customers. And usually these are large customers that they
+ramping a new supply very carefully. So, they don't allocate a large percentage. They always have
+a second source and now have a shortage everywhere. MPS has a -- have capacities, so
+everything shifted to MPS; that's one factors. And the second factor, there's a -- we talk about
+MPS products are more programmable and the our customers find out. Before they care less and
+now they find out and okay, our product, single product can do a multiple purpose, and that
+contributes another factors. And so, we can replace and okay, we can -- shortly, we designed our
+customers redesigned another source -- to adopt the MPS solutions. So, by these two points -- is
+very sticky, especially the second point, and our MPS of products are more programmable, and
+they enjoy that. And they solve their problems and they realize the values. And so, I would say the
+very sticky.
+Q - `Ross Seymore, Deutsche Bank `
+Okay, and I guess as my follow-up question. I thought you've talked about another greenfield
+opportunity, which is a huge part of the analog market, which is getting into the converter side of
+things. Can you just talk a little bit about your aspirations there some of the applications you're
+going after? And what sort of opportunity you see unfolding in that?
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Yeah. We just -- we did -- we do have a silicon -- and the performance is outstanding. And these
+are the new market segments and these are purely in a single site, in which we would never have
+it. And we -- this internally developed. We have a group of a people and they have a lot of
+experience and that's a new market segment for us. So, the focus will be the communications
+and also medical applications, but imaging X-rays and ultrasounds and the those type of things.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+And just to add as far as the characteristics of this technology, there are not a lot of companies
+that have been successful with this, and the ones that have carved out pretty exclusive markets.
+And as a result of that, they command very high gross margins. So, we look to be a new market
+entrant, but also with a very big competitive advantage.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Yes. So, it's a -- yes, it is a milestone fall for MPS. So called high performance in a lot company,
+they try to -- tried it and they achieve a mediocre result and now see what we can do. And we do
+have a product and so for the next couple of years and see what we can do, okay.Q - `Ross Seymore, Deutsche Bank `
+Thank you.
+Operator
+Our next question is from `Chris Caso, Raymond James & Associates, Inc. from Raymond James. Chris, your line is now open.
+Q - `Chris Caso, Raymond James & Associates, Inc. `
+Yes. Thank you. For my first question, which I'll talk a little bit about seasonality, and obviously, the
+Q1 results are better than what we normally expect in the seasonal Q1, right? I suspect that's
+because of some of the capacity additions that you're bringing on. Can you talk about these
+capacity additions as we go through the year? Are they brought in the road to the $2 billion
+revenue level, capacity level, is that going to come on fairly evenly during the year? Is there a
+step up at some point? And then when that happens, do you think that you will be fully able to
+meet your customer requirements presumably this year?
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+Chris, I think you get credit for three questions there. Hopefully, I'll be able to keep the thread
+going.
+The first issue had to do with seasonality and generally speaking from Q4 to Q1, we observe a
+modest dip. In fact, because we have such a imbalance, an unprecedented demand supply and
+balance that in fact seasonality is not as much a function today as opposed to your second
+question, which has to do with product availability. And that's sort of the gating item for how fast
+the company can grow.
+And as Michael pointed out earlier is that is part of our company, we've always built capacity
+alongside the development of our new products, so we, in fact, got out in front of this upsurge in
+the market and have been able to participate, and in fact accelerate our capacity build out. And
+that's really a reflection of how we're looking at 2022, but I think that one thing that we've always
+done is we've had to make intelligent decisions many years ahead of when the capacity has been
+needed. So, in fact, we're in discussions, in order to be able to get capacity for '23, '24, and
+beyond. And we feel very secure in what we're capable of doing in '22.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+To answer your questions honestly say, if it give us another 50% growth -- for this year, we'll be in
+trouble.
+Q - `Chris Caso, Raymond James & Associates, Inc. `
+Okay. I think that would be welcome trouble if that were the case.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Yeah.
+Q - `Chris Caso, Raymond James & Associates, Inc. `
+I'll take liberty to ask one more that you were nice enough to answer my three, which is with
+regard to pricing and pricing and Bernie made a comment on the call. You spoke about disciplinesales price management is, I think, how you turned it. Could you explain what that means? And
+the extent to which pricing has been a contributor to year-on-year growth and whether that's
+something that's in the rearview mirror or you'd expect to continue to increase?
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+I think that most people have recognized within the semiconductors and even specific to analog
+that created a opportunity for many companies to affect price increases with their customers.
+And a lot of them implemented that as early as Q1 of this year. We chose -- we made a conscious
+decision not to increase our prices on a broad-base, they were selected market opportunities,
+but broadly we did not, and we did that along with having the product availability as a means of
+being able to secure higher level of market share. And so, now as we look at 2022, we are going
+to implement selective, but more broad-based price increases, but they'll be in a more modest
+level than some of our peer companies have implemented.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+We -- when we look at it, we invest in our customers for the future growth and for the future
+opportunities. And -- but we do have a modest growth margin expansions, as we -- as our
+models in. Okay, we keep saying it and where we have a steady state growth on every segment.
+Q - `Chris Caso, Raymond James & Associates, Inc. `
+Very helpful. Thank you.
+Operator
+Our next question is from `Rick Schafer, Oppenheimer & Co. of Oppenheimer. Rick, your line is now open.
+Q - `Rick Schafer, Oppenheimer & Co. `
+Thanks and let me add my congratulations, guys, on a nice quarter -- another nice quarter.
+Maybe if I could just a quick question on 5G, I mean, you guys have talked in the past about 5G as
+a pretty significant opportunity for MPS. I think -- Michael, I think you said potentially hundreds of
+dollars of potential content there sort of similar to server or data center cloud for you guys. So, I
+don't know if you could give us any update on design momentum sense of when the revenue
+contribution might sort of start to inflect if that's still kind of a second half of this year. And I'm
+curious as part of that question, I mean, are you going to see QS Mod sort of the part of that
+initial ramp this year or is it going to be more sort of, pointed -- sort of how you began your
+journey and its server; if you could give any color, that'd be great.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Yes. So, to answer your first part of question first, I mean the 5G -- actually 5G -- lot of products
+and especially the high current site and look at all related to QS Mod. And similar technology base
+is a product -- we follow up the 5Gs in all areas and from a single size and I can to all the way to a
+transmitters and we do -- we don't see a very high rate of ramping. And so, they're still study
+state and the other question is QS Mod like in the fall for the data centers. We are this year's and
+we'll -- we have to say to -- we occupied as a still less than a single digit of total percentage of
+the total 10 of the market. But the significance is from always, almost nothing and two high end of
+a single-digit. And earlier said, if we don't occupy the 30% of the market should not be in that
+business. So, we still have a lot of room to grow.A - `Bernie Blegen, Vice President and Chief Financial Officer `
+And it's likely with the release of VR14 that we're at a very good inflection point on the -- in the
+cloud in the data center.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Yeah.
+Q - `Rick Schafer, Oppenheimer & Co. `
+And Mike -- just follow that, but it took I think you about three or four years to sort of get -- you
+share to today, which I think is about 30%. So, I think you need me saying that sort of a good
+proxy for QS Mod could be in the next -- in the next couple of years.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Yes, okay. Yes, it'll take actually longer than that, more than three or four years, okay. And I was
+wondered, why the so long. So, I'm -- within in the early days. I'll say that we could grow very
+quickly. Okay. I didn't know what -- what I was talking about. And for the next -- as Bernie
+mentioned, the VR14s and VR13.5 is like I saw sort of the MPS accepted as a player. And VR14s are
+things that we have a pretty good shares to start, to ramp, but is not happening now and
+sometimes this year, right?
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+Yeah, VR13 has been delayed again. It's more likely to be Q3.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Yeah.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+But you are right -- served in Q4 and uplift as a result of 13.5.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Yeah, okay.
+Q - `Rick Schafer, Oppenheimer & Co. `
+Thanks. And if I could ask the follow-up to Bernie probably, I just -- I wanted to ask -- long time,
+balance sheet looks great. Obviously, I was just curious if you could give us an update on use of
+cash going forward? I mean, obviously, you've done a really good job of investing in future growth
+in R&D, but I'm just curious how much you need to run the business here and feed R&D, et cetera.
+Thanks.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+Yeah. It's a great question, because you want to look at it sort of three levels for our particular
+story. One is we have to keep a certain amount of cash available in order to fund our growth,
+particularly, as it relates to receivables and inventory, but also we're expanding operating
+expenses worldwide at an accelerated rate and all of those demand a level of liquidity. The next
+thing that we've talked about is building infrastructure and capacity and even though we'reoutsourced as far as our fabs and assembly we do a lot of our own testing. In fact with the quality
+requirements of some of the new markets we're going in, we can't outsource that. We do all of
+our own testing that requires an additional investment and then you have buildings, which as you
+know, we're one of the few companies that we purchase our own footprint to house or growing
+employee -- growing staff headcount. So, we're going to continue to leverage the balance sheet
+in order to help accelerate our growth while at the same time as we announced in the impaired
+comments we're increasing the dividend by 25%. So, we're also mindful that we need to return
+some of the cash back to shareholders.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Yes, what -- Bernie said that -- he said accelerated an expansive growth, no, we're not
+accelerating. No, absolutely not. Let's make that clear. And so, we are pretty little bit above our
+model, okay? Growth, the MPS growth the -- expanses the growth. And for the return of cash to
+our investors, and we have overwhelming case supporter for -- from our investors in dividend and
+not buyback. So, we are following a buybacks, since okay, we still are, let's delay it, okay, and
+because the we get a feedback, they want to deal with it. I don't know what does it relate to a tax
+issue or not related to. So, I think in a -- from -- in the past, we said our models are consistently in
+increase the dividends.
+And the other side of the using our cash is that we want to acquire a company, not for revenue
+growth. It's cheaper to grow MPS revenue by its own, but we can do this. We can MPS as a lot of
+variety of a different product in the -- enhance couple of other areas to the end product and we
+want to acquire those small tugging product very unique in a sustainable growth -- sustainable
+and you based on MPS technology, we can grow those companies. And that's the company we're
+really interested in the -- so the, said earlier, I said it away engage with a few companies.
+Q - `Rick Schafer, Oppenheimer & Co. `
+Thanks for all the color, guys. Congrats.
+Operator
+Our next question is from `Matt Ramsay, Cowen and Co. of Cowen. Matt, your line is now open.
+Q - `Matt Ramsay, Cowen and Co. `
+Thank you very much. Good afternoon, everyone.
+Michael, I've been asking you about this for, I don't know, 3-4 years, but in the last, I guess, three
+or four months, you guys talked a bit more about opportunities for MPS in the electric vehicle
+market, some in drive train, some in regenerative braking. I wonder, if you might talk a little bit
+more about the revenue opportunity per car with your lead customer, the timing of that? And
+how wide is the pipeline in terms of the number of engagements that you might have in the EV
+market? Thanks.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+EV market, we're in the ADAS area, we are in the ADAS 2.5 or 3.0. We almost engage with
+everybody. And so I can give you a numbers. For pure electrical car, MPS has about somewhere
+$80 to $100 shipping today, and we're starting this year, we are starting not this year, starting
+actually last year. If you involve with a regenerative braking, and in a drive train, those will add
+another over $1,000. And those are we don't have those revenue yet. Where, by the way, we doQ - `Matt Ramsay, Cowen and Co. `
+Any those larger ASP products, any thoughts on timing?
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+We are -- there's a there's several -- there's many product that we are talking -- will release a
+couple of them already or more than couple of them already. And the key is that we want to offer
+the total solutions in a customer's pretty much it can -- using MPS reference design.
+Q - `Matt Ramsay, Cowen and Co. `
+Got it. As my follow-up question, it's a different topic and one of the things that I've been having
+investor conversations about is the broad base industry adding -- investing a ton of CapEx and
+adding a ton of capacity and to steer that the industry is adding it at a peak, right? You see a
+couple of new fabs coming online from Texas Instruments in the next number of quarters in
+Infineon is up in CapEx, pretty much everyone is. And so, you guys have been in a unique position
+to have a ton of capacity come online when others have struggled to do it. And it sounds like
+that's going to continue for you. I just wonder, any concerns as the industry catches up with
+capacity, Michael? And maybe you could contrast the type of capacity, the process know that
+you're on the nature of the capacity that you're bringing online for some that the rest of the
+industry may be adding? Thank you.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+Yeah. That's a good question. So, okay. First thing, I should answer that. MPS don't build anything.
+We don't build anything, we don't have fab, but we do have all the technologies. And usually how
+we're getting a fab capacity those fab are empty. And we go in there, we want it, we said, okay,
+we can fill you up. So, it's a long-term partnership. And so, and then like this year -- the last year,
+so I came in the you want to add a capacity, forget it, okay? I mean those guys are busy shipment,
+okay? And there's no fab -- and so we engage with them in the downturns. And we implement
+our technology. Remember, we don't -- it's not like a building of fab. We don't build a fab. The
+cost is minimum, and -- but we do have some commitment and we do have engaged some
+consignment of some equipment, okay? But these costs to compare building a fab is a much,
+much less.
+Q - `Matt Ramsay, Cowen and Co. `
+Okay. Thanks very much, guys, I appreciate it.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+Yeah. Okay.
+Operator
+Our next question is from `Tore Svanberg, Stifel Nicolaus & Co. of Stifel Nicolaus.
+Tore, your line is now open.
+Q - `Tore Svanberg, Stifel Nicolaus & Co. `
+Just, thank you. I just two quick follow-ups. I know it's early in the year, but you have -- so you have
+four horses that are running really fast. You have one horse that's kind of just running slowly. If welook at this year, which of the horses you think will grow a bit faster. I know there's a lot of talk
+about auto and server. But yes, which horses should we bet on this year?
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+We don't want to be -- MPS is auto company. Definitely not a noble company, I think it's a -- we're
+shifting clearly this year, we're shifting from a consumers to well at least the last couple quarters.
+So, we shift from a consumer to automotives and in a server and server from a cloud computing
+site. And again, and so these are for this year, probably remained a similar. So like a that's all we
+see it.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+Yeah. And I think that when you say that we've got five strong horses, that's a more accurate
+reflection, because it say that in the current year, we were surprised by the strength of industrial.
+So -- and I think that's going to continue on into the next year. And as we talked about earlier
+communications market, well, may not be coming on as fast as we had originally hoped for or
+expected, still looks very promising the second half of this year. So, I think really the thesis
+remains being broad-based growth.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Yeah. But the -- in let's say all these other market segments slowdowns and as a consumer
+business in every half years that we can shift it and we can shift quick okay, that -- currently is not
+a favor, some, okay, but we can shift quickly. And by end of the year, maybe we grow consumer
+business.
+Q - `Tore Svanberg, Stifel Nicolaus & Co. `
+Sounds good and coming back to the data converter, topic, new segment for you. What are
+some of the things that we should track for your success there, you know, we all know it's very
+difficult to crack into that market and are you going into that market really, really at the high end
+of the other computer technology and will that be the way for us to track your success?
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+So far, yes is a very, very high -- high-end a product, and -- but that's, a new market segments. So,
+like a earlier, I said, okay. Well, we said, we're going to ramp wrapping the data center very
+quickly, turn out to be that wasn't a case. So, I don't want to predict that in the, but I know the
+technology is good and that the test data showed, we can be -- we're far better than on the
+other existing market product.
+Q - `Tore Svanberg, Stifel Nicolaus & Co. `
+Great. Yeah, if you can even get to $100 million there, I'll be very impressed.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Oh, yes. Okay. It's a matter of time.
+Q - `Tore Svanberg, Stifel Nicolaus & Co. `
+Sounds good.A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+I'm confident of that. And along the way, probably we'll learn a few things, yeah.
+Q - `Tore Svanberg, Stifel Nicolaus & Co. `
+Okay. Thank you.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+All right. Okay.
+Operator
+(Operator Instructions). As there are no further questions, I would now like to turn the webinar
+back over to Bernie.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+Well, once again, I'd like to thank you all for joining us this conference call. Look forward to talking
+to you again about our first quarter, which we'll likely hold in April. So, thanks again and have a
+nice day.

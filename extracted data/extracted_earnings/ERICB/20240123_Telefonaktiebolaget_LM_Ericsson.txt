@@ -1,0 +1,643 @@
+Y 2023 Earnings Call
+
+Presentation
+`Peter Nyquist, Vice President, Head of Investor Relations `
+Hello, everyone, and welcome to Ericsson's Fourth Quarter and Full Year Result of 2023. With me
+today, I have as usual our CEO, `Borje Ekholm, President, Chief Executive Officer; and our CFO, `Carl Mellander, Senior Vice President, Chief Financial Officer. And we will end this
+presentation as normal with Q&A. And in order to ask questions, you will need to join the
+conference by phone. Details can be found on today's press release or on our website,
+ericsson.com/investors. Please be also advised that this conference is recorded.
+But before handing over to Borje, I would like to read the following. During today's presentation,
+we will be making forward-looking statements. These statements are based on our current
+expectation and certain planning assumptions, which are subject to risk and uncertainties. The
+actual result may differ materially due to factors mentioned in today's press release and
+discussed in this conference call. We encourage you all to read about these risk and uncertainties
+in an earnings report today as well as in the annual report.
+With that said, I would like to hand over the word to Borje, so please Borje.
+`Borje Ekholm, President, Chief Executive Officer `
+Thanks Peter and good morning everyone, thanks for joining us today. So in 2023, we navigated a
+difficult mobile networks market marked by persistent headwinds and an unprecedented
+slowdown in the North American market, which really saw customers reducing CapEx significantly.
+With the rapid growth in India, we saw a dramatic change in business mix, but overall, the total
+mobile networks market really fell in size. Notwithstanding these challenges, we continue to
+execute on our strategy and I'm pleased to say that we concluded 2023 with a solid quarter and
+we succeeded in generating an EBITA of SEK21.4 billion for the full year. Through our strong focus
+on gross margin that we've had for many years, as you know, we generated almost 40% gross
+margin for the year. While our actions to improve performance are paying off, we're not satisfied
+with our profitability, so we have clearly much more work to do.
+As we look ahead, 2024 will be a difficult year and market conditions will prevail and so wecautious and the investment pace normalizes in India. With that in mind, we remain laser-focused
+on managing what's in our control. We're consistently driving operational efficiency, while keeping
+the investments critical to our future growth intact. We remain firmly committed to our long-term
+goals of 15% to 18% EBITA and 9% to 12% free cash flow, and we are seeking to maximize the
+value for all our stakeholders. Let me now walk you through some of the key takeaways from the
+past year and how our strategy is critical to the industry's long-term success. So next slide,
+please.
+As expected, 2023 was a difficult year for the mobile network market with an overall decline
+combined with a dramatic change in market mix. Group sales declined organically by 10%, driven
+by an overall decrease of 15% in networks with North America being down by almost 50%. We
+worked relentlessly to strengthen our performance and cost management. We recognized
+already in more than a year ago the need to take costs out. And during 2023, we've
+implemented efficiency improvement including reducing internal and external headcount by more
+than 9,000. And this has actually enabled us to deliver against our cost savings target of SEK12
+billion gross out. About half of that came into effect in 2023 and the remainder will come during
+2024. Because of our efforts that we've done the past few years and the importance we place
+on gross margin, we were able to deliver a gross margin of 39.6% and an EBITA margin of 8.1%
+for the year.
+I would say given an almost unprecedented market environment with volume declines as well as
+business mix change, I think this was a very solid performance by the team here. Across our
+business areas, we also took critical steps in building a stronger, more profitable Ericsson. In
+mobile networks, we continue to extend our technology leadership. Our leading technology
+empowers customers to build high performance, differentiated and programmable networks,
+while also leading the shift to open cloud-native networks. The contract with AT&T is a key proof
+point, demonstrating how our technology is leveraged to advance the network architecture of the
+future and deliver a reduced total cost of ownership for our customers. This deal will create
+significant value both for our customer and for Ericsson, and we expect it to start to ramp up in
+the second half of 2024.
+In Cloud Software and Services, we executed on the turnaround plan, and we're happy to have
+reached that target. So for the full year, we delivered an EBITA of SEK1.7 billion. I really want to
+thank the full team for their efforts. From now on, we'll continue to increase commercial discipline,
+automation and delivery efficiency, focusing on long-term profitability. In Enterprise Wireless
+Solutions, we continue to build out offerings, including the acquisition of Ericom, and we further
+strengthen our position in private networks. During Q4, we saw slower growth due to macro
+headwinds. And through our global network platform, we continue to work with front-runner
+customers to reshape the industry by transforming the network into a platform for innovation. In
+parallel, we've continued to drive our cultural transformation as we focus on building a culture of
+integrity and strengthening our governance, risk management and compliance. All this initiatives,
+of course, come with the short-term cost, but I will say they're essential to our long-term
+competitiveness and success.
+As I said, going forward, we expect the RAN market outside of China to decline further as our
+customers remain cautious and the investment pace normalizes in India. However, we expect our
+market share in North America to be helped by the AT&T contract in the second half of 2024. It's
+important to note that looking historically, large declines in the mobile network market are
+followed by a rebound, so operators can sweat the assets up to a point, but eventually will need
+to invest to manage the data traffic growth, cost, energy usage, and of course, network quality
+and give the customer experience that the customer demands. And that is actually something wenormalized levels. However, the timing is very difficult to predict. Ultimately, this will be in the
+hands of our customers and the investments will vary by customer and by market and their
+competitive position. We also see a somewhat slower growth in enterprise due as well to
+macroeconomic headwinds.
+So again, with that outlook, we will continue to prudently manage our balance sheet, while
+keeping sight of investments critical to our long-term strategy. So as we focus on driving
+fundamental improvements to our cost structure and we expect to take additional actions,
+including reducing headcount as we pare back some investment areas and focus our portfolio
+where we really can win. As you saw today as well, the Board has proposed a dividend of SEK2.70
+per share, corresponding to a total amount of SEK9 billion. This is proposed to be paid out in two
+equal installments as in previous years. While recognizing the near-term challenges, I would say
+this is a testament to the confidence the Board has in the longer-term outlook for us as a
+company. But let me now take a step back to put our achievements in the perspective of our
+strategy. So next slide please.
+While the mobile network market is challenged, it actually provides real value to the economies
+around the world, from regular communication for consumers to advanced digitalization for
+enterprises and society. But the problem is that the return on capital has been stagnant and many
+operators today fight to earn cost of capital. I think to change this, there are two things we can
+do. We can passively wait for market just to improve or regulation to change or we try to address
+the issue head-on by changing how networks are consumed and monetized. As you know, we've
+chosen the latter route. We're actively working to reshape the industry by transforming the
+network into an innovation platform, leveraging cellular connectivity in new areas. So let me
+expand on that. First, we're leading the way by building high performance and differentiated
+networks, which will be needed to digitalize enterprises. By horizontalizing the architecture, we're
+allowing our customers to prioritize investments in different parts of the network at different clock
+cycles.
+This is important as it not only offers our customers advanced network architectures, but it also
+allows for a lower cost of ownership. Second, with Enterprise Wireless Solutions, we extend the
+use of cellular connectivity through private 5G networks and Wireless WAN. And third, by
+developing a global network platform, we enable the exposure, consumption and payment of
+network APIs, which extends the market beyond consumers to enterprises as well as developers.
+We are changing the monetization model of the industry, and this is a shift that, of course, will
+take some time. But we are encouraged by the progress we've made with the partnership with
+DT to offer network APIs to developers and enterprises. But we're also seeing very strong
+progress with front-runner customers. We're confident this will create a more profitable and
+sustainable future for our industry and our company. So Ericsson has a clear leadership position
+today with leading offerings. With our strategy and the actions we're taking, we ensure that we
+will continue to be well positioned when the market improves.
+Before handing over the word to Carl, I would like also just to comment on the announcement of
+our new CFO, Lars Sandstrom. Lars will be joining us from Getinge and comes with an extensive
+experience and knowledge from a variety of financial and management roles. Lars will join us 1st
+of April, and we have also appointed Peter's successor as Head of IR, Daniel Morris, who joins us
+from Vodafone's IR team, with a solid experience also as a sell-side analyst. So I would now just
+like to say a big thank you to both Carl and Peter for their time at Ericsson for the time at Ericsson.
+It's truly been a privilege to work with both of you. Thank you, both.
+And now, maybe for the last time, Carl, it's time for you to go through the numbers.`Carl Mellander, Senior Vice President, Chief Financial Officer `
+Thanks a lot, Borje. Thanks for your kind words and a very good morning to everyone. So I will
+address some of the key items around the financials here today and also some comments on the
+outlook going forward. So if you go to the next slide and look at Q4 to start with. And I would just
+paraphrase a bit, Borje, here, the challenging market we saw in telecom and this market mix shift,
+they were really dominant factors throughout 2023. And reported full-year net sales in U.S. were
+down by SEK35 billion year-over-year, but India grew by over SEK20 billion. So you see clearly
+how powerful this shift was during the year 2023. And the impact of this on both profits and cash
+flow is clearly visible. We have communicated around that many times. Of course, however, partly
+countered with the cost-out efforts that -- and the achievements that we have done and
+efficiency improvements across the company.
+But looking at Q4 then as a solid result despite the current market conditions and the execution
+during this quarter, I believe, demonstrates stronger increased resilience in our company and a
+good team effort. So group sales declined by 17% organically to SEK71.9 billion in the fourth
+quarter, partly the decline is due to the retroactive IPR revenue we had in the fourth quarter '22.
+But I would say the primary driver here was the continued drop in North America where sales
+decreased by 43% year-over-year in the quarter. India, meanwhile, there the 5G rollout
+continued, but the pace slowed, so we are up in sales in India by 10% year-over-year in Q4, but
+we dropped 40% sequentially, as we see now the Indian market starting to normalize the
+investment levels following this unprecedented rollout pace that we have seen earlier in the year.
+Gross margin then, 41.1%, including restructuring charges. That is slightly down year-over-year. But
+interestingly, if we adjust for this large retroactive IPR revenue in the fourth quarter '22, it's
+actually an improvement in gross margin. And how did that come about? Well, gross margin in the
+fourth quarter was supported by a high share of software, thanks to the efforts in that area, but
+also the market mix. I would also call out the cost reductions across the mobile networks
+business, and one more factor to mention here, the lower variable pay accruals that we have
+seen, which is also impacting OpEx positively in Q4. So in Networks, we achieved gross margin of
+43.2% excluding restructuring, that's exceeding the 39% to 41% range that we had guided for.
+And it's really a result of the activities I mentioned to improve the sales mix with a higher share of
+software.
+Further down in the P&L and EBITA, excluding restructuring declined somewhat to SEK8.2 billion
+versus SEK9.3 billion in 2022. I mentioned already the retroactive IPR revenue, which plays into the
+year-over-year comparison. But we also had lost Q4 several provisions moving in the opposite
+direction as we disclosed at the time. So if we look at year-over-year delta, the underlying reason
+is really lower sales and a changed mix in the Networks. Cloud Software and Services continue
+the positive trend, delivered an EBITA of SEK2 billion in the quarter, driven by a couple of things,
+of course, operational improvement, but we see it in gross margin, but also in a reduced OpEx.
+And that resulted in a full year EBITA SEK1.7 billion as Borje mentioned, which is meeting, I would
+say, with the margin our at least breakeven ambition that we communicated earlier.
+Enterprise then grew by 7% organically with a stable EBITA loss year-over-year. We had a negative
+impact in the quarter from some inventory write-offs in the Enterprise Wireless Solutions area.
+Cash flow then, we delivered SEK12.5 billion of free cash flow before M&A in the fourth quarter
+and that's really ending the year on a strong note. We have strong cash collection and we
+released working capital from conclusion of large deployment projects as we had expected and
+talked about many times. Then on cost out, to reiterate here, we have now achieved the
+committed run rate savings of SEK12 billion, half of which impacted the P&L in 2023 already and
+the remainder to impact in 2024. And here I just want to note that, of course, the SEK12 billion aregross savings and meanwhile, of course, as all other companies and organizations we still have a
+cost inflation going on, not least from annual salary increases that kick in. And we are likely to
+return in 2024 to more normalized variable pay accruals from very low levels in 2023.
+Restructuring provisions came to SEK1.5 billion in the fourth quarter and that brings the total to
+SEK6.5 billion versus the previously communicated SEK7 billion of restructuring in 2023. If we
+move on to the next slide and look at the full year in numbers, reported sales then decreased to
+SEK263.4 billion compared to SEK271.5 billion previous year. That's a decrease by 10% organically
+following the weak RAN market discussed many times. IPR licensing revenues is a positive, we
+grew to SEK11.1 billion versus the SEK10.4 billion we recorded the previous year. And we see that
+as a result of new 5G license renewals during the year, partly offset by some expiring
+agreements. Gross margin then excluding restructuring declined in the full year to 39.6% versus
+41.8% in '22 as Borje mentioned earlier in the introduction, again, driven by operators' CapEx
+reductions and the market mix as we have described many times before.
+If you look at Cloud Software and Services on gross margin and we reached 36% up from 33%, a
+bit more in 2022. That's encouraging, and of course, we continue to drive improvements in that
+segment. Looking at the parts of OpEx, R&D increased about a SEK1 billion to SEK48.2 billion and
+that's impacted by negative currency effect of SEK0.9 billion, and you see that the mobile
+networks business that's then the segment Networks and Cloud Software and Services was
+slightly down in R&D. We do increase in Enterprise and we also have the impact of course of the
+full-year consolidation of Vonage now in the numbers. Turning to SG&A excluding restructuring
+SEK38 billion, also negative currency effect here, SEK0.7 billion in this case. Same story, we
+decreased in the Mobile Networks part, but increased in Enterprise. And this has mainly to do with
+investments in go-to-market activities in Enterprise Wireless Solutions.
+Also here, of course, we have an impact from the full-year consolidation of Vonage. So that leads
+us then to an EBITA of SEK21.4 billion excluding restructuring in the full year, that's at 8.1% margin.
+Obviously, not a level we can be satisfied with in absolute terms. But again, I would like to say it
+illustrates the strength and resiliency in our company and our operations considering how
+extremely challenged the market has been in 2023. And still we deliver more than SEK20 billion
+EBITA. Free cash flow before M&A was SEK1.1 billion negative for the full year. And as you will
+remember, we flagged at the outset for this, we would see a negative cash flow in 2023. It's due
+to the same business mix shift that we talked about on the P&L towards big rollout projects and
+those projects have a longer order-to-cash cycle than the normal business mix. So now what we
+saw in the fourth quarter and we will continue to see is that we move out of the intense rollout
+phase in those projects, and therefore, we see a positive effect on working capital reduction and
+therefore free cash flow generation.
+Some data points going forward if we move to the next one and for the first quarter. So as Borje
+said, we do expect the current market situation to prevail into 2024. The AT&T contract will start
+to ramp up during the second half and we're expecting a gross margin here in the Networks
+segment to land within the range of 39% to 41%. There is a change in the mix from Q4 to Q1 and
+that is the reason for our guidance here, 39% to 41% with less software. Cloud Software and
+Services, we'll continue to invest here. We have strategic investments in the 5G portfolio. We're
+doing that for competitiveness and resilience and we expect that to remain into Q1. And please
+remember also when it comes to Cloud Software and Services, the nature of that business is
+such that results will fluctuate between individual quarters. So we should not expect a linear
+development from quarter-to-quarter there.
+Then in the Enterprise segment we expect some seasonality, negatively impacting sales from Q4
+to Q1 with the maintained profitability level. I want to comment also on OpEx and reiterate thatthe Q4 levels were low, partly due to these low accruals for variable pay given the lower target
+fulfillment in the year. And we expect this to revert to more normal accrual levels in the first
+quarter. And some other factors play in as well, including annual salary increases, but also the
+investments that I mentioned in Cloud Software and Services and Enterprise. So we would not
+expect OpEx in Q1 to come down as much as the average in the last couple of years. So I would
+recommend being cautious when you model this part. Lastly, I just want to mention on capital
+allocation, the strategy remains. We keep prioritizing organic investments in technology
+leadership and building an enterprise go-to-market organization. When it comes to M&A, we are
+prudent. We may do opportunistic tuck-in acquisitions that would complement our offerings.
+And then we are targeting a stable to progressive dividend over time and there obviously the
+Board considers the earnings, the business outlook, our financial position and opportunities. We
+continue to aim for the for a gradual return to our target on free cash flow. As you know, it's 9%
+to 12% of net sales. And following this as you saw the Board recommends a stable dividend of
+SEK2.70 for the year. Then maybe on a more personal note, I'd like to thank you everyone on the
+call here for all the great interactions over the years. This is my last of 30 earnings calls as the
+CFO for Ericsson. It's been a privilege. I look back at an absolutely incredible experience, fantastic
+people in our company and around us. I'm very pleased to have my successor now Lars
+Sandstrom named today to leave the CFO baton in his hands, feels very good, very good
+experienced hands as I am about to embark on my next exciting chapter in life.
+And I also want to say I'm very happy to announce, which Borje did recently or previously, Daniel
+Morris as the new Head of Investor Relations, which is a great addition to the team as well. And
+finally, I want to say a big thanks to Peter. You have been running the IR ship with a steady hand
+for the last 10 years in Ericsson. And thanks for being such a dedicated companion and friend
+here as we have navigated through the waters here, and I really wish you best of luck in the next
+chapter, Peter. Thank you for that.
+And with that, back to you, Borje.
+`Borje Ekholm, President, Chief Executive Officer `
+Thanks, Carl. Yes, 2023 was a challenging year. And we said that in the end of 2022, calling it
+choppy. It was a historically weak market and we expect current market uncertainty to continue
+into 2024. But ultimately, we expect the market to recover to more normalized levels, but that will
+be over time. But it will be also based on operators' need to invest, to manage the rapid data
+traffic growth, and also to continue the migration to 5G standalone. Capacity will be needed to
+manage customer expectations to give the quality of service that will be needed or demanded
+from the consumer. However, as we have said many times, it's really up to our customers to
+determine the cadence of investments and really not up for us to predict when the market will
+turn. So in that environment, we remain laser-focused on executing on our strategy to strengthen
+our leadership in mobile networks, grow our Enterprise business, and drive a cultural
+transformation.
+We're relentlessly focused on managing elements that's in our control, that includes, of course,
+the cost side, as well as operational efficiency. The steps we're taking are designed to help us
+navigate the near term, allowing us to prudently invest in technology leadership for long-term
+success and it's all about ensuring that we're really well positioned when the market ultimately
+improves and recovers. Our goal is to make Ericsson a more profitable company based on the
+leading position in mobile infrastructure and the high growth Enterprise platform business. We
+remain firmly committed to our long-term EBITA margin target of 15% to 18% and also our cash
+flow targets. So 2023 was a challenging year, but we took many critical steps in our strategyexecution and we continue doing so in 2024. Finally, I'd just like to say thank you to all my
+colleagues for their hard work in spite of really difficult markets, severe headwinds and
+challenges. A big thank you to the team.
+With that, I think it's time to move over to Q&A, Peter.
+Questions And Answers
+A - `Peter Nyquist, Vice President, Head of Investor Relations `
+(Question And Answer)
+Yes, it is. And thank you, Borje, and thank you, Carl, and thank you both for the kind words. So
+let's return to the process. So it's time for the Q&A session. (Operator Instructions) So let's see
+here who we have on the first question.
+I think the first question comes from `Alexander Peterc, Societe Generale at Societe Generale. Good morning,
+Alexander.
+Q - `Alexander Peterc, Societe Generale `
+Yes, good morning, good morning all. And thank you very much for taking our questions. Thank
+you, Carl, for your 30 quarters of reports and great work done there. Thank you so much. My first
+question would be on the impact of the North American open RAN win on your margins,
+especially in the earlier stages. And the question here is, should we expect the initial margin
+pressure that you usually call, so footprint acquisition costs in this case, or should this not be the
+case because you don't get the benefit of the vendor lock-in over the long run in this contract? So
+that would be the first one. And the second one, just on India, you saw the shortfall in the fourth
+quarter, the roughly $4 billion of sales that didn't materialize in Q4. Is that materializing in the first
+half and is that going to help your top line in the first half at all? Thank you.
+A - `Carl Mellander, Senior Vice President, Chief Financial Officer `
+Thanks, Alexander.
+A - `Borje Ekholm, President, Chief Executive Officer `
+You can take those.
+A - `Carl Mellander, Senior Vice President, Chief Financial Officer `
+Yes, I can take. So when it comes to India, yes, so we really saw the peak now in the third quarter
+and the volumes came down in the fourth quarter. That is true. Nothing specific to talk about
+delays over quarters, if that's your question. It's more importantly, I would say, we've seen an
+incredible speed in India during 2023. 2024, we expect to be still a higher market, larger market
+than it was prior to 2023, but of course, compared to '23 coming down quite a lot. So that's what
+we have to understand. When it comes to the AT&T contract and Borje you can continue on that
+one as well. But I just want to say, I mean obviously, we don't talk about margins in specific
+contracts. We are extremely pleased with the confidence that AT&T has showed us. It will
+increase our market share in the North American market. And of course, North America is such a
+key market for us, given our market share, which is already strong and now increasing with this
+contract as well. We will start to see meaningful revenue in the second half of that contract and I
+think that--A - `Borje Ekholm, President, Chief Executive Officer `
+That you summarized it well.
+A - `Peter Nyquist, Vice President, Head of Investor Relations `
+Thanks, Alexander.
+Q - `Alexander Peterc, Societe Generale `
+Thank you very much. Thank you.
+A - `Peter Nyquist, Vice President, Head of Investor Relations `
+Thank you. So let's move further in the Q&A question. We will move to the next question, which
+comes from `Erik Lindholm-Rojestal, SEB Enskilda at the bank SEB. Good morning, Erik.
+Q - `Erik Lindholm-Rojestal, SEB Enskilda `
+Yes. Good morning, everyone. Thank you for taking my questions. So Dell'Oro is expecting a 17%
+recovery here in North America in 2024. But you have quite cautious short-term commentary
+here. Can you talk a bit how -- a bit how a bit about how you expected recovery to look if you
+think a recovery will materialize and if it's sort of more tilted towards H2? And then perhaps the
+second question, can you talk a bit about the sort of normalization here in free cash flow into
+2024. Do you expect the working capital build-up that you saw in 2023 to fully normalize in '24?
+Thank you.
+A - `Borje Ekholm, President, Chief Executive Officer `
+Should I start with the market maybe?
+A - `Carl Mellander, Senior Vice President, Chief Financial Officer `
+Yes, okay.
+A - `Borje Ekholm, President, Chief Executive Officer `
+And I think the -- what we are trying to do and it's a great question, we ask ourselves the same
+one, right? What we have said is we're rather taking a planning perspective that the current
+market conditions will prevail. I -- we see a challenging market for 2024 that allows us to plan
+accordingly, focus on taking costs out where appropriate, making sure we're disciplined in our
+investments and really pare back some of the investment areas we've had. So we're trying to use
+this environment to be really prepared on the cost side to be as lean as possible. At the same
+time, we want to make sure that we invest in technology leadership because I think from my
+perspective, it's all about being well-positioned when the market recovers.
+And that is -- and we've said that so many times, it really depends on how the customer looks at
+their own cadence of investment. Some of them are going to show, and we see that, for
+example, in early 5G markets where 5G investments start to come back and that's why you've
+seen growth there for a couple of quarters now. But when that will happen on a more global
+basis, it's ultimately in the hands of the customers. But when it happens, we want to be really
+well-positioned to take advantage of that turnaround and that recovery.
+A - `Carl Mellander, Senior Vice President, Chief Financial Officer `Thanks, Borje. If I take your cash flow question then, Erik. So we are going for the 9% to 12% free
+cash flow metric that we have or target. Just as with the EBITA target, we are not saying when
+we're not committing to a certain time period, but we have extreme cash flow focus in the
+company. And if you look at the fundamentals, we built up inventory due to the component
+shortage situation earlier. Of course, that is trading out more and more as we deliver to
+customers. And secondly, we had a market mix shift from the U.S. and other markets, front-runner
+markets with shorter cycles to the longer cycles in India. Assuming that, that mix swings back to
+some extent and we already saw it in the fourth quarter with India coming down, then we will
+release working capital and that's, of course, benefiting our free cash flow. So we are going for
+this with a determination as usual and aiming for the long-term 9% to 12%.
+A - `Borje Ekholm, President, Chief Executive Officer `
+I think only adding the other area that actually affects working capital is, we call it geopolitical
+resiliency. So we have tried to diversify our supply chain in total and that's been rather costly
+exercise, but it's allowed us to actually ship also when we had supply disturbances. I would say for
+other reasons than geopolitics, but it's kind of the whole notion that we need to have a
+geopolitical resiliency has actually impacted working capital. Those increases will not happen,
+we've kind of built it in now, so we are in a much more stable position. But that, of course, has
+been a bit of a burden on cash flow.
+A - `Peter Nyquist, Vice President, Head of Investor Relations `
+Thanks, Borje. And thanks, Erik, for those two questions. We will then move to the next question.
+And then we have the question from Francois Bouvignies from UBS. Good morning, Francois.
+Q - `Francois-Xavier Bouvignies, UBS `
+Good morning, everyone. And so I have two quick question. The first one is on the software mix
+that impacted the quarter. Obviously, a good impact on margins. And I was looking at your
+reporting, you said that you had 38% of revenues from hardware, 22% in 2023, which indeed is
+higher than the last three years of reports where hardware was more than 40% of revenues. So it
+seems that 2023 was a bit more favorable in terms of mix software versus hardware versus the
+last three years. But then I was looking back, like beyond or before the last three years, so the
+last 10 years and I was surprised to see that the hardware percentage and software percentage
+is actually in line with what you reported in 2023.
+And I was always thinking that your business would be more software and service intensive as we
+move forward because you always said that software and it's more important in the coming
+technologies. So how should we think about the mix in 2024, is -- or maybe even longer term
+because I don't see much a change in the last 10 years. And that would be very interesting to
+know, how we should think about that or any fundamentals behind? And the second one --
+second question, if I may, is on Vonage. I mean, you mentioned this contract loss that impacted
+the quarter. Can you provide a bit more color about what's going on here? How can you reassure
+about the offering of the Vonage because 2 percentage growth is well below what you expected
+originally? So I was wondering if there's anything you can provide in terms of color here? Thank
+you.
+A - `Borje Ekholm, President, Chief Executive Officer `
+I think on the -- if we start a bit on the software mix, so what you see, depending on where you
+are in the cycle, you will have more hardware sales, and thereby, less software. And that's really
+what you see in 2023. It was a rather sharp reduction in hardware volumes. That's actuallyimpacting the mix more than kind of any structural change. But that has been the case in almost
+all or it has been the case in previous cycles as well. So you see this shifting over time depending
+on where you are on rollouts. And remember it's still only one in three or maybe one in four even
+sites that are upgraded to 5G mid-band and that's actually ultimately going to require hardware.
+So it's a bit tricky to put exactly a number, but with what you're going to see with the separation
+of hardware and software going forward, you will see the hardware portion come down. It's not
+going to be a -- happen from one quarter to the next or a year to the next, but this is over a
+period of time as the new technology stack will be implemented making us more focused
+towards the software side basically. So I would say that longer term, the portion of software is
+going to increase and the portion of hardware is going to decrease for that reason more than
+anything else.
+A - `Carl Mellander, Senior Vice President, Chief Financial Officer `
+And I complement that also, of course, as you said, Borje, in build-out phases, of course,
+hardware grows as well. And that is, of course, a good thing because that has to do with building
+footprint with the operators, shipping our hardware, installing it in the field. And then, of course,
+software comes on top of that installed base. So we are also happy, of course, with high
+hardware sales in these phases. So no question. And also I would say, over the years, the margin
+delta between software and hardware has also been reduced because now we have a very
+competitive hardware portfolio as well, we should also mention that.
+A - `Borje Ekholm, President, Chief Executive Officer `
+Yes. We should say that.
+Q - `Francois-Xavier Bouvignies, UBS `
+And that's actually (Multiple Speakers)
+A - `Borje Ekholm, President, Chief Executive Officer `
+A lot of the investments we did in R&D, if you go back a few years was actually to make sure we
+had a very or less sensitivity to the mix between hardware and software. So -- and that's why
+when the increased hardware portion that you saw the last few years actually could still generate
+a very solid gross profit.
+Exactly.
+Q - `Francois-Xavier Bouvignies, UBS `
+And on 2024, directionally -- directionally 2024, is it, what visibility do you have? Is it like more
+hardware or more software year based on your activity and orders?
+A - `Carl Mellander, Senior Vice President, Chief Financial Officer `
+Yes. I would say the longer term trend is towards more software, as Borje said, given how
+networks will be built and so on. 2024, we'll have to see how it plays out, but maybe to mention
+one aspect that could play in, and that's the inventory buffering we saw in North America. And as
+you know, that's one of the reasons why we have shipped less hardware also in 2023 is that the
+carriers in the U.S. have depleted their buffer inventory of radio equipment. Now we have
+reached, of course, a level which we believe is the normalized inventory level. So that could bode
+well for additional hardware deliveries.A - `Borje Ekholm, President, Chief Executive Officer `
+But I think it's fair to say that the volume decline we see is quite a lot in hardware side, of course.
+A - `Carl Mellander, Senior Vice President, Chief Financial Officer `
+Yes.
+A - `Borje Ekholm, President, Chief Executive Officer `
+And then you had a question, Francois, about the development in Vonage. Maybe the Vonage, it's
+-- the mentioned contract is actually a very low-margin contract. So from a profitability point-of-
+view, less impact. Thanks.
+Q - `Francois-Xavier Bouvignies, UBS `
+Any reason why, I mean, a contract loss? I mean just give colors and do you still expect to grow
+double-digit percentage after this normalization of contract loss or?
+A - `Borje Ekholm, President, Chief Executive Officer `
+No. Our -- I mean we have to come back on thinking about what is the rationale behind Vonage.
+What is it we are trying to do? Of course, we have an existing business that we need to run,
+which is the CPaaS, UCaaS, CCaaS business. That needs to develop as well and -- but we also
+have said that we want to prioritize higher margin product offerings within that suite. But the real
+strategic area that we're actually working on is to develop the market for network APIs, and with
+the ability to expose the capabilities of the network in a new way. That is where we're 100%
+focused on, while trying to maintain the existing business. This was one where, of course, it had
+an impact on the sales number, but we didn't feel it was strategic for us, and therefore, that isn't
+-- was not a critical contract for the success of the business, but it did impact top line.
+A - `Peter Nyquist, Vice President, Head of Investor Relations `
+Thanks, Borje.
+Q - `Francois-Xavier Bouvignies, UBS `
+Thank you very much.
+A - `Peter Nyquist, Vice President, Head of Investor Relations `
+And thanks, Francois for those questions. So we'll move further in the Q&A session. And we have
+the next question from `Andreas Joelsson, Carnegie at Carnegie. Good morning Andreas.
+Q - `Andreas Joelsson, Carnegie `
+Good morning, everyone, and thank you for taking my question. Just a follow-up on the overall
+market and maybe a little bit more long term. We all know 5G importance for society as such and
+so on, but why do you feel or what is your view on why especially the U.S. operators are a little bit
+more cautious now? What do they need to see in order to become a little bit more positive in
+putting investments into this? And secondly, on the AT&T contract, also more long-term beyond
+2024, how do you see that ramping up? And if you could say something about the visibility you
+have in that particular contract over time? Thanks.A - `Borje Ekholm, President, Chief Executive Officer `
+If we start with the market without singling out any operators because they're our customers, we
+work very closely with them. But if you look at mobile infrastructure, what is a bit unique with the
+mobile infrastructure is that it's not a cut-off point you have it or you don't have it. It's actually a
+degrading quality. And as that allows you in a way as an operator to pare back investments for a
+period of time, traffic continues to grow, the underlying traffic growth 20%, 30% faster
+sometimes when you have fixed wireless access. So the -- in a way that the capacity demand
+continues, then you can say, okay, I can degrade performance a bit. I can actually -- I may not
+need the capacity short-term, so you can save investments, but ultimately you need the capacity.
+So what will then be the trigger for that? It will probably be competition offering a better service,
+it may be a front-runner in the market that actually drives the others, therefore, to invest, it may
+be new type of use cases that come up that demands more bandwidth, whether that is XR
+applications, whether it's new type of streaming services, new type of social media, I don't know.
+But we know when you get those new type of use cases into the network, it actually drives the
+need to invest. And lastly I would say, for the world to really benefit from 5G, we need to migrate
+to 5G standalone. And there are, if you look across the world, very few 5G standalone networks
+built out. Really where it's a front-runner is China. In China, you start to see enterprise applications
+coming on top of the 5G network that we are not seeing in the rest of the world yet, for the
+simple reason the infrastructure is not built out.
+So when you look at this, when will it exactly be? I don't know, to be honest. It's in the hands of
+the customers when they make the strategic decision to say, okay, we need this to offer the
+services, to offer the capabilities, to generate new type of revenues for the network. And I think
+that's going to come, the ultimate recovery will come, but it's just in the hands of the customers.
+A - `Peter Nyquist, Vice President, Head of Investor Relations `
+And your second question around AT&T long term, how that would be developed?
+A - `Borje Ekholm, President, Chief Executive Officer `
+No, I think we will have to come back to that. We have signed the agreement we have very
+pleased with that. And we are now starting to ramp up the preparation for that. It will be visible in
+the second half, but exactly how it plays out I would probably rather report when it happens on
+that. But it's a breakthrough contract, it's historic in nature also from a strategic point-of-view. But
+we have -- we can say we have great visibility that it's going to take some time to ramp up the
+contract that's going to happen, as Carl said, in the second half of this year, but then we have
+visibility on how that's going to look like going forward. But let's come back to that.
+A - `Peter Nyquist, Vice President, Head of Investor Relations `
+Thanks, Borje and Carl.
+Q - `Andreas Joelsson, Carnegie `
+Perfect. Thank you.
+A - `Peter Nyquist, Vice President, Head of Investor Relations `
+Yes. And we lost him, so we move to the next question.Probably hang up.
+A - `Peter Nyquist, Vice President, Head of Investor Relations `
+Good morning. `Joseph Zhou, Barclays from Barclays. How are you today?
+Q - `Joseph Zhou, Barclays `
+Hi good morning, everyone. Thank you for taking my questions. And thank you, Carl and Peter.
+Best of luck to your future endeavors.
+A - `Carl Mellander, Senior Vice President, Chief Financial Officer `
+Thank you.
+A - `Peter Nyquist, Vice President, Head of Investor Relations `
+Thank you.
+Q - `Joseph Zhou, Barclays `
+I have two questions and I'll go one at a time. And the first one is really on India. And what is your
+expected normalized revenue level in '24 and going forward? And is this sensible to assume it
+goes back to, say, the 2022 level plus your market share gain with Jio for 5G? Or do you see
+some structural uplift in the overall market size? That's my first question.
+A - `Borje Ekholm, President, Chief Executive Officer `
+Carl?
+A - `Carl Mellander, Senior Vice President, Chief Financial Officer `
+Yes, it's, of course, in the hands of the operators how much they invest. But I think it's fair to
+assume that a normalized level is higher than pre-5G. 2023 was a record year and it's coming
+down, as we said, in 2024. But we would still expect a higher volume than the 2022 levels. Again,
+it's up to operators how much they want to invest, obviously.
+A - `Peter Nyquist, Vice President, Head of Investor Relations `
+And your second question, Joseph?
+Q - `Joseph Zhou, Barclays `
+Yes. The second question is about the ramp-up for AT&T. And shall we expect any revenue from
+AT&T in the first half of '24 any kind of material level? And also just regarding that, do you need
+to really hire in North America to execute the contract? Because obviously you had a savings
+program where you had a huge headcount reduction in North America last year. And do you need
+to hire some of those people back for the new contract?
+A - `Carl Mellander, Senior Vice President, Chief Financial Officer `
+We will -- we don't expect material revenue in the first half, so that's why I really point that out.
+That is to be expected in the second half. Resources rehiring in North America elsewhere, Borje,
+you want to take that?A - `Borje Ekholm, President, Chief Executive Officer `
+We have also changed the structure, so we have less service engineers basically in-house, so we
+will rely more on third party for that. So I don't expect material re-hirings to deliver on this
+contract.
+A - `Peter Nyquist, Vice President, Head of Investor Relations `
+Thanks, Borje.
+Q - `Joseph Zhou, Barclays `
+Thank you.
+A - `Peter Nyquist, Vice President, Head of Investor Relations `
+Thanks, Joseph.
+Q - `Joseph Zhou, Barclays `
+Thanks.
+A - `Peter Nyquist, Vice President, Head of Investor Relations `
+We will move to the next question. And the next question is from `Jakob Bluestone, Exane BNP Paribas at BNP Paribas
+Exane. Good morning, Jacob.
+Q - `Jakob Bluestone, Exane BNP Paribas `
+Good morning. Thanks for taking my questions. Two, please. Firstly, on the AT&T contract, we
+heard from Nokia that price was a big part of the reason that lost the contract. I'd just be
+interested to hear from your point-of-view, to what extent do you see these types of O-RAN
+contracts as being deflationary overall? And then just secondly, staying with the AT&T contract,
+you mentioned rightly that it's a historic contract. I'm just interested in hearing, are you seeing
+more demand for these types of contracts since you announced it? So is there any sort of read
+across to other contract wins? Thank you.
+A - `Carl Mellander, Senior Vice President, Chief Financial Officer `
+Borje?
+A - `Borje Ekholm, President, Chief Executive Officer `
+It's always interested when competitors apparently know everything, so you can question how
+much they know sometimes, to be honest. But if you look at the contract like the one we're
+talking about, I think it's -- where -- how does this actually work? It's all about looking at the total
+CapEx, OpEx envelope and actually optimizing that total cost. So you make sure that you can
+invest in technology in order to actually increase the portion of that cost envelope that goes into
+revenue generating equipment and that is what this is all about. So it's about then putting a
+technology in place that allows a much more efficient, call it, rollout and operation of that network
+and that's what we're doing together with AT&T. So the substantial benefit here is actually that it
+allows within the CapEx envelope a faster rollout. But that is really created by leveraging new
+technology. So we're putting new energy savings features in place, multi-band radios in place,
+standardized sites in place, et cetera.All of those contribute to make as much of the capital go into productive equipment as humanly
+possible. That's really our competitive advantage and that's why that contract is so important.
+Then that's the reality and that's the fact. That's why it's value creating for us, but it's also value
+creating for our customers. So this is a way, I think, for the future that's going to show to be more
+interesting. I think it's hard to say. I mean, we have a lot of interest to look at similar type of
+solutions for the future, but that's we'll see. It's too early to say that that's going to be a lot of
+contracts coming, but we're seeing a great interest in exploring similar type of solutions for the
+simple reason that it actually reduces the non-strategic spend. And you know think about normal
+network, right? It's kind of a lot that goes into, I call it, concrete and towers, right? But the reality
+is, it's in passive equipment, it's in truck rolls going back and forth to sites, it's in energies, costs,
+et cetera.
+All of that we like to put into active equipment instead and that's what we're doing in this
+contract. I think it's a model for the future and can create a big potential for us.
+A - `Peter Nyquist, Vice President, Head of Investor Relations `
+Thanks, Borje. And thanks, Jakob. We'll move to the next question, which comes from Sandeep
+Deshpande at JPMorgan. Good morning, Sandeep.
+Q - `Sandeep Deshpande, JP Morgan `
+Good morning. My question, I mean, in your forward looking statements, you've given the
+guidance of Dell'Oro for the full year. And Dell'Oro seems to have growth for the U.S. market this
+year in FY '24. Is that your view on the U.S. market given where the starting point is at this point?
+And if that is not, would there not be further risk to the top line into '24?
+A - `Carl Mellander, Senior Vice President, Chief Financial Officer `
+Yes. So we do believe that there is a good chance that North American investments will start, but
+we are careful in saying here that it's in the hands of the operators. We don't want to be precise
+in putting any commitments for that out there. We also see Dell'Oro's expectation that North
+America, coming from a record high level in 2022 down to a probably unsustainably low level of
+investment in '23, increases -- grows again in 2024. And we believe that that's a reasonable
+expectation.
+A - `Borje Ekholm, President, Chief Executive Officer `
+Yes, I would just echo that. But I think what we're trying to do is also to make sure that we plan for
+a challenging market. I think that's the prudent way to plan our costs on our side to make sure
+that we're as lean as possible. And then when the market recovers, we have our technology
+investments, so we are at the leading edge there, combined with a very efficient cost structure
+because when that recovery comes, whether that's in the beginning of '24, the end of '24, in '25,
+but we're at least well positioned when it comes. And that's really what we're here to do because
+then we can succeed longer term.
+Q - `Sandeep Deshpande, JP Morgan `
+Thank you.
+A - `Peter Nyquist, Vice President, Head of Investor Relations `
+Thanks, Borje. So we are moving now to the last question for this session. And that one is from
+`Sebastien Sztabowicz, Kepler Chevreux from Kepler Chevreux. Good morning, Sebastien.Q - `Sebastien Sztabowicz, Kepler Chevreux `
+Yes. Hello, everyone, and thank you, Peter, for taking my question. On the gross margin in
+networks, you've seen a quite nice step up, thanks to positive mix in Q4. How do we assume we
+should think about the gross margin in networks moving into 2024? What are the good syntax for
+the coming quarters there? And the second one on the Cloud Software and Services, you have
+strongly recovered in the fourth quarter. We know there is a strong seasonality in this business.
+But looking at 2024 and beyond, where do you see your EBITA margin moving in Cloud Software
+and Services? Do you have any indication of the trend there? Thank you.
+A - `Carl Mellander, Senior Vice President, Chief Financial Officer `
+Yes. Thanks, Sebastien. Well, as you know, we haven't issued any particular profitability guidance
+for Cloud Software and Services. We are on a turnaround journey. I think 2023 shows significant
+progress there and we delivered SEK1.7 billion EBITA for the full year. We continue there with
+actions. It's about commercial discipline. It's about automating to take cost out of service delivery
+basically, and also ensuring that we exit from subscale parts of the portfolio, if any, and manage
+the portfolio in an as optimized way as possible. So that will continue. Then, of course, we keep
+on investing in this business. It's a long term, very promising area. Borje mentioned before the
+need for operators to come into 5G core as well as standalone. Of course, and that sits in this
+segment. So I think that gives a good opportunity for the future as well, as that starts to happen
+as a strong trend.
+Then you asked about the network's growth margin. Yes, good outcome in the fourth quarter. As
+you saw, we are guiding for the first quarter between 39% and 41%. How the rest of the year
+plays out has a lot to do with the big macro picture that we talk about, namely, how will markets
+behave now. And we are cautious there. We talk about the continued challenges. Depending on
+the previous question, what happens in North America, of course, we will see different outcomes
+on the gross margin as well, and then top line in the network. So I think that's probably what we
+can say at this stage. Anything to add?
+A - `Borje Ekholm, President, Chief Executive Officer `
+I think it's also fair to say that what we -- you know our focus on gross margin, it's been one of the
+key drivers because what I think it does a couple of things. It keeps us focused on commercial
+discipline. But at the same time, it drives our product development because if we can invest in
+technology that drives down our costs to deliver and serve customers. It helps the gross profit. So
+for us, the gross margin has been critical and that's something that we have invested quite a lot
+in the last few years and we continue to do.
+Then exactly how, as Carl said, the gross margin develops, depends on that mix between
+products and mix between markets and mix between different parts of the company. So I -- in the
+same way as trying to predict the future, it's easy to have an opinion. It's just hard to be right. I
+think what we need to do here is to really plan for how do we put ourselves in the best possible
+position when we have a more, call it, rational or more normal market environment that we
+expect will come. So it's all about putting ourselves at the best possible competitive position at
+that point in time.
+A - `Peter Nyquist, Vice President, Head of Investor Relations `
+Thanks, Borje. Thanks, Carl, and thanks, Sebastien. And thank you all and this will actually conclude
+my 31st and last earnings call here at Ericsson. And it has been sort of 10 fantastic years here atEricsson, especially you Borje and Carl and the whole IR team, but also interacting with everybody
+following Ericsson, it has been a true privilege. So again, a really big thank you to you all.
+A - `Borje Ekholm, President, Chief Executive Officer `
+Thank you.
+A - `Carl Mellander, Senior Vice President, Chief Financial Officer `
+Thank you.
+A - `Peter Nyquist, Vice President, Head of Investor Relations `
+Thanks all.

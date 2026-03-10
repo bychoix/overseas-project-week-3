@@ -1,0 +1,586 @@
+Q4 2018 Earnings Call - Second Call
+
+Operator
+Welcome to Ericsson's Analyst and Media Conference Call for their Fourth Quarter Report. To
+view visual aids for this call, please log on to www.ericsson.com/press or
+www.ericsson.com/investors. As a reminder, replay will be available one hour after today's
+conference.
+`Peter Nyquist, Vice President, Investor Relations will now open the call.
+`Peter Nyquist, Vice President, Investor Relations `
+Thank you, operator, and welcome to the second call for today, this afternoon call. And together
+with me here today, I have our President and CEO, Börje Ekholm; our Chief Financial Officer, Carl
+Mellander.
+So, during the call today, we'll be making forward-looking statements. These statements are
+based on our current expectations and certain planning assumptions, which are subject to risk
+and uncertainties. The actual result may differ materially due to factor mentioned in today's press
+release as well as discussed during this conference call. We encourage you all to read about
+these risks and uncertainties in our earnings report as well as in our Annual Report.
+With that said, I would like to hand over the word to you, Börje. So, please Börje.
+`Erik Börje Ekholm, President, Chief Executive Officer & Director `
+Thank you, Peter, and welcome to our report for the fourth quarter of 2018. And thanks,
+everyone, for joining us. So, 2018 was a year that we proved the competitiveness of our focused
+strategy. So, we exited the year as a clearly stronger company. Early in 2017, we launched our new
+focused strategy where we defined a clear focus on the service provider and solving theirproblems. Foundation was technology leadership, product-led solutions, global skill and scale,
+and establishing a cost-efficient operation.
+Over the last 18 months, we have relentlessly executed on this strategy. After 2018, we own our
+stronger company with a good and competitive product portfolio that have resulted in a growing
+top line as well as a more cost-efficient company. With headwind from a still tough market as well
+as contract exits, we were able to return to growth on the top line for the first time since 2013 on
+an FX-adjusted basis, and this is all supported by the investments in R&D that has given us a very
+competitive portfolio.
+And when you are investing for technology leadership, you are also able to get cost leadership,
+and we have seen a expanding gross margin as well. The cost reductions we have done over the
+last year-and-a-half has given us a very competitive cost structure, and we're now profitable on
+an operating profit level before restructuring costs.
+The market has been tough over the last few years, but we see the momentum coming back to
+the market with the launch and the technology shift into 5G, as well as the growing demand for
+data. And to intercept that, we have invested and increased our commitment to R&D and
+technology leadership and we see today that we have a very strong offering. We feel that we're
+comfortably on track to reach our targets for 2020 of more than 10% operating income,
+excluding restructuring, and for 2022 of more than 12%. The board has put together a judgment
+about our situation, our recent turnaround, and we actually have net income that's negative and
+proposing an unchanged dividend of SEK 1 per share.
+For the full year of 2018, we have had positive growth adjusted for FX of small number, 1%, but it
+is the first time since 2013, and it happens despite headwind of exiting businesses. We've also
+completed a SEK 10 billion program we launched in 2017 that has resulted in expanded gross
+margins as well as lower SG&A.
+We have solid performance in earnings in Networks as well as Managed Services. We still have to
+turn Digital Services around, but losses have been reduced during the year, even though we have
+more to do to really turn it around. We continue our investments in Emerging Business, but we
+are now seeing signs that the businesses that we have are scaling well. Cash flow is positive.
+More importantly, it's more evenly distributed throughout the year. We have also continued to
+reduce the sale of accounts receivables, and we can see that the increase in sales at the end of
+the year has expanded our accounts receivable and thus lowered the free cash flow.
+If we look at the fourth quarter – the growth accelerated during the year – so in the fourth quarter,
+we grew by 4%, and that's driven by Networks and Digital Services. Our focus and commitment is
+to manage the overall profitability in the company. So, included in the results here are, of course,
+significant costs for strategic contracts as well as field trials, but we've been able to absorb them
+in the numbers we've taken. We see especially those costs in Networks, and it's even better to
+see that Networks has, despite that, shown a very resilient P&L with a good profitability.
+Managed Services are established now at a different profitability level after completing the
+review of all the contracts. Emerging Business and Other is negatively impacted by losses in in
+Red Bee Media and Ericsson Media Solutions. The remaining part are still loss-making, but it's
+actually starting to scale, so we had a growth of 60% there. And this will continue to generate
+some losses, but we are investing for the long-term value to Ericsson of strengthening our
+product portfolio long term. The investigation from SEC/DOJ continues, and we have no news to
+share, but I will just say it's ongoing. Free cash flow was positive, but the increasing accounts
+receivables was a drag on the numbers.I wanted to take some more time on Digital Services and make some extra, maybe deep dive is
+the right way to say it. Digital Services is strategic to our portfolio with our core OSS and BSS
+offerings. But we have to remember that this area has been loss-making for several years. So,
+this is not the problem that came in 2017 (sic) [2018], nor did it come in 2017, it's been ongoing
+several years. So, if you look back, actually that in 2017 we didn't have a single product area
+reaching profitability in Digital Services. So, what we did was about a year ago defined a strategy
+and a plan that would turn the business around and reach low-single-digit profitability by 2020.
+We knew at that time that that would take two to three years to fully turn the business around,
+given the problematic starting point. The strategy has, in simple terms, been to stabilize the top
+line and establish a competitive cost position. But we have also increased our investments in the
+5G core and making sure that the portfolio is cloud-ready or cloud-native and ready for micro
+services. The team leading and working in Digital Services have made real progress on strategy
+execution during 2018 and on the turnaround, and this includes a large number of wins during the
+year.
+So, in the fourth quarter, we were able to turn a small growth of 5% FX-adjusted, but
+nevertheless stabilizing the top line is key in the turnaround. Cost-out has continued and we see
+improving gross margins, but we also see reductions in operating costs. And during the year, the
+improvement in expenses have been SEK 2.6 billion, with a higher run rate at the end of the year.
+So, we come out nicely from 2018. And more importantly, we now see that we have positive
+operating income in several segments in the business.
+But we also have one clear area that's driving the losses, and that's BSS within Digital Services.
+Here we have made less progress on our old strategy, so we decided to actually reshape the
+strategy from the past, and our focus going forward is to invest and drive our established BSS
+platform, Ericsson Digital BSS. Here we have a large installed base with more than 350 customers
+worldwide, and it is a sound business that we have. What we do now? We increase our
+investments in Ericsson Digital BSS because we see that as a path that our customers can migrate
+to a future architecture and future product in order to monetize 5G and IoT opportunities. This
+also means that we are refocusing Revenue Manager on fulfilling existing obligations, as well as
+leverage the components from Revenue Manager in our Digital BSS platform.
+In order to execute this strategy, it will be associated with costs and we have taken costs of SEK 6
+billion in 2018, and we will take about SEK 1.5 billion in 2019. These costs are related mostly to
+changing the scope in our contracts, but also to redundancies, of course. And when we look now
+at Digital Services, we see that all the problems we have are really well confined to BSS, and
+that's why we now make the next step in developing BSS to make sure that we have a profitable
+business and a competitive offering. So, with the reshaping of the BSS strategy, we are very
+comfortable on the reaching of the guidance we have given for 2020 for Digital Services.
+If we look at the growth for the full year, it was driven by North America, and that is as our
+customers get ready for 5G. What we see, the demand for hardware was significantly larger
+towards the end of the year. The capacity constraints for tower crews still remains. I would also
+point to Europe and Latin America actually returning to growth, and that's done despite exits of
+many non-strategic contracts in that market area. We saw falling sales in North East Asia due to
+reduced investments in LTE. In South East Asia, Oceania and India, it was a very tough
+comparable in 2017, as we had many projects being completed late in the year. The reduction in
+Middle East and Africa is really due to the geopolitical situation in some specific countries.
+If you look at just Q4, it's encouraging to see that growth accelerated throughout 2018. So, by the
+end of the year in Q4, it was only Middle East and Africa that had a reduction in sales, and thatwas really due to the geopolitical uncertainty in certain countries.
+So, with that, I'll give the word over to Carl.
+`Carl Mellander, Senior Vice President, Chief Financial Officer & Head-Group Function Finance `
+Thank you, Börje, and good morning, good afternoon everyone on the call. Thanks for
+participating. Let's look at the segments one by one, starting with Networks. Networks delivered
+a solid quarter here in the fourth quarter, very high activity level, and growth FX-adjusted of 6%
+was really fueled by North America, Europe, Latin America and North East Asia as well, so quite
+broad as a sign of the competitiveness of the radio portfolio not least. Gross margin increased
+year-over-year, and this is also a function of the product competitiveness and the hardware and
+services margins improvement that comes out of that as well. The continued penetration of ERS
+as well as cost reductions were key to this improvement of margin.
+And the operating margin came out at 17.5%, doubled percentage year-over-year. And then, we
+should note that this is in spite of certain impact from strategic contracts that we have taken in
+the 5G field trials also supported somewhat with a provision reversal related to accounts
+receivable of SEK 300 million. So, the ERS deliveries now were at 93% of the total deliveries in
+the fourth quarter, so that is continuing on a good path towards 100%. And then, finally, looking at
+the full year 2018, Networks delivered 15.3% operating margin, excluding restructuring, and this is
+then obviously in the lower end of the 2020 target range.
+Move to Digital Services, please, and we can here look at the top line where sales grew 5%. And
+Börje alluded to this earlier, the positive sign here is that we see the new portfolio getting
+traction and grew by 4% in the full year. This is, as you remember, one of the key strategic
+execution KPIs that we set up earlier, the new growth portfolio in Digital Services and now that
+has returned to growth. And it's really around our 5G-ready virtualized portfolio, Cloud Core and
+OSS and I mentioned two areas that delivered well.
+The reported gross margin is, of course, way down by the provision we announced two weeks
+ago for reshaping the BSS strategy, as Börje described just now more in detail. But if we exclude
+that for a minute, gross margin ended up at 38% or 37.5% to be precise, supported by continued
+cost reductions.
+Operating income, again, if we exclude the extra BSS cost provision, came in at SEK 0.6 billion
+negative, which is a clear sign of a path towards the 2020 targets of low single digits. And again,
+this is supported by profit improvement coming in, actually, all across key product areas in the
+segment and very large expense reductions, SEK 2.6 billion as it says here in the full year. And
+now that we have addressed 23 of 45 contracts to date, of which 4 in Q4, we fulfill also that
+commitment to address half of those contracts within 2018. Another 25% will be handled,
+addressed during 2019.
+Managed Services, sales declined somewhat, 5% FX adjusted. This has been entirely related to
+the exits that we have initiated following the review of these 42 contracts that we identified
+earlier. All of those are now addressed. We can say that this is a complete deduction and this
+contributed with SEK 0.9 billion in bottom line uplift on an annualized basis. And this contributed to
+the profitability improvements, significant such year-over-year, together with cost reductions in
+the delivery of services here and additional efficiency. Full year view tells us that the operating
+margin landed at 5.3%, excluding restructuring. Again, as with Networks, this is then in the lower
+range of the 2020 target range.We move forward to Emerging Business and Other, our fourth segment, and here we provide
+some detail on the three main parts here in this segment, the first one being Emerging Business
+and iconectiv with strong growth. And Börje explained that earlier as well how we managed this
+business for positive NPV and always within the 2022 group targets.
+Media Solutions, this is the area that includes the MediaKind business that we are divesting. And
+as you can see in the numbers here, a lot of cost-out activity has happened during the year
+leading up to this point and Q4 was also, however, impacted by some of the transaction costs
+related to this divestment.
+Red Bee Media, sales down somewhat after renegotiations and scope changes in couple of the
+contracts there, but losses are clearly reduced. Also, that has to do with cost reductions that
+happen in Red Bee Media and now we are continuing to develop offerings and those are getting
+traction in the market as well from Red Bee.
+Gross margin, looking at the longer time series here from 2016, 2017 and 2018, we clearly see
+that this now is the fourth quarter that we delivered around 36%, 37% gross margin. So, we could
+say that this is a new level established during this year compared with the two previous years.
+And, again, the important drivers for gross margin here are the cost reductions, as we have
+talked all along in terms of strategy execution, the further ramp-up of the Ericsson Radio System
+and the contract reviews that we have undertaken and concluded. Some impact in these
+numbers. I'd say this again from costs related to strengthening the market position, such as early
+phases of contracts, trials for 5G, et cetera. But all in all, excluding then the BSS provisions, we
+ended up with 36.3% in underlying gross margin.
+Cost – or OpEx rather, the three buckets if we look at here now in OpEx are, first of all, R&D
+where we follow the strategic intent here to reduce further in Digital Services and invest, on the
+other hand, in Networks. This has also happened, increasing the total R&D amount somewhat
+year-over-year. SG&A, the cost reductions continued here, partially offset then by some of the
+field trial costs that you can see specified there in that middle graph.
+And then, finally, we also disclose now the impairment losses related to trade receivables. This
+can be positive or negative quarter to quarter depending on the situation with overdue
+receivables and whether customers pay us. And this quarter, we had a number of positive
+payments coming in from customers where we earlier had the provision. So, that enabled us to
+release some of those provisions. But again, this will vary from quarter to quarter.
+I would like to spend just half a minute or so on taxes because we have quite a large tax cost in
+the quarter and in this year. So, to explain this, I can mention that we have a certain amount of tax
+assets in our balance sheet. And it's partly related to old losses, loss carry-forwards and it's also
+related to withholding tax. And what is important here is that withholding tax assets can only be
+used during five years, thereafter they expire. This means that when we apply this against future
+profits, we need to generate such profits within five years to use withholding tax assets.
+And now, as we have had losses now, last, but not least, in the BSS cost that we did in Q4, that
+then triggered a reevaluation again of tax assets and an impairment of SEK 2.1 billion out of the
+withholding tax assets. And these all resulted in an unusually high tax rate for 2018. But on
+average, unless we have this type of extraordinary write-offs and similar, the tax rate has been
+around 32% for Ericsson over the last couple of years. And going forward, what will determine
+this is, to a large extent, the geographical mix and the tax rates in the various markets and
+jurisdictions where we make profits going forward.If we turn the page to cash flow, for the full year 2018 then, our operations generated cash flow
+of SEK 9.3 billion, and free cash flow before M&A was SEK 4.3 billion, more or less in line with last
+year, but a little bit lower. And the reason it was lower was mentioned, but I can repeat this a little
+bit and elaborate from what Börje said. One is that we decreased sale of receivables. That's the
+right thing to do, we believe. And the other one is that now we are actually a company in growth
+mode.
+And, of course, although we work with working capital efficiency a lot – and I'll come back to that –
+we see working capital increasing as a result of large delivery volumes, large invoicing volumes
+towards the end of the year, which drives up accounts receivables somewhat. But, of course, all
+of that will be collected and converted into cash in the coming periods.
+We put high focus on capital and cash in our company, including a shift of incentives also in this
+direction, and we put in effort on reducing the lead times in rollout, working on terms and
+conditions in contracts. We have strengthened the credit management and the cash collection,
+just to mention a few of these aspects here.
+So, with that, I can just finally on this slide mention that the net cash position continues to be
+strong and strengthened at SEK 35.9 billion and gross cash at SEK 69 billion as we end the year.
+Planning assumptions, finally, we have noted that external firms here, Dell'Oro notably expects
+the RAN equipment market to grow by 2% in 2019 and we concur with that view, and a CAGR of
+2% then also 2018 to 2023.
+IPR baseline, SEK 8 billion. Certain strategic contracts in Networks, we want to call that out that
+that might have a certain negative impact on the gross margin. And we also have that cost for 5G
+field trials, as mentioned before. And this can weigh somewhat on the margins mainly in
+Networks going forward. However, we are not seeing that that will jeopardize the 2020 financial
+targets. We will manage this within our overall performance.
+Then we talk about the R&D expenses expected to flatten out. As you know, they have increased
+in Networks as we have ramped up R&D for technology leadership and this will flatten out now
+starting in Q1. And finally, the restructuring charges are estimated to be between SEK 3 billion and
+SEK 5 billion in 2019. And I think important here to note that our long-term ambition is to bring
+restructuring costs down to 1% of top line, and this is what we said. This is we have stated at the
+Capital Markets Day. This is one step in that direction, but of course we need to do more to bring
+these costs down further. And other than that, I'd like to refer you to the Q4 report, of course, for
+the complete planning assumptions. This was a selection of those.
+With that, thank you, and back to you, Börje.
+`Erik Börje Ekholm, President, Chief Executive Officer & Director `
+Thank you, Carl. So, if we then look at what are we going to do going forward, well, we are going
+to remain focused on executing on our focused strategy for the coming year. Top priorities
+include on Networks to continue to invest in R&D to strengthen our portfolio for leadership in 5G.
+We believe spending will start to flatten out now, but we see quite a lot to do on productivity and
+R&D and that's really the fact that we have hired a number of engineers over the last 18 months,
+and it really takes 12 to 18 months to get full productivity on a new hire.
+We see, as we have mentioned already, that we will have costs for some strategic contracts and
+we will have costs for field trials. As a proportion, they're likely to increase in 2019, but at the
+same time we will manage our total P&L like we have done in Q4 as well as earlier during the year
+when we've had those type of costs. We are also very comfortable that these type of contractsas well as field trials will actually further allow us to comfortably reach the 2020 targets. So, we
+are managing the business to make sure that we reach the long-term both 2020 and 2022
+targets.
+On Managed Services, we have, for the first time, actually spent some real dollars in R&D in
+Managed Services and we do that in order to drive AI use and automation and we're starting to
+see increasing traction with customers on that.
+On Digital Services, of course, we are committed to execute on our reshaped BSS strategy, but
+most importantly, we really need to make sure that we make our portfolio ready for the future.
+That includes investments in cloud native as well as ready for micro services, but we also see that
+we are going to continue to drive the software content in the business, as well as meeting the
+customer demand for the virtualized network solutions. Our commitment is to reach low-single-
+digit margins in 2020, as we have said before, and we are going to execute on that and the plan
+we have in place should allow us to show progress during the year on that ambition.
+In Emerging Business, we will continue to invest for the value in 5 to 10 years on making a
+stronger Ericsson. So, the thing we are going to see here, we will see us drive scale in some of
+our investments. It's very promising in IoT as well as edge compute, and we are going to drive
+those to become contributors to bottom line over time as well.
+So, in short, if we summarize, we will continue to focus on executing on our strategy. That
+includes investments in R&D for technology leadership, but also to maintain cost discipline. With
+the investments we've made in R&D as well as getting a competitive cost structure, we are ready
+for the next step, which is disciplined growth. I believe we have already shown that our core
+business actually has growth potential, and we saw that during 2018 and even more so in Q4. We
+will continue to capitalize on that. We will also make selective investments in Emerging Business
+and drive scale there with still the overall commitment to the financial guidance for 2020 and
+beyond 2022.
+We see also that AI and automation is increasingly used in all our business areas and more a
+cross-company effort, and we are going to increase our investments in that area. Costs, and we
+have gone through this now a multiple of times, but costs for strategic contracts and field trials
+will probably be a larger portion in 2019 than 2018, so it could weigh on margin, but we will do this
+in order to build a stronger company 2020 and beyond. And we believe these are very good
+contracts we're taking. We are also increasingly confident in reaching the target of at least 10%
+operating margin in 2020 and 12% 2022 and beyond, both excluding restructuring costs.
+With that, thank you very much for listening in.
+`Peter Nyquist, Vice President, Investor Relations `
+Thank you, Börje. So, operator, we are now ready for the Q&A session. So, please, operator.
+Q&A
+Operator
+Thank you. Ladies and gentlemen, at this time we will begin the Q&A session. Our first question
+comes from the line of `Edward Snyder, Analyst, Charter Equity Research, Inc. of Charter Equity Research. Please go ahead. Your line is
+open.
+A - `Erik Börje Ekholm, President, Chief Executive Officer & Director `Hi, Ed.
+Q - `Edward Snyder, Analyst, Charter Equity Research, Inc. `
+Thank you very much. Börje, I was interested in especially your 5G contracts or your 5G-ready
+contracts in the U.S. I understand every time we get an upgrade in the systems, you presume
+really more aggressive pricing and ensure market share and that certainly was the case last
+quarter. Does this suggest that you're holding your own? Or are you actually gaining share
+because of this pricing?
+And then, secondly, in the 4G systems which we went through the same kind of cycle, there were
+a lot of upgrades with 4G, both for LTE Advanced and LTE Pro. Do you see the same or similar
+type trend with 5G once it's installed? Or, are we going to get so much more capacity with the
+initial launch that if you don't really have as many upgrades which leads to the questions where is
+the upside for the aggressive pricing in the follow-on years? Thank you.
+A - `Erik Börje Ekholm, President, Chief Executive Officer & Director `
+I couldn't hear the first part of the question actually.
+A - `Peter Nyquist, Vice President, Investor Relations `
+Was that about gaining share in U.S., right?
+Q - `Edward Snyder, Analyst, Charter Equity Research, Inc. `
+Yes. The aggressive pricing on 5G contracts, is it holding your share in the U.S. market or are you
+actually gaining share because of that?
+A - `Erik Börje Ekholm, President, Chief Executive Officer & Director `
+I mean, we will have to see when the total market estimates come out on that. But I would still say
+that when we look at the way we price our contracts, I think you have to look at the totality here
+of the company. You've seen us grow market share over the last year on the published numbers
+by almost 300 basis points, and we've done that and at the same time increased gross margin.
+So, it all depends on how you look at pricing. But I think growing share and expanding gross
+margin speaks a lot about the competitiveness of the portfolio ultimately.
+Then speculating, it's a bit too early to say how the 5G cycle is going to look like. So far, it's really
+just in the emerging phases of deploying the hardware that's going to create the 5G networks,
+but I'm convinced we will see – like has happened in every mobile generation so far, you see
+continuous innovation that's going to drive the need for upgrades over time. I would expect the
+same pattern in 5G.
+Okay. Thanks, Ed. We will continue to the next question, please.
+Operator
+Thank you. Our next question comes from Pierre Ferragu of New Street Research. Please go
+ahead. Your line is open.
+A - `Erik Börje Ekholm, President, Chief Executive Officer & Director `
+Hello, Pierre.Q - `Pierre C. Ferragu, Global Team Head, New Street Research LLP (US) `
+Hi. Hi, everybody. Hi, Peter. Hi, Börje. Thanks for taking my question. So, I was interested in this
+very nice uptick you've seen in revenues in Q4. And so my understanding is that the large part of
+that is more like 4G related, upgrading the 4G network, increasing capacity which I assume is very
+good margins, and a more tiny part of it is the beginning of 5G, which is more of a negative driver
+for margins because I assume it's more like hardware driven and early stage contracts. So, as we
+get into 2019, how does that mix evolve? Do you think you're more like at a peak in terms of
+gross margins and in terms of starting it (36:03) and we'll see more 5G and hardware and lower-
+margin business in the mix in 2019? Or do you think we'll have like a balanced growth between
+4G better margins and 5G temporarily lower margins? Thanks.
+A - `Erik Börje Ekholm, President, Chief Executive Officer & Director `
+Yeah, I will start and preface everything by saying we don't guide on 2019. So, I'm not going to do
+that here either. But I think what is happening here and that's why it's worth a little bit longer
+answers, I think I'll try to address it in a different way. If you look at the history, we've had very low
+hardware margins. What we have done over the last few years is increase our investments in
+technology leadership, which actually has allowed us to get to a fundamentally different cost
+position. That means we're less exposed to a different mix than we had before. So, between
+hardware, software and services, that mix is less sensitive now.
+The next thing is, that is further helped by the cost-out we did, which actually has made our
+service delivery much more efficient as well. So, when you look now, we're less exposed to
+different mix of components in our sales. The second thing which is important to remember, our
+hardware has been 5G-enabled since 2015. So, to make that 5G – or carry 5G traffic, it's a
+software update. So, when we look at defining what's 4G and what's 5G, it's increasingly blurred
+line. And actually, it's not a relevant metric anymore.
+So, customers actually buy our (37:57) and the reason why we win contracts is that they
+modernize their network and prepare for 5G, but they also need the 4G capacity they get with a
+modernized network. So, it's hard now to say what they are actually doing in that sense. They're
+doing both, right? So, for us that's why we look more as – in a way, 5G-ready shipments as a
+more relevant metric, and then pretty much all our ERS volume is since 2015 5G-ready. Okay.
+You're happy with that, Pierre?
+Q - `Pierre C. Ferragu, Global Team Head, New Street Research LLP (US) `
+Thanks, Börje. That's very helpful. And so, do I infer from that that maybe you'll have a bit more
+stability in margins going forward?
+A - `Erik Börje Ekholm, President, Chief Executive Officer & Director `
+The whole idea with what we're doing with our strategy is to create a more predictable company.
+That's what we have tried to work on, and that's what we continue to work on.
+Q - `Pierre C. Ferragu, Global Team Head, New Street Research LLP (US) `
+Thanks, Börje.
+A - `Erik Börje Ekholm, President, Chief Executive Officer & Director `
+...Pierre, and next question, please.Operator
+Thank you. Our next question comes from Simon Leopold of Raymond James. Please go ahead.
+Your line is open.
+Q - `Simon M. Leopold, Analyst, Raymond James & Associates, Inc. `
+Great. Thank you very much for taking my question. I wanted to first just clarify trending in Digital
+Services and then ask about some longer-term opportunities. Within Digital Services, obviously, I
+understand the seasonal patterns contributed to a strong December quarter. So, I'd like some
+help understanding how to think about sort of normalized trends in Digital Services in light of the
+announcements you've made on the BSS.
+And then in terms of trending, I know you commented earlier about not seeing evidence of
+gaining business from the Huawei backlash that's emerging globally. I understand this will take
+time to play out, but I'd like to hear what you're hearing from customers and see if we can try to
+quantify a longer-term opportunity, if non-Chinese and non-U.S. operators start to shun Huawei.
+Thank you.
+A - `Carl Mellander, Senior Vice President, Chief Financial Officer & Head-Group Function Finance `
+Hi, Simon, Carl. On the seasonal pattern, yes, there is a certain seasonal pattern, I will say, in
+Digital Services and one of the drivers here is also the fact that we are running project business
+here and depending on when milestones happen not in different projects then, both volumes
+and profitability will vary. So, it's going to be difficult to take one quarter and extrapolate right out
+of that actually. What I also can say was that in Q4 we had a positive impact also by core contract
+in North East Asia that we have talked about actually a couple of quarters that it would be coming
+and it did come in in Q4, and it was sort of delayed from Q2 even. And that did come in to impact
+the numbers in Q4.
+A - `Erik Börje Ekholm, President, Chief Executive Officer & Director `
+And if you take the next one, what we see today is really that – I would say nothing. That's what
+we see. We see customers that are raising the question what does this mean, what's going to
+happen. They have a concern that's quite clear, but no one really knows. So, we have a bit of
+uncertainty more put a hold on investments more than anything else. That's the reality of what we
+see. And then, it becomes very speculative to think about what's going to happen.
+So, I'd rather think that we should run the company from what we know and what we can control.
+So, what we can control is what solutions do we provide to customers, and that's basically
+continuing to invest in R&D for 5G leadership and lead the way for our customers into 5G. If we
+can do that and provide our customers with the best possible solution to deal with the growing
+traffic as well as create new business opportunities for them, then we have the real business
+that's sustainable. That's the thing that we will continue to focus on.
+Q - `Simon M. Leopold, Analyst, Raymond James & Associates, Inc. `
+Thank you very much.
+A - `Erik Börje Ekholm, President, Chief Executive Officer & Director `
+Thanks, Simon. So, next question, please.Thank you. Our next question comes from `Sandeep Deshpande, Analyst, JPMorgan Securities Plc of JPMorgan. Please go ahead.
+Your line is open.
+Q - `Sandeep Deshpande, Analyst, JPMorgan Securities Plc `
+Yeah. Hi, Börje. I have a question. You talked quite extensively in your opening remarks on the
+OSS/BSS business of Ericsson and as you rightly said, for past many years it has not been
+profitable. How have you thought about the strategic positioning of that business within Ericsson
+itself, given that now you've created a very sustainable Networks business, is it needed in
+Ericsson along with as when it will be much lower margin than your Networks business? And does
+it add value for Ericsson to be in this business in the long term?
+A - `Erik Börje Ekholm, President, Chief Executive Officer & Director `
+And if you look at the total Digital Services business, that's our core, it's our OSS and it's the BSS
+basically. What we see is that the link between the Networks business and the Digital Services in
+the sense of the 5G core as well as the OSS is very tight. So, we believe Digital Services actually
+has an importance for Ericsson, going to be more important in the future rather than less
+important. And we will see the lines between the 5G core and the RAN to actually be more
+blurred than anything else.
+And you already know we need the OSS system from Digital Services to run the radio network.
+So, there it's a very – we will then sell radio network without that anyway. So, we see Digital
+Services as a critical part of the company going forward, but that's also why we need to get to a
+certain profitability level and we can't have a part that's not contributing to the whole. That's why
+we're focusing on how to turn that around. We knew it would take two to three years to turn it
+around, but we feel very comfortable we're on that journey. Longer term, we should clearly find
+opportunities to have a much better margin profile in Digital Services than the single digits, but I
+think we need to reach profitability first before we talk about the next step.
+Q - `Sandeep Deshpande, Analyst, JPMorgan Securities Plc `
+Thank you.
+A - `Erik Börje Ekholm, President, Chief Executive Officer & Director `
+Thank you. Next question, please.
+Operator
+Thank you. Our next question comes from `Jörgen Wetterberg, Analyst, Nordea Bank ABP of Nordea. Please go ahead. Your
+line is open.
+A - `Erik Börje Ekholm, President, Chief Executive Officer & Director `
+Hi, Jörgen.
+Q - `Jörgen Wetterberg, Analyst, Nordea Bank ABP
+Yes. Hi. Thank you. So, I wanted to ask a question on the strategic partnerships that you
+announced with Juniper and ECI in September last year. If you could share some flavor on how
+that's going and if you are seeing any traction business-wise from those partnerships, or if that's
+more kind of a post early 2016 story. Thank you.A - `Erik Börje Ekholm, President, Chief Executive Officer & Director `
+Yeah, so far we're – it's a very small contribution so far to the business. We are still in the early
+phases of those partnerships, and we are working quite hard to develop some joint offerings.
+And we will see where the partnership takes us over time. That's why you don't see us make a
+big splash about it. It's more how are we going to develop our cell site router and be able to
+offering end-to-end core routers and edge routers as well. But it feels like we're progressing
+those discussions quite well. We will see where they take us; so far very little.
+Q - `Jörgen Wetterberg, Analyst, Nordea Bank ABP
+Okay. Thank you.
+A - `Erik Börje Ekholm, President, Chief Executive Officer & Director `
+...Jörgen. So, next question, please.
+Operator
+Thank you. And our next question comes from the line of `Tal Liani, Analyst, Bank of America Merrill Lynch of Bank of America. Please go
+ahead. Your line is open.
+A - `Erik Börje Ekholm, President, Chief Executive Officer & Director `
+Hello, Tal.
+Q - `Tal Liani, Analyst, Bank of America Merrill Lynch `
+Hi. Yes. Hi. Good morning. I have a question on Huawei/ZTE. If the reports are correct – and I'm
+sure that you've had some discussion with your customers about what happens if they want to
+replace Huawei or ZTE for security reasons. So, the question is, what kind of financial
+arrangement is going to be to finance it in the sense that could we see – let's say that it cost $1
+billion to replace a current vendor which is what we read is the cost, some carriers are saying
+that's the cost to replace Huawei. Will you be required to provide vendor financing? Have you had
+any discussions like that with customers? Who pays for such a move? Number one.
+And number two, in that scenario, in such a scenario where Huawei and ZTE are being replaced
+for 5G, what do you think is going to happen to pricing? Are you going to see them more
+aggressive in pricing? Or what do you expect will happen to pricing and margins, et cetera? I'm
+trying to understand the implications of Huawei/ZTE being replaced in certain countries. And if
+that happens, what happens to pricing in the market? Thanks.
+A - `Erik Börje Ekholm, President, Chief Executive Officer & Director `
+I think you ask a very good question, but also a very speculative question. That is very hard for me
+to kind of paint that picture. I think this will have to play out in the market. So, I'm sorry, you're – I
+think I cannot really respond to it. I can't really say what is going to happen. What I do think,
+though, is that we need to work with our customers to help them solve their problem, and that's
+really the communication problem at the end. That's what we are going to continue to focus on
+rather than trying to speculate about the future.
+Q - `Tal Liani, Analyst, Bank of America Merrill Lynch `Okay. Let me ask a different question, not related. Can you discuss your participation in China?
+And any of – do you see – what are the opportunities there? And do you see all these issues with
+Huawei and ZTE globally? Does it have any relationship or any impact on your business in China?
+A - `Erik Börje Ekholm, President, Chief Executive Officer & Director `
+Yeah. China will be one of the first markets in the world to deploy 5G. It's going to be the first to
+do it on scale, and it will most likely be the first with a stand-alone 5G network. So, we are
+investing heavily to make sure that we are a technology participant in that evolution of their
+network. It's an important market for us and we continue to be there. We do the field trials
+needed. We do all the testing needed. And our ambition is to continue to do that.
+A - `Peter Nyquist, Vice President, Investor Relations `
+Okay, Tal?
+Q - `Tal Liani, Analyst, Bank of America Merrill Lynch `
+Yes.
+A - `Erik Börje Ekholm, President, Chief Executive Officer & Director `
+Thank you. We will continue to the next question.
+Operator
+Thank you. Our next question comes from the line of `Stefan Slowinski, Analyst, Exane BNP Paribas of Exane BNP Paribas.
+Please go ahead. Your line is open.
+A - `Erik Börje Ekholm, President, Chief Executive Officer & Director `
+Hi, Stefan.
+Q - `Stefan Slowinski, Analyst, Exane BNP Paribas `
+Yes. Hello. Thanks. Just wanted to follow up regarding those strategic network contracts, seems
+like you've had some nice wins over the last 12 months in the U.S. and Europe and China. And are
+you suggesting that – I mean, you're suggesting that you're getting impacted by the cost of
+some of those contracts. But do you think these situations are already reflected in the revenue
+results in 2018? Or does the top line benefit from the strategic contracts still ramp in 2019?
+And secondly, you're implying that you're winning these deals based on technology in the
+platform. Do you see that advantage as sustainable? Or was that just a window of opportunity
+that has closed or will close? Thank you.
+A - `Erik Börje Ekholm, President, Chief Executive Officer & Director `
+What happens is when – the bookkeeping rules forces you to take the cost up front and the
+revenues over time. That's what's happening. So, that's why it's impacting 2018. If you look at the
+sustainability of wins in R&D, really comes from the continuous investment in R&D. So, we
+established a very competitive portfolio, and we are going to continue to offer new features
+that's going to drive differentiation for the user of our product just like the – that our hardware
+from 2015 is software upgradeable to 5G. That has been a competitive advantage for the
+customers that bought that hardware before.Even more interesting is, for example, dynamic spectrum sharing, which again will benefit from
+our hardware where we can dynamically and instantaneously allocate spectrum between 4G and
+5G to arrive at a very cost-efficient way to build out the 5G network. That's again a feature very
+hard for somebody else to do unless their hardware is upgradeable to 5G. So, I do believe by
+continuous investments in R&D like we do now, we are going to create a sustainable advantage.
+Q - `Stefan Slowinski, Analyst, Exane BNP Paribas `
+Okay. Got it. Thank you very much.
+A - `Erik Börje Ekholm, President, Chief Executive Officer & Director `
+...Stefan and we are now open for the next question, please.
+Operator
+Thank you. The next question comes from `Achal Sultania, Analyst, Credit Suisse Securities (Europe) Ltd. of Credit Suisse. Please go ahead. Your
+line is open.
+Q - `Achal Sultania, Analyst, Credit Suisse Securities (Europe) Ltd. `
+Hi. Good afternoon. Just one question on the next 5G countries; so as we think about Japan and
+Korea this year at some point when they begin with 5G rollouts, should we expect the nature of
+those contracts similar to what you've seen in the U.S. in the last couple of quarters? I'm asking
+more this from a margin point of view. Like, should we expect similar kind of a benefit that you've
+seen in the U.S. to come when the Japanese and the Korean telcos start with 5G this year? Thank
+you.
+A - `Erik Börje Ekholm, President, Chief Executive Officer & Director `
+Still 5G is very early on in its penetration, so what you see initially is the hardware deployment to
+solve the traffic need. And it's typically more 4G heavy, and it depends a little bit on individual
+customers how that mix looks like. So, it's very hard to generalize, but we have no reason to
+believe that the margin structure we see today would not be the one you would see in the future.
+Q - `Achal Sultania, Analyst, Credit Suisse Securities (Europe) Ltd. `
+Okay. Thank you.
+A - `Erik Börje Ekholm, President, Chief Executive Officer & Director `
+Thank you, Achal. We're open for the last question for this session.
+Operator
+Thank you. And the last question in the queue comes from `Richard Kramer, Analyst, Arete Research Services LLP of Arete Research.
+Please go ahead. Your line is open.
+A - `Erik Börje Ekholm, President, Chief Executive Officer & Director `
+Hi, Richard.
+Q - `Richard Kramer, Analyst, Arete Research Services LLP `Thanks very much. Börje, I'd like to challenge the narrative about Ericsson recovering somewhat
+because you mentioned restructuring close to 150 times in your release, and it seems to me your
+comment about being increasingly confident about reaching your margin targets comes after
+you've just taken another SEK 6 billion in charges. Can you commit now to 2020 and beyond
+targets which are going to be excluding these exceptionals, provisions and restructuring that we
+see so often?
+And I guess alongside that, you told me at the 2017 CMD that the cash flow was the real measure
+of the business and that Ericsson is still delivering returns that are – I think it's fair to say – well
+below its cost of capital. Could you possibly amend your targets to include free cash flow that
+shows returns above your cost of capital which obviously get affected by these frequent
+provisions and restructuring charges? Thanks.
+A - `Erik Börje Ekholm, President, Chief Executive Officer & Director `
+Richard, the reality is we come into a situation where the company was in a very bad shape. It's
+not going to turn around, and I also said that when we met in 2017, it's not going to turn around
+over a weekend. It's not automatic to turn around in a business where the equipment has a very
+long life cycle built upon an investment life cycle in the beginning, and you actually reap the
+benefits over time.
+So, the notion that you can make a very quick change and, all of a sudden, you have turned
+around, I don't believe in that. And I said that to you then as well. So, what we do is we said that
+this is going to take until 2020 to get to the first level, i.e., 10% operating margin ex-restructuring,
+and we said that longer term we should be at 12%. Well, I'm fully committed to reaching those
+targets. Over time, we have also said that restructuring should be less than 1%. I'm fully
+committed to that target as well.
+So, those are no change, but I also feel that we need to take the actions in order to turn the
+company around in a timely manner. That's why we took the costs now on reshaping the BSS
+strategy because it's all about creating a stronger Ericsson, not on Monday next week, but 5 to 10
+years out. That's my commitment. That's my commitment to the shareholders. That's my
+commitment to the board. That's my commitment to my colleagues. We're here to create a
+stronger company 5 to 10 years out.
+A - `Peter Nyquist, Vice President, Investor Relations `
+Okay. Thank you, Richard.
+And then we'll, operator, continue to conclude this call. And before I hand over to Börje to
+conclude this, I would like just to remind you on the Mobile Congress between the 25th and 28th
+of February and you're all welcome to sign up for the IR and the media event there. So, you're all
+welcome down there.
+By that, I would like to hand over to Börje to conclude the call.
+A - `Erik Börje Ekholm, President, Chief Executive Officer & Director `
+Thank you, Peter. So, in concluding we would say we are – we have with the 2018 shown that our
+strategy, a focused strategy, and by investing in R&D for technology leadership is yielding the
+results that will bring us to the targets for 2020 of 10% plus operating income. We remain
+committed to continue to invest in R&D for technology leadership, as well as to remain disciplinedon our cost position and manage the overall P&L and cash flow from overall guidance we've given
+to the market.
+So, we see now that we have created a strong platform for Ericsson, and from that platform we
+can now take advantage of growth opportunity. We are going to do that on a disciplined way and
+selective way, but we are also now seeing a brighter future and a much more stable company. So,
+we feel overall that we're in a much stronger position today.
+With that, thank you, everyone, and have a good weekend. Thank you.
+A - `Carl Mellander, Senior Vice President, Chief Financial Officer & Head-Group Function Finance `
+Thank you.
+Operator
+This now concludes the conference. Thank you all very much for attending. You may now
+disconnect.

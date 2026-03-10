@@ -1,0 +1,915 @@
+Y 2019 Earnings Call
+
+Presentation
+Operator
+Good day, ladies and gentlemen, and welcome to the Volkswagen AG Live Audio Webcast and
+Conference Call on the Financial Results 2019. For your information, today's conference is being
+recorded.
+At this time, I'd like to turn the conference over to Ms. `Helen Beckermann, Head of Group Investor Relations. Please go ahead.
+`Helen Beckermann, Head of Group Investor Relations `
+Ladies and gentlemen, welcome to Volkswagen's conference call for investors and analysts on
+the full-year results 2019 based on the annual report, which we published early this morning.
+For today's conference call, I'm delighted to be joined by `Herbert Diess, Chief Executive Officer, our CEO; `Frank Witter, Chief Financial Officer,
+our CFO; and `Christian Dahlheim, Director Group Sales, our Director of Group Sales of the Volkswagen AG, who also
+look forward to taking your questions.
+We are also very pleased to welcome `Frank Blome, Head of Business Unit Battery Cell from Volkswagen Group Components. He is
+the Head of Business Unit Battery Cell there; and `Sebastien Fischer, Head of Group and Brand Battery Procurement, who's Head of Group and
+Brand Battery Procurement. `Frank Blome, Head of Business Unit Battery Cell will give an insight into our battery technology, and
+following that both Frank and Sebastien will be available for Q&A.
+Most of you will have followed the webcast from this morning's Annual Press Conference. Our
+focus now is to cover your specific needs as investors and analysts. So let me now hand you over
+to Frank who will open today's session with a brief overview.`Frank Witter, Chief Financial Officer `
+Yeah. Thank you, Helen and a warm welcome to all participants in this call. Without a doubt, we
+have proven our robustness with our 2019 figures that gives us a springboard in 2020. However,
+the scale of the coronavirus has thrown a real curve ball and is having an impact all over the
+globe. For example, pulling the stock market severely down with it. This presents an
+unprecedented challenge. Certainly we cannot exclude Volkswagen from these developments.
+We announced our outlook at the end of February. We assumed the situation would normalize
+within a reasonable period of time. Whether this assumption is still viable is now to be seen over
+the next couple of weeks and months. Let's be clear. Nobody knows at this point the severity and
+duration of corona. Nobody can reliably quantify the knock-on effects. This makes it near to
+impossible to provide reliable forecast today. However, we are not giving up the fight yet. We're
+in full task force mode and we utilize any counter measures we have to take care of our people
+and stabilize our business. We are still very early in the year and some normalization and catch-up
+can still occur. We will, of course, be constantly reviewing the situation depending on the further
+developments.
+As you are well aware, we also have the pressure of CO2 compliance, achieving the timely launch
+of CID and securing better results supply. Nevertheless, over the last couple of years, especially
+in 2019, we have proven our resilience and flexibility. Our group has highly flexible production
+networks, the flexible tools within our so-called breathing factories. We have options to change
+shift patterns, while use employee time accounts.
+Our purchasing areas are working intensively with various suppliers around the globe. We will
+continue to focus on high-margin cars and we'll phase out certain low-margin cars with poor CO2
+footprint. We'll continue to stringently reduce costs. We will also push further on the existing Brent
+efficiency programs. Through even stricter steering of the brands and continued discipline with
+our platform roll out, we will strive for further synergies.
+On the products side, we are bundling more vehicles in more assemblies, Peugeot, Passat and
+Superb, and further reducing complexity and variances.
+Let's now take a closer look at some of our strategic KPIs. To be abundantly clear for CapEx and
+R&D, we continue to strive for a 6% ratio each. Certainly, it will be challenging since turnover is
+working against us this year. We still target automotive cash flow of at least EUR10 billion, ex-
+diesel outflows and M&A. Of course, robust underlying performance is a prerequisite for all
+sources.
+In relation to M&A activities, you all are well aware that the automotive industry is transforming at
+a very rapid pace. For example, within the areas of mobility services and digitalization. Therefore,
+we are continuously looking into options to strengthen our core business. You know about the
+collaboration with Ford and Argo, our invest in Northvolt as well as a possible further cooperation
+in China related to E-Mobility and battery cell technology.
+Buying Navistar is strategically a good idea as the US truck maker well fit into TRATON's global
+champion strategy. However, we are determined not to pursue that project at all cost.
+Please take note that the net liquidity outlook that's also laid out in our Annual Report 2019 does
+not take into account the potential takeover of Navistar since we are not far enough in the
+process.To wrap up my opening. I think you well -- as you know us by now, we are not writing off the year
+yet and we will push ourselves to the limit.
+For now, back to Helen.
+`Helen Beckermann, Head of Group Investor Relations `
+Thank you, Frank. We will now start with the first Q&A session. So feel free to direct your
+questions to Herbert, Frank and Christian. As mentioned, following that, we will switch for the
+remaining 30 minutes to the battery topic with `Frank Blome, Head of Business Unit Battery Cell and `Sebastien Fischer, Head of Group and Brand Battery Procurement.
+Operator, over to you.
+Questions And Answers
+Operator
+Thank you. (Operator Instructions) We will now take our first question from `Tim Rokossa, Analyst, Deutsche Bank from
+Deutsche Bank. Please go ahead.
+Q - `Tim Rokossa, Analyst, Deutsche Bank `
+Yes, good afternoon, everyone. It's `Tim Rokossa, Analyst, Deutsche Bank from Deutsche Bank. I would ask two questions
+please. I would have not asked because I figured that you didn't want to say anything else and I
+agree that it's impossible to quantify. But, Frank, you did give us an indication for Q1 EBIT this
+morning. You must run your operations on some sort of scenario for the full year as well. Are you
+somehow happy to help us on that side as well as maybe assuming that Q2 halving and then
+some sort of stable year-on-year scenario maybe the most likely right now? And also when we
+look at the annual results data, you seem to have ample cash and credit lines on hand. Has
+anything changed to those numbers as we speak today?
+And then secondly, that's probably for you Herbert. I think China tells us that we can eventually
+move up from this coronavirus hopefully as difficult as it is to deal with this and the strategy -- if
+any sort of strategies are in the process? And I suspect that the majority of investor interest of
+when we move to the ID.3 again. You confirmed the launch again for the summer. In the press,
+there is a lot of talk about this, but basically everyone is just copying one single article. Can we
+talk about what exactly the problem is with the ID.3? And also when it comes to cell availability for
+the e-tron for example. Thank you.
+A - `Frank Witter, Chief Financial Officer `
+Yeah, hi, Tim. Let me start with the easy questions, and Herbert take the rest. Yeah. Operating
+profit I think we made it abundantly clear that it is extremely difficult to quantify any numbers at
+this point of time. I said earlier this morning for the operating profit Q1, you might remember that
+we had a very strong first quarter last year with an operating margin of 8.1% basically ending up
+with a bit over EUR4.8 billion. Best guess from what I know today is that probably half of that
+number is probably the most realistic outlook for Q1 and there is no way that I can go beyond that
+since we are currently talking about close down of factories. We don't know what other measures
+from the politics will come. So customer reaction the length and duration of the coronavirus
+situation is difficult to predict. I think you might have picked up this morning from Herbert's
+speech that we take some help from the developments in China and the way the market's
+reacting. Basically pretty strong January, was around about 1.8 million cars, basically followed by
+non-existing February with just 250,000 cars and now from March the numbers are between
+800,000 and 1 million. So there is clearly the hope that there is life in the markets right after theworst of the corona situation. But we have to see how the situation will develop in Europe. So in
+that respect, the Q1 touch and feel I gave is the very best I can do at this very moment.
+In terms of liquidity, I mean, you're hitting the nail on the head. Liquidity is after taking care for our
+people and their families. The very most critical subject we have, we assume that we have
+continuously access to capital markets, and particularly bank loans, we have secured and
+committed credit lines. So from that respect, also taking a close look at our outflows is what we
+manage and what our most focus is on.
+So in that respect, day by day, there are currently more bad news to come before the situation is
+going to improve. But we take the liberty to also look very closely and regularly to China.
+Operator
+We will now take our next question from `Patrick Hummel, Analyst, UBS from UBS.
+A - `Helen Beckermann, Head of Group Investor Relations `
+Excuse me, operator, we still have a statement from Mr. Diess. So if you could just --
+Operator
+Oh well, my apologies.
+A - `Helen Beckermann, Head of Group Investor Relations `
+Okay, thank you.
+A - `Herbert Diess, Chief Executive Officer `
+Hey. Yeah. Getting back to China, I think it was well discussed already this morning. Frank gave
+some details. I think we are quite hopeful that because China shows that this crisis can be
+managed if you're tough on the, let's say, disciplinary measures and focused on re-launching the
+economy and pushing. I think it's too early to judge how are we going to end up in China, but if it
+really can be contained in this kind of first quarter and then we get back to normal again, I think
+China is not yet lost for this year. And also many people have discussed China -- the huge
+exposure of Volkswagen to China is a risk. I think it's -- actually it's an opportunity because I'm
+quite confident about China, whereas Europe and the rest of the world is quite uncertain today
+because it will depend a lot how good can we manage the crisis and how strong will
+governments react to stimulate the economy afterwards.
+So, getting to Europe. But if you're optimistic now and if we assume that probably we are a bit
+earlier in detecting the -- and we have learned from China and if we would assume that we can
+react in a better way than -- the same way than China then we talk about a loss quarter, basically,
+which is probably the most optimistic scenario. And it can be reversed. But I would say still, it can
+be -- if we are optimistic, it can be done.
+Second question was ID.3. Yes, I think also discussed in public ID.3 is our first really updatable --
+upgradable architecture, software architecture. The cars are -- I have been visiting the plant last
+week, the cars are in good shape. It's extremely fun to drive. I think we are very confident to plan.
+I'll say, people are very confident about product, product substance and many ID.3s are driving
+around Wolfsburg and everyone is enjoying. So what's the problem? We still have to, let's say, fix
+a few software instabilities, and for us this is a challenge, because you know it's the first time we
+really move in an area where we run a kind of an Internet device on open road, so we have tomake sure that it works reliable and we don't confront our customers with some launch problems.
+That is why we are cautious.
+If -- let's say, if we compare ourselves to some of our peers or let's say the more -- on the more
+innovative side, probably would already sell the car and call it a better version. Yeah, we don't do
+that. We want to fix all problems and only when it's super quality and satisfies every customer, we
+will launch the car. But we are confident that that still can happen in summer, it will happen in
+summer. You know, there will be now constraints in how we work together also on the software
+side, because we have to reduce the size of the teams, we have to work more on remotely from
+different locations. But this community, software community is trained to do that. We stay
+focused. So yes, we are confident to launch the product in summer. If we -- we're also talking to
+shut down the plant for a few weeks, which still would allow us to achieve the planned volume.
+And the second thing about CO2 compliance, as Frank mentioned, are the batteries, battery
+suppliers is a tough supply chain. I think you will have half an hour later to really get into the
+details. The plants are built up and there will be, for sure, also some influence from corona in the
+ramp-up of the plants. But I still hope that the ramp-up will run smoothly and this right logistics
+and infrastructure in the right dedication. So I would say from both sides software and batteries, it
+can be done.
+You then mentioned e-tron. I think e-tron is a success story for us. Only in the first two months, it
+could take over the lead in some of the markets in Norway. In Germany, it's leading the premium
+EV market. So the product is well received, but also e-tron ramp up depends on battery supplies.
+And you might raise one or the other question later to our specialist, but I'd say, I think the
+situation is improving continuously and will improve further more.
+So all in all, we are -- that is why, we all in all, we still believe and we trust that we can achieve our
+CO2 targets in 2020 and '21.
+Q - `Tim Rokossa, Analyst, Deutsche Bank `
+Thank you. Just as a follow-up from a technical perspective. Can you update the software over-
+the -air for the ID.3 once it's ready?
+A - `Herbert Diess, Chief Executive Officer `
+Yes, we can. Not the entire car, but crucial functions we can update.
+Q - `Tim Rokossa, Analyst, Deutsche Bank `
+Thank you.
+Operator
+We'll now take the next question from `Patrick Hummel, Analyst, UBS from UBS. Please go ahead.
+Q - `Patrick Hummel, Analyst, UBS `
+Hi, good afternoon, everybody. I also have two questions. First one for `Herbert Diess, Chief Executive Officer, please,
+regarding the political situation right now. It seems that of course in the midst of the crisis, the
+political focus stimulus rises on providing liquidity to all industry to avoid bankruptcies and to keep
+people in their jobs and make sure they get paid. What do you think happens a few months out?
+Do you expect a widespread car-specific stimulus to kick in, in the major markets, so that we
+could see a substantial recovery in H2? And would you expect such car-specific stimulus to beskewed towards lower emission vehicles that would make it easier for you to potentially to be
+CO2 compliant?
+And my second question goes to Frank, please. Your net liquidity situation, I think everything
+above $20 billion is what you would call a comfort zone. Can you also talk about what is absolute
+minimum to ensure business continuity for the next few quarters? And what would you expect to
+happen to working capital, specifically in the next few months? What's falling faster? Is it demand?
+Is it production? How are you going to maneuver through that from a working capital standpoint?
+Thank you.
+A - `Helen Beckermann, Head of Group Investor Relations `
+Yes, you're right, the first focus of politicians in Europe and Germany, as far as I understood is on
+liquidity to make sure that competent companies will not fail because of that and we're seeing
+that there will be support as well on the supplier side, which is probably the most in some aspect,
+the most vulnerable part of our business. And also when it comes to dealers, we also -- we
+agreed already a few measures about the credit lines dealers receive from us, so I think that
+should be manageable. Understanding that there is a big support from politicians throughout
+Europe to make sure that the industry is not failing because of corona.
+When it comes to stimulus programs. I think it's still too early, even politicians don't think yet in
+such thing. Also we have to say it's probably the biggest impact corona has is on the
+development of the -- economic development of growth and what's going to happen afterwards.
+So we would welcome such programs. But I think it's too early and I think those programs will be
+discussed between the VDA here in Germany and ACEA in Europe. But I can imagine that after,
+let's say, managing the now time critical point of the crisis, we should start about thinking how we
+can revitalize the industry after after the crisis and I hope for such programs. But so far we don't
+know any details and I think it needs -- requires a certain time of consolidation, because such
+things have to be agreed between politicians and our representatives, so far from my side.
+Yeah. We're seeing, you know, is there an advantage for complying with CO2? Yes and no. It
+depends on how the stimulus -- how you can imagine stimulus programs. We think that the mix
+should not be so much different after let's say the corona crisis because people's priorities will
+remain the same. We are well prepared with all our electric cars hitting the market basically mid-
+year. The cars we have in the market are well received. We have relatively long lead times for the
+deliveries because we basically outsold on some of the electric cars like the electric-Up, electric
+Golf, also the plug-in hybrids are basically sold out through half of our years. So yes, it's possible
+to achieve the targets with the current mix. We hope that through the year, we even can probably
+gain some more share of EVs and PHEVs if we maintain battery supply as planned.
+Q - `Patrick Hummel, Analyst, UBS `
+Thank you.
+A - `Frank Witter, Chief Financial Officer `
+Yeah. Hi, Patrick. Regarding the question you had on the net liquidity. I mean, you know that we
+basically have as a strategic target the 10% of revenue, and for the year, it's closer by greater
+than 20 billion. This is basically the framework under normal circumstances. Why are we so
+focused on net liquidity? Because it also is very relevant other than EBIT for the rating agencies.
+This is the key issue. You know, our business model, the support and the -- also the contribution
+to the P&L, we need from financial services, but we also have a lot of refinancing to be done on
+an annual basis.So we are in close contact with the rating agencies. I think we have proven over time that we're
+as predictable as it gets in our industry. We did hit over the last couple of years all relevant KPIs.
+So we certainly will be able to explain the volatility we are having through corona within that
+number. From today's perspective, it is even more important to have full access to credit lines,
+commercial paper markets fand capital markets. But certainly not going under 10 billion is my
+personal floor and as close to 20 billion within those days and weeks is something where we try
+to manage it.
+But there are a lot of question marks in terms of how long will factories be closed, how much can
+we optimize in and outflows from other sources. So that's pretty much the situation. You know
+that, we improved the inventory situation in the last two months of calendar year 2019, I think by
+around about 130,000 units. That certainly helps. But obviously in the next couple of weeks, we
+will daily update our numbers.
+Q - `Patrick Hummel, Analyst, UBS `
+And more specifically, Frank, if I may follow-up on working capital, is there any chance that you can
+more or less synchronize production with demand? It feels like demand in Europe is probably
+because of all the lockout completely falling off a cliff and you haven't shut down all your plants
+yet. So is there a risk that there is going to be a lot of cash absorbed by working capital in the
+next month or two?
+A - `Frank Witter, Chief Financial Officer `
+I mean, certainly we need to very carefully balance the act particularly also in the German
+premises. So focus is, as you rightly point in the direction that inventory management is
+particularly critical. I'm looking over to Christian because he certainly is a key driver in terms of
+how effective other than the production area we are in that respect. So you can be rest assured,
+this actually gives me quite comfort just anecdotally [ph] to refer to meetings we are having once
+or twice a day over the last couple of weeks. Every brand, every senior manager was talking
+about without being asked or pushed about liquidity and inventories, and this is truly encouraging,
+and you know us, over five years ago that would have not been the focus and now handing over
+to Christian.
+A - `Christian Dahlheim, Director Group Sales `
+Maybe, Patrick, allow me two remarks, first on what happens to demand. Currently, you're of
+course right, given the fact that most of the dealers are closed, we see a plummeting in demand
+but that's the reason why we give interest-free payment periods to our dealers, or what that
+mean, the dealers can still pull cars from us. Technically, we then sell these receivables to our
+bank, which effectively generates liquidity from the European Central Bank. So in terms of
+automotive liquidity, we actually generate the cash by driving the receivable to our Volkswagen
+Bank.
+Second remark, when you ask about cost stimulus, you essentially ask what's the assumption on
+the demand pick up after the crisis is over. Maybe I'd just like to point out two things. One is, we
+have an order bank of about 2.5 to 3 months existing in our books that we can deliver. Second, as
+you know, Europe is -- 50% of the market in Europe is commercial, so our commercial customers,
+if they're in regularly lease cycles, will, once everything is hopefully over, come back to more
+regular ordering because this lease cycles extend. While we are not totally relaxed, we feel we're
+pretty confident that demand will pick up as expected.
+Q - `Patrick Hummel, Analyst, UBS `Thank you very much.
+Operator
+(Operator Instructions) We will now take the next question from `Horst Schneider, Analyst, Bank of America from Bank of
+America. Please go ahead.
+Q - `Horst Schneider, Analyst, Bank of America `
+Good afternoon, it's Horst here. Thanks for taking my questions. Yeah, I want to constraint myself
+really just to one question. Maybe a question to `Herbert Diess, Chief Executive Officer or maybe to Frank, don't know.
+Could you maybe explain to us the logic or the consequence of a plant shutdown? How can we
+calculate the best cost coming from that? The plain assumptions I would take, I would look at your
+daily production in Europe or monthly production roughly, I don't know 450,000 cars. I would
+multiply that with the average selling price and then I will calculate the fixed cost that you have
+got on the sales. It takes me to quite substantial numbers. It takes me maybe to an -- I don't
+know, 30% leverage assuming it would take me to a significant cost impact. Is that the right way
+calculating that? I know that you also have got this quota-backed [ph] schemes and you get some
+refund from the government. But keeping that aside, how can I best calculate the cost for a plant
+shutdown? Thank you.
+A - `Herbert Diess, Chief Executive Officer `
+Let me start with it, Horst. The rules and regulations do vary country by country. And we are
+basically, as we speak, negotiating with the respective authorities, how each individual case is
+being treated and what type of support is available by law and regulation. So there is not one
+number. But I think your assumption is right. It is certainly a major drain and we are pulling on all
+levers to work against it. But I think there is not one number, not even in Europe because the rules
+are quite different in each and every jurisdiction.
+Q - `Horst Schneider, Analyst, Bank of America `
+But if the calculation is right, then the cost would amount to EUR100 million to EUR150 million per
+day, right?
+A - `Herbert Diess, Chief Executive Officer `
+I never did pretend this would be an easy exercise.
+Q - `Horst Schneider, Analyst, Bank of America `
+Okay, thank you very much. And all the best by the way.
+Operator
+We will now take the next question from `Michael Raab, Analyst, Kepler Cheuvreux from Kepler. Please go ahead.
+Q - `Michael Raab, Analyst, Kepler Cheuvreux `
+Yeah, hi. Thanks. Mike Raab, Kepler Cheuvreux. Please excuse my short coming, but I wasn't able
+to follow your explanation this morning about the expected timing profile of further cash outflows
+related to diesel. So, could you please just as housekeeping issue remind me of that. Thank you.
+A - `Herbert Diess, Chief Executive Officer `Yeah, I think there was also some misunderstanding this morning from one of the colleagues with
+respect to the difference between the items hitting the P&L and what is basically on an annual
+basis, the related cash payments. From an P&L perspective, since 2015, EUR31.3 billion of special
+items have been booked, including the EUR2.3 billion in the 2019 accounts and the cash out for
+diesel until December 31, 2019 is EUR26.2 billion, if I'm not mistaken. And in addition, a payout in
+calendar year 2020 of approximately EUR2.9 billion is being assumed, bit north of EUR1 billion in
+'21. This is very best we can currently assume. So there was a bit of a confusion and I appreciate
+the opportunity to clarify that for that audience again.
+Q - `Michael Raab, Analyst, Kepler Cheuvreux `
+All right, thank you. So it wasn't just me. All the best and stay healthy. Thank you.
+Operator
+We will now take the next question from `George Galliers, Analyst, Goldman Sachs from Goldman Sachs. Please go ahead.
+Q - `George Galliers, Analyst, Goldman Sachs `
+Thank you for taking my question. I just had a question for you again kind of on profitability in a
+stress scenario. What kind of volume drop in Europe can Volkswagen Brand sustain and still
+remain breakeven? So some of your competitors have provided some insight into what kind of
+volume decline can be withstood and the company would still be breakeven. Can you give that
+kind of insight for Volkswagen Brand? Thank you.
+A - `Helen Beckermann, Head of Group Investor Relations `
+All right, just to clarify, do you mean for the Group or for the brand, George, you said brand,
+right?
+Q - `George Galliers, Analyst, Goldman Sachs `
+Specifically for Volkswagen Brand, correct.
+A - `Helen Beckermann, Head of Group Investor Relations `
+Okay, thank you for that clarification.
+A - `Herbert Diess, Chief Executive Officer `
+Yeah, around about, I would say, 60% is probably a good number to look at. Obviously, also a set
+of assumptions being applicable. But this is pretty much a number, which you could carry away.
+Q - `George Galliers, Analyst, Goldman Sachs `
+And just to clarify, would that be a 60% decline or 60% of where the volumes are or were in
+2019?
+A - `Herbert Diess, Chief Executive Officer `
+I think around about 60% utilization of capacity, this is what the assumed interpretation is.
+Q - `George Galliers, Analyst, Goldman Sachs `
+Okay. Thank you.Operator
+Thank you. We'll now take the next question from `Jose Asumendi, Analyst, JP Morgan from JP Morgan.
+Q - `Jose Asumendi, Analyst, JP Morgan `
+Many thanks. Jose, JP Morgan. Frank, can you talk a bit about financial services, what happened in
+the last financial crisis in financial services? What lessons -- key lessons learned, did you take from
+the last downturn? How well capitalized is the business? And any thoughts around refinancing,
+how you finance the financial services entity? Thank you.
+A - `Frank Witter, Chief Financial Officer `
+Yeah. Hi, Jose. Certainly financial service is an essential part of our business model. I think from --
+in all respect, it's fairly capitalized for that type of business. What matters the most in the crisis,
+and I've seen quite a number of crisis in all those years is the quality of your portfolio, that is the
+best protection you have. And I think we have proven over decades that we are able to secure --
+have been able at all times to securitize our assets, because we are known for quality portfolios
+and that's what we can build on. We have a highly diversified portfolio. It's widespread with a
+portfolio predominantly in retail. We are very international. So we have also a very international
+footprint and diversified portfolio in that respect.
+So in that respect, I'm quite comfortable. And you also know from all the years that we have been
+quite conservative in the way we allocate to reserves and the way we set residual values and we
+also are not known for buying junk paper as you know from the US, it's a big market, but it's not a
+market we are in. We feel reasonably comfortable, but we will certainly watch very closely how
+the new car and used car markets are developing. But from today's perspective, I think we are
+reasonably well prepared, but obviously length and how intense the situation will evolve over
+time is the test.
+Q - `Jose Asumendi, Analyst, JP Morgan `
+Thank you.
+Operator
+The next question comes from `Stephen Reitman, Analyst, Societe Generale from Societe Generale. Please go ahead.
+Q - `Stephen Reitman, Analyst, Societe Generale `
+Yes, good afternoon. Two questions please. First of all, maybe an easier one, and that is the cash
+flow in 2019. I think at the nine-month stage, Frank, you were warning that obviously you had a
+very good figure for the first nine months, but you're going to be facing higher ramp-up costs,
+higher CapEx and other items, and inventory build costs, not so -- be too optimistic about the
+fourth quarter. But in fact one of the key elements of your preliminary results at the end of
+February was the very strong free cash flow, the EUR13.5 billion. And I think I'm sure the stock
+would be reacting in very different way had not been for the current crisis. So, could you say, how
+much -- what has changed in the way of operating business and stability of that beyond the crisis?
+My second question is about the guidance or the sort of indications for the first quarter margin --
+first quarter results. You mentioned that you might expect a halving of the 2019 figure from the
+operating performance based on the figures here. We don't obviously have your wholesale
+figures. We don't have your retails, which obviously, backward looking. But if I just look at yourout, China, which in the main part is below the operating line, you're basically flattish. So it seems
+quite as high gearing to halve the operating profit based upon which were basically affecting --
+reflecting performance in Europe and in rest of the world, excluding China. If you could just make
+some comments on that, please.
+A - `Frank Witter, Chief Financial Officer `
+Yeah, let me see -- hi, Stephen, let me see if I could get the intent of your first part of the
+question correctly. I think there is no miracle behind the strong numbers for cash flow in 2019. I
+think it's better focus and better balancing of production and stock. I think people all know the
+individual targets and we are closely monitoring. I think it's also a much better understanding
+within the organization that this is a very strong and important KPI for all our stakeholders, and I
+think that is coming through. I think if I look at what has happened in Q4, I think we certainly saw
+that the pressure on to focus on inventory management has been acknowledged and we
+improved quite a bit in the last couple of weeks.
+If I look at Q1, the situation is, as I indicated, in terms of the overall profitability number, cash flow, I
+think we are certainly trying to get as close as possible as to the 2019 Q1 number. In terms of
+profitability, what we should not forget, we had quite a bit of volatility in our derivative valuations,
+raw material prices have been very volatile, and unfortunately it was a negative impact in Q1. So
+the impact in March is to be seen. But we clearly seen February year to date that this was an area,
+which was more negative than in Q1 2019. Thank you.
+Operator
+(Operator Instructions) The next question comes from `Angus Tweedie, Analyst, Citigroup from Citi. Please go
+ahead. Please ensure your mute function is switched off.
+Q - `Angus Tweedie, Analyst, Citigroup `
+Sorry about that. Can you hear me now?
+Operator
+Yes, very clearly.
+Q - `Angus Tweedie, Analyst, Citigroup `
+Okay, thank you. My question is just on the Financial Services business. At the end of the year, you
+had an equity ratio of 12.7%. Could you confirm what the minimum equity ratio you can have in the
+bank? Am I correct in thinking it's about 9%? Thank you.
+A - `Herbert Diess, Chief Executive Officer `
+I think you have individual equity minimum targets, you get basically assigned from the European
+Central Bank. You have to differentiate between the Volkswagen Bank, which is an entity being
+directly supervised by the European Central Bank. Their respective equity ratio, I'm pretty sure is
+probably in the range of 14% or something along that line. So you've seen the average for
+entities, which are not directly active in banking. I think 12.7% for the average is a top-notch
+number together with a strong quality portfolio. I think this is a pretty strong cushion for the
+volatility to be expected over the next couple of weeks or months. But around about 13% is a
+strong base and the banks tend to be higher capitalized based on ECB requirement.
+Q - `Angus Tweedie, Analyst, Citigroup `And is there any way of thinking a blended figure for the Group?
+A - `Herbert Diess, Chief Executive Officer `
+Sorry, did I get your question right, did you want blended with the Group or --
+Q - `Angus Tweedie, Analyst, Citigroup `
+Well, just I appreciate the bank has a higher accuracy ratios and less regulation portions. But I
+mean, when looking at the high level numbers, is there a 9% figure or something that we should
+take for the Group or is that too conservative?
+A - `Frank Witter, Chief Financial Officer `
+I think if you break it up, I think around about the non-banking business is in the range of the 9%
+and the bank roughly at 14%. So that's pretty much ends up with the blended 12.7% around about.
+So I think from today's perspective, you might -- there is no need or no assumed capital increase
+in financial services if that might the question you have in mind.
+Q - `Angus Tweedie, Analyst, Citigroup `
+Okay, all right. Thank you very much, Frank.
+Operator
+We will now take the next question from `Henning Cosman, Analyst, HSBC from HSBC. Please go ahead.
+Q - `Henning Cosman, Analyst, HSBC `
+Hi, good afternoon. Thanks for taking the question. Frank, thanks a lot for that 60% utilization
+number for the VW Brand breakeven point. I think that's going to be talked about a lot.
+Is it possible to give similar numbers for the Group as well, and whether that's including or
+excluding China? And of course, I'm trying to put it in perspective, with a 50% of profitability in Q1
+as well, I think I wasn't so much after the absolute level, but maybe how you think about that. So I
+guess when 60% utilization is the breakeven point and you're thinking of 50% down, I guess that,
+if it was linear the equivalent of 80% utilization in the brand or if we could extrapolate that for the
+Group. So if you could just talk around these dimensions a little bit more to maybe help us in the
+sort of best way you can to understand what we should be modeling or anticipating. Thank you.
+A - `Frank Witter, Chief Financial Officer `
+Yeah, now Henning, I think particularly for competitive reasons, this is a difficult question or a set
+of questions and level of detail you are looking for. I think related to the Volkswagen Passenger
+Cars, at least, I want to give you guys a flavor, but there is certainly huge differences as it pertains
+to Chinese factories, European, North American or Latin American, and those numbers do
+significantly vary, yeah. And so in that respect regrettably, I have to be quite limited, because this
+is very sensitive information. And if relate back to Herbert, the normalization, which we all hope
+for is taking place at different times in the respective regions, and we all need to make sure that
+that we are not predictable in any way, shape or form for the difficult path to recovery against our
+competitors. So I think it's in the best interest, if you not go into more detail at this point of time.
+Q - `Henning Cosman, Analyst, HSBC `Are you prepared to just say directionally for the Group, if you need less or more than the 60% to
+be breakeven on Group level before China, is that acceptable?
+A - `Frank Witter, Chief Financial Officer `
+I think, Henning, at this point of time, I think we would like to leave it where I left it.
+A - `Helen Beckermann, Head of Group Investor Relations `
+Understood. Thank you.
+Operator
+We will now take the next question from `James Odemuyiwa, Analyst, Legal & General from Legal & General. Please go
+ahead.
+Q - `James Odemuyiwa, Analyst, Legal & General `
+Good afternoon. It's a follow-up on Jose's question on the Financial Services business. And you
+mentioned in the used car market, you do have a substantial amount of leased assets on your
+balance sheet and one of the key components of your business is managing those residual
+values through the used market. So what plans would you have to manage residual values if the
+used vehicle market in Europe was shut for several months, what options would you have
+available? Thank you.
+Q - `Christian Ludwig, Analyst, Bankhaus Lampe `
+James, this is Christian. If you allow me to take that question because it was driven by the sales
+organization together with our financial service organization. So first of all, of course, we currently
+see limited demand for used cars as we see limited demand for new cars, that's a short-term
+impact. Given that there are almost no transaction, you don't really see an impact on [ph] values
+in RVs. So if this is for even one quarter period, then two things happen. One is, to a certain
+extent, you have limited supply since all manufacturers probably will build less cars. All other
+things equal, if you have less supply, you probably have increase in prices, or at least I assume,
+the stabilization. Second, obviously, we will -- when we restart a launch with relatively aggressive
+used car programs that are already in the making. So we'll probably give a free interest rates for
+our customers with similar programs to make sure that the clear -- that the dealers can clear their
+stock, which would stabilize used cars because that of course, pulls then demand for new cars. So
+maybe coming back to an earlier question on stimulus, used car demand is certainly something
+that we need to foster. But I think we have a lot of instruments in place. One of them, of course is
+financial services. So at this point in time, in summary, we don't expect a bigger impact on RVs
+assuming that the crisis last, let's take something between four weeks and a quarter.
+Q - `James Odemuyiwa, Analyst, Legal & General `
+That's great. Thank you.
+Operator
+The next question comes from `Tom Narayan, Analyst, RBC from RBC. Please go ahead.
+Q - `Tom Narayan, Analyst, RBC `Hi, yes. `Tom Narayan, Analyst, RBC, RBC. Thanks for taking the question. A quick history lesson for me, maybe
+in 2009, your automotive working capital was a significant source of cash. Just wondering if you
+could kind of contrast that with what's going on now. And then just two real quick housekeeping
+things. Is there a chance in a stretched scenario that the governments postpone CO2 for 2020?
+And then, did I hear you guys right, the Navistar bid from TRATON is -- the current bid is off the
+table? Thanks.
+A - `Herbert Diess, Chief Executive Officer `
+CO2 postponement, I'm not sure whether that would impact seriously our bottom line, because
+we are basically geared up to achieve the target. So the orders are out there. Many of the
+product is already sold and we are geared up for the battery supply. So we have contracts. So I
+would say, that it's probably too late. For some of our competitors, is that an alleviation? May be, I
+don't know, but it has to be discussed on a different level. For us, I think it's just too late to take
+such decisions now. And it wouldn't really impact our strategy.
+Then the other thing was 2009. Yeah, with respect to cash flow, I wasn't in this seat in 2009, but
+from the strong net cash flow performance we had in 2019, I take quite a bit of comfort, we
+certainly will adjust 2020 production programs further to what we already did. Though the corona
+impact will be taken into consideration and reflect, so in that respect I think we are probably
+strong in terms of net cash flow generation. We're even stronger in a position that we have ever
+and the discipline has definitely significantly increased.
+In terms of Navistar, now we've not pulled the deal. We still believe it is strategically a good idea,
+but certainly we will watch like hawks, the liquidity situation and development and the prioritization
+of all activities we are contemplating.
+Q - `Tom Narayan, Analyst, RBC `
+Thank you.
+Operator
+As there are no further questions, I'll now turn the call back to `Helen Beckermann, Head of Group Investor Relations.
+A - `Helen Beckermann, Head of Group Investor Relations `
+Thank you, operator. We actually do have two more questions that I received per email from
+Michael Blank from Egerton, who couldn't take part in the call. So the first one, I would like to
+direct at Frank, we haven't covered it yet. We have the question, how is the -- how is it looking
+with dividend payments in 2020 relating to the business year 2019? And then Michael is trying to
+look very forward into the future. He would like to know dividend payments in 2021 for 2020?
+A - `Frank Witter, Chief Financial Officer `
+Yeah, I wish I would know those numbers too. That was certainly related to the business year
+2020. This is way too early to make any guesstimates and what's the respective dividend stream
+particularly from China would be in 2021.
+For this year, as it relates to the business forward to calendar year 2019, I think we expect lower
+dividends. We had a peak in the range of EUR3.6 billion and I think that number for this calendar
+year is probably closer in the range of EUR3 billion. That's what I would assume.
+A - `Helen Beckermann, Head of Group Investor Relations `Okay. Thank you, Frank. And the second question I would direct towards Herbert, in relation to our
+production stoppages, our adjustments reflecting corona, do you see the chance that we use our
+summer holidays to catch up on production, especially in the German plants? What kind of
+flexibility do we have?
+A - `Herbert Diess, Chief Executive Officer `
+Yes. You know, if there are chances in the market, we always have ways to catch up, whenever
+the supplier capacities are there and we always have the flexibility to work holiday shift,
+Saturdays. Normally, we achieve those agreements because its beneficial also for the -- for blue-
+collar people. So that is what we are doing all year round. Would we be able to catch up two
+weeks? Yeah, tough probably, but still possible. Three weeks, yes. But let's say, probably not a
+month or so of production that's impossible.
+A - `Helen Beckermann, Head of Group Investor Relations `
+Okay. I think that is everybody in the line for our first section today. At this stage, Herbert will be
+leaving us back to task force mode. And we'll move over to our experts on battery and again you
+can log in the line to prepare yourself for Q&A question. So we'll take about 15 minutes
+presentation, and the second half we'll use for Q&A.
+Okay. I would like to introduce now `Frank Blome, Head of Business Unit Battery Cell, he is the Head of Group components in relation
+to the business unit battery cell and he will take us -- give us an insight into our battery cell
+technology. Over to you.
+A - `Frank Blome, Head of Business Unit Battery Cell `
+Thank you very much. And I would like to get into a few charts, first of all, to explain about the
+battery strategy and the products. I will start with the customer expectations, that is of course:
+attractive costs; long driving range; fast-charging is becoming more and more possible and
+attractive; high electrical performance along safety life; of course vehicle has to work between
+minus 30 and plus 50-degree C; it has to be made and will be made for global use; and it will be
+robust, the availability will be high; and of course, maximum safety is another topic, what is for all
+the cars and especially for electric vehicles, quite important task.
+The architecture of the vehicles and the batteries inside is giving us in the case of the MEB range
+between 330 kilometers and 550 kilometers and that's been done by modules and scalability of
+modules. On the left side of the chart, you see seven modules; that's the smallest battery. And
+on the right side, you see the full scale of modules into the battery what gives us finally 550
+kilometers of range.
+Getting into the inside of the battery system, that chart shows us the electronics in the yellow
+color or the orange color. We see the housing and the cooling around it and we see the modules
+and battery modules is what we will get into now. We're driven by the fact that we need directly
+high volume of battery cells. We decided to go for the two designs of battery cells what is
+powertrain prismatic cells, those are pouches [ph] one on the upper left side and the prismatic,
+the other one we can use both for our batteries. The modules will look very similar from the
+outside, and that gives us a chance to work with all the suppliers in the world and play technically
+and also commercially the cell market for us, make sure the availability is there and also we have
+a good situation for negotiation of prices by our colleagues from purchasing.
+We do not stop with production of batteries and cars. We also get into the recycling cycle and the
+entire battery cycle. The battery cell is step one. Then we get into the battery system. Weproduce in-house inbound [ph] like for example. The first life of the battery cell will be in the car.
+The battery can be returned. And after the module analyzes it's been positively done, there is a
+chance to use the battery system in a second life. We can do mechanical recycling and we do this
+also in-house. We have developed quite interesting technologies there too. After that, there will
+be a recycling step into Hydro metallic technology what gives us a secondary raw material step.
+And that finally can go directly back into after cleaning of the material into Kassel material, anode
+material and also the metals what is basically aluminum and copper, and this can end up into a
+battery cell in the next step again.
+Some words about the next possibilities, the next battery generation. So on the left side, 2020,
+we see what I have just presented, the two battery cell types for the MEB and the PPE, so
+Porsche, Audi platform and also the Volkswagen large volume group platform. We are working on
+higher energies and fast-charging that one technology is giving us is a silicon anode. We are
+working on up to the way to all solid state what gives us a better range, so higher energy, fast
+charge, and on top of that, lower weight and better cost too.
+As you may know, we have founded co-operation, a joint venture this -- the last year with
+Northvolt. Northvolt is the Swedish startup company, quite powerful. We did that because the
+technology is very, very good. We were quite happy with the parts, the product and that's why we
+invested about 20% of the shares into and we founded a 50-50 joint venture and that will start
+production in 2024 in Germany, in Salzgitter. We are building up the organization right now. We
+are setting up what we need to make sure this will be a successful plan or successful case what
+fits into our strategy.
+This picture here, I will show you an animation of the space we reserved for our new cell
+manufacturing company. The space is able to produce 16 gigawatt hours. We can extend it up to
+24, but 16 so far we decided to go for. The production area is about 180,000 square meters and
+it is directly located into our plant in Salzgitter.
+And yeah, that is it for the presentation. Now, I'm glad together with my colleague Sebastien
+Fischer from purchasing, to answer your questions.
+A - `Helen Beckermann, Head of Group Investor Relations `
+Thank you very much Frank. Very good insight. I think you guys have asked on numerous occasions
+to cover battery. So that was the first from our side. We'd like to now open the Q&A.
+And operator, I'll pass back to you.
+Operator
+Thank you. (Operator Instructions) We will now take a question from `George Galliers, Analyst, Goldman Sachs from
+Goldman Sachs. Please go ahead.
+Q - `George Galliers, Analyst, Goldman Sachs `
+Thank you. My question is, can you just confirm what chemistry you're using for the first wave of
+electric vehicles on MEB? I think you previously disclosed that you're using NMC 622. Could you
+just perhaps confirm that? And also give us some color as to when you would migrate to 811
+chemistry and what are the constraints on doing that today? Thank you.
+A - `Frank Blome, Head of Business Unit Battery Cell `I can answer this. We will start with 65% of nickel, so 65%, 15% of cobalt and the rest 20% of
+manganese. We will get into 811 in the next year and step by step reduce cobalt, and yeah, make
+sure we do have the right performance in cost and technology into the batteries.
+A - `Helen Beckermann, Head of Group Investor Relations `
+Okay. Operator, can we take the next question please?
+Operator
+Certainly. The next question comes from `Stephen Reitman, Analyst, Societe Generale from Societe Generale. Please go
+ahead.
+Q - `Stephen Reitman, Analyst, Societe Generale `
+Yes. Question about the Salzgitter operation. In terms of costs, how would you think you're going
+to be able to compare with operations in Asia or even indeed in Nevada, I guess the advantage
+[ph] Tesla has leased [ph] its principle solar power in the factory process, and I guess, in Asia, it's
+cheaper labor. How competitive you can be with the German production side? Thank you.
+A - `Frank Blome, Head of Business Unit Battery Cell `
+Yeah, the German production side, of course, has to perform in technology, has to perform also
+in cost. It's clear that there are countries where we have a lower labor, but finally 80% of what has
+been in the bill of materials, or in the cost of a battery is a bill of material, so 80% is material cost
+that means working on technology, getting the cost down and the technology up to a highest
+level is quite important for us.
+And with our joint venture in Salzgitter, we do have a good chance to bring our technologies in to
+develop together with Northvolt on all the important aspects and make sure our suppliers are
+under pressure too. We still work with our suppliers. They are very important for us too. And all
+that together will give us quite good advantage and competition on the mid-term run.
+Q - `Stephen Reitman, Analyst, Societe Generale `
+Thank you.
+Operator
+The next question comes from `Patrick Hummel, Analyst, UBS from UBS. Please go ahead.
+Q - `Patrick Hummel, Analyst, UBS `
+Yeah, thanks again for taking my question. Two please. The first one, can you talk a little bit about
+the supply chain risk on the battery cell side? From your previous presentations, for example, in
+Frankfurt at the Auto Show, you mentioned that the ID.3 will be getting cells exclusively from LG's
+Poland plant. I just wanted to double check if that is still the case, so that you're basically single
+sourcing here at least for the early days. And based on your [ph] latest checks and I know
+everything is in flux with the virus, but how would you assess the risk of supply chain disruptions
+on the battery side that would put you in a weak spot here?
+And then a question, I'm not sure if Frank is still here. Frank, if you are, can you comment a little bit
+on the contribution margin of the e-Up and the e-Golf, assuming that the ID.3 ramp-up curve
+faces some delays which I guess nobody can rule out today? How bad would that be if youA - `Sebastien Fischer, Head of Group and Brand Battery Procurement
+Sebastien here. The first question was about the supply chain for the ID.3, and you mentioned
+one supplier, but the situation is that we are starting with one supplier, but then ramping up with a
+number of three suppliers in Europe and we have additionally suppliers for the US and the
+Chinese market and therefore we think we have a broad supply base and not relying on a single
+sourcing for our MEB sourcing in that term.
+I think the second question was about the disruption risks for the supply chain. I don't know
+whether you are targeting, for instance, the corona situation, then I would have to say this is like
+the whole supply chain affected for the battery as well. So we are updating the situation
+constantly, but it is compared with other procurement parts, a similar situation.
+In general, if you think of the raw material supply situation, then we would like to state that, as
+Volkswagen, we don't purchase raw material for battery cells itself. So the raw material sourcing is
+in the responsibility of our first-tier suppliers for battery cell modules, and what we obviously do is
+that we have a very precise picture of the volumes and periods covered by our suppliers and
+therefore we do not see any risk or need for action on the raw material side. That means for the
+VW battery demand, I think the raw material is secured for the foreseeable future.
+Q - `Patrick Hummel, Analyst, UBS `
+Can I just follow up on that if you don't mind. Does it mean that you don't actually know what the
+raw material situation is for your Tier 1s, for cell makers because you're not sourcing the material
+directly. Do you have any visibility?
+A - `Sebastien Fischer, Head of Group and Brand Battery Procurement
+No, no, I want to say, firstly, the responsibility is with our first-tier suppliers. Secondly, we do have
+a very precise picture. We do have the obligation of our first-tier suppliers and their contracts to:
+a) secure raw material supply; and b) we have a very precise picture and permanently updating
+that with our suppliers, so that we don't see from that perspective, no immediate task for us as
+VW to interfere in that business. In addition, we do monitor ourselves the development of the
+entire value chain to identify any vulnerability to be able to react to them early on together with
+our suppliers. This is the whole picture.
+Q - `Patrick Hummel, Analyst, UBS `
+Thank you.
+A - `Frank Witter, Chief Financial Officer `
+Hi, Patrick. I'm still there.
+Q - `Patrick Hummel, Analyst, UBS `
+Hi, Frank.
+A - `Frank Witter, Chief Financial Officer `
+Let me answer the -- it's basically like like a waterfall. e-Up, e-Golf has been the very best we had
+for a long period of time. They have been positive in terms of CO2 compliance, but they certainly
+have not been financially the CFO's dream.Therefore the MEB based product, starting with the ID.3 is a major shift in the right direction also
+from a financial perspective. And in terms of getting to the level, we are shooting at the ID.4 is
+also driven by the body style preferences of the customer, but also the learnings we assume at
+this point of time is basically what we assumed to be at the level of the e-Golf and that is the
+waterfall into the cascade I was talking about. So e-Up, e-Golf are important, but as a bridge to
+MEB and the product thereof.
+Q - `Patrick Hummel, Analyst, UBS `
+Okay, thank you.
+Operator
+The next question comes from `Angus Tweedie, Analyst, Citigroup from Citi. Please go ahead.
+Q - `Angus Tweedie, Analyst, Citigroup `
+Hi, there. Thank you for taking my question. I was just hoping to talk about cell impact costs. Some
+of your competitors are talking about being at $100 for the cell costs at the moment per kilowatt
+hour. Can you confirm me what that level and how you see that progressing to 2025? Thank you.
+A - `Frank Blome, Head of Business Unit Battery Cell `
+We're on a good track here. We work hard on the cost and also on the performance issues, the
+performance targets and we are quite well on track. Of course it is the market right now where
+competition is growing, and that helps us finally to get there or even below.
+A - `Helen Beckermann, Head of Group Investor Relations `
+Sebastien please on progress [ph].
+Q - `Angus Tweedie, Analyst, Citigroup `
+Sorry, can I can I follow up on that. And just on my follow up, could you confirm then that you're at
+that level with the competition for [ph] packs and cells at about a $20 premium?
+A - `Frank Blome, Head of Business Unit Battery Cell `
+I didn't got the question.
+Q - `Angus Tweedie, Analyst, Citigroup `
+Can you confirm the cost per kilowatt hour of the cells in your EVs are at about $100 and the total
+patent cost is about $120? Thank you.
+A - `Frank Blome, Head of Business Unit Battery Cell `
+Yeah, I would say, in '25, we are below that. Yes, I confirm.
+Q - `Angus Tweedie, Analyst, Citigroup `
+Thank you.
+Operator
+We will now take the next question from `Henning Cosman, Analyst, HSBC from HSBC. Please go ahead.Q - `Henning Cosman, Analyst, HSBC `
+Yes, thank you. Just wanted to ask about, you had this timeline where you're showing the
+progression. Can you -- I know material and then eventually complete solid state. So just in terms
+of your technological leadership, you have, of course, this 800 volt system in Porsche. Is this
+something that's desirable and technically possible to cascade down into the MEB range as well?
+My understanding is that that helps, especially with the charging time and that's a potential area
+of technological leadership for you. Could you talk around that a little bit, please?
+A - `Frank Blome, Head of Business Unit Battery Cell `
+Yes, Henning, you're right. The 800 volt helps very much by charging. Charging the car needs to
+go much faster than discharging. What means this is, this is a level of the specification what is
+most difficult. Our goal is to later in the game come to a charging time what is comparable to
+filling up the car with gasoline today. Of course, that's tough. But we see some technology is
+getting there in the future. And the 800 volt for MEB is right now not really an option, because it
+adds cost to the system. Of course, the more 800 volt systems will get into the markets, the less
+expensive it will be. So if semiconductors and so on and so far would be on a high scale level
+already, 800 volt would be cheaper. But right now, this is not the case. So the 400 volt system
+has some cost advantages. That's why we do the two different technologies.
+Another thing I'd like to mention is that, we are working on different technologies. One quite
+promising technology coming from the company QuantumScape. We are owning a share of
+QuantumScape too and we see some good progress here that solid state battery cells
+technology. Of course that needs some more time and research, but we are getting closer and
+the parts are getting more and more robust and we see that this will become -- can become a
+next game changer in the market.
+Q - `Henning Cosman, Analyst, HSBC `
+And if I may follow-up, I mean, my understanding is that even today on the Taycan, for example,
+you can't fully utilize the 800 volt because some of the electric components are bottleneck to
+that, they can't basically handle that system voltage. Are you in your own component plants now
+working on components that will handle that voltage?
+A - `Frank Blome, Head of Business Unit Battery Cell `
+We are utilizing the 800 volt very much in the Taycan, and we have to reduce, for example, the
+power was in charging driven by a higher state of charge of the batteries, and yes, we are
+working on in-house development, in-house production, also the Taycan electric drive has been
+produced at Porsche.
+Operator
+(Operator Instructions) The next question comes from `Horst Schneider, Analyst, Bank of America from Bank of America.
+Please go ahead.
+Q - `Horst Schneider, Analyst, Bank of America `
+Yeah, thanks for taking again my questions. First of all, my question is, if the demand for the ID.3,
+ID.4, in total for the MEB cars is larger than you imagine? Can you satisfy this demand? In other
+words, is there flexibility in your supply contracts that you can also get more batteries you need
+or that's a quite unrealistic assumption? Thank you.A - `Sebastien Fischer, Head of Group and Brand Battery Procurement
+At the time being, we are quite fine with the contracts we have in place for MEB. I mean, there is
+no need to adjust the volumes. We have a good strategy and we are just now about executing
+that. And if needed, over the long lead time, but there is no immediate growth [ph] for that and
+we could of course adapt, because I explained earlier that we do have more than one supplier
+available, and therefore, I think we have -- we're well prepared for the years ahead.
+Q - `Horst Schneider, Analyst, Bank of America `
+What is again the capacity you have got to buy in 2025, the gigawatt hour, in terms of gigawatt
+hour?
+A - `Sebastien Fischer, Head of Group and Brand Battery Procurement
+Just to give you a rough calculation, in the year '25, we are expecting up to 3 million battery
+electric vehicles a year, that means roughly 300 gigawatt and that 300 gigawatt are evenly
+allocated between Asia and Europe, with a little contribution from the Northern America. And
+yeah, -- and that means that we are -- have a well -- very good global foot step of battery supply,
+because our strategy is to source the battery cells in the region where we are going to produce
+the battery electric vehicles.
+Operator
+We will now take the next question from `Tim Rokossa, Analyst, Deutsche Bank from Deutsche Bank. Please go ahead.
+Q - `Tim Rokossa, Analyst, Deutsche Bank `
+Yeah, thank you for taking my questions again. It's Tim from Deutsche Bank. And Frank, you have
+quite a bit of experience in the automotive industry coming from a supplier in Daimler and now at
+VW. Can we maybe talk about the relationship the electric vehicles will change between suppliers
+and OEMs? Are we actually talking about you on the OEM side now doing a lot more in-house
+versus what you have previously done with suppliers or is this really just a temporary
+phenomenon where you have to go into cell manufacturing to prevent any shortages and longer
+term we would just revert back to the same relationship that we had? And also when you do talk
+to the cell manufacturers, do you get them to sign these longer-term contracts over the whole
+life cycle of a vehicle or potentially even a second lifecycle like you are used to with your
+traditional suppliers?
+A - `Frank Blome, Head of Business Unit Battery Cell `
+Tim, thank you for the question, you're well informed of my history. See, in my days as a supplier,
+it was quite balanced, who is doing what, and that changed I think 10, 15 years ago on the OEM.
+So car manufacturers were getting more and more into electronics, into software in these days,
+and that is changing the relation of development scope very much.
+The cell manufacturing to us is not only building up capacity, it's more to set technology targets,
+to show the suppliers what is possible, when. And finally, it's a question of the market and the
+suppliers performance if we scale this up to a higher level or it will stay on a level as it is right now.
+Right now, it's below 10% of what we need in the Volkswagen Group, but of course, there are
+other opportunities, can be more if it makes commercially and technically sense or can stay on
+that level if as a supplier landscape can perform on that in this regards.The MEB cells and modules are quite interesting for the complete automotive market. That's
+what we hear from our suppliers, scaling up into these formats, into these technologies to sell
+these to other car manufacturers too. And of course, that give us -- that gives us a bit a chance of
+being more flexible having all the development power behind new technologies, lower costs and
+so on and so forth.
+So I hope I answered your question with that.
+Q - `Tim Rokossa, Analyst, Deutsche Bank `
+Yeah. Thank you. I have a follow-up to that actually. When you do talk to Tesla, they're of the deep
+view [ph] that having done the power electronics in-house is also a key advantage, not just the
+cell manufacturing with Panasonic. Do you share that view? And do you feel like you have to do a
+lot of the power electronics and the cell manufacturing [ph] in-house?
+A - `Frank Blome, Head of Business Unit Battery Cell `
+Of course, we are working on these too, on these topics. Finally, it's always a question of what do
+you want to make, and what do you want to buy and that follows technology and costs, of course.
+So we will see for this -- for these days, we are buying the power electronics. But we are
+challenging ourselves day by day and asking the questions always, is that right, do we have to do
+more in-house or buy more externally. Of course, if you do it in-house, you need to invest, that is
+the downside of that path. But we do whatever is -- makes sense for us to be competitive and
+have the right products for our customers.
+Q - `Tim Rokossa, Analyst, Deutsche Bank `
+Thank you.
+A - `Sebastien Fischer, Head of Group and Brand Battery Procurement
+Maybe one additional remark to the contracts, we, in general, follow the same approach which
+we do for, let's say, conventional purchase and parts that means that we have contracts with our
+suppliers over the whole life cycle of the cars, that means long-term contract what gives both
+parties, suppliers and us a good prognosis and stability for planning.
+Q - `Tim Rokossa, Analyst, Deutsche Bank `
+Thank you.
+Operator
+We will now take the next question from `Christian Ludwig, Analyst, Bankhaus Lampe from Bankhaus Lampe. Please go
+ahead.
+Q - `Christian Ludwig, Analyst, Bankhaus Lampe `
+Yes, good afternoon. One question on your battery sourcing strategy. With the co-operation with
+Northvolt, you have -- will have a certain amount of, let's say, direct sourcing for battery cells. How
+is your strategy going forward? Do you intend to keep that kind of shares stable? So as you grow,
+you will grow your own battery manufacturing capabilities or will this just be a one-off and you will
+continue to source from different suppliers going forward?
+A - `Frank Blome, Head of Business Unit Battery Cell `This is very much dependent on on how the market performs and how our joint venture
+performs. Of course, this is -- the make or buy decisions on these topics will be made case by
+case. And yeah, right now, we are trying to bring quite interesting, and performance technology
+into production, in our joint venture. But of course, if there are other options helping us to
+become more competitive, we will prove this and get into it.
+Q - `Christian Ludwig, Analyst, Bankhaus Lampe `
+As a quick follow-up, do you feel at the moment, does one -- is one cooperation enough in
+Europe or would you -- wouldn't you need one in the North America and one in China as well?
+A - `Frank Blome, Head of Business Unit Battery Cell `
+Good question. We have not answered this so far, but we are proving some options. And if it
+makes sense for us, we will probably make a decision sooner or later on this too. Right now, what
+we are doing is the research joint -- the research shares of QuantumScape supporting us a lot in
+technology. Northvolt is a quite performance technology what will be in production '24 in
+Germany and a year earlier in Sweden, and China is of course a question where we are working
+on and haven't made a final decision so far.
+Q - `Christian Ludwig, Analyst, Bankhaus Lampe `
+When could we expect such a decision?
+A - `Frank Blome, Head of Business Unit Battery Cell `
+Well in these days, very difficult to answer.
+A - `Helen Beckermann, Head of Group Investor Relations `
+If I could add to that as well, Christian, you heard Frank's comment on the priority of liquidity this
+year especially, and that has top priority. So we said, we will time and prioritize any M&A activities
+accordingly.
+Q - `Christian Ludwig, Analyst, Bankhaus Lampe `
+Okay, thank you very much.
+Operator
+We will now take the next question from `Jose Asumendi, Analyst, JP Morgan from JPMorgan. Please go ahead.
+Q - `Jose Asumendi, Analyst, JP Morgan `
+Thanks very much. Jose, JPMorgan. Just maybe longer term, as you think about your relation with
+Northvolt, do you think Northvolt could be a supplier, like supply nearly 20%, 30%, 40% of the
+volumes in Europe, not 2025 on the road, but maybe 2028, 2030 on the road? And then as we
+think about the other components around the vehicle, maybe can you just remind us your house
+view around electric motors, is this a component that you want to produce in-house or is this a
+component that you think you can actually leverage one of the suppliers out there? Thank you.
+A - `Frank Blome, Head of Business Unit Battery Cell `
+For the electric motors, we already do in-house production at Porsche and also at Volkswagen. In
+our plant in Salzgitter, we are producing the status of the electric motors for the MEB, and inKassel, we are producing the rest of the drive and the completion. So that's already part of an in-
+house case. And we do have a quite competitive technology, very low resistance and very good
+efficiency what ends up in a good range of the vehicle with the same batteries. So efficiency of
+electric drive, of course, is important to get to a perfect range of the car.
+To Northvolt again, yeah, this is -- right now, we have made a deal for with the Swedish Northvolt
+AB, supplying us in '23 and as a joint venture, supplying us in '24 and the rest, time will show. It's
+very dependent on competitiveness and technology.
+Q - `Jose Asumendi, Analyst, JP Morgan `
+Thank you, gents.
+A - `Helen Beckermann, Head of Group Investor Relations `
+Sorry. Excuse me, operator. I think we have one last participant in the line, and after that we would
+like in the interest of time to close today's event.
+Operator
+Certainly, we will now take the final question from `Tom Narayan, Analyst, RBC from RBC.
+Q - `Tom Narayan, Analyst, RBC `
+Hi. Yes, `Tom Narayan, Analyst, RBC, RBC. Thanks for the question. I have a follow-up question with -- on Angus'
+question. Where could cost per kilowatt hour go? How far down can that pricing go at the
+saturation? Is that even worthy of a question? And then you mentioned earlier that the goal is to
+get the charging the same time as filling up at a gas station. I'm just curious that would
+necessitate a public charging infrastructure to be dramatically overhauled, would it not or are you
+referring that to be that calculus to happen at home charging? Thank you.
+A - `Sebastien Fischer, Head of Group and Brand Battery Procurement
+I mean, the question out there [ph] where could the cost go and euros per kilowatt hour, I think
+it's -- we are challenging the EUR100 per kilowatt hour, and this is our first goal to achieve. And
+then we will see further. I think it's difficult to answer generally, because there are different
+technologies behind those costs. And therefore, I think we can't give a comprehensive answer to
+that at the time being.
+A - `Frank Blome, Head of Business Unit Battery Cell `
+And to answer on the time of charging, our goal is to get sooner or later in the range of 10
+minutes, 5% to 80%, above 80%, the battery will limit the charging time, but 5% to 80% would
+be for Autobahn or highway applications, the right goal we think. And for the public infrastructure,
+we do have our IONITY joint venture. We are working on a lot of topics in the US. And we also
+developed a charging system within the group components of Volkswagen with an installed
+battery in the system, so we can go for high charging power even in areas where the power
+connection to the network is limited. That's a quite interesting product what is in use in different
+applications in the region over here. And yeah, the Wallbox is also a product what will be and is
+available with Volkswagen logo and Porsche logo and so on and so far. So of course that is
+important to make sure our customers are happy and we are working on that.
+Q - `Tom Narayan, Analyst, RBC `Okay. Thank you.
+A - `Helen Beckermann, Head of Group Investor Relations `
+Okay. Thank you, Frank. We would like to now come to an end to today's events. Thank you all for
+your participation. Thank you to my colleagues in IR, to our speakers today and also the internal
+colleagues who support us on the event.
+Frank mentioned quite a bit, Q1, it's around the corner. For your information and event planning, it
+will take place on April 29, per conference call as usual. In the meantime, if there are any further
+questions, of course, the IR team is available this afternoon and going forward.
+And finally, I would like to wish everybody in the call and all your families good health during this
+very unusual period. Thank you very much. Bye-bye.
+Operator
+That will conclude today's call. Thank you for your participation. You may now disconnect.

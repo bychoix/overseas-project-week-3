@@ -1,0 +1,710 @@
+Y 2023 Earnings Call
+
+Presentation
+`Nate Melihercik, Investor Relations `
+Good morning and good afternoon. Welcome to Logitech's video call to discuss our financial
+results for the Fourth Quarter and Full Year of Fiscal 2023. Joining us today are `Bracken Darrell, President and Chief Executive Officer,
+our President and CEO; and `Chuck Boynton, Chief Financial Officer, our CFO. As a reminder, during this call, we will make
+forward-looking statements, including with respect to future operating results under the Safe
+Harbor of the Private Securities Litigation Reform Act of 1995. We're making these statements
+based on our views only as of today.
+Our actual results could differ materially. We undertake no obligation to update or revise any of
+these statements. We will also discuss non-GAAP financial results and you can find a reconciliation
+between non-GAAP and GAAP results and information about our use of non-GAAP measures and
+factors that could impact our financial results and forward-looking statements in our press release
+and in our filings with the SEC. These materials as well as our prepared remarks and slides and a
+webcast of this call are all available at the Investor Relations page of our website. We encourage
+you to review these materials carefully, unless noted otherwise, comparisons between periods
+are year-over-year and in constant currency and net sales. This call is being recorded and will be
+available for a replay on our website.
+I will now turn the call over to Bracken. Bracken?
+`Bracken Darrell, President and Chief Executive Officer `
+Thank you, Nate. Thanks all of you for joining us. Today I'm joining you from New York. This really
+is a hybrid call and I think, Chuck is in -- I know Chuck is in California and Nate, I believe you're in
+Dallas. So we're really all over. About 60 days ago, we provided an overview of our business and
+our outlook for the coming fiscal year and Chuck will cover the details, but big picture, we ended
+this year within our latest outlook and the outlook for the first half of -- first fiscal year '24 remains
+unchanged. Most of the macroeconomic and geopolitical issues that impacted our fiscal year '23results continue. Central banks are raising rates to combat inflation, consumer confidence
+remains lower and overall demand from enterprises remains tepid. As I look at factors that are
+more directly impacting our business, it's a mixed bag. There are positive signs.
+The dollar is weakening thankfully, shipping rates, lead times and our reliance on expedited
+shipping are nearing pre-pandemic levels. Promotional levels are normalizing and supply chains
+appear to be a problem of the past. However, industry layoffs continue. The way companies
+handle return to the office continues to be uncertain and we're not yet seeing refresh cycles kick
+in for products that were in high demand during the pandemic. As we said last quarter, these
+conflicting economic signals create an environment with low visibility and a bias towards
+managing our business conservatively. Adjusting our business to meet the market opportunity is
+something that is not new to us, we adapted throughout the pandemic when we faced supply
+chain, logistics and manufacturing challenges and we're adapting now, to reshape our
+organization for more nimble decision making, faster product design cycles, meeting evolving
+customer needs quickly and fluidly and improving our speed to market. So while acknowledging
+the macro headwinds, we've ended Q4 in a solid position.
+Our sales teams closed a number of meaningful customer deals. We closed on Snowflake for
+example and representing multiple industries, as well as education and government contracts.
+We released 52 new products in fiscal year '23, and while it takes time to scale these launches, it
+demonstrates our commitment to product innovation.
+We won a record number of design awards. The latest number is over 160 for the full year, 82 in
+the fourth quarter alone. Innovation is the key engine of this business and it's firing on all
+cylinders. Our commitment to sustainability is absolutely unwavering. In fact, we now have nearly
+45% of our products with Carbon labels. I believe, there is no other tech company of our size or
+bigger near this level.
+We quickly reduced operating expenses to match the revenue reality. Revenue decline and OpEx
+reductions were down equally on a percentage basis for the year. As I indicated last quarter and
+our Analyst and Investor Day, our fiscal year '23 results were disappointing. As I always say to
+myself, it's time to draw a line behind our heels, learn from the past but move forward and that's
+exactly what we're doing. We remain committed to the long-term growth trends, markets,
+strategy and business model we have in place.
+So looking ahead, you should expect us to operating the business in a disciplined manner
+consistent with what we've demonstrated over the last few quarters. We'll continue to adjust our
+expenses in line with the market. We'll continue to invest in product development. We've plans to
+introduce a whole line of new -- whole series of new products across gaming, video collaboration
+and keyboards and mice in the quarters to come. And we will continue to improve and refine our
+global go-to-market capabilities. I'm confident that the big durable trends we've been
+highlighting video everywhere, hybrid work and the explosion of gaming and content creation will
+drive growth.
+Challenging times always sharpen your focus and the fiscal year '23 definitely sharpened ours.
+We quickly re-sized in a prudent methodical fashion, while remaining committed to the keystone
+of our business, product innovation or as I think of it design led engineering. We're confident that
+we've been -- we've taken the appropriate steps to spring load our categories for growth as we
+exit this economic cycle and move ahead.
+One final point, before I turn it over to Chuck. I said earlier that 45% of our products now include
+carbon labeling. This is a huge deal for Logitech. But it could be an even bigger deal for the world.I'd like to point out that we're not trying to convey -- create competitive advantage here. We'd
+love the chance to help others including competitors to advance carbon labeling. So please, for
+those of you listening, consumers, investors, analysts or -- and our competitors. You can have an
+impact, a big one.
+I'd ask that next time, you're interacting with any company including your own, ask them about
+their approach to carbon labeling. We can move this ahead so much faster for the betterment of
+our customers and for the world. Carbon labels on all our products can be the new calorie and
+that will drive competition and bring down carbon levels.
+With that, I'll hand over to Chuck to provide some additional color on Q4 and fiscal year '23
+results. Chuck? And Chuck, I want to -- I want you to notice that I -- I wore my jacket, I felt so much
+pressure [ph] from you, you said, until we have growth, you have to wear a jacket to the earnings
+calls.
+`Chuck Boynton, Chief Financial Officer `
+Well you look great, Bracken. Well thank you. And I appreciate you all joining our call today. Our
+Silicon Valley site is being relocated, so I'm calling in from my house today using a 4K Brio
+webcam, the Logi Dock and our MX Series mouse and keyboard. Next quarter, we should be in
+our new office in San Jose. Now let me delve into the fourth quarter and full year in greater detail.
+Our Q4 and full year results are in line with the revised outlook we shared during our Analyst Day
+in March. For the quarter, net sales in constant currency declined by 20% to $960 million. For the
+full year, net sales were down 13% to $4.5 billion.
+Examining our category performance, results were in line with expectations with continued
+pressure in Video Collaboration down 25% and Gaming down 22% due to a slowdown in
+simulation while our creativity and productivity categories either held steady or improved
+sequentially. In Q4, gross margins were in line with our expectations, decreasing year-over-year
+to 36.3%. For the year, gross margins were 38.3%, down 340 basis points compared to fiscal
+year '22. Margins were pressured throughout the year due to unfavorable currency movements,
+inflation-driven cost increases and product mix. As we transitioned to fiscal year '24, we anticipate
+the weakening US dollar euro exchange rate and lower manufacturing costs to contribute to
+improving gross margins.
+We judiciously reduced operating expenses over the year while continuing to invest in our
+product innovation initiatives and enterprise selling capabilities. Operating income was $82 million
+in Q4 and $589 million for the full year. Operating income in both the quarter and the year
+reflected lower demand and gross margin pressure, partially offset by reductions in operating
+expenses. Cash flow from operations was $217 million in Q4 and $534 million for the full year.
+Our ending cash balance was over $1.1 billion. We returned a total of $577 million to shareholders
+in fiscal year '23 through our share repurchase program and dividend payment. In March, we
+outlined our intentions to quickly address two opportunities. One, improve our cash conversion
+cycle by reducing on-hand inventory and optimizing channel inventory and two, reduce operating
+expenses to a run rate of $1 billion.
+Although less than two months have passed since we presented these plans, I'm encouraged by
+the strong momentum on both fronts. I'm pleased to report that our on-hand inventory was down
+for the fourth consecutive quarter with Q4 seeing the biggest reduction of the year. Our goal
+over the next year or so is to continuously improve inventory turns to five or better. Furthermore,
+we plan to keep reducing channel inventory in the first half of the year before the normal build forAs we mentioned during Analyst Day, we believe lower channel -- lower channel and on-hand
+inventory provide better economics for us and our partners in the value chain. We are maintaining
+the outlook we provided in March expecting H1 fiscal year '24 revenue of $1.8 billion to $1.9 billion,
+down approximately 22% to 18% compared to the prior year in US dollars. Our corresponding
+operating income is expected to be between $160 million and $190 million, down approximately
+47% to 37%. Nate, we can now open the line for questions.
+`Nate Melihercik, Investor Relations `
+Great, thanks Chuck, thanks Bracken and thanks everyone to joining. As a reminder, please raise
+your hand if you're interested in participating in Q&A and come off of video when selected. Thank
+you.
+Questions And Answers
+A - `Nate Melihercik, Investor Relations `
+First question comes from `Paul Chung, Analyst, JPMorgan at JPMorgan. Morning, Paul.
+A - `Bracken Darrell, President and Chief Executive Officer `
+Hello, Paul.
+Q - `Paul Chung, Analyst, JPMorgan `
+Good morning. So good to see you guys,
+A - `Bracken Darrell, President and Chief Executive Officer `
+Good to see you and (inaudible)
+Q - `Paul Chung, Analyst, JPMorgan `
+Yeah, so first up on gross margins for 4Q, would have thought there would be better
+improvement and kind of easing supply chain headwinds, what drove the pressures there? I know
+VC and gaming mix has come down a bit, which may have driven some impact there. What do
+you see as temporary and as we move into the next year, how should we think about those
+variables easing and kind of impact on gross margins at least in the first half.
+A - `Bracken Darrell, President and Chief Executive Officer `
+Okay. Chuck, you want to take that one.
+A - `Chuck Boynton, Chief Financial Officer `
+Yes, certainly, thank you, Paul. Our overall margins for the quarter were roughly in line with our
+expectations. We did -- the operations team did a phenomenal job reducing costs. But with
+inventory turns, we won't see the benefit of that cost reduction until next quarter as it flows
+through. Q4 compared to Q3, we did have some minor inventory charges. The mix issue is
+identified in the prepared remarks and looking forward, we see tailwinds with FX, lower costs and
+obviously note -- not the same inventory charges and longer term, we expect to be in that long-
+term operating model of 39 to low 40s over time.
+Q - `Paul Chung, Analyst, JPMorgan `Okay, great. And then second on VC in your prepared remarks, you kind of mentioned kind of
+typical ASP per room has been increasing, which is great. Can you help us size both the
+opportunity to expand conference rooms, where you think that ASP can go when volume comes
+back and which peripherals, you're seeing the most success in the conference rooms? Thanks.
+A - `Bracken Darrell, President and Chief Executive Officer `
+I -- so I think, the cool thing about our business model is there's just a lot of room to continue to
+increase the ASP per room. If you think about it, we announced something called SCRIBE
+whiteboard, whatever kind of whiteboard you're using becomes a participant. So we've lots of
+ways to increase the value per room, so I'm very optimistic long-term that the ASPs can go up.
+And the number of rooms that will be enabled, it continues to be very high number. So we just
+got to get through this current period where people are kind of scratching their heads saying, I'm
+not really sure -- not all people, but not [ph] all companies, but a lot of companies are saying, I'm
+not quite sure, what we're doing yet. We're a good example.
+We're closing one office, we're opening another office. And the new office, we know exactly
+we're doing for video enablement standpoint, but a lot of other people are lagging us, they're
+either -- they really haven't completely decided what to do with the current office, they're doing
+the minimum or they're saving money because they're going through this economic cycle too. Or
+they're going to do it, but it's going to come later. So I'm not hearing anybody say, gosh, video
+enablement are [ph] for rooms is bad idea. It's just timing.
+A - `Chuck Boynton, Chief Financial Officer `
+And I would just add Bracken, the market sizing that we talked about at Analyst Day is roughly
+$50 million [ph] conference rooms of approximately 10% penetration. I'm certainly, what you're
+seeing, I think is we've won some great deals this quarter, a large food company, Bracken
+mentioned a lot of tech giants. So we're winning lots of deals they tend to be smaller upfront with
+additional purchases as they re-outfit their rooms over time. So we're bullish on video long term,
+and it's a great category. These new products, I think will provide additional fuel for growth long-
+term.
+A - `Bracken Darrell, President and Chief Executive Officer `
+One other thing, we didn't mention, Paul, was service. It's a really small business for us today, but
+it's going to keep growing, and it's growing rapidly and every time you buy a room, you really
+ought to be getting the service that goes with it. And our service package is called Select and it's
+growing -- like I said, it's growing very rapidly. And I think, one day that will be a pretty -- pretty
+decent chunk of our revenue.
+Q - `Paul Chung, Analyst, JPMorgan `
+Okay, great. Thank you.
+A - `Bracken Darrell, President and Chief Executive Officer `
+Thank you.
+A - `Nate Melihercik, Investor Relations `
+Next up is `Alex Duval, Analyst, Goldman Sachs from Goldman Sachs.
+A - `Bracken Darrell, President and Chief Executive Officer `Hey, Alex. How you doing?
+Q - `Alex Duval, Analyst, Goldman Sachs `
+Hi, everyone. Thanks very much for the questions. Just wanted to ask firstly on OpEx. You've
+done a very strong job controlling that. I just wondered, how much more OpEx control, you think
+can be done? Should we expect further cost reductions this fiscal year versus fiscal '23 or is fiscal
+fourth quarter indicative of new run rate going forward? And secondly, some investors have been
+asking about PC suppliers, which you've indicated there could be a possibility of stabilizing PC
+demand in the second half of the year. Curious to what extent your PC linked revenues could
+benefit from such a recovery? Any color there very much appreciated.
+A - `Bracken Darrell, President and Chief Executive Officer `
+I'll just touch on each one and then Chuck, you can clean up whatever you feel like, I didn't cover. I
+think, we've been super clear that we want to get to a $1 billion run rate. Our OpEx, as we get
+past this first half and into the latter half of the year and that's where we're headed. So no, our
+current run rate is not quite where we want to be yet. But we'll get there. The second, on your
+second question, we've been pretty clear that we think the PC -- the PC category is kind of not
+linked as a driver of our peripheral's business. However, it is probably indicative of what's
+happening in one way, which is that if [ph] especially in the B2B business, people are cutting
+spending on PCs, they're probably also cutting spending on peripherals.
+So yeah, I think there's some relationship, we'll see what happens. We're not guiding back half of
+the year yet, where we continue to feel like the visibility is really hard to call. What do you want to
+add there, Chuck on either one of those.
+A - `Chuck Boynton, Chief Financial Officer `
+Yeah, I'll just add on the OpEx side, we finished the quarter with $266 million on OpEx and our
+plan is to get to $250 million in a quarter by the back end of this year. And so there is -- there are
+some headwinds on OpEx with FX which is an [ph] overall benefit to the company, but a little bit
+of a headwind, but, so the reductions are already mostly completed and where, we'll see the
+numbers come down, I think each and every quarter up until the middle part of the back half of
+the year.
+Q - `Alex Duval, Analyst, Goldman Sachs `
+That's very helpful. Many thanks.
+A - `Bracken Darrell, President and Chief Executive Officer `
+Thank you (Multiple Speakers)
+A - `Nate Melihercik, Investor Relations `
+Next question is from `Asiya Merchant, Analyst, Citi at Citi. Good morning, Asiya.
+A - `Bracken Darrell, President and Chief Executive Officer `
+Hi Asiya
+Q - `Asiya Merchant, Analyst, Citi `Hey, good morning, everyone. Hopefully you can hear me? So a quick question on gross margins,
+I think in the past, you guys have provided some breakdown of how FX versus promotions versus
+inflation have kind of affected margins on a year-on-year or even on a sequential basis. So if you
+could go through that exercise for the March quarter. And then as you look ahead, I heard Chuck
+mentioned that margin should improve here as dollar weakens and the inventory is right sized
+and flow-through of the lower manufacturing costs. So what should we kind of expect for, let's
+say, even the first half of the year or should we expect those unwinds to happen that are
+headwind in the first -- throughout most of fiscal '23. That's my first question.
+And then secondly, Bracken (Multiple Speakers)
+A - `Bracken Darrell, President and Chief Executive Officer `
+Let me stop you there. And let me -- let's answer one at a time, so we can really focus on it. And
+Chuck, correct me if I'm wrong, but I think, we've been saying that about 300 basis points were
+inflation, a couple of 100 basis points were currency, and then the -- and then there was a few
+other drips and drabs, so 100 basis points on transportation et cetera. I think, all that is coming
+through. It's just coming through slowly and as it would, it has to work its way through our
+inventory, which takes time.
+We've got a pretty long inventory cycle and we're -- and we were sitting on more inventory than
+we would have liked before. You want to add anything to that, Chuck.
+A - `Chuck Boynton, Chief Financial Officer `
+Yeah, I think that's good and sequentially, that's sort of a year-over-year view, sequentially
+inventory charges were a couple of hundred basis points and mix was a couple hundred, so those
+are ones, mix, it's hard to predict. But inventory FX costs, I think are all transitory, and I think, we
+should see sequential improvement slowly throughout the year.
+A - `Bracken Darrell, President and Chief Executive Officer `
+Sorry to interrupt.
+Q - `Asiya Merchant, Analyst, Citi `
+(Multiple Speakers) good will promotions -- no, that's fine. Were there -- was there any effect, just
+people are trying to understand what the effective promotions have been, is there a competitive,
+that was kind of, it goes into my second question, the competitive dynamics, you talked about
+gaming being soft, we heard from GN, I guess Jabra in Europe that they had done well in
+Gaming. So maybe you can talk a little bit about the competitive dynamics, both on the gaming
+side, and just broadly, how it's affecting margins whether there's been an increased competitive
+intensity here and if you can see that easing as the year progresses?
+A - `Bracken Darrell, President and Chief Executive Officer `
+First let me, I don't know their earnings quite well enough to know, but I have a hunch what the
+difference between us and them is simply category difference. So we have a big simulation
+business and we've a huge simulation number a year ago now, year ago (inaudible) so we
+certainly don't think we're losing any share in Gaming. So I think, it's probably comparable. Chuck,
+you want to take any of this that [ph]
+A - `Chuck Boynton, Chief Financial Officer `Yeah, I do, so promotional activity, sort of went back to normal in Q4 that was a bit of a headwind
+in Q3 sort of back to normal in Q4. Our competitive positioning. I think we feel great in gaming,
+our business, our gaming business is very, very much larger than theirs, is it. So it's -- when you
+compare the categories, we have different categories like simulation that they're not in, it's a
+great category with terrific margins that was down quarter-over-quarter, given the kind of
+promotional bump from the December quarter.
+A - `Bracken Darrell, President and Chief Executive Officer `
+And a year ago.
+Q - `Asiya Merchant, Analyst, Citi `
+Okay, all right. And so just competitive intensity going forward, whether it's VC, an HP Pozy [ph]
+whether it's gaming, are we trying to -- are we seeing like as the inventory digestion has
+happened, competition is kind of going back to normal promo [ph] and so there isn't this
+excessive hunt to reduce inventory in the channel.
+A - `Chuck Boynton, Chief Financial Officer `
+(Multiple Speakers)
+A - `Bracken Darrell, President and Chief Executive Officer `
+Yeah, go ahead Chuck.
+A - `Chuck Boynton, Chief Financial Officer `
+The B2B side is not as price-sensitive as the consumer side. So I don't think the -- that the video
+category is -- very price sensitive. The margins are terrific and the industry participants have been
+behaving rationally and so that's really more, I think just this kind of general issue around the
+economy and uncertainty that's happening with corporate buyers that -- that the overall large
+conference room, medium conference room business is kind of stable, it's not really taking off
+and growing, but it's not really going down either. So I think, that's really more just the early
+indicators look good.
+But I think, with the overall uncertainty that will come back, other areas like webcams, I think, you
+see more price sensitivity.
+A - `Bracken Darrell, President and Chief Executive Officer `
+Yeah, and we've always got -- and we do now, areas where we feel like we really need to adjust
+pricing a little bit or bring pricing down a little heavier, but they tend to be surgical and so we and
+without getting into specifics here, I think that's going to continue to happen. But overall, I feel like
+the promotion intensity is not, it doesn't scare me right now, I don't feel like there's a big wave of
+price competition coming through, it's going to change the dynamics of our business.
+Q - `Asiya Merchant, Analyst, Citi `
+Okay, great. Thank you.
+A - `Bracken Darrell, President and Chief Executive Officer `
+Thank you.A - `Nate Melihercik, Investor Relations `
+Next on the line is `Erik Woodring, Analyst, Morgan Stanley from Morgan Stanley.
+A - `Bracken Darrell, President and Chief Executive Officer `
+Hello Erik.
+Q - `Erik Woodring, Analyst, Morgan Stanley `
+Hey, good morning, guys. Thanks for -- thanks for taking my question. Bracken maybe I -- if I could
+ask you a bigger picture question and that is, I appreciate the fact that you're very clear in that
+visibility is more limited today. Can you maybe just share some comments about why visibility is
+less limited today, is it the channel, is it spending patterns, is it the impact and the uncertainty of
+the macro conditions, all of the above. If you could just double-click on that to help us understand
+why perhaps today versus historical periods, you just have less visibility into the business.
+A - `Bracken Darrell, President and Chief Executive Officer `
+That's a great question. I like the way you phrased it, it's really not -- it's only the -- just the
+economic environment we're in, it's just a little hard to see, you don't know -- you're going to go
+up until you actually balance and I think, we've been down now for three or four quarters and I
+think, it's really hard for us to judge when that direction will change. We think it will change. It's just
+a question of when, so it's really just that. I was with the -- I was in an event this week, where
+there were a bunch of kind of mid -- mid sized and smaller CEOs and some HR people et cetera.
+And I got -- I really got this -- it just reinforced my strong feeling and the data that we're seeing,
+which is that, especially on the B2B side, it's not like companies are in trouble. I mean they are
+okay. They're just spending more conservatively and I think that conservatism is pretty -- is --
+when you spend conservatively, you tend to have a [ph] easiest control over your costs and that's
+why lot of the PC companies are feeling it.
+We're feeling it. So it's really just that, Erik. And it's really hard for me to say, when it will turn, but it
+will, you could probably go back and look at economic cycles, and try to deduce [ph] something,
+but we decided just to be more conservative and just guide for six months and then wait and see
+quarter-by-quarter.
+Q - `Erik Woodring, Analyst, Morgan Stanley `
+Okay, that's helpful. And then I guess maybe the second question, because you guys kind of
+elaborate to it, but you called out some deals this quarter which I feel like, you don't necessarily
+do historically, you mentioned Snowflake, Chuck, you mentioned another one. Can you just give
+us an understanding, I know, Chuck, you mentioned they start small but are these needle movers
+-- are these mostly in the VC business, are they currently embedded into your guidance or is this
+incremental because you just announced some of them. So, I wasn't sure, how much line of sight
+you had 30 or 60 days ago.
+So again, if you could just elaborate on the impact of those deals. Any color you could share on
+the products and then whether they're incremental or not. That'd be helpful. Thank you.
+A - `Bracken Darrell, President and Chief Executive Officer `
+I'll jump in and Chuck you can add. I think -- I think, we really just felt like, you know what, we
+should once in a while call out some of the customers. So you get a feel for the logos. There arelot of big logos that we don't get permission to talk about publicly for whatever reason, it's not
+usually that they don't want us to, we just don't -- don't go ask them. We did mention Snowflake
+this time, we talked about the food company. There are many others.
+I would say, they are pretty much part of our overall game plan. They're needle movers. But
+they're not needle movers relative to the expectations I have already said, you want to add
+anything in there, Chuck.
+A - `Chuck Boynton, Chief Financial Officer `
+Yes, I do. Erik, the key thing is you want to win the Company. Now, many companies use multiple
+vendors. So it's not like there are other [ph] exclusive. But the -- if you win the account, it tends to
+be a smaller deal upfront and then they keep buying more and more and more over a period of
+years. So no one transaction is a needle mover for us, but they're really good signs that we've
+won the account that we can land and expand and ultimately that's what we're looking for. And I
+just want to call out our sales organization because they are -- just they've done a really, really
+good job of building out this B2B capability.
+It's a key strategic investment for us and I think, it will bear fruit for years to come.
+A - `Bracken Darrell, President and Chief Executive Officer `
+And if I could just add, I was just in a -- a large manufacturing company's offices here in New York,
+this week, and it's really interesting. They started very small with us, to your point, Chuck. Started
+very small with us about two years ago and now, every single room they have has our stuff and
+it's an incredible office by the way and so that's kind of our game plan, where you just really want
+to land and expand.
+Q - `Erik Woodring, Analyst, Morgan Stanley `
+If I could, sorry, just follow up with one last question. Chuck, this one's for you, just on gross
+margins. If we look back over the last four years, we have seen sequential compression in gross
+margins from March into June. The comments I hear from you kind of seem to indicate they might
+go the other direction and expand from March to June. Can you just maybe help us, give us a few
+more pieces to help us understand the direction of -- directionality of gross margins from March
+into June and some of the more influential moving pieces there, and that's it from me. Thanks.
+A - `Chuck Boynton, Chief Financial Officer `
+Yeah, thank you, Erik. We're not providing detailed guidance for June. So I would not [ph] -- I
+would say, let's look over the longer term. We're in this sort of transition -- transitory state right
+now. We brought channel inventory down significantly. So we brought channel inventory down,
+we're going to continue to take that down in Q1 and Q2 before it builds into Q3. The overall
+seasonality of the Company is such that Q1 and Q2. Actually, we outlined at our Analyst Day. If you
+go back and look. I think it was like 24% Q1, 24% Q2, 30% Q3 and I think 22% if my math works for
+Q4.
+That overall profile if you think about that, you're absorbing more overhead, where -- as you have
+bigger quarters and we're taking channel inventory down and revenue being sort of suppressed
+with reducing channel inventory that hurts gross margins. And then when it expands, it's a benefit.
+So I look at that and say, I'm not going to say, Q1 of the June quarter, it's back to normal, but I do
+think by end of Q2, Q3, back half of the year, I expect us to be back to normal and certainly noone can predict the currency rates, but that's been a real headwind over the last year or so. It
+looks like it's getting better and turning now, but we just -- we can't be sure.
+The inventory charges, some of those items, I do think, those are a tailwind now.
+Q - `Erik Woodring, Analyst, Morgan Stanley `
+Super. Thank you for all the color, guys.
+A - `Bracken Darrell, President and Chief Executive Officer `
+Thank you.
+A - `Nate Melihercik, Investor Relations `
+Our next question is from Ananda at Loop. Good morning, Ananda.
+A - `Bracken Darrell, President and Chief Executive Officer `
+Hey, Ananda.
+Q - `Ananda Baruah, Analyst, Loop Capital `
+Hey, guys. Hey, good morning. Yeah. Good to see you guys, thanks for taking the questions. A
+couple if I could. I mean, I guess we could just stick right there Chuck with your comments around
+sort of seasonality, do you think that the inventory that remains to be worked down, could impact
+seasonality in September, December quarter meaningfully or is it -- is the inventory really in
+businesses where right now where the impact would be needed? And then, I have a quick follow-
+up. Thanks.
+A - `Chuck Boynton, Chief Financial Officer `
+Yeah, I mean, overall, I feel comfortable with where our inventory levels are. I just -- our view is
+sort of a philosophy is that a lean supply chain is better for everyone. If you think about return on
+invested capital as I think is the ultimate metric, if you have less on-hand inventory, less channel
+inventory, it's better economics for everyone. So while our weeks [ph] on hand are within the
+normal operating model, we'd like to get that a little bit leaner, because I think that will be better
+returns for us and the channel, but of course you have to rebuild the channel inventory because
+of that seasonality for the December quarter, Black Friday into the Christmas period.
+So, that -- that I believe will happen regardless, but overall, I -- we're comfortable with where the
+levels are today and even where they were in Q4. We just want to take them down because I
+think, it's better unit economics.
+Q - `Ananda Baruah, Analyst, Loop Capital `
+That's really helpful. I appreciate that. And then Bracken, I guess for you. You mentioned, sort of
+like kind of off the LUFF [ph] in the beginning prepared remarks, return to office is uncertain,
+refresh cycles haven't kicked in yet. Anything that you guys are seeing that has you think kind of
+the structural nature that underpins some of the key trends is altering at all and actually, if could
+just, as a part of that, just where are you seeing the refresh cycles not yet kicking in. Would you
+think they -- they eventually will kick in and (Multiple Speakers) that's it for me. Thanks.
+A - `Bracken Darrell, President and Chief Executive Officer `Thank you. On the refresh cycles, I think, we're not yet seeing in -- in personal workspace. We're
+not really seeing it kick in yet, which is the mice and keyboards and that kind of thing. And even
+for gaming. So I think, that's probably ahead of us. Those cycles are three to five years. So we'll
+probably see it, some of the categories are faster, some of them longer. On the -- on the
+structural nature of our opportunity, I don't really see anything that's changed. I mean, I think it's
+pretty much the same.
+We've just got such a -- I'm sitting in an [ph] office now and the one I'm sitting in now does have
+video, but if I walk down the hallway, it's amazing to me, how many of these offices do not have
+video. So I think, that's just a reality and hybrid work, it has done nothing but make that more
+obvious to people and more required. I think, what has -- so I don't think that's changed. I don't
+think the need for a home office has changed or to upgraded.
+I don't think the reality of gaming or streaming and creating has really changed at all. So I don't
+see anything really fundamentally, structurally that's changed in our view of the category
+opportunities.
+Q - `Ananda Baruah, Analyst, Loop Capital `
+All right, okay, great, that's helpful. Thank you. Appreciate it.
+A - `Bracken Darrell, President and Chief Executive Officer `
+Thank you
+Operator
+Next on the line is `Adam Angelov, Analyst, Bank of America from Bank of America.
+A - `Bracken Darrell, President and Chief Executive Officer `
+Hi Adam
+Q - `Adam Angelov, Analyst, Bank of America `
+Hi, thanks for letting me on. Yes. So firstly, just a very quick one for Chuck, to follow up on what
+you just answered to previous question, gross margins back to normal. Did you mean, back to the
+long-term guidance range, just quickly on that?
+A - `Chuck Boynton, Chief Financial Officer `
+Yeah, I -- it's possible we get there still this year, Q3 generally tends to be really strong gross
+margins because it is a peak quarter. So I think, it's very possible that Q3 is there just because it's
+such a big, big quarter due to seasonality. But if you think about run rate structurally, annually at
+that kind of 39% to 44%, my guess is, it's probably into next year, but that's we -- I can't really
+predict that.
+But certainly, I think if you look historically, Q4, Q3 being our best quarter, we've been typically
+quite high margins in that Q3 just given the volume.
+Q - `Adam Angelov, Analyst, Bank of America `
+Got it. That's helpful, thanks. So next, I think just curious on what you saw in China in the quarter,
+was there any sequential improvement there and perhaps as you look into the rest of the year?A - `Bracken Darrell, President and Chief Executive Officer `
+I want to try that one, Chuck, and you feel free to jump in. I think, China is a little harder for me to
+judge right now to be honest, it's usually been just kind of consistently up into the right. I think, it's
+been choppy over the last kind of year. It's -- it is highly competitive there, it's opened up but not
+as much as you'd like. So it's not quite where back where it used to be. But, I feel very confident
+and so longer-term, I think the dynamics in China are great. You've got such a young population,
+everybody's moving into the workforce and moving up in the workforce. There's more and more
+knowledge workers and it's become an environment where you can imagine a bigger, a healthier,
+more dynamic kind of IT world in China. It's obvious to me and probably obvious to you.
+So I'm really excited about long-term, we have a great brand there. I mean, a really great brand
+there, incredibly strong market shares and that's across both our two consumer businesses. On
+the video collaboration side, it's never been as strong there. It's just a -- for some reason, the
+dynamics there have developed quite differently. And that does -- tend to happen in China in
+some categories. We'll see if it eventually gets to where it really got more gusto but -- but
+overall, I don't see anything but strength long term in China, but I don't -- it's really hard for me to
+call, just like it is for our visibility in the back half of the year for the company in general for China
+particularly. I don't know.
+A - `Chuck Boynton, Chief Financial Officer `
+Yeah, I think as it relates to China, Q3 was a tough quarter. It was down and we were down 25%
+year-over-year in Q3. Q4, though, we were down 3% year-over-year. So it looks like a recovery in
+China. As Bracken mentioned, our top SKUs -- the best selling products in China are in the
+gaming side. So there's just a huge opportunity on video, but that's a -- it's a tough nut to crack
+but that one, the market is just enormous, and so, I think, we're in a good position with things
+stabilizing there as it relates to volumes year-over-year.
+A - `Bracken Darrell, President and Chief Executive Officer `
+And we do partner differently in video in China than we do elsewhere, because the -- you don't
+have the same service players, or not -- I think big video conference players are not as big in
+China, that they're much smaller.
+Q - `Adam Angelov, Analyst, Bank of America `
+Okay, that's great. And if I can just squeeze one more in.
+A - `Bracken Darrell, President and Chief Executive Officer `
+Sure.
+Q - `Adam Angelov, Analyst, Bank of America `
+The behavior you're seeing from the enterprise customers, I think you touched on it briefly but
+just curious to know, it sounds like it hasn't got worse, but equally hasn't improved, but maybe if
+you could just go into that in a little bit more detail would be helpful. Thanks.
+A - `Bracken Darrell, President and Chief Executive Officer `
+I think, you captured it, it's pretty much kind of stable. I would say, it's about where it was, which
+doesn't really shock me. The layoff news continues and the layoffs especially in Tech but it's alsonews kind of -- it's kind of -- it seems like it maybe as almost all the way out the big company
+news at least is almost all the way out. But the impact really dribbles over a three to six to nine
+months. So I think, that that -- those dominos will continue to fall now for another few quarters,
+but it will turn.
+Q - `Adam Angelov, Analyst, Bank of America `
+Very good, thank you.
+A - `Bracken Darrell, President and Chief Executive Officer `
+Thank you.
+Operator
+Our next question is from `George Wang, Analyst, Barclays at Barclays. Hey, George.
+A - `Bracken Darrell, President and Chief Executive Officer `
+Hey, George.
+Q - `George Wang, Analyst, Barclays `
+Hey, guys. And Chuck, maybe you can give more color on the capital return kind of going forward,
+especially given better cash flow backdrop with some tailwinds coming back on the inventory kind
+of better cost profiles. Just curious if you have any color just on buyback or kind of dividend
+going-forward?
+A - `Chuck Boynton, Chief Financial Officer `
+Yeah, we're just really proud of what we've been able to accomplish on returning capital to
+shareholders over the last few years, we had a great cash quarter, we had a great cash year, if
+you look at it year-over-year, our cash balance now is $1.14 billion, $1.15 billion it's down year-over-
+year. We ended last year at about 1.2 or 1.3, and we returned 577 million roughly to shareholders.
+So that has been great. Our primary objective though as we've stated before is to -- is growth.
+And so we -- if to the extent we don't use cash to buy companies or expand then we plan to
+return that back to our shareholders via a great dividend that we pay, as well as buybacks.
+Q - `George Wang, Analyst, Barclays `
+Okay, thanks. I have a quick follow-up, Bracken, maybe you can comment on that. It's kind of with
+share gains. In your prepared remark, you called out some share gains within the gaming
+category. Are there any other kind of category -- you want to recall [ph] in terms of notable share
+gains in the last few months?
+A - `Bracken Darrell, President and Chief Executive Officer `
+Across the year, you can see our share gains across most of our key categories and those share
+gains were very widespread and consistent. It's -- and it's really a function of our innovation
+engine -- within [ph] any single quarter, a few months we'll have sometimes it wobbles up-and-
+down, so, I won't go through the individual categories. But we've -- over the 10, 11 years that I've
+been here, we've consistently gained share in almost every category, and we're -- that's why
+we're so focused on design and design led engineering. And that's why we're investing.Q - `George Wang, Analyst, Barclays `
+Okay, great, thank you.
+A - `Bracken Darrell, President and Chief Executive Officer `
+Thank you.
+Q - `George Wang, Analyst, Barclays `
+That's it for me
+A - `Bracken Darrell, President and Chief Executive Officer `
+All right. Thank you.
+A - `Nate Melihercik, Investor Relations `
+George. Our next question is from `Serge Rotzer, Analyst, Credit Suisse at Credit Suisse.
+A - `Bracken Darrell, President and Chief Executive Officer `
+Hi Serge.
+Q - `Serge Rotzer, Analyst, Credit Suisse `
+Hi. So now I'm ready. Good morning, everybody. Well, two simple questions. The first question is
+you were down 22% in sales and also in gaming, 25, 27 in video conferencing. Can you give me a
+feeling, how much is price impact and how much is volume impact. Price impact due to
+promotions, but also due to more competition in the enterprise business, can you give me a
+flavor on that?
+A - `Chuck Boynton, Chief Financial Officer `
+Certainly, it's -- the year-over-year changes are primarily volume. We were promoting a little more
+than we'd expected in Q3 that has returned to normal, so it's primarily volumes Year-over-Year.
+Q - `Serge Rotzer, Analyst, Credit Suisse `
+Any product categories where you have been able to increase prices or to increase volume.
+A - `Chuck Boynton, Chief Financial Officer `
+We increased prices in a number of categories, there have been some bright spots. Some of the
+tablets and accessories have been a bright spot, certain -- certainly, there's lots of different, we
+have many-many SKUs in many products, many of them, there are -- many of that are growing,
+but the secular trends that you're seeing are the -- are year-over-year comps. As we start to lap
+our Q4 and throughout this year, I think we will see easier and better comps as it relates to the
+year-over-year results.
+Q - `Serge Rotzer, Analyst, Credit Suisse `
+Okay, fair enough. Then probably I switch directly to second question. At the Capital Market Day,
+you mentioned that. Hey guys, look at the seasonality of our quarters in sales. And it's 48% [ph] in
+sales you do the first-six months and obviously, 52 in the second six-month for second-half, nowI'm wondering, we also have a seasonality in EBIT, in the past you did 40% of the EBIT in the first-
+six months. So basically, you had to do 60% in second-half. And when I take your guidance and
+would -- sum this up for the full-year then we are at the level at the mid point of $435 million. This
+is clearly below consensus and expectation, now I am wondering are you took CAUTIOUS more
+for the first-six months or are you much more ambitious for the second six month?.
+A - `Chuck Boynton, Chief Financial Officer `
+Well, what you're seeing is the profile is -- we are in a transitional stage. So operating expenses
+are coming down. We're taking costs out and we're seeing some benefits that we think will
+manifest into gross margins. And so that profile that you're seeing in this transitional stage is
+putting more pressure on the near-term. We're not providing outlook to the back-half of the year
+because quite frankly, we just -- we just don't know.
+We hope to do that. We plan to return to annual guidance over time. Certainly, we're optimistic
+that the December quarter, our biggest quarter will be a strong quarter, but at this point, sitting
+here in early May, it's just too early right now to provide color on Q3 and Q4.
+Q - `Serge Rotzer, Analyst, Credit Suisse `
+But to be honest, to improve your margin, your EBIT contribution in the second-half, you need
+success in VC, is correct because it's still the highest gross profit margin product.
+A - `Chuck Boynton, Chief Financial Officer `
+Well, certainly if videoconference improves, that's an additional tailwind. The mix that we talked
+about, it's really hard to predict what will happen with the mix, I will tell you generally the B2B
+categories are less seasonal. So I think, you'll see the -- other parts of the business will mix up
+more in the Q3 quarter due to seasonality but Video does not have to return to get to our
+targets, but if it does, I think that's great. And we expect it to, we just -- we're not providing
+guidance for the back half of the year.
+Q - `Serge Rotzer, Analyst, Credit Suisse `
+And probably, still the last one, you mentioned VC is stable but VC quarter-over-quarter was
+minus down 20%. So what do you mean with stable, when things down by 20%?.
+A - `Chuck Boynton, Chief Financial Officer `
+Yeah, it's -- that's a good -- good question. So we're going to realign the categories that we
+show you next quarter. So you'll see, we're going to break out in a bit more detail the quarterly
+businesses. So in the video category, we have professional webcams and some other solutions in
+there, and webcams across the board business to business consumer those have seen -- has
+seen some significant declines and whereas the room solutions have been fairly stable. And
+that's what we're referring to.
+Q - `Serge Rotzer, Analyst, Credit Suisse `
+Okay, got it. This is very helpful. So (Foreign Language) Thank you so much. Bye-bye.
+A - `Bracken Darrell, President and Chief Executive Officer `
+Thank you.A - `Chuck Boynton, Chief Financial Officer `
+Thank you.
+A - `Bracken Darrell, President and Chief Executive Officer `
+I'm glad you said that Chuck because I think, that -- I can't wait till we do that realignment because
+it will -- I think it will bear things for people.
+A - `Nate Melihercik, Investor Relations `
+Great. Our next question is from `Andreas Mueller, Analyst, ZKB at ZKB.
+A - `Bracken Darrell, President and Chief Executive Officer `
+Hi, Andreas.
+Q - `Andreas Mueller, Analyst, ZKB `
+Hi, everybody. Thanks for taking my questions. I have one on Windows 11, if that's going to help
+you in at some point, you mentioned this correlation with PC sales of course is not that much
+strong, but from a product perspective that this operating system will help you in some ways with
+your product that some new innovations coming in?
+A - `Bracken Darrell, President and Chief Executive Officer `
+My experience with Windows upgrades is just kind of ignore them from a volume standpoint for
+the near term and then the long-term, they're good, because they keep the PC industry vibrant.
+So that's kind of the way we're thinking about it now, but I'm sure it will be a good thing overall,
+good for users and our products are always well integrated with the latest Windows update --
+upgrade. So it's going to -- we're going to be in good shape there. But I wouldn't expect anything
+significantly changed because of that.
+Q - `Andreas Mueller, Analyst, ZKB `
+Okay then your (Multiple Speakers)
+A - `Bracken Darrell, President and Chief Executive Officer `
+I wish -- I would add one other thing, I think the bigger change we've made is our products work
+really well with Apple or with the Mac and that's happened over the last year and we've seen
+really significant business improvement and potential out there because of that.
+Q - `Andreas Mueller, Analyst, ZKB `
+That's tied to the productivity categories or also others [ph]?
+A - `Bracken Darrell, President and Chief Executive Officer `
+Yeah, perfectly correct [ph].
+Q - `Andreas Mueller, Analyst, ZKB `
+Then next question, you are a cash rich Company right now and I was wondering, can you discuss
+if that is helpful or was that helpful at times when financing by banks, sort of more conservativeand towards clients and competitors. I mean, does that change your position in some ways
+because I saw DPOs went up.
+A - `Bracken Darrell, President and Chief Executive Officer `
+Let me just try to briefly answer that and I'll let Chuck jump in. I'm not sure really it changed
+anything for us because we don't need much support from banks. We do have a great banking
+relationships in the event we ever needed it. But we don't really need much, so it probably didn't
+change much. I will say, it's kind of comforting not to -- not to be too dependent on leverage and
+if -- in tough times. But I think, at the end of the day, we're really -- as you said, we're a cash-rich
+company, but we're also very good cash generator, so that means, we have to make sure that
+we deploy our -- that cash responsibly and I think, like Chuck, I'm really proud of the way we put
+the cash back in shareholder's hands last year in one way or another. And I think, we expect to
+continue to be a great cash generator and we're aggressively looking for strategic ways to really
+grow our business because growth is what it's all about. And so we're going to keep doing that.
+Chuck you want to add anything to that?
+A - `Chuck Boynton, Chief Financial Officer `
+Yeah, I agree. We have a very high bar for M&A, we've got a great history and a great track
+record and to the extent we find great opportunities then we'll deploy it. Otherwise, we will
+return the capital to shareholders as we've done, but I'm very comfortable with the cash balance
+that we have. It's similar to where it's been the last couple of years. And so I think, it's sort of
+steady as she goes on the capital allocation model.
+Q - `Andreas Mueller, Analyst, ZKB `
+Okay. And then last question on you -- with for you, Chuck, this $18 million restructuring charge
+was that it now in this program, or should we look for more going forward?
+A - `Chuck Boynton, Chief Financial Officer `
+There will be more charges. The accounting rules have kind of changed over the years, where it
+used to just take all the charges upfront and then you would spend against those reserves, the
+rules have changed a little bit. So there will be additional charges that we incur over the next few
+quarters. But largely, the actions are all done internally. It's just more of a timing.
+Q - `Andreas Mueller, Analyst, ZKB `
+Okay, thank you very much.
+A - `Bracken Darrell, President and Chief Executive Officer `
+Thank you very much. All the best [ph] Michael?
+A - `Nate Melihercik, Investor Relations `
+Bracken and Chuck. Our final question for the morning is from `Michael Foeth, Analyst, Vontobel at Vontobel.
+A - `Bracken Darrell, President and Chief Executive Officer `
+Hi, Michael. It's biking [ph] season-- so you're probably back out [ph].
+Q - `Michael Foeth, Analyst, VontobelOkay. I have one on sustainability. You mentioned that your carbon labeling is now, I think 45% of
+products. What holds you back from being fast and labeling the rest and is the process so
+complex, is that maybe reason why it's also holding back your peers from doing the same?
+A - `Bracken Darrell, President and Chief Executive Officer `
+Okay. I'll answer that. There are two things going on there, one is that, it is a -- we don't want to
+just give a really high level estimate of carbon impact because we're taking scopes one, two and
+three, which means from the components that go into our products, transportation end use and
+end of life. So we're really taking the full period. We also need to have enough data to actually be
+able to draw conclusions that are accurate. So some of our products that are newer. We really
+have to give them a year before we have a good accurate assessment. So that's the -- that's one
+of the drivers. The second one is, it just takes a while to then implement those into individual
+products pack product by product.
+So I'm really excited about how fast we've moved actually, I think one of the reasons why you
+don't see it from other people is because it is -- it isn't easy. We're trying to make it easier. So
+we've been working with an external provider to try to make that easier and more cost-efficient
+because it's not terribly expensive but it costs money because we really strongly believe that
+everybody should be carbon labeling in every industry, but this is really the one tool that we can
+all use, governments can use to drive this all to be -- to have -- to compete with each other on
+carbon.
+Q - `Michael Foeth, Analyst, Vontobel
+Okay, thank you. And then on your guidance for the first half of your fiscal year, what's -- which
+categories are you most confident in that -- that will support that guidance and where do you
+have more uncertainty looking in the first six months?
+A - `Bracken Darrell, President and Chief Executive Officer `
+Well I have not -- I won't try to be anything except to be straightforward on this. It's a little hard to
+say. I really think personal workspace seems pretty solid, mice and keyboards, it's just kind of a --
+it's been great for us for instance, since 1981 also [ph] '82 and it continues to be and I think that
+the gaming category will be solid, I think Video Collaboration, it's -- I kind of think that one, they
+say enter cycle earlier on consumer and you exited earlier, and you enter cycle later on B2B and
+you exit it later. So I would say, you know if you had to ask me, you really press me, I would say
+the -- my guess is that the (inaudible) business will be sturdier and more reliable than the others,
+but, but it's been a little hard to tell through the cycle, being one of the reasons why we only
+guided six months because it's really harder to tell right now, especially on the B2B side.
+Q - `Michael Foeth, Analyst, Vontobel
+All right. And then a last one for Chuck, you mentioned, return on invested capital is your ultimate
+metrics, is -- how long do you have to wait until that becomes sort of part of your long-term
+model?
+A - `Chuck Boynton, Chief Financial Officer `
+I don't think at this point we plan to use that for an outlook externally, it's an internal metric that
+we track. And it's -- so I would not expect us to publish long-term outlook there.
+A - `Bracken Darrell, President and Chief Executive Officer `I do love that we're using it internally. And I think, it's a super important metric.
+Q - `Michael Foeth, Analyst, Vontobel
+Definitely. Thanks. Thanks a lot.
+A - `Bracken Darrell, President and Chief Executive Officer `
+Thank you. Well, thanks to all of you. I'll jump in here. Nate, just -- I really appreciate all the
+discussion, one quarter down, the minute we have more visibility, you can bet that -- or -- strong
+visibility, we're going to -- we're going to go to the full year. As Chuck said and so thanks. We'll
+see you in a quarter.

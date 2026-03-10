@@ -1,0 +1,628 @@
+Y 2023 Earnings Call
+
+Presentation
+`David Mulholland, Head of Investor Relations `
+Good morning, ladies and gentlemen, welcome to Nokia's Fourth Quarter 2023 Results Call. I'm
+`David Mulholland, Head of Investor Relations, Head of Nokia Investor Relations, and today with me is `Pekka Lundmark, President and Chief Executive Officer, our
+President and CEO, along with `Marco Wiren, Chief Financial Officer, our CFO.
+Before we get started, a quick disclaimer. During this call, we will be making forward-looking
+statements regarding our future business and financial performance and these statements are
+predictions that involve risks and uncertainties. Actual results may therefore differ materially from
+the results we currently expect. Factors that could cause such differences can be both external as
+well as internal operating factors. We have identified such risks in the Risk Factors section of our
+Annual Report on Form 20-F, which is available on our Investor Relations website.
+Within today's presentation, references to growth rates will mostly be on a constant currency
+growth rate basis. When we re-refer to margins, it will be based on our comparable reporting.
+Please note that our Q4 report and the presentation that accompanies this call are published on
+our website. The report includes both reported and comparable financial results and a
+reconciliation between the two. With that complete, in terms of the agenda for today, Pekka will
+give an overview on the quarter and then Marco will go into a bit more detail on some of the key
+factors impacting our financial performance before Pekka gives a brief conclusion and we move
+to Q&A.
+With that, let me hand over to Pekka.
+`Pekka Lundmark, President and Chief Executive Officer `
+Thank you, David, and thank you to everyone for joining us today. So let me start with an update
+of some of the strategic and operational changes we announced with our Q3 results in October.
+We are evolving our operational model to give our business groups increased autonomy and
+have now embedded our sales teams into the business groups. This announcement has beenwell received by our customers. We have hit the ground running in 2024. The move to embed
+sales teams into the business groups happened at the start of the year.
+We have appointed customer account executives and the Country Manager role has also been
+reinforced. The customer account executives are there to ensure that we still offer one point of
+contact and person responsible for overall relationship management with customers without
+detracting from the accountability of the business groups. Some corporate functions have also
+moved to the business groups as we move to a leaner corporate center. During first half of 2024,
+we will begin reporting business group regional sales and cash flow metrics to further enhance
+transparency and we already commenced the process of resetting our cost base during 2023.
+We expect this program will generate EUR400 million of gross savings during 2024.
+If we then turn to Q4 and 2023 full year, we, of course, saw a meaningful shift in customer
+behavior impacting our industry. This was driven by macroeconomic environment and high
+interest rates along with customer inventory digestion especially in North America. This led to our
+fourth quarter sales decline by 21% and full-year sales decline by 8% in constant currency.
+Proactive action across our organization meant we were able to protect our profitability while
+continuing to invest in R&D and we delivered a comparable operating margin of 14.8% in Q4 and
+10.7% for the full year. This was a resilient performance considering the challenging environment
+and lower contribution from our high-margin patent licensing business, as some renewals
+remained outstanding.
+We were pleased with our cash performance in the quarter where we generated EUR1.7 billion of
+free cash flow and we ended the year with a net cash balance of EUR4.3 billion. Positively, we also
+ended the year with improving order intake. Our fourth quarter book-to-bill was above 1
+particularly supported by our Network Infrastructure business indicating at least some
+improvement in the overall spending environment.
+Moving on to Network Infrastructure, sales declined by 24% in constant currency versus the year
+ago quarter, which had been particularly strong. For the full year, sales declined by 9% mainly
+driven by IP and Fixed Networks. Optical Networks grew by 5% and ASM declined slightly. There
+as a favorable development in gross margin, which impacted by improved by 60 basis points
+versus the year ago quarter and by 130 basis points for the full year and this was driven by
+positive product mix. Operating margin in the quarter decreased to 13.9% due to the impact of
+lower sales.
+For the year, our (Technical Difficulty), ended up at 13.1% which was comfortably within the range
+we had shared at the beginning of the year and above the targets we had set for ourselves back
+in 2021. As you remember we had Capital Market Day back then when we set the targets for
+each of the business in 2023. Also, if I can give you a quick update on the profitability of each of
+the units within NI for the full year 2023, IP Networks saw its profitability decline slightly due to the
+weaker sales coverage, but remains mid to high-teens operating margin. Optical Networks
+improved strongly benefiting from the sales growth to deliver a high single-digit operating
+margin.
+For Fixed Networks, despite the sales decline, product mix was beneficial and delivered high
+teens operating margin and finally Submarine Networks remained low single-digit but did improve
+slightly year-over-year. Mobile Networks Q4 saw the continued impact of normalization of India
+rollout and the dual impact of inventory digestion and macroeconomic pressure on spending in
+North America. We were, however, pleased to see a robust gross margin performance
+supported by favorable regional and product mix in Q4. Similarly, operating margin for the quarterwas 11.5%, an improvement of 470 basis points versus the year-ago quarter, driven by gross
+margin and lower variable pay accruals.
+For the full year, in spite of top line challenges, operating margin was 7.4%, which was within our
+stated planning assumption for the year and at the higher end of our targets we set back in 2021.
+Finally, on Mobile Networks, AT&T's recent announcement to move to a largely single-sourced
+radio network was of course a disappointing development. As we said at our investor event in
+December and as confirmed by AT&T, this does not reflect the technological competitiveness
+that we have achieved with our products. This has been evidenced by our significant increase in
+RAN market share in recent years. I firmly believe Mobile Networks has the right strategy in place
+to create value for our shareholders in the future with opportunities to gain share, diversify our
+business and achieve a double-digit operating margin longer term.
+CNS sales declined in Q4 by 5% driven by declines in all businesses with the exception of
+business applications which grew. Gross margin improved and this flowed through to operating
+margin, and the full year improved from 5.3% to 7.9%. The 7.9% operating margin we delivered is
+at the higher end of what we targeted at the start of the year. It is slightly below the lower end of
+what we had set as target back in 2021. This is due to the increased investments, we decided to
+make in private wireless, which has been consistently delivering double-digit growth.
+2023 did see us making progress in our portfolio rebalancing efforts with the divestment of
+VitalQIP, the announced sale of our Device Management and Service Management Platform
+businesses in December and the partnership we announced with Red Hat on cloud infrastructure.
+We also led the industry trend towards programmable networks with the launch of our network as
+code platform which now has nine commercial agreements.
+Nokia Technologies net sales decreased 63% on both a reported and constant currency basis in
+the fourth quarter as the year-ago quarter had a EUR305 million one-off non-cash benefit we
+explained at the time. Excluding these, the year-on-year net sales performance primarily
+reflected lower net sales from a license that expired at the end of the third quarter 2023. The
+financial performance in '23 was, of course, not what we had hoped for, as some deals took
+longer to renew than what we had -- than we had expected. There were still some very important
+achievements.
+We signed long-term renewals with both Apple and Samsung along with signing a new
+agreement with Honor. Positively as we of course announced yesterday, we have now achieved a
+renewal with OPPO and we are very close to concluding another agreement in China. With these
+agreements, we are now in the final stages of our smartphone license renewal cycle with only the
+recently expired major agreement outstanding. This provides long-term stability to our Nokia
+Technologies business which can now increasingly focus on growing our licensing run-rate in the
+new growth areas including automotive, consumer electronics, IoT and multimedia. I remain
+confident that with growth in these areas, we can return to an annual net sales run rate of EUR1.4
+billion to EUR1.5 billion in Nokia Technologies in the mid-term.
+Enterprise net sales decreased 3% in constant currency in Q4 in comparison to a very strong
+year-ago quarter. However, for the full year, we grew 16% which shows strong continued
+momentum. Overall customer engagement also remains strong as we added 151 new enterprise
+customers in the quarter. Private wireless continued to show strong growth in 2023 and now has
+more than 710 customers. You can also see on the right hand side of this slide a breakdown of
+the EUR2.3 billion of enterprise sales we had in 2023.We wanted to give a bit more color around the components of our enterprise business. Almost
+half of our enterprise sales come from areas where we sell our NI products into targeted
+enterprise verticals, particularly those that value mission critical networks. Private wireless is now
+just over a quarter of our enterprise sales having grown strongly for several years and then
+Webscale is an increasingly important opportunity for us as well.
+Now, I will hand over to Marco to go through the financials in more detail.
+`Marco Wiren, Chief Financial Officer `
+Thank you, Pekka. And good morning, good afternoon from my side as well. And let's start by
+looking at the regional performance of the businesses and in quarter four, all regions declined
+and we saw growth in Middle East and Africa. Most notably, North America declined once again
+and reflected the inventory digestion and macro uncertainty, which has been dominating most of
+the year. India declined by 30% and this was related to the 5G deployments that continues to
+normalize and in Europe, we saw a meaningful decline in the quarter and some of which was
+driven by Nokia Technologies, which is entirely reported in the Europe numbers. Otherwise, the
+decline was mainly driven by Mobile Networks and Network Infrastructure.
+And then looking at the operating profit in the quarter, Pekka explained a number of these drivers
+already but a few things that I want to point out and first one is from common contribution, which
+was better than a year ago quarter and this was driven by venture fund where the performance
+improved. In Mobile Networks and Cloud and Network Services, they improved somewhat year-
+on-year. And then, however, the majority of the decline was driven by Nokia Technologies where
+the year-ago quarter benefited from the EUR305 million one-off that Pekka mentioned.
+And then moving to our cash position in quarter four. We had a strong quarter and ended the
+year with EUR4.3 billion of net cash, an increase of EUR1.3 billion compared to quarter three and
+this is mainly reflected strong quarter four profit and a significant inflow of cash related to net
+working capital and this was due to both lower inventories as well as receivables, which benefited
+from a partial prepayment of a licensing agreement that was made in '23.
+And during quarter four, we returned over EUR200 million to shareholders through dividends and
+the completion of the second tranche of follow-up two-year EUR600 million share buyback
+program. In the full-year '23, we returned over EUR900 million to shareholders through dividends
+and share buybacks. Free cash flow, the full year was just over EUR800 million and this is 34%
+conversion compared to operating profit and this was in line with our guidance of 20% to 50% for
+the year.
+When turning to our '22 -- '24 cash flow outlook, we try to provide a [ph]dossier on the moving
+parts in the 30% to 60% free cash flow conversion from comparable operating profit that we
+have guided for. We do expect to see a positive impact from our operational and networking
+capital in '24 as we continue to see some reduction from the buildup we saw during the past two
+years. And then we expect cash taxes to be about EUR500 million in '24 and assume also cash
+flow related to restructuring about EUR550 million although I would like to note that we also
+target to achieve the EUR500 million in Europe cost savings in '24 and these related both the
+program we just launched but also the final savings of our prior '21 program.
+And then finally Nokia Technologies, we expect cash generation to be approximately EUR700
+million below operating profit and this is due to prepayments that we received in '23 but one
+from '25 and onwards we expect greater alignment between Nokia Technologies cash
+generation and operating profit. So taking base into consideration, we should land into the 30%Then as you look out to '26 you can see that we are well on track to reach our target of 55% to
+85% conversion especially as Nokia Technologies cash generation starts to align more with its
+operating profit. And then at the end of '23, our net cash represented about 19% of our net
+sales, which is above the target of 10% to 15% that we laid out in the beginning of the year. And
+given the strong cash position, the Board of Directors will propose an increased dividend to
+EUR0.13 per share and the Board is also proposing to initiate a new buyback program of EUR600
+million over two years.
+And given the ongoing macroeconomic uncertainty and industry challenges, we feel it is prudent
+to take a measured approach to getting to the 10% to 15% net cash target. And if we now look at
+the '24, we can see in the presentation on the release the planning assumptions we have for our
+business groups in 2024. And as you can see, these are well aligned with the commentary we
+provided back in December. I will not go into detail on each number, but you will note that we
+provide net sales assumption by business group instead of the targeted addressable market
+assumptions we have provided in the past which we hope gives greater transparency as well.
+And piecing all of these assumptions together, you can understand our full year outlook for '24.
+We are now guiding for comparable operating profit between EUR2.3 billion and EUR2.9 billion
+which takes into consideration all of the BG assumptions. We also expect the free cash flow
+conversion between 30% and 60% for the reasons I've pulled through earlier and one further
+planning assumption we have provided that I would like to highlight is around the seasonality we
+expect in '24.
+We expect Q1 net sales now Network businesses to show a long-slit normal seasonal decline
+sequencing and since 2016, the average Q1 sequential decline in sales has been 23% and we
+expect significant seasonality in profit generation in '24 with low sales coverage to weigh on
+operating profit in quarter one, especially in MN and CNS. And then the company expect
+progressive improvement in these businesses throughout the year.
+I also want to draw your attention to some changes that we will be making to disclosures and
+accounting for 2024. These changes are being made to enhance transparency and further
+support understanding of financials of our business groups. First by quarter two at the latest, we
+start disclosing regional sales and cash flow metrics by business group to provide a more
+complete picture of the individual parts of the business. And the second is that we will change the
+way of account for the impact of our venture funds. Historically, they have been recorded in other
+operating income and expense and therefore, included in our operating profit. But going forward,
+we will now report these in financial income and expenses and we believe that this makes sense
+given the volatility of these valuations in recent years.
+And with that, back to you, Pekka, for some final thoughts before Q&A.
+`Pekka Lundmark, President and Chief Executive Officer `
+Thanks, Marco, and just very quickly before we turn to Q&A let me conclude with a couple of --
+couple of remarks. First of all, as already discussed, we faced a highly challenging environment in
+'23 but considering the 8% decline in net sales, I believe we delivered a pretty resilient financial
+performance. Our business group did a good job maintaining profitably and still delivering on
+operating margin targets. As we said at the start of the year. We also delivered a solid cash
+performance in line with the guidance we gave at the start of the year. This is enabling the Board
+to propose an increase in our shareholder distributions for the coming year. Secondly, we are
+moving quickly on our cost reduction program and more importantly, we continue to take steps to
+increase the operational autonomy of our business groups. We want to make sure they are
+empowered to take the right decisions to create shareholder value into the future.And finally, while the environment will remain challenging in the first half of 2024, the strong order
+intake we saw in Q4 points to some improvement in the spending environment especially for
+Network Infrastructure. Also, we are now in the final stages of our smartphone license renewal
+cycle in Nokia Technologies. This will lead to greater stability in Nokia Technologies going forward
+and will allow the business to focus more on its growth areas.
+With that, I will hand it back to David for the Q&A.
+`David Mulholland, Head of Investor Relations `
+Thank you, Pekka and Marco, for the presentations. The Q&A session, as a courtesy to others in
+the queue, please could you limit yourself to one question and a brief follow-up.
+Alice, with that, could you please give the instructions.
+Questions And Answers
+Operator
+We will now begin the question-and-answer session. (Operator Instructions) I will now hand the
+call back to Mr. `David Mulholland, Head of Investor Relations.
+A - `David Mulholland, Head of Investor Relations `
+Thanks, Alice. We'll take our first question from `Jakob Bluestone, Analyst, BNP Paribas from BNP Paribas Exane. Jakob,
+please go ahead.
+Q - `Jakob Bluestone, Analyst, BNP Paribas `
+Thanks, David. Hi, good morning. I was hoping you could maybe expand a little bit on the green
+shoots commentary, and specifically what do you think is driving the sort of improvement coming
+through. And maybe if you could just comment a little bit whether you're seeing any green shoots
+in Mobile Networks or if it's just on the Network Infrastructure side. Thank you.
+A - `Pekka Lundmark, President and Chief Executive Officer `
+Yes, thank you. The comment on green shoots was clearly more on the NI side and of course, the
+good thing now is that as you know, we have the four businesses in NI. We had strong order
+intake in Q4 in all four business divisions of NI. In IP Networks, it's driven by tailwinds in Webscale
+and enterprise contracts. In Fixed Networks, it's driven by government funding which starts to
+benefit the market already now in order intake but because of the delivery cycle then in terms of
+sales and top line, mostly in the second half of 2024.
+In Optical Networks, it's simply share gains because of our strong product momentum and the
+excellent feedback we are receiving from customers to our recent product announcements. And
+in Submarine Networks, we already had a strong order book in the beginning of the quarter, but
+we had great order intake in Q4 as well and that combination is now going to be driving the
+outlook for that business going forward.
+A - `David Mulholland, Head of Investor Relations `
+Do you have a follow-up, Jakob?
+Q - `Jakob Bluestone, Analyst, BNP Paribas `Maybe just on the Mobile Networks. What are you sort of seeing there. It sounds like it's still
+pretty tough.
+A - `Pekka Lundmark, President and Chief Executive Officer `
+Yeah, I mean, the market will remain tough at least for the first half of the year. When you look at
+the Mobile Networks sales guidance for this year, there, of course, you need to remember that
+the significant part of that is driven by India. Our group sales in India were -- in 2022, they were
+EUR1.3 billion and last year, EUR2.8 billion. And now we are expecting that '24 on group level
+would be somewhere between EUR1.5 billion to EUR2 billion and most of that decline that we will
+see in India this year will be in Mobile Networks.
+So that already, when you do the math, you can see that that explains a significant part of -- part
+of the drop. But overall, I mean, we are still expecting... or waiting for mobile operators
+throughout the world to start investing because investments have been very low. '23 was a tough
+year for the whole market, of course, most pronounced in North America.
+Fact still remains that only about 25% of base stations outside of China are 5G mid band and a
+small majority of all core networks have been upgraded 5G advanced and those investments will
+need to come because without that, operators will not be able to monetize 5G appropriately.
+Right now, interest rates are still high. Many operators have high leverage. The good thing would
+be that if interest rates would come down, data traffic will continue to grow 20% to 30% per year.
+So gradually that will also start to force operators to again invest, but the reality is that nobody
+knows when that will come. I'm absolutely convinced that it will come, but we are not yet seeing
+concrete signs of it happening.
+A - `David Mulholland, Head of Investor Relations `
+Thank you, Jakob. We'll take our next question from `Simon Leopold, Analyst, Raymond James from Raymond James.
+Simon, please go ahead.
+Q - `Simon Leopold, Analyst, Raymond James `
+Great. Thank you for taking the question. I wanted to see if you could help us in terms of how the
+AT&T transition with the O-RAN project is affecting your revenue assumptions and what I'm sort
+of trying to tease out here is there sort of a step-down rapid decline or is there maybe a long tail
+of spending before slowdown. I just like a little bit of color about how we should think about that
+revenue impact in 2024? Thank you.
+A - `Pekka Lundmark, President and Chief Executive Officer `
+Okay. So just as a reminder, we said that AT&T represented last year 5% to 8% of sales in mobile
+networks, so that it's important to keep in mind that the '23 number was significantly in terms of
+euros or dollars was significantly lower than in '21 or '22. So we had already seen a significant
+decline in AT&T volumes because of their lower investments. Now, we have an existing contract
+with a five-year contract with AT&T that was -- that was published in the beginning of '21.
+Negotiations are still ongoing with respect to how we execute on this contract and before we
+have concluded those negotiations, it is hard to give a clear answer as to how the trajectory of
+the decline will look like. But clearly, we do expect our sales to AT&T to drop this year.
+We have to remember though that when we first of all look at Mobile Networks irrespective of
+this contract, we will continue to supply microwave radios and femto products to AT&T and then
+outside of Mobile Networks, we obviously continue to remain a key supplier in both NetworkInfrastructure and CNS and those two businesses do not have anything to do with the -- with the
+radio network decision that AT&T made.
+A - `David Mulholland, Head of Investor Relations `
+Do you have a follow-up?
+Q - `Simon Leopold, Analyst, Raymond James `
+Yeah. And as a follow-up, the forecasting this quarter in terms of the planning, we don't have a
+revenue outlook but there is the operating income outlook, and I mentioned that is what's really
+important to folks, but I assume there is an underlying revenue assumption you would have given
+it to us I imagine if you wanted to and you've chosen not to. So maybe help us understand sort of
+the thinking and the puts and takes on what assumptions you've made for full-year '24 revenue
+and the choice to guide the way you have. Thank you.
+A - `Marco Wiren, Chief Financial Officer `
+Absolutely. Thank you. As you see, we changed a little bit how we are guiding for this year and we
+decided to give more flavor and information about our assumptions for business group and we
+believe that this will be more helpful for you to get a better picture of each of the businesses,
+which are then combining the whole company and for the group level we guide on the operating
+profit and free cash flow and then you can see that we have -- on the business group's
+assumptions, we have both net sales and also operating margin. And then what comes to
+technologies, we have also given you what is the operating profit assumption for this year and
+also the seasonality we have given you very hopefully good understanding how the year will play
+out and seasonality will be, I would say more back to normal that we've seen in some years ago
+as well and very heavy second half while quarter one is about 23% normally lower than than
+quarter four year before.
+So, I hope that these more detailed assumptions in the guidance will give you a better
+understanding how the company is going, and also giving you a better understanding of the
+different areas and businesses.
+A - `Pekka Lundmark, President and Chief Executive Officer `
+Maybe as a quick follow-up just to put things in perspective in terms of seasonality, so when we
+are saying that we are returning to a more normal seasonality how was this then abnormal in
+2023, there were two main reasons for that. In Mobile Networks there were significant deliveries
+in India in the first half of the year, which kind of distorted the seasonality and then the same thing
+but for a different reason in NI as well. The beginning of the year was extremely strong because
+there were catch-up deliveries that had to do with the supply chain shortage and the extremely
+high orders that operators have placed as a result of increased demand as a result of COVID.
+So that's why both NI and NM and had unusual seasonality in 2023 and both of those we expect
+to return back to normal in '24.
+A - `David Mulholland, Head of Investor Relations `
+Thanks, Simon. We'll take our next question from `Francois Bouvignies, Analyst, UBS from UBS. Francois, please
+go ahead.
+Q - `Francois Bouvignies, Analyst, UBSHi, thank you very much. Just wanted to ask you on the hyperscale wins and momentum and
+Pekka, you seem in your remarks and in the release quite excited about the wins in the Network
+Infrastructure momentum and I wanted to ask you from the switching and routing, do you -- are
+you taking some market share there? Can you elaborate a bit on the hyperscale wins momentum
+if it's related to AI just to understand a bit better the momentum because when we look at Arista
+and Cisco, it doesn't seem to have a lot of momentum. So it's very specific to you which would
+suggest that you are gaining some market share but then you said a bit earlier that the market
+share is more on the Optical side, and it seems to be more market driven on the other side to
+routing and fixed. So just to elaborate would be great. That's my first question. Thank you.
+A - `Pekka Lundmark, President and Chief Executive Officer `
+Thank you. That's a highly relevant question. The NI business with hyperscalers has been fairly
+Optical driven exactly as I commented before. We have existing Optical business with them that
+is looking pretty good. But the main growth potential for us there is really in datacenter switching
+and I cannot disclose the name, but we had a significant order from one of the hyperscalers in
+Q4. We hope to be able to disclose the name also in not too distant future, but we are not able
+to do it yet. This will be driving growth for Webscale business in the IP Networks part of NI going
+into 2024.
+Of course, we have to remember that compared to our competitors, our switching business --
+datacenter switching business is small so we are a challenger. But the good side of that is of
+course is that now when we have an increasingly strong product portfolio for that based on our
+in-house silicon, which is welcomed by hyperscalers combined with strong software offering that
+offers a lot of flexibility for different datacenter architectures we believe that there is a possibility
+to gradually break into this market and get meaningful growth in the segment because, of
+course, we know, we all know that the CSP market as a whole will not be a growth market. Of
+course, we target to gain share there but datacenters will be the most significant growth market
+in the whole world in our industry, and that's why it is so important to increasing a focus on that
+segment.
+Q - `Francois Bouvignies, Analyst, UBS
+Thank you. Yeah, just a quick clarification on what you said the deal you signed and you can't
+disclose yet and I guess some market share. I mean, I guess you are kind of a market share. We
+know -- I would imagine given your low footprint in originally in this (Multiple Speakers).
+A - `Pekka Lundmark, President and Chief Executive Officer `
+Yes, it is a market share win, yes.
+Q - `Francois Bouvignies, Analyst, UBS
+Okay. And just my final question is on Open RAN. AT&T kind of surprise the market with this deal,
+and I was just wondering if you see some acceleration in terms of activity of Open RAN from
+other operators following that deal. I mean, we are a few months now, a couple of months after
+this announcement. From what I understand, the operators are also looking closely at it. So do
+you expect other announcements from other operators this year of this kind or do you really think
+it's like just a one-off for now?
+A - `Pekka Lundmark, President and Chief Executive Officer `Open RAN is gradually gaining speed. I don't expect and I have not seen that the AT&T decision
+would have led to any kind of increase in Open RAN interest in other parts of the world. Dell'Oro
+estimates that in 2028, O-RAN would represent roughly 25% -- or 24% of the total RAN market.
+So that gives you a perspective.
+What I really suggest is that people need to follow up very closely that's what the facts about
+different rollouts are including in all announced projects, how quickly will it be and will it be true O-
+RAN or will it be O-RAN where you just have the same supplier on both sides of the interface. We
+have two real commercial O-RAN deployments ongoing at the moment. One is with NTT
+DOCOMO in Japan and the other one is the recently announced Deutsche Telekom project in
+Germany.
+We have already connected our DU and CU to five suppliers radio units, which is more than any
+other supplier. So gradually O-RAN front-haul -- open front-haul interface is becoming commercial
+reality. It starts from simple radios and only gradually moves to massive MIMO but it will eventually
+get there as well. So it will be part of the market -- a small part of the market for quite some time
+but as I have said before, we see it as more as an opportunity than a threat for Nokia.
+A - `David Mulholland, Head of Investor Relations `
+Thanks, Francois. We'll take our next question from `Sami Sarkamies, Analyst, Danske Bank from Danske Bank. Sami,
+please go ahead.
+Q - `Sami Sarkamies, Analyst, Danske Bank `
+Hi, thanks for taking my (Technical Difficulty) for Mobile Network of less than EUR9 billion this year
+with little single-digit EBIT margin. Just curious how will you be able to regain scale and grow
+revenues to EUR10 billion target that's what will be required for double-digit margins in the long
+run. I mean, if we look at the latest forecast from the like of Dell'Oro, the five-year outlook for
+end market looks quite flattish even if you assume some share gains from Chinese rivals. Do you
+have anything else planned than the cost program that was announced after third-quarter
+results?
+A - `Pekka Lundmark, President and Chief Executive Officer `
+Of course, I mean, the cost program is an important element in this but we also have to
+remember that perhaps with the exception of India, 2023 was a really weak year when it comes
+to investments. And when you look at the big picture, only 25% of 5G base stations are mid-band.
+So that is suggesting that they will have to be overtime in the second half of 2020s that will have
+to be a significant investments in 5G radio networks in different parts of the world already before
+6G starts to come in. Data traffic continues to grow 20% to 30% of the year and then in addition
+to that, the Chinese will be increasingly under pressure because of political reasons and because
+of the various actions that the western countries have taken to limit their access to latest silicon.
+So it is very clear that to get to EUR10 billion top line, we have to continue to take market share.
+AT&T is of course a setback. From there, we need to start climbing back up towards the market
+share that will need to start by three if you want to get to EUR10 billion top line. It is a challenge,
+absolutely, and that's why we have provided a fairly -- fairly low guidance for this year's
+profitability, 1% to 4% that then we commented '26 target at the December -- December event.
+We are not assuming that we would get to double-digit by 2026.
+Then we also need to keep in mind that when we talk about the second half of the decade, by
+then we will have significantly increased the non-CSP business part of Mobile Networks. Wealready now growing albeit from a low base fast in private wireless and then a very important
+target for the second half of the decade is the defense industry where the spending is significant.
+It is currently mostly proprietary military technologies when it comes to communications and the
+challenge they are facing is that it is getting extremely difficult to be cost competitive there when
+the technology is proprietary. So it's getting extremely expensive and that's why the whole
+defense industry in several parts of the world is looking at commercial technologies at the
+moment such as 5G to provide an alternative to proprietary military technologies.
+We have said that the actions that M&A is taking will allow them to lower the level of net sales to
+reach this 10% operating margin to approximately EUR10 billion, as you said. So that is a correct
+figure that you mentioned. That is our target. How we are modeling the business. Currently
+before the cost action started, the level to reach a 10% operating margin in terms of sales was
+EUR11.5 billion. So now we are taking that to EUR10 billion.
+A - `David Mulholland, Head of Investor Relations `
+Do you have a quick follow up, Sami?
+Q - `Sami Sarkamies, Analyst, Danske Bank `
+Maybe technicality regarding technologies. There was a slight drop in IPR run rate during Q4. Can
+you elaborate on that and then just update on where we will be after the OPPO renewal. I think
+previously you were talking about 1.1 billion starting this year, but now I guess it must be a bit more
+than that.
+A - `Pekka Lundmark, President and Chief Executive Officer `
+Yeah. Thank you, Sami. When it at comes to run rate in quarter four, we had one license that
+expired at the end of quarter three. And that's why we see run rate change as well but if you look
+'24, so we aren't guiding an increase in our run rate and we just kind of quantifying these yet
+because we have still some deals that outstanding and because the content of the deals are
+confidential we are not allowed to give you that much information about that, but I hope that
+perhaps in quarter one we will give you more flavor on this as well.
+And what comes to '24 operating profit, we said at least EUR1.4 billion for the full year and this is
+including the catch-ups as well.
+A - `David Mulholland, Head of Investor Relations `
+Thanks, Sami. We'll take our next question from `Richard Kramer, Analyst, Arete Research from Arete. Please go ahead,
+Richard.
+Q - `Richard Kramer, Analyst, Arete Research `
+Thanks very much, guys. Pekka, my question is, I'm just conscious that this year you've laid out
+targets and talked about order strength at the beginning of the year and needed to reduce your
+targets for margins and cash conversion. Now, you're looking at EUR1 billion of cash outflows for
+restructuring and so my question is how you're going to mitigate the risk of losing sales or
+momentum or other opportunities in the midst of this reset and are you confident that you can
+undertake the restructuring without opportunities that you've laid out (Technical Difficulty).
+A - `Pekka Lundmark, President and Chief Executive Officer `Yeah, I mean, the biggest restructuring when it comes to customer interface that actually went
+live already -- already on the 1st of January. So we did it very quickly. We made the decision late in
+the year and we planned and executed everything very, very quickly. So now Q1 will be at the
+quarter of stabilization in the customer interface and I have to say that when we have explained
+the logic to the customers basically saying that we want for each business to place highly
+empowered teams in front of the customer so as to short and simplify the organization structure
+and shorten the distance between the customer and the real decision makers for each business
+that has been very well received. And when you then complement that with the account
+executive concept where one of the sales leads of the businesses take on as an additional
+responsibility to run the overall relationship management with the customer and then to
+coordinate gross BG matters. So that simplification has been well received. Of course, these type
+of things always cause stability issues in the short term, but I believe that they will quickly be
+behind us and people will start to see the benefits of this new model.
+Then when it comes to the other cost savings in addition to the simplification of the customer
+interface, there we have to look at each business separately, and of course, as we said, Mobile
+Networks accounts for roughly 60% of the action we are taking and that's of course a reflection
+of the overall industry outlook and the challenges that businesses facing, but this is already also
+well underway in terms of implementation. There, the most important goal is really as we said in
+December also is to protect our R&D output.
+Q - `Richard Kramer, Analyst, Arete Research `
+Okay, thanks. It's okay, please.
+A - `Pekka Lundmark, President and Chief Executive Officer `
+Yeah, if I just then move on to the other businesses. So because this is very much MN-centric then
+NI had different situation because there we have, as I said, great order intake in Q4 and we have
+a 2% to 8% growth outlook for this year. So there, obviously the need to restructure the cost base
+is not the same as it is in the MN business. And then in CNS, the action is mostly centered around
+portfolio rebalancing.
+You will have seen that we -- we made some divestments last year and we are getting close to
+the type of portfolio that we look at -- are looking for. The rebalancing is not 100% done yet. We
+are still working on certain things. That's really the name of the game in CNS and then tech we
+already discussed because now with OPPO deal and hopefully the rest coming soon we will see a
+significant stability in that business. So all four businesses are in fundamentally different place
+when it comes to the restructuring need.
+Q - `Richard Kramer, Analyst, Arete Research `
+Okay, thanks. And then one quick one for Marco again just conscious that your predecessor had
+relied in the past on sale of receivables. You did mention that in the statements. Could you give
+us a sort of rough quantification of how much sales receivables helped this very good cash flow
+performance in Q4. Thanks.
+A - `Marco Wiren, Chief Financial Officer `
+Yeah, thank you. We actually have changed from a degree of what comes to how we see sale of
+receivables. The main thing what we do when we use sale of receivables is to mitigate risks. So it
+become risk or customer risk and also the cost -- hedging cost for example in certain currencies.
+So the principle is quite different. And now in quarter four, we mentioned that, but it wasn't ameaningful increase. So in some quarters, we see changes in sale of receivables and it could be,
+just like I said, that it could be a specific country or customer where we see that it's good that we
+hedge ourselves by selling the receivable or in some cases actually we see also that that
+customers are themselves paying for sale of receivables. And then, of course, it's a no-brainer to
+do that.
+A - `David Mulholland, Head of Investor Relations `
+Thanks, Richard. We'll take our next question from `Daniel Djurberg, Analyst, Handelsbanken from Handelsbanken. Daniel,
+please go ahead.
+Q - `Daniel Djurberg, Analyst, Handelsbanken `
+Thank you and good day, gentlemen, and congrats on a solid year end and thanks for taking my
+question. I would like to ask a little bit on coming back to the catch-up and the IPR revenues that
+you see. And the question is really if the EUR1.4 billion low level that you aim for in technologies in
+2024, if this is dependent also on that you signed recently expired name and if it's also includes
+HP and Amazon that you have litigation for you or if you can or less meet this EUR1.4 billion also
+out excluding these three.
+A - `Marco Wiren, Chief Financial Officer `
+Yeah. What comes to different deals and exactly their levels, we cannot go into as you
+understand is confidential, but we have guided on the best knowledge that we have today and
+would we see will happen throughout the year and we've been clear on that as well that this is
+including the catch-up for those OPPO deal that we just signed and we also expect to sign couple
+other deals in technologies that we have that has expired before the year end.
+Q - `Daniel Djurberg, Analyst, Handelsbanken `
+Perfect. And as a my follow-up if I may on the broadband equity and access deployment program
+in the US. Have you seen any news there in terms of financing the early order intake. So if it still
+your view that it will be supportive on the second half of this year. Thanks.
+A - `Pekka Lundmark, President and Chief Executive Officer `
+Absolutely. It will be supportive and exactly as we said earlier the impact starts to be when we talk
+about sales, it starts to gradually come in, in the second half of the year. We have a lot of stuff in
+the pipeline that we're working on at the moment. So second half of '24 and then of course '25 it
+will play a meaningful role in NI especially Fixed Networks, but there could also be benefits to IP
+Networks and Optical Networks. Of course, we need to keep in mind that when we talk about the
+EUR42 billion total program value approximately 10% of that is addressable to us, the rest will go
+to something else like digging cables into the ground.
+A - `David Mulholland, Head of Investor Relations `
+Thanks, Daniel. We'll take our next question from `Joseph Zhou, Analyst, Barclays from Barclays. Joseph, please go
+ahead.
+Q - `Joseph Zhou, Analyst, Barclays `
+Hi. Thank you for taking my questions. One, and then the follow-up. So firstly, on your free cash
+flow conversion guidance for 2024. It remains well below the long-term target despite a boost
+from the IPR cash out payments. I understand you talked about the moving parts, restructuringand also some pre-payments already happened. Are there any reasons for us not to expect a
+bigger working capital reversal given the 5G cycle? Just wondering what are we missing here.
+A - `Marco Wiren, Chief Financial Officer `
+Yeah, just like you mentioned as well that we will have a negative impact by the prepayments that
+we received in Technologies in '23 and then we expect also working capital to continue to have a
+positive impact. But these, if you sum up these, we believe that we are well in the range that we
+have guided, which is improving from last year. Last year range that we guided was 20% to 50%,
+now it's 30% to 60% and then year after that, we believe they will be a well in our long-term
+guidance range as well. So it's step by step improvement that we see in the free cash flow
+conversion ratios.
+A - `Pekka Lundmark, President and Chief Executive Officer `
+And when it comes to -- comes to net working capital, we already saw good release in Q4 last
+year, which was one of the drivers behind the strong cash flow in Q4. There is still additional
+potential there but I'm just kind of saying that part of it was already released in Q4. Then there is
+the EUR700 million prepayments in Tech -- or EUR700 million no -- sorry, I take it back, EUR700
+million lower cash compared to sales -- net sales in '24 in Tech. Then there is restructuring cash
+outflow in 2024 and then since you mentioned the catch-up payments, there you have to
+remember that that will be both cash and revenue in '24. So that does not improve the
+conversion. It improves the absolute cash absolutely, but it does not improve the conversion.
+Q - `Joseph Zhou, Analyst, Barclays `
+Thank you. And then just a follow-up on the BEAD projects in North America. Just wondering how
+much contribution have you baked into your 2% to 8% NI growth from these BEAD projects in
+North America. And also you talked about better orders you are seeing for these projects. And
+what's your visibility to the timing of these projects delivery?
+A - `Pekka Lundmark, President and Chief Executive Officer `
+Yeah, well, as I said, the timing is such that we start to see top line effects of it in the second half
+of -- gradually in the second half of 2024 and then into 2025. We have a strong pipeline of
+opportunities. If I'm not mistaken, there were something small in the order intake already in Q4,
+but that was small. So it is taking off gradually these things because they are politically driven.
+They always take -- take time. First, you allocate the money on the federal level, then it goes to
+the state levels and then gradually it fluctuates the different opportunity -- opportunities with
+carriers. We have not quantified exactly how much of this would be in the 2% to 8% growth
+assumption in NI but as I said it's H2 driven and and it's not huge yet in 2024. It will grow gradually
+throughout the second half and then into '25.
+A - `David Mulholland, Head of Investor Relations `
+Thanks, Joseph. We'll take our next question from `Artem Beletski, Analyst, SEB Enskilda from SEB. Artem, please go
+ahead.
+Q - `Artem Beletski, Analyst, SEB Enskilda `
+Yes, hello, and thank you for taking my question. I would like to actually ask on European
+development and looking at revenue trends. So it seems to be -- it's a case that declines have
+been accelerating also excluding Technologies related impact in Q4. Could you maybe talk a bitmore what is happening in this area. Is there also potentially some inventory digestion which is
+ongoing in the market?
+A - `Pekka Lundmark, President and Chief Executive Officer `
+I mean, there -- I mean, there will be some inventory digestion. But the real issue in Europe is
+really, the weak economy operators high leverage, high interest rates and consequently their low
+appetite to invest. The big question is that, when will that start to change of course lower interest
+rates would be great to that end, but fundamentally, I believe that they will have to start investing
+again. And of course they are talking about it, but we have not seen that much yet.
+What I'm afraid, and this is my big -- big worry, I mean, not that much about Nokia but as a
+European, there is a risk that Europe falls behind the rest of the world in terms of
+competitiveness because of the quality of digital infrastructure that we have. The 5G deployment
+is slower in Europe than in other parts of the world. Politicians and operators understand it. They
+are talking about it. It remains to be seen when that will start to change, but I'm convinced that it
+will change, but these things like mid-band penetration in 5G radio, et cetera, it is clearly lower in
+Europe than in many other parts -- parts of the world. But again, what we would hope to of
+course see that -- that the operator market in Europe would consolidate so that we would get
+stronger -- financially stronger operators.
+In Europe, there is one operator per 4 million to five million inhabitants and that is of course a
+totally different level than in any other parts of the world. In India, there is -- there is -- depending
+on how you calculate three or four operators per 1.3 billion people. In China, there is three
+operators per 1.3 billion people. And in Europe, we have one operator for 4.5 million people. So
+the market is so fragmented that it does need to get consolidated. That's one aspect of the
+picture, but then there are others, as I said, interest rates, et cetera.
+A - `David Mulholland, Head of Investor Relations `
+Do you have a follow-up, Artem?
+Q - `Artem Beletski, Analyst, SEB Enskilda `
+Yes, the follow-up would be actually relating on some good strides what you are making on
+switching side. And could you maybe comment on profitability of this business, how we should
+think about it. Is it more like IP Networks type of margin what you're making there?
+A - `Pekka Lundmark, President and Chief Executive Officer `
+Well, that is, of course, highly confidential when we get to one product group for one customer
+group. But of course, all this has been assumed in the targets that we have, both short term and
+long-term targets that we have put ourselves for the NI business. IP business has good
+profitability and the target that we have for that business will, of course, stay there also including
+the growth in switching.
+A - `David Mulholland, Head of Investor Relations `
+Thanks, Artem. We'll take our last question from `Aleksander Peterc, Analyst, Societe Generale from Societe Generale. Alex,
+please go ahead and if you don't mind, keeping it to one question just given the time.
+Q - `Aleksander Peterc, Analyst, Societe GeneraleYes, thank you. Just a quick one to come back on Mobile Networks very briefly. Could you give us
+a broad idea of when you expect Mobile Networks to kind of bottom out and flatten instead of
+2025 event or will happen later. Maybe another way of asking this is at what point do you expect
+the AT&T 5G footprint loss resulting from last year's decision to wash out of the base. I know you
+gave some color on AT&T and all the puts and takes, but just to give us a broad idea there. Thank
+you.
+A - `Pekka Lundmark, President and Chief Executive Officer `
+I mean, I understand the question very well, but you will appreciate that it's extremely difficult to
+answer because as I said, first of all, we cannot comment the AT&T situation before we have
+concluded the negotiations. That is one thing, and of course, we expect to continue, one way or
+another, at least to continue to be a supplier there as well. Then there is the whole Indian
+question. Volumes are right now going down. What will happen in India, which operators will invest
+and how much and when, how will the 4G re-farming take place in India, et cetera, et cetera. And
+then there is this whole question of when will the data traffic will grow to a level where operators
+throughout the world, including in Europe will be forced to invest. So it is simply too early to say
+that when mobile networks would have reached the bottom.
+Our outlook for this year we have wanted to be realistic that's why we are saying 1% to 4%
+comparable operating margin. But we are sticking to our longer-term ambition to reach this what
+Sami also referred to in his question that with 10 billion sales we target 10% operating margin.
+That's how we are modeling the business, but that does require that we also penetrate into non-
+CSP segments in the second half of 2020s.
+A - `David Mulholland, Head of Investor Relations `
+Thanks, Alex. And thank you everyone for joining us today. This concludes the Q&A section and
+today's call. I would like to remind you that during the call today, we have made a number of
+forward-looking statements that involve risks and uncertainties. Actual results may therefore differ
+materially from the results currently expected. Factors that could cause such differences can be
+both external as well as internal operating factors. We have identified such risks in the risk factors
+section of our annual report on Form 20-F, which is available on our Investor Relations website.
+Thank you for joining us.
+Operator
+The conference has now concluded. Thank you for attending today's presentation. You may now
+disconnect.

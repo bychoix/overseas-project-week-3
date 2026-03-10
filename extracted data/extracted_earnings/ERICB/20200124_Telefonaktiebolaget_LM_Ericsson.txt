@@ -1,0 +1,652 @@
+Y 2019 Earnings Call
+
+Presentation
+Operator
+Welcome to Ericsson's Analyst and Media Conference call for their Fourth Quarter reports. To
+view visual aids for this call, please log on to www.ericsson.com/press or
+www.ericsson.com/investors. (Operator Instructions). As a reminder, a replay will be available one
+hour after today's conference.
+`Peter Nyquist, Head of Investor Relations will now open the call.
+`Peter Nyquist, Head of Investor Relations `
+Thank you, operator, and hello, everyone, and welcome to today's call, the Q4 call. With me here
+today I have our CEO, Boje Ekholm; and our CFO, `Carl Mellander, Senior Vice President, Chief Financial Officer and Head of Group Function.
+So this short statement first. During the call today, we will be making forward-looking statements.
+These statements are based on current expectations, certain planning assumptions which are
+subject to risks and uncertainties. The actual results may differ material due to factors mentioned
+in today's press release and discussed in this conference. We encourage you all to read about
+these risks and uncertainty in our earnings report as well as in our annual report.
+With that said, I would like to hand over the call to CEO, `Brje Ekholm, President and Chief Executive Officer. So please, Brje.
+`Brje Ekholm, President and Chief Executive Officer
+Thanks, Peter, welcome, and thank you for joining us for this report for the fourth quarter. And
+again Q4 marks another quarter of execution on the focused strategy building on technology
+leadership, cost leadership, product led solutions and global skill and scale. We continue here to
+benefit from our strength and competitiveness as we grow faster than the market withmaintained strong gross margin. Our underlying business fundamentals remain strong, and we
+feel we have a very solid competitive position.
+Top line grew organically during 2019 with 4% and 1% during Q4. We are in the beginning of a
+technology shift and our investment to lead in 5G is now starting to yield results. Today, we have
+79 contracts and 24 live 5G networks. And we see that we now win new contracts based on our
+leading technology. The rollout of 5G continues in North America with good underlying growth.
+However, the uncertainty related to the announced merger has reduced sales in one account
+during Q4. However, the decline in North America was compensated by good demand in
+Northeast Asia and the Middle East. We maintained a solid gross margin at 37.1%, overall at 41.1%
+in Networks. The sequential reduction in gross margin in networks was fully attributable to the
+Kathrein business that we acquired during the quarter.
+When we win new footprint, the overall margin in those contracts are positive and contributes to
+our long-term margin targets, but the initial margin is challenged. However, we also see during
+this last quarter, that the initial low margins have been fully compensated by operating leverage,
+showing the strength of our underlying business.
+As I said, the acquisition of Kathrein closed during the quarter. This is a very important acquisition
+for us, as it will allow us to strengthen our antenna capabilities and improve our ability to supply
+integrated site solutions. We're now working on integrating Kathrein into Ericsson and then
+thereby establishing and building a leading portfolio of antenna solutions. But the contribution
+during the fourth quarter was negative on our operating margin.
+So if we look for the operating margin. Excluding restructuring and the fine to the US authorities, it
+was 9.7% for the full 2019, actually putting us very close to the target for 2020 one year early.
+And here the fourth quarter, it was impacted by a couple of decisions. We took. One is clearly the
+Kathrein acquisition that raised OpEx but now we see we will pay off over time through strength
+and competitiveness in the antenna space. The other area where you see very discreet increases
+and it's in OpEx is for digital transformation. And that's critical investment for us to digitalize the
+internal ways of working and the way we interact with customers, fully in line with our focused
+strategy.
+We take these investments to take the next step in automating our processes. And we will see
+them gradually pay off during 2020 and into the future through better cost efficiencies.
+So, that is clearly investment program that, of course, have bumped up OpEx in the short term.
+But it should help lower longer-term OpEx. The other area that we're investing in is of course
+security as well as our compliance program and that's impacting also the OpEx short-term.
+The underlying business continued to be strong in Networks. And the gross margin, as I said, was
+solid 41.1% during the quarter. The operating margin was sequentially reduced to 14.5% during
+Q4, and that's due to the Kathrein acquisition as well as network share of the higher investment I
+just went through.
+For the full year, however, we are at 16% operating margin, which is in the range and we're also
+very comfortable with the outlook. Digital Services. We continued to execute on the turnaround
+plan, and this past quarter, they reached a positive operating income, despite actually provisions
+of about SEK300 million for critical projects. And you know we have now resolved three quarter
+of the 45 initially identified critical projects.The next item. Free cash flow, before M&A was SEK7.6 billion for the year. That's after the
+payment of the fine to SEC, DOJ. And if we were to look at cash flow before the fine, the free
+cash flow was the highest since 2010, showing the underlying strength of the business. And the
+board proposes a dividend of SEK1.50 per share, and that is to confirm the confidence in our
+strategy and ability to execute and reach the target sets for 2020, as well 2022.
+So short comments on the market, during the fourth quarter, we can see that overall the market
+in North America was very strong except in the accounts affected by the uncertainty of the
+announced merger. And therefore, the sales overall shrank FX adjusted.
+Europe was flat after growth in networks was offset by contract exits. Latin America declined as
+large contracts were finished in 2018. Southeast Asia, Oceania and India grew based on strong
+demand for 4G. Northeast Asia grow following strong 4G and, I will say, 5G deliveries to prepare
+the network for 5G. And here we suffered also from Digital Services that fell due to lower sales of
+legacy products.
+Middle-East and Africa grew driven by growth in the Middle East. If we look for the full-year, we
+saw that North America was very strong, of course, driven by the initial demand for 5G. We saw
+also Northeast Asia be very good. And Europe fell due to contract exits for Europe and Latin
+America. And here Latin America fell due to timing of large projects.
+Southeast Asia, Oceania and India fell slightly, and this is explained by decline of legacy products
+in India within Digital Services. Middle East, Africa was flat.
+With that, I'm going to give the word over to Carl.
+`Carl Mellander, Senior Vice President, Chief Financial Officer and Head of Group Function `
+Thank you Brje. And good morning, good afternoon to everyone. Thanks for taking the time.
+Let's look at the full-year performance, to start with then, where we reached SEK227.2 billion in
+net sales. And this corresponds to 4% organic growth. Gross margin at 37.5% is within the 2020
+target range already. And the operating margin here at 5% was, of course, including the SEC,
+DOJ settlement. But if we exclude that, the operating margin was 9.7%, which is also close to the
+2020 target as Brje said.
+The full-year operating income number SEK22.1 billion. Again, having added back the SEC, DOJ
+settlement cost and that's more than double the profit of 2018.
+Net income positive number, improved to SEK1.8 billion, driven by the higher operating income, of
+course, but also lower financial net. And earnings per share diluted here came out at SEK0.67.
+Free cash flow again, SEK7.6 billion for the full-year and also here then, if adjusted for SEC, DOJ
+payment, we delivered SEK17.8 billion of free cash flow before M&A, which is 4 times higher than
+that of 2018.
+Zooming in on the fourth quarter, net sales SEK66.4 billion, 1% up organically year-over-year and
+the operating margin 9.7% was impacted by couple of items we made a partial release of the
+SEC and DOJ provision. I'll come back to that, SEK0.7 billion. There are -- is also a non-cash
+element coming from the wind-down of the legal structure of a former joint venture we had, ST-
+Ericsson, which is included here in the costs with a negative SEK0.3 billion, but yes, we can
+exclude for that and then the operating income is SEK6 billion and operating margin thereby 9%.
+And also you see net income improved here to SEK4.5 billion from a negative minus SEK6.5
+billion last year.Finally then, free cash flow before M&A in the quarter was a negative minus SEK1.9 billion, but of
+course obviously in that amount we have absorbed the SEK10.1 billion payments to SEC and DOJ.
+Let me guide you through how the SEC and DOJ settlements have affected the accounting, and
+it's a bit of technicality but could be good to know, so the settlement was fully covered by the
+provision we took in the third quarter. We paid out the SEK10.1 billion now during December and
+that would obviously reduce the provision with the same amount. But then the interest
+component of the settlement came out lower than we had estimated when we made the
+provision, and this means that we could (de-fall) further SEK7 billion of the provision. And that's
+then again had an impact on the P&L now in the fourth quarter positively. So now, we still remain
+with SEK0.6 billion of provision for this purpose and that will then cover future monitoring costs in
+this connection.
+Let's look quickly at the segment performance, starting with the largest segment networks. We
+see organic growth year-over-year of 2%. Sequentially, we grew networks by 13%, but that's a bit
+lower than the historical seasonality which is typically 18%. As Brje described, this was really
+affected by or impacted by the uncertainty in the US with one account coming in bit lower. But the
+underlying business fundamentals in North America remained strong. I think that deserves
+repeating.
+So also encouraging to see then that while North America was somewhat weaker, several other
+markets stepped up and compensated here and we saw particularly strong market growth in
+Japan and Saudi Arabia, for example, as they prepare to launch 5G. So gross margin in networks
+stayed above 41% solid and but with (a sudden) decline then quarter-over-quarter. I'll come back
+to that shortly.
+Operating margin 14.5% was down year-over-year and quarter-over-quarter and in a minute, I'll
+go through a bit more of the key items behind that development. But for the full-year, as you see
+in the graph, networks delivered an operating margin of 16%, excluding restructuring. And this is
+right in the middle of the 2020 targets of between 15% and 17% 5G leadership momentum
+continues. We have now 78 or even 79, I believed commercial side agreements and checking this
+morning and 24 lives 5G network. So that's going well as well. And here we have earlier talked
+about strategic contracts.
+So, I wanted to update you all on that as well and the rationale for those contracts and as you
+know, now in essence, these are selected few contracts that allow us to capture opportunities in
+the market to advance our position, and coming often typically with lower initial modules but
+positive and value-creating of course overall, and several quarters in a row we have shown the
+impact of these contracts now and what we do there is we net the impact of the contracts
+against what we call operational leverage.
+So, other offsetting profit improvement measures, so essentially we look at the sequential gross
+margin development, and in Q4 as you can see here, the net effect was zero of strategic
+contracts and operational leverage and the whole effect sequentially is explained by Kathrein, as
+Brje mentioned before. Kathrein obviously is going to gradually improve over 2020, that's worth
+adding as well.
+So digging a bit further into networks, I wanted to show this graph as well. So again, full-year
+performance very solid with a 16% operating margin and also Q4 gross margin can be deemed
+solid at 41.1%, but here I wanted to show a bit more on how operating margin has developed over
+the year, I think this is relevant to understand the bigger picture here.And as you see the year-to-date operating margin has been rather stable at around 16%, with
+some fluctuations between quarters and Q3 was of course a very strong quarter for networks
+with 18.4% isolated operating margin. And you also can see in the graph how this was supported
+by a low OpEx ratio. While in Q4 OpEx came back to bit higher levels but fairly in line with
+previous quarters also. And that, of course, is visible then in the operating margin.
+So we -- what we should consider here and you see the bullets to the right. One, Kathrein about
+SEK0.5 billion of impacts. That's 1 percentage point or so. And we have the investments that we
+have decided to make in digitalizing the enterprise but also compliance and security. But then, we
+also have customer financing re-evaluation and some impairment of accounts receivable and
+that's an effect of SEK0.3 billion in the quarter and actually that was a positive number in the third
+quarter.
+We're obviously investing also in R&D, so if you look year-over-year so we've added also some
+SEK900 million or so in R&D. And that, the lower seasonality on top-line also shines through here.
+Again, the full-year performance in Networks strong Digital Services. And I think the main news
+item here is that, the result was positive in the quarter Brje mentioned it already it's actually
+SEK42 million. Although, we used SEK1 billion SEK here with one decimal. It looks like it's 0.0, but
+it's actually SEK42 million positive. So I think that's a great testament to the turnaround efforts in
+Digital Services.
+We see good momentum in the portfolio, customers migrating to 5G. And sales were good here
+in OSS and cloud infrastructure, not least. And there was some decline of organic sales, due to
+core sales in Northeast Asia coming down somewhat, but gross margin stable 38.1%, and I think
+what we see now is the continued impacts from cost reductions and efficiency gains in Digital
+Services. And that continues, we're working on the rationalizing the portfolio on the legacy side
+and reinvesting that, part of it at least into the new 5G cloud-native portfolio. Yes. 10 contracts
+remain after the critical ones. All the other ones have been handled now according to plan.
+And I just want to highlight here, when we look forward that, we -- of course, are very committed
+to the target of low single-digit operating margin for 2020, but it might not be a linear journey
+through the quarters here. It can vary between the quarters of course, depending on sales mix
+and business mix et cetera.
+Okay. Managed Services and I'll speed up a little bit, sales SEK7 billion in the quarter relatively flat
+if you adjust for FX, but with an improved gross margin year-over-year. This is fundamentally a
+stable business in Ericsson, but we can have some fluctuations in margin between the quarters,
+due to the level of add-on sales for example that we deliver to customers and the timing of
+costs. So gross margin declined a little bit because of that.
+But full-year, you should look at the full-year here I think 6.3% operating margin and this is even
+excluding positive one-off we had in the first quarter then, and even this number is fully in line
+with the 2020 target for profitability.
+Okay, Emerging business and other. We have some extraordinary items and we have described
+them before, it's the provision release and the ST-Ericsson legal wind-down. But if we exclude
+those special items, we see that this segment has improved its performance in 2019. We see
+organic growth and reduced losses both full-year and in the fourth quarter. So, we should bear in
+mind also, when we look at organic growth, we have adjusted not only for FX but also for the 51%
+divestment of MediaKind.
+We talked about strong momentum in the third quarter in the investor update. This continues. Soon the IoT platform. And so this is going well and right in line with our strategy.
+And finally, we have iconectiv. That's our software-based number portability solution that also
+continues to deliver profitable growth in both the fourth quarter and the full-year.
+OpEx, R&D and SG&A here. In R&D, obviously, we continue to focus investments 5G cloud-native
+AI, and you see how R&D has shifted here between the segments. Well, we're investing in
+Managed Services and Networks and reducing the other two segments. In SG&A, in the middle,
+you see here the one-off item of SEK 0.2 billion when it comes to customer financing and then
+the 0.4 billion which is around the corporate projects for the items that we have talked about
+earlier here. Of course, there is also a negative FX element on both R&D and SG&A worth keep
+in mind.
+On the right side, you can look at the graph here showing the yearly development of R&D and
+SG&A. You see that SG&A is down about SEK1 billion per year. So obviously lower absolute
+amount, but also lower percentage of sales. And R&D meanwhile up in absolute money terms,
+which is part of our -- key part of our started I will say, but stable or even down in percentage.
+So for 2020, we do expect some higher operating expenses than in 2019, and these is driven by
+this investment areas, but also the fact that we have included the new Kathrein business. Of
+course the ambition at the same time that we have is to grow top-line more than expenses. In
+other words, expenses as a percentage of sales should come down.
+Okay. Free cash flow quickly. I think we've said most of it already but coming in at 4 times better
+than 2018 if we adjust for SEC and DOJ. We have had very strong focus on working capital
+efficiency again this year. I must say it has yielded a good result, good cash collection et cetera
+and working capital days down, now down to 75 days, which is the lowest I can remember.
+We end the year with SEK34.5 billion in net cash and more than SEK 70 gross cash. So, that's
+supporting one of the fundamentals here in the strategy to provide resilience for our company.
+Okay. So then to our planning assumptions here, and I really want to refer you as usual to the full
+report. But to mention very few ones here. Dell' Oro , which we listen to when it comes to the
+RAN market estimates that , that market will grow by 4% in 2020. And '19, they have estimated it
+grew 5.5%. So our Networks business grew a bit faster than that in 2019.
+For sales in Q1, our average sales here is, when it comes to seasonality is minus 25%, but it's
+worth considering that Q4 was impacted by the US uncertainty we talked about. So the base is
+lower, meaning that the seasonality effect into Q1 should be somewhat better, a lower negative
+percentage then.
+IPR. We have signed a couple of new IPR contracts during the year, so the new base is SEK10
+billion, if we look at the contract stock we have, compared with the SEK9 billion we have
+mentioned before. We also talked about Kathrein quite a lot, the net impact here, obviously
+gradually improving during the year, but still we expect loss -- that to be loss making for the full-
+year.
+Then OpEx, finally, typically, we see a decrease here in between the quarters Q4 to Q1. Last two
+years, average decrease was SEK2.3 billion. But as we have said several times, we expect
+somewhat higher level then compared to 2019 this year.
+So that is it from me. Thank you so much, and I hand back to you, Brje.Thanks, Carl. So closing, We launched our focused strategy in 2017 with the ambition to build a
+stronger Ericsson longer-term. The first ambition was of course to turn-around the company and
+return to growth. And we can now see that the increased investments in R&D is paying off.
+We've established ourselves as a leader in 5G with 79 commercial contracts and 24 live networks
+across four continents. We continue -- our ambition is to grow faster than the market and we
+continue to see a faster growth and we're winning contracts here based on technology merits,
+which has allowed us to maintain solid gross margin.
+During the quarter, we've been able to reach an agreement with the DOJ and SEC, and with this
+agreement, it allows us to move forward and building Ericsson with a focus for the long term. So
+we continue to increase our investment to ensure that we have a compliance program that is fit
+for purpose. And we are fully committed to our zero-tolerance policy and building a compliance
+program that's world class. So it includes work on changing our culture, updating processes,
+improving third-party management, vetting of senior executives et cetera.
+The Board proposes to increase dividend to SEK1.50 per share, reflecting a strong confidence in
+our strategy and ability to deliver on our financial targets. So we will keep focusing on building a
+stronger company longer-term. We will make the trade-off to long-term perspective for a short-
+term gain.
+Having said that, we are comfortably tracking towards our financial targets for 2020 and 2022.
+Thank you.
+`Peter Nyquist, Head of Investor Relations `
+Thank you, Brje. So by that, we are now ready for the Q&A. So operator invite you to open that
+session, please.
+Questions And Answers
+Operator
+(Question And Answer)
+Thank you. Ladies and gentlemen, at this time we will begin the question-and-answer session.
+(Operator Instructions). As always, please limit yourself to one question at a time and please
+keep your questions at a broad level. Detailed information is provided in the report, and
+Ericsson's Investor Relations and media relations teams will be happy to take additional questions
+and discuss any further details with you after the call.
+Our first question comes from the line of Edward Snyder at Charter Equity Research. Please go
+ahead. Your line is now open.
+A - `Peter Nyquist, Head of Investor Relations `
+Good morning, Ed.
+Q - `Ed Snyder, Charter Equity `
+Good morning. I had a question about the US markets, especially as regards the T-Mo/Sprint
+merger, which I would expect should be decided within the next month or so. If this should be -- if
+they should get approval for the merger, how do you see that impacting CapEx spending? I know,
+it's been kind of put on hold but if it does get approved, they're going to change plans on howSo one, how long do you think it'll take to return to a more normal CapEx profile for that firm?
+And two, what is -- what happens with the margin profile of your business in North America when
+we start seeing more aggressive build outs in the, I'll call it, sub 6, for lack of a better word? But
+AT&T has been talking about deploying on FirstNet and then T-Mo with you on about 41, but if
+that becomes a reality and we start seeing 5G equipment actually and bands deployed in the
+infrastructure,what does that do to the margin profile? Thanks.
+A - `Brje Ekholm, President and Chief Executive Officer
+The -- as we said the merger -- the announced merger has impacted Q4 clearly. But I would also
+say that, what drives CapEx need in this industry, it's really a couple of things. One is of course,
+the technology shift from 4G to 5G. We're in the beginning of that.
+The second one is the data growth. So the underlying need to invest in capacity hasn't really
+changed. So we don't really see short-term that it's more important that the outcome is resolved
+and whichever way it goes, we believe that reduced uncertainty will actually lead to spending
+because there is a need to do that. But of course the investments will vary depending on the
+outcome, so that's why it's very hard to speculate about it. So let's see where that brings us.
+If you look at the margin profile, we have -- and, we talked about this for quite some time, we
+have tried to make Ericsson less exposed to our geographic mix and mix between markets and
+mix between technologies in that sense and business segments. And I think, when you look at the
+fourth quarter, you see a unusually low North American share and we still have a sequentially
+strong gross margin. So I think it indicates that we have a much less geographic mix or business
+mix exposure than we've ever had in the past. So that's what we are going to continue to work on
+because a resilient company has less of those and, I don't know, variability depending on mix.
+A - `Peter Nyquist, Head of Investor Relations `
+Okay. Are you happy with that, Ed?
+Q - `Ed Snyder, Charter Equity `
+Yes. Thank you very much.
+A - `Peter Nyquist, Head of Investor Relations `
+Thank you. So, we are open for the next question.
+Operator
+And that comes from the line of `Achal Sultania, Credit Suisse of Credit Suisse. Please go ahead. Your line is
+open.
+A - `Peter Nyquist, Head of Investor Relations `
+Good morning, Achal.
+Q - `Achal Sultania, Credit Suisse `
+Hi, good morning, Peter. Good morning, everyone. Just a couple of questions first on the
+Kathrein, obviously you are losing a lot of money right now, SEK200 million gross profit loss,
+SEK500 million EBIT loss in Q4. I'm just trying to understand what's the part and the timing of
+trying to get this business back to profitable levels. Is it about more about the new productlaunch? Is it about trying to launch those new products with the antenna systems as we go into
+5G? Can we actually expect that business to be break-even by the end of this year?
+And then secondly on the OpEx side, can you help us understand, when you talk about slight
+increase in 2020, what is the right OpEx base we should use for 2019? Because there have been
+a number of moving parts, one-off items in 2019, so just trying to get a sense of what are the
+puts and takes for 2020 OpEx. Thank you.
+A - `Brje Ekholm, President and Chief Executive Officer
+Yes. If we start with Kathrein, I'll leave Carl to comment on the OpEx, but with Kathrein, it's a
+couple of effects we've had during the fourth quarter. So when we took over the -- or we took
+over the business, we didn't have the permits to operate in the factory. So we had -- we have
+actually stopped supply in the beginning of the quarter and that's what you see -- the effect of
+that you see in gross margin. And then we will always ensure the safety of our -- of the people
+working for us. So for us, we did not want to operate the facility without fire permits. So that's one
+effects we had in Q4.
+Then -- so -- but that, you just keep that in mind, we also see that Kathrein was impacted by the
+uncertainty in the U.S. as well. So when you should put that aside and say that was what we saw in
+gross margin. When we now move into 2020, we expect to have a loss for the full-year. And we
+do that because we are investing in building a strong roadmap within antenna and within a bigger
+product offering. So you will see us gradually improved through the year, but the year will overall
+clearly be negative. But we're establishing a very strong competitive position and competitive
+offering in antenna solutions. It's probably going to take 12, 18 months before we're there, but
+that's the time we are working according. And we think this is going to be even more important in
+the 5G world, when we can offer fully integrated site solutions.
+On the OpEx --
+A - `Carl Mellander, Senior Vice President, Chief Financial Officer and Head of Group Function `
+On the OpEx, yes. Hi Achal, I can take that then. So I mean, as you know we don't guide on OpEx
+typically, we have said now that but if you start with the baseline for 2019, it's about SEK64 billion,
+also we are saying that we will increase that a bit. And of course the ambition here is to grow the
+top line more as I said in order to decrease the percentage of OpEx to net sales.
+But some of the moving parts, as you asked about: I mean we do have Kathrein obviously
+brought in and both SG&A and R&D comes from there. And then we have the three areas that
+we talk about here digitalization, which will yield return longer-term, of course, in a more efficient
+enterprise; and also compliance; and security.
+So I will say I mean, we -- obviously, we work with constant efficiency measures as well to be as
+efficient as possible in the SG&A side. In R&D it's also about improving productivity and not
+necessarily decreasing the amounts of investment there. Because I think definitely we have
+proven that the investments in R&D have yielded result and strongly improved the gross margin
+and competitiveness. So, we will manage it in a good way all within the 2020 targets.
+Q - `Achal Sultania, Credit Suisse `
+Okay. Thank you, Carl.
+A - `Peter Nyquist, Head of Investor Relations `All right. Achal are you happy with that?
+Q - `Achal Sultania, Credit Suisse `
+Yes. Thank you, Peter.
+A - `Peter Nyquist, Head of Investor Relations `
+Thank you, Achal. We are open for next question please, operator.
+Operator
+Thank you. The next question comes from the line of `Daniel Djurberg, Handelsbanken of Handelsbanken. Please
+go ahead. Your line is open.
+A - `Peter Nyquist, Head of Investor Relations `
+Good morning, Daniel.
+Q - `Daniel Djurberg, Handelsbanken `
+Good morning. Thank you for taking my question. First congratulations for the strong cash
+conversion here in the quarter and then also on the improvement in Digital Services. Just a short
+follow-up on Kathrein, should we expect given what you've stated, just that H1 will be slightly
+better? Or will it get even a bit worse then getting better second half? That was the first
+question.
+A - `Carl Mellander, Senior Vice President, Chief Financial Officer and Head of Group Function `
+Yes, we should. We -- the this is a gradual process. So what we've seen during Q4 is this loss of
+production, but also investments in the product portfolio. Investments in the product portfolio will
+clearly continue. So the ambition is to get back more to normal production. We think, we're going
+to focus the product portfolio and invest for the future and that's going to carry some costs
+throughout the year, with a bigger loss first part of the year than the second part. So we should
+see, you can probably assume, similar to Q4, give or take.
+Q - `Daniel Djurberg, Handelsbanken `
+Perfect. May I also just ask you about China in the five year procurements? You've commented
+about the initial launches of 5G about the impacting growth in the area. Can you say anything
+about what you'll expect for the 2020 uptake? And also if you have seen anything on the market
+share so far would be great.
+A - `Brje Ekholm, President and Chief Executive Officer
+We had -- the procurement in China has not been concluded. So we have -- and we don't know
+when it will be. So it's a bit hard to speculate, but what I can say is we have -- our ambition is to
+strengthen our position in 5G, then 4G. And that ambition where we have and we're going to
+continue to focus on delivering on that.
+Q - `Daniel Djurberg, Handelsbanken `
+Perfect. And just on short --
+A - `Peter Nyquist, Head of Investor Relations `-- [ph].
+Q - `Daniel Djurberg, Handelsbanken `
+Okay. Thank you. I'll go back in line. Thank you.
+A - `Brje Ekholm, President and Chief Executive Officer
+Okay.
+A - `Peter Nyquist, Head of Investor Relations `
+Okay. Operator. Let's move to the next question.
+Operator
+Thank you. The next question comes from the line of `Amit Harchandani, Citi of Citigroup. Please, go
+ahead. Your line is open.
+Q - `Amit Harchandani, Citi `
+Good morning, everyone. `Amit Harchandani, Citi from Citi.
+A - `Peter Nyquist, Head of Investor Relations `
+Good morning, Amit.
+Q - `Amit Harchandani, Citi `
+Good morning, Peter. Thanks for letting me on. My question really goes back to the resilience of
+the networks gross margin that we saw in Q4, which is I guess particularly noteworthy given the
+lower contribution from North America for the full-year your networks gross margin was, I believe,
+around 41.8%. You've talked about, at least you've referenced Dell'Oro talking about the market
+growing 4%, so there should be some leverage coming through for you on the top line. Is it a fair
+assumption to make that you will be able to manage the impact of strategic contracts? And given
+the growth in the RAN market, your gross margin for networks should at least be flattish year-on-
+year in 2020 or put another way, how would you advise us to think in terms of gross margin
+evolution for networks over the course of 2020?
+A - `Brje Ekholm, President and Chief Executive Officer
+So thank you. But I think what we have shown now during Q4 also is that we are able to
+compensate for strategic contracts with other operational leverage. We don't expect that to
+dramatically change. Of course, we are fully committed to the target that we have set up
+including then the bottom line of 15% to 17%, and we will deliver on that. There are puts and takes
+with strategic contracts and China, but we are also working on improving obviously, the underlying
+operation in networks.
+A - `Carl Mellander, Senior Vice President, Chief Financial Officer and Head of Group Function `
+So that's how would say on --
+A - `Brje Ekholm, President and Chief Executive OfficerAnd I would say, what we do now is we are also working on changing the way we work in the
+company and improving our ways of working through digitalizing the company more than in the
+past that should -- the whole ambition with those investments is actually that it should lead to
+efficiency gains and lower cost levels in the future. So we're taking some costs during Q4 in order
+to deliver those benefits '20, '21 and beyond.
+So when you look at 2020 you can, I know as Carl described, I think it's a good way to think about
+it, but longer-term we should see a lower ratio of OpEx to sales and the strong gross margin.
+And I've said it before. Gross margin is the best indication of a competitive product portfolio. So
+that's why, we -- it's a very important metric for us to follow through of course, we're -- it we are
+happy to see that we can reduce some of the geographic mix. And in addition see a good gross
+margin despite taking some contracts with a challenged short- term margin in there. But they will
+contribute to 2022 and beyond. So, we feel very comfortable about -- for 2022.
+A - `Peter Laurin, Senior Vice President and Head of Business Area Managed Services `
+Okay. You are good with that, Amit?
+Q - `Amit Harchandani, Citi `
+Thank you, Peter. Thank you. Gentlemen.
+A - `Carl Mellander, Senior Vice President, Chief Financial Officer and Head of Group Function `
+Thank you.
+A - `Brje Ekholm, President and Chief Executive Officer
+Thank you, Amit.
+A - `Peter Nyquist, Head of Investor Relations `
+So, we'll continue next question, please.
+Operator
+The next question comes from the line of `Johanna Ahlqvist, SEB Enskilda of SEB. Please go ahead. Your line is
+open.
+A - `Peter Nyquist, Head of Investor Relations `
+Good morning, Johanna.
+Q - `Johanna Ahlqvist, SEB Enskilda `
+Good morning. Thank you for taking my question. Maybe two, if I may. The first one relates to
+OpEx again. I'm just trying, you mentioned that the base is SEK 64 billion. And I'm just trying to
+understand the magnitude of the OpEx increase. Because you have some one-offs in 2019 and
+just sort of putting back those one offs would imply an increase of at least SEK1 billion and then
+adding more costs for Kathrein to that would get us to SEK2 billion higher OpEx.
+So, I'm just wondering. Are you really expecting an underlying increase in OpEx? Or are these sort
+of the one-off effects not be there anymore and the addition of Kathrein or how should we think
+about it? Just to get the magnitude. That's the first question and if I may, I have another one.A - `Brje Ekholm, President and Chief Executive Officer
+Sure.
+Q - `Johanna Ahlqvist, SEB Enskilda `
+After.
+A - `Brje Ekholm, President and Chief Executive Officer
+Okay. We will start. I mean I will say we -- I mean we're also doing efficiencies, of course, to
+deliver what I said before and there will be an increase in absolute number. But -- and of course
+there are one offs included then, fully aware of that, in the 2019. And there will always be one offs
+but that's not really (what it's driven,) of course. So they're essentially, there will be certain
+increase because of the investments and because of Kathrein, but again, thanks to the efficiency
+measures we are taking, we're aiming to reduce the percentage of net sales. And yes, that's
+what I can say.
+Q - `Johanna Ahlqvist, SEB Enskilda `
+Okay. And my second questions if I may, was just on gross margin again because are you, -- given
+the fact that you expect a higher OpEx level for 2020, I guess you need to feel pretty confident
+in the fact that you can keep the gross margin on fairly the same levels as 2019 for the group. So
+I'm just wondering. How big negative impact do you expect we will incorporate from China? Is it a
+negative initial gross margin or is it just a low initial gross margin? Because I guess that will have
+an important driver in either way. Thank you.
+A - `Carl Mellander, Senior Vice President, Chief Financial Officer and Head of Group Function `
+Johanna, it's a great question, we cannot -- it's very hard to comment on China yet because we
+don't really know what market share there we will get? What prices will be? So we'll have to come
+back on that. Of course, we factored in costs when we guide for 2020, we have made certain
+assumptions that include costs to -- that affects gross margin negatively but still reaching
+guidance. But depending on what the outcome will be we cannot comment. So a realistic case
+based on increasing our market share in China will have a negative effect on gross margin. We
+factored that into the guidance for 2020.
+Q - `Johanna Ahlqvist, SEB Enskilda `
+Perfect. That's clear. Thank you.
+A - `Brje Ekholm, President and Chief Executive Officer
+Thank you, Johanna.
+A - `Peter Nyquist, Head of Investor Relations `
+And we'll move to the next question, please.
+Operator
+And that comes from the line of `Fredrik Lithell, Danske Bank of Danske Bank. Please go ahead. Your line is open.
+A - `Peter Nyquist, Head of Investor Relations `Good morning, Fredrik.
+Q - `Fredrik Lithell, Danske Bank `
+Good morning. Thank you for taking my question. Many questions have been answered, but on
+the cash flow generation, you have improved many of your metrics worked well with the working
+capital metrics in the year of 2019. Are there still a lot to do for you there? Or do you see that you
+have sort of reached a level where it's difficult to squeeze any additional out of those if we sort
+of take the operational size apart?
+A - `Carl Mellander, Senior Vice President, Chief Financial Officer and Head of Group Function `
+I think we have made very big strides actually on working capital during this year. We continue with
+that, definitely. And there is more to do, it's about lead times in project, contact delivery, and
+some terms and conditions and also the cash collection machinery, I would mention which has
+been very effective during in 2019 and that will certainly continue as well. So yes, the effort is
+100% on to continue to deliver good capital efficiency and of course in a growth scenario what
+we'll try to do is to still keep working capital at bay, if you like, even during growth, but of course
+that puts another challenge into the mix, if the whole business is growing.
+Q - `Fredrik Lithell, Danske Bank `
+Okay. Thank you. And maybe a question for Brje then on China again, I know it's difficult to answer
+but sort of when you think about this situation with the initial phase, which we've seen many times
+before with pressure on the margins, when you roll out, what sort of timeframe are you
+expecting that to be on? Is it going to be a year or two? Or how do you sort of see that playing
+out? If you would say that it starts now, would it take a year or two? Or how do you sort of think
+about that? Thank you.
+A - `Brje Ekholm, President and Chief Executive Officer
+It's very hard to say in reality, how long the roll out will be. But if you look at the think about 4G, it
+took a few years to build out a complete nationwide coverage. So you can probably assume that
+this is going to have something similar, but it's very hard to speculate. What we have done is we
+have based a case on the historic experience and you have seen the way we said in 2017, I think
+it's the same thing now. We have factored something similar in. And then we will have to see
+where it comes out and we'll hope, of course, we can gain market share but we will see.
+Q - `Fredrik Lithell, Danske Bank `
+Okay. Thank you.
+A - `Peter Nyquist, Head of Investor Relations `
+Thank you, Fredrik. Please, next question?
+Operator
+The next question comes from the line of `Jorgen Wetterberg, Nordea of Nordea. Please go ahead. Your
+line is open.
+A - `Peter Nyquist, Head of Investor Relations `
+Good morning, Jorgen.Q - `Jorgen Wetterberg, Nordea `
+Good morning. Thank you gentlemen for let me in. So a quick question on the digital services
+contracts? You are right that you have some pressure from some continued impact from the BSS
+strategy and we know that you have these major troubled contracts that you took provisions for
+last Q4 with 0% gross margin. When can we expect those to kind of go away? And how should
+we think about relief on gross margins from those in 2020? Thank you.
+A - `Brje Ekholm, President and Chief Executive Officer
+Some of these contracts are actually very long. They're actually -- it's -- so even if we deliver and
+convert them into, call it, revenue generating contracts, there will be a margin drive for a long
+time. They are the -- some of them are even 10 years. So these are going to have an impact
+quite a long period of time.
+Our ambition is still that we will see digital services, the profitable this year, low single-digit
+margins and then reach double-digit margins in 2022. That is including a drag from those long tail
+contracts. So, there is, we've said this before, I think the execution in digital services has always
+been focused on establishing a competitive product portfolio longer-term. And that's why we
+have said the improvements come gradually and of course, that factors in the drag from some of
+the contracts, which will live there for another decade.
+So, I think over the last few quarters you've seen us systematically, we deliver on that, and that's
+something we will continue to do. Then I -- you can always hope for some of these contracts to
+generate additional sales, additional revenues, as you have a footprint depending on how the
+customer scales their business et cetera. And then the margin profile can change. But as of now,
+we're focused on delivering on the plan we've put in place.
+Q - `Jorgen Wetterberg, Nordea `
+Okay. Thank you.
+A - `Peter Nyquist, Head of Investor Relations `
+Thank you, Jorgen. So let's move to the next question.
+Operator
+And that is from a long line of `Stefan Slowinski, BNP Paribas of Exane BNP Paribas. Please go ahead. Your line is
+open.
+A - `Peter Nyquist, Head of Investor Relations `
+Good morning, Stefan.
+Q - `Stefan Slowinski, BNP Paribas `
+Good morning. Thanks for taking my question. I've just got two quick ones on cash. Maybe the
+first one for Carl. You had SEK18 billion of free cash in 2019 about 8% of revenues, can you help
+us understand more the outlook for 2020? We've got the restructuring guidance you have given
+but should we expect any other significant changes in CapEx or working capital movements? Do
+you need to increase inventories, for example to prepare for China? Anything else that we should
+expect to impact cash flow in 2020.A - `Carl Mellander, Senior Vice President, Chief Financial Officer and Head of Group Function `
+No. As you know, and we talked about this at the Investor update. We have provided this
+illustrative bridge coming from a 12% operating margin, which is the 2022 target, and down to 8%.
+And describing then how the various components between will impact. And I think we stick to
+that. Well, now we were very successful, I would say, in 2019 in delivering a good cash flow. So we
+are on those parameters that we mentioned in that bridge, we overperformed on several not
+least on working capital.
+I think in that bridge, we put working capital stable in absolute -- or in percentage, I should say. So
+it's sort of neutral on working capital, I think that's a decent ambition to have going forward. When
+it comes to CapEx as you asked, I mean no major shifts we are investing in the US production for
+example, so that will be in small variations there but nothing major to mention.
+We have a very big focus on generating cash flow and I think that's -- we see the result of that in
+2019. And so the whole organization is much more geared towards producing cash flow and that
+includes working capital but also discipline in capital in general and in both allocation and
+spending on these various items. And we will continue to work on that.
+That whole area also, I should say, is supported by the incentive schemes that we have in the
+company. So that's also giving a lot of results actually where we have working capital, we have
+cash collection, we have economic profit, which is a value creation metric then for most people
+with short or -- short longer- term incentives. So that certainly helps us then. It's a big focus area.
+Q - `Stefan Slowinski, BNP Paribas `
+Okay, maybe.
+A - `Peter Nyquist, Head of Investor Relations `
+Great. And you second question.
+Q - `Stefan Slowinski, BNP Paribas `
+Great. Just to follow-up -- yes, just a follow-up question, maybe for Brje, on that which is with the
+cash flow, I mean, you've got the SEC fine behind you most of the major restructuring has been
+done, and you have this net cash position, it could be as high as SEK50 billion by the end of this
+year, even after paying the dividend. So is there more you can do to optimize the balance sheet?
+And do you need to have SEK50 billion of net cash?
+A - `Brje Ekholm, President and Chief Executive Officer
+It's a better problem than the opposite that we had I think in 2017. Everyone told us we needed to
+raise equity. So the -- we will come back on this. I think it's important for us to have a strong
+financial position given the industry we're in. And we see that when we meet customers, when
+they look at our long-term plans and they look on our ability to be a long-term competitor, they
+look at our financial position, so it is important. Maybe we can do something on that, it's
+something we haven't looked at right now. We've been focused on making sure we get the
+business in much better shape and then we can take the next steps. So let's come back and
+discuss that at a later point.
+Q - `Stefan Slowinski, BNP Paribas `
+Understood. Thank you.A - `Peter Nyquist, Head of Investor Relations `
+Realizing that we have a long line of questions coming up, I would actually now -- we will take the
+last question. And again for those only slide [ph], you can always reach out to the IR team or the
+press team [ph] our journalists. But we will not take the last question for the call, so please
+operator.
+Operator
+Thank you. And that question is from the line of `Peter Kurt Nielsen, ABG of ABG. Please go ahead. Your
+line is open.
+Q - `Peter Kurt Nielsen, ABG `
+Thank you very much. If I can just return to the OpEx and the decision to invest in the digitalization
+of business processes. I have -- I don't recall. I haven't heard you spoke -- speak of this before.
+Obviously, one of your competitors have spoken of the need for similar investments. Could you
+perhaps discuss briefly what has driven your sort of decision to invest in this the need? How long
+will this investment be? Is it a 1-year horizon? And is the impact which Carl illustrated for Q4 I think
+was minus SEK400 million roughly sort of a good guide for what we should expect in the coming
+quarters. Thank you.
+A - `Peter Nyquist, Head of Investor Relations `
+Thank you again, Kurt.
+A - `Brje Ekholm, President and Chief Executive Officer
+Yes, it's -- these are if you think about then, it's actually that we increased cost level short-term
+that should result in lower cost level over time. That's what we do -- that's the reason why we do
+it. And it includes a couple of different things or it's a number of different projects, but we feel
+that we need to automate a lot about our own order processes, visibility of customer orders, the
+way we run projects. All of this should result in efficiency gains down the road and that's what we
+invest for, but the reality is when we do these investments we talk about them in the light of
+serving the customer in a better way. It's all about making sure that the customer gets the
+service. The customer gets the delivery on time, the quality on time, right the first time et cetera.
+And why haven't we started doing it before? Well, we said that first let's get our basic processes
+in order before we automate them. And we felt, during the year of 2019, we got the house in
+order and we got the business in shape. So we said, we can during the year of '19 take the next
+step and see if we cannot get further efficiency gains and kind of improvements through
+digitalizing our business. That's why we took the decisions, during Q4 or during Q3, Q4. Then
+going forward you can probably expect a similar level as we had in Q4. And gradually see the
+improvements coming through towards the end of the year.
+Q - `Peter Kurt Nielsen, ABG `
+Understood. Thanks very much.
+A - `Peter Nyquist, Head of Investor Relations `
+Thank you, Peter Kurt. Before handing over for the conclusion from Brje some practical things.
+First of all, we have our event in Barcelona for the investor community and all associablewebsite how to join that? And secondly, this time we only have one call and we don't have an
+afternoon call. However, this call will be recorded and posted during the morning on our web. So
+you can listen in again on that. So by that, I would actually leave over to Brje to conclude this call
+please.
+A - `Brje Ekholm, President and Chief Executive Officer
+So thanks, Peter. And thank you, everyone, for joining. So with the focused strategy, we put in
+place. We now have a very strong underlying business. We took some investments during Q4 that
+we will see yield results in the future. And we see that we are comfortably on track to delivering
+on the targets we set for 2020 and 2022. But that is only a first goal towards building a much
+stronger Ericsson longer-term.
+So with that, thanks for joining us this morning. Thank you.
+A - `Carl Mellander, Senior Vice President, Chief Financial Officer and Head of Group Function `
+Thank you.
+A - `Peter Nyquist, Head of Investor Relations `
+Thank you.
+Operator
+This now concludes our conference call. Thank you all very much for attending. You may now
+disconnect your lines.

@@ -1,0 +1,251 @@
+Management's Discussion and Analysis of Financial Condition and Results of Operations contains
+forward-looking statements that involve risks and uncertainties. The Company's actual results could differ materially from those anticipated in these statements as a result of certain factors,
+including those set forth above in Item 1A, Risk Factors, and belo w in Item 7A, Quantitative and Qualitative Disclosures about Market
+Risk. Restatement and Revision of Previously Issued Consolidated Financial Statements As we announced on May 21, 2014, the Audit Committee, with the assistance of independent advisors, began an independent
+investigation of certain accounting matters related to our previously issued financial statements. On
+September 3, 2014, we announced that, in connection with this investigation, the Audit Committee, on the recommendation of management, concluded that previously issued
+financial statements for fiscal years 2011 and 2012 and the first quarter of fiscal year 2012 could no longer be relied on due to an accounting misstatement for inventory valuation reserves for
+Logitech's now-discontinued Revue product. As a result, we recorded an adjustment to increase cost of goods sold, and to increase inventory valuation reserves and the accrual for supplier liability
+for components related to our now discontinued Revue product by $30.7 million during the fourth quarter of the fiscal year ended March 31, 2011, and recorded a decrease to cost of goods
+sold by $34.1 million in the quarter ended June 30, 2011, and an increase to cost of goods sold by $3.4 million in the remainder of fiscal year 2012. As a result, net income and
+net income per share for the quarter and year ended March 31, 2011 was reduced by $30.7 million and $0.17 per share, respectively, with net income and net income per share in the quarter
+ended June 30, 2011 increasing by $34.1 million and $0.19 per share, respectively, and net income and net income per share in the remainder of fiscal year 2012 decreasing by
+$3.4 million and $0.02 per share, respectively. In conjunction with recording of the adjustments related to this restatement, we recorded other immaterial corrections to the consolidated
+financial statements or financial information included in this Form 10-K for the fiscal years ended March 31, 2013, 2012, 2011 and 2010. For further discussion of the Audit Committee
+investigation, see Note 2, Restatement and Revision of Previously Issued Financial Statements , to the Consolidated Financial Statements included
+in Part II—Item 8, Financial Statements and Supplementary Data . The
+Audit Committee has completed its independent investigation and found that, in connection with its quarterly close processes, up until June 2013, the finance organization would
+compile lists of financial items, which included significant accounting entries recorded during the quarter, late
+accounting entries, disclosure items and certain other items with potential accounting implications. The lists used to track these financial items appear to have been primarily shared within certain
+parts of the finance organization and were not shared with our independent registered public accounting firm. Typically, there were between approximately thirty to fifty items per quarter on these
+lists and there were multiple versions of these lists per quarter, as items were added, removed and changed. Some of the items on the list were discussed with our independent registered public
+accounting firm while others were not. As
+part of the independent investigation, it was determined that nine historical items from these lists during a five year period should have been recorded in an earlier period or a
+different amount should have been recorded. The largest item relates to the now-discontinued Revue product and is the cause for the restatement. Two items—the warranty accrual and the
+amortization of certain intangible assets—were on the lists in prior periods and were not addressed in a timely manner before we corrected them in our revised Form 10-K/A filed on
+August 7, 2013. Certain former finance employees signed the May 30, 2013 management representation letter to our independent registered public accounting firm without disclosing these
+issues and, as a result, the management representation letter was inaccurate on this point. Six items 48 Table of Contents are
+not material individually or in aggregate to any of the annual or interim periods reported but are nevertheless being corrected in these restated consolidated financial statements. There
+are two elements to the restatement related to the Revue product: (1) a lower of cost or market ("LCM") charge based on the net realizable value of finished goods and work
+in process on-hand inventory and non-cancelable orders for such inventory, and (2) an excess and obsolescence charge for non-cancelable orders for inventory components. The Audit Committee
+found that certain former members of the finance organization had information that was not considered, that showed a future loss that was estimable and probable before the filing of the
+Form 10-K on May 27, 2011 and that such loss was not recorded in our fiscal year 2011 financial statements. Certain former members of the finance organization erroneously accounted for
+the LCM charge in fiscal year 2011 based on the current price or on price reductions instead of considering available contemporaneous evidence of anticipated future price reductions and losses which
+were estimable and probable at the time. In addition, the Audit Committee found that a management representation letter dated May 27, 2011 to our independent registered public accounting firm
+incorrectly stated that probable future pricing adjustments were considered in the LCM calculation. With respect to the Revue components, certain former members of the finance organization did not
+consider all available information and therefore did not record a charge in the fourth quarter of fiscal year 2011 for non-cancelable orders related to components considered excess and obsolete. The
+analysis erroneously assumed the components would be manufactured into finished goods, though there was information available that showed that the components would not be manufactured into finished
+goods. This information was not reflected in our accounting or provided to our independent registered public accounting firm. The Audit Committee found that there was not an adequate basis for the
+historical accounting treatment of the components in the fourth quarter of fiscal year 2011. Overview of Our Company Logitech is a world leader in products that connect people to the digital experiences they care about. Spanning multiple computing,
+communication and entertainment platforms, we develop and market innovative hardware and software products that enable or enhance digital navigation, music and video entertainment, gaming, social
+networking and audio and video communication over the Internet. We have two reporting segments: peripherals and video conferencing. Our
+peripherals segment encompasses the design, manufacturing and marketing of peripherals for PCs, tablets and other digital platforms. Our products for home and business PCs include
+mice, trackballs, keyboards, interactive gaming controllers, multimedia speakers, headsets and webcams. Our tablet accessory products include keyboards, keyboard cases and covers, and smart phone
+accessories. Our Internet communications products include webcams, conference cams and headsets. Our digital music products include wireless speakers, earphones, and custom in-ear monitors. Our gaming
+products include mice, keyboards, headsets and gaming controllers. For home entertainment and home control systems, we offer the Harmony line of advanced remote controls. Since fiscal year 2013, we
+have been exiting other non-strategic products, such as speaker docks and headphones, and continue to evaluate non-strategic products as part of our ongoing efforts to strengthen our overall
+portfolio. Within
+our peripherals segment, we classify our retail product categories as growth, profit maximization, and non-strategic. Our growth product categories are: PC Gaming, Tablet &
+Other Accessories, and Mobile Speakers. Our profit maximization categories are: Pointing Devices, PC Keyboards & Desktops, Audio-PC & Wearables, Video, and Remotes. Our
+brand, portfolio management, product development and engineering teams in our peripherals segment are responsible for product strategy, technological innovation, product design and
+development and to bring our products to market. 49 Table of Contents Our global marketing organization is responsible for developing and building the Logitech brand, consumer insights, public relations, social media and digital
+marketing. Our regional retail sales and marketing activities are organized into three geographic areas: Americas (North and South America), EMEA (Europe, Middle East and Africa) and Asia Pacific
+(including, among other countries, China, Taiwan, Japan and Australia). We
+sell our peripherals products to a network of retailers, including direct sales to retailers and indirect sales through distributors. Our worldwide retail network includes wholesale
+distributors, consumer electronics retailers, mass merchandisers, specialty electronics, computers and telecommunications stores, value-added resellers and online merchants. Sales of our retail
+peripherals were 88%, 87% and 86% of our net sales for fiscal years 2014, 2013 and 2012, respectively. The large majority of our revenues have historically been derived from sales of our peripherals
+products for use by consumers. Our OEM customers include several of the world's largest PC manufacturers. Sales to OEM customers were 6%, 7% and 8% of our net sales for fiscal years 2014, 2013 and
+2012, respectively. Our
+video conferencing segment encompasses the design, manufacturing and marketing of Lifesize branded video conferencing products, infrastructure and services for the enterprise, public
+sector and other small to medium business markets. Video conferencing products include scalable high-definition, or HD, video communication endpoints, HD video conferencing systems with integrated
+monitors, video bridges, cloud-based video conferencing solution and other infrastructure software and hardware to support large-scale video deployments and services to support these products. The
+video conferencing segment maintains a separate marketing and sales organization, which sells Lifesize products and services worldwide. Video conferencing product development and product management
+organizations are separate, but coordinated with our peripherals business, particularly our Consumer Computing Platform group. We sell our video conferencing products and services to distributors,
+value-added resellers, OEMs and, occasionally, direct enterprise customers. Net sales of video conferencing products were 6%, 7% and 6% of our net sales in the fiscal year 2014, 2013 and 2012,
+respectively. During fiscal year 2013, we recorded goodwill impairment charges of $214.5 million related to our video conferencing reporting segment. We
+seek to fulfill the increasing demand for interfaces between people and the expanding digital world across multiple platforms and user environments. The interface evolves as
+platforms, user models and our target markets evolve. As access to digital information has expanded, we have extended our focus to mobile devices, the digital home, and the enterprise as access points
+to the Internet and the digital world. All of these platforms require interfaces that are customized according to how the devices are used. We believe that continued investment in product research and
+development is critical to creating the innovation required to strengthen our competitive advantage and to drive future sales growth. We are committed to identifying and meeting current and future
+consumer trends with new and improved product technologies, partnering with others where our strengths are complementary, as well as leveraging the value of the Logitech and Lifesize brands from a
+competitive, channel partner and consumer experience perspective. We
+believe that innovation, design and product quality are important to gaining market acceptance and maintaining market leadership. We
+have been expanding the categories of products we sell and entering new markets, such as the markets for mobile device accessories. As we do so, we are confronting new competitors,
+many of which have more experience in the categories or markets and have greater marketing resources and brand name recognition than we have. In addition, because of the continuing convergence of the
+markets for computing devices and consumer electronics, we expect greater competition in the future from well-established consumer electronics companies in our new categories as well as future ones we
+might enter. Many of these companies have greater financial, technical, sales, marketing and other resources than we have. 50 Table of Contents The
+peripherals and video conferencing industries are intensely competitive. The peripherals industry is characterized by platform evolution, short product life cycles, continual
+performance enhancements, rapid adoption of technological and product advancements by competitors in our retail markets and price sensitivity in the OEM market. We experience aggressive price
+competition and other promotional activities from our primary competitors and from less-established brands, including brands owned by some retail customers known as house brands, in response to
+declining consumer demand in both mature retail and OEM markets. We may also encounter more competition if any of our competitors in one or more categories decide to enter other categories in which we
+currently operate. From
+time to time, we may seek to partner with, or acquire when appropriate, companies that have products, personnel, and technologies that complement our strategic direction. We
+continually review our product offerings and our strategic direction in light of our profitability targets, competitive conditions, changing consumer trends and the evolving nature of the interface
+between the consumer and the digital world. Summary of Financial Results Our total net sales for fiscal year 2014 increased 1% in comparison to fiscal year 2013. Increases in our retail sales were partially
+offset by decreases in video conferencing sales. Retail
+sales during fiscal year 2014 increased 2% and units sold decreased 3%, compared to fiscal year 2013. Retail sales increased 9% in Americas and 2% in Asia Pacific, partially
+offset by a decrease of 4% in EMEA. If foreign currency exchange rates had been the same in fiscal year 2014 and 2013, the percentage changes in our constant dollar retail sales would have been an
+increase of 1% for total retail sales, an increase of 9% in Americas, an increase of 6% in the Asia Pacific, and a decrease of 7% in the EMEA regions. OEM
+sales during fiscal year 2014 remained flat, compared to fiscal year 2013, with OEM sales of $141.7 million during fiscal year 2014. OEM units sold remained flat during fiscal
+year 2014, compared to fiscal year 2013. Sales
+of Lifesize video conferencing products, which were 6% of total net sales during fiscal year 2014, decreased 12% during fiscal year 2014, compared to fiscal year 2013, due to a
+combination of a changing industry landscape caused by a shift to less expensive, cloud-based video conferencing solutions and, an evolving Lifesize product line. During the second quarter of fiscal
+year 2014, we implemented a comprehensive restructuring at Lifesize as part of our efforts to reposition the business and achieve profitability by the end of fiscal year 2014. This restructuring
+included reduction in staffing as well as an exit from non-strategic product lines. This restructuring resulted in a return to profitability in the third quarter of fiscal year 2014 before charges for
+amortization of intangible assets, share based
+compensation, and restructuring. During fiscal year 2013, we recorded goodwill impairment charges of $214.5 million related to our video conferencing reporting segment. Our
+gross margin for fiscal year 2014 increased to 34.2%, compared to 33.8% for fiscal year 2013. The increase in gross margin primarily resulted from cost improvements in some of our
+PC-related categories and from actions we took during fiscal year 2013 to streamline our product portfolio. Operating
+expenses for fiscal year 2014 were 30.6% of net sales, compared to 45.8% for fiscal year 2013. The decrease in total operating expenses as a percentage of net sales was
+primarily due to a $216.7 million impairment charge of goodwill and other assets during fiscal year 2013 and decreases of $29.9 million in restructuring charges and $52.1 million
+in marketing and selling expenses due to headcount reductions as a result of restructuring and lower sales and marketing investment in primarily music products. Net
+income for fiscal year 2014 was $74.3 million, compared to a net loss of $227.5 million for fiscal year 2013. This improvement primarily resulted from a
+$216.7 million impairment charge of goodwill and 51 Table of Contents other
+assets related to our Lifesize business during fiscal year 2013 and decreases of $29.9 million in restructuring charges and $52.1million in marketing and selling expenses, partially
+offset by a shift from a $25.8 million benefit from income taxes for fiscal year 2013 to a $3.3 million provision for income taxes for fiscal year 2014. Trends in Our Business Our sales of PC peripherals for use by consumers in Americas and Europe have historically made up the large majority of our revenues.
+In the last several years, the PC market has changed dramatically and there continues to be significant weakness in the global market for new PCs. This weakness had a negative impact on our net sales
+in all of our PC-related categories. We believe that this weakness reflects the growing popularity of tablets and smartphones as mobile computing devices. We
+believe our future growth will be determined by our ability to rapidly create innovative products across multiple digital platforms, especially for PC Gaming and accessories for
+mobility-related products, including tablets, smartphones, Gaming and other mobile devices and for digital music, including wireless speakers, to limit and offset the decline in our PC peripherals. We
+pursue growth opportunities in emerging markets, mobility-related products, products for digital music and enterprise markets. The following discussion represents key trends specific to each of our
+two operating segments, peripherals and video conferencing. Trends Specific to our Peripherals Segment PC Peripherals: Although the installed base of PC users is large, consumer demand for new PCs has declined in recent years, and we
+believe it will
+continue to decline in future years. As a consequence, consumer demand for PC peripherals is slowing, or in some cases declining. As the quality of PC-embedded webcams improves along with the
+increasing popularity of tablets and smartphones with embedded webcams, we expect future sales of our PC-connected webcams will continue to be weak (or continue to decline on a year over year basis).
+The PC Gaming platform continues to show strong growth as online gaming and multi-platform experiences gain greater popularity and gaming content becomes increasingly more demanding. We believe
+Logitech is well positioned to benefit from the PC Gaming market growth. Enterprise Market. We are continuing our efforts to create and sell products and services to enterprises. For example, we have
+introduced the
+Logitech ConferenceCam CC3000e video conference solution designed for small to medium conference rooms. Growing our enterprise peripherals business will continue to require investment in selected
+business-specific products, targeted product marketing, and sales channel development. Tablets and Other Accessories. The increasing popularity of smaller, mobile computing devices, such as tablets with touch interfaces,
+have created
+new markets and usage models for peripherals and accessories. During fiscal year 2014, we continued to expand and leverage our success in this category through the introductions of keyboard folios for
+the iPad and iPad mini, and keyboard covers and folios for the iPad Air. During this time, we also introduced keyboard folios for the Samsung Galaxy tablet as well as the Wired Keyboard for the iPad,
+designed primarily for use in the classroom. Mobile Speakers. We believe that digital music, the seamless consumption of digital audio content on mobile devices, presents a growth
+opportunity
+for us. Many consumers listen to music as a popular entertainment activity, fueled by the growth in smart phones, tablets, music services and Internet radio. We believe we have a solid foundation of
+audio speaker solutions to satisfy consumers' needs for music consumption, in the digital music speaker space. We continue to invest in the UE brand and introduce innovative new products in this
+category such as UE BOOM, a wireless speaker with 360-degree stereo sound. 52 Table of Contents OEM Business. Sales of our OEM mice and keyboards have historically made up the bulk of our OEM sales. In recent years, there has been
+a dramatic
+shift away from desktop PCs and there continues to be significant weakness in the global market for PCs, which has adversely affected our sales of OEM mice and keyboards, all of which are sold with
+name-brand desktop PCs. We expect this trend to continue and for OEM sales to comprise a smaller percentage of our total sales in the future. Trends in Non-Strategic Peripherals Product Categories. Some of our other peripherals product categories are experiencing significant
+market
+challenges. During the quarter ended December 31, 2012, we identified a number of product categories that no longer fit with our strategic direction at that time. We will continue to evaluate
+our product offerings and will exit those which no longer support our strategic direction. Trends Specific to our Video Conferencing Segment The trend among businesses and institutions to use video conferencing offers a long-term growth opportunity for us. However, the
+overall video conferencing industry has experienced a slowdown in recent quarters. In addition, there has been an increase in the competitive environment. This situation resulted in a
+$214.5 million goodwill impairment charge in fiscal year 2013. During the quarters ended March 31, 2013 and September 30, 2013, we implemented restructuring plans affecting our
+video conferencing operating segment to align its organization to its strategic priorities of increasing focus on a tighter range of products, expanding cloud-based video conferencing services and
+improving profitability. We believe the growth in our video conferencing segment depends in part on our ability to increase sales to enterprises with existing installed bases of equipment supplied by
+our
+competitors and to enterprises that may purchase such competitor equipment in the future. We believe the ability of our Lifesize products to interoperate with the equipment of other
+telecommunications, video conferencing or telepresence equipment suppliers to be a key factor in purchasing decisions by current or prospective Lifesize customers. In addition, Lifesize has broadened
+its product portfolio to include infrastructure, cloud services and other offerings which require different approaches to developing customer solutions. We are also seeking to offer Lifesize products
+designed to enhance the use of mobile devices in video conferencing applications. Critical Accounting Estimates The preparation of financial statements and related disclosures in conformity with U.S. GAAP (Generally Accepted Accounting
+Principles in the United States of America) requires us to make judgments, estimates and assumptions that affect reported amounts of assets, liabilities, net sales and expenses, and the disclosure of
+contingent assets and liabilities. We
+consider an accounting estimate critical if it: (i) requires management to make judgments and estimates about matters that are inherently uncertain; and (ii) is
+important to an understanding of our financial condition and operating results. We
+base our estimates on historical experience and on various other assumptions we believe to be reasonable under the circumstances. Although these estimates are based on management's
+best knowledge of current events and actions that may impact us in the future, actual results could differ from those estimates. Management has discussed the development, selection and disclosure of
+these critical accounting estimates with the Audit Committee of the Board of Directors. We
+believe the following accounting estimates are most critical to our business operations and to an understanding of our financial condition and results of operations, and reflect the
+more significant judgments and estimates used in the preparation of our consolidated financial statements. 53 Table of Contents Accruals for Customer Programs We record accruals for product returns, cooperative marketing arrangements, customer incentive programs and pricing programs. An
+allowance against accounts receivable is recorded for accruals and program activity related to our direct customers and those indirect customers who receive payments for program activity through our
+direct customers. An accrued liability is recorded for accruals and program activity related to our indirect customers who receive payments directly and do not have a right of offset against a
+receivable balance. The estimated cost of these programs is recorded as a reduction of revenue, as cost of sales or as an operating expense, if we receive a separately identifiable benefit from the
+customer and can reasonably estimate the fair value of that benefit. Significant management judgment and estimates must be used to determine the cost of these programs in any accounting period. Returns. We grant limited rights to return products. Return rights vary by customer, and range from just the right to return defective
+product to
+stock rotation rights limited to a percentage approved by management. Estimates of expected future product returns are recognized at the time of sale based on analyses of historical return trends by
+customer and by product, inventories owned by and located at distributors and retailers, current customer demand, current operating conditions, and other relevant customer and product information.
+Return trends are influenced by product life cycle status, new product introductions, market acceptance of products, sales levels, product sell-through, the type of customer, seasonality, product
+quality issues, competitive pressures, operational policies and procedures and other factors. Return rates can fluctuate over time, but are sufficiently predictable to allow us to estimate expected
+future returns. Cooperative Marketing Arrangements. We enter into customer marketing programs with many of our distribution and retail customers, and
+with certain
+indirect partners, allowing customers to receive a credit equal to a set percentage of their purchases of our products, or a fixed dollar credit for various marketing arrangements. The objective of
+these arrangements is to encourage advertising and promotional events to increase sales of our products. Accruals for these marketing arrangements are recorded at the time of sale, or time of
+commitment, based on negotiated terms, historical experience and inventory levels in the channel. Customer Incentive Programs. Customer incentive programs include performance-based incentives and consumer rebates. We offer
+performance-based
+incentives to our distribution customers, retail customers and indirect partners based on pre-determined performance criteria. Accruals for performance-based incentives are recognized as a reduction
+of the sale price at the time of sale. Estimates of required accruals are determined based on negotiated terms, consideration of historical experience, anticipated volume of future purchases, and
+inventory levels in the channel. Consumer
+rebates are offered from time to time at the Company's discretion for the primary benefit of end-users. Estimated costs of consumer rebates and similar incentives are recorded at the time the
+incentive is offered, based on the specific terms and conditions. Pricing Programs. We have agreements with certain customers that contain terms allowing price protection credits to be issued in the
+event of a
+subsequent price reduction. At management's discretion, we also offer special pricing discounts to certain customers. Special pricing discounts are usually offered only for limited time periods or for
+sales of selected products to specific indirect and direct partners. Our decision to make price reductions is influenced by product life cycle stage, market acceptance of products, the competitive
+environment, new product introductions and other factors. Estimates of expected future pricing actions are recognized at the time of sale based on analyses of historical pricing actions by customer
+and by product, inventories owned by and located at distributors and retailers, current customer demand, current operating conditions, and other relevant customer and product information. We
+regularly evaluate the adequacy of our accruals for product returns, cooperative marketing arrangements, customer incentive programs and pricing programs. Future market conditions and
+product 54 Table of Contents transitions
+may require us to take action to increase such programs. In addition, when the variables used to estimate these costs change, or if actual costs differ significantly from the estimates, we
+would be required to record incremental increases or reductions to revenue or operating expenses. If, at any future time, we become unable to reasonably estimate these costs, recognition of revenue
+might be deferred until products are sold to users, which would adversely impact revenue in the period of transition. Inventory Valuation We must order components for our products and build inventory in advance of customer orders. Further, our industry is characterized by
+rapid technological change, short-term customer commitments and rapid changes in demand. We
+record inventories at the lower of cost or market value and record write-downs of inventories that are obsolete or in excess of anticipated demand or market value. A review of
+inventory is performed each fiscal quarter that considers factors including the marketability and product life cycle stage, product development plans, component cost trends, demand forecasts and
+current sales levels. Inventory on hand which is not expected to be sold or utilized is considered excess, and we recognize the write-off in cost of sales at the time of such determination. The
+write-off is determined by comparison of the current replacement cost with the estimated selling price less any costs of completion and disposal (net realizable value) and the net realizable value
+less an allowance for normal profit. At the time of loss recognition, a new per unit, lower-cost basis for that inventory is established and subsequent changes in facts and circumstances would not
+result in an increase in the cost basis. If there were an abrupt and substantial decline in demand for Logitech's products or an unanticipated change in technological or customer requirements, we may
+be required to record additional write-downs that could adversely affect gross margins in the period when the write-downs are recorded. Share-Based Compensation Expense Share-based compensation expense includes compensation expense, reduced for estimated forfeitures. The grant date fair value for stock
+options and stock purchase rights is estimated using the Black-Scholes-Merton option-pricing valuation model. The grant date fair value of RSUs (restricted stock units) that vest upon meeting certain
+market conditions is estimated using the Monte-Carlo simulation method. The grant date fair value of time-based RSUs is calculated based on the closing market price on the date of grant. Our
+estimates of share-based compensation expense require a number of complex and subjective assumptions including our stock price volatility, employee exercise patterns, future
+forfeitures, dividend yield, related tax effects and the selection of an appropriate fair value model. We estimate expected share price volatility based on historical volatility using daily prices
+over the term of past options, RSUs or purchase offerings, as we consider historical share price volatility as most representative of future volatility. We estimate expected life based on historical
+settlement rates, which we believe are most representative of future exercise and post-vesting termination behaviors. We use historical data to estimate pre-vesting forfeitures, and we record
+share-based compensation expense only for those awards that are expected to vest. The dividend yield assumption is based on our history and future expectations of dividend payouts. The
+assumptions used in calculating the fair value of share-based compensation expense and related tax effects represent our best estimates, but these estimates involve inherent
+uncertainties and the application of management judgment. As a result, if factors change and we use different assumptions, or if we decide to use a different valuation model, our share-based
+compensation expense could be materially different in the future from what we have recorded in the current period, which could materially affect our results of operations. 55 Table of Contents Accounting for Income Taxes We operate in multiple jurisdictions and our profits are taxed pursuant to the tax laws of these jurisdictions. Our effective income
+tax rate may be affected by the changes in or interpretations of tax laws and tax agreements in any given jurisdiction, utilization of net operating loss and tax credit carryforwards, changes in
+geographical mix of income and expense, and changes in our assessment of matters such as the ability to realize deferred tax assets. As a result of these considerations, we must estimate income taxes
+in each of the jurisdictions in which we operate. This process involves estimating current tax exposure together with assessing temporary differences resulting from different treatment of items for
+tax and accounting purposes. These differences result in deferred tax assets and liabilities, which are included in the consolidated balance sheet. We
+assess the likelihood that our deferred tax assets will be recovered from future taxable income, considering all available evidence such as historical levels of income, expectations
+and risks associated with estimates of future taxable income and ongoing prudent and feasible tax strategies. When we determine that we are not able to realize all or part of our deferred tax assets,
+an adjustment is charged to earnings in the period when such determination is made. Likewise, if we later determine that it is more likely than not that the deferred tax assets would be realized, the
+previously provided valuation allowance would be reversed. We
+make certain estimates and judgments about the application of tax law, the expected resolution of uncertain tax positions and other matters surrounding the recognition and measurement
+of uncertain tax benefits. In the event that uncertain tax positions are resolved for amounts different than our estimates, or the related statutes of limitations expire without the assessment of
+additional income taxes, we will be required to adjust the amounts of the related assets and liabilities in the period in which such events occur. Such adjustments may have a material impact on our
+income tax provision and our results of operations. Goodwill We perform our annual goodwill impairment test of each reporting unit as of December 31 and complete the assessment during our
+fiscal fourth quarter, or more frequently, if
+certain events or circumstances warrant. Events or changes in circumstances which might indicate potential impairment in goodwill include the company-specific factors, including, but not limited to,
+stock price volatility, market capitalization relative to net book value, and projected revenue, market growth and operating results. Determining the number of reporting units and the fair value of a
+reporting unit requires us to make judgments and involves the use of significant estimates and assumptions. We have two reporting units: peripherals and video conferencing. The allocation of assets
+and liabilities to each of our reporting units also involves judgment and assumptions. The
+goodwill impairment assessment involves three tests, Step 0, Step 1 and Step 2. The Step 0 test involves performing an initial qualitative assessment to determine whether it is more
+likely than not that the asset is impaired and thus whether it is necessary to proceed to Step 1 and calculate the fair value of the respective reporting unit. We may proceed directly to the Step 1
+test without performing the Step 0 test. The Step 1 test involves measuring the recoverability of goodwill at the reporting unit level by comparing the reporting unit's carrying amount, including
+goodwill, to the estimated fair value of the reporting unit. The fair value is estimated using an income approach employing a discounted cash flow ("DCF") and a market-based model. The DCF model is
+based on projected cash flows from our most recent forecast ("assessment forecast") developed in connection with each of our reporting units to perform the goodwill impairment assessment. The
+assessment forecast is based on a number of key assumptions, including, but not limited to, discount rate, compound annual growth rate ("CAGR") during the forecast period, and terminal value. The
+terminal value is based on an exit price at the end of the assessment forecast using an earnings multiple applied to the final year of the assessment forecast. The discount rate is applied to the
+projected cash flows to reflect the risks inherent in the timing and amount of 56 Table of Contents the
+projected cash flows, including the terminal value, and is derived from the weighted average cost of capital of market participants in similar businesses. The market approach model is based on
+applying certain revenue and earnings multiples of comparable companies relevant to each of our reporting units to the respective revenue and earnings metrics of our reporting units. To test the
+reasonableness of the fair values indicated by the income approach and the market-based approach, we also assessed the implied premium of the aggregate fair value over the market capitalization
+considered attributable to an acquisition control premium, which is the price in excess of a stock market's price that investors would typically pay to gain control of an entity. The discounted cash
+flow model and the market approach require the exercise of significant judgment, including assumptions about appropriate discount rates, long-term growth rates for purposes of determining a terminal
+value at the end of the discrete forecast period, economic expectations, timing of expected future cash flows, and expectations of returns on equity that will be achieved. Such assumptions are subject
+to change as a result of changing economic and competitive conditions. If the carrying amount of the reporting unit exceeds its fair value as determined by these assessments, goodwill is considered
+impaired, and the Step 2 test is performed to measure the amount of impairment loss. The Step 2 test measures the impairment loss by allocating the reporting unit's fair value to its assets and
+liabilities other than goodwill, comparing the resulting implied fair value of goodwill with its carrying amount, and recording an impairment charge for the difference. Applicable to Both Reporting Units We continue to evaluate and monitor all key factors impacting the carrying value of our recorded goodwill, as well as other long-lived
+assets. There are a number of uncertainties associated with the key assumptions described above based primarily on the difficulty of predicting our revenues and profitability. Our revenues and
+profitability are difficult to predict due to the nature of the markets in which we compete, fluctuating end-user demand, the uncertainty of current and future global economic conditions, and for many
+other reasons, including, but not limited to: • Our revenues are impacted by consumer demand and future global conditions, which could fluctuate abruptly and
+significantly during periods of uncertain economic conditions or geographic distress, as well as from shifts in consumer buying patterns. • We must incur a large portion of our costs in advance of sales orders, because we must plan research and production,
+order components, buy tooling equipment, and enter into development, sales and marketing, and other operating commitments prior to obtaining firm commitments from our customers. This makes it
+difficult for us to rapidly adjust our costs in response to a revenue shortfall. • Fluctuations in currency exchange rates can impact our revenues, expenses and profitability because we report our
+financial statements in U.S. dollars, whereas a significant portion of our revenues and expenses are in other currencies. • The peripherals industry is characterized by short product life cycles, frequent new product introductions, rapidly
+changing technology, dynamic consumer demand and evolving industry standards. As a result, we must continually innovate in our new and existing product categories, introduce new products and
+technologies, and enhance existing products in order to remain competitive. • The video conferencing industry is characterized by continual performance enhancements and large, well-financed
+competitors. There is increased participation in the video conferencing market by companies such as Cisco Systems, Inc. and Polycom, Inc., and as a result, we expect competition in the
+industry to further intensify. Should
+the actual outcome of some or all of these assumptions differ significantly from the current assumptions, revisions to current cash flow assumptions could cause the fair value of
+the reporting units to be significantly different in future periods. 57 Table of Contents Product Warranty Accrual We provide for the estimated cost of product warranties at the time the related revenue is recognized based on historical and projected
+warranty claim rates, historical and projected cost, and knowledge of specific product failures that are outside of our typical experience. Each quarter, we reevaluate our estimates to assess the
+adequacy of our recorded warranty liabilities considering the size of the installed base of products subject to warranty protection and adjust the amounts as necessary. If actual product failure rates
+or repair costs differ from estimates, revisions to the estimated warranty liabilities would be required and could materially affect our results of operations. Results of Operations We have revised our results of operations for the fiscal year ended March 31, 2013 and restated our results of operations for
+the fiscal year ended March 31, 2012. The restatement reflects the results of the independent investigation by the Audit Committee and other corrections identified by the management to the
+financial statements. For more information, refer to Note 2 of our Notes to Consolidated Financial Statements in

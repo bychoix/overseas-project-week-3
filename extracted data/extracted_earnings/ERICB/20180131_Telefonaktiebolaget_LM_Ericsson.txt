@@ -1,0 +1,446 @@
+Q4 2017 Earnings Call
+
+Presentation
+`Helena Norrman, Chief Marketing & Communications Officer, Head of Marketing & `
+So good morning. Let's see if I have sound. I have sound. We're getting ready to start. So
+welcome to our last guests here in Kista this morning for this presentation of Ericsson's Fourth
+Quarter and full year report. So a warm welcome to those of you that have made your way to
+Ericsson headquarters this morning. And also, a warm welcome to those of you that are joining
+over the webcast. So this morning, we will start with a presentation from CEO, Borje Ekholm,
+followed by CFO, `Carl Mellander, CFO, Head of Finance & Common Functions and SVP. And then we're going to open for a Q&A.
+So with that, Borje, please?
+`Borje E. Ekholm, CEO, President & Director `
+Thank you, Helena. Well I will already now apologize a little bit because my -- I'm standing here
+with a bit of a flu. So stay away. I think that's the safest advice I can give right now, unless you want
+to feel the same way as I do. And I don't recommend that.
+But anyhow, I wanted to talk a little bit about the business environment before stepping into
+more specifically about our performance. So if we start with the general business environment,
+we actually see quite a lot of traction on 5G happening. If we go back a year, 5G was really only a
+buzzword. Today, we see that gaining increasing traction primarily in North America as well as, I
+would say, Northeast Asia. So China, Korea, Japan, et cetera. And we see the operators starting
+to prepare the network for 5G. So 5G, yes, we don't plan on any significant revenues in our own
+forecast for 2020. But we see that gaining increasing momentum in the market and carriers
+starting to really prepare their network and start to invest for 5G.
+We also see the RAN market has continued to be difficult during 2017 like the forecasts have
+projected. It's been said to decline by about 8% during '17. So that would mean almost 20% down
+over the last few years. We see that, though, bottoming out now and probably a slight decline
+during '18 and then starting to increase. And we even see that to gradually increase over the next
+five years.
+We've also seen an increasing momentum during the year in North America, where, again,
+carriers are preparing for 5G and really investing. At the same time, we see lower LTE volumes in
+China.If we look on our own business, we see increasing traction on our 4G portfolio as well as 5G
+portfolio. And we have announced a number of wins during the Fourth Quarter. You all know and
+when you followed us that it's quite long lead times before they're visible in our numbers. But it
+also shows that our investments in R&D is paying off in increasing volumes in the business.
+We see that we have good momentum in our emerging business. We have good momentum in
+our Networks. But where we struggle is clearly in our Digital Services. And you will see that we
+come back to that. But at the same time, I would say we have reached a couple of milestones in
+our Digital Services, where we're able now to have a stable product road map as well as stability
+in our project.
+So if we look at the full year, it was a tough year, no question. And you see on the operating
+income why I say that. We have focused on executing on our new strategy, our focused strategy,
+which includes strengthening R&D and taking costs out at the same time. So during the second
+half of the year, we have reduced our workforce, internal and external, by about 15,000, of which
+10,000 during the Fourth Quarter. And these are net numbers because we have, at the same
+time, increased the number of employees within our R&D unit.
+Sales have declined with about 10% adjusted for FX. And as I said before, we see good earnings
+in Networks. We see good gross margin development in Managed Services. But of course,
+significant losses in Digital Services. And I would say they are not -- they are expected but
+unacceptable. So we clearly need to focus on turning Digital Services around. And we will there
+increase the speed of execution on the costs side within Digital Services.
+I think one thing that's important that we've focused on this year is to make sure we have a good
+cash flow and a solid financial situation. And here, we have a good free cash flow last year of
+more than SEK 5 billion, which exceeded our dividend paid. So we have strengthened the balance
+sheet during last year. So we have net cash of about SEK 35 billion today. That has had extra
+focus. There are -- I would also say, we have not sold as much receivables as we normally do. So
+we view the cash flow as a very strong result of a good focus in the business on the working
+capital.
+If we look at our Capital Markets Day, we set out a forecast or, call it, plan or ambition for 2020.
+We see that is still holding true. No changes. And we are starting to execute on the building
+blocks to achieve our objective in 2020.
+The first here is we're getting stability on projects and products within Digital Services. We have
+completed our review of Media. And I'll come back to that later on. We are working through
+nonstrategic contracts within our Managed Services. And we are taking out costs in Managed
+Services, which has led to an improving gross margin. And we have reduced cost quite
+dramatically during 2017 by reducing the workforce with 17,000 employees during the year, or
+employees and internal and external workforce, I should say. We have actually substituted part of
+the external workforce with internal employees. So there is a bigger reduction in external
+workforce.
+We have also invested for the future, strengthening R&D, positioning ourselves to capture an
+increasing market share in 4G. That we have done in China. Of course, that has a negative impact
+on the result in Q4, as we said before. But it positions us well for 5G. And we have continued to
+increase penetration of Ericsson Radio System, which is a very competitive radio platform in the
+business and helps the earnings in Networks.
+We are making a couple of changes to the organization that we announced today as well. Firstwould say, IoT and Media and content distribution. Here, we're appointing a new head of that
+unit, called Asa Tamsons. And she will also join the executive leadership team of Ericsson.
+We have also decided to simplify the group structure by rolling sustainability, our sustainability and
+public affairs into other units. That will also happen here as of tomorrow.
+Then, we're in Digital Services. We have the first year now focused on getting the right strategy in
+place, software-led strategy, creating stability in product road maps as well as projects. And
+we've done that successfully. Now we need to increase our focus on getting costs out. And that's
+where we are putting Jan Karlsson in place to run this unit, focused on accelerating our execution
+of the cost plans.
+If we look at Q4, we see sales being down about 7% year-over-year for FX adjusted. Gross
+margin improved on the back of a strong Networks performance, however, balanced with a
+weaker Digital Services than last year.
+We should remember when we look at the operating income, yes, it is weaker than last year. Part
+of the delta from last year is due to the capitalization effects of SEK 2.2 billion. We are also
+increasing investments in R&D while taking out costs in G&A. And we will go through more in
+details of the cost out. But in G&A, we have, during the Fourth Quarter, reduced costs by SEK 400
+million. So we are taking out costs. And as I said before, a strong cash flow during the quarter.
+And that despite selling significantly less receivables than a normal year.
+If we look at market areas, it's a broad-based decline, as you can see. Single out a few things.
+One is the falling volume in Northeast Asia is due to reduced LTE investments in Mainland China.
+But I'm also happy to say that the growth in North America is coming back on the back of network
+expansions and capacity need in North America as data growth is very -- still very, very strong.
+Networks. Sales fell with 9% year-over-year FX adjusted. That's really lower volumes in China. At
+the same time, we're gaining market share in China. So it's a counterbalancing. But the market
+share gain cannot offset the falling investment volumes. It's also a tough comparison because Q4
+2016 had, I would say, pulled in deliveries. Customers demanded deliveries in the late 2016 from
+the beginning of the year. So it was a very aggressive Fourth Quarter of '16.
+Gross margin improved really on the back of better hardware margins. But also service margins.
+And that's coming out of cost out. So we can see that the cost out that we're taking in service
+delivery is helping the margins here in Networks. And we can also see that the investments we're
+making in R&D allows us to capture better gross margin in Networks.
+Operating margin, still a healthy 11.5%. But here, again, there is a big effect from the change in
+capitalization from last year. So to a large extent, the worsening performance comes out of that.
+Ericsson Radio Systems was 71% of the deliveries during the Fourth Quarter, which is, of course, a
+good number. And you can always ask, when do we run out of increasing Ericsson Radio System?
+Yes. At some point in time that becomes a less meaningful number. But it's still an important
+tracker to see the attractiveness of our radio platform.
+Digital Services. Sales fell, FX adjusted, by 3%. And what I would say here is the gross margin,
+though, has a much bigger fall. And why is that? Well what's happening here is we need to spend
+more resources in delivering some of the large digital transformation projects. So that means that
+the service margin within Digital Services is much lower during the Fourth Quarter than before.
+And here, it's clearly an area where we need to intensify our cost-out activities as well as
+migrating work from high-cost countries into low-cost countries.Part of the worsening performance in Digital Services comes again from the capitalization impact
+of R&D. But the encouraging part is we're seeing stability in product road maps. And we're
+delivering products more on time now than before. We have a couple of, 45, to name them,
+contracts that we're working through, which includes contract in the old Industry & Society. It
+includes some nonstrategic consulting projects that we are working through, which actually has a
+significant negative impact on our earnings within Digital Services. Here, we're working through to
+get through these contracts. And we hope to do half of them during next year.
+Managed Services. Sales fell by 3% during the quarter. That, I would say is, to a large extent, due
+to renegotiation of the contracts, what we have called the 42 troubled contracts or nonstrategic
+contracts. We see here, though, gross margin improving, gross margin improving year-over-year.
+But also sequentially. And that is an effect of renegotiated contracts and cost out. So we see
+again the cost activities, or the cost-out actions we're taking shows up in gross margin in
+Managed Services as well. We do not see improved operating income. And the reason for that is
+we have seasonality in our operating expenses. So there are some temporary costs that have
+been in Q4 that have impacted the cost level negatively. And therefore, we see a sequentially
+increasing loss during the Fourth Quarter.
+We've done little more than half of the 42 contracts now. We should see this improvement of SEK
+0.5 billion on these contracts gradually come through during next year.
+Other, which includes then our Media as well as Emerging business. Here, we're seeing, to a
+large extent, the improved gross margin here is from the cost out we've done within our Media
+business, which has, in effect, given the gross margin expansion. We see also very good traction
+in our Emerging business, with strong growth in IoT as well as our UDN. So here, we are
+continuing to invest in this part. And yes, it's some new businesses. But we believe they're
+fundamental for the value of Ericsson to our customers.
+We have also concluded the Media review. We're doing 2 things. One is for Media Solutions, we
+will bring in a partner. Here, our ambition has been to get capital from the outside because we
+think the Media Solutions is strategic for our customers. So we see the Media business as very
+important to us as well as to our customers. And therefore, we have wanted to retain a large
+ownership stake on our own. And we were able to complete that during the quarter. And we
+ended up owning 49% of the Media Solutions going forward.
+For Red Bee, we have looked at different options, including divestiture. But all the offers we have
+received have not been at the level where it reflects the fair value of the business. So we have
+decided to keep Red Bee, that's former Broadcast Media Solutions, Media services. The reason
+why we have the flexibility on Red Bee is that the focus we've had on taking costs out during the
+year has resulted in dramatically reduced losses. So today, the loss going forward is rather small
+on the totality. So we feel we're better off developing that business and reap the benefits on our
+own.
+With that, I'm going to give the word to Mr. Mellander.
+`Carl Mellander, CFO, Head of Finance & Common Functions and SVP `
+Thank you, Borje. Thank you. So much. I take this then. Okay. Good morning, everybody. So Borje
+has now talked about the adjusted result of the quarter. But we also have a fair share of one-off
+items, impairments and adjustments. And I want to walk through that so it's clear what the
+reported result actually includes.So as you can see here then, the reported loss is SEK 19.8 billion in the quarter. But we have 3
+distinct adjustment aspects that I want to address then. The first one being restructuring costs
+ended up at SEK 2.4 billion in the quarter. This is a cost related to our cost program. So this is
+normal business as usual during this year. And we will continue to have between SEK 5 billion and
+SEK 7 billion estimated restructuring charges also 2018.
+The middle column is about the asset write-down. And this is in accordance with what we
+communicated and first in December that we would go through the goodwill impairment test.
+Then we announced in mid-January the amounts, the result of this. And this is in line with that,
+with a minor adjustment, which has to do with foreign exchange result of making those
+impairments.
+Then provisions and adjustments. This is part of what we talked about together with the Q2
+report when we said that we had additional risks in contracts and in projects amounting to
+between SEK 3 billion and SEK 5 billion and that we were going to work through that over the
+coming 12-month period. Now this quarter, we took SEK 3.2 billion out of that range. And that
+brings the total to SEK 5.5 billion. So a little bit more than we had estimated back in July. The
+important message here now is that we have gone through now and concluded this review of our
+contracts, our business of risks in the balance sheet. And we can today say that now we have
+concluded it. And today, we don't see any more need for impairments, write-downs or provisions.
+So this is it now for when it comes to this review that we have done during 2017.
+If we look at gross margins then. And Borje has talked about some of the specifics here also. But
+as you can see, the Networks, again, actually improving the gross margin quite strongly year-
+over-year. We also have good contribution from both Managed Services as -- and other, as Borje
+talked about, other than being fueled by both of the 2 Media assets, which have improved during
+the quarter year-over-year. Digital Services, however, offsetting most of that gain in gross margin.
+Capitalization impact and in the gross margin side is SEK 0.6 billion year-over-year. That's about
+1percentage point on gross margin.
+When it comes to operating income, looking at this bridge then, you can see that volume and
+what we call nonoperational items. And there, again, we include capitalization effects and similar
+stand for most of the decrease in the operating margin while the underlying, the true underlying
+gross margin is actually improving.
+When it comes to the cost side, then R&D has increased and that is exactly as we have
+communicated in the strategy because we are investing, adding resources in R&D. SG&A has
+come down in accordance with the cost program, we've done SEK 400 million. We'll look into that
+a little bit more in a second. Then some other effects, bringing us then to the adjusted operating
+income for the -- for this quarter. Of course, our 2020 target of over 10% in operating margin still
+remains very firm.
+If we drill down into the cost side, looking at R&D to the left. First of all, we have to understand
+the R&D number. We have to normalize for the capitalization effects. And you can see that on
+your left here. Then what has happened during the quarter is reduction in R&D and savings,
+efficiencies in Digital Services. But at the same time, Networks has increased R&D. And this is
+exactly according to plan.
+On the SG&A on the other hand, the decrease adjusted, as you can see, is SEK 400 million year-
+over-year. SEK 400 million is also the amount we -- of cost savings in SG&A that has been
+realized in the P&L. So we see that coming through the result now in the SG&A. We have someA bit more on the cost program. You're all aware of the SEK 10 billion cost program that we have
+launched and with a split 30-70 between G&A and cost of sales. Today, we can report that we
+have achieved SEK 6 billion out of that SEK 10 billion in annualized run rate savings. Of course, still
+the effect in the P&L today is rather limited because there is a time delay here. But we do report -
+- and SEK 400 million saving, as I mentioned, in SG&A. And we see it coming through also in
+improved gross margins, both in -- as Borje was saying as well, both in Networks, Managed
+Services and segment Other. So we see the effect of it. But basically, we will increase the visibility
+of these savings coming into 2018 now in the first -- during the first half.
+You can see some headcount numbers here. So in these selected areas that are in the program,
+we have reduced 14,300 during this period. Again, the Group net reduction second half is 15,000
+people.
+The cash situation is strong and stronger. It has become stronger during the quarter. The
+operating cash flow at SEK 11 billion, contributing quite a lot when it comes to working capital
+improvements. In investing, we have reduced our CapEx spending, partly because the GIC
+program is getting completed or has completed, also because we sold, as we have announced, 1
+of the 3 Global ICT centers, the one in Canada.
+On the financing side, we have arranged 2 credits during the quarter with the Swedish Export
+Credit and Nordic Investment Bank respectively, that has to do with our 5G R&D. And all of this
+has then improved our gross cash position quite substantially during the quarter to SEK 67.7 billion
+and with net cash just below SEK 35 billion. So with this level, we feel confident about the
+strength of the balance sheet, our ability to execute on the strategy now.
+Here's a little bit more detail on the free cash flow. As Borje said, SEK 10 billion in the quarter and
+SEK 5 billion for the full year. And a couple of aspects there. One, the cash flow has been much
+more even during 2017 than 2016, that's a clear improvement. Less volatility. And the other one is
+that the absolute level is clearly better than 2016 as well. And that comes out of the focus that
+Borje was talking about here earlier.
+On the right side, you can see the debt maturity profile, this is also relevant then for our
+resilience and balance sheet strength. And as you can see, we have no debt maturing at all in
+2018 and 2019. So again, this contributes to the resilience of our company.
+And next topic here, which I think will be important to follow going forward, is the foreign
+exchange and the dollar development. Our sales is to 45% denominated in U.S. dollars, not all in
+the U.S. because we also have dollar contracts in certain other countries. But overall, it's 45%. So
+of course, movements in the U.S. dollar does affect Ericsson and the result. And here in the
+banner, you can see then the rule of thumb that can be used, that a 10% change in the U.S.
+dollar/SEK rate means about 5% impact on top line and 1percentage point on the bottom line.
+We also have updated the planning assumptions for Q1 and 2018 going forward. I won't go
+through all of it. But one thing is that the earlier estimates for the RAN market development
+remain unchanged. So we are talking about minus 2% now for 2018; minus 1%, '19; and flat in
+2020. We have not changed any of that.
+We see good momentum in North America. But lower investments in China. Keep outlook for the
+currency, that's really what we say on the net sales line here. When it comes to cost of sales, we
+will see more effect, more impact of the cost program as we come into 2018, that's clear. But
+please pay attention to the seasonality there, not least in OpEx.Restructuring charges I mentioned, SEK 5 billion to SEK 7 billion is the estimate currently. Then one
+segment-specific assumption around Digital Services there, the actions we're taking and
+executing on the plan will be visible second half of 2018 in the gross margin. We also supply here
+a table to be very clear on the capitalization effect so that there should be no doubt what we
+estimate there going forward as well. All of this, of course, based on the current visibility and the
+FX rates that we have at the moment.
+So with that, I hand back to my CEO, Mr. Borje Ekholm.
+`Borje E. Ekholm, CEO, President & Director `
+Thanks, Carl. Now so just to wrap up. And this is, by the way, a 5G prototype on the picture. So
+you can all see how that looks like. But maybe you'll have a chance to take a look later on, I don't
+know. But anyhow, as Carl said, we have completed the review of, call it, the commercial risks and
+the balance sheet. And we see no additional need to any more impairments or provisions in --
+after that review. So it was the last SEK 5.5 billion and the adjustment to goodwill that we took this
+quarter.
+We see strong free cash flow this past year. We have put a lot of focus on the operating capital of
+the business. And we've made a lot of structural improvements on inventory but also on
+collection. We see a overall challenging performance for the company, of course. And that's no
+doubt about that. But we see a continued solid performance of Networks. And here, we see a
+significant improvement in gross margin as a result of, of course, our investments in hardware
+and development. But also taking costs out in service delivery. And we also see continued
+increased investments in R&D within our Networks portfolio.
+Our focus going forward, need to speed up and accelerate the improvement program and
+turnaround program in Digital Services. The losses as they are today were in a way expected but
+not acceptable. And clearly, we need to show that we get the financial situation in Digital Services
+under control. It will take a while before we see the improvements come through in the financial
+statements. The reason for that is, of course, that we have long lead time in projects. So we need
+to work through our backlog before that's visible in the performance. But we also see the stability
+in projects, the stability in product road maps have created a foundation to a successful
+turnaround of Digital Services. So we view 2017 as a very challenged year, a very tough year. But
+we have created a foundation from which we can achieve our objectives set out at the Capital
+Markets Day for 2020.
+With that, I just want to thank you for coming and give the word over to Helena.
+`Helena Norrman, Chief Marketing & Communications Officer, Head of Marketing & `
+Yes. Let's go to some Q&A. So Carl, if you also come back. So we will -- we have some
+microphones. So (Rik), if we start from the second row to the left and we work our way from
+there.
+Questions And Answers
+Q - `Johanna Ahlqvist, Analyst, SEB, Research Division `
+`Johanna Ahlqvist, Analyst, SEB, Research Division from SEB. Two questions, if I may. First of all, if you could elaborate a bit how
+you foresee OpEx developing in 2018? You have a net effect of both efforts in R&D and also
+some savings. So what do you foresee on OpEx '18? And also, if you can comment on the tax,
+given the U.S. tax is a bit lower nowadays.A - `Carl Mellander, CFO, Head of Finance & Common Functions and SVP `
+Exactly. Should I start with the tax situation then? So yes, we reevaluated our tax assets related to
+the U.S. now in this quarter. So that's a SEK 1 billion change of the tax asset. And that's a function
+exactly of the lowered corporate income tax then from 35% to 21%. Long term, it should be
+positive, of course, for Ericsson with a lower tax regime. But there are a couple of other aspects
+to keep track of as well, other elements in the tax code there. So we're studying this closely. We
+are not prepared to give any specific numbers on it yet. But overall, I would say it's positive for us.
+A - `Borje E. Ekholm, CEO, President & Director `
+OpEx.
+A - `Carl Mellander, CFO, Head of Finance & Common Functions and SVP `
+On the OpEx side, yes. So we will see more result coming into SG&A through the cost program.
+We had SEK 400 million in Q4 visible in the P&L. And that will, of course, increase over time as
+more and more actions actually translate into proper realized cost savings. On the R&D side, we
+continue with a high investment level for the year. And this is part of the entire strategy, mainly in
+Networks then, to invest in technology leadership. So that will continue. Between the quarters,
+watch out for the seasonality because it swings quite a lot, as you saw between the quarters, Q4
+being very high.
+A - `Borje E. Ekholm, CEO, President & Director `
+But it's also worth to say that it messes it up a bit with the capitalization of R&D swinging. So
+please, keep track of that as well. That's why we tried to provide very detailed guidance on that.
+Q - `Daniel Djurberg, Research Analyst, Handelsbanken Capital Markets AB, Research Division `
+`Daniel Djurberg, Research Analyst, Handelsbanken Capital Markets AB, Research Division, Handelsbanken Capital Markets. A question on the solid progress in the gross
+margin, adjusted gross margin in Networks of (430) basis points year-over-year, I think, despite
+the project you have seen in China that should be isolated for Q4. So -- but still we see new wins,
+Deutsche Telekom and Vodafone U.K. and so on. If you could comment a little bit about the -- any
+color on the outlook on the gross margin for Networks would be great.
+A - `Carl Mellander, CFO, Head of Finance & Common Functions and SVP `
+I'll take it. Okay, sure. No. We feel comfortable, confident about the Networks' performance now.
+As you see, as you mentioned, a strong improvement of gross margin. Looking into 2018, we see
+that the contract that we talked about earlier in China, related to some market share gains, will
+not have any material impact going forward. We think North America is a strong engine, a lot of
+positive signals there. So with further cost out, further penetration of the Ericsson Radio System
+there is, of course, upside potential in the gross margin. And as you know, the 2020 target that
+we laid out at the Capital Markets Day remain completely unchanged.
+Q - `Daniel Djurberg, Research Analyst, Handelsbanken Capital Markets AB, Research Division `
+Okay. Just one more question, if I may, on Media Solutions. You are doing a not a joint venture but
+you've taken minority share, 49%. And the financial terms is confidential, unfortunately. But can
+you say something about how much of your cash injection that you will need to do or the
+payment that would need to be your cash injection for this?We are not going to inject any capital.
+Q - `Daniel Djurberg, Research Analyst, Handelsbanken Capital Markets AB, Research Division `
+Okay, that's great. And also, hope to secure this will not become a new SG Ericsson. So to say. I
+understand it's not a joint venture. But...
+A - `Borje E. Ekholm, CEO, President & Director `
+No. The governance is very different. And that's why we've -- we actually wanted to -- with -- this
+cannot, of course, be debated, right? We actually think it's very attractive asset. So we wanted to
+maximize our ownership stake. But at the same time, not provide any capital. So that's why we
+ended up in this solution. But it was purely for economic reasons to try to maximize our return.
+And we see also quite a lot of important traction with key customers in this unit. So we actually
+think this is attractive to hold onto. And what Angel and his team has done on the cost side this
+year is just phenomenal. So we feel very comfortable with this setup and actually think it's very
+good for us.
+A - `Helena Norrman, Chief Marketing & Communications Officer, Head of Marketing & `
+Yes, Fredrik?
+Q - `Fredrik Lithell, Research Analyst, Danske Bank Markets Equity Research `
+Yes. Two questions. `Fredrik Lithell, Research Analyst, Danske Bank Markets Equity Research, Danske Bank. The Chinese market is dropping off a little bit,
+has been in high-investment mode for the last 4, five years. Do you feel that the U.S. market is
+showing some good signs, is able to counterbalance that? Or you think that the Chinese market
+is dropping off with a larger magnitude, say, is your 2% down at risk is really the main question
+here.
+A - `Borje E. Ekholm, CEO, President & Director `
+If you start at the end of the consumer, the data growth in a way continues at almost an
+accelerating pace. So the consumption of data is really -- I mean, that's the driver of network
+investments ultimately. And we see that continuing at a very high pace. But what we at the same
+time see, we are a little bit between 2 technologies. So we are between 4G and 5G. So it's
+somehow a little bit hard to predict. We -- the outside consultants that we have used here for the
+minus 2%, I think is a reasonable estimate. I think there are some upsides in part of the world. But
+there are some risks in other part. And I would say, most of that, that it's down, comes from
+China. So if you would summarize it that way. So is the risk on the upside or the downside? I think
+this is a reasonably balanced estimate actually from what we see from customers.
+Q - `Fredrik Lithell, Research Analyst, Danske Bank Markets Equity Research `
+Another question, if I may. Part of your strategy is to turn Digital Services around. And just six
+months into that, your Head of Digital Services is leaving or is replaced, or whatever that is. And
+at the same time, Media was sort of on the divestment list, more or less. And now you keep part
+of one of it and you keep the whole of the other part. So is this setting your strategy
+implementation back in time? Or is it sort of something you had in your expectations as well?
+A - `Borje E. Ekholm, CEO, President & Director `
+No. I think we -- if we step back a little bit and take Media Solutions, there, we always wanted to
+maximize our ownership stake without providing more capital actually because it's strategically soimportant for our customers. And there is a big overlap in customers between us and the Media
+Solutions. So I would say the strategic logic for Ericsson of investing in Media remains the same as
+it did before. So that I view as kind of a natural. That's -- this is actually where we wanted to end
+up, to be candid.
+On Red Bee, of course, I would have preferred to get a higher bid. We didn't. And we think the
+bids did just not reflect the value of the business. So we're not going to give it away. That's just
+not the way we should run this company.
+Then on Digital Services, what we said when we created Digital Services was that we need to,
+first of all, create stability. And Ulf has done a really good job in creating stability on products, a
+quality R&D function. So we've got a stability there. And we've got a stability in customer projects.
+So that has created a foundation for the next step. And I think that was the expectation we would
+anyway be at right now. That's why we say, yes, it's an expected result. It's not acceptable. But it's
+expected.
+And why did we need to focus on stability first? Well at the end of the day, it's our customers. This
+is critical piece of their infrastructure. So if we don't deliver and don't perform, their network is
+going to suffer. So we could not afford that. So we needed to get stability. Now Ulf elects to lead.
+And instead, we put Jan in to focus on the execution on the cost side, which is the next step in
+the turnaround.
+Q - `Unidentified Participant, Analyst, Unknown
+(inaudible). Borje, when we met in Lund last year at the Ericsson Garage opening, you -- we talked
+about the R&D expansion in Lund and other places. And now you say, for this year, you'll continue
+to invest in R&D. Could you elaborate a bit more in -- about what that means?
+A - `Borje E. Ekholm, CEO, President & Director `
+We are increasing -- we're recruiting people for our R&D clearly. I don't remember now. We've
+increased by 500 roughly during the second half of the year. So we are intensifying our
+investments here. And why do we do that? Well we believe we can capture bigger gross margin
+by investing in technology. And that's what we're trying to do. And that's what we see in a very
+solid Networks performance. So that is a long-term investment that we're making and we will
+continue to do. We see also -- again, we need to make sure that we are well positioned for 5G.
+5G will come, we can debate when in certain parts of the world. But it's quite clear that the race is
+heating up in North America as well as Northeast Asia. And here, we just need to invest to make
+sure we are a leader in that game. And we're -- we feel that we're very well positioned for that.
+A - `Helena Norrman, Chief Marketing & Communications Officer, Head of Marketing & `
+So yes, we can take one more question. And then we're going to start to wrap up, I think.
+Q - `Unidentified Participant, Analyst, Unknown
+Carl, a quick (data) question for you. IFRS 15 is starting up from now actually. So -- and you write
+about it in the report. Should we expect that the sort of seasonal effects would be enhanced, i.e.,
+that you will have less or maybe revenues coming in Q1 from those type of contracts and maybe
+coming later in the year? Is that how we should sort of see it?
+A - `Carl Mellander, CFO, Head of Finance & Common Functions and SVP `Net-net, I suggest we take that in more detail actually in another forum. But there might be some
+seasonal effects between the quarters, that's true. But it's also a spillover effect from previous
+periods. So I need a little bit more time to explain that factor, if that's okay.
+Q - `Unidentified Participant, Analyst, Unknown
+A detail one, again. On patent, the guidance you said of SEK 7 billion for 2018. Is it anything
+besides FX that makes a decline from the SEK 7.8 billion, I think, you had this year?
+A - `Borje E. Ekholm, CEO, President & Director `
+No. You can.
+A - `Carl Mellander, CFO, Head of Finance & Common Functions and SVP `
+No. No it's -- sorry. (multiple speakers). So FX is a big part of it, definitely. Then we have 1 contract
+we renegotiated during the year. So the SEK 7 billion is really the expectation based on current
+rates and the contract portfolio we have.
+A - `Borje E. Ekholm, CEO, President & Director `
+Yes. But only on existing contracts.
+A - `Carl Mellander, CFO, Head of Finance & Common Functions and SVP `
+On existing, yes.
+A - `Borje E. Ekholm, CEO, President & Director `
+Yes. That's why -- so the reality is, we sign new contracts during a year as well. So that's the
+exiting value of the contract portfolio.
+Q - `Unidentified Participant, Analyst, Unknown
+And a very last one, if I may.
+A - `Borje E. Ekholm, CEO, President & Director `
+Go ahead. Time to shout.
+A - `Helena Norrman, Chief Marketing & Communications Officer, Head of Marketing & `
+Go ahead.
+Q - `Unidentified Participant, Analyst, Unknown
+On the working capital, you have a very strong working capital finishing this year. So do you
+foresee those working capital improvements being the same magnitude? Is that possible also for
+2018?
+A - `Carl Mellander, CFO, Head of Finance & Common Functions and SVP `
+We worked very hard on working capital improvements for sure. I don't want to commit to
+anything specific other than our long-term target is 100 working capital days. And we're still on
+the move towards that. But we spend a lot of effort and take some additional actions then on
+working capital to continuously improve.A - `Borje E. Ekholm, CEO, President & Director `
+No. We need to sharpen the focus on working capital. So working capital, we have increased
+focus this year. So the rate of improvement, I don't think you would see, of course, we do the
+low-hanging fruits first, right? But the focus on working capital is really important. And it comes
+through in payment terms and how contracts -- or specified T&Cs on contracts, et cetera. We
+have a lot more work to do here. But at least we're taking some steps.
+A - `Helena Norrman, Chief Marketing & Communications Officer, Head of Marketing & `
+So with that comment on increased focus on working capital, I think we've come to the end of the
+Q&A. So we say thank you for joining this morning. We have a conference call again at 2 Central
+European Time. Please join us.
+A - `Borje E. Ekholm, CEO, President & Director `
+Thank you.
+A - `Carl Mellander, CFO, Head of Finance & Common Functions and SVP `
+Thank you. Thanks.

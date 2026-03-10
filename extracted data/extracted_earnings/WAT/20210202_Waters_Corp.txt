@@ -1,0 +1,734 @@
+Q4 2020 Earnings Call
+
+Presentation
+Operator
+Good morning. Welcome to the Waters Corporation Fourth Quarter 2020 Financial Results
+Conference Call. All participants will be in listen-only mode until the question-and-answer session
+of the conference call begins. This conference call is being recorded. If anyone objects, please
+disconnect at this time.
+It is now my pleasure to turn the call over to Mr. `Bryan Brokmeier, Head of Investor Relations, Head of Investor Relations.
+Please go ahead, sir.
+`Bryan Brokmeier, Head of Investor Relations `
+Thank you, operator. Good morning, everyone, and welcome to the Waters Corporation fourth
+quarter earnings conference call. Before we begin, I will cover the cautionary language.
+During the course of this conference call, we will make various forward-looking statements
+regarding future events or future financial performance of the company. In particular, we will
+provide guidance regarding possible future results of the company and commentary on potential
+market and business conditions that may impact Waters Corporation over the first quarter and full
+year 2021. We caution you that all such statements are only our present expectations and that
+actual events or results may differ materially from those indicated in our forward-looking
+statements.
+For a detailed discussion of some of the risks and contingencies that could cause our actual
+performance to differ significantly from our present expectations, see the risk factors included in
+our Annual Report on Form 10-K for the fiscal year ended December 31, 2019, in Part 1 under the
+caption Risk Factors, and our most recent quarterly report on Form 10-Q for the quarter ended
+September 26, 2020, in the Part 1 under the caption Risk Factors, both of which are on file with
+the SEC, as well as the cautionary language included in this morning's press release, including
+with respect to risks related to the effects of COVID- 19 pandemic on our business.We further caution you that the company does not intend to update any of its predictions or
+projections except during our regularly scheduled quarterly earnings release conference calls and
+webcast or as otherwise required by law. The next earnings release call and webcast is currently
+planned for May 5, 2021.
+During today's call, we will be referring to certain non-GAAP financial measures. Reconciliations of
+the non-GAAP financial measures to the most directly comparable GAAP measures are attached
+to our earnings release issued this morning and available on the company's website. In our
+discussions of the results of operations, we may refer to non-GAAP results, which exclude the
+impact of items, such as those outlined in our schedule titled, Reconciliation of GAAP to Adjusted
+Non-GAAP Financials, included in this morning's press release.
+Unless stated otherwise, references to quarterly results, increasing or decreasing, are in
+comparison to the fourth quarter of fiscal year 2019. In addition, unless stated otherwise, all year-
+over-year revenue growth rates, including revenue growth ranges given on today's call, are given
+on a comparable constant currency basis.
+Now, I'd like to turn the call over to Dr. `Udit Batra, President and Chief Executive Officer, Waters' President and CEO. Udit?
+`Udit Batra, President and Chief Executive Officer `
+Thank you, Bryan, and good morning everyone. Along with Bryan, joining me on this morning's call
+is `Mike Silveira, Vice President, Interim Chief Financial Officer, Waters' Vice President, Controller, and Interim CFO. Some of you may already
+know Mike, who has been a part of the Waters finance organization for 16 years. And I'm happy to
+have him joining me on this morning's call.
+I would like to start by thanking our employees around the globe for their hard work and
+dedication to what has been an extraordinarily difficult year. It is one that has brought significant
+change and sacrifice, from navigating the pandemic and resulting short-term cost saving
+initiatives earlier this year, to changes in leadership, the Waters' team has responded to drive
+determination and an indomitable spirit. I am impressed by and grateful for our teams resilience
+and commitment to our customers and to each other.
+During today's call, I will provide a brief overview of our fourth quarter and full-year operating
+results, as well as an update on the stabilization that we have seen in the LC market and a few
+factors influencing our thinking for 2021. Mike will then review our financial results in detail, and
+provide comments on our first quarter and full-year financial outlook. We will then open up the
+phone lines to take your questions.
+Briefly reviewing our operating results for the fourth quarter. Revenue grew 10% as reported, 7%
+on a constant currency basis, and adjusted earnings per share grew 14%. For the full year,
+revenue declined 2% and adjusted earnings per share was up 1%. The strong finish to the end of
+a challenging year was driven by the pharmaceutical market improvement, capital spending
+recovery in the second half of the year, strong execution and early contributions from our near-
+term growth initiatives.
+Looking more closely at our top line results, first, from a customer perspective. Our largest
+market category pharma was the primary growth driver in the quarter with 15% growth. Our
+industrial market grew 5%, while academia and government declined 15%. Now to geography. On
+a constant currency basis, sales in Asia were up 12%, with China up 19%. Meanwhile sales in the
+Americas grew 3%, with the US growing 4% and European sales grew at 6.%.From a product perspective, our Waters branded products and services grew approximately 8%,
+while TA declined by around 1% on a constant currency basis. While still navigating the global
+pandemic, we are seeing clear signs of improving customer activity, positive growth trends in our
+recurring revenues and an evidence of stabilization in LC instrument demand. Services grew 10%,
+while consumables business grew approximately 14%, driven largely by global pharma strength,
+including sales of our recently launched PREMIER Columns, which performed exceedingly well in
+the first quarter on the market.
+LC instruments grew most -- grew across most of our major geographies with high single-digit
+growth. This improvement in capital equipment purchasing reflects the combination of the return
+of some of the planned capital spending that was delayed from the first half of the year, a normal
+pharma year-end budget flush and early contributions from our LC replacement initiative.
+Following last June's release of the Arc HPLC system in the core HPLC market, with a particular
+focus on the small molecule development and QA-QC space, we look forward to the continued
+expansion of our liquid chromatography portfolio.
+On February 10, we will launch ACQUITY PREMIER, next generation UPLC system that offers
+customers an extraordinary break through in efficiency, sensitivity, and overall capability. This new
+system will benefit both large and small molecule discovery and development, as well as
+biomedical research. This new system has even more profound benefits when paired with our
+ACQUITY PREMIER Columns, which I mentioned earlier, and were launched in the fourth quarter.
+The combined solution will alleviate non-specific binding absorption losses and provide a
+significant leap forward with enhanced reproducibility, reduced passivation, and an increased
+confidence in analytical results.
+After a very strong third quarter, mass spec sales were about flat in Q4. As you know, the mass
+spec business can be lumpy, which we saw with biomedical research. There are -- there was also
+a general softness in clinical diagnostics as budgets were averted to COVID-19 testing. Notably,
+however, mass spec sales to pharma customers grew double-digits, driven by the strong double-
+digit growth of both BioAccord and the QDa.
+Finally to TA. Revenues declined low-single digit, which was -- which was much improved from
+earlier in the year. We saw the core thermal business start to pick up, driven by market
+improvement in Asia. In particular, life sciences including pharma and medical devices, grew
+double-digits. Combined these comprised approximately 10% to 15% of TA's total revenues.
+However, this was not enough to offset declines from TA's industrial customers.
+Looking now at our geographies, all major regions grew. The Americas grew low-single digits,
+Europe grew mid-single digits, and Asia grew double-digits. In the US, the growth was driven by
+pharma, which was partially offset by declines in material science, environmental, and academic
+and government. Though Latin America continued to decline, it improved meaningfully relative to
+earlier in the year. Europe also experienced strong pharma performance, partially offset by
+material science, food, and academic and government. In both US and Europe, pharma growth
+was broad-based, including strength in big pharma, large molecule customers, generics and
+contract labs.
+China had an impressive quarter, with strong double-digit growth, driven by continuing
+acceleration in pharma, as well as strong environmental growth. The pharma growth was driven
+by both small and large molecule customers, including particularly strong growth at contract labs.
+India also continue to grow double-digits.In summary, overall in the fourth quarter, we saw further relative strength in the market and
+benefited from strong year-end spending trends. Now for the year, our pharmaceutical market
+category achieved 1% growth with the US, Europe and India all seeing positive growth. Industrial
+declined 3% for the full year, and academic and government declined 16%. Notably, our pharma
+market category grew 10% in the second half compared to the first half decline of 8% owed in
+part to strength in small molecules, the industry recovered from lockdowns. Industrial also grew in
+the second half at 4%, while academic and government declined 12% compared to the first half
+declines of 10% and 22% respectively.
+Geographically for the year, Asia sales were down 4%, with China -- China sales down 8%. Sales
+in Americas were down 4%, with the US down 2%. Europe sales were up 2%. Notably all our major
+geographies grew in the second half of the year, with the US up 4% and Europe up 6%, following
+first half declines of 9% and 3% respectively. Our China market grew in the second half, up 11%,
+reversing much of its sharp 31% decline in the first half of the year.
+Now I would like to share some of the progress we've made in our transformation program as
+several of the initiatives we're putting into action are starting to contribute to growth. First, I will
+talk about our instrument replacement initiative, then our progress in contract lab expansion,
+followed by e-commerce, and lastly, I'll give you a BioAccord update.
+First, as it relates to our instrument replacement initiative, which is the most advanced initiative
+underway, we delivered our first quarterly LC instrument revenue growth in two years, and our LC
+Instrument win-loss was the highest it has been in three years. Initial customer feedback has been
+very positive on the Arc HPLC as well.
+Second, as part of our contract lab expansion initiative, we have made important progress in
+targeting this high growth customer group. We've contacted a number of customers globally,
+particularly in China, and have strengthened our value proposition with expanded alternative
+revenue and service offerings which have been well received by the segment. It is still early days,
+but we're pleased with the progress we're making.
+Third, our e-commerce initiative is still in the early stages, but waters.com traffic is up double
+digits, driven by search engine optimization and paid search. While there isn't a one-to-one
+relationship between traffic and revenue, increased traffic is an important first step in driving
+revenue growth through the e-commerce channel. In tandem with our e-commerce actions,
+we've also enhanced our e-procurement platform on which we have expanded our coverage of
+customers leveraging this channel. This supported strong e-commerce -- strong e-procurement
+growth, indicating that it's now easier to work with Waters.
+Fourth, driving -- launch excellence. BioAccord sales exceeded expectations in the quarter as our
+market development efforts and our specialty sales model have started to take effect,
+particularly in the US and Europe. Many customers are increasingly adopting BioAccord for
+manufacturing, and several have placed follow-on orders. Once we get BioAccord applications on
+an enterprise software platform, we believe we will be -- we will be seeing more follow-on
+orders. More importantly, customer activity continues to be encouraging, which makes us
+optimistic about 2021.
+Lastly, I'd like to highlight our efforts to help mitigate the public health crisis. In addition to the
+significant efforts by our innovation response team, we are encouraged to Waters' consumable
+specked in on QA-QC methods for COVID vaccines and therapeutics. We're also seeing an uptick
+in COVID driven demand for our instruments and consumables. This peaked in the fourth quarter
+where COVID revenues contributed an estimated 1 to 2 percentage points to the growth, drivenby those pharmaceutical customers developing COVID vaccines and therapeutics whom -- who
+saw meaningfully higher growth than manufacturers that don't have COVID-related programs.
+In summary, as a wrap up to 2020, we've done a great job at keeping our employees safe and
+our operations running. Our teams have focused not only on getting products out the door, but
+we have also assisted our customers engaged in COVID-related efforts. Meanwhile, our base
+business is showing signs of recovery and our transformation is well underway.
+Turning to 2021, while the business environment remains uncertain, we look forward to building
+on the fourth quarter momentum. Mike will provide further details on our outlook for 2021 which is
+based on three key factors. One, we're assuming a gradual improvement in customer activity led
+by the pharma market. Two, we expect all major geographies to perform better than they did in
+2020, led by growth in China. Lastly, our near-term growth initiatives are expected to continue to
+ramp up, led by our LC replacement initiative, which we expect to increasingly contribute to
+performance.
+With that, I'd like to turn the call over to `Mike Silveira, Vice President, Interim Chief Financial Officer for a deeper review of the fourth quarter
+and 2020 financials, and our outlook for 2021. Mike?
+`Mike Silveira, Vice President, Interim Chief Financial Officer `
+Thank you, Udit, and good morning everyone. In the fourth quarter, we recorded net sales of
+$787 million, an increase of approximately 7% in constant currency. Currency translation increased
+sales growth by approximately 3%, resulting in sales growth of 10% as reported. For the full year,
+sales declined about 2% in constant currency and as reported.
+Looking at product line growth. Our reoccurring revenue, which represents the combination of
+precision chemistry products and service revenue increased by 11% in the quarter, while
+instrument sales increased 4%. For the full year, re-occurring revenue grew 3%, while instrument
+sales declined 9%. Chemistry revenue were up 14% in the quarter, driven by strong pharma
+growth. On the service side of our business, revenues were up 10% as customers continue to
+reopen labs, catch up on performance maintenance in professional services and repair visits.
+As we noted last quarter, re-ocurring sales were impacted by two -- two additional calendar days
+in the quarter, which resulted in a slight increase in service revenue sales. Looking ahead, there
+are five additional calendar days in the first quarter, and six fewer calendar days in the fourth
+quarter of 2021 compared to 2020. Breaking fourth quarter product sales down further, sales
+related to Waters branded products and services grew 8%. While sales of TA branded products
+and services declined 1%. Combined LC and LCMS, instrument sales were up 5%, while TA
+system sales declined 4%.
+Now I'd like to comment on our fourth quarter and full year non-GAAP financial performance
+versus the prior year. Gross margin for the quarter was 59.2%, an increase compared to the
+58.2% in the fourth quarter of 2019, primarily due to the higher sales volume and FX. On a non --
+on a full-year basis, gross margin was 57.4% compared to 58% in the prior year on lower overall
+sales volumes in 2020.
+Moving down the fourth quarter P&L, operating expenses increased by approximately 6% on a
+constant currency basis and 8% on a reported basis. The increase was primarily attributed to
+variable expenses related to the strong sales performance. For the year, operating expenses
+were 1% lower before currency translation and flat after. In the quarter and for the full year, our
+effective operating tax rate was 14.9% and 14.8% respectively, an increase from last year as thecomparable period included some favorable discrete items. Net interest expense was $7 million
+for the quarter, a decrease of about $3 million as anticipated on lower outstanding debt balances.
+Our average share count came in at 62.5 million shares, a reduction of approximately 3% or
+about 2 million shares lower than in the fourth quarter of last year. This is a result of shares
+repurchased through the end of the first quarter of 2020, subsequent to which we paused our
+share repurchase program.
+Our non-GAAP earnings per fully diluted share for the fourth quarter increased 14% to $3.65 in
+comparison to the $3.20 last year. On a GAAP basis, our earnings per fully diluted share increased
+to $3.49 compared to $3.12 last year. For the full year, our non-GAAP earnings per fully diluted
+share were up 1% at $9.05 per share versus $8.99 last year. On a GAAP basis, full year earnings
+per share were $8.36 versus $8.69 at 2019. A reconciliation of our GAAP to non-GAAP earnings is
+attached to the press release issued this morning.
+Turning to free cash flow, capital deployment and our balance sheet, I'd like to summarize our
+fourth quarter results and activities. We define free cash flow as cash from operations, less capital
+expenditures and excluding special items. In the fourth quarter of 2020, free cash flow grew 52%
+year-over-year to $240 million, after funding $47 million of capital expenditures. Excluded from
+free cash flow was $19 million related to the investment in our Taunton precision chemistry
+operation. In the fourth quarter, this resulted in $0.30 of each dollar of sales converted into free
+cash flow.
+For the full year in 2020, free cash flow generation was $726 million after funding $172 million of
+capital expenditures. This represents a 26% increase and $0.31 per dollar of sales converted into
+free cash flow. Excluded from free cash flow was $70 million related to our investment in our
+Taunton chemistry operation, and $38 million transition tax payment related to the 2017 US Tax
+Reform. Our increased free cash flow is primarily a result of our cost actions -- cost saving actions
+and improvements in our cash conversion cycle.
+In the fourth quarter, accounts receivable days sales outstanding came in at 70 days, down 7 days
+compared to the fourth quarter of last year. Inventories decreased by $16 million in comparison to
+the prior quarter -- prior year quarter, reflecting stronger revenue growth in revised production
+schedules.
+Waters maintains a strong balance sheet, access to liquidity and a well structured debt maturity
+profile. We ended the quarter with cash and short-term investments of $443 million and debt of
+$1.4 billion on our balance sheet at the end of the quarter. This resulted in a net debt position of
+$913 [ph] million and a net debt to EBITDA ratio of about 1.1 times at the end of the fourth quarter.
+Our capital deployment priorities remain consistent: invest to growth, balance sheet strength and
+flexibility, and return of capital to shareholders. We remain committed to deploying capital against
+these priorities, as such, our Board of Directors has approved a two-year extension of our
+January 2019 share repurchase authorization that was set to expire last month. As of today, we
+have 1.5 billion remains available under the program for share repurchases.
+As we look forward to the year ahead, I'd like to provide some broader context on our thoughts
+for 2021. The business environment remains uncertain and we are assuming a gradual
+improvement in customer activity led by the pharma market. We expect all major geographies to
+perform better than they did in 2020, led by growth in China. Our outlook does not anticipate a
+return of lockdown seen in 2020. We had a 1% tailwind from COVID-related revenue in 2020,
+three quarters of which was in the second half of the year. We expect a similar revenue impact in2021, including a 1% to 2% growth tailwind in Q1. We anticipate the first half growth tailwind will
+moderate through the remainder of the year.
+Improved execution on our near-term growth initiatives contributed to our fourth quarter growth,
+but the quarter also benefited from capital spending that were delayed from the first half and in
+the second half of the year, which we don't expect to continue in 2021. The second half of 2021
+will have to content with the challenging comp resulting from the revenue shift that took place in
+2020. These dynamics support full-year 2021 guidance for constant currency sales growth of 5%
+to 8%. At current rates, the positive currency translation to 2021 sales growth is expected to be 1
+to 2 percentage points.
+Gross margin for the full year is expected to be in the range of 57.5% to 58.5%. Every year we
+look to balance growth, investment and profitability. Accordingly, we expect 2021 operating
+margins of 28% to 29% based on a combination of growth investments, normalization of COVID-
+related cost actions, and disciplined expense controls.
+Moving now below the operating income line, other key assumptions for full-year guidance are:
+net interest expense of $35 million to $38 million; a full year tax rate of between 15% and 16%,
+which includes our new five-year tax agreement with Singapore that will expire in March 2026; a
+restart of our share repurchase program in 2021 that will result in an average diluted 2021 share
+count of 61 million to 61.5 million shares outstanding. Over the course of the year, we will evaluate
+share repurchase program and provide quarterly updates as appropriate. Rolling all of this
+together in a non-GAAP basis, full year 2021 earnings per fully diluted share are projected in the
+range of $9.32 to $9.57, which assumes a positive currency impact on full year earnings per share
+growth of approximately 3 percentage points.
+Looking at the first quarter of 2021, we expect constant currency sales growth to be 7% to 10%.
+At today's rate, currency translation is expected to increase first quarter sales growth by
+approximately 3 percentage points. First quarter non-GAAP earnings per fully diluted share are
+estimated to be in the range of $1.50 to $1.60. At current rates, the positive currency impact on
+first quarter earnings per share growth is expected to be approximately 15 percentage points.
+Now I would like to turn it back to Udit for some summary comments. Udit?
+`Udit Batra, President and Chief Executive Officer `
+Thank you, Mike. In summary, we're pleased with our resilience in the second half of 2020 and
+the strong finish to the year, which is a true testament to the determination of this team. Though
+the environment remains variable, pharma markets have shown resilience and our transformation
+program is already demonstrating results and contributing to growth. Despite the challenging
+environment, the progress we've made as an organization over the last five months is nothing
+short of extraordinary.
+I remain ever more confident in the team, our portfolio and our market position. There remains a
+lot of work to do, but we have a tremendous opportunity in front of us to turn the business
+around.
+With that, we will begin the Q&A session. Operator?
+Questions And Answers
+OperatorThank you. We will now begin our question-and-answer session. (Operator Instructions). Our first
+question comes from `Vijay Kumar, Analyst, Evercore ISI from Evercore ISI. Your line is now open.
+Q - `Vijay Kumar, Analyst, Evercore ISI `
+Hey, congrats on a good print here, Udit. I guess, when you look at the revenue guidance here, I
+appreciate the color on curtailments. What is -- I guess, on a go-forward basis, when you think
+about some of the growth initiatives you guys were making, is Waters now -- are now 5% or 7%,
+you would perhaps talk about what the medium term outlook would be for the company?
+A - `Udit Batra, President and Chief Executive Officer `
+Thank you. Thank you, Vijay. And first, let me say, I'm super pleased with how they've finished the
+year. Looking ahead, I think, we've guided -- we've guided about -- we've guided I think more
+prudently than not. I think we have, I would say, we expect the basis of the guidance for the full
+year which is about 5% to 8% is continuing strength in pharma, and if -- and there are three
+factors. If they go better, it would tend towards the higher end of the guidance, both in the mid --
+in the short and the mid-term. First, recovery of the other markets beyond pharma; second,
+continuing tailwind from our -- from our COVID -- from COVID-19 programs, where we've seen
+our products specked in; and third, even more stronger contribution from our turn-around
+programs.
+So I think I would simply say the guidance is prudent, and we see several triggers that should
+allow us to get on the higher end if they -- if they done in the right direction.
+Q - `Vijay Kumar, Analyst, Evercore ISI `
+Got it. And then one quick follow-up on that margins, Udit. I know there has been some debate, if
+you will, on the margin we set for the company. Is -- I guess, when you look at the -- and correct
+me if I'm wrong, I think, I heard 28% to 29% margins for fiscal '21. Is that the new base and should
+Waters be expanding margins off of the new base?
+A - `Udit Batra, President and Chief Executive Officer `
+No, so Vijay, I think -- thank you for looking at it probably much too closely. It's actually rather
+simple. The cost actions that we've taken in 2020 come back into the base and then that should
+allow us to go from there further on.
+But Mike, do you want to provide more color on that?
+A - `Mike Silveira, Vice President, Interim Chief Financial Officer `
+Sure. I could. So definitely our operating margins are being impacted by the normalization of
+those cost actions that were put in place in the second quarter as a result of the COVID-19
+pandemic. These costs were temporary and they included furloughs and salary reductions, but
+they have been restored already, and we're already seeing that benefit in sales growth. So it will
+put a drag on our 2021 operating margins. But as we return to growth and we return to our
+historical, geographic and product mix in the future, we believe that our margins will get back to
+those historical levels, and maybe we will expand if we can get on higher level of our guidance.
+Q - `Vijay Kumar, Analyst, Evercore ISI `
+Fantastic guys. Thanks again on a nice prints here.A - `Udit Batra, President and Chief Executive Officer `
+Thank you, Vijay.
+Operator
+Thank you. And our next question comes from `Derik De Bruin, Analyst, Bank of America from Bank of America. Your line is
+now open.
+Q - `Derik De Bruin, Analyst, Bank of America `
+Hey, good morning. Couple of questions. I guess, the first one, could you talk a little bit more
+about the LC cycle and some of the benefits in PREMIER? And specifically, I'm also just curious
+about what have your pharma installed base is Alliance versus various security generations and
+what's actually potentially amenable to upgrade? I just -- basically just want to get some sense of
+where you are in the process of a potential replacement cycle in this key group?
+A - `Udit Batra, President and Chief Executive Officer `
+Sure. Thanks, Derik. Look the LC replacement initiative, the one that I introduced in the call earlier
+has -- is off to a wonderful start. If you look at the HPLC to UPLC mix of our installed bases, I
+would say, roughly 53% to 47% HPLC to UPLC. And in terms of dimensionalzing it, remember, we
+talked about Alliance, in particular, instruments that are now on limited service, assuming there
+are about 8,000 or so of them, we expect 10% to 15% of those to be replaced.
+The initiative in itself is off to an excellent start. I mean, we've contacted over 60% of those
+customers already, received rather positive feedback. And I would say a couple of facts. One, Arc
+HPLC is of course helping quite a bit in the replacement, but what we've seen in Q4 is the highest
+win loss ratio that we've seen in over three years for LC instruments. So this bodes well for the
+initiative, and we're seeing rather positive uptick.
+Second, you asked a question on PREMIER. We launched our PREMIER Columns in Q4. These
+were especially designed for molecules that are -- that have affinity from -- for metals, and we've
+designed in non-absorptive surface, which increases the efficiency of the separation. And if you'd
+say, well, what is the application? The application is actually squarely targeted towards larger
+molecules and oligonucleotides, and the uptake has been excellent. And I would say, it's even -- it
+will get even more interesting when we take the technology and implement it across our UPLC
+instruments, which is ACQUITY PREMIER, and that's set to launch on February 10. The pre-market
+work has been very, very good, and I expect that to do just as well.
+So I hope that gives you more clarity on LC and also on PREMIER.
+Q - `Derik De Bruin, Analyst, Bank of America `
+Yeah, no, I appreciate the detail, it's very helpful. And just how should we think about the tax rate
+sort of beyond 2021?
+A - `Udit Batra, President and Chief Executive Officer `
+Mike?
+A - `Mike Silveira, Vice President, Interim Chief Financial Officer `We're guiding to the 15% to 16%, right. We've obviously -- I mentioned that we actually have a
+new agreement in force. So that will help us maintain our current tax profile between 15% and
+16%. But obviously with all the new tax legislation, it could possibly come down the pike. It may be
+a different story. We are looking at it. Obviously, there is a rate increase from 21% in the US to
+27%. We estimate that the impact would be about a 1% increase in the future to our tax rate
+overall worldwide if that were to happen, if that legislation passes.
+Q - `Derik De Bruin, Analyst, Bank of America `
+Thank you very much. I'll get back in queue.
+Operator
+Thank you. And our next question comes from `Tycho Peterson, Analyst, JP Morgan from JP Morgan. Your line is now
+open.
+Q - `Tycho Peterson, Analyst, JP Morgan `
+Hey, thanks. Udit, I think, one of the questions you're all going to get is just on the sustainability of
+the instrument strength, in particularly the LC strength, especially after last quarter you expected
+a moderation in the fourth quarter, because you had talked about Taunton spending in 3Q. It
+sounds like you mentioned normal budget flush, return of planned spending, the LC replacement
+initiative is the big driver. So why should we expect a moderation going forward on the instrument
+side if you're in early innings of the LC replacement cycle?
+A - `Udit Batra, President and Chief Executive Officer `
+Look, Tycho, we're being prudent with what we are guiding at this stage, right. I mean, so if you
+just look at the -- let me start with the overall commentary and then I'll comment more on LC and
+the instrument replacement and the other initiatives, in particular.
+Look, if you just look at how we've guided, we say look towards the end of the year, we should --
+and Waters as you know underperformed in the last few years, we would want to reach market
+growth above in the next 12 to 18 months and these initiatives will help us, right. So if I just now
+break it down, if our initiatives do better than planned, if other end markets recover and we
+continue to see COVID tailwind, we believe that we will be on the higher end of the guide and
+that should -- and should set us up very nicely for the future.
+As far as the LC Instrument replacement side for this concern, we're in the early stages of the
+innings, I mean, it's a -- it's a good start, but it's a start all the same. I don't want us to get over-
+confident with one data point. I believe the execution is very good. We have a good -- good
+feedback -- we have good feedback from our customers. I do believe, especially with Arc HPLC,
+the launch of PREMIER, we'll continue to see strength in LC, but I would -- I would still want to
+remain prudent. So as I said, it's one data point. It's a good data point, but I would not want to
+extrapolate just based on one data point at this stage.
+Q - `Tycho Peterson, Analyst, JP Morgan `
+Okay. And then one other question we've gotten is a lot of the turnaround plan is on kind of a
+refocused selling effort, whether it's penetrating CROs or pushing more of an attach rate or
+trying to drive the replacement cycle as you alluded to. The feedback in the market over the last
+couple of years as your competitors are selling better products cheaper. Now you highlighted the
+ACQUITY PREMIER, Arc, and BioAccord. I'm just curious if you still think there is an innovation gapin the market or how you feel about the current suite of instruments as it stands today versus
+competition?
+A - `Udit Batra, President and Chief Executive Officer `
+Yeah, I think, let's take it -- let's take it across the portfolio, right. So I've had a chance to examine
+the portfolio. I would say, if again -- if you remember the turnaround plan was -- the first focus is
+on the short-term commercial momentum, I think, you would have agreed on that. It gives us
+freedom to act, then we get our processes and systems, right, and then we focus on the
+portfolio. So there would be more to say about the portfolio in the future, but the current
+assessment suggests the following, right.
+First, if you just look at the instrument portfolio, our mass spec portfolio has been completely
+refreshed with five new launches in 2019 alone, and we've talked a lot about BioAccord, but also
+our Tandem Quad portfolio with the Xevo line have done quite well, especially if you look at the
+uptake for traditional Chinese medicine -- medicine in China and small molecule organic testing
+for that portfolio. So the mass spec portfolio, both on Tandem Quad and High Res I feel good
+about. Of course, there is always more to do, but it's a very, very good start.
+And if I move to LC, we talked a bit about Arc HPLC and PREMIER, both are significant steps
+forward for our portfolio. And as I mentioned earlier, we are thinking of -- thinking of how to re-
+imagine the LC instrument, especially in the QA-QC space, and there'll be more to say about that
+in the next few years, that programs is well underway.
+If I move into the consumable side, both for small and large molecule pharma, our portfolio is
+very well set. I won't speak much about the small molecule. I think that is -- that is well
+understood. But on the large molecule side, our ACQUITY Columns in particular have been
+designed for large molecules. And these are for proteins, for peptides, for oligos, and now with
+the launch of PREMIER that even strengthens the position further. So across the portfolio, on the
+instrument side, on the consumable side, and with service, we continue to look for better options.
+I believe we're doing -- we've done a lot, we're doing a fair bit to continue to refresh the
+portfolio, and going forward, I mean, there are, of course -- there are, of course, things to do to
+enhance the portfolio, but I don't feel for a second that we are disadvantaged versus
+competition in the market. So I think for the short-term, I believe, with the hand that we have, we
+can fight pretty well.
+Q - `Tycho Peterson, Analyst, JP Morgan `
+Okay. That's helpful. One quick one before I hop off. Just on the share repurchase. I'm curious as
+to the kind of a thought process there. Waters has been criticized in the past here, you know
+buying back a lot of stock, especially as revenues were going along the way. I don't think you'd be
+penalized for reinvesting more, so just talk about that trade-off between repurchases and may
+investing more in business?
+A - `Udit Batra, President and Chief Executive Officer `
+Yeah, look, I mean, we -- and I'd like -- I'd like -- I'll let Mike comment a bit more in a minute. But at
+the high level, we've -- we don't feel that there is any limitation for us to invest. Look, I mean, we
+just want to take it one step at a time. I mean, Waters has industry leading margins, superb cash
+flow. So there is incredible flexibility to invest. We simply want to make sure that we do it in the
+right way and in the right areas, right.And again, coming back to the transformation program. The first focus is to get the sales
+momentum back, which we're off to a good start. One or two data points don't make a trend. So
+we'll keep at it. We will focus on the processes and the systems, and then there'll be enough
+time to think about enhancing the portfolio, both organically and inorganically. So there is no
+limitation on that front.
+As far as the share repurchase program is concerned, it's part of our overall capital allocation
+philosophy. It is a lever, but don't assume that that's the only lever we have. Mike, do you want to
+comment on the priorities for a minute?
+A - `Mike Silveira, Vice President, Interim Chief Financial Officer `
+Sure. I would just add that we do have a strong flexible balance sheet, but we also generate a ton
+of free cash flow. Historically we generate about 25% of each sales dollar gets converted into
+free cash flow. But we can use that and obviously our debt capacity to both invest in growth, both
+organically and inorganically, but we can also return value to shareholders. We have our share
+repurchase program over the course of the years which is very beneficial to our shareholders. We
+bought back -- it's been in place for about 18 years now, and we bought back close to $9 billion.
+So as we move forward through this year and certainly we're still in the pandemic here, we'll
+evaluate how much and when we actually will buy during the course of the year. But again, it's
+about being flexible. We believe we do have that flexibility and strength to do a couple of
+different things with respect to capital.
+Operator
+Thank you. Our next question comes from Doug Schenkel from Cowen. Your line is open.
+Q - `Douglas Schenkel, Analyst, Cowen and Company
+Good morning, and thank you for taking my questions. Udit, in recent discussions, you
+acknowledged that Waters over the last several quarters has in certain instances than losing
+market share. And we've talked about this being a function of strong competitors really targeting
+Waters for a long time and finally make some -- making some progress, especially in disrupting
+typical replacement cycles where you would kind of have the home-field advantage in placing the
+replacement box. I'm just wondering where do you think you are in the process of taking steps to
+reverse these trends? How much investment and time is required pursuant of the reversal?
+And then keeping in mind that it was a pretty strong quarter, should we put much weight on Q4
+results in the context of assessing your progress with these efforts?
+A - `Udit Batra, President and Chief Executive Officer `
+Thanks. Thanks, Doug. Look, it's a good quarter. It's a strong start to our initiatives, and especially
+the LC initiative, which we've talked about a fair bit. The basic assumption is -- and as you
+mentioned is that there is a replacement cycle. And replacement cycle of our instruments in the
+past is, I mean, we knew about it and we've been at it for a while, but I think the focus that we
+have now, and you'd say, well, what are you doing differently. I think what we're doing differently
+from the past which starts to show -- starts to pay dividends is that we are using, we know exactly
+where these instruments are, we've taken a look at the database, we have targeted our reps to
+those exact channel -- to those exact customers.
+And in addition, armed with Arc -- Arc HPLC as a new product in addition to our value proposition
+of PREMIER, we feel our full portfolio with the LC, with PREMIER, with our service offering, is off toa good start in this replacement cycle. I don't want to get too far ahead of ourselves, and I won't
+speculate too much on the future, but this data point looks good and leading indicators in terms
+of orders also look rather good.
+Now in terms of how you should think about it in the future, I think I'd rather share the fact after
+we have done rather than speculating, but all I can say is, the data points we have at this point in
+time look positive, both in terms of how the customers are receiving our value proposition, and
+how we are targeting the customer. So I mean in general, I would remind you that Waters is an LC
+company, right. Any time we do something on LC, our whole team, our sales team, our service
+team gets super enthusiastic, and we're seeing some of that -- some of that in the results. So I'll
+stop there, and of course, happy to answer any follow-ups.
+Q - `Douglas Schenkel, Analyst, Cowen and Company
+Okay. That was super helpful, Udit. Thank you for that. And then, I guess, this is kind of been
+touched on in some of the earlier questions, but I still think it's worth revisiting. If we just think
+about what we heard in terms of some of the early updates from some of the other larger tools
+companies, they are significantly accelerating investment in the current environment, essentially
+taking the COVID-19 related windfalls and reinvesting a lot of that cash flow into growth initiatives.
+In response to that, do you see the need to increase investment to -- essentially help maintain
+your competitive position, kind of, building off of the last question or do you think that's not
+necessary and not something that drove you to kind of be reactionary in terms of how you looked
+at your investment plan for 2021?
+A - `Udit Batra, President and Chief Executive Officer `
+Doug, again, a very perceptive question. And look -- you've somehow answered your question in
+the last comment. I mean, we will not be reactionary to anything. I mean, I think, R&D and having
+been a researcher myself for a good part of my career, I mean, we want to focus on
+fundamentals. We want to focus on technology development and what is this technology-
+oriented company. So we'll stay true to the problem solving that we have to do.
+Now to some facts, right, if you look at the R&D productivity in recent times, the mass spec
+portfolio has been completely renewed, both on the High Res side, as well as on the Tandem
+Quad side. And to provide you more color on the Tandem Quads, we're seeing very good -- very
+good uptake of those, in particular. As I mentioned earlier in China, we want to continue to work
+on our software on those Tandem Quads to even increase the uptake, and in pharma, DMPK
+[ph], sort of areas as well. So I feel we have done a good job in refreshing the mass spec
+portfolio, and we also know what we need to get done specifically and we're funding those
+programs very well, especially on the informatic side for mass spec.
+BioAccord is another case in point. I mean, as you know, QA-QC -- LCMS and QA-QC is some of
+the holy grail in the industry to be able to take large molecules to the same place where small
+molecules are in release testing. And we have a robust and reliable instrument in BioAccord which
+is starting to see very good uptake, and we have really clear roadmap in increasing applications
+and improving the software on that front as well, and that's very well funded.
+If I now turn to the LC side, I mean, we've -- we redoubled our effort on that front, both on the
+commercial side, but also on the R&D. On the R&D side, it's a question of turning our dollars to
+the right -- to the right programs. And there on the consumables, in particular, I mean, the launch
+of PREMIER has been received very well in the market. We're expanding that technology into our
+full instrument space and that should be -- that is something that the market is, I think, lookingeffort on the software side as well to take and power into the cloud and expand the applications
+there.
+And then finally if I turn to the service side. There we are always looking at better value
+propositions. And here, it's not necessarily a product-based innovation but it's a service-based
+innovation as many of our customers are asking us for more flexible value propositions especially
+when it comes to -- when it comes to, I would say almost a la carte service is based on the
+utilization and we are offering those value propositions as well. So I've gone on long, but just to
+give you a flavor that the R&D programs are based on specifics and not what appears to be
+popular, and we will not be shy in increasing that funding, and you'll hear more about that as we
+go forward.
+Operator
+Thank you. And our next question comes from `Dan Arias, Analyst, Stifel from Stifel. Your line is now open.
+Q - `Dan Arias, Analyst, Stifel `
+Good morning, guys. Thank you. Udit, on the specialty selling efforts that you've kind of honed in
+on as a need. Can you just sort of share some thought on how we should think about the scale
+and the magnitude of that push? I mean, is there a percentage of reps years [ph] from now that
+we might be thinking about as focused on either a particular product or a particular application?
+A - `Udit Batra, President and Chief Executive Officer `
+Sure. I use that as an example -- as an example, Dan, when we were talking about -- talking about
+BioAccord, in particular, right. I mean, products that require a deeper explanation, products that
+could benefit from our customers -- our customers being coached on how to use it, how to
+develop methods on them.
+And for BioAccord, in particular, I'll just use that as an example. That's off to an excellent start,
+right. So we -- we've -- we've turned specialty reps and we've created a specialty reps team and
+turned them towards specific customers, especially ones with large molecules and
+oligonucleotide applications. And they've gone in and develop methods with these customers,
+and in many cases, we have follow-on orders as well. And to just come back to the fact, I mean,
+for BioAccord, Q4 was the best quarter since its launch by several fold. So we think this approach
+is working.
+Now in terms of what fraction of the total field force is especially versus generalist, look, most of
+our reps have a technical training. And the reasons Waters has been successful in the market for
+so long is because of -- because of our technical capabilities and how we are able to partner with
+our customers. And now we basically trained a few of them on specific methods. I would say, we
+will continue to expand it. If it works more, we will continue to expand that specialty -- specialty
+field force for more complex applications and BioAccord is just a start.
+I hope that gives you a bit -- a bit more clarity. I don't want to quantify the fraction of field force
+that return specialty. We will basically -- it's a pilot that seems to be showing results and we will
+continue to expand as the larger -- as there are larger number of customers and targets.
+Q - `Dan Arias, Analyst, Stifel `
+Yeah, okay. That's helpful. Okay. And then maybe just one on margins as it relates to product mix.
+When you -- when you look at the collective gross margin profile for this last tranche of new-- is there a different profile attached that in aggregate relative to the rest of the portfolio such
+that if you guys are successful and we do see some new product acceleration there, we should
+think of that as a mix factor that works in your favor. And then along those lines, whether you have
+mentioned that there is some other new things that you have in the hopper. Is there a conscious
+effort to design and add things to the portfolio that are at a higher level of profitability than say
+that the predecessor platforms?
+A - `Udit Batra, President and Chief Executive Officer `
+Thanks. Excellent. Excellent questions. I mean, I'll give you a general answer to your second
+question, and then let Mike give you a bit of specifics on how we are seeing the margin evolution.
+In general, look, the simple way to think about it is consumables and recurring revenues have a bit
+of a higher margin than instruments. And over time, instruments, as the demand rises, you can
+see more leverage in the P&L, and you have higher units. So hence you start to see better and
+better margins over time. So you start off with a slightly lower margin with instruments, and that
+goes up over time.
+And with consumables and informatics, you already see a nice starting point. And so with launch
+of PREMIER, more informatics solutions, better service, definitely gave a lift. And instruments at
+the beginning might start off at a lower starting point, but then would -- would go up rather
+rapidly as the demand goes up and we are seeing that already in many of our platforms.
+So Mike, do you want to comment a bit more on the margins and the evolution, especially on the
+gross margins?
+A - `Mike Silveira, Vice President, Interim Chief Financial Officer `
+Sure. What I will add is that, obviously when a new product gets introduced, we don't have the
+advantage of taking cost out. So over time, over the next couple of years, after a product is
+introduced, we're typically able to lower the cost to produce the product, which will help the
+margin significantly. Also obviously the more units that we had alluded to, and then we push
+through the plant will also help margins. So the combination of those two generally improves,
+especially on the instrument side, as we move out from one or two years after we launch.
+A - `Udit Batra, President and Chief Executive Officer `
+But in general, I mean, just to -- just to expand on your question earlier and to give you something
+specific. In general, it's a good assumption that we are introducing products that have a higher
+margin profile than we have in the past. I think, that's a reasonable assumption.
+Operator
+Thank you. And our next question comes from Steve Willoughby from Cleveland Research. Your
+line is now open.
+Q - `Stephen Willoughby, Analyst, Cleveland Research
+Good morning. Thanks for taking my questions. I had a couple, maybe just one or two starting
+from Mike. Mike, I just wanted to double check that we heard you correctly as it relates to some
+of the guidance for the first quarter. Did you say that you expect a 15% benefit to EPS from FX in
+the first quarter?
+A - `Mike Silveira, Vice President, Interim Chief Financial Officer `15%
+Q - `Stephen Willoughby, Analyst, Cleveland Research
+Wow, okay. And then, I guess --
+A - `Mike Silveira, Vice President, Interim Chief Financial Officer `
+Sorry. To expand upon that, the number is very small. So it's the power of the denominator a little
+bit. So that's what caused (Multiple Speakers) to be impacted.
+Q - `Stephen Willoughby, Analyst, Cleveland Research
+Okay. Very good. Thank you. Just -- Udit, two questions for you then as it relates to sort of looking
+forward. One, how are you thinking about instrument growth versus reoccurring growth in 2021?
+And maybe if there is any comments on the strong 14% chemicals growth that you saw in the
+fourth quarter, you know if that was, you know how sustainable that sort of growth is?
+And then the second question is just, you previously have made some comments about -- you
+know, sort of, seen some of the largest orders in company history here recently. I was just
+wondering if you could provide any more color on, if that was -- Udit something you think is the
+change or sustainable or is it just happened to be kind of a one-off here in the most recent
+couple of months?
+A - `Udit Batra, President and Chief Executive Officer `
+Steve, thank you for both of those questions. First on instrument growth versus recurring. You saw
+in the fourth quarter that recurring revenues were double digits, instruments were we're mid-
+single digits. And I think going forward also, we -- I mean, if you just think through what we are
+thinking, what we are -- what we are hoping to see in the future, I mean, we expect that pharma
+continues and you should see a similar sort of -- similar sort of mix going forward as well as. If
+pharma continues its trend and as other end markets recover, we expect a bit of -- a bit of upside
+to it.
+And if you just done a bit towards, I think, rather than giving you ratio, let me give you a bit of
+specifics on how one could think about it. If you just take of our -- think of our applications in
+pharma for both small and large molecules, and then it just give you a bit of the portfolio that
+goes towards that, right. So for small molecules, I mean, as that raises, especially as generic
+consumption and product for COVID, especially therapeutics, small molecule therapeutics rise,
+we see our LC portfolio with Arc HPLC, in particular, going up. Then if you turn to large molecules,
+you can start with consumables. And then the reason I'm giving you the specifics is just to give
+you color that on both fronts there is reason to believe that -- that we should see some optimistic
+development.
+And on the consumable side for large molecules, first, I mean our ACQUITY Columns for UPLC
+have been designed in particular for large molecules to start with proteins, with peptides, glycans
+and also oligos, with the near getting launched first as Columns on the technologies has got very
+good traction, especially for oligonucleotide applications and now it goes into the instrument
+space which are rather broad-based if I just take the LC example, both on the UPLC side and the
+HPLC side. And for mass spec, as you already know, BioAccord and our QDa have done pretty
+well for large molecule applications in Q4. So really, really broad based. I would not speculate on
+one or the other, but I would say Q4 give you a good indication of what we should see -- what we
+should see even going forward, if not better.Now in terms of large orders and to give you -- and give you color on my comment on large
+orders previously. You see, with the LC replacement initiatives, we've had some customers come
+in and ask us to replace their full fleet and that has resulted in some of the largest orders. And
+this is why I'm rather optimistic about this initiative. So that gives you more color.
+On the chemicals piece, I'm not sure what you're referring to the 14%. So I don't know Mike if you
+have any comments on that? I don't know what that is referring to the chemicals growth of 14%?
+A - `Mike Silveira, Vice President, Interim Chief Financial Officer `
+I'm not sure even. Sorry.
+A - `Udit Batra, President and Chief Executive Officer `
+Steve, I hope that give you color.
+Operator
+And our next question comes from `Puneet Souda, Analyst, SVB Leerink from SVB Leerink. Your line is now open.
+Q - `Puneet Souda, Analyst, SVB Leerink `
+Yeah, hi. Thanks, Udit, and first of all, congratulations. This is an impressive quarter, and thanks for
+all the work that you've put in in these few months here. So first one based on what you are
+saying there, and correct me if I'm wrong, it appears to me that the China pharma recurring
+revenue sales in especially columns and small molecules, and then services grew very strongly in
+the quarter. Obviously, you highlighted the growth in China. So wondering what has changed in
+your approach in China in terms of commercial execution or is that largely market-driven growth
+that we are seeing from across the -- some across the peers as well. So correct me if I'm wrong
+on any of those assumptions as to what I'm seeing?
+And then in that light also, were there any incentives in the fourth quarter that drove this growth
+in that geography?
+A - `Udit Batra, President and Chief Executive Officer `
+So thanks for your question, Puneet. On China, look I mean, we have -- we're extremely happy
+with the quarter. I mean, it grew slightly shy of 20% after I would say a very difficult first half of the
+year. And so, we're very happy with the momentum, and largely led -- largely led by pharma, both
+on the small molecule and large molecule side, and a very broad based growth across the
+portfolio, across instruments, both mass spec, as well as LC, consumables and service, especially
+recurring revenues did super well, especially in the pharma -- especially in the pharma segment.
+So we feel really good about that.
+In terms of changes, I mean, it goes back to what -- what we talked about earlier, really focusing
+the field on what matters. And as I mentioned earlier, as soon as we utter the words LC at
+Waters, we have a genuine enthusiasm across the organization and we have not just -- not just
+our portfolio but our service teams are state-of-the-art. So I think having the organization focused
+on LC, giving them Arc HPLC as a new product, and it was especially designed for China, in
+particular, right. So giving the Arc HPLC and PREMIER to go out and have these conversations with
+the LC customers has been -- has been -- has been a terrific initiative.
+Secondly, I'd also mentioned our CXO or contract testing and contract research organization
+initiatives, that's also done rather well in China. Our team has gone out to meet contractmanufacturers. We've increased our penetration in contract testing organizations in the food
+segment. It's again one data point, but it's a good data point. I am reluctant to start extrapolating
+too much, but it's a good data point that it gives us confidence, that activity is at a higher level.
+Now as far as incentives are concerned, they are no different than they have been in the past. It's
+just a question of focus, but giving the teams new products, giving them clarity on which
+customers to go after, and working with them to succeed, I think, are the key success factors I
+would point to.
+A - `Bryan Brokmeier, Head of Investor Relations `
+And operator, we have time for one more question.
+Operator
+Thank you. And our final question comes from Dan Brennan from UBS. Your line is now open.
+Q - `Daniel Brennan, Analyst, UBS `
+Great. Thank you. Thanks for that. Thanks for taking the question. I kind of hopped on late, but I
+was hoping -- I know you spoke a lot about Asia and China, but I was hoping to dig in a little bit
+more there if you don't mind. Could you just kind of break apart kind of China because there was
+a lot going on in the last couple of years for Waters there, particularly on the food and the
+pharma side which -- and I know you've addressed that a little bit. But can you just walk us through
+a little bit, how you think about the opportunity going forward for Waters in China, maybe some
+of what are the strategic initiatives that you have ongoing? I know you are talking about a bigger
+portion at the contract research organization. But I'm just wondering if you can kind of maybe
+peel the onion a bit more on China for us?
+A - `Udit Batra, President and Chief Executive Officer `
+Sure, sure. Look, Dan, very good question. In China, look, we talked a bit about in the past about
+what had caused the slowdown, right. I mean, the slowdown was led by the food segment, but
+also a bit of a slowdown in pharma and our focus on pharma. So, again, let me break it down a bit
+across the different initiatives in the pharma. We expect our focus with LC, with Arc HPLC, with the
+launch of Arc HPLC and PREMIER and the replacement initiative should give us -- should give us
+good tailwinds in pharma going forward.
+Second, for the food segment, we have really focused on expanding our coverage for the
+contract testing organizations. You remember, I mentioned we were a little bit late in following
+that trend. The team has gone and reached out to each and every one of those customers and
+now we have to make sure that our value propositions work before we start to see meaningful
+growth in that area.
+And then across clinical, China is one of those markets that in the past grew very well in that
+segment. I mean, this year, we've seen some headwinds, especially on -- especially due to -- due
+to the diversion towards COVID- 19 testing. So I expect that to come back. So across the board,
+we see some good opportunities in China. Now talking at a -- bit of a higher level in the pharma
+industry in China, you -- if you look at -- look at these -- the latest five-year plan, it calls for cost for
+having roughly 45% or so of the production for biopharmaceuticals occurring locally in China for
+China use. And today that number is around 20% -- between 20% and 25%. So there is
+commitment in the Chinese government, in the Chinese economy, to increase pharma
+consumption.So we feel rather well placed with our portfolio, with our commercial focus to go after the
+opportunity in pharma, as well as in food. And from a portfolio perspective, Arc HPLC was
+specifically designed for the Chinese LC market. Our Tandem Quad portfolio is doing rather well
+for traditional Chinese medicine and food testing and environmental testing in China. So I feel
+very good from a portfolio perspective and from a commercial perspective on the base we've
+set, but it's -- as I said, it's a good start. It's a start all the same. So we're bit prudent about what
+we want to -- what we -- what we want to see in the future.
+Operator
+And that was the final question.
+A - `Udit Batra, President and Chief Executive Officer `
+Thank you very much. So as we -- as we conclude, thank you. Thank you all for joining today. I want
+to thank our team for doing such a stellar job in the first -- in the fourth quarter and we're looking
+forward to continuing the effort and the strength as we go forward. I'd like to thank you for your
+continued support and interest in Waters, and we look forward to updating you on our progress
+on Q1 -- in the Q1 2021 call, which is currently anticipated on May 5, 2021. Thank you, and have a
+great day.

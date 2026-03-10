@@ -1,0 +1,539 @@
+Q4 2018 Earnings Call
+
+Operator
+Good day, ladies and gentlemen, and welcome to the Monolithic Power Systems Fourth Quarter
+2018 Earnings Conference Call. At this time, all participants are in a listen-only mode. Later, we will
+conduct a question-and-answer session and instructions will follow at that time. As a reminder,
+today's conference is being recorded.
+I'd now like to introduce your host for today's conference, Mr. Bernie Blegen, Chief Financial
+Officer. Sir, please go ahead.
+`Theodore Bernie Blegen, Vice President & Chief Financial Officer `
+Good afternoon and welcome to the fourth quarter 2018 Monolithic Power Systems conference
+call. In the course of today's conference call, we will make forward-looking statements and
+projections that involve risk and uncertainty which could cause result to differ materially from
+management's current views and expectations. Please refer to the Safe Harbor statement
+contained in the earnings release published today.
+Risks, uncertainties and other factors that could cause actual results to differ or identified in the
+Safe Harbor statements contained in the Q4 earnings release and in our SEC filings, including our
+Form 10-K filed on March 1, 2018 and Form 10-Q filed on November 2, 2018; both of which are
+accessible through our website, www.monolithicpower.com. MPS assumes no obligation to
+update the information provided on today's call.
+We will be discussing gross margin, operating expenses, R&D and SG&A expense, operating
+income, interest and other income, net income and earnings on both a GAAP and a non-GAAP
+basis. These non-GAAP financial measures are not prepared in accordance with GAAP and should
+not be considered as a substitute for or superior to measures of financial performance prepared
+in accordance with GAAP.
+A table that outlines the reconciliation between the non-GAAP financial measures to GAAP
+financial measures is included in our earnings release, which we have filed with the SEC. I wouldrefer investors to the Q4 2017, Q3 2018, and Q4 2018 earnings releases as well as to the
+reconciling tables that are posted on our website.
+I'd also like to remind you that today's conference call is being webcast live over the Internet and
+will be available for replay on our website for one year along with the earnings release filed with
+the SEC earlier today.
+I'd like to begin today's comments with a few highlights of what was a very successful year for
+MPS. For the full year 2018, MPS achieved record revenue of $582.4 million, 23.7% higher than
+revenue from 2017. The $111 million increase in year-over-year revenue was the largest annual gain
+in the company's history. The 23.7% annual increase was the highest growth rate for MPS since
+the company redirected its focus in 2010 to the industrial, cloud computing, automotive, and
+high-end consumer markets. Although we cannot escape the current macroeconomic conditions,
+we see momentum in these segments continuing strong for the next several years. This was the
+sixth consecutive year of double-digit growth.
+2018 was a significant year for MPS. On the technology front, we widened our lead with BCD5
+solidly in volume production and with the development of BCD6, a 55 nanometer process
+designed on a 12-inch wafer. Both of these advancements will significantly increase our products'
+functionality, improve energy efficiency, reduce our solution size, ease our customers' adoption
+efforts and keep our product cost competitive. In addition, we are increasing production capacity
+both in 12-inch and 8-inch wafer in anticipation of future revenue growth.
+On the customer front, MPS penetrated a number of new tier 1 companies in the automotive and
+cloud server markets, generating initial and meaningful revenue. More importantly, we are co-
+developing next generation products with a number of these tier 1 companies that will
+revolutionize their industries. We expect these partnerships to drive substantial technological
+advancements and represent an important source of MPS's future revenue growth.
+A few examples include developing specific leading edge systems solutions using QSMod
+technologies for GPU-based artificial intelligence and machine learning applications; using MPS's
+48 volt QSMod technology for both cloud base and automotive applications; working with
+automotive companies to develop specific solutions for smart driving systems and unique lighting
+applications with a 2020 target for market introduction; developing a mechanical relay
+replacement servicing the IoT and automotive markets using MPS's high-current, high-density
+process technology for improved reliability in a compact form; and we completed the integration
+of high-current programmable power modules for communications applications such as 5G
+networks. The target market applications for these modules are base stations and switchers
+which require compact and reliable solutions.
+In addition to these exciting co-development projects, 2018 was important as we launched our e-
+commerce website, allowing engineers to design their own customized solutions from their
+desktop. This catalog of programmable solutions will greatly enhance our customer's time-to-
+market, lower their total cost of ownership and optimize the efficiency of their designs.
+Now, let's look at our full year 2018 revenue by market segment. Compared with 2017, computing
+and storage, up 57.9%; automotive, up 48.6%; industrial, up 40.7%; and Communications revenue
+up 11.0%. Consumer revenue was down 3.0%.
+Full year computing and storage revenue grew $58.3 million to $159.1 million in 2018. This increase
+primarily reflected strong sales growth for cloud computing, SSD storage, high-end notebooks
+and initial GPU power management sales. Computing and storage revenue represented 27.3% ofAutomotive revenue grew $26.2 million to $80.1 million in 2018. This growth primarily represented
+increased sales of infotainment, safety and connectivity application products. Automotive
+represented 13.8% of MPS's full year 2018 revenue, compared with 11.4% in 2017.
+Industrial revenue grew $25.6 million to $88.5 million in 2018. This growth reflected sales for
+application in power sources, security and industrial meters. Industrial revenue represented 15.2%
+of MPS's full year 2018 revenue, compared with 13.4% in 2017.
+Communications revenue grew $7.0 million to $70.6 million. This improvement was primarily due
+to higher sales of our legacy home router and wireless gateway products. More importantly,
+though, we see initial ramping in the 5G market segment. Communications revenue represented
+12.1% of our 2018 revenue, compared with 13.5% in 2017.
+Switching to Q4, while we started to see the impact of macroeconomic headwinds in Q4, MPS still
+had a record fourth quarter with revenue of $153.5 million, 4.0% lower than the revenue
+generated in the third quarter of 2018, but 18.6% higher than the comparable quarter of 2017.
+By market segment, revenue for industrial grew 66.6% over the same period 2017. Computing
+and storage grew 63.2% and automotive grew 40.2%. Communications grew 27.1%, due primarily
+to increased revenue from MPS's legacy home router and wireless gateway products. Fourth
+quarter revenue for consumer fell 25.9% from the prior year.
+MPS experienced continued weakness in high volume consumer-related businesses, with
+especially the soft demand in the Greater China region. In the fourth quarter, MPS continued to
+see strong design win momentum.
+However, many customers concerned about the economic outlook and trade policies delayed
+their production ramps for new products in automotive, computing and industrial, which resulted
+in a less desirable sales product mix.
+As a result, fourth quarter 2018 non-GAAP gross margin was 55.6%, 50 basis points lower than
+the third quarter of 2018 and 10 basis points lower than the fourth quarter of 2017. Our non-GAAP
+operating income was $46.6 million, compared to $49.2 million reported in the prior quarter and
+$38.2 million reported in the fourth quarter of 2017.
+Fourth quarter 2018 GAAP gross margin was 55.1%, 50 basis points lower than the third quarter of
+2018, but 10 basis points higher than the fourth quarter of 2017. Our GAAP operating income was
+$33.1 million, compared to $33.5 million reported in the third quarter of 2018 and $25.1 million
+reported in the fourth quarter of 2017.
+Let's review our operating expenses. Our GAAP operating expenses were $51.5 million in the
+fourth quarter, compared with $55.5 million in the third quarter of 2018 and $46.1 million in the
+fourth quarter of 2017.
+Our non-GAAP fourth quarter 2018 operating expenses were $38.7 million, down from the $40.5
+million we spent in the third quarter of 2018 and up from the $33.9 million reported in the fourth
+quarter of 2017.
+On both the GAAP and a non-GAAP basis, fourth quarter litigation expenses were $409,000,
+compared with $343,000 expense in Q3 2018 and a $340,000 expense in Q4 2017. The
+difference between non-GAAP operating expenses and GAAP operating expenses for the
+quarters discussed here are stock compensation expense and income or loss from an unfunded
+deferred compensation plan. Total stock compensation expense including $504,000 charged tocost of goods sold for the fourth quarter of 2018 was $14.8 million compared with $14.8 million
+recorded in the third quarter of 2018.
+Switching to the bottom line, fourth quarter 2018 GAAP net income was $27.6 million or $0.61 per
+fully diluted share compared with $0.71 per share in the third quarter of 2018 and $0.27 per share
+in the fourth quarter of 2017. Q4 non-GAAP net income was $44.6 million or $0.99 per fully diluted
+share compared with $1.06 per share in the third quarter of 2018 and $0.82 per share in the
+fourth quarter of 2017. Fully diluted shares outstanding at the end of Q4 2018 were 45.1 million.
+Now, let's look at the balance sheet. Cash, cash equivalents and investments were $380.5 million
+at the end of the fourth quarter of 2018 compared to $353.1 million at the end of the third quarter
+of 2018. For the quarter, MPS generated operating cash flow of about $47.6 million compared with
+Q3 2018 operating cash flow of $52.2 million.
+Fourth quarter 2018 capital spending totaled $4.5 million. Accounts receivable ended the fourth
+quarter of 2018 at $55.2 million or 33 days of sales outstanding compared with the $59.9 million
+or 34 days reported at the end of the third quarter of 2018 and the $38.0 million or 27 days
+reported in the fourth quarter of 2017.
+Our internal inventories at the end of the fourth quarter of 2018 were $136.4 million, down slightly
+from the $136.8 million at the end of the third quarter of 2018. Days of inventory rose to 180 days
+at the end of Q4 2018 from the 175 days at the end of third quarter of 2018.
+I would now like to turn to the outlook. First, MPS is announcing a 33% increase in our quarterly
+dividend to $0.40 per share from $0.30 per share for shareholders of record as of March 29,
+2019. We are forecasting Q1 2019 revenue in the range of $138 million to $144 million. We also
+expect the following: GAAP gross margin in the range of 54.8% to 55.4%; non-GAAP gross
+margin in the range of 55.3% to 55.9%; total stock-based compensation expense of $17.6 million
+to $19.6 million, including approximately $600,000 that would be charged to cost of goods sold;
+GAAP, R&D and SG&A expenses between $55 million and $59 million; non-GAAP R&D and SG&A
+expense to be in the range of $38 million to $40 million. This estimate excludes stock
+compensation and litigation expenses. Our income is – our other income is expected to be in the
+range of $1.4 million to $1.6 million before foreign exchange gains or losses; fully diluted shares to
+be in the range of 44.7 million to 45.7 million shares.
+In a conclusion, despite uncertainty in the macro economy, we expect to continue winning market
+share in the cloud computing, automotive and telecommunications market. We believe the future
+is bright.
+I'll now open the phone lines for questions.
+Q&A
+Operator
+Our first question comes from the line of `Ross Seymore, Analyst, Deutsche Bank Securities, Inc. with Deutsche Bank. Your line is now
+open.
+Q - `Ross Seymore, Analyst, Deutsche Bank Securities, Inc. `
+Hi, guys. Congrats on the solid execution. Michael or Bernie, just want to get your view on the
+macro environment. You guys have a lot of company specifics where you can take share but
+you're not immune if the tide's rising or if it's falling like it is right now. So, any color on the linearitydoing versus what sort of incremental share gains you guys can take in any number of product
+areas where you have new design wins.
+A - `Michael R. Hsing, Chairman, President, Chief Executive Officer & Founder `
+Ross, okay. So, good questions. As you know, all the MPS growth are from the new product and
+then in the new market segment that Bernie mentioned, the automotive then industrials and...
+A - `Theodore Bernie Blegen, Vice President & Chief Financial Officer `
+...computing.
+A - `Michael R. Hsing, Chairman, President, Chief Executive Officer & Founder `
+...computing. Especially in the Q4 last year, we see a slowing down dramatically and we asked
+around our customers and it's all due to the – it seems to me all due to all these economy
+uncertainty in the future and however, in the middle of all of these, okay, we see – so not all the
+products have stopped and delayed their introductions. But some that has stopped -their end
+product still introduced or still we have a replacement. We gained some market shares. And in
+2019, we still expect to grow and we have a very healthy years, but the percentage, okay, the
+growth whether the same as the last couple years, that we cannot tell.
+A - `Theodore Bernie Blegen, Vice President & Chief Financial Officer `
+And if I could add to that, Ross, that what we're observing again only from our specific position is
+that the design wins are in place, our end customers are interested in going to market, but
+they're just not the right conditions for them to invest in that type of new product ramp. And so I
+don't have any view as far as how long this will last or when we start to see the improvement
+come around but I believe very confidently that we're well-positioned to take full advantage of
+that turnaround.
+Q - `Ross Seymore, Analyst, Deutsche Bank Securities, Inc. `
+Thanks for all that color. I guess as my follow-up, just on the inventory side, I know you guys have
+talked about increasing your own internal inventory to be ready for those ramps. So I guess a
+two-part question. One, is that still the case or should that inventory come down if those ramps
+continue to be delayed? And then, two, do give us an update on what the channel inventory
+situation is and what your expectations are for that as well.
+A - `Michael R. Hsing, Chairman, President, Chief Executive Officer & Founder `
+Ross, I like that question now. The inventory, I think – now we see it, there's a lag, okay? Clearly,
+this is very valid, okay? And in this kind of a transitional market conditions, we watch very carefully.
+So that's why I like that question and, of course, there's a delay there. And we see – of course,
+demand's slowing down, so now, okay, we control our – the inventory will come down and we
+control (00:20:43), okay? Now, Bernie, you can answer him more ...
+A - `Theodore Bernie Blegen, Vice President & Chief Financial Officer `
+Yeah.
+A - `Michael R. Hsing, Chairman, President, Chief Executive Officer & Founder `
+...on the numbers, okay?A - `Theodore Bernie Blegen, Vice President & Chief Financial Officer `
+Yeah. On the second side of that question as far as how the channel performed is what we do is
+we fill orders based upon our customer demand and that's 90% distributor-related. And then the
+distributors are creating that demand or those orders on us based on the information they're
+getting from their customers. And the slowdown occurred during the quarter so we ended up in a
+position where in terms of both dollars and days that the channel inventories did increase and
+managing that going forward, some of the management of that is reflected in our guidance for
+Q1.
+Q - `Ross Seymore, Analyst, Deutsche Bank Securities, Inc. `
+Got it. Thanks, guys.
+Operator
+Our next question comes from line of `Quinn Bolton, Analyst, Needham & Co. LLC with Needham. Your line is now open.
+Q - `Quinn Bolton, Analyst, Needham & Co. LLC `
+Hey, guys. I will apologize because I missed most of the prepared comments but obviously a
+slightly weaker guide from March. Just wondering as you look into the full year, you typically see a
+much stronger second and third quarter in terms of seasonality. Is there any reason to think some
+of the near-term effects that are hitting Q1 extend into Q2, Q3 or should we be thinking about a
+more traditional seasonal pattern as we get out to the June and September quarters?
+A - `Theodore Bernie Blegen, Vice President & Chief Financial Officer `
+Yeah, I think when we responded to Ross on this is that we really don't have good visibility.
+There's a lot of uncertainty relative to the out quarters. So when we look more short-term at Q1
+even – let me go back to Q4 for a second, we put up some very significant numbers in all of our
+groups except for consumer, which was most price-sensitively impacted by trade and tariffs in the
+macro, particularly in Greater China.
+So the point that we also observed is that a lot of the new product ramps that our customers
+were building expectations around have been pushed out in this period in time. And so, it's hard
+for us to say concretely how that's going to affect our overall growth rate for the year or when do
+we expect the turnaround to begin.
+Q - `Quinn Bolton, Analyst, Needham & Co. LLC `
+Okay, great. And then just a second question, again I'll apologize. Did you sort of give a backlog
+number? I think for much of the past three, four years, you tended to be at 80 or so percent of
+guidance in backlog starting the quarter. Are we in that metric range for the March quarter?
+A - `Theodore Bernie Blegen, Vice President & Chief Financial Officer `
+Yes, we are.
+Q - `Quinn Bolton, Analyst, Needham & Co. LLC `
+Great. Thank you.
+OperatorOur next question comes from the line of `Rick Schafer, Analyst, Oppenheimer & Co., Inc. with Oppenheimer. Your line is now open.
+Q - `Rick Schafer, Analyst, Oppenheimer & Co., Inc. `
+Yeah. Thanks and nice result in a tough environment, guys. I guess I was hoping to understand
+gross margin, at least in the near term, just a little better. I know it's obviously softer. I mean is the
+primary driver of that just simply mix? I mean, I would have assumed a better mix in 1Q, but,
+Bernie, if you could provide maybe a little more color there, what your expectations are by
+segment maybe? It almost seems like consumer is going to be a bigger contributor to mix in the
+first quarter.
+And then, the second part of that question is just how fast? If you guys can give any color on how
+fast that gross margin might rebound?
+A - `Theodore Bernie Blegen, Vice President & Chief Financial Officer `
+Sure. So when we look at Q4, let's just start with that, that was clearly mix. Because when you look
+at the influx of revenue into the communications, that was predominantly lower-margin business;
+and we discussed that in Q3 as well. So continuation of the same. But then you had some of our
+high-margin – and it was pretty broad-based. For example, SSD, power management for GPUs
+and a couple of things in industrial that underperformed expectations. And so, as a result, those
+are very high margin and the offset was against lower-margin business and that accounted for
+the 50 basis points.
+When we look at Q1, we still have some overhang of mix issues. It's not all of it. And even though
+we don't have a specific number, we are anticipating that we'll need to look at our inventory
+provisions in a different light with lower demand. Again, we've talked in the past that our
+inventory has a long shelf life, and we believe that all the products are ultimately going to be
+sellable. But the mechanic of how we determine our inventory provision is based upon near-term
+demand, and that may not support or may support a higher inventory provision.
+Then as far as looking forward, I don't have guidance beyond. But, obviously, with the new
+products that when they start to ramp, as Michael was describing, those will contribute very
+positively and immediately to our gross margin.
+A - `Michael R. Hsing, Chairman, President, Chief Executive Officer & Founder `
+Yeah. What we foresee going forward, if all the new product delays came in, the margin will stay
+as close as now, okay? We don't see a dramatic change – or dramatic change is all relative. Now,
+we have a 0.5% change, okay? That's pretty small to me, okay?
+A - `Theodore Bernie Blegen, Vice President & Chief Financial Officer `
+Yeah.
+A - `Michael R. Hsing, Chairman, President, Chief Executive Officer & Founder `
+But we analyzed it, and that is against our very consistent result in the last four, five quarters and
+that is due to the mix. And all the newer product, the newer revenue, high quality revenue gets
+delayed. And going forward, we expect to grow the gross margin very consistently as the
+economy recovered.
+Q - `Rick Schafer, Analyst, Oppenheimer & Co., Inc. `Got it. Thanks for all that color. And then just shifting gears quickly to server. You've talked, I know,
+in the past about the potential server content for you guys, around 50 volt today, but going to 70
+volt next year. And I'm just curious because you were talking about 48 volt in your prepared
+remarks. How much of that 50 volt to 70 volt captures any content gains associated with 48 volt
+core power market share for gains for you guys? I mean, is 48 volt a material content driver for
+MPS?
+A - `Michael R. Hsing, Chairman, President, Chief Executive Officer & Founder `
+Yes. We actually expected in Q1 2019 – and actually the number is much smaller when that came
+in. Actually, as we see it, it's not in the first half anyway, okay? It would be in the second half of
+2018 then early part of 2020.
+Q - `Rick Schafer, Analyst, Oppenheimer & Co., Inc. `
+Got it. Thanks.
+Operator
+Our next question comes from the line of `William Stein, Analyst, SunTrust Robinson Humphrey, Inc. with SunTrust. Your line is now open.
+Q - `William Stein, Analyst, SunTrust Robinson Humphrey, Inc. `
+Great. Thanks for taking my question. Based on the backlog and the order patterns, would you
+expect – or I should say, it seems to me that we'd expect a lower than maybe typical seasonality
+heading into Q2. Is that the right way to think about the model given that maybe you sort of
+started seeing this weakness a little bit later than others and seems to be at least a couple
+quarters of weakness for what everyone else is seeing?
+A - `Theodore Bernie Blegen, Vice President & Chief Financial Officer `
+Yeah. I don't see there being a quick – a catalyst that would create a quick turnaround. So I think
+while we only guide one quarter ahead that I could support that thesis.
+Q - `William Stein, Analyst, SunTrust Robinson Humphrey, Inc. `
+Okay. And then as it relates to inventory, Bernie, I think you mentioned that channel inventory on
+days and dollars were up again in the quarter. Does your guidance for Q1 combined with what you
+would say expect to sell-through, would that support lower dollars in days at the end of Q1 or
+something different?
+A - `Theodore Bernie Blegen, Vice President & Chief Financial Officer `
+It's more likely that we will be down in dollars but probably close to flat in days because you have
+a smaller denominator.
+Q - `William Stein, Analyst, SunTrust Robinson Humphrey, Inc. `
+Great. Thanks, Bernie.
+A - `Theodore Bernie Blegen, Vice President & Chief Financial Officer `
+Thank you, Will.
+OperatorOur next question comes from line of Tore Svanberg with Stifel. Your line is now open.
+Q - `Tore Egil Svanberg, Analyst, Stifel, Nicolaus & Co., Inc. `
+Yes. Thank you and congratulations on the record year. I'll spare you from the macro stuff and I'm
+pretty interested in BCD6. Could you elaborate a little bit more what that means for products
+going forward? I mean, you talked about 55 nanometer and 12-inch wafers but any other color
+you could add?
+A - `Michael R. Hsing, Chairman, President, Chief Executive Officer & Founder `
+Yeah, okay. These are – actually, as usual, where every other year – every year so we introduce,
+okay, we develop newer technologies and that is really our foundation for the future growth. And
+so the BCD6, that we said the BCD5, we're including the memory, okay, now, we're including
+much denser logics and so now, we mentioned – Bernie mentioned, it is the 55 nanometers and
+we will have those types of logics designed. So you can think that way. We really put entire
+systems on always single chip, which means we included the microcontroller. And that will give us
+access through lot more market segments and lot more capability.
+A - `Theodore Bernie Blegen, Vice President & Chief Financial Officer `
+And then from simply a cost point of view, there is a lower unit cost involved with this process and
+this geometry. And how we choose to deploy that cost advantage will basically depend upon the
+end market. So, for example, in consumer, that will extend our ability to be price competitive. In
+other markets, it allow us to improve our gross margins and in others, still, it will makes us able to
+with the technological advantage, to compete in markets that we haven't previously been able to
+enter into.
+Q - `Tore Egil Svanberg, Analyst, Stifel, Nicolaus & Co., Inc. `
+Thank you for that color. Also, you mentioned obviously e-commerce and your website up and
+running last year. Could you give us some color on how the feedback has been so far, how's the
+learning curve going for customers?
+A - `Michael R. Hsing, Chairman, President, Chief Executive Officer & Founder `
+Yeah. Yeah, you call it website. Yeah. It's up and running, okay, but I said that we're still learning.
+As expected actually, this is the very new frontier to everybody and nobody attempted that
+before. And we still try to figure out why when we give the floppy disk because it's a lot more
+effective than we go through a website. So, we still try to figure out. There's some things
+obviously is not quite right but the product itself when we give a traditional way, when I give them
+all the tools, give them a CD and I gave them a download a program, everybody likes that. And
+we see more and more customers would rather use a fixed product and then they choose the
+programmable parts. And they're going – we see a clear directions and – but how effectively
+using the website, we still try to figure out.
+Q - `Tore Egil Svanberg, Analyst, Stifel, Nicolaus & Co., Inc. `
+Okay. One last question. Yeah. Go ahead, Bernie.
+A - `Theodore Bernie Blegen, Vice President & Chief Financial Officer `
+I just wanted to caution that I think we've tried to set expectations around the fact that we would
+have zero revenue in 2018, zero revenue in 2019. That's not entirely true because we aregenerating revenue but then we'll have a good slow ramp in 2020 and 2021 and it's really 2022 is
+when we expect it to contribute materially.
+A - `Michael R. Hsing, Chairman, President, Chief Executive Officer & Founder `
+Are you talking about e-commerce?
+A - `Tore Egil Svanberg, Analyst, Stifel, Nicolaus & Co., Inc. `
+Yeah.
+A - `Michael R. Hsing, Chairman, President, Chief Executive Officer & Founder `
+Yeah. And that's strictly sales through website.
+A - `Theodore Bernie Blegen, Vice President & Chief Financial Officer `
+Yeah.
+A - `Michael R. Hsing, Chairman, President, Chief Executive Officer & Founder `
+And now, we see the – actually, we do see some revenue, of meaningful revenues...
+A - `Theodore Bernie Blegen, Vice President & Chief Financial Officer `
+Yeah.
+A - `Michael R. Hsing, Chairman, President, Chief Executive Officer & Founder `
+...but in terms of a programmable site...
+A - `Theodore Bernie Blegen, Vice President & Chief Financial Officer `
+Yeah.
+A - `Michael R. Hsing, Chairman, President, Chief Executive Officer & Founder `
+...and why people just don't use online tools, whether our online tools are not good enough or
+whether have ordering kind of whether too difficult for them to order. And in that respect, we
+haven't generate any revenues on the programmable parts revenue from our website.
+Q - `Tore Egil Svanberg, Analyst, Stifel, Nicolaus & Co., Inc. `
+No, that's very fair. Just one last question. You mentioned Communications coming back. Sounds
+like that's more kind of your legacy business. Should we assume that the new 5G products will
+kind of get the gross margin going again in the Communications revenue?
+A - `Michael R. Hsing, Chairman, President, Chief Executive Officer & Founder `
+Absolutely. As I said at, I remember, the last year some quarters and I think it's Q2, I mentioned
+that we will get some Communication revenues and we see the opportunities and it's even
+though a low margin but it's good dollars. And the same time, I mentioned I haven't given up on
+the higher margin Communications once we introduced the right product and we did have it in
+the – we did have in the last year, okay? And we just haven't released that and then now, we
+designed it. And when the 5G happens, we will be on the way.Q - `Tore Egil Svanberg, Analyst, Stifel, Nicolaus & Co., Inc. `
+Very good. Thank you again for the color.
+A - `Michael R. Hsing, Chairman, President, Chief Executive Officer & Founder `
+All right. Thank you.
+Operator
+Our next question comes from the line of Matt Ramsay with Cowen. Your line is now open.
+Q - `Matthew D. Ramsay, Analyst, Cowen & Co. LLC `
+Thank you. Good afternoon. Bernie, I wondered if you -- I guess this is maybe a little bit of a
+different way to ask Rick's question from earlier around mix and gross margin but perhaps you
+could give us a little bit of color by division about how you're thinking the sequential growth or
+decline in the different business units might be going into Q1. I think that would be helpful. Thank
+you.
+A - `Theodore Bernie Blegen, Vice President & Chief Financial Officer `
+Yeah, sure. When we look at mix, obviously the traditional way to sort of view it is that consumer
+is at the lower end, also the legacy comms business is on the lower end. And just as far as the
+transition from Q4 to Q1, we've guided at about flat gross margin but the mix is less bad in Q1
+than in Q4 because we continue to see growth in our computing and...
+A - `Michael R. Hsing, Chairman, President, Chief Executive Officer & Founder `
+automotive.
+A - `Theodore Bernie Blegen, Vice President & Chief Financial Officer `
+...automotive.
+A - `Michael R. Hsing, Chairman, President, Chief Executive Officer & Founder `
+Yeah.
+A - `Theodore Bernie Blegen, Vice President & Chief Financial Officer `
+And then, there is some declines in industrial that you have to have as a backdrop that industrial
+has, in the last two quarters, really outperformed any of its historic patterns. So, that's not coming
+as a total surprise.
+And then you have consumer that's doing a little bit of an exaggerated step-down from Q4 to Q1.
+So, that's really the mix that we're looking at is computing and automotive are continuing to
+outperform expectations and we've got some declines or exposure to both high and low margin
+opportunities.
+Q - `Matthew D. Ramsay, Analyst, Cowen & Co. LLC `
+Got it. That's helpful on the mix. I guess if we look forward in the computing and storage
+business, can you just remind us again about exactly the mix and exposure to the computing side
+and the storage side? It seems like there's some catalysts obviously on the computing side froma share perspective and 48 volt but this has been a pretty ugly environment on the storage side
+from a macro perspective. So some update on the mix and how you're thinking about those two
+different segments as they're recovering as we go through the year would be helpful. Thank you.
+A - `Theodore Bernie Blegen, Vice President & Chief Financial Officer `
+Sure. So storage is a significant part of our business but it's declined as a percent only because it
+hasn't grown at the same rate as what we've seen on the compute side. And if you look at last
+year, in 2018, SSD in particular ramped very early and sustained that growth all the way through
+the mid part of Q3 before starting to decline.
+In that area, I see sort of a stabilization and currently, storage, if you looked at Q4, for example, is
+about a third of that line item. Then when you look at the computing, obviously, we've had
+significant run-up in our server and workstation. So that's in an elevated level. And then as we
+were talking about earlier is that some initial sales related to GPUs are falling off as that market or
+those customers take a pause.
+Q - `Matthew D. Ramsay, Analyst, Cowen & Co. LLC `
+Thanks for the color. Appreciate it.
+A - `Theodore Bernie Blegen, Vice President & Chief Financial Officer `
+Thanks.
+Operator
+Our next question comes from the line of `Alessandra Vecchi, Analyst, William Blair & Co. LLC with William Blair. Your line is now
+open.
+Q - `Alessandra Vecchi, Analyst, William Blair & Co. LLC `
+Hi. Thanks for taking my question. Just on the extension of the end markets or segments in Q1,
+when you guys commented that you saw sort of new product launches delayed. Was there any
+particular vertical you're seeing that in? Is it a delay in sort of the new smart meter industrial
+products, is it a delay in the automotive products? If you could just give a little bit of color on that.
+A - `Michael R. Hsing, Chairman, President, Chief Executive Officer & Founder `
+Actually, Bernie, you mentioned it in the earnings earlier. And we see pretty much across the
+board: automotive, industrials and as well as computing. Does that answer your questions?
+Q - `Alessandra Vecchi, Analyst, William Blair & Co. LLC `
+Yeah. That does. Apologies, if I missed it.
+A - `Michael R. Hsing, Chairman, President, Chief Executive Officer & Founder `
+Okay. No, it's okay.
+Q - `Alessandra Vecchi, Analyst, William Blair & Co. LLC `
+All my other questions were answered.
+A - `Theodore Bernie Blegen, Vice President & Chief Financial Officer `Okay. Thanks, Alex (00:42:00).
+A - `Michael R. Hsing, Chairman, President, Chief Executive Officer & Founder `
+Well, thank you.
+Operator
+Our next question comes from the line of `William Stein, Analyst, SunTrust Robinson Humphrey, Inc. with SunTrust. Your line is now open.
+Q - `William Stein, Analyst, SunTrust Robinson Humphrey, Inc. `
+Thanks for taking the follow-up, guys. Any update on the e.Motion product revenue traction?
+A - `Michael R. Hsing, Chairman, President, Chief Executive Officer & Founder `
+Yeah. We're afraid this is too much of a – and yes, okay. We actually starting January pretty
+meaningful revenue. And the new integrated solutions and as you're seeing it on our website, we
+sell the reference design including the models. And we received very good feedback on these.
+Q - `William Stein, Analyst, SunTrust Robinson Humphrey, Inc. `
+Great.
+A - `Michael R. Hsing, Chairman, President, Chief Executive Officer & Founder `
+But the revenue SKU...
+A - `Theodore Bernie Blegen, Vice President & Chief Financial Officer `
+Early ramp.
+A - `Michael R. Hsing, Chairman, President, Chief Executive Officer & Founder `
+It's early ramp...
+A - `Theodore Bernie Blegen, Vice President & Chief Financial Officer `
+Yeah.
+A - `Michael R. Hsing, Chairman, President, Chief Executive Officer & Founder `
+...but is it ramping?
+A - `Theodore Bernie Blegen, Vice President & Chief Financial Officer `
+It's ramping.
+A - `Michael R. Hsing, Chairman, President, Chief Executive Officer & Founder `
+Yeah. It's ramping very high percentage, okay?
+A - `Theodore Bernie Blegen, Vice President & Chief Financial Officer `
+Will, thanks for giving us a chance to respond. We actually had an internal discussion on whether
+we had too many items out there. So we're not shying away from it. It's just that we're competingQ - `William Stein, Analyst, SunTrust Robinson Humphrey, Inc. `
+I understand. One other opportunity you mentioned a couple of times tonight is 48 volt. I think
+there is one small semi company that's pretty well-known and have a big share in that market and
+we're also aware that one of the main consumers is GPUs. Are you seeing revenue for that
+product today or is it more a couple quarters out and is it – of course, we know automotive is
+moving in that direction too, but in which market do you expect to generate revenues first, how
+close are we?
+A - `Michael R. Hsing, Chairman, President, Chief Executive Officer & Founder `
+Actually, both. And automotive is been in 48 volts and already in the high-end cars, okay? I think
+that now it should go down. And last year, we expected to have in the second half of 2019, and as
+we see it and okay, probably still going to happen because these are high-end product. I think
+they're still going to launch because the demand's still there, yeah, regardless the market.
+Q - `William Stein, Analyst, SunTrust Robinson Humphrey, Inc. `
+So you think you have product that's competitive and ready and recognizing revenue in the back
+half of this year?
+A - `Michael R. Hsing, Chairman, President, Chief Executive Officer & Founder `
+I believe so, yeah. I believe so. In terms of what is the impact to our revenue, that's difficult to say
+now. I think these AR systems and you always need somewhere. It's just a matter of how many.
+Q - `William Stein, Analyst, SunTrust Robinson Humphrey, Inc. `
+Got it. Thank you.
+Operator
+Our next question comes from the line of `Chris Caso, Analyst, Raymond James & Associates, Inc. with Raymond James. Your line is now
+open.
+Q - `Chris Caso, Analyst, Raymond James & Associates, Inc. `
+Yes. Thank you. Good evening. Just one question for me. Bernie, could you clarify one of the
+comments you made earlier on the inventory provisions? You said you need to take another look
+on that. Is the right interpretation of that just changing the quarterly reserve that you typically
+make? What about the magnitude? Is there any impact on margins from that?
+A - `Theodore Bernie Blegen, Vice President & Chief Financial Officer `
+Yeah. I haven't specifically calculated any exposure. So what we've done in the forecast or the
+guidance is just provide a little bit of a step-up. And the rationale behind it is that we have a
+mechanical way of determining that number, which is based upon the next six months demand.
+So it's sort of inferred that if your six-month demand looks to be going down, that could increase
+your likelihood of having an exposure. That's not to call out any specific product or end market.
+It's just sort of being generally conservative in the guidance we're providing.
+A - `Michael R. Hsing, Chairman, President, Chief Executive Officer & Founder `Yeah. As of today, we don't see any dramatic change, okay? It's all small numbers of change,
+okay? When Bernie is talking about when the market dramatically changes, okay. Again, in last
+year December, the end of the quarter. And then it may change again. So at this time, we see it's
+pretty normal now.
+Q - `Chris Caso, Analyst, Raymond James & Associates, Inc. `
+Got it. Okay. Thank you.
+Operator
+Our next question comes from the line of Tore Svanberg with Stifel. Your line is now open.
+Q - `Tore Egil Svanberg, Analyst, Stifel, Nicolaus & Co., Inc. `
+Yes. Thank you. I just had a quick follow-up and back to BCD6. I think you've talked about having a
+$17 billion SAM, and I'm just wondering what BCD6 does to that SAM number?
+A - `Michael R. Hsing, Chairman, President, Chief Executive Officer & Founder `
+Yes. We haven't got to the point yet. That's a very good question. And certainly, we see in the
+application that we targeted, we can integrate a lot of many microcontroller features.
+Q - `Tore Egil Svanberg, Analyst, Stifel, Nicolaus & Co., Inc. `
+And just to be clear...
+A - `Michael R. Hsing, Chairman, President, Chief Executive Officer & Founder `
+Yeah.
+Q - `Tore Egil Svanberg, Analyst, Stifel, Nicolaus & Co., Inc. `
+Yeah. Just to be clear, those micros, you would develop yourself, right? I mean, you wouldn't buy
+off the shelf ones?
+A - `Michael R. Hsing, Chairman, President, Chief Executive Officer & Founder `
+It depends on our applications. Some of the – and as we know now, okay, we rebrand it but we do
+have our firmware in the micro. And as of – into the total integrated solutions and first of all, so I
+have a total integration has a clear reason has a cost-effective and all by size limitations. And if it's
+integrated and then we have – we are not going to grow up or develop our microcontrollers. And
+those are not cost-effective for us and those are way most likely is licensing it.
+Q - `Tore Egil Svanberg, Analyst, Stifel, Nicolaus & Co., Inc. `
+Sounds good. Thank you very much.
+A - `Michael R. Hsing, Chairman, President, Chief Executive Officer & Founder `
+Okay. Thank you.
+Operator
+And I'm showing no further questions in queue at this time. I'd like to turn the call back to
+management for closing remarks.A - `Theodore Bernie Blegen, Vice President & Chief Financial Officer `
+I'd like to thank you all for joining us for the conference call and look forward to talking to you
+again during our first quarter 2019 conference call which will likely be in April. Thank you. Have a
+great day.
+Operator
+Ladies and gentlemen, thank you for your participation in today's conference. This concludes the
+program and you may now disconnect. Everyone, have a great day.

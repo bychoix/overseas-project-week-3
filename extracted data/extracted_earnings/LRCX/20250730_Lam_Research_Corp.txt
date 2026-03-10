@@ -1,0 +1,767 @@
+Q4 2025 Earnings Call
+
+Presentation
+Operator
+Good day, and welcome to Lam Research's June Quarter of 2025 Earnings Conference Call. All
+participants will be in a listen-only mode for the duration of the call. (Operator Instructions) After
+today's presentation, there will be an opportunity to ask questions. (Operator Instructions) Please
+also note that this event is being recorded today.
+I would now like to turn the conference over to `Ram Ganesh, Head of Investor Relations, Vice President, Investor Relations.
+Please go ahead.
+`Ram Ganesh, Head of Investor Relations `
+Thank you, and good afternoon, everyone. Welcome to the Lam Research quarterly earnings
+conference call. With me today are `Tim Archer, President and Chief Executive Officer, President and Chief Executive Officer; and Doug
+Bittinger, Executive Vice President and Chief Financial Officer. During today's call, we will share our
+overview on the business environment and we will review our financial results for the June 2025
+quarter and our outlook for the September 2025 quarter.
+The press release detailing our financial results was distributed a little after 1:00 P.M. Pacific Time.
+The release can also be found on the Investor Relations section of the company's website, along
+with the presentation slides that accompany today's call.
+Today's presentation and Q&A include forward-looking statements that are subject to risks and
+uncertainties reflected in the risk factors disclosed in our SEC public filings. Please see
+accompanying slides in the presentation for additional information. Today's discussion of ourdetailed -- detailed reconciliation between GAAP and non-GAAP results can be found in the
+accompanying slides in the presentation. This call is scheduled to last until 3:00 P.M. Pacific time. A
+replay of this call will be made available later this afternoon on our website.
+And with that, I'll hand the call over to Tim.
+`Tim Archer, President and Chief Executive Officer `
+Thanks, Ram, and good afternoon, everyone. Lam delivered another great quarter. Revenues and
+profitability came in at the upper end of our guided ranges. Our gross margins exceeded 50%
+for the first time since the merger of Lam and Novellus and EPS hit a new high for the company.
+We achieved record Foundry revenues, driven by strong performance in both gate-all-around and
+mature node markets.
+And again, our upgrades business grew to a new high, up mid-teens percent over the prior
+quarter as NAND customers migrate to higher layer count, higher-performance devices to meet
+the faster read write requirements and greater storage demands of AI applications. In short, we
+are executing well on the served market expansion and share growth story we laid out at our
+Investor Day earlier this year.
+3D scaling of device and advanced packaging architectures is accelerating growth in edge and
+deposition intensity, and Lam's new products targeting key technology inflections are winning
+with customers. Furthermore, in advanced Services, Lam is at the forefront of realizing the vision
+of an autonomous fab. We are gaining momentum with our equipment intelligence-enabled
+Dextro cobots, which provide device makers with an unprecedented level of equipment
+maintenance precision and repeatability. The result is enhanced tool-to-tool matching, improved
+machine availability, lower operational costs, and in some cases, higher yield.
+In the June quarter, Lam expanded our Dextro capabilities to cover three additional tool types
+and we are accelerating the roadmap to support more products and more shipments in coming
+quarters. Turning to the overall market environment for calendar year 2025. We expect wafer
+fabrication equipment or WFE spending to be in the $105 billion range, up from our prior view of
+approximately $100 billion, predominantly due to an uptick in domestic China related spending.
+We see non-China investments remaining broadly consistent with our prior view. Currently, we
+expect WFE in the second half of the calendar year to be roughly flat with the first half. Looking
+forward to 2026, it is still too early to comment on the overall level of WFE spending. However,
+our strong position in gate-all-around, advanced packaging, high bandwidth memory and NAND
+layer conversions, we feel confident that Lam is well positioned to outperform. In 2025, Lam's
+served available market or SAM is set to expand to around mid-30s percent of WFE due to these
+industry drivers and we expect them to work in Lam's favor again in 2026.
+Longer term, we are on a solid path to grow our SAM to the high 30% range of WFE by
+continuing to deliver critical solutions for atomic level device scaling, new materials innovation and
+advanced packaging integration. The key R&D investments that we've made over the last several
+years have enabled us to create the broadest, most competitive product portfolio in the
+company's history, thereby putting us in a strong position to win over 50% share of the
+incremental SAM over time.
+I'll share a couple of examples that underscore our early progress towards our SAM expansion
+and share gain goals. First is our Halo ALD moly tool, which is ramping at multiple NAND
+customers this year. We expect moly adoption to increase broadly as more customers convert
+NAND capacity to 200 layers and higher in the next few years. LAM is leading the industrytransition to ALD moly not only in NAND, but also in foundry logic. AI is driving greater transistor
+performance requirements and in turn accelerating the inflection to gate-all-around device
+architectures. However, below 2 nanometers, gate-all-around structures begin to encounter
+significant resistance capacitance or RC challenges. Narrower transistor contacts in these devices
+cause greater electron scattering, resulting in higher resistance of the deposited tungsten films.
+Replacing tungsten with molybdenum solves the resistance problem, but the process of
+depositing this higher-performance material is inherently slower and more complex. This is driving
+a roughly 3x increase in LAM metal deposition SAM per wafer when transitioning to advanced
+gate-all-around nodes. Today, we are the only company with ALD moly tools already in production
+in foundry logic, and in the June quarter, we secured a key win at another leading foundry
+customer for their next-generation application.
+As Moly adoption expands across various metal interconnect layers, the flexibility of Lam's unique
+multi-station architecture to execute both plasma and thermal processing in the same chamber,
+enables optimization of process conditions and process step sequencing to meet requirements
+for different applications and over multiple generations of future logic devices.
+Another area where we have made strong progress is advanced packaging. Advanced packaging
+is critical for scaling system performance to address next-generation AI requirements, and so far,
+has enabled up to 100% improvement in memory density, four times improvement in bandwidth,
+and an approximate 40% gain in power efficiency. Lam's SAM is growing with greater adoption of
+next-generation packaging architectures for DRAM, CPUs, GPUs and A6 used in data centers.
+In 2021, leading-edge foundry logic customers spent just 1% of WFE on advanced packaging. With
+AI's rapid adoption of advanced packaging, that number has grown more than six times. In the
+future, we expect end-consumer devices like mobile application processors and laptop CPUs to
+also feature more complex packaging schemes as on-device AI becomes mainstream. We are a
+leader in the advanced packaging inflection and are leveraging our experience to win more
+opportunities. For example, Lam has amassed unmatched experience in copper plating hardware
+design and process technology over the last 20 years.
+We have by far the largest installed-base in the industry, and recently achieved a significant
+milestone of 6,000 installed plating sales. By incorporating our learning from the installed-base
+into improvements in our latest SABRE 3D system, we are delivering best in class, co-planarity,
+uniformity and defectivity in high-volume advanced packaging environments. The experience we
+have gained at the leading-edge is now cascading to additional wins with next tier customers
+seeking to adopt a proven, best-in-class solution. SABRE 3D market share in advanced packaging
+is expected to grow nearly 5 points year-on-year in calendar 2025.
+Finally, let me pivot to the strong momentum we're seeing with our newest generation etch tools.
+In NAND, we continue to solidify our leadership in high aspect ratio die electric etch. Equipped
+with our cryo-process, our Vantex System recently won a key multi-generation etch decision at a
+major NAND customer. This further confirms our differentiation in both technology innovation and
+high-volume production worthiness in the NAND segment.
+Across all device types, our state-of-the-art conductor etch tool, Akara, is off to a solid start since
+its launch earlier this year. By combining direct power coupling with Lam's unique plasma pulsing
+capabilities, Akara delivers industry-leading depth uniformity and profile control that is vital for
+DRAM scaling. In the June quarter, Akara secured multiple new application wins at a top DRAM
+maker.So to wrap up, I'm excited by the breadth of opportunities I see ahead for the company and am
+encouraged by the outstanding progress our team has already made toward the long-term goals
+we communicated at our February Investor Day. Etch and deposition intensity is rising with 3D
+scaling. Our products are winning in key technology inflections. And as a result, there is
+tremendous potential for Lam to continue expanding SAM and to grow share at each successive
+process technology node.
+Now here's Doug to talk about our quarterly financial performance and the September outlook.
+`Doug Bettinger, Executive Vice President,Chief Financial Officer `
+Excellent. Thank you, Tim. Good afternoon, everyone, and thank you for joining our call today
+during what I know is a busy earnings season. We executed well in the June 2025 quarter,
+including delivering a record gross margin percentage of 50.3% in the post-Novellus period.
+These past two quarters represent Lam's highest gross margin percentage since we merged the
+companies in 2012. Our June quarter financial results came -- came in above the midpoint of all of
+our guidance ranges with earnings per share actually exceeding the guidance range.
+For our 2025 fiscal year, we had record revenue of $18.4 billion and gross margin of 48.8%. Our
+free cash flow generation in fiscal '25 was 29% of revenue and approximately $5.4 billion, which
+was also a record for the company in dollar terms. We're delivering on the profitability objectives
+discussed at our Investor Day earlier this year through a growing top-line, favorable mix and
+strong operational execution. Let's look at the details of our June quarter results. Revenue came
+in at $5.17 billion, which was an increase of 10% from the prior quarter. The deferred revenue
+balance at the end of the quarter was $2.68 billion, which was an increase of approximately $670
+million from the March quarter. This was related to customer advanced down payments from
+several newer customers.
+From a market segment perspective, June quarter systems revenue in the Foundry segment
+represented 52% of our systems revenue, an increase from the percentage concentration in the
+March quarter of 48%. In dollar terms, this level represents a second consecutive record quarter
+and we also set a new record from a fiscal year perspective. We benefited from continued
+momentum in leading-edge processes as well as investments in mature nodes by domestic
+Chinese customers.
+In summary, it was 41% of systems revenue, a slight decrease from the prior quarter level of 43%.
+Non-volatile memory came in at 27% of our systems revenue, which was higher than the March
+quarter's level of 20%. We continue to encourage you to think of NAND investments focused
+primarily on upgrades, which we anticipate will require an investment of roughly $40 billion over
+several years. DRAM declined from March quarter, coming in at 14% of systems revenue
+compared with 23% last quarter. The decline in the June quarter was related to the timing of
+certain customer projects.
+For the 2025 fiscal year, DRAM revenue reached a new record in dollar terms with spending
+focused on technology upgrades to the one beta and one gamma nodes, enabling DDR5 and
+LPDDR5. High-bandwidth memory was also a key investment area. The (inaudible) other segment
+came in at 7% of systems revenue in the June quarter, slightly lower than the prior quarter level of
+9%.
+Now, I'll go through the regional composition of our total revenue. The China region came in at
+35%, an increase from the prior quarter level of 31%. We saw increasing investment from global
+multinational customers in this region to the highest level since the December quarter of 2022.The majority of our China revenue nonetheless continued to come from domestic Chinese
+customers.
+The next largest geographic concentration were Korea at 22% and Taiwan at 19% of revenue in
+the June quarter, both of which were a decrease from 24% concentration in the March quarter.
+Japan revenue at 14% was a record for Lam in dollar terms. The customer support business
+group revenue in the June quarter totaled approximately $1.7 billion, consistent with the March
+quarter as well as the June quarter of a year ago.
+We had a third consecutive record quarter for upgrade revenue, driven by NAND technology
+convergence. We also saw strength in our spares business, offset by a decline in Reliant Systems.
+Sitting here today, we do think we will see modest growth in CSBG for the calendar year. Let's
+look at profitability. The June quarter gross margin came in at 50.3%, close to the top end of our
+guided range and improving from the March quarter level of 49%. The increase is tied to a
+stronger mix and continued progress in our operational efficiencies from our close to customer
+manufacturing strategy.
+Operating expenses for the June quarter were $822 million, up from the prior quarter level of
+$763 million. This was a bit higher than our original estimate coming into the quarter, primarily due
+to increased incentive compensation tied to the company's improved profitability. R&D accounted
+for 69% of total operating expenses. The June quarter operating margin was 34.4% and near the
+high end of our guidance. This operating profit represents a record level for LAM in both dollars
+as well as percentage terms.
+Our non-GAAP tax rate for the quarter came in at 4.8%. As I indicated on the last earnings call,
+the rate in the June quarter reflects a tax reserve release tied to a statute of limitations
+expiration. Our estimate for the September 25 quarter is for the tax rate to be back in the low-to-
+mid teens range.
+Other income and expense for the June quarter was approximately $4 million in income
+compared with $7 million in expense in the March quarter. The improvement in OI&E was primarily
+the result of increased interest income tied to a higher cash balance as well as gains on our --
+venture investment portfolio. As we've talked about in the past, you should expect to see
+variability in OI&E quarter to quarter.
+For capital return in the June quarter, we allocated approximately $1.3 billion to share buybacks
+through a combination of open market share repurchases and an accelerated share repurchase
+program. That ASR will continue to execute into the September quarter. We also paid $295 million
+in dividends. The June quarter diluted earnings per share were $1.33, exceeding the high end of
+our guidance range, driven by the higher revenue, stronger gross margin performance and the
+lower tax rate.
+The diluted share count was 1.28 billion shares, which -- was a reduction from the March quarter
+and was consistent with our guidance. We have $7.5 billion remaining on our Board authorized
+share repurchase program. Let me pivot to the balance sheet. Cash and cash equivalents totaled
+$6.4 billion at the end of the June quarter, an increase from $5.5 billion at the end of the March
+quarter. The main reason for the cash increase was cash from operating activities, including those
+customer advanced down payments, which was partially offset by cash allocated to the share
+buyback, dividends and capital expenditures.
+Their sales outstanding were 59 days in the June quarter, which was down from 62 days in the
+March quarter. June quarter inventory turns improved to 2.4 times compared with 2.2 times in thethis as we go forward. Our non-cash expenses for the June quarter included approximately $94
+million in equity compensation, $86 million in depreciation and $12 million in amortization.
+Capital expenditures were $172 million, which was down from the March quarter level of $288
+million. Spending in the June quarter was mainly centered on lab investments in the United States
+and Asia, as well as manufacturing facilities in Asia, supporting our global strategy to be close to
+our customers' development and manufacturing locations.
+I would point out that offsetting this capital spending, we received more than $50 million in
+benefits through the advanced manufacturing investment credit as well as other CHIPS Act
+related programs. We ended the June quarter with approximately 19,000 regular full-time
+employees, which was an increase of approximately 400 people from the prior quarter. We had
+headcount increases primarily within R&D to support the long-term product roadmap. In addition,
+we had increases within the factory and field organizations for increasing manufacturing activities
+and a higher volume of tool installations.
+Let's look at our non-GAAP guidance for the September 2025 quarter. We're expecting revenue
+of $5.2 billion, plus or minus $300 million. We expect stronger China revenue driven by Foundry
+spending in the September quarter. We're expecting gross margin of 50%, plus or minus 1
+percentage point. This guidance includes our current assessment of the direct impact of tariffs on
+our business. Operating margins of 34%, plus or minus 1 percentage point, and finally, earnings
+per share of $1.20, plus or minus $0.10, based on a share count of approximately 1.27 billion
+shares.
+So, let me wrap up. In completing the first half of the calendar year 2025, I was pleased that we
+made solid progress on the objectives we shared at the beginning of the year. Sitting here today,
+as Tim mentioned, we now see WFE relatively balanced half-on-half. We continue to prioritize
+strategic investments that extend our technology leadership, operational efficiencies and
+profitability, which reinforces our long-term value creation agenda.
+Operator, that concludes our prepared remarks. Tim and I would now like to open up the call for
+questions.
+Questions And Answers
+Operator
+We will now begin the question-and-answer session. (Operator Instructions)
+At this time, we will take our first question, which will come from `CJ Muse, Analyst, Cantor Fitzgerald with Cantor Fitzgerald.
+Please go ahead.
+Q - `CJ Muse, Analyst, Cantor Fitzgerald `
+Yeah, good afternoon. Thank you for taking the question. I guess, first question, your tool
+business is likely growing three times the growth rate of WFE here in calendar '25, and you
+indicated, you know, expectations for relative outperformance to continue in calendar '26. Is there
+a framework for thinking about rank, order of the key drivers of -- of this outperformance that you
+can share?
+A - `Tim Archer, President and Chief Executive Officer `
+Sure. I -- I think it's -- it's all the things we've talked about in the past. I mean, clearly, if we look at
+Foundry Logic, I -- I mentioned extensively the discussion of moly today, but we're also looking atother tools around the gate-all-around structure. It's things like selective edge, ALD. We still have
+backside power to come. That will be an area we believe of outperformance for Lam given our
+strength in etch and deposition and the role that it plays there.
+We continue to see ourselves gaining against WFE the more that advanced packaging is -- is
+incorporated across every type of device, whether it's foundry logic, HBM, and even in NAND,
+you're starting to see on every NAND maker's roadmap things like cell bonded to array or cell
+under array. And so, really, as I look to the future, I mean it basically is one in which depth and --
+depth and edge intensity just continues to rise faster than WFE.
+Lam has an incredibly strong position already and a portfolio of products that are just doing great
+in the marketplace. And so, I think if we continue to stay focused and execute, you know, it will be
+-- it will be those technology drivers that will carry us forward.
+Q - `CJ Muse, Analyst, Cantor Fitzgerald `
+Very helpful. And then -- then a question for you, Doug. In terms of gross margins, you've got -- it
+sounds like some tailwind from China. So curious, does that continue into the December quarter?
+And is there kind of a new normalized gross margin ex kind of China that we should be thinking
+about?
+A - `Doug Bettinger, Executive Vice President,Chief Financial Officer `
+Yeah, Tim [ph], we are benefiting from a favorable mix, both customer as well as a little bit of
+product. We -- we do have some level of headwinds as -- as I look forward. Tariffs are ticking up a
+little bit. I don't expect as we get into the December quarter, we're going to continue to have
+quite as favorable of a level of mix. And so I'll be pretty direct about how I want everybody
+thinking about the December gross margin.
+You -- you should be kind of thinking about where consensus is today, which is about 48%. I think
+that's what you're going to see in December. I'm not going to get over the skis yet in terms of
+what you should be thinking about as we head into the next year because I'm not exactly sure
+what the mix is going to be, CJ, but -- but I'll give you very direct guidance on December, which I
+just did.
+Q - `CJ Muse, Analyst, Cantor Fitzgerald `
+Very helpful. Thank you.
+A - `Doug Bettinger, Executive Vice President,Chief Financial Officer `
+Thanks, CJ.
+A - `Tim Archer, President and Chief Executive Officer `
+Thanks.
+Operator
+And our next question will come from `Timothy Arcuri, Analyst, UBS with UBS. Please go ahead.
+Q - `Timothy Arcuri, Analyst, UBS `
+Thanks a lot. Doug, so taking your comment about gross margin being down a smidge, and Iknow, WFE being pretty flat half-on-half. I know you're going to gain share on the, you know,
+system side gain during the back half of the year for sure. But can you give us just a little bit of a
+sense like do you think that December revenue is down as well just like gross margin or do you
+think it's pretty flat?
+A - `Doug Bettinger, Executive Vice President,Chief Financial Officer `
+Yeah, Tim, I mean, you should think about our revenue likely mirroring what we described our
+WFE to be, right? We told you we -- not think WFE is roughly flat, half-on-half, flattish. And if you
+think through that, you know what March was. You know that both June and September are
+roughly the same revenue level so that you should conclude the December quarter will look
+largely top-line wise like March did. Roughly.
+Q - `Timothy Arcuri, Analyst, UBS `
+Got it. Okay. So it is down. Okay. Okay. And then (Multiple Speakers)
+A - `Doug Bettinger, Executive Vice President,Chief Financial Officer `
+Yeah, it will be down -- it will be down and, you know, that's part of the gross margin, Tim.
+Q - `Timothy Arcuri, Analyst, UBS `
+Yeah, okay, cool. And then -- and then can you just talk about just -- there -- there was a -- there's
+like a lot of puts and takes for next year. I know there was a pretty big CapEx cut from the big
+logic maker. But it sounds like you still feel like the bias to next year. I mean, you know, you're not
+giving us a number, but if you had to, you would say that the bias to next year is up. Is that fair?
+A - `Tim Archer, President and Chief Executive Officer `
+Yeah. Well, we're not -- we're not going to give a 2026 number, but I think that what we're trying
+to do is frame out that regardless of what WFE is, we think that the drivers of WFE spending are
+significantly in Lam's favor. I -- I think that it's just too early. I mean, there -- there are tremendous
+number of -- of projects in play right now, it's hard to -- hard to know exact timing. But you know, if
+you look, what are the drivers for '26, '27, '28, you know, it's -- it's what I just talked about in your
+[ph] last question, the HBM, advanced packaging, gate-all-around, NAND layer scaling, moly, we
+didn't talk about -- I didn't mention dry resist, EUV patterning. These are all areas where Lam has
+new products that have been in -- in our customers' R&D facilities for the last several years.
+They're ready to go.
+We don't control the customers' project timing, but we feel in -- incredibly confident that when
+those projects go, well, Lam expands our SAM and gains share. That might be '26, it might be '27,
+but that's -- you know, we're feeling -- you know, our -- our strategy doesn't change at this point
+based on -- on the customer's timing if, you know, we're -- we're in the right position.
+Q - `Timothy Arcuri, Analyst, UBS `
+Totally. Got it. Thank you.
+A - `Tim Archer, President and Chief Executive Officer `
+Yup.
+A - `Doug Bettinger, Executive Vice President,Chief Financial Officer `Thanks, Tim.
+Operator
+Our next question will come from `Harlan Sur, Analyst, JPMorgan with JPMorgan. Please go ahead.
+Q - `Harlan Sur, Analyst, JPMorgan `
+Hey guys. Good afternoon and great job on the quarterly execution. You know, your China
+business was strong in the June quarter, was up about 20% sequentially. Is -- is the team still
+embedding about a $700 million negative impact from China in the second half of this year due
+to the restrictions that were put in place back in December.
+But irrespective of that, on top of all of this, you're anticipating a better overall China business
+this year, right? So relative to 90 days ago, what has changed within your China customer base?
+Do you think that this is potential pull forward of equipment of -- of -- ahead of any potential
+tariffs or just more focused on bringing manufacturing capabilities domestically just given the --
+the choppy geopolitical environment.
+A - `Doug Bettinger, Executive Vice President,Chief Financial Officer `
+Well, Harlan, you stuck like three or four questions in there, let me try. Yeah, that $700 million
+number, that was the revenue we had identified to specific customers, regulations haven't
+changed, so that's no different. I think when we think about the fact that WFE is a little bit stronger
+and -- and it's driven by a little bit more spending in China, it -- it's just a little bit more spending
+from -- from a handful of customers is how I would be thinking about it. It's nearly impossible for
+us to say it's a pull in because of any specific reason. They're just spending a little bit more when
+we -- when we unpack it.
+Q - `Harlan Sur, Analyst, JPMorgan `
+Okay, perfect. Thank you for that. And then, maybe for Tim. You know, as we track a lot of these
+next-generation AI XPU and GPU programs, like many of them are moving from 2.5D to 3D
+packaging. And then on the flip side, you have memory customers, as you pointed out, are
+gearing up for a strong migration to HBM4 next year. There are -- some of them are actually
+signaling increases in spending in the second half of this year, right, versus their expectations
+coming into the year.
+I think you guys did greater than $1 billion in advanced packaging and HBM last year. You came
+into this year targeting greater than $3 billion in advanced packaging and gate-all-around. But if
+you just single out advanced packaging, is that business coming in better versus your
+expectations entering this year? And is that what is also helping to drive maybe a slightly better
+second half shipment and revenue profile?
+A - `Doug Bettinger, Executive Vice President,Chief Financial Officer `
+Yeah. It's a -- it's a little bit, Harlan. I think advanced packaging in total was probably a little bit
+stronger than we expected. It's not wildly stronger, but -- but HBM is strong, and there's probably
+a little bit of upside related to that as well as the China stuff we were talking about.
+A - `Tim Archer, President and Chief Executive Officer `
+And Harlan, I would just say from a -- from a technology perspective, I mean, you kind of hit it. The
+packaging schemes are getting more complex. You mentioned 2.5D to 3D. I've always said foryears now, you hear 3D, you should think of Lam, and that means vertical scaling and more etch
+and deposition.
+HBM3E to 4E, you know, obviously does things that are -- are beneficial for us, both from an
+advanced packaging perspective, but also from a -- from a front-end equipment perspective. You
+know, the die-size -- cell size gets a little bit bigger, the die gets bigger because of increased
+number of TSVs to feed the higher I/O count. And you know, our -- by our estimate, and I think
+some of our customers' commentary, you need approximately 30% more wafers to produce an
+equivalent number of bits when you move from 3E to 4E.
+So you know, look, as -- as AI performance requirements continue to demand these -- these
+greater capabilities, you know, we're -- we're just seeing increased WFE in the etch and
+deposition spaces. Similarly, SSD speeds, you know, when you talk -- I mentioned CBA, which is
+another, you know, packaging enabled capability, you know, that's being directly put in for
+performance gives -- it's part of the ability to create higher-performance for SSDs, higher
+read/write speeds. So you know, I think that -- that everywhere these kind of packaging
+capabilities are being leveraged for performance and -- and next-gen capabilities.
+Q - `Harlan Sur, Analyst, JPMorgan `
+Thanks, Tim. Thanks, Doug.
+A - `Doug Bettinger, Executive Vice President,Chief Financial Officer `
+Thanks, Harlan.
+Operator
+Our next question will come from `Krish Sankar, Analyst, Cowen and Company with Cowen and Company. Please go ahead.
+Q - `Krish Sankar, Analyst, Cowen and Company `
+Yeah, hi. Thanks for taking my question. I had two of them too. Doug, I just wanted to clarify one
+thing on China sales. If I heard you right, you said the multinationals grew relatively more in June
+versus March. If true, do you think was it because of potential for restrictions on tools for MNCs in
+China? Or do you think something else is going on?
+A - `Doug Bettinger, Executive Vice President,Chief Financial Officer `
+No, of course, again, it's hard to isolate, hey, spending was a little stronger, and what was the
+reason. I -- I don't know that I would specifically identify it to that. But -- but yes, you picked up on
+the commentary exactly right. The global multinationals in China grew by more than 90% quarter-
+over-quarter. So, there was a big increase in spending from that and that contributed to part of
+the uptick you saw in -- in the China regional spending.
+Q - `Krish Sankar, Analyst, Cowen and Company `
+Got it. Got it. Very helpful. And then a follow-up for Tim. Tim -- on the 2-nanometer gate-all-
+around, especially the leading Taiwanese [ph] foundries, are all the tool decisions already made?
+Or do you think there are still some PTORs [ph] that are still in flux?
+A - `Tim Archer, President and Chief Executive Officer `
+Well, Chris, I don't -- I don't want to take any -- any one specific customer where they are inwe're fighting right to the end until production fabs are built. But I -- I would say that, you know,
+from a -- from the big drivers of SAM expansion and share gains, you know, we've -- we've been
+looking forward past 2 nanometers for quite some time, and a number of things I talked about in
+terms of inflections, you know, are beyond -- beyond 2 nanometers. I just highlighted the moly
+adoption and foundry logic, you know, drive resist, you know, there's -- there's a lot coming
+beyond and -- and we're already well engaged with those more advanced applications. So,
+probably the best I can say without talking too much about one customer.
+Q - `Krish Sankar, Analyst, Cowen and Company `
+Got it. Thanks a lot, Tim. Thanks, Doug.
+A - `Doug Bettinger, Executive Vice President,Chief Financial Officer `
+Thanks, Krish.
+Operator
+And our next question will come from `Stacy Rasgon, Analyst, Bernstein Research with Bernstein Research. Please go ahead.
+Q - `Stacy Rasgon, Analyst, Bernstein Research `
+Hi, guys. Thanks for taking my questions. First, I wanted to zero in again on -- on China. So the
+multinational is clearly the source of the upside in the quarter. Is -- is it the local spend that's the
+upside in the September quarter in the multinational you see sustaining? And I guess, given all of
+that, given the decline you're guiding for for December quarter, is that -- is that pretty much just
+trying to normalizing into December? Or is there something else going on there?
+A - `Doug Bettinger, Executive Vice President,Chief Financial Officer `
+Stacy, I'm not going to break down the spec -- specificity of the regional composition for the -- for
+the guide, but China is up in the quarter. And yeah, you -- you got December -- you're thinking
+about December in the right way.
+Q - `Stacy Rasgon, Analyst, Bernstein Research `
+Got it, got it. So there's nothing else -- nothing else going on unusual in December. It's mostly just
+the trend of normalization. I mean, the gross margin guide (Multiple Speakers) which is down [ph]
+seemed to indicate that as well.
+A - `Doug Bettinger, Executive Vice President,Chief Financial Officer `
+Yeah, it's -- it's -- you know, revenue is going to be a little bit softer in December, just normal
+profile. Mix is a little bit softer in December. You know, we're -- we're kind of back to a -- a little bit
+of a run rate. And frankly, Stacy, you should also be thinking about tariffs, right? Tariffs are a little
+bit higher in the December quarter than they are in September. So there's -- there's a lot of
+moving pieces, I guess, is why I'm rambling on here a little bit.
+Q - `Stacy Rasgon, Analyst, Bernstein Research `
+Yeah, yeah. No, I hear you. And for my follow up, I just wanted to ask about Taiwan. I -- I thought
+you said Foundry was at a record level, but -- but Taiwan was actually down sequential. I guess I'm
+-- I'm just having a little bit of trouble squaring that. Where am I -- what am I missing?A - `Doug Bettinger, Executive Vice President,Chief Financial Officer `
+Well, Taiwan last quarter was 24% revenue. This quarter, it was 19%, revenue was up. So on a like-
+for-like basis, Taiwan was down a little bit. But understand, Taiwan is not the only geographic
+location where there's foundries in the world, right? There's foundries all over -- all over the
+globe.
+Q - `Stacy Rasgon, Analyst, Bernstein Research `
+Where -- where are you seeing the foundry spending picking up then?
+A - `Doug Bettinger, Executive Vice President,Chief Financial Officer `
+I'm not going to break down the geographic distribution, but you know, there's a leading-edge
+foundry investing in Japan. There's trailing edge foundry spending in China as well as globally. So,
+it -- it's a little bit all over, Stacy. Japan, I would point out to you, I mentioned this. Record revenue
+in the Japan region. So, I -- I think you probably know there's a large new foundry in Japan.
+Q - `Stacy Rasgon, Analyst, Bernstein Research `
+Yeah. Yeah, that's what I'm trying to -- trying to tie out. Thank you very much. Helpful.
+A - `Doug Bettinger, Executive Vice President,Chief Financial Officer `
+Yup, you're welcome.
+Operator
+And our next question will come from Jim Schneider with Goldman Sachs. Please go ahead.
+Q - `James Schneider, Analyst, Goldman Sachs `
+Good afternoon. Thanks for taking my question. You know, relative to your outlook on 2026,
+realize it's very early and you don't want to give a -- give a view there. But I mean, do you have
+confidence that Lam's business can actually grow in 2026 even if CapEx is not up for the broader
+industry?
+A - `Doug Bettinger, Executive Vice President,Chief Financial Officer `
+(Technical Difficulty) Jim, we're not going to give a guide [ph] number for next year. The
+important thing, and I think Tim described as well, listen, etch and depth as a percent of total
+WFE we see growing. And we feel extraordinarily good about the strength of the product
+portfolio right now such that we reiterated -- Tim reiterated today that of this expanding SAM,
+we're going to gain 50% of it as our view of things. At the end of the day, we weren't -- we're
+only halfway through '25. So, we're not going to quite, you know, stick our neck out about '26 yet.
+It will be what it will be, but we feel great about our relative outperformance into the next several
+years. That was the important message, Jim, that we try to deliver.
+Q - `James Schneider, Analyst, Goldman Sachs `
+Understand. Well, I had to give it the rookie try. I just -- just a second question as follow-up. I'm just
+wondering, obviously, NAND was a pretty good step up in the quarter. Do you see that strength
+sustaining through the end of the year or next couple of quarters from where -- where you stand
+today? Or is it sort of like a -- a pop-up and pop-down potentially? Thank you.A - `Doug Bettinger, Executive Vice President,Chief Financial Officer `
+So Jim, I'm also not going to get into the quarterly breakdown of NAND spending. The -- the
+important thing though and we reiterated this when we said it back at the Investor Day is you
+should think about NAND over the next several years needing to spend roughly $40 billion to
+work through technology conversions, upgrades, if you will. Our view of that hasn't changed.
+That's the most important thing to think about. The -- the spending profile over the next several
+years, we -- we see continuing. (Multiple Speakers)
+A - `Tim Archer, President and Chief Executive Officer `
+The only thing I would add as well is, I mean, while there's this -- this focus on -- on upgrades, I
+mean, we're also significantly advancing the -- the technologies. And so, I mentioned a couple of
+the items. I mean the demands of AI for both storage and speed and density is driving things like
+the moly adoption that I talked about, it's driving the CBA that I talked about. It's also driving the
+QLC to get density. In QLC, I talked about a win we had for cryo-etching.
+You know, cryo produces a much more vertical of high aspect ratio dielectric memory hole. That's
+a critical capability that enables -- helps enable QLC. And so, you know, you're -- you're looking at
+-- at multiple technology drivers. And then, if you just look at layer count itself, you know, over the,
+you know, last couple of years, we've been talking about all the other drivers, whether it's
+backside deposition for stress management, it's our carbon gap fill for tier stacking, and
+eventually, back to advanced packaging. And the question we had there, you start stacking cells
+on top of cells to go to very high layer counts.
+And so, you know, from an etch and deposition perspective, we're going to get a lot of upgrades
+to the installed-base, but you're also going to see a lot of new tools get pulled in, in the future, to
+help enable these -- these technology advancements that are needed both for performance and
+cost scaling.
+Q - `James Schneider, Analyst, Goldman Sachs `
+Thank you.
+A - `Tim Archer, President and Chief Executive Officer `
+Yup.
+A - `Doug Bettinger, Executive Vice President,Chief Financial Officer `
+Thanks, Jim. Welcome on board.
+Operator
+And our next question will come from `Atif Malik, Analyst, Citi with Citi. Please go ahead.
+Q - `Atif Malik, Analyst, Citi `
+Hi. Thank you for taking my questions. You know, Doug, you talked about modest growth in CSBG
+this year. I mean, understand you don't want to talk about WFE next year, but is it fair to assume
+that the CSBG business snaps back, you know, next year in a more meaningful way given, you
+know, the restrictions and all that, that has happened in China over the years and normalizes?
+A - `Doug Bettinger, Executive Vice President,Chief Financial Officer `You guys all want us to give you next year and I'm just not going to do it, Atif. Listen, the way to
+think about CSBG though is consistent with how you should be thinking about it over the last
+several years, right? Chamber count grows every year. So, that -- that creates incremental
+opportunity for us to kind of grow spares, upgrade service and so forth. You know, we're really
+excited about the advanced servicing. Tim talked about equipment intelligence and cobots.
+That's cool stuff. We're -- we're super jazzed about that. I'm not sure exactly how Reliance is
+going to play out next year. It -- it is down a good amount this year. I'm hopeful that it does better
+next year, but I'm -- I'm just not ready to kind of give you specificity. But the tailwinds you've
+always seen in CSBG continue to be there.
+A - `Tim Archer, President and Chief Executive Officer `
+Yeah. And I want to -- I mean, basically -- basically just to -- to add on, you know, the strong
+performance in CSBG can show up in ways that -- that aren't just CSBG revenue. And I think that's
+-- when we talk about advanced services and -- and I mentioned all the benefits that -- that we
+see coming with equipment intelligence and -- and our Dextro cobots, things like better machine
+availability, you know, more repeatability of maintenance cycle to maintenance cycle, these things
+ultimately have an impact on how the customer feels about our tool as the most production
+worthy system for not only this current generation of manufacturing, but all future.
+And so, you know, I think that we look, you know, at these two businesses, the CSBG business
+and our systems business is very synergistic. And you know, the better we do in -- in advanced
+services, the better we're going to do in terms of gaining share on the -- the system side. And
+so, you know, I -- I think we're -- we're investing in advanced services with that in mind, not just for
+its own revenue-generating purposes.
+Q - `Atif Malik, Analyst, Citi `
+Thank you.
+A - `Doug Bettinger, Executive Vice President,Chief Financial Officer `
+Thanks, Atif.
+Operator
+Our next question will come from `Blayne Curtnet Curtis, Analyst, Jefferies with Jefferies. Please go ahead.
+Q - `Blayne Curtnet Curtis, Analyst, Jefferies `
+Hey, guys. Thanks for taking my questions. I wanted to ask on DRAM. Obviously, AI is super
+strong. I think there's a lot of concerns about maybe some inventory on the HBM side. Obviously,
+it's smaller business for you and lumpy, but just kind of curious what you're seeing in DRAM and
+kind of any perspective for the rest of the year?
+A - `Tim Archer, President and Chief Executive Officer `
+Yeah. I mean, I -- I think that we -- if we look kind of to the second half of the year, I mean, maybe
+the only comment, and I'll let Doug add is, you know, we have seen some HBM-related strength. I
+mean, HBM is -- is the -- is definitely the hot thing in -- in DRAM right now. But you know, when we
+look at it, I mean, while it's been hot, I mean we -- we view there being a long road ahead. I mean
+some of -- some of the data we looked at, it's only something like 7% of total DRAM bits will
+actually be HBM in 2025.You know, we don't know where that goes, but it looks like a long tailwind of -- of build out in
+HBM. I talked about the -- the impact of -- you know, the -- the changes from HBM3E to HBM4E
+and whatever comes beyond that, and how it's impacting number of wafers required to produce
+the same number of bits. And you know, those are things that expand WFE overall. But within
+that, etch is becoming more critical as well as -- as you know, you have to execute more precision
+to build these more advanced DRAMs.
+And so, I think, you know, it shouldn't be overlooked that the importance of the new Akara wins
+that I talked about within DRAM. As you mentioned, it has -- it hasn't been a big business for us,
+but we -- we are gaining share in DRAM. And I think that as we gain share in an expanding market,
+that's a -- that's a great twofer. [ph] So, we're really pretty positive about DRAM momentum right
+now.
+Q - `Blayne Curtnet Curtis, Analyst, Jefferies `
+Thanks. And then -- then just want to ask Doug on gross margin. For December, is there anything
+more than the -- the geographic mix? I think you said product mix, but then it would seem like
+China falling off the headwind as well. But maybe you just clarify what you meant with the
+product?
+A - `Doug Bettinger, Executive Vice President,Chief Financial Officer `
+Yeah, there's customer mix, there's a little bit of product mix, and frankly, there's a little bit of
+tariff showing up incrementally in December. Those are the things to be thinking about, Blayne.
+And -- and frankly, overall revenue levels too. I think, you know, I -- I told you December is going to
+be down a little bit. So -- there's a lot of moving pieces in gross margin. All of that contributes
+some -- some portion to it.
+Q - `Blayne Curtnet Curtis, Analyst, Jefferies `
+Got you. So, when you say customers, it's related to the geo -- geographic mix?
+A - `Doug Bettinger, Executive Vice President,Chief Financial Officer `
+(Technical Difficulty) There are some smaller customers in -- in China, and that tends to be what
+I'm describing when I say customer mix. It's not specific to any one region, it's just there's --
+there's smaller customers.
+Q - `Blayne Curtnet Curtis, Analyst, Jefferies `
+Thanks for that.
+A - `Doug Bettinger, Executive Vice President,Chief Financial Officer `
+Yup. Thanks, Blayne.
+Operator
+Our next question will come from `Vijay Rakesh, Analyst, Mizuho with Jefferies -- pardon me, from Mizuho. Please
+go ahead.
+Q - `Vijay Rakesh, Analyst, Mizuho `
+Yeah, hey. Thanks a lot. Just -- just wondering on the WFE side, I think you have the ITC, thelook at next year? And a follow-up.
+A - `Doug Bettinger, Executive Vice President,Chief Financial Officer `
+Vijay, not that I can specifically correlate. Might there be, there might be, but I -- I've not deeply
+sat down and thought about this or -- or tried to correlate. It's probably something I need to do.
+Q - `Vijay Rakesh, Analyst, Mizuho `
+Got it. And then on the China side, obviously, good to see the pickup there. As you look out, do
+you expect, you know, that -- that mix to kind of normalize? Kind of means revert to where you
+guys were might be early in the year or last year? Thanks.
+A - `Doug Bettinger, Executive Vice President,Chief Financial Officer `
+Yeah, Vijay, it's a good question. I told you, I think September is up in China. I think December is
+probably going to lighten up a little bit. You know, previously, we described the view that last year
+to this year, China as a percent of total mix was going to be down. I think it's probably going to be
+flat to maybe slightly down. It -- it got a little bit stronger and that was part of why Tim described
+an uptick in WFE.
+Q - `Vijay Rakesh, Analyst, Mizuho `
+Got it. Thank you.
+A - `Doug Bettinger, Executive Vice President,Chief Financial Officer `
+Thanks, Vijay.
+A - `Tim Archer, President and Chief Executive Officer `
+Thanks, Vijay.
+Operator
+And our next question will come from `Edward Yang, Analyst, Oppenheimer with Oppenheimer. Please go ahead.
+Q - `Edward Yang, Analyst, Oppenheimer `
+Hi, Tim, Doug. Thanks for the time. And congrats on the strong quarter. This is, you know, the
+third consecutive quarter where you've not only beat numbers, but the guidance has also
+exceeded consensus by double digits. So I guess taking that into context, I mean, if you look at
+that -- that record, I mean, is it just more conservatism in your planning or, you know, what has
+kind of surprised you by this magnitude?
+A - `Doug Bettinger, Executive Vice President,Chief Financial Officer `
+I guess, Eddie, if you unpack it, you know, revenue came in a little bit better. Gross margin came in
+a little bit better. And frankly, that tax rate came in a little bit lower, and I don't know that I would
+describe a conservative bias, but that's just kind of how the quarter unfolded. Now you might
+point out that, hey, that happens at Lam more often than not. Yeah, maybe. But that tax rate was
+-- was lower than we expected for sure. It's just -- it's a little bit of all of it.
+A - `Tim Archer, President and Chief Executive Officer `Yeah, I think that also -- yeah, not -- not to -- to say much about the conservatism piece, but I -- I
+think that in general, we're also in an environment where a lot of the markets and we're selling to,
+I mean, look at the -- the number -- I hate to say, the number of times I had to mention AI, but the
+reality is you've seen AI and demand kind of, you know, generally exceeding expectations here
+and it's driving demand for -- for chips.
+And because so much of the -- the more advanced requirements are for etching deposition,
+we're outperforming that. And so, I think, you know, maybe it's just us like one thing to see it
+before we -- we really commit to it. But I think we're getting a better and better view of how
+these technology transitions are occurring. And I think that's what's giving us confidence that we, I
+think, well telegraphed at our Investor Day earlier this year, where we talked about a pretty
+aggressive 2028 and $1 trillion semiconductor industry goals for the company.
+Q - `Edward Yang, Analyst, Oppenheimer `
+Yeah. And thanks for that perspective, Tim. And my -- my next question is just on mobile and your
+thoughts on that end market. The carriers have been reporting really strong handset sales lately.
+You know, Verizon, AT&T, their upgrades were up 20%. And this is after a long stretch of -- of flat.
+So, you know, hard to know what's behind it. I think one of the carriers called it tariff pull ins, the
+other denied it. But it feels like maybe we're starting a meaningful shift there. And if we are in the
+early stages of a broader handset refresh cycle, you know, how -- how would that affect Lam
+across logic, DRAM and NAND? And can you size your exposure and are your ASPs in that
+segment above or below your corporate average?
+A - `Doug Bettinger, Executive Vice President,Chief Financial Officer `
+Yeah, you know, it's -- it's a great question. We're one step removed from kind of smartphones
+and -- and PC sales. But the way it shows up for us though at the end of the day, yeah, I -- I do
+see a little bit of growth in -- in mobile. I see a little bit of growth in client -- PC client. But frankly,
+content is growing, right? When you -- when you look at the -- the new phones coming out this
+year, there's more DRAM, there's more NAND, there's bigger baseband chips as AI becomes a
+thing. And that happens in PCs as well, right?
+There's not a huge unit story in PCs, although they're up, I don't know, low-single digits this year,
+there's a content story there with, you know, terabyte. In -- in fact, I'm starting to see two-
+terabyte PCs. That's what shows up for us and it will show up with our large foundry customers at
+the leading-edge and the DRAM customers that are selling HBM, and frankly, the NAND
+customers that are selling SSDs. That -- that's how it shows up in our business.
+Q - `Edward Yang, Analyst, Oppenheimer `
+Thank you.
+A - `Doug Bettinger, Executive Vice President,Chief Financial Officer `
+You're welcome.
+A - `Tim Archer, President and Chief Executive Officer `
+Thank you.
+Operator
+And our next question will come from `Brian Chin, Analyst, Stifel with Stifel. Please go ahead.Q - `Brian Chin, Analyst, Stifel `
+Hi. Good afternoon. Thanks for letting us ask a -- a few questions. Maybe first, is the -- is the
+Vantex, outside etch [ph], when you referenced, is that for a 400-layer application?
+A - `Tim Archer, President and Chief Executive Officer `
+I'm not going to -- I'm not (Multiple Speakers) comment on exactly which -- which technology
+node it is, but it -- it's a -- when I said multigenerational, you can interpret that as being --
+everything from current generation through the next couple of generations. It's an important win,
+because again, customers tend to pick -- pick a new type of tool with the idea that they'll reuse
+that tool, they'll upgrade that tool for multiple technology nodes. So yeah, it's -- it's a significant
+win for us.
+Q - `Brian Chin, Analyst, Stifel `
+And maybe just a quick follow-up on that though, Tim. Do you think that the selection if it's to be
+implemented at, you know, more -- more recent nodes suggests maybe like a faster ramp
+upward in terms of vertical scaling?
+A - `Tim Archer, President and Chief Executive Officer `
+Well, I mean, Vantex -- Vantex has been in the marketplace for -- for quite -- quite a while. I think,
+as you know, there -- there has been -- there's been a lot of talk over the last couple of years
+about leadership within the dielectric high aspect ratio etch space, particularly in NAND. And so,
+you know, I think that you've seen a tremendous amount of innovation from Lam. And you know,
+what I would just say is that we can't -- you know, our performance doesn't necessarily drive
+whether the customers scales faster or doesn't scale faster. That's driven by their own end
+market needs. But what I would point out is, you know, what the -- the key markets within NAND
+right now, one of them, of course, is QLC.
+And if you have a very good cryo-etch process that produces a very vertical high aspect ratio of
+memory hole, you're more likely to be successful creating a QLC device. And so, I think what Lam
+does with our customers and we're engaged so closely with them is we try to create the
+technologies that allow them to create the devices that make them successful. And when they're
+successful, then they move -- they move quickly.
+And I think that that's a -- that's what we're seeing not just in Vantex, but in -- in many of the other
+items like I talked about faster read/write speed and the -- the relatively quick adoption we're
+seeing now of moly in NAND. So, a very similar kind of thing, enabling technology.
+Q - `Brian Chin, Analyst, Stifel `
+Got it. Great. No, great. So maybe like SSD, very worthy. Maybe a follow-up, quick follow-up
+question. On CSBG, just to slightly decompose it, you know, upgrades likely up Q-on-Q, business
+overall up a little Q-on-Q. Do you think that off the June quarter that Reliant has maybe largely
+balmed [ph] out or stabilized here, even if you're not necessarily wanting to signal for some
+recovery in that part of the business?
+A - `Doug Bettinger, Executive Vice President,Chief Financial Officer `
+Yeah, Brian, I'm not going to get in the habit of decomposing a forward-looking statement on --
+on CSBG. It is stronger than we previously thought though in total, all right? Previously, we'vebe modestly up. So, that's good. Upgrades are extremely strong. Services and spares are doing
+well and Reliance is down right now. That -- that's kind of how to think about it.
+Q - `Brian Chin, Analyst, Stifel `
+Okay. Thanks.
+A - `Doug Bettinger, Executive Vice President,Chief Financial Officer `
+Thanks, Brian.
+Operator
+And our next question will come from `Tom O'Malley, Analyst, Barclays with Barclays. Please go ahead.
+Q - `Tom O'Malley, Analyst, Barclays
+Hey, guys. Thanks for taking my question. Doug, you mentioned the tariff environment is very
+different in the December quarter versus the September quarter. I was curious if you could
+unpack that a little. Are you referring specifically to 232, any of the country-specific tariffs? You
+know, what are you seeing as the most impactful, quarter-over-quarter, September, December?
+A - `Doug Bettinger, Executive Vice President,Chief Financial Officer `
+I didn't -- I didn't really say it was -- I forget what word you used. There are more tariff headwinds
+in December than our September. That -- that's all we communicated and that's all I was trying to
+communicate.
+Q - `Tom O'Malley, Analyst, Barclays
+Got you. And then on the -- on the customers in China, I think Stacy went through it with you guys,
+but more specifically, like going into September, you -- you obviously felt like there would be a
+fall-off and in a very -- a very short window, those customers came back. Is December really a
+view of conservatism as you expect, you know, this as a one-time kind of comeback from the
+China customers, or in Q4, you know, is this more of a conservative outlook or do you think that
+you could see customers stepping back in, because obviously, the lead time here seems like it's -
+- it's relatively short to service these guys? Thank you.
+A - `Doug Bettinger, Executive Vice President,Chief Financial Officer `
+Tom, when we describe the business, we don't try to be conservative or aggressive. We call it like
+we see it, and that's exactly what we're doing right now.
+Operator
+Our next question will come from `Charles Shi, Analyst, Needham with Needham. Please go ahead.
+Q - `Charles Shi, Analyst, Needham `
+Hi. Thanks for taking my question. I want to double click on some of your China guidance numbers
+there. So maybe this is for Doug. I think based on your guidance for the next two quarters, it looks
+like your China, I know we have to back up some of the multinational numbers from your China
+revenue. Looks the domestic China revenue looks like it's tracking flattish year-over-year and is
+that right? And I think the -- the whole -- I mean, the prevailing view for China WFE, this is still a
+down year. So is it really about outperformance, company geo-syncratic factors, or is thatbecause, you know, you did add $5 billion to WFE number forecast for this year, maybe your view
+on China WFE is kind of shifting towards -- maybe this is not really a down year for China WFE?
+Thanks.
+A - `Doug Bettinger, Executive Vice President,Chief Financial Officer `
+Yeah, boy, you put a lot in there, Charles. Listen, I'm not going to get into global multinationals
+year-over-year, blah, blah, blah. It was up decently in the current quarter. We upsided China WFE
+in total a little bit and then described the view that, you know, it's flat to maybe slightly down in
+the composition of what we're seeing. That -- that's the color we provided
+Q - `Charles Shi, Analyst, Needham `
+Thanks.
+A - `Doug Bettinger, Executive Vice President,Chief Financial Officer `
+Yup. Operator, we'll do one more question.
+Operator
+Of course. Our last question here will come from `Timm Schulze-Melander, Analyst, Rothschild with Rothschild. Please
+go ahead.
+Q - `Timm Schulze-Melander, Analyst, Rothschild `
+Yeah. Hi, there. Thanks for taking my questions. I think maybe the question's for Tim. So, the first
+one was on -- on moly. Impressive that you already have positions in production. Just wanted to
+ask for some color, maybe how should we think about your share or how do you think about your
+share in -- in moly, kind of what is that going to look like on a maybe a one- to three year view?
+And then the second one was on advanced packaging. And it was really just to ask about how do
+you think about the size and the profitability of that opportunity for Lam when you compare
+hybrid bonding with other 3D packaging technologies. Thank you.
+A - `Tim Archer, President and Chief Executive Officer `
+Okay, great. Well, I'll take the moly one first. I guess, you know, we haven't -- we haven't put out a
+-- a share projection for moly, but I guess, if you looked at where we are right now and where
+we've been, I mean, we're -- we've been the leader in -- in ALD metallization, like in the tungsten
+space for many, many, many years. In many cases, it's tungsten that is transitioning to moly. So,
+we would expect to -- to lead in that as well.
+We're the only company with ALD moly in production in foundry logic. I mentioned a number of
+places where we're already running in -- in NAND. Those are the two markets that are -- are
+adopting moly at this point. So I think that from a share perspective, at this point, we're doing
+quite well and we would expect to continue to do so as we gain more experience. There's a first-
+mover -- a benefit in any of these markets. You get experience, you build that in, your next
+applications and tools are better, and you just kind of keep building on that. So it's been our
+recipe for -- for many, many years.
+On -- on advanced packaging, you know, what I would say is the only thing we've sized up in the
+past, we said $1 billion last year. We said a bigger this year. We didn't put out a specific advanced
+packaging number other than the lump it with gate-all-around at $3 billion, more than $3 billiontotal. But you know, we're doing well. I mean, you think about our position, we have a very strong
+position in key applications like copper plating, many of the dielectric deposition processes.
+And so, almost regardless of the advanced packaging scheme, the more complex, it is the
+bigger our SAM gets and -- and I think you asked about gross margin, you know, we aim for it to
+be similar gross margins to all of our technology-enabling applications.
+Q - `Timm Schulze-Melander, Analyst, Rothschild `
+Great. That's very helpful. Thanks very much, Tim.
+A - `Tim Archer, President and Chief Executive Officer `
+Thank you.
+A - `Doug Bettinger, Executive Vice President,Chief Financial Officer `
+Yeah, thanks for the question. And operator, that concludes our prepared or our Q&A. Thank you,
+everyone, for joining the call today. And we'll see you later in the quarter, I'm sure.
+Operator
+The conference has now concluded. Thank you for attending today's presentation. You may now
+disconnect your lines.

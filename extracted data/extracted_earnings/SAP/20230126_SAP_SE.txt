@@ -1,0 +1,634 @@
+Y 2022 Earnings Call
+
+Presentation
+Operator
+Ladies and gentlemen, thank you for standing by. Welcome and thank you for joining the SAP Q4
+Earnings Conference Call. Throughout today's recorded presentation, all participants will be in a
+listen-only mode. The presentation will be followed by a question-and-answer session. (Operator
+Instructions)
+I would now like to turn the conference over to `Anthony Coletta, Chief Investor Relations Officer, Chief Investor Relations Officer.
+Please go ahead.
+`Anthony Coletta, Chief Investor Relations Officer `
+Good morning, everyone, and thanks for joining us today. With me on the call are: CEO, Christian
+Klein; CFO, `Luka Mucic, Chief Financial Officer; and `Scott Russell, Head-Customer Success, Head of Customer Success. On this call, we will discuss
+SAP's fourth quarter and full-year results for 2022. You can find the deck supplementing today's
+call as well as our quarterly statement on our Investor Relations website.
+During this call, we'll make forward-looking statements, which are predictions, projections, or
+other statements about future events. These statements are based on current expectations and
+assumptions that are subject to risks and uncertainties that could cause actual results and
+outcomes to materially differ. Additional information regarding these risks and uncertainties may
+be found in our filings with the Securities and Exchange Commission, including but not limited to
+the risk factors section of SAP's Annual Report on Form 20-F for 2021.
+Unless otherwise stated, all numbers on this call are non-IFRS and growth rates and percentage
+point changes are non-IFRS year-on-year at constant currencies. The non-IFRS financial measures
+we provide should not be considered as a substitute for or superior to the measures of financial
+performance prepared in accordance with IFRS.
+As you know, this is Luka's final earnings call with SAP. So before we start, I would like to take a
+moment to express my personal gratitude to you, Luka, for the close collaboration over the
+years, for the great partnership, and for the strong engagement with our investors.Congratulations on 27 years at SAP and a fantastic ride. So it has been a distinct honor to work
+with you, with lots of great memories. So I wish you nothing but the best of success. On behalf of
+the SAP family and the broader community, many thanks, Luka.
+And with that, I'd like to turn the call over to Christian.
+`Christian Klein, Chief Executive Officer `
+Yeah. Thank you, Anthony, and really well said. And thanks to all of you for joining us today, and
+welcome to 2023. This has been a good Q4 and a very important year for SAP, bringing to a
+close a year of great momentum. Our results in Q4 show once again a strong demand for our
+products and services, reflecting the confidence and trust companies have in working with SAP.
+Let me call out some key highlights for Q4. Current cloud backlog exceeded EUR12 billion, up
+24% this quarter against the strong compare last year. Cloud revenue grew 22% and cloud
+revenue for S/4HANA further accelerated once again, growing at 90%. We reached a tipping
+point in our transformation as we returned to positive operating profit growth of 2%, with
+recurring revenue share of 76%, which is up 6 percentage points compared to Q4 2021.
+For 2023, this is setting us up to deliver expected accelerated total revenue and our promise of
+double-digit operating profit growth. For full year 2022, we delivered upon all our top and bottom
+line guidance, with cloud revenue growing 24%, up 5 percentage points from 19% in 2021.
+S/4HANA cloud revenue grew 79% for the full year. This is compared with 47% full-year growth in
+2021 and brings our S/4HANA cloud revenue to over EUR2 billion for the first time ever. Our cloud
+transformation is in full swing and we have also built a highly resilient business with recurring
+revenue up from 75% in 2021 to 79% in 2022. I believe, we will look back at 2022 as one of the
+most important years in our history.
+It is now over two years since we launched our strategy for transformation. We kept our promise
+and delivered despite the combined impact of three factors: our exit from Russia; our divestiture
+of Litmos; and the macroeconomic volatility facing the world. Why is our position so much
+stronger and SAP more relevant than ever? Because our RISE with SAP offering is much more than
+only a shift of our technology to the cloud. It is a true business transformation offering and we are
+focused on helping our customers solve their biggest challenges.
+First, we enable companies to transform their existing business models and drive simplification
+and automation of their core business processes to offset inflation pressure. Second, SAP
+enables supply chain resilience. Supply chains are disrupted and need to be diversified as a result
+of the pandemic, geopolitical tensions and shifting business dynamics. We are helping our
+customers to build more resilient supply chains by connecting the suppliers and providers, from
+the raw material provider to the manufacturer. SAP's business network facilitated over USD4.9
+trillion of global commerce and USD730 million of B2B transactions in Q4 alone.
+Third, we are delivering green ledger for every industry and every customer to measure ESG
+based on actual, instead of average data, data that is fully auditable and based on industry-
+specific standards, with Scope 3 emission tracking across value chains via our network and we will
+give our customers the ability to act by embedding sustainability into every business process and
+every company decision.
+RISE with SAP is at the heart of our strategy and it's one of our most successful offerings ever. As
+stated, it is much more than a technical lift and shift to the cloud for our installed base. It is a true
+business transformation offering and around 50% of our customers are net new customers to
+SAP. I'd like to walk you through some of our RISE with SAP Q4 wins.As part of Merck's long-term collaboration with SAP, they will be using SAP S/4HANA cloud to help
+further digitize their business processes and make them more efficient, agile, and adaptable. This
+will enable them to act to disruptions and capitalize on business opportunities more quickly.
+Porsche, the German sports car manufacturer has selected RISE with SAP to support their move
+to the cloud and maximize value through innovation and speed. PwC, one of the largest
+professional services networks in the world, significantly increased their user base for SAP
+S/4HANA public cloud. To support Lenovo's group Everything-as-a-Service transformation
+strategy, a fundamental change of their business model will -- they will be moving their digital
+core to S/4HANA cloud.
+Earlier this month, I had the pleasure of meeting with the leadership team of Al-Futtaim Group
+from the United Arab Emirates. They operate across a number of sectors and will be embarking
+on a full digital transformation powered by RISE with SAP. We also announced a joint collaboration
+with ExxonMobil to establish and adopt industry best practices and help them with their
+sustainability efforts. Finally, we are very proud to announce that we signed a long-term strategic
+deal with BMW this week, based on RISE with SAP. We have been partners for more than 30 years
+and their cloud strategy is based on SAP across all dimensions and all key end-to-end business
+processes.
+The SAP Business Technology Platform is the foundation behind RISE and our portfolio
+momentum. Already today, more than 80% of RISE with SAP deals include the Business
+Technology Platform as the foundation for integration and extensibility. This is powered by
+thousands of APIs, integration flows and low-code/no-code content packages. Lockheed Martin
+of the US is an example of this. Lockheed's collaboration with SAP began in 1998. They will be
+now leveraging RISE with SAP to move their core business processes to a secure managed
+FedRAMP-compliant cloud. They will be using the SAP Business Technology Platform for emerging
+technology and SAP Analytics Cloud to enhance their strategic data management.
+With S/4HANA and BTP at the core, our line of business applications also benefit from a flywheel
+effect, as it is twice as likely that these ERP customers buy another SAP line of business
+application. More than 30% of SAP's current customers use two or more SAP solutions, and we
+see this increasing through this flywheel effect created by the Business Technology Platform.
+At the same time, coming out of a strong year, we will not rest as we continue to focus on our
+cost trends to increase both win rates and productivity. In previous quarters, we spoke with you
+about our continued focus to simplify and consolidate our portfolio with S/4HANA and BTP at the
+core. Our divestiture of Litmos in Q4 is an example of this. In 2023, we intend to sharpen this
+portfolio focus further.
+As we continue to build on our core strengths, we will be pivoting our CX and industry areas to
+be more focused on specific industries complemented by a strong ecosystem. This focus on our
+core together with our ongoing optimization of SAP structure for cloud success are behind the
+announcement we made today, the intend to carry out a targeted restructuring in select areas of
+the company. This will impact up to 3,000 positions and will include a headcount reduction
+amounting to about 2.5% of our workforce. While we know these changes are necessary, it is
+never easy to make decisions that affect our colleagues in this way.
+In the same context, SAP has determined to explore a sale of its stake in Qualtrics. This would be
+a continuation of the strategy we set at the time of the Qualtrics IPO in 2021. SAP believes that
+this potential transaction could unlock significant value for both companies: for SAP, to focus more
+on its core business and profitability; and for Qualtrics, to extend its leadership in the XM
+category that it pioneered. Since the acquisition, Qualtrics has increased revenue by 3.5x toUSD1.5 billion while delivering profitability and has significantly expanded its offerings and
+enterprise customer adoption. In the event of a successful transaction, SAP intends to remain a
+close partner. A final decision is subject to market conditions, agreement on acceptable terms,
+regulatory approvals and approval of the SAP SE Supervisory Board. SAP has retained Morgan
+Stanley as financial advisor to assist in the exploration of the sale of its stake in Qualtrics.
+I'd like to close by taking a look at our outlook and ambitions. As these results have shown the
+power of SAP solutions in an increasingly uncertain world is clear. We are providing strong
+guidance for 2023 despite the continued macroeconomic pressures. The strategic
+transformation we announced over two years ago is in full swing and has reached and a
+significant inflection point. The strength of our recurring revenue base is the foundation, which will
+power our next 50 years at the forefront of business and technology.
+We will already see a positive impact in 2023, including the promise we made to return to
+double-digit operating profit growth, as well as accelerated cloud and total revenue growth. For
+our 2025 ambitions, we are ahead of plan and expect to provide an update to these ambitions
+later in the first half after the arrival of Dominik Asam, our new CFO.
+In closing, I can sense both, the possibilities as well as the caution that will be required to navigate
+today's uncertain world. And lastly on a more personal note, you all know that our CFO Luka
+Mucic is passing the torch to Dominik Asam on March 7. Luka, as Anthony said, you have enjoyed
+an impressive career at SAP, and of course, the whole SAP family will be always grateful for your
+commitment and your contributions to our success. I guess, today also marks the 37th earnings in
+your CFO career. And personally, I would like to say you not only many, many thanks, especially
+over the last two years as the CFO and supporting the significant transformation, but as well for
+your partner and even more important, your personal mentorship. So many thanks to you Luka,
+and all the best.
+`Luka Mucic, Chief Financial Officer `
+Yes. Thank you very much, Christian, and it's a bit hard to follow business as usual. Thank you so
+much for your kind words. But also from my side, a happy and healthy 2023 to everyone.
+Let me start by saying that I'm extremely proud of SAP's solid finish to 2022, demonstrating great
+resilience in a year that saw certainly many challenges. But despite the extremely volatile business
+environment, we delivered on our financial commitments for 2022 and we're likewise on track to
+deliver our growth and profitability commitments for 2023. Our financial performance shows that
+we kept our promise and thoroughly executed on our plan by being laser-focused on building
+cloud momentum through agility and great cost discipline. This resulted in a successful finish to
+the year, and I am personally extremely confident that we will carry this strong momentum into
+the new year.
+Customers around the globe continued to choose RISE with SAP to drive their end-to-end
+business transformations. Large cloud transactions with a volume greater than EUR5 million
+contributed 48% to our cloud order entry for the full year and an impressive 50% in Q4, the
+highest number on record.
+Now, let me dive into more details around our financial highlights. Current cloud backlog now
+exceeds EUR12 billion, continuing its growth at scale to 24%, despite being negatively impacted
+by approximately 1.5 percentage points from the divestiture of our Litmos business and the wind
+down of our business operations in Russia and Belarus. S/4HANA current cloud backlog growth
+accelerated to 82% driven by the strong adoption of RISE with SAP. In Q4 alone, we added moreCloud revenue this year surpassed support revenue and became the largest single revenue
+stream for SAP.
+Our combined SaaS and PaaS portfolio for 2022 continued to grow an impressive 27%, with SaaS
+cloud revenue up 25%, and PaaS cloud revenue up 45%. This strong cloud growth was primarily
+the result of an outstanding contribution of S/4HANA Cloud and the Business Technology
+Platform. Driven by this strong double-digit cloud growth and an outstanding performance in
+services, total revenue was up 5% year-over-year, showing great traction compared to the year-
+ago period.
+Now let's take a brief look at our regional performance, where in the fourth quarter, all regions
+delivered a strong double-digit cloud performance with Brazil, Germany, and Japan being
+standouts. For the full year, the Americas increased by 22%, EMEA by 26% and APJ likewise by
+26%. Germany, the United States and Japan had outstanding performances while Brazil, Chile,
+China, Italy, Saudi Arabia, South Korea, and Switzerland were all particularly strong.
+Now moving on to the bottom line where our cloud gross margin for the full year continued its
+upward trend from last year and expanded 2.1 percentage points to 71.3%. This increase was
+driven by expanding gross margins across all cloud business models, with efficiency gains
+overcompensating increased investments into the next generation cloud delivery program. The
+improvement of the cloud gross margin contributed nicely to our cloud gross profit growth of
+28%.
+In the fourth quarter, non-IFRS operating profit grew by 2%, reaching an inflection point in our
+cloud transformation towards double-digit growth in 2023. Full-year 2022 non-IFRS operating
+profit came in at EUR8.03 billion, a 7% decline, mainly impacted by the decision to wind down
+business operations in Russia and Belarus, a reduced contribution from software licenses revenue
+as well as accelerated investments into R&D and sales and marketing to capture current and
+future growth opportunities.
+Earnings per share decreased 39% to EUR4.08. The year-over-year decline reflects a contribution
+to financial income by Sapphire Ventures that, due to market conditions faced throughout the
+year, was significantly lower than in the same period last year. The IFRS effective tax rate for the
+full year was 44.6% and the non-IFRS tax rate was 29.5%. This year-over-year increase mainly also
+resulted from changes in tax exempt income related to Sapphire Ventures.
+Free cash flow for the full year came in at EUR4.35 billion, in line with the revised outlook of
+approximately EUR4.5 billion. This was predominantly due to lower profitability and adverse
+working capital impacts in other assets. While tax payments developed positively, smaller
+negative impacts came from share-based payments as well as capital expenditures and leasing.
+In addition, the increased volume of trade receivables sold in 2022 amounting to EUR800 million
+versus EUR500 million in 2021 had a positive impact on free cash flow.
+As you already heard from Christian, we will be initiating a targeted restructuring program this
+year with two main objectives. First, to focus our portfolio on our key strategic growth areas; and
+second, to improve overall process efficiency as we continue to accelerate our cloud
+transformation. We are highly confident in our short and mid-term prospects. We see 2023 as
+another pivotal year that will help deliver on the accelerating top line and double-digit operating
+profit growth that is reflected in our outlook.
+Finally, let's discuss our non-financial targets. Our greenhouse gas emissions were 95 kilotons
+within our adjusted target range. We remain on track to be net neutral in our own operations thisEmployee Engagement Index was down 3 percentage points. This decrease is in line with global
+industry trends and related to external factors such as the lasting impact of the pandemic and
+macroeconomic conditions. We achieved 35% of women in the overall workforce and 29.4%
+women in management.
+In November, we brought the latest release of SAP Sustainability Control Tower to market, which
+effectively shares and organizes ESG data so companies can more accurately and readily report
+their performance to various reporting requirements and frameworks. This enables companies to
+set targets in actionable insights into core processes and create role-specific actions to improve
+sustainability performance. As many of you may know, I not only have a passion for the financials,
+but also for sustainability and non-financial metrics. It has been an honor to drive this topic
+together with my colleagues during my tenure. We have been a pioneer in integrated reporting
+and it has been a privilege to have a role in shaping this area.
+So, to summarize, 2022 was another strong year for SAP, highlighted by our cloud performance
+across all regions, despite the macroeconomic environment. This demonstrates our continued
+progress with customers who want to transform their businesses into more intelligent
+enterprises. Even with the challenges that we are seeing in the world today, we are confident in
+the opportunity ahead. Our 2023 outlook best illustrates that we are now entering the next
+phase with a pivotal year characterized by business momentum acceleration.
+And finally, on a personal note again, as you all know, this is my 37th and final earnings call with
+SAP. And I'm proud to have been part of such a great company. As I am about to pass the torch, it
+is exciting to see that SAP is in such a position of strength and moving along on its growth
+trajectory.
+Let me also take the opportunity to share my own personal appreciation to all of you and to the
+broader financial market community. Providing transparency in an open and constructive dialogue
+has always been my goal. I hope that I was able to live up to this goal despite the often volatile
+times and the unprecedented transformation of our company in the last nine years. It has always
+been a privilege.
+Thank you very much and we will now be happy to take your questions.
+`Anthony Coletta, Chief Investor Relations Officer `
+All right. Thank you, Luka. And I would like to remind you to limit yourself to one question only,
+please. So, Natalie, please open the line.
+Questions And Answers
+Operator
+(Operator Instructions) And our first question is from the line of `Adam Wood, Analyst, Morgan Stanley from Morgan
+Stanley. Please go ahead.
+Q - `Adam Wood, Analyst, Morgan Stanley `
+Hi. Good afternoon, Christian. Good afternoon, Luka, and also, Luka, best wishes from my side for
+the future. So the question was just around the fourth quarter cloud growth. We went into the
+quarter with the 26% cloud backlog growth and ended Q4 with 24%. And yet, the cloud growth
+was 22%. Could you just help us understand why that anomaly is there and also help us
+understand how that accelerates into higher level 22% to 25% in '23? Perhaps, specifically, is
+there any issue with (Technical Difficulty) transactional[ph] revenue growth in that side of thebusiness that you are seeing in the fourth quarter that would have explain that, please? Thanks
+very much.
+A - `Luka Mucic, Chief Financial Officer `
+Yeah, thanks for the question, Adam. And let me get started and then in the overarching
+momentum, perhaps, Christian, you may want to add some comments, also Scott, on what you
+see in the market. So, essentially in the fourth quarter, I think you have to remember a couple of
+effects. One, and that is something that I flagged on the CCB growth to be expected. We had
+the divestiture of Litmos, which obviously affected CCB negatively and together with the
+continued effects from the Russia exit that resulted in the 24% CCB growth versus the 26% that
+we had. Actually, it's also sometimes a matter of rounding where you exactly end up on that. But
+we are actually very happy with the 24% that we reached. And I can also spend a few words on
+how we expect this to unfold in 2023. But just to round this up, on the revenue front, you need to
+take into account that next to all of those impacts, of course, the divestiture of Litmos also meant
+that we lost some revenue due to the closure, the early December. We had also the anniversary
+of the Clarabridge acquisition that Qualtrics had done in the fourth quarter a year prior, and that
+obviously then brought the year-over-year growth rates down a bit together with all of the other
+effects. Transactional revenues were actually quite resilient. In particular, in Concur, I have to say
+that business is back, and I was surprised actually a bit that in Q4, they were already back in
+volumes to the pre-pandemic levels. So they grew actually in the 20s, which was a very decent
+performance. So it's really mainly down to those divestiture impacts and the anniversary of
+Clarabridge.
+When we think about 2023, I would expect a gentle reacceleration throughout the year, already
+starting in Q1, because of the strong backlog that we have been building that always comes into
+the revenue lines with one to two quarters of delay. And so you should see already a
+reacceleration in Q1 that would then further build up during the year. I'm sure there will be more
+questions around seasonality, but I'll leave it on that comment for cloud revenues.
+And then in terms of the forward-looking momentum, I think, Christian has already talked about
+the great success that we had with BMW, the signing yesterday, but perhaps you want to add
+some more comments around what you see in the market.
+A - `Christian Klein, Chief Executive Officer `
+Yes, Luka, and also, Adam, from my side, I guess, we also provided for the first time today also
+the total cloud backlog, including not only the annual contract value, but the total value over the
+lifetime of the contracts. And there you're also going to see that we are also, in the meantime,
+have that EUR34 billion in the books and this has increased by 35% versus the 27% we saw a
+nominal growth in Q4. And so this is also signal that deals like BMW, I mentioned Porsche, I
+mentioned Merck, there are lot of large enterprises now following our move, and of course, they
+have a certain ramp in their contract. So we're actually super confident that we already have the
+backlog to deliver on our ambition for 2023, and even beyond, together with the recurring
+revenue share, I mean, the business is super resilient and I mean, for the year to come -- I mean,
+Scott, we look into Q1 already. Luka already mentioned, there will be a reacceleration in the cloud,
+no matter if it's now on customers like BMW where we're driving automation in manufacturing, in
+finance where we're working on analytics or if we're working on the supply chains of this world to
+make them more resilient or last but not least, if we are helping customers like Exxon and others
+to measure ESG in a standardized way and act on circular and other sustainability capabilities. The
+pipeline is actually very strong and we are as confident as we have been last quarter, and Luka
+mentioned the one-timers we had in Q4, especially in the cloud revenue.Scott?
+A - `Scott Russell, Head-Customer Success `
+Yes, look, probably only two comments to add to what you and Luka mentioned, Christian. So,
+Adam, the first is you would see in Q4 that we not only continued to grow and RISE is the enabler
+in the flywheel that Christian mentioned at the beginning in the total cloud backlog. The
+proportion of large customers continues to expand, that gives health to our broader portfolio. So
+we mentioned many of them today, but you think about Fujitsu, Natuzzi, Tech Mahindra,
+Sumitomo, Renault, the list goes on, so large organizations, which will have that ramp that
+Christian mentioned. And the reason why they're choosing SAP and RISE with SAP is because the
+market today needs companies they trust, more than ever trust in the technology, trust in the
+partnership, trust in the capability that delivers scale, resilience, outstanding capabilities that helps
+them navigate whether it'd be supply chain or sustainability or other aspects.
+And the other thing that we saw in Q4 was consistent performance across the world. We're a
+business that we see momentum in all of the regions. We -- obviously, Luka mentioned some of
+the countries, but that gives a level of confidence, but also strength that as we move forward, we
+have a consistent portfolio, we have a consistent business, and no matter where our customer is
+based and they're headquartered, they're trusting SAP to move forward. So I guess, we look
+ahead with relative confidence, not -- despite the factors that are outside of our control.
+Q - `Adam Wood, Analyst, Morgan Stanley `
+Appreciate the detailed answer. Thank you.
+A - `Anthony Coletta, Chief Investor Relations Officer `
+Thank you, Adam. We'll take the next question please.
+Operator
+The next question is from the line of `Amit Harchandani, Analyst, CIti from Citi. Please go ahead.
+Q - `Amit Harchandani, Analyst, CIti `
+Thank you. Hello, everyone. `Amit Harchandani, Analyst, CIti from Citi. And before I ask my questions, thank
+you, Luka for the partnership over the years. It's been a pleasure over the past decade.
+Moving on to my question, my question is really with respect to the free cash flow trajectory in
+2023. And if we look at it relative to what played out in 2022, quite a few moving parts, right, you
+had the sale of receivables, there's the dynamic around prepayments to hyperscalers, potentially
+deferred revenue, there's, obviously, restructuring next year. So if you could kindly help us build a
+bridge towards how we arrive at the free cash flow for 2023? And more importantly, how should
+we get confident that you're on track to get to EUR8 billion or potentially higher by 2025? Thank
+you.
+A - `Luka Mucic, Chief Financial Officer `
+Yes. Thanks for the question. That's a detailed one that I guess goes to me. So first of all, when
+you take a look at where we ended with the EUR4.35 billion and then you build up, there are a
+couple of elements here. First, on the negative front, yes you're right, we have a restructuring
+that will result also in cash outflows of roughly EUR300 million. So you need to subtract that, so to
+say, back.On the sale of receivables, actually, SAP has a long history of engaging in customer financing. In
+2022, the EUR800 million was actually a step-up over the roughly EUR500 million that we had in
+the year before. But you need to understand, the prior year was in the long-term average,
+actually quite a low figure. So the long-term average is more around EUR700 million. So we, yes,
+would expect that also in the future in 2023 and in the years beyond, we will have customer
+financing related cash inflows at the same levels as what we have seen in 2022. So that is actually
+more or less a wash in terms of how you build the bridge for 2023 and beyond.
+When you then think about the progression, well, first of all, of course, we expect that we will
+have a significantly higher profitability in 2023 compared to 2022 that will result also in a higher
+cash flow performance. You pointed to the fact that we had, in 2022, significant prepaid
+expenses from some strategic transactions that we did with hyperscalers that were kind of a
+working capital headwind for us, but made sense for us in the long run, because we were able to
+capitalize on better conditions as a part of that. So that is something that we don't expect to the
+same extent to see in 2023 or the further years. Then you need to keep in mind that we have
+started in 2022 to move our share-based compensation plans to equity settled plans. And under
+the old plans, we had actually a one-year vesting period and then essentially payouts on a rolling
+basis. That is now changing. And the majority of our awards that now start to vest actually already
+after six months will then be paid out in equity, so we will see starting this year and then with
+further increases of tailwinds in the following years as the old programs, the large cash-settled
+anniversary and therefore don't affect the cash flow anymore, a reduction to the point that we
+would expect in 2025 to end up only with roughly a bit more than EUR500 million of cash-settled
+cash flow headwinds, so to say in the results.
+And so it's basically mainly the combination of the increase in profitability as well as the positive
+impacts from the move to equity-settled programs that will define the trajectory. The receivables
+financing should be neutral for the performance in the future years as we would expect to finance
+similar volumes as we have done in the past. On the working capital impacts that were particularly
+pronounced in 2022, I would expect a slight moderation of those and then, it's at the end of the
+day, the growing profitability in the business where, obviously, we don't intend to rest with the
+growth that we have guided for in 2023, but actually see strong prospect to further increase the
+growth rates on the profitability side in 2024 and beyond.
+I hope that's helpful, at least at the level that we can cover in such a call.
+Q - `Amit Harchandani, Analyst, CIti `
+Thank you very much, Luka. Appreciate the detail.
+A - `Anthony Coletta, Chief Investor Relations Officer `
+Thank you, Amit. We'll take the next question, please.
+Operator
+The next question is from the line of `James Goodman, Analyst, Barclays from Barclays. Please go ahead.
+Q - `James Goodman, Analyst, Barclays `
+Yes. Good afternoon and thank you very much. And Luka, all the best for the next chapter. My
+question is on the Qualtrics announcement, if I could ask you to elaborate perhaps a bit further
+there on the rationale, why now when as you say the business has matured so much since the
+original acquisition and SAP has worked very hard around the integration with certain other assetsin the portfolio on the cross-selling opportunities as well? I mean, you talked about a strong
+ongoing relationship with Qualtrics clearly, but any detail there would be helpful, including those
+circumstances under which you would or wouldn't sell it given what's happened to valuations in
+the space and whether there's specific use of the proceeds. Thank you.
+A - `Christian Klein, Chief Executive Officer `
+Yeah. I'm happy to answer that question. And, look, when we did the first step with the IPO in
+2021, we already, of course, have thought and planned what could be actually the end goal and
+what could be our journey together. So you are right. We invested heavily in the last years into the
+integration and embedding XM into our solutions. And we have seen great sales success and go-
+to-market success, we tripled sales. But then also, I would say, around Q3, Q4, we were sitting
+together with the Qualtrics management team with Zig and Ryan and said, hey, actually, what we
+are doing we can continue to do also in the future by embedding Qualtrics and our products go
+to market together, while we can also consider a sale which allows SAP, on the one hand side, to
+free up investments and efforts to double-down on our growth in the core, which is super strong.
+You have seen the S/4HANA cloud numbers. The platform is booming. While Qualtrics can also, of
+course, go even more out and close another great partnerships with other partners in the market.
+And last but not least, we were jointly also of the opinion that we can significantly enhance also
+the value for the Qualtrics and the SAP shareholders. And that actually what made us came -- why
+we came to this decision to consider the potential sale. And it's a great asset. It's by far the best
+product in the XM category. So we are actually also seeing a lot of interest and we are very
+positive about the ongoing process.
+A - `Luka Mucic, Chief Financial Officer `
+Yeah. The process should also be straightforward because Qualtrics is really set up
+independently already since some time. They have a dedicated leadership team. They have a
+strong culture across the organization. So it's really straightforward, does not require any carve-
+out efforts or anything like that. But perhaps to just add to the rationale, I think, one financial
+reason that we are also taking seriously because we want to make sure we maximize value as
+Christian has said and to the shareholders of both Qualtrics as well as SAP is that we have seen in
+the -- in particular, in the last year, that while I think both Qualtrics and SAP make progress in the
+partnership and we drive good results, also Qualtrics, I think, had not only a decent performance
+in 2022, but is also now guiding to stronger profitability while continuing on its march to gain
+share in the experience management space. There is a certain level of overhang of the SAP
+majority share. And I believe that Qualtrics and SAP are not at the moment set up to optimally
+crystallize the value that is behind the company. And therefore, exploring that sale could be a way
+to unlock more of this value to the benefit of the Qualtrics shareholders and SAP at the same
+time.
+But it means, at the same time, that we absolutely expect this value to crystallize in order to
+ultimately then consider to consummate a transaction. So we will absolutely prioritize getting
+optimal value for a premier pristine cloud company that Qualtrics is. And we will prioritize this over
+timing and will certainly also be prepared to ultimately not consummate a transaction in the
+unlikely event that we would not generate the value that is fair for all stakeholders of Qualtrics,
+including also the SAP shareholders. And that's why we cannot, at this point in time, tell you with
+precision when this process would be over.
+We wanted to give you early insights and transparency around it, but that, of course, remains to
+be seen. And that means, at the same time, that also the use of proceeds is a question that iswe are able to strike a deal at a strong valuation, we would have a range of options with any
+proceeds, which could range all the way from reinvestment in some interesting assets around our
+core that are closely associated with our strengths, all the way to enhance capital returns to
+shareholders. We will determine this when we have greater visibility in the process. But it gives us
+great optionality, of course, to crystallize more value also for the SAP shareholders.
+A - `Anthony Coletta, Chief Investor Relations Officer `
+Thank you. Thank you, James.
+Q - `James Goodman, Analyst, Barclays `
+Thank you very much.
+A - `Anthony Coletta, Chief Investor Relations Officer `
+And we'll take the next question please.
+Operator
+The next question is from the line of `Michael Briest, Analyst, UBS from UBS. Please go ahead.
+Q - `Michael Briest, Analyst, UBS `
+Yes, thank you. Good afternoon. Luka, I can't let you get away without a question on cloud
+margins. Could you say a little bit about the convergence costs for 2022 and 2023 and how much
+of those went into the cost of sales rather than R&D? And then obviously, you've now got several
+thousand customers on RISE. Do you have a better view on where cloud margins are going to
+mature to in the next few years or certainly the end of this year as well, given that those
+investments will fade in the second half? Thank you.
+A - `Luka Mucic, Chief Financial Officer `
+Yeah. And you're always very welcome to post your cloud margin questions. That allows me to be
+the only one in the room who can answer them and that always makes me proud. Seriously
+speaking, in terms of the convergence cost, it was significant in 2022 as we accelerated in order
+to be ready in time to finalize the program. So we had round about EUR450 million in total costs
+associated with the harmonized cloud delivery program. That's significantly more double -- more
+than double, actually more than what we had in 2021. And approximately EUR200 million of those,
+with roughly EUR50 million per quarter, were actually spent on the cost of cloud line. This cost will,
+as I said, for a couple of quarters, fade away in 2023.
+There will still be a portion around in the first half of 2023, but substantially smaller already than
+the run rate that we have seen in 2022, can think roughly half of that run rate. And then, as we
+have now full visibility into the completion of the program, there's essentially only one line of
+business left with some data center migrations and then the final asset retirement, but that is
+absolutely certain now to happen on time. The second half year will be completely free of these
+cloud delivery harmonization related expenses. And therefore, in terms of the progression on the
+cloud margin front, you have seen that we had a decent progress already in 2022, more than 2
+percentage points against this headwind is actually already a very good progress. I would not
+have entirely expected this, to be quite honest, to be the case already this year.
+For the first half year, I'm also confident that despite the remaining headwinds from the program,
+you will already see some further acceleration in the cloud margin in the first half year. And thenobviously, a more pronounced one in the second half year. I would not be surprised if we had an
+exit rate ultimately at the end of the year in the neighborhood of what we always soft guided for
+2023, even a few years ago without the S/4HANA private cloud surge of round about 75% plus
+and minus. And again, the plus and minus is really the success in sales of S/4 in the private cloud
+deployment option in the first half year, because especially as you start the build of those
+landscapes, of course, you have a small ramp. Yet, you have already a relatively high level of cost
+and setup cost for those landscapes. So that's the remaining uncertainty here. But certainly, the
+exit rate will be significantly ahead of where we are currently.
+And then, for 2025, it's basically unchanged from what I said at our Capital Markets Day,
+assuming that RISE with SAP and S/4 private cloud remain as successful as they are today and we
+have more and more customers of the likes of BMW moving their entire landscapes in massive
+contracts to the cloud with us. There is going to be an increasing headwind against the continued
+progress in the public cloud that we expect now where, I would say, that all of our main assets will
+end up come 2025 above the 80% mark.
+But then again, with the dampening impact of the private cloud, we could end up a couple of
+percentage points below the 80% mark. But if that was the case, then we would actually have, at
+the same time, a massive surge in cloud gross profit, which would be actually more than an
+offsetting help to guide us towards our profit ambition for 2025. So that's a nice problem to have.
+And rest assured that we will stay focused as we have been in the last two years of pulling all of
+the available levers in order to further improve our performance. To a certain extent, the
+development of prepaid expenses that you saw in the free cash flow side and that we discussed
+are also a means to set us up for more efficient consumption of cloud infrastructure entitlements
+that will further help the cloud margin.
+A - `Christian Klein, Chief Executive Officer `
+And maybe just to prove, Luka, that also the CEO has some expertise in that subject. Michael, I
+mean, you should not expect -- I mean, now the infrastructure is clean. It's a clear set of -- on the
+one hand side, we have our own infrastructure, which is now completely harmonized. Yes, we
+have to do some work on the decommissioning. We have our hyperscaler strategy clear set and
+done with a lot of failover and backup scenario. So that's super modern and super resilient. But
+what we still do as part of our continuous efforts is, we are working on further scale out
+capabilities of our database, which has significant impact on the TCO.
+Scott did some great work on putting higher incentives on price versus volume and that led to
+also a very, very good trend on keeping also our prices up and running. We are infusing the CPI
+clauses. We announced in a very successful way, so both from an engineering perspective as well
+as from a pricing perspective, I'm actually very confident that we are also going to see some
+good levels also in the years ahead and know where we are also after Luka is not here anymore,
+there will be someone looking at this KPI very closely.
+A - `Luka Mucic, Chief Financial Officer `
+So, Christian, you have just proven that I have indeed been mentoring you very well.
+A - `Anthony Coletta, Chief Investor Relations Officer `
+Thank you.
+Q - `Michael Briest, Analyst, UBS `All the best, Luka.
+A - `Luka Mucic, Chief Financial Officer `
+Thank you. Thanks, Michael.
+A - `Anthony Coletta, Chief Investor Relations Officer `
+We'll take the next question, please.
+Operator
+The next question is from the line of `Johannes Schaller, Analyst, Deutsche Bank from Deutsche Bank. Please go ahead.
+Q - `Johannes Schaller, Analyst, Deutsche Bank `
+Yes, thanks for taking my question. And also Luka, thank you very much for the great collaboration
+over the last years. I may have missed that, but did you provide the cloud extension multiplier for
+the quarter. So that's just a housekeeping item. And then I think it's very useful that you give the
+total cloud backlog number now. How should we think about the kind of average duration or
+average contract lifetime of that number maybe?
+And then just on S/4HANA cloud, I mean, that continues to grow really impressively despite from
+a mathematical perspective, comps getting much tougher. So how should we think about that
+over the course of 2023 from a revenue and CCB perspective? Will that, at one point, normalize,
+or should we really be thinking about these great growth rates continuing? Thank you.
+A - `Luka Mucic, Chief Financial Officer `
+Yes, let me start with the more technical aspects here, in particular, around the cloud extension
+policy. So when you look at the full year, actually, the multipliers continue to hover rather around
+the 3x than the 2x factor. However, you will always have a seasonality in Q4 because you sign up
+the largest transactions that you have a slightly higher exposure. So for Q4, we had an extension
+factor of roughly 2.6 now, which still made it in total for the full year a 2.9 factor, so you see that
+this is substantially ahead. And I would also expect, as we go into the next year, that in the first
+half, we will rather have higher multipliers. And then as we sign up the very large deals, then it
+might moderate a bit. But this continues to show the same behavior as we have seen actually
+since we launched RISE. And you can see it also in the resilience of our support revenues, I mean,
+with those heavy software license declines having actually only a flat support revenue
+development for the year is actually very resilient. In absolute numbers, we had roughly EUR200
+million of support revenues that changed sides to the cloud line, so to say, over the entire
+business year. So this is very resilient.
+In terms of the total cloud backlog, I'm happy that you find it useful. And indeed, I think it follows
+the kind of verbal comments that we had already on the past earnings calls that we have seen
+the total order entry actually moving with even greater speed and pace in terms of growth than
+the annualized performance or the current cloud backlog, for that matter. It's a figure that we are
+currently prepared to produce on an annual basis. So we'll provide an update at the end of next
+business year as well. And in the meantime, we'll also provide color commentary on what we are
+seeing. But I would expect this trend to continue for a while, in particular, as long as our upgrade
+cycle of customers to S/4 and in the cloud is in full swing, which certainly will be the case for the
+next three, four years, because there you have then those large contracts with more significant
+ramps.Perhaps as a last case in point that we did not discuss yet, also the average contract duration at
+SAP in the cloud is up. It's, by now, almost reaching four years, and that is another function of
+those large multiyear deals that we are signing up. And so therefore, the TCB is actually a helpful
+measure even though, of course, as it's not broken down to individual business years. We'd
+rather give you a measure of the underlying orders that we have already under the belt for our
+midterm ambition, then a really good predictor of in-year revenues for the years beyond 2023.
+Perhaps on the S/4 cloud revenue number you might have a view, Christian, but I think it will
+certainly remain a high growth scenario for cloud.
+A - `Christian Klein, Chief Executive Officer `
+Yes, Luka. And this morning, I got also the question in the press conference, what about the end
+of maintenance for our ECC and older ERP version, and do we going to expand and extend this
+timeline again? No, we are not going to extend that, because we're actually giving customers
+already a lot of choice to move with us to S/4HANA. We still have on-prem and guaranteed until
+2040. But we, of course, see now in the meantime, big success with our move to the cloud with
+RISE. And we're seeing that a lot of customers are now left who are now starting with us in this
+journey. You have seen all the large logos. But also important to mention, while there is a lot of
+business left in our installed base, and we give customers choice, but the predominant share will
+move with us to the cloud, especially that the timeline is coming closer with 2027. But of course,
+we also have seen 50% net new customer share, and we are putting a lot of work currently into
+our volume business. So let's not forget with Julia, Scott and Thomas, we are working now on --
+we have customers like Doctolib unicorn who actually celebrate go-lives in weeks, and we want to
+activate this channel even more because the product is really designed also for the small and the
+midsized customers. So while we are moving the large ones and the installed base, we're
+definitely also not going to rest on the small and midsized segment, and we see good business
+coming in there. We want to activate the channels here much stronger across the world.
+And last but not least, I mean, what we are doing also with the restructuring, look, this has a
+moderate impact on 2023, but we're already doing this now also for the years to come, to also
+have the strong results, especially also both top and bottom line. But also even more important,
+we also, with this strategy, activate our cross-sell potential, because the BTP is now de facto
+standard, S/4HANA is booming, and then we can also increase the win rates of our applications
+who are circumventing the core, as we have shown on this one slide. That is working, and this is
+what we are doubling down on. So you can definitely expect a further acceleration. But at a
+certain point, we should really look at the absolute terms because, of course, mathematically, the
+percentage growth rates, this is just mathematically, then at a certain point of time, a question
+mark.
+Q - `Johannes Schaller, Analyst, Deutsche Bank `
+All right. Very clear. Thank you, Christian. Thank you, Luka.
+A - `Anthony Coletta, Chief Investor Relations Officer `
+Thank you. We'll take another question.
+Operator
+The next question is from the line of `Stefan Slowinski, Analyst, BNP Paribas Exane from BNP Paribas Exane. Please go ahead.
+Q - `Stefan Slowinski, Analyst, BNP Paribas Exane `Yes, hi, thanks for taking my question. And Luka, all the best as well in your next endeavor. I
+enjoyed working with you over these past few years. So I just wanted to follow up, I guess, two
+quick points. Just on the hyperscaler relationships, obviously, they're seeing a bit of pressure in
+terms of consumption. Does that give you an opportunity to negotiate some better bulk
+transactions? And is that maybe what we saw there in Q4? And can that also be a tailwind to
+margin?
+And then just a second one on the backlog, you just talked about the multipliers, the visibility
+there. How confident are you about getting to double-digit revenue growth? Could that happen
+as early as 2024 or would that require sort of a much better macro environment in 2024? Thank
+you.
+A - `Christian Klein, Chief Executive Officer `
+On the hyperscaler engagements, I would definitely say, yes, the environment is good. We're, of
+course, in constant talks around our partnership, both technical as well as commercially. And
+second, about double-digit total revenue growth, 2024, it's -- yes, absolutely, it's possible. And as
+you're going to see the recurring revenue shares growing and growing, we are talking about 83%
+already in 2023. It's absolutely feasible to come to double-digit total revenue in 2024.
+A - `Luka Mucic, Chief Financial Officer `
+This is clearly our ambition, yes, Stefan.
+A - `Anthony Coletta, Chief Investor Relations Officer `
+Thank you, Stefan.
+Q - `Stefan Slowinski, Analyst, BNP Paribas Exane `
+All right. Very clear. Thank you very much.
+A - `Anthony Coletta, Chief Investor Relations Officer `
+Thank you. And we'll take one last question.
+Operator
+The last question is from the line of `Toby Ogg, Analyst, JP Morgan from JP Morgan. Please go ahead.
+Q - `Toby Ogg, Analyst, JP Morgan `
+Yes, hi, thanks for taking the question. And Luka, all the best for the future. Just thinking about the
+EBIT growth trajectory that we're on, clearly, minus 8% in Q3, plus 2% in Q4. How should we think
+about this phasing as we move through '23? If I look back through '22, it looks as though the
+easiest comps are in Q1 and Q2, but also mindful there are now cost savings in the mix here as
+well and there's a phasing element to that. So could you just help us understand the exact
+phasing or the trajectory of the EBIT growth through '23? Thank you.
+A - `Luka Mucic, Chief Financial Officer `
+Yes, absolutely. Thanks for the question. I have actually expected it and waited for it as it's a very
+good one. So we actually believe that our easiest compares, and therefore, the best
+performance will be in Q2 and Q3. In Q2, for the obvious reason that last year, we had theit will be the first quarter where we will be entirely free of the cloud delivery harmonization
+expenses, and that will be a significant help to the P&L then. The difficult, the toughest compares
+are actually Q1 and Q4 for different reasons. In Q4, it's because last year, we had the Litmos
+divestiture, which brought a one-time gain of EUR109 million in non-IFRS results, and that is not
+something that at the moment we have in our planning for Q4 of this year. And Q1, because it
+was still relatively unaffected by the Russia exit. And you cannot -- you must not forget that we
+had still, in the first quarter, some revenues in Russia, mainly in support revenues and also in cloud
+revenues. And for 2023, essentially, we plan with zero revenues in Russia. Nevertheless, I would
+say already, in Q1, we should be pretty close to, if not already achieving a double-digit growth.
+Then we would have in Q2, the highest growth of the year followed by another very decent
+performance in Q3. And then in Q4, the growth should moderate again. And for the future years,
+again, we are expecting an accelerating trajectory because then in '24, the entirety of the cloud
+delivery harmonization program will be behind us, and that will, of course, provide next to
+additional efficiency gains that we expect across our business, and further progress on the cloud
+margin will provide some significant further relief. I hope that's helpful from a planning
+perspective.
+Q - `Toby Ogg, Analyst, JP Morgan `
+That's great. Thank you.
+A - `Anthony Coletta, Chief Investor Relations Officer `
+All right, thank you. And this concludes our call for today. Thanks for joining.
+A - `Christian Klein, Chief Executive Officer `
+Thanks a lot.
+A - `Luka Mucic, Chief Financial Officer `
+Yes, thank you very much. Thanks, everybody.
+Operator
+Ladies and gentlemen, the conference has now concluded and you may disconnect. Thank you.

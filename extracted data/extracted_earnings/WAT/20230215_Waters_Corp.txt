@@ -1,0 +1,791 @@
+Q4 2022 Earnings Call
+
+Presentation
+Operator
+Good morning and welcome to the Waters Corporation Fourth Quarter 2022 Financial Results
+Conference Call. All participants will be in a listen-only mode until the question-and-answer
+session of today's call. This conference is being recorded. If anyone has any objections, please
+disconnect it this time.
+It is now my pleasure to turn the call over to Mr.`Caspar Tudor, Head, Investor Relations, Head of Investor Relations. Please
+go ahead, sir.
+`Caspar Tudor, Head, Investor Relations
+Thank you, Catherine. Good morning, everyone and welcome to the Waters Corporation Fourth
+Quarter Earnings Call. We're very pleased to be speaking to you from Santa Barbara this morning,
+where Wyatt Technology is located. We've a lot to cover today, given our exciting -- given our
+earnings results and our exciting announcement.
+Today, I am joined by Dr.`Udit Batra, President and Chief Executive Officer, Waters' President and Chief Executive Officer; and Amol
+Chaubal, Waters' Senior Vice President and Chief Financial Officer. We're also glad to be joined
+by Wyatt Technologies' Chief Executive Officer, Geof Wyatt as well as its President, Cliff Wyatt.
+Now, before we begin, I will cover the cautionary language. In this conference call, we will make
+various forward-looking statements regarding future events or future financial performance of
+the company. In particular, we will provide guidance regarding future possible results and
+commentary on potential market and business conditions, including with respect to the
+announced transaction with Wyatt that may impact Waters Corporation over the first quarter of
+2023, full year 2023, and 2024.These statements are only our present expectations and actual events or results may differ
+materially. For more details, please see the risk factors included in our most recent annual report
+on Form 10-K, Form 10-Q's, and the cautionary language included in this morning's earnings
+release.
+During today's call, we will refer to certain non-GAAP financial measures, including in our
+discussions of the results of operations. Reconciliations of the non-GAAP financial measures to
+the most directly comparable GAAP measures are attached to our earnings release issued this
+morning and in the appendix of our presentation, which are available on the company's website.
+Unless stated otherwise, references to quarterly results increasing or decreasing are in
+comparison to the fourth quarter of fiscal year 2021. In addition, unless stated otherwise, all year-
+over-year revenue growth rates and ranges given on today's call are given on a comparable
+constant currency basis. Finally, we do not intend to update our predictions or projections, except
+as part of a regularly scheduled quarterly earnings release or as otherwise required by law.
+Now, I'd like to turn the call over to our President and Chief Executive Officer, Dr.`Udit Batra, President and Chief Executive Officer. Udit?
+`Udit Batra, President and Chief Executive Officer `
+Thank you, Caspar and good morning, everyone. Before diving in, I would like to extend our
+thoughts and our prayers to the thousands of those who are affected in turkey and Syria by the
+earthquakes.
+Today, marks a major milestone in accelerating value creation for our customers and
+shareholders, as we progress to the next step in the execution of our strategy. This morning, we
+made the exciting announcement that Wyatt Technology, the recognized leader in light scattering
+will be joining forces with Waters. Bringing with it, a fast-growing, attractive business with key
+capabilities to accelerate our $1.8 billion double-digit growth opportunity in bioprocess
+characterization.
+More than 40 years ago, Wyatt was the first commercialized light scattering instruments,
+incorporating lasers as their light source. Ever since, they've defined and redefined state-of-the-
+art light scattering instrumentation, software, and services. Along the way, they've also added
+several related technologies, including dynamic light scattering, viscometry, refractometry, and
+field-flow fractionation.
+Together, their innovative products are used to determine the properties of novel therapeutics
+such as, TALEN gene therapy, vaccines, and proteins as well as synthetic polymers and nano
+particles. Wyatt was the top asset and priority we identified for bioanalytical characterization,
+making the acquisition a significant step forward in this high growth adjacency.
+I would like to take this opportunity to invite, Geof, and, Cliff, to say a few words about this
+exciting combination. Geof?
+`Geofrey Wyatt, Chief Executive Officer, Wyatt Technology
+Thank you, Udit. We're thrilled to be with you here today at this incredible moment for our
+company. For over four decades, Wyatt Technology has delighted customers with industry
+leading innovation in light scattering, characterizing, life-enhancing large molecule therapeutics.
+Our common scientific heritage, deep mutual respect for science-based innovation, and a
+passion for customer success makes Waters, the ideal steward to propel our family legacy into itsNow, Cliff, would you like to add anything?
+`Clifford Wyatt, President, Wyatt Technology
+Sure. Thank you, Geof. I would like to echo your comment and also my father's Dr.Wyatt's
+sentiments that we could not have been more excited or could not be more excited about this
+combination. Waters will broaden Wyatt's global reach, scale and would accelerate deployment
+of light scattering technologies in downstream and QA/QC spaces, integrating this technology
+onto Waters' well-established Empower platform. Waters is such a natural and logical fit for us in
+this next exciting chapter of Wyatt's history.
+`Udit Batra, President and Chief Executive Officer `
+Thank you, Geof, and thank you, Cliff. We're honored to get this unique opportunity to carry
+Wyatt forward into the future. This combination is a fantastic opportunity to integrate our
+powerful analytical technologies, which are highly complementary to each other.
+And as you highlight a chess our shared, deep scientific culture and common passion for
+customer success will accelerate integration and drive value creation for our customers and
+shareholders in the years to come.
+Today what else has a strong and growing portfolio serving large molecules separation and
+characterization, which are approximately 30% of our pharmaceutical revenues. These
+applications serve high-volume, downstream workflows in biologic development and QA/QC
+central labs, using LC-UV and LC MassSpec. Wyatt's significant exposure to the very fast-growing
+biologic applications will build on this presence and give -- and we'll give our customers an
+unmatched set of analytical solutions across large molecules, including gene therapy and viral
+vectors.
+For Wyatt, as Cliff mentioned, this combination will provide expanded geographic reach and will
+accelerate the adoption of light scattering in downstream applications through our established
+presence and Empower informatics platform. As you can tell, we're excited to share more details
+about the strategic benefits of this combination. However, this is our fourth quarter and a full
+year's earnings call and we've some excellent results to share with you first.
+So now, I will cover our key messages and financial results for the core business. Then we will
+continue outlining the value of this combination as we take this next step in the evolution of our
+strategy.
+Looking at our financial results, we ended another very successful year delivering strong results in
+the fourth quarter with growth across our end-markets. This was led by yet another outstanding
+double-digit instrument growth quarter. Our incredible performance this year would not have
+been possible without our dedicated and talented colleagues. We overcame numerous
+macroeconomic and pandemic related challenges throughout 2022, including global supply chain
+challenges, COVID lockdowns, inflationary pressures, and currency headwinds, all while
+responding to high customer demands for our products.
+Today, we've three key messages, which reflect the strength in our core business and the
+exciting future that lies ahead. First, we continue to deliver consistently strong execution. You can
+see this in our 2022 performance, where we sustain strong growth after a stellar year in 2021. You
+can also see this in three-year CAGR of approximately 9% in constant currency, where our results
+have placed us among the top players in the industry since the beginning of our transformation.Second, our revitalized portfolio has contributed to our growth and we expect this to continue.
+New products have resulted in growth opportunities in large molecule, applications, p-fats and
+battery testing, while supporting strong core instrument replacement. Third, while they have
+accomplished a lot in the past 2.5 years, we're now augmenting our organic efforts with M&A to
+accelerate our journey into high-growth adjacencies.
+Turning now to our fourth quarter results. Our revenue growth 3% as reported and 9% on a
+constant currency basis. We saw broad spent across our end markets and regions with robust
+customer demand.
+Industrial was again our fastest growing end market up 14%, led by environmental testing which
+grew over 20% and TA, which grew mid-teens. Pharma saw continued robust growth up 6% with
+strength in both small and large molecule applications. Strength was led by Europe, which grew
+low double-digits offset by headwinds in China.
+Academic and government grew 8% as increased activity and funded -- funding resulted in strong
+year-end spending in several of our geographies. Instruments grew double digits that by
+MassSpec, new products contributed across our portfolio with Arc HPLC, ACQUITY Premier, and
+cyclic unit sales growing over 40%.
+Meanwhile, our newest instrument launches Xevo TQ Absolute and Xevo G3 saw excellent
+continued tractions with very strong demand. Recurring revenues grew high single digits
+supported by our e-commerce and service attachment growth initiatives. Our Q4 non-GAAP
+adjusted earnings per share was $3.84. This is up 5% year-over-year despite FX headwinds of
+8%.
+For the full year, revenue grew 7% as reported and 12% in constant currency. 2022 was a very
+strong year for Waters, where be executed well throughout the organization against a
+challenging macroeconomic environment.
+Our growth was broad-based across geographies and end-markets, each of which grew low
+double-digits or above. This strength was led by instrument sales, which grew 16% for the year
+with LC, MassSpec, and TA systems all going double-digits. For the full year, non-GAAP adjusted
+earnings per share was $12.02, up 7% year-over-year, despite FX headwinds of 9%.
+Now, as we enter 2023, our end-markets remain robust and healthy, with strong customer
+demand for products. These attractive end-markets are durable growth drivers and are well
+funded. We saw solid auto growth in the fourth quarter and our backlog remains at elevated
+levels. We expect the strong instrument sales we saw in 2022 to drive future growth in our
+recurring revenues.
+So, our end markets are healthy, we've regained our commercial momentum, innovation has
+been revitalized and we've strengthened our organization with new leadership capabilities,
+bringing a proven track record in transformation.
+Now, we're entering the next phase of our execution strategy as we accelerate our path toward
+faster growth. This brings us now to the chart on the next slide. As you can see, biologics
+manufacturing is a complex process and we've shared an example which shows how large-scale
+monoclonal antibodies are produced. It starts with the upstream production of the drug
+substance, where the raw materials components are fingerprinted and monitored during initial
+cell culture creation before the protein or antibody of choice is produced.Then in downstream manufacturing cells and debris are separated from the map in a series of
+filtration and separation steps. Each step involves numerous stages of testing to ensure that the
+product is stable and effective. Then as a last step in QA/QC, the final purified drug product is
+formulated and filled in vials or prefilled syringes. Throughout the process, different tools and
+technologies are required for characterization, depending upon what you need to analyze.
+Liquid chromatography with ultraviolet detection or LC-UV is used extensively across all four
+states -- all four stages. At the same time, MassSpec is increasingly being used with BioAccord
+seeing a lot of traction in cell culture media characterization, clonal selection and process
+optimization in both upstream and downstream manufacturing. It is also seeing adoption in
+QA/QC applications. We shared details on this at the beginning of the year and have included a
+slide in the appendix.
+In addition to LC-UV and LC-MS, powerful techniques such as dynamic light scattering, and multi-
+angle light scattering are also used to give relevant information about the size or the molecular
+weight and aggregation of biologics. By combining the data of each -- from each of these
+detectors, our customers can develop a more comprehensive profile of their biologics. This is
+essential to speeding up the manufacturing products process and reducing the cost of complex
+biologics such as cell and gene therapies.
+The bioanalytical characterization market is around $1.8 billion, growing around 10% to 12%. Waters
+already has a strong, established position in LC-UV and LC MassSpec, whereas Wyatt Technology
+biotechnology is a pioneer in light scattering. Hence, this combination is a fantastic opportunity to
+integrate our powerful analytical technologies, which are highly complementary to each other and
+will accelerate our journey in this opportunity.
+Let me now ask, Geof, to describe the company and its highly innovative portfolio. Geof?
+`Geofrey Wyatt, Chief Executive Officer, Wyatt Technology
+Thanks again, Udit. Well, Wyatt is a remarkable company and we owe much of its success in high-
+growth applications to our amazing team. Our flagship technology is multi angle light scattering
+mold, which is used by leading biopharma, biotech, and academic institutions to measure
+fundamental properties of complex biologics, including cell and gene therapies, mRNA vaccines,
+biopolymers, biosimilars, and therapeutic proteins.
+We're based here in Santa Barbara, California. And have 225 outstanding employees of whom
+roughly 25% have PhDs. Over the past 40 years, we've built Wyatt into the recognized leader in
+light scattering detection, defining the segment, very much like Waters did for liquid
+chromatography and mass spectrometry.
+Our sales have grown around 20% on the three-year CAGR to approximately $110 million in 2022.
+We're also a highly profitable business with an adjusted operating margin approximately of 40%.
+More than 80% of our revenues are in large molecule applications.
+Our biopharma customers are eager to use light scattering for QA/QC applications and have
+been keen for us to combine our software with Empower. So, you can you can only imagine how
+excited we're with this combination, which will add additional choices and capabilities for our
+existing customers and let us delight even more.
+Now, back to you Udit.
+`Udit Batra, President and Chief Executive Officer `Thank you, Geof. I look forward to welcoming our new colleagues to the Waters. Let's now talk
+about some of the benefits that integrating Wyatt and Waters capabilities that provide for our
+customers.
+In our existing Waters' portfolio, our LC system separate complex mixtures into individual
+constituents or bulk property analysis by UV and detailed characterization by MassSpec. These
+are properties such as tighter, aggregation and protein sequence. The missing piece has been
+additional critical information about the INTACT molecule like the empty full captured ratio of
+adeno-associated viruses or the size of lipid nanoparticles or mRNA therapies.
+These will be augmented by Wyatt's MALS detectors, which will allow our customers to develop a
+more comprehensive, critical quality attribute profile for their biologics. This is essential to fully
+characterizing their manufacturing process. In each case for these tools to gain successful
+adoption in point of view settings, they must be number one, sophisticated, but simple for use in
+high volume applications, such as what we've already demonstrated with BioAccord.
+Number two, supported by leading service like Waters already has to help run workflows and
+respond to evolving needs. And number three, and most importantly, they need to be connected
+to a common informatics platform, so that all the data comes together in one place.
+Our ambition is to create an ecosystem of sophisticated, yet simple instruments that can all use
+Empower to collect data and submit to regulators. No differently than what Waters established
+for small molecules years ago. This transaction will create a number of compelling revenue
+synergies and results in an attractive set of pro forma financials.
+First from a geographic footprint, Waters' revenues are highly diversified, whereas Wyatt's
+presence is concentrated in the United States. This provides us an opportunity to expand Wyatt's
+geographic footprint in Europe and Asia, particularly in China.
+Second, HPLC instruments and size exclusion, chemistry columns are sold together with light
+scattering instruments. We expect to see cross-selling synergies with our liquid chromatography
+instruments and chemistry.
+Third, bias instruments and expertise will enable Waters to meaningfully accelerate the high-
+growth adjacency opportunity in bioanalytical characterization. This will give our customers an
+unmatched set of analytical solutions across large molecule applications and will augment our
+ability to create a comprehensive bio-analytical platform.
+And fourth, Waters' -- fourth, Wyatt's portfolio is well established in upstream development
+setting -- settings for large molecule applications today. Waters Empower platform as well as
+presence -- as well as our presence and expertise in high-volume downstream recurring
+applications will accelerate the use of light scattering in biologics manufacturing and in QA/QC.
+Now, to the pro forma. The combination will increase our large molecule footprint to around 35%
+of our pharmaceutical revenues. Our increased exposure to these faster growing markets will
+raise the combined growth profile of the markets we serve by at least 50 basis points.
+We expect the transaction to contribute more than 60 basis points to our annualized constant
+currency growth over the next five years. We also expected to add more than 50 basis points to
+our industry-leading adjusted operating margin. Net, we expect to realize a high single-digit plus
+return on invested capital by year five. Although, we expect the Wyatt business to grow low
+double-digits in the near to mid-term. In addition, we expect this combination to create more
+than $70 million in annualized revenue synergies by year five.Now, I would like to pass the call to, Amol, to walk us through further details on the financing. He
+will then continue covering our fourth quarter financial performance and provide our guidance for
+2023. Amol?
+`Amol Chaubal, Senior Vice President, Chief Financial Officer `
+Thank you, Udit and good morning, everyone. It's been great to work with Geof, Cliff, and the
+entire team at Wyatt Technology. Like, Udit, I'm very thankful to the Wyatt family for considering
+us as the rightful stewards of their mission and legacy and for providing us this opportunity to
+create value for our customers and for our shareholders.
+Now, to the transaction highlights, this $1.36 billion investment will result in immediate accretion of
+our revenue growth and our adjusted operating margin percentage. The synergies that, Udit, just
+described, along with Wyatt's highly attractive financials are expected to result in accretive non-
+GAAP EPS impact as early as first quarter of 2024.
+Altogether, as Udit mentioned, this combination is expected to deliver a high single-digit plus
+return on invested capital by year five. We will fund this investment through cash in our balance
+sheet and existing debt capacity that is available on our revolver.
+On day one, our net debt-to-EBITDA ratio will be around 2.3. We will temporarily suspend our
+share buyback program for the remainder of 2023 and will utilize our free cash flow to pay down
+the debt through the rest of the year. We expect our net debt-to-EBITDA ratio to land at around
+1.7, by year-end 2023. The transaction is expected to close in the second quarter of this year,
+subject to regulatory approval and customary closing conditions.
+Now, to our fourth quarter financial results. We delivered an excellent close to a very strong year
+for Waters with constant currency growth of 9%. Waters' division group 8% and TA grew 15%. By
+end-market for pharma grew 6%, industrial grew 14% and academic and government group 8%,
+which, Udit, already covered.
+By geography sales in Asia grew 7%, America's grew 8% and Europe grew 11%. In Asia, growth in
+the region overall was strong. Japan grew 25% and India grew 15%. China has declined low
+single-digits for the quarter as a sharp increase in COVID infections at year end resulted in
+delayed spending due to customer site closures.
+We expect these headwinds from the post zero-COVID reopening to continue into the first
+quarter of 2023 before catching up throughout the remainder of the year. In other regions, the
+U.S. grew 8% and Europe grew 11% with broad sense across end-markers. By products and
+services instruments grew 10% led by MassSpec, which grew over 30%. Recurring revenues grew
+7%, with chemistry up 8% and service up 7%.
+Finally, TA grew 15% with double-digit growth across our major geographies. Growth was led by
+sales in electronics and battery applications as well as strong growth in advanced materials and
+chemical testing.
+Looking now at our full-year results by end-market. Pharma grew 10%, industrial grew 15%, and
+academics and government grew 13%. In Pharma, growth was led by large molecule applications,
+which grew mid-teens, while small molecule grew high single-digits.
+By geography, sales in Asia grew 12%, Americas grew 14% and Europe grew 10%. Wyatt products
+and services, instruments grew 16% for the full-year with Liquid Chromatography, MassSpec, and
+TA system sales all up double-digits.In our recurring revenues, chemistry grew 9% supported by our strong launch of MaxPeak Premier
+columns in large molecule applications and further expansion in digital commerce adoption.
+Service grew 8% with continued expansion in attachment weights, which increased 150 basis
+points in 2022 and have increased 350 basis points since 2019.
+Now, I would like to comment on our fourth quarter and full year non-GAAP financial performance
+versus the prior-year. Gross margin for the quarter was 59.4% up 140 basis points versus prior
+year, driven by sales volume and pricing, partially offset by inflationary costs.
+For the full year, gross margin came in as expected at 58%. Operating margin for the quarter was
+33.7% growth of 110 basis points versus prior year, driven by gross margin dynamics. For the full
+year, operating margin was approximately 30.2%, which was flat with last year.
+On an underlying basis, we expanded our operating margins by approximately 100 basis points
+versus our guide of 20 basis points to 30 basis points at the beginning of the year. This is narrow
+for investments in our growth adjacencies and despite higher instrument mix in our revenue. On
+an as reported basis, our expansion was offset by 80 basis points of FX headwinds and 20 basis
+points of additional compensation to help our colleagues with the temporary impacts of inflation.
+In the quarter, our effective operating tax rate was 17.6% and for the full year, it was 15.6%. For the
+full year as anticipated, our effective tax rate increased by 180 basis points, primarily due to
+change regarding the capitalization of R&D costs. Average share count came in at 59.6 million
+shares, which is about 1.8 million less than the fourth quarter of last year.
+Our non-GAAP earnings per fully diluted share for the fourth quarter increased 5% to $3.84
+compared to $3.67 last year. Foreign exchange headwinds lowered our non-GAAP EPS growth by
+8%. On a GAAP basis, our earnings per fully diluted share was $3.81.
+For the full year, our non-GAAP earnings per fully diluted share increased 7% to $12.02 versus
+$11.20 in the prior year. The foreign exchange had been lowered our non-GAAP EPS growth by
+9%. On a GAAP basis, fully earnings per share was $11.73.
+Turning to free cash flow, capital deployment, and our balance sheet. We define free cash flow as
+cash from operations, less capital expenditures, and excludes special items. In the fourth quarter
+of 2022, free cash flow was $145 million after funding $62 million of capital expenditures,
+excluded from this free cash flow was $8 million related to the investment in our Taunton
+precision chemistry operations. In the quarter, we continued to build inventory to secure supply
+and build safety stock, given strong instrument demand.
+For the full year, free cash flow was $506 million, after funding $176 million of capital expenditures
+and includes approximately $100 million of additional inventory versus the prior year-end.
+Excluding -- excluded from the free cash flow was $32 million related to the investment in our
+Taunton precision chemistry operations and a $38 million tax reform payment.
+We maintained a strong balance sheet access to liquidity and a well-structured that maturity
+profile. This strength allows us the ability to prioritize investing in growth including M&A, which will
+meaningfully accelerate value creation in well-thought out attractive adjacent markets.
+In Q4, we repurchased approximately 475,000 shares of our common stock for $149 million. At
+the end of the quarter, our net debt position was approximately $1.1 billion with a net debt-to-
+EBITDA ratio of about 1.1.Now, as we look towards the year ahead, I would like to provide you with our thoughts for 2023.
+We've seen strong performance throughout 2022, driven by robust end market demand,
+excellent commercial execution across our geographies and new production introductions driving
+growth. As we enter 2023, we expect our sales momentum to remain solid in our durable end-
+markets and there are refreshed portfolio and growth initiatives will continue to enhance our
+performance.
+This dynamic support a full year 2023 guidance of organic constant currency sales growth of 5%
+to 6.5%, excluding Wyatt. At current rates, negative currency translation is expected to subtract
+approximately 1 percentage point, resulting in full year reported organic sales growth guidance of
+4% to 5.5%.
+We expect the Wyatt transaction to close in the second quarter of 2023 and depending on the
+timing, we expect it to add approximately 2% to 3% to our full-year 2023 revenue probes.
+Therefore, our total reported sales growth guidance is 6% to 8.5% versus 2022, including Wyatt.
+For the full year 2023, organic gross margin is expected to be approximately 58% and organic
+operating margin is expected to be approximately 30%. Before FX, this includes 20 basis points
+to 30 basis points of net margin expansion after 70 basis points to 80 basis points of investment
+in high-growth adjacencies. FX is expected to be a headwind of 50 basis points, particularly in the
+first half of the year.
+The addition of Wyatt in Q2 is expected to be accretive to our full year 2023 adjusted operating
+margin by 20 basis points to 30 basis points. Excluding the transaction, we expect our full year
+net interest expense to be approximately $42 million. The transaction is expected to add $27
+million to $43 million of additional interest expense, depending on the timing of the close.
+The full year tax rate is expected to remain at approximately 15.5%. Since we will be temporarily
+suspending our share repurchase program for the remainder of the year and using free cash flow
+to pay down debt, our average diluted 2023 share count is expected to be approximately 59.5
+million.
+Rolling all this together on a non-GAAP basis, our full year 2023 earnings per fully diluted share
+guidance, excluding the transaction is projected in the range of $12.70 to $12.90. This represents
+6% to 7% growth versus last year and includes a negative currency impact of approximately 3
+percentage points at current FX rates. Though, Wyatt transaction is expected to be accretive to
+EPS as early as in the first quarter of 2024. And this is even net of our share buyback suspension
+for the remainder of 2023.
+Overall, we expect to deliver a high single-digit plus adjusted return on invested capital name of
+tax by your five. Due to interest expense incurred on higher debt balance and the suspension of
+share repurchase program this year, the transaction is expected to result in
+a 2023 EPS headwind of approximately $0.15. Hence, including Wyatt, non-GAAP full year 2023
+earnings per fully diluted share is projected in the range $12.55 to $12.75.
+Looking to the first quarter of 2023, we expect constant currency sales growth to be 4% to 6%,
+which is 10% to 11% on a two-year stacked growth. At today's rates, currency translation is
+expected to subtract approximately 4 percentage points, resulting in first quarter reported sales
+growth guidance of flat to 2%. First quarter non-GAAP earnings per fully diluted share are
+estimated to be in the range $2.55 to $2.65 with the negative currency impact of approximately 6
+percentage points.Now, I would like to turn it back to this for some summary comments. Udit?
+`Udit Batra, President and Chief Executive Officer `
+Thank you, Amol. As I outlined at the beginning of our transformation journey and later at our
+Investor Day last year. Our first focus was to regain our commercial momentum and strengthen
+our organization with new leadership capabilities.
+As you have observed, over the last 2.5 years, we've delivered incredible results with consistently
+strong execution. And we've assembled an amazing leadership team that brings with it a proven
+track record in transformation, which is pivotal to driving seamless integration.
+Our second focus was to revitalize our portfolio. The success of our new product launches, the
+increased vitality index of our portfolio, and the rich pipeline ahead of us underscores our
+accomplishments this year. Today, we're entering our next phase, which is to accelerate value
+creation for our customers and shareholders by adding a fantastic fast-growing technology
+platform and increasing our capabilities to address high-growth adjacent markets.
+So, with that I'll turn the call back over to Caspar.
+`Caspar Tudor, Head, Investor Relations
+Thank you, Udit. That concludes our formal comments and we're now ready to open the phone
+lines for questions.
+Questions And Answers
+Operator
+(Question And Answer)
+We'll now begin our formal question-and-answer session. As advised, please limit your questions
+to one and one follow-up. The first question is coming from `Luke Sergott, Barclays of Barclays. Your line is
+open.
+Q - `Luke Sergott, Barclays `
+Hey, guys. Thanks for the question here. So, I guess before we get into Wyatt, can you kind of
+give us a sense on continued instrument strength you guys shared a lot? Your visibility here, how
+the backlog built mass spec up over 30%, that's from the strength in the business building here
+the last six months, any kind of color here we can get going forward on that on the new
+instrument launches there and the revitalization.
+A - `Udit Batra, President and Chief Executive Officer `
+Sure. Sure, Luke. Thank you for the question. So instrument growth, I mean, in the quarter again
+finished with double-digit instrument growth. For the year, it's 16% and it's really across the board,
+right? For the full-year, you see, mass spec well into the 20s, TA in the high teens, LC also in the
+double-digit range and this is largely due to the success of our commercial initiatives which were
+around instrument replacement and really focusing on our new product launches. And there
+you've seen a complete revitalization of the portfolio, especially, on the mass spec side where
+we gained traction in biologics application with the Xevo G3, with the BioAccord, more recently
+with the Cyclic and the Xevo TQ Absolute for food and environmental applications on the light --
+on the LC side, same thing with Arc HPLC and ACQUITY Premier. So you see very strong newNow, as we look ahead, when orders are as strong as ever. We see a very, very healthy backlog
+going into the year. And as we look forward, the end markets are still very robust, right? So, we
+don't expect -- and across the board, we are pretty robust in industrial pharma itself as well as
+with additional funding. But as we look ahead, I would caution against using the 16% and
+extrapolating. I think we've been saying this for a while, these are incredible growth numbers on a
+stack basis. You're looking at double-digit growth for instruments, but we cannot expect
+instrument growth to continue at a double-digit level.
+I mean, the long-term averages are around 3% to 4%, and if I were to just dig into the guide a
+little bit and we say 5% to 6.5% So, the 5%, if you just take the higher end and then make it
+consistent, let's say, with the recurring revenues and the lower end consistent with the instrument
+growth in the future long-term averages for instrument growth are between 3% and 4%. Add a
+100 basis points of additional commercial execution and another 100 basis points for pricing, and
+there you have the 5-ish percent instrument growth.
+So we think, in long term, we should be seeing healthy instrument growth and I've heard several
+comments would say, hey, you've seen series significant instrument growth, will it come crashing
+down? Not at all, we don't see any signs of that. We do see it reverting back to sort of long-term
+growth averages and we think we will out-execute the overall market growth with our commercial
+initiatives with our new products and with additional pricing.
+Q - `Luke Sergott, Barclays `
+All right, great. Just a quick follow-up on that. Can you clarify if orders grew faster than sales, and
+then I'd love to dig in on why we're -- so where that fits into the overall characterization portfolio.
+So you have the BioAccord on the raw materials, on the upstream, where would Wyatt's light
+scattering technologies kind of fit into the overall instrument portfolio and the bioprocessing
+workflow?
+A - `Udit Batra, President and Chief Executive Officer `
+This is a fantastic question. So the orders are growing very nicely, Luke. And we've been saying
+that for a while and they continue to do so. Now moving on to Wyatt, look, it's a perfect strategic
+fit. We've been talking about bioanalytical characterization of $1.8 billion market growing 10% to
+12% and Wyatt, $110 million. I mean, there are hardly many companies that have accretive growth
+on -- in the industry on margins, 40% margins and growing at a 20-ish percent CAGR right, so
+terrific, terrific financial profile.
+When you look at the bioanalytical space and you talk about LC-UV and LC-mass spec, LC-UV and
+mass spec are used to characterize sequence of the proteins, the configuration of the proteins,
+the chemical composition right there exquisite techniques to characterize the composition of the
+molecules and the composition of raw materials, upstream-downstream process development
+and of course in QA/QC. Light scattering on the other hand gives you biophysical characterization,
+the size of the molecule, the level of aggregation of the molecule, think of -- think about
+monoclonal antibodies and proteins.
+And even more exciting these days is what it does for us in viral vector therapies, empty versus
+full capsids, right? Light scattering allows you to get at that lipid nanoparticles, how aggregated
+they are, how well characterized, how awful they are with mRNA molecules, super exciting
+application applications and our customers -- and Jeff and Cliff tell me, have been asking us or
+their customers have been asking us to integrate it with a compliant software platform so they
+can use it in QA/QC applications. It's already used by a significant number of large pharmaSo, super excited, highly complementary, it gives you even a better footprint of biologics and our
+dream is -- and our ambition is to make large molecule characterization similar to small molecule
+characterization as we've done in the past.
+Operator
+The next question is coming from `Vijay Kumar, Evercore ISI of Evercore. Your line is open.
+Q - `Vijay Kumar, Evercore ISI `
+Hey guys. Congrats on the transaction. And I had two questions. Udit, in a first maybe on the
+guidance here, the 5% to 6.5% guide for the year. What is there to see, I mean, for pricing and
+China outlook? And I thought FX headwinds came down, why is FX and margin headwind?
+A - `Udit Batra, President and Chief Executive Officer `
+So I'll comment a bit on China first and what we expect there, and I'll pass it on to Amol to take it
+up from there. Look, Q4 in China, I mean, is a special -- has been especially tough with 50% to
+75% of our colleagues at any point in time being infected due to the reopening. And despite that,
+if you take from remember last year we had a shipment delay from the third quarter to fourth
+quarter, and if you take that into account China grew roughly 4-ish percent, despite that
+headwind. We expect our colleagues to, of course, enjoy the Chinese New Year reconnect with
+their families after several years and that we see the same with the customers. So step by step, I
+think China will open up. We expect better growth in the second half of the year than the first
+half, but Vijay, as you can imagine, it's anyone's guess how fast this comes back. We currently
+assume a high-single digit-ish sort of growth for the full year with the second half of the year
+being stronger than the first half.
+Amol, do you want to talk about the guide and FX?
+A - `Amol Chaubal, Senior Vice President, Chief Financial Officer `
+Yes. So look, Vijay, the FX situation has improved versus end of Q3 earnings call. Now, we are
+looking at 1% headwind on sales and about 3% headwind on EPS. The 3% headwind on EPS
+translates to about 50 basis points headwind on operating margin. And the reason for that is, U.S.
+dollar progressively strengthened throughout the course of 2022. And then it sort of weakened
+towards the end of 2022. But where it is today, it is still a significant headwind for the first half of
+the year 2023, and that is sort of playing through the numbers.
+And the reason there is an headwind on headwind on the operating margin is. We are one of the
+most geographically diversified companies in the sector. And we have a lot of revenue coming
+out of markets like Japan and China. And while we are operationally etched in a currency like Euro
+and pound, we still have significant profit there. So if you have a headwind and that profit shrinks,
+and then we don't have the level of cost structure in these other markets like China and Japan,
+which then creates a higher FX flow-through on our operating margin versus our sales profile by a
+little bit. And that's why you see the headwind on FX on operating margin.
+A - `Udit Batra, President and Chief Executive Officer `
+And just, Vijay, your question on pricing, it was roughly 300 basis points. So this year, we expect
+200 basis points as an assumption for 2023. And you can imagine that's largely because the
+inflation still not gone. Second, our new products definitely should command a higher margin as
+you go forward. And then finally, the teams are -- have built the muscle through these very, veryA - `Amol Chaubal, Senior Vice President, Chief Financial Officer `
+And same one with FX, mean, we had 80 basis points of headwind on FX and the business was
+resilient, it sort of offset it pretty much all that impact and delivered a flat operating margin. So if
+dollar goes back to where it started back in 2022, I mean all the work is done in terms of margin
+expansion.
+A - `Udit Batra, President and Chief Executive Officer `
+And going into the year, we feel very good about where our margin profile is.
+Q - `Vijay Kumar, Evercore ISI `
+Yes, that's helpful, Udit. And one quick one on the acquisition, $70 million of revenue synergies,
+that's a big number relative to Wyatt's revenue base. Can you give us some background on how
+well was this asset known? What kind of due diligence was done, what White's revenue mix is
+coming from established biopharma versus early stage. What gives you the confidence in that
+revenue energy?
+A - `Udit Batra, President and Chief Executive Officer `
+It's a lot of questions to take them one after the other. 80% of the applications for Wyatt are in
+large molecule applications. As you know, we've screened and we were pretty clear on the
+Investor Day, we've screened a lot of targets and I can tell you without reservation in bioanalytical
+or biophysical characterization, this is the number one asset that we had in our mind.
+So, when we spoke with Jeff and we spoke with Cliff and we started our discussions, this was not
+something that's unknown to us. We've known this company really well for a significant period of
+time. And what that does on the chemical characterization, on the compositional characterization
+Wyatt does for using light scattering for physical characterization. So, with 80% of their revenues
+coming from large molecules, the growth is roughly 20-ish percent on a three-year CAGR,
+margins are appreciative to our margins. And as I said before, this is not something that we see in
+the industry as much, $110 million in sales already, it will be accretive to our revenue growth and
+margin growth to our revenue and margins on day one.
+And to the $70 million, it comes across four dimensions. First, Wyatt is heavily concentrated in the
+United States and to some extent in Europe with that less than 20% of their sales coming from
+APAC. And as you know with Waters, which have geographically quite diversified with APAC
+constituting 40 % of our sales. We think there's a significant opportunity to expand and serve
+many more customers in fast-growing areas across the globe.
+Second, we want to provide customers with many more choices. If you look at light scattering
+instruments, especially malls, it is sold with SEC columns and Waters has leading SEC columns in
+the industry, the LC is used as a separator before you insert products, insert molecules into the
+light scattering for characterization. Not dissimilar to mass spec. We think the attachment rates
+could be significantly higher as we do the software integration across the two companies.
+Number three, it starts us on the journey of building a bioanalytical platform with a suite of
+products that all eventually have one compliant software that can be used across to submit data
+to regulators. And then finally, there is an immediate opportunity to serve our customers a really
+big pinpoint of taking malls into QA/QC, and who better than Waters to assure that journey
+through? So that's why we think by year five, there's a potential for $70 plus million in synergiesand even higher bioanalytical platform starts getting established sooner and we'll be doing
+power integration faster. So that's I think gives you a color across the synergies, Vijay.
+Operator
+The next question is coming from Matt Sykes of Goldman Sachs. Your line is open.
+Q - `Matthew Sykes, Goldman Sachs `
+Hi, good morning. Thanks for taking my questions. Congrats on the acquisition and the quarter.
+Maybe just if you could help us put a kind of a finer point on services and chemistry growth in '23.
+I hear your comment about, think about it's really the high end of your guide, but just giving the
+instrument growth that you've seen in '22 and previous to that. How should we be thinking about
+services and chemistry growth in '23?
+A - `Udit Batra, President and Chief Executive Officer `
+So, Matt, it's a great question. Look, I mean it's a proven diet at this stage on services in
+particular, right? I mean, service definitely will benefit from the incredible growth that we've seen
+in instruments over the last two years. In addition, we've increased our attachment rates by 350
+basis points since we started our transformation journey roughly two-ish years ago.
+But I think at this point in time in time especially given the uncertainty we see in China, we think
+it's a prudent starting point to assume what we will assume for service. And for chemistry, I mean,
+it goes from strength to strength. We've seen our e-commerce platform do extremely well. We
+now have about 35% of our sales going through e-commerce, we intend to increase that number
+higher max speak premier columns and the pipeline looks extremely good, especially serving
+larger molecules, and complex therapies and now with a deeper understanding after the
+acquisition closes of the biologic space, we think there's a significant growth opportunity there as
+well. And there too, we are a bit prudent thinking through what the rest of the year holds
+especially in China. So, I think that's how I would look at it, right? So really positive, but really
+thinking through how the year will emerge in China and as the year progresses we'll have more
+information.
+Q - `Matthew Sykes, Goldman Sachs `
+Great. And then just one quick follow-up on Europe. Obviously, very strong growth there in Q4
+and for the full year. Obviously, a mild winter there, so things seem to be better than expected.
+Could you just talk about what you're assuming for Europe this year and kind of thoughts in terms
+of the end market demand within Europe or '23?
+A - `Udit Batra, President and Chief Executive Officer `
+Yes. Look, I mean, Europe has been a standout cross the Board right through the early parts of
+the pandemic and then of course this year itself and also on a stack basis, it looks extremely
+good when the full year and the full year numbers for Europe were in the double-digit range as
+you've seen. As we look ahead, I mean, our assumptions are still sort of going back to market
+plus in Europe, which is mid to high single digits for the balance of 2023.
+The orders look extremely good across all end markets and I'll remind you that Europe is more
+heavily weighted towards pharma. And then in the mass space, Europe came out really, really
+strong, especially with applications in food testing for the Xevo TQ Absolute and environmental
+testing, which is where we saw the first and the fastest result adoption of the mass specportfolio. So mid to high single digits with all the puts and takes. Really excited about what we're
+seeing in terms of mass spec, especially in pharma and industrial in Europe.
+Operator
+The next question is coming from `Dan Brennan, Cowen and Company of Cowen. Your line is open.
+Q - `Dan Brennan, Cowen and Company `
+Great. Thanks. Thanks for the questions and obviously, congrats on the quarter and the steel.
+Maybe just one on Wyatt to start off, just a kind of multi-part of your -- obvious question is, the
+company has been growing 20%, your guidance is 10% to 12%. Is that just prudence? Or is there
+any COVID in the numbers, just kind of why that delta, and then could you just clarify like what
+percent of the business you said 80% is biologics. What percent of that is actually used in
+manufacturing whether on a clinical basis or on a commercial basis versus R&D today?
+A - `Udit Batra, President and Chief Executive Officer `
+So look, Dan, firstly, thank you for your question. You can imagine that we're just getting in
+through the integration. And there is, of course, a little bit of prudence built in, and we want to
+make sure that we start off on the right foot. The integration goes -- we don't expect the
+business to slow down, but that's the low double-digit guide has that in the assumptions.
+And in terms of biologics, I mean a bulk of the applications are in large pharma, in discovery, in
+development and in QA/QC and online and at-line testing. So. I mean, I think that's where you see
+most of the applications and increasingly now more weighted towards cell and gene therapy
+applications where these small particles need to be characterized really well before they are
+injected into people. So, I hope that gives you more color. We don't intend to break down the full
+biologics piece, but you can imagine, it's mostly late stage and TAT testing and QA/QC. Amol?
+A - `Amol Chaubal, Senior Vice President, Chief Financial Officer `
+Dan, I mean -- not much COVID in the number side, so it's pretty clean in that sense and so we're
+(inaudible) a bit prudent there. And then here on the second piece, I mean, light scattering is
+further along in terms of upstream adoption in large molecules. I mean, as just mentioned,
+customers are eager to take it downstream and now, with this, and with our Empower platform,
+we will be able to accelerate that journey.
+A - `Udit Batra, President and Chief Executive Officer `
+And I'll just -- one last thing I've used light scattering myself in my PhD. I didn't want to let the call
+finish without stating this. And I was reviewing my PhD thesis before this call. And you know what,
+of course, it's great. And for the life of me, I don't understand all the equations that I was using to
+defect lighting. So we're super excited even at a personal level to get access to the technology.
+Q - `Dan Brennan, Cowen and Company `
+Great. And then just maybe one on the instrument outlook, listen, kudos to gross spend
+outstanding, just wondering on the 5% instrument outlook, I mean investors have become
+accustomed to Waters exceeding the numbers that you put out. And there's still a lot of really
+positive momentum there, it looks like it's around 8% full year CAGR if you want to look at that.
+Just kind of give us a sense what's baked in on the 5%, Udit, maybe for mass spec specifically?
+And is there like that 8% category, I know you've kind of talked about the 3% to 4% long-term
+trend and you're trying to be prudent here. But just maybe give us a sense on what the massspec contribution is? And to the extent we were to get 12 months out and you were to be
+stronger than that, like where do you think the biggest opportunity would be for that? Thank you.
+A - `Udit Batra, President and Chief Executive Officer `
+Dan, the same thing, right? I mean, we don't expect mass spec will fall off the cliff, I mean, the
+applications are tremendous. The 5-ish percent, I mean the math is pretty simple, right? I mean,
+3% to 4% long-term growth 100 basis points of pricing, in addition to the past and about 100
+basis points of commercial execution and innovation in that number. And you can imagine, I mean,
+look, coming off such really, really strong growth over the last two years. We think the growth will
+start to normalize.
+Now that said, there's also a bit of prudence with China built in, right? I mean China is one of our
+fastest growing markets and I think at this point in time, we feel comfortable saying, look it's a
+high-single-digit market by the end of the year as the recovery goes faster. Of course, there's
+upside and if there is more traction for new products, there is upside. So I think it's a great place
+to start the year and we'll keep you posted as more facts emerge.
+Operator
+The next question is coming from `Derik De Bruin, Bank of America Merrill Lynch, Bank of America. Your line is open.
+Q - `Derik De Bruin, Bank of America Merrill Lynch `
+Hi, good morning. And thank you for taking my question. Can we talk a little bit about the pharma
+business please. The 6% growth in the quarter a little bit lower than we were looking for, can you
+unpack that, talk about what was the potential impact from China? What are you seeing demand
+at CROs and CDMOs? I mean, that's been a driver. Have they pulled back on capital spending at
+all? And just sort of your major peer in LC talked about some of the slowing the replacement
+cycle and LC and pharma in the second half of the year. Just sort of wondering what you're going
+to bake in for that. So, just a little bit more color on your pharma business, please. Thank you.
+A - `Udit Batra, President and Chief Executive Officer `
+Thanks, Derik, for the question. I mean, pharma is a healthy end market. We see no weakness in
+pharma, especially as we are in the late stages of pharma, right? Late stage development and
+QA/QC. From a numbers perspective on a full-year basis, it's double-digit growth for the Q, it
+came in at 6% largely because of China. If you exclude China, it's also double-digit growth, right?
+So that should hopefully give you some clarity on what we're seeing in pharma.
+Going forward, we don't see the demand abating at all, right? We see significant demand for our
+products on the instrument side, especially mass spec and to some extent as he is with the new
+products as well. We see, very nice traction on the consumable side and service should benefit
+from really strong instrument growth that we've seen over the past two years. So, see really no
+slowdown especially as the portfolio now even more so goes towards that scale -- large
+molecules, especially biologics on mass spec, on LC with instruments, especially like acuity
+premiere for consumables, especially with MaxPeak and with mass spec with the BioAccord
+gaining increasing traction with the G3 QTof gaining more and more traction. We feel very good
+about what we see in pharma going forward.
+Now to your question on slow down on LC cycles. Look, I mean, we don't expect any of the
+instruments to be overall growing between 16% and 20% like we've seen in the last couple of
+years. I mean that's, we've always been very clear about it. Where the new normal occurs issomething that will emerge over the next few months. But it's not going to go back to zero or
+negative growth that we are 100% certain, right? So that's why we have guided 5% to 6.5%. And
+Dan had asked that question earlier on what is the justification for 5%? We think it's a prudent
+starting point for the year.
+Amol, anything to add on the instrument side?
+A - `Amol Chaubal, Senior Vice President, Chief Financial Officer `
+No, everything you covered well.
+Q - `Derik De Bruin, Bank of America Merrill Lynch `
+Thank you.
+Operator
+The next question is coming from `Rachel Vatnsdal, JPMorgan of JPMorgan. Your line is open.
+Q - `Rachel Vatnsdal, JPMorgan `
+Great, thanks for taking the questions you guys, and congrats on the quarter and the deal. So first
+up, I just wanted to follow up on some of these China comments. You talked about China to
+returning to high-single-digit growth for the year in 2023, but I really wanted to dig into the
+expectations embedded into that 1Q guide for China. So you noted that China declined low-
+single digits in 4Q and that you expect that to continue into 1Q. Can you just give us some color
+on -- do you expect further sequential declines in China. And then how much of a headwind do
+you think China will be to that for 4% to 6% growth that you've guided to for 1Q?
+A - `Amol Chaubal, Senior Vice President, Chief Financial Officer `
+Yes. So, I mean, look, we expect some of the headwind we saw in China in Q4 to continue into
+Q1. And our adjusted Q4 when you adjust for that shipping was sort of 4% and we think sort of
+our Q1 in China would be similar and then as we know, China bounces back very quickly. And so,
+we expect that trend to sort of catch up through the remainder of the year when people are back
+to work.
+A - `Udit Batra, President and Chief Executive Officer `
+And in terms of end markets, Rachel, this is Udit. In terms of end markets, in terms of what we
+see as visibility. There is no signal that fundamental demand for our products in China is slowing
+down, there is no such thing. So we feel very good about China and it's a good place to start at
+the beginning of the year to assume a high single digit-ish growth. And as I mentioned, if the
+recovery is faster, of course, you expect faster growth.
+Operator
+The next question is coming from `Josh Waldman, Cleveland Research, Cleveland Research. Your line is open.
+Q - `Josh Waldman, Cleveland Research `
+Hi guys, thanks for taking my questions. Udit, I appreciate you were reviewing your PhD thesis
+before the call, really covering all your bases. Just two questions for you, let's say, to Udit,
+wondering if you could give us an update on where you think Waters is in the LC replacementplatform versus the Legacy alliance. And what you think that could look like in '23. Just, I guess,
+curious your thoughts on if we do see a slowing in the LC replacement cycle kind of broadly
+giving Waters push to rotate customers into the newer LC platforms could elongate that refresh.
+A - `Udit Batra, President and Chief Executive Officer `
+Yes. So Josh, thank you for your comment. Look on the LC replacement cycle and I guess overall
+the instrument replacement cycle, we've been pretty clear. We're almost one-third of the way
+through in 2022 when we started or two years -- two-ish years ago. So there's a pretty significant
+runway. Now it's -- these things don't go in a smooth, smooth way, right. So they go given that
+these are large, large orders, they go in a lumpy cycle, be it LC, be it mass spec, be it ACQUITY,
+be it Arc. So I think that's the first comment on what you should expect in terms of the
+smoothness of the growth.
+Second in terms of what has accelerated the growth and how the replacement cycle has
+happened. Undoubtedly, the introduction of Arc HPLC has given the customers a more of an
+impetus to replace the old alliance instruments and that has helped us quite a bit. Some of them
+were also replaced it with the ACQUITY line, which is more UPLC space. But, like for like, there
+are equal number of customers who've gone from Alliance to Alliance, customers have gone
+from Alliance to Arc. And then a fewer have gone from Alliance to ACQUITY. ACQUITY, I'll remind
+you is a UPLC platform where Arc HPLC was specifically designed for high volume, small molecule
+applications in QA/QC and it's a direct sort of replacement for Alliance. So I hope that gives you a
+bit more color that I think the right assumption would be Alliance to Arc HPLC and Alliance to
+Alliance, and then ACQUITY in a small minority of applications.
+Operator
+The next question is coming from `Jack Meehan, Nephron Research of Nephron Research. Your line is open.
+Q - `Jack Meehan, Nephron Research `
+Good morning. Congrats on the Wyatt deal. Had just a question on that which is, could you tell us
+what is their mix today of instruments versus recurring? Do you think there's any opportunity to
+shift that over time? And then just one clarification $70 million of revenue synergies, is that
+included in the low to mid-teens for if you talk about or would that be added to over 5%?
+A - `Amol Chaubal, Senior Vice President, Chief Financial Officer `
+Yes. So let me quickly cover the second one, the low-double-digit growth that we're talking
+about, that's the standalone business. The $70 million synergies that we're talking about are short
+of incremental to that.
+And on the first question, there's roughly about 75% of the revenue is instruments, roughly a
+quarter today is what we traditionally call recurring revenue, but as you know with Waters, we
+think instruments are also recurring. And again, there is a great opportunity on that not just on the
+light scattering platform, but also the HPLC and the HSC columns that go with it.
+A - `Udit Batra, President and Chief Executive Officer `
+Yes. I mean, and with such a significant service team around the globe, currently shy of 2,000
+people, we believe that there is a significant opportunity to increase the service attachment
+rates. And in addition about 1,400 to 1,500 sales, field sales representatives should help us
+increase penetration of scattering and Jeff is smiling as I say this, light scattering deeper into ourSo, extremely, extremely excited about the opportunity there. But as I'm all set, we think of
+instruments as recurring just as much as we think of service and consumables. They just recur
+over a longer time frame, and if you're disciplined, you can make sure that they are.
+Operator
+The next question is coming from `Patrick Donnelly, Citi of Citi. Your line is open.
+Q - `Patrick Donnelly, Citi `
+Hey guys, thank you for taking the questions. Udit, maybe one on the industrial piece that put a
+pretty nice growth in the quarter, I think in the mid-teens. Can you talk about what you're seeing
+there? I mean, I know in the past quarters, you talked a little bit about PFAS testing, environmental
+being nice tailwinds. So maybe just talk through what you're hearing from the customer base,
+their expectations into '23. Thanks.
+A - `Udit Batra, President and Chief Executive Officer `
+Sure. So, thanks for the question, Patrick. Industrial for the year as just on the fact, I mean, grew
+15% and we saw nice high teens in the U.S., mid-teens in Europe, China high-single-digit to low
+teens despite the lockdowns and industrial across the board, right? So applications in food
+testing with the Xevo TQ Absolute with PFAS testing was excellent, the TA business with battery
+testing especially with the introduction of our new powder rheometer.
+We see incredible opportunity there to increase penetration of our existing instruments and
+that's been going extremely well. And electronics chemicals testing has also been doing
+extremely well in the TA business, which has been in the high teens in the industrial segment. So
+industrial across all regions, across the food and environmental segments as well as material
+segment has been doing extremely well.
+So I hope that gives you color on how we explain the results so far going forward. With the new
+products, there is a lot more runway for Xevo TQ Absolute and PFAS applications. We intend of
+course to take that instrument into the pharma space. We think that there's incredible
+opportunity.
+For TA we are seeing really, really good traction of our products in the battery testing value chain,
+all the way from raw materials to process development, not unlike bioprocessing to now
+establishing online at-line testing with our instruments for several of our customers. So also going
+forward a really healthy outlook. And I think the only prudence that we have sort of built-in is with
+what we expect in China, right? China is a pretty strong grower in that segment as well and we
+want to make sure that we get more data before we start reaching out more.
+Operator
+The next question is coming from `Puneet Souda, SVB Leerink, SVB Securities. Your line is open.
+Q - `Puneet Souda, SVB Leerink `
+Yes. Hi Udit. And congrats on this acquisition, that's great to see a light scattering outlook going
+into QA/QC. So maybe my first question there is when we look at the downstream QA/QC and
+late stages, when you look at the five years $70 billion synergies, is that the sort of the timeline
+you're thinking about moving light scattering into a number of these applications. And Udit could
+you maybe elaborate what is needed to integrate malls into Empower. And what's the sort of the
+outlook for Empower potentially becoming sort of the backbone for biomolecules with BioAccordand light scattering. And last one, if I could squeeze in, any thoughts on the China loan stimulus
+benefit for 2023? Thank you.
+A - `Udit Batra, President and Chief Executive Officer `
+So, to your first question, Puneet, thanks for the question. So your first question on light scattering
+and its application in biologics, light scattering is actually further ahead than mass spec in late
+stages of characterization of particles. As you can imagine -- and particles being biologics here,
+as you can imagine proteins when they are purified can sometimes appear as aggregate and this
+can create severe immunogenic responses in patients. And so, light scattering is the technique of
+choice to ensure that the proteins that we consume as therapeutics or viral vectors for cell and
+gene therapy are not aggregated, this is the instrument of choice for it. So, there is a pretty
+significant penetration in some large accounts and key accounts for light scattering. We see a lot
+of opportunity in that area to expand geographically and also to take it into key accounts that
+Waters has had and relationships that Waters has especially in QA/QC.
+Now to your question on Empower, look, I mean, I would think about software in two to three
+steps, right? The first step is to make sure that the instruments talk to each other and that works
+been ongoing for a while as the companies have collaborated over the years. And so, there's a
+data bridge that would be built rather seamless data bridge. So our customers can transfer data
+from one instrument to the other and control one instrument from the software of the other.
+The final piece is of course on Empower and a compliant software that is an ambition that we
+have for instruments across the board, not just light scattering from mass spec as well as LCUV,
+and several other instruments. And that's the journey that we -- that we have started with the
+Waters Connect platform, the architecture is rather open, so you can imagine over the next one
+to two years. You should start to see serious progress in that in that direction. So slightly longer
+term than the immediate talking of instruments to each other in transferring data from one to the
+other.
+A - `Amol Chaubal, Senior Vice President, Chief Financial Officer `
+And just to clarify, right on the $70 million that we talk about, there is very little or we are
+assuming that is the time where it's super early days on Empower, most of that is coming really
+from geographical expansion, and SEC column, and HPLC attachments.
+A - `Udit Batra, President and Chief Executive Officer `
+Yes. So the first two synergy is geographic expansion, segment expansion, increase attachment
+over the next five-year period, get us to close to $70 million. And the last to the larger sort of
+opportunities, the more ambition with the bioanalytical platform and taking malls into QC with
+Empower is something that we expect in the latter part of the five-year period, but not a
+significant contribution to the $70 million.
+A - `Amol Chaubal, Senior Vice President, Chief Financial Officer `
+And then the last piece on China, Puneet, I mean, it's early days, we're still evaluating hard to put
+a number at this stage on that.
+A - `Udit Batra, President and Chief Executive Officer `
+So at this point, I want to thank you for your participation and all your questions. And on behalf of
+our entire management team, on behalf of Jeff and Cliff and the Wyatt family, I'd like to thank youOperator
+This will conclude today's conference. All parties may disconnect at this time.

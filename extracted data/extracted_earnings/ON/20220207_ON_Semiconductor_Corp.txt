@@ -1,0 +1,841 @@
+Q4 2021 Earnings Call
+
+Presentation
+Operator
+Good morning. My name is Rob, and I will be your conference operator today. At this time, I would
+like to welcome everyone to the onsemi Fourth Quarter 2021 Earnings Conference Call. All lines
+have been placed on mute to prevent any background noise. After the speakers' remarks, there
+will be a question-and-answer session. (Operator Instructions). Thank you.
+`Parag Agarwal, Vice President, Investor Relations and Corporate Development, Vice President of Investor Relations and Corporate Development, you may begin
+your conference.
+`Parag Agarwal, Vice President, Investor Relations and Corporate Development `
+Thank you, Rob. Good morning, and thank you for joining onsemi's fourth quarter '21 quarterly
+results conference call. I'm joined today by `Hassane El-Khoury, President and Chief Executive Officer, our President and CEO; and Thad
+Trent, our CFO.
+This call is being webcast on the Investor Relations section of our website at www.onsemi.com. A
+replay of this webcast, along with our 2021 fourth quarter earnings release, will be available on
+our website approximately one hour following this conference call, and the recorded webcast will
+be available for approximately 30 days following this conference call.
+Additional information related to our end markets, business segments, geographies, channels,
+share count, and 2022 fiscal calendar, is posted on the Investor Relations section of our website.
+Our earnings release and this presentation includes certain non-GAAP financial measures.
+Reconciliation of these non-GAAP financial measures to the most directly-comparable measuresunder GAAP are included in our earnings release, which is posted separately on our website in
+the Investor Relations section.
+During the course of this conference call, we'll make projections or other forward-looking
+statements regarding future events or the future financial performance of the company. The
+words believe, estimate, project, anticipate, intend, may, expect, will, plan, should or similar
+expressions, are intended to identify forward-looking statements. We wish to caution that such
+statements are subject to risks and uncertainties that could cause actual events or results to differ
+materially from projections.
+Important factors that can affect our business, including factors that could cause actual results to
+differ from our forward-looking statements, are described in our most recent Form 10-Ks, Form
+10-Qs and other filings with the Securities and Exchange Commission. Additional factors are
+described in our earnings release for the fourth quarter of 2021. Our estimates or other forward-
+looking statements may change and the company assumes no obligation to update forward-
+looking statements to reflect actual results, changed assumptions or other events that may occur
+except as required by law.
+Now, let me turn it over to Hassane. Hassane?
+`Hassane El-Khoury, President and Chief Executive Officer `
+Thank you, Parag, and thank you everyone for joining us today.
+As we wrap up 2021, I'm extremely pleased with the progress of our transformation journey. We
+have positioned onsemi as a leader in intelligent power and sensing by focusing on enabling
+sustainable ecosystem. We have implemented structural changes to focus our investments and
+resources on the megatrends of vehicle electrification, ADAS, energy infrastructure, and factory
+automation, and this is evident by our record financial performance.
+As we have shifted to focus on high -- of the high-value markets of automotive and industrial,
+post the price-to-value discrepancies and improved manufacturing efficiencies, we have
+expanded our margins to achieve the target model ahead of our stated timeline. Our customers
+view onsemi as a strategic partner as evident by the execution of multiple long-term supply
+agreements, which provide better demand visibility for capacity planning and investments to
+support it. To that end, the acquisition of GTAT expands our leadership in silicon carbide and
+provides our customers the assurance of supply required to support this rapidly growing market.
+Additionally, we are exiting volatile and highly-competitive, non-core businesses and focusing on
+profitable growth and sustainable financial performance. In 2021, our revenue increased 28%
+while our operating income and free cash flow increased approximately 6X faster, demonstrating
+the operating leverage and our model, as we continue on our transformation journey. We had a
+successful year amid the ongoing pandemic and supply chain challenges that continue to affect
+the market. Our performance has only been possible, thanks to the dedication of our worldwide
+teams, and I'd like to take the opportunity to thank them for their hard work.
+Moving on to the fourth quarter. Our fourth quarter was yet another example of exceptional
+execution by our worldwide teams in a strong demand environment for our market-leading
+intelligent Power and Sensing products. Although we met our margin targets ahead of schedule,
+we expect that with ongoing mix optimization, the manufacturing consolidation we have begun,
+and the continued ramp of new products, we have headroom to further expand our margins over
+the coming years.We continue to see strong demand for our products and in 2021, our design win funnel grew over
+60% year-over-year, and our new product revenue grew 28% from 2020. This design win
+performance, along with long-term supply agreements, have positioned the company for
+sustained long-term growth.
+The fourth quarter revenue growth was driven by additional capacity coming online from our
+investments earlier in the year, and an accelerated focus to free up existing capacity to service
+our strategic markets consistent with our stated goal of exiting low-margin non-core products. We
+are making selective investments in our internal operations to expand capacity for strategic
+products, and at the same time, we are relieving bottlenecks in our internal manufacturing
+operations. We have also been successful in securing additional capacity from our external
+manufacturing partners.
+Long-term, we are qualifying products into 300-millimeter East Fishkill facility to increase the
+efficiency of our fab network, while executing our Fab-Liter strategy. This will allow us to further
+expand, both the capacity for products in our strategic markets and our gross margin over time,
+given the cost benefits. The current supply-demand imbalance in the semiconductor industry will
+likely persist through 2022 and continue into 2023.
+Based on interactions with our customers and channel partners, we believe that the
+semiconductor inventory throughout the supply chain remains low and lead times are stretched
+for the industry. The supply constraint is further compounded by accelerating demand for electric
+vehicles, ADAS, energy infrastructure and factory automation, and the increase of content in
+these applications.
+During the fourth quarter, we saw an increase of approximately $600 million in committed
+revenue for our silicon carbide products, bringing our current committed revenue to over $2.6
+billion through 2024. Over 70% of this committed revenue is for electric vehicle traction
+applications with the integrated end-to-end supply chain and market-leading efficiency of our
+silicon carbide products as our competitive advantage.
+To support this steep growth in our silicon carbide revenue over the next few years, we plan to
+more than quadruple the capacity of our substrate operations exiting 2022, and intend on making
+substantial investments in expanding our device and module capacity. In 2022, we expect our
+silicon carbide revenues to more than double year-over-year as we continue to ramp with our
+existing customers and begin shipments to new customers under our LTSAs. We remain on track
+to exit 2023 with a silicon carbide run rate of $1 billion per year.
+In addition, we continue to make progress on the 200-millimeter silicon carbide development
+program that we acquired from GTAT. In January, we received finished, 200-millimeter thick
+wafers with device yields meeting our production targets. These wafers were manufactured
+using our full capabilities from boards to substrate, all the way through our own fabs.
+Our silicon carbide modules are powering the recently announced Mercedes EQXX research
+prototype electric vehicle platform, which has a range of 620 miles on a single charge. We
+secured this design based on all-around superior performance of our modules across efficiency,
+thermal conduction, and switching. This win clearly demonstrates our technical leadership and
+end-to-end supply chain capabilities for silicon carbide.
+Our focus on power modules for alternative energy applications delivered a 42% year-over-year
+growth in our design funnel in 2021. We have signed LTSAs with key players in the solar inverter
+market, including the top-two market share leaders. We expect our renewable energy relatedto be a long-term driver for our business as utility scale power plant installations are expected to
+grow worldwide to reduce the climate impact of fossil fuel based power plants.
+On the Intelligent Sensing front, our automotive imaging revenue grew by more than 20%
+quarter-over-quarter and approximately 40% year-over-year, as we continue to see momentum
+in advanced safety with new design-wins. With consumer's desire for additional safety features
+and an improved driving experience, we are seeing increased penetration of sensing in cars
+including image sensors and ultrasonic sensing, at the same time, content per car is growing with
+each camera attached to one of our PMICs.
+We are also seeing accelerating demand for our imaging products for industrial and factory
+automation, in which revenue grew by approximately 10% quarter-over-quarter and 43% year-
+over-year. Industrial customers are investing in automation at an increased pace to improve
+efficiency and to reduce volatility in operations due to wage inflations and labor shortages,
+onshoring, and social distancing mandates. We have leveraged our experience in the automotive
+market to offer our industrial customers the rugged, high-resolution and high-image quality
+sensors for the most demanding industrial applications.
+All of these execution vectors delivered a robust margin performance, exceeding our target
+gross margin of 45% significantly at a schedule. This accelerated gross margin expansion was
+driven by a strong and accelerated execution in closing price-to-value discrepancy, cost reduction
+initiatives, a focused drive on ramping new products, the deliberate intent to shift more capacity
+to products for our strategic markets, and operational efficiencies across our manufacturing
+footprint, all consistent with the strategy outlined at our Analyst Day.
+Along with making operational changes to drive the margin expansion, we are refining our
+execution in the channel to ensure that our partners are focused on driving growth in automotive
+and industrial end markets, consistent with our strategy.
+Throughout the year, our team worked extremely hard to pull in the schedule for engineering and
+operations effort, dedicated to margin improvements to offset some increased material costs we
+have incurred. We have worked to improve yields and ship more units into the automotive and
+industrial end markets which deliver an improved margin profile for our business and help support
+more of our customers' demand.
+In the fourth quarter, automotive and industrial grew 10% quarter-over-quarter with 63% of our
+revenue as compared to 61% in the third quarter, both delivering record quarters of $641 million
+and $522 million, respectively.
+In a supply-constrained environment, this growth came from the increased units we could ship
+and more importantly, from the strategic mix shift away from non-core, low-margin business that
+we intended to exit. In 2021, we walked away from $170 million of non-core business with an
+average gross margin of 20%.
+Now, I will turn the call over to Thad to provide additional details on our financials and guidance.
+Thad?
+`Thad Trent, Executive Vice President and Chief Financial Officer `
+Thanks, Hassane.
+I'll start out with providing an overview of our results for the full year 2021, then step through the
+Q4 results and guidance for the first quarter of '22, and wrap up with an update to our long-term2021 was an exceptional year as we transformed the company to drive sustainable performance
+and shareholder value. We have pivoted to align our investments to the high-growth megatrends
+in automotive and industrial, while implementing structural changes, capturing value for our
+differentiated portfolio, and optimizing our manufacturing footprint to increase efficiency and
+improve our cost structure. These initiatives are translating into financial results as we achieved
+our record annual and quarterly revenue, gross margin, operating margin and cash flow.
+Our 2021 revenue was $6.74 billion, increasing 28.3% over 2020. Our automotive business
+increased 36% year-over-year and our industrial revenue increased 33% as we continue to see
+content gains in each segment, driven by automation, electrification and advanced safety.
+Our non-GAAP gross margins for the year improved 770 basis points to 40.4% and we exited the
+year exceeding our 45% long-term target in Q4. Since embarking on our transformation journey a
+year ago, we've improved our non-GAAP gross margin by 1,080 basis points.
+2021 operating income and free cash flow increased approximately 6X faster than revenue with
+non-GAAP operating margin improving to 21.9%, while free cash flow increased to $1.3 billion, or
+20% of revenue.
+While we have had significant achievements over the last year, we were excited about the
+opportunities in front of us. Our design win funnel for Intelligent Power and Sensing is expanding
+at a rapid rate and we are securing additional capacity to support our growth from external
+partners and with selective internal investments for strategic products.
+From a margin perspective, we expect mix optimization and our Fab-Liter strategy to drive further
+expansions. Our longer term supply agreements are providing increased visibility for revenue
+growth, and we are confident that the structural changes and decisions we made last year have
+solidified our baseline to allow for sustainable margin expansion over the long-term.
+Consistent with our Fab-Liter strategy, we have taken the first steps towards rationalizing our
+manufacturing footprint by entering into a definitive agreement for the sale of our 6-inch fab in
+Belgium. This transaction provides our employees with continued employment and growth
+opportunities, while allowing onsemi to transition product to other manufacturing site in an
+orderly manner. By transitioning production to more efficient fabs within our network, we'll
+eliminate fixed cost and lower unit cost while ensuring a consistent supply of products to our
+customers. We expect to close this divestiture in the first quarter of 2022 and the savings will be
+realized over one to three years as we exit the Belgium site.
+Turning to the results for the fourth quarter. As I noted, Q4 was another quarter of record results.
+Total revenue for the fourth quarter was $1.85 billion, an increase of 28% over the fourth quarter
+of 2020, and 6% quarter-over-quarter. The sequential increase in revenue was driven by units
+shipped increasing 5.7% sequentially and favorable mix and pricing across all end markets.
+Revenue from both Intelligent Power and Intelligent Sensing was at record levels, while revenue
+from our strategic end markets of automotive and industrial, increased sequentially 11% and 9%,
+respectively. Auto and industrial was 63% of total revenue as compared to 59% in the fourth
+quarter of 2020.
+Turning to the business units. Revenue for the Power Solutions Group, or PSG, was $953.4 million,
+an increase of 33% year-over-year. Revenue for the Advanced Solutions Group, or ASG, was
+$647.3 million, an increase of 24% year-over-year. Revenue for Intelligent Sensing Group, or ISG,
+for the fourth quarter was $245.4 million, an increase of 18% year-over-year.GAAP gross margin for the fourth quarter was 45.1% and non-GAAP gross margin was 45.2%, a
+370-basis-point improvement quarter-over-quarter. The key contributors to our margin expansion
+have been favorable mix shift, a higher margin from strategic products, elimination of price-to-
+value discrepancies in the portfolio, and improved efficiencies in our manufacturing operations.
+Over the last year, we have exited approximately $170 million of non-core revenue at an average
+gross margin of 20%, and allocated this capacity to the strategic products with accretive gross
+margins. Our factory utilization was 81%, up slightly from the Q3 level of 80%, and we expect
+utilization to remain approximately at this level in Q1.
+We also achieved record quarterly GAAP and non-GAAP operating margins of 26% and 28.6%,
+respectively, in the fourth quarter, again achieving our long-term model. GAAP earnings per share
+for the fourth quarter was $0.96 and non-GAAP EPS was $1.09 per diluted share, as compared to
+$0.35 in the fourth quarter of 2020, and $0.87 in Q3. We're very proud of our teams for having
+achieved the highest ever quarterly EPS reported by the company.
+So now let me give you some additional numbers for your models. GAAP operating expenses for
+the fourth quarter were $352 million as compared to $330 million in the fourth quarter of 2020.
+Non-GAAP operating expenses were $306 million as compared to $292 million in the same
+quarter a year ago. Variable compensation, driven by our strong performance, partially offset by
+cost optimization measures, contributed to year-over-year increase in operating expenses.
+We expect to maintain our non-GAAP operating expenses of approximately 17% of revenue,
+consistent with our target model. We intend to offset the impact of wage inflation on operating
+expenses through higher efficiency and reallocation of resources to drive growth and margin
+expansions.
+Our GAAP diluted share count was 445.3 million shares and our non-GAAP diluted share count
+was 438.4 million shares. Please note that we have an updated reference table on the Investor
+Relations section of our website to assist you with calculating our diluted share count at various
+share prices.
+Turning to the Q4 balance sheet. Cash and cash equivalents was $1.3 billion after payment of $416
+million for the GTAT acquisition in Q4. We had $1.97 billion undrawn on our revolver. Cash from
+operations was $627 million and free cash flow was $457 million, or approximately 25% of
+revenue. Capital expenditures during the fourth quarter were $169.6 million, which equate to a
+capital intensity of 9%. For the for the full year 2021, capital intensity was 6.6%.
+As we indicated previously, we are directing a significant portion of our capital expenditures
+towards enabling our 300-millimeter capabilities at the East Fishkill fab and the expansion of
+silicon carbide capacity. This increase is in line with the higher capital intensity in the near-term, as
+mentioned at our Analysts Day.
+Accounts receivable was $809 million, resulting is DSO of 40 days. Inventory increased $52 million
+sequentially to $1.4 billion, and days of inventory increased 5 days to 124 days. The increase in
+inventory was driven primarily by additional build of bridge inventory to support the fab
+transitions. Distribution inventory increased $50 million to 7.3 weeks from 6.8 weeks in Q3. This
+slight increase was driven by timing of shipments late in the quarter. Weeks of inventory returned
+to Q3 levels within the first two weeks of Q1.
+Total debt was $3.1 billion and our net leverage is now under 1 time.Turning to guidance for the fourth quarter. A table detailing our GAAP and non-GAAP guidance is
+provided in the press release related to our fourth quarter results. Let me now provide you key
+elements of our non-GAAP guidance for the fourth quarter.
+Based on current market trends and booking levels, we believe demand will outpace supply for
+much of 2022 and we continue to work with our strategic customers to ensure long-term,
+uninterrupted supply. We continue to increase supply through operational efficiencies, selective
+investments and capacity for strategic products, and by working with our external partners to
+obtain additional capacity.
+Based on current bookings trends' backlog levels, we anticipate that revenue for the first quarter
+will be in the range of $1.85 billion to $1.95 billion. We expect non-GAAP gross margins between
+45.5% and 47.5%. This includes share-based compensation of $3.4 million. We expect total non-
+GAAP operating expenses of $298 million to $313 million, including share-based compensation of
+$17.4 million. We anticipate our non-GAAP OIE will be $21 million to $25 million, and this results in
+non-GAAP earnings per share in the range of $0.98 to $1.10.
+As we have guided in the past, our non-GAAP tax will increase starting in Q1 from our historical
+rate of 6% to approximately 17.5% as we have substantially utilized our NOL attributes. This
+change accounts for approximately $0.14 of EPS at the midpoint of our guidance for the first
+quarter.
+We expect total capital expenditures of $150 million to $170 million in the first quarter. As we
+indicated at our Analyst Day, our capital intensity in the near-term will be higher as we ramp-up
+silicon carbide production and invest in the 300-millimeter capabilities.
+Our non-GAAP diluted share count for the first quarter is expected to be approximately 441
+million shares.
+As I wrap-up, I'd like to shift gears to address our long-term model. Our Q4 non-GAAP gross
+margin of 45.2% exceeded our gross margin target ahead of our anticipated timeline through an
+acceleration of our expansion initiatives and structural changes. As such, we are raising our 2025
+targeted gross margin to 48% to 50%, which will be primarily driven by favorable mix as we
+phase out of low-margin non-core products and ramp new products in our strategic end markets.
+We'll also continue executing on our Fab-Liter strategy to reduce our fixed cost structure and
+overall product costs across the portfolio as we exit subscale fabs over a multi-year period.
+To provide a framework for this expansion, we expect 2022 gross margin in the range of 46.5%
+to 47.5% based on our visibility today. So our new, long-term, non-GAAP model is as follows:
+gross margin of 48% to 50%, OpEx of 17%, and operating income of 31% to 33%, an increase of
+300 basis points to 500 basis points over our previous model of 28%.
+We believe our early success and our transformation initiatives has positioned onsemi to drive
+sustained and long-term revenue growth and margin expansion. These results and outlook are
+only possible with the dedication of our worldwide team focused on execution and delivery of
+exceptional value for our customers.
+With that, I'd like to start the Q&A. I'll turn the call back over to Rob to open the line for questions.
+Questions And Answers
+Operator(Operator Instructions). And your first question comes from the line of `Ross Seymore, Deutsche Bank from
+Deutsche Bank. Your line is open.
+Q - `Ross Seymore, Deutsche Bank `
+Good morning, guys. Thanks for letting me ask the question. Congratulations on the results. I
+guess, just on the first question over Thad is on the revenue side. You talked a lot about demand
+exceeding supply, a lot of good design wins and LTSAs et cetera. I wanted to dive into the things
+you're walking away from. I think you said last year you got out of about $170 million of business. It
+seems like there's about $600 million more coming. So Thad you gave a good outlook and the
+gross margin for the year. I know you're not going to guide revenue every quarter for this year.
+But I wondered how that incremental exiting process is going to hit and kind of at what pace we
+should be thinking that?
+A - `Thad Trent, Executive Vice President and Chief Financial Officer `
+Yes. Let me start with the second part of your question there on the exit. We've exited $170
+million in 2021. So, as we look into '22, we think we will exit more of that in the second half of the
+year just based on the environment that we see today. So, we think there's another piece of it. As
+we've said, this exit will take three plus years to get out completely of that entire 10% to 15% that
+we said we'd exit, but we really think it's backend loaded.
+Q - `Ross Seymore, Deutsche Bank `
+Got it. Thanks for the color on that. And then the gross margin news, I think is the news of the
+day, whether it was the quarter, the guide or the long-term model update. So, I just wanted to
+understand a little bit more deeply. What was the surprise? Were you guys just conservative back
+in August? It wasn't that long ago when you've already hit the target. So, what's going better than
+expected? And I think some people might believe that there's some cyclical tailwinds that might
+not persist. I know you seem to disagree with that, but a breakdown of what surprised you and
+how much is structural, would be helpful?
+A - `Hassane El-Khoury, President and Chief Executive Officer `
+Yes, this is Hassane. Look, we had a plan. The plan happened faster than we thought. Obviously,
+our plan was tied to a lot of operational efficiencies and the self-help that we've done. We were
+able to pull in a lot of it given that the main environment, we were able to much faster shift to our
+strategic products. As you saw auto and industrial, which for us, drive a higher margin as part of
+the mix shift, have grown sequentially and for the year, and outpaced the growth of the other
+markets that we are walking away from to have that capacity to be able to allocate to our
+strategic markets.
+And of course, we've been on a trajectory of bridging the price-to-value discrepancy. So, we've
+been able to close a lot of that mostly to offset our rise in costs. So all of these have been part of
+the plan, but the macro allowed us to accelerate them. Because of the demand environment,
+we're able to walk away from business and move the capacity to a better mix shift aligned with
+our stated strategy.
+So that's what accelerated. It's not about conservative. It's about we -- the unknown and the
+disruptions that we've been seeing in 2021. But the team pulled together, whether it's from
+improved yield that drove more units. All of these are sustainable, because the mix shift is not
+related to a market. All markets are up, but we are choosing what to support, aligned with ourlong-term supply agreements and those extend beyond the next few years and that gives us the
+visibility and the sustainability of those results.
+Q - `Ross Seymore, Deutsche Bank `
+Thank you.
+Operator
+Your next question comes from the line of Chris Danely from Citi. Your line is open.
+Q - `Christopher Danely, Citigroup `
+Hey. Thanks, guys. Congrats on another good result and guidance. I guess, on the gross margin
+guidance going forward, it looks kind of flattish for the time being. Can you just talk about the
+puts and the takes, what's going to be pushing those up? And then also, what's going to be
+keeping a lid on them, is it material cost or something else?
+A - `Thad Trent, Executive Vice President and Chief Financial Officer `
+Yes, Chris. This is Thad. There's a number of elements in there and you kind of hit on it. So, we
+are expecting additional input costs going up. We have been successful in passing those onto the
+customers, but we do expect that happening. As Hassane said in the previous response, we
+pulled in a lot of the acceleration of the gross margin initiatives. We think there's more here. I
+think, our biggest challenge is, we've gotten a lot of operational efficiencies here and can we just
+get more throughput out of our manufacturing footprint. Like, we do see improvement. If you
+look at the guidance that's put out for the year, as you see improvements through the year and
+obviously with our long-term model of the 48 to 50, we don't think we're done.
+Q - `Christopher Danely, Citigroup `
+And for my follow-up, can you just be a little more specific on the impact and timing of the Fishkill
+fab from, I guess, a margin impact and the capacity impact as well.
+A - `Thad Trent, Executive Vice President and Chief Financial Officer `
+Yes. So, we take ownership in early '23. At that time, we have been running production in there
+and we'll continue to increase production in there. And then there is a period of time where we
+continue to ramp up and Global Foundries ramps down. So during that time, there's a little bit of a
+headwind as we're providing some foundries or as to Global Foundries, until we ramp up see. So
+you can think about a little bit of a headwind for a couple of years there. But there is an orderly
+transition between the two of them. So that is all baked into long-term plan as well, the long-term
+model.
+Q - `Christopher Danely, Citigroup `
+Got it. Thanks, guys.
+Operator
+Your next question comes from a line of `Vivek Arya, Bank of America Securities from Bank of America Securities. Your line is
+open.
+Q - `Vivek Arya, Bank of America Securities `Thanks for taking my question. Hassane, I'm curious, what's your visibility of inventory of
+semiconductor components at auto OEMs and Tier 1s? Just from an industry perspective, right,
+there still seems to be a delta between auto production and semiconductor industry shipments.
+Is that all a mix or pricing? Just conceptually what are you seeing out there? And what is the right
+way to think about the sustainable content delta when we look at the automotive production
+improving this year?
+A - `Hassane El-Khoury, President and Chief Executive Officer `
+Yes. Look, the delta is pretty straightforward. The delta between units shipped in automotive and
+semiconductor is purely based on the mix that our customers are building. When -- we've been
+throughout 2021 in a supply constraint. We remain in that same supply constraint through 2022
+into 2023. So therefore, our customers are doing kind of what we're doing. They're moving
+production to their strategic and high-value product line, which for semiconductor, translate into
+more content.
+You know when you have premium vehicles being built, they historically and even today, have
+much higher content to the level of two to three times more content of semiconductors per
+vehicle. That's what you see the discrepancy between the two. That's a healthy discrepancy,
+because we know -- I've always talked about content being the biggest driver for us regardless
+of what the SAAR does. 2021 is exactly that.
+Now, you can talk about what the long-term implications of this. I don't see that being any
+different. We've always guided automotive being much higher than SAAR and that's related
+because electrification is happening. You've seen those announcements from a lot of the OEMs,
+where they are doubling down on EVs. That drives much higher content for us in the future than
+even it is today. Safety, I talked about more and more sensing going into vehicles and that drives
+a lot of our cross-selling as well, between our sensing and our PMICs. So, all of these are driving a
+higher growth of semiconductors than your unit growth with SAAR.
+So, it's very reasonable of what the results are this year and what we're looking at for 2022. So, I
+don't see that as just a short-term thing, because the macro trends extend beyond the next
+three years.
+Q - `Vivek Arya, Bank of America Securities `
+Got it. And Hassane, for my follow-up, also interested in your views on the silicon carbide
+opportunity. So, you gave us a few numbers about the exit run rate and the long-term
+agreements you were signing. And where I think investors are trying to get their arms around is,
+we heard of a lot of big numbers and pipeline from some of your U.S. competitors, some of the
+European competitors. Is this the case of a just a rising tide, so there can be four, five, six
+successful suppliers? Is there going to be some kind of differentiation between suppliers?
+Because everyone is reporting very a large pipeline. So, I'm curious what is ON differentiation and
+does it change your long-term CapEx forecasts? Because I saw that you updated the margin
+forecast, but you kept free cash flow forecast the same. Thank you.
+A - `Hassane El-Khoury, President and Chief Executive Officer `
+So, let me -- just I want to highlight some difference between what I talk about, and what some of
+my peers talk about. I didn't -- I don't talk about funnel or pipeline. I'm talking about committed
+revenue, which is the output of the funnel fully yielded, committed revenue is what I labeled it.
+That is more certain and more visibility than the game of big numbers of funnel disclosures. I
+don't disclose funnel or a pipeline or whatever we want to label it. So, the comments and thenumbers, the big numbers I gave are committed revenue under LTSAs that we are building our
+supply chain in order to service, starting at you know we exited 2021 and said we're going to be
+more than doubling in 2022. That's where the committed revenue comes in.
+Now, as far as what that's going to look like in the industry, look, there's a lot of demand out
+there, a lot of investments from our customers going into the silicon carbide for electric vehicles.
+Is it going to be six players or so, I don't know. I know we're going to be in the top based on our
+investments and based on the results of our technology performance on efficiency. But also,
+more importantly, the supply assurance that we're able to give our customers. When you want to
+double the revenue and your flagship customers are depending on you, having supply assurance
+and controlling rules all the way to wafers, is a competitive advantage and not a lot can claim that.
+And I'm happy that we have closed the GTAT and we're performing very well.
+We're going to be expanding the GTAT capabilities throughout 2022 in order to support those
+committed revenue that I mentioned.
+Q - `Vivek Arya, Bank of America Securities `
+Thank you.
+Operator
+Your next question comes from a line of `Toshiya Hari, Goldman Sachs from Goldman Sachs. Your line is open.
+Q - `Toshiya Hari, Goldman Sachs `
+Hi. Good morning. Thank you for taking the question and congrats on the strong results. I had two
+as well. Curious how you're thinking about full-year '22 revenue growth at this point. I think three
+months ago, you had guided us to think about '22 as a year where you guys under-grow the
+market, just given some of the dynamics that are ongoing from a portfolio optimization
+standpoint. Is that still the case and I ask the question because you guys talked about obviously
+the strong design win funnel, the improving supply backdrop. And if we take the midpoint of your
+Q1 guidance, Q1 revenue is going to be up 28%. So, curious how you're thinking about the full
+year.
+A - `Thad Trent, Executive Vice President and Chief Financial Officer `
+Yes. Toshi, we don't guide for the full year. I'll give you a little bit of a framework to work on
+though. We -- one of the previous calls or answers -- questions was around the exit end of the
+business that I said will be back half loaded. I think when we look at the full year, taking that into
+consideration, we're probably growing around market, maybe slightly above.
+Q - `Toshiya Hari, Goldman Sachs `
+Got it. That's helpful. And then as my follow-up on that last point, Thad, the $500 million or so in
+revenue that you'll be exiting I guess over the next couple of years, how should we think about
+the gross margin profile on that part of the business? I think the 170 that you've already exited,
+you talked about a 20% gross margin profile. Should we be thinking about a higher gross margin
+profile given the strong market backdrop? Thanks.
+A - `Thad Trent, Executive Vice President and Chief Financial Officer `
+Yes. I did it today. Last quarter, we talked about 100 million that we exited that was at 15%. Now,
+that's up to 170 at a combined gross margin of 20%. So, if you think about that incremental 70, it'sabout a 25% gross margin today. So, the next piece that we're going to walk away from is in that
+range that's slightly higher, but the challenge is when the market comes back. That's the margin
+that's going to drop faster if we continue to maintain that. So, as we exit that, we'll swap that out
+for more accretive margins. But today, yes, it's slightly ahead of or slightly above that 25% that I
+just talked about.
+Q - `Toshiya Hari, Goldman Sachs `
+Got it. Thank you.
+Operator
+Your next question comes from the line of Matt Ramsey from Cowen. Your line is open.
+Q - `Joshua Buchalter, Cowen `
+Hey, guys. This is Josh Buchalter on behalf of Matt. Thanks for taking my question and congrats on
+the results. In the prepared remarks, you gave some helpful color on the unit growth. I was
+wondering as we think about the margins, is there anything you can give us to help us understand
+how much is being lifted by pricing versus the mix shifts that you previously outlined and
+(inaudible) from a pricing, I mean for the overall market. Thank you.
+A - `Thad Trent, Executive Vice President and Chief Financial Officer `
+Yes. So in our prepared remarks, we really kind of broke it down into favorable mix, pricing and
+manufacturing optimization in terms of just getting more out and increasing our capacity, reduce
+our manufacturing costs. That's really the Pareto if you think about the sequence of what is driving
+the gross margin improvement, and that's what we continue to see as we go forward. We think
+the favorable mix as we swap out of this low margin non-core business. We focus more on auto
+and industrial, which drives a higher gross margin. That's the primary driver of gross margin
+expansion and then obviously, the manufacturing footprint going forward will be the next piece.
+Q - `Joshua Buchalter, Cowen `
+That's helpful. Thank you. And then within your silicon carbide business, the size of your design
+wins continue to come in very strong. I was wondering within your broader high-voltage portfolio,
+are you also seeing share gains in your IGBTs, which have typically been dominated by some of
+your peers over in Europe and Asia. Thank you.
+A - `Hassane El-Khoury, President and Chief Executive Officer `
+Yes. This is Hassane. The answer is yes. We are seeing an uptick, obviously the LTSAs or long-
+term supply agreement that I mentioned focusing on silicon carbide, we do have long-term
+supply agreements or IGBT, those are net increases from our baseline. Therefore, I would
+consider those share gain away from some of our peers that have dominated that market. So, we
+do see the uptick in both in our LTSAs. So, you can think about it as ramping as well over the next
+few years into those LTSAs.
+Q - `Joshua Buchalter, Cowen `
+Thanks, guys. Congrats, again.
+OperatorYour next question comes from the line of `Harsh Kumar, Piper Sandler from Piper Sandler. Your line is open.
+Q - `Harsh Kumar, Piper Sandler `
+Hey, guys. First of all, congratulations on a very stunning turnaround. Hassane, you've gotten
+pretty deep into the silicon carbide market making the acquisition of GTAT. I was curious, with now
+the emphasis on silicon carbide on for, call it six to nine months to a year, have there been any
+surprises? Whether good ones or bad ones? I'd be curious about your color on it.
+A - `Hassane El-Khoury, President and Chief Executive Officer `
+Look, there have been surprising. I would say, the surprises are on the positive side. I -- if you
+recall, back in my first earnings, I was very bullish on the company's capabilities on silicon carbide,
+which I called a favorable surprise walking in the door. That remains. And I would say, the positive
+surprises, number one, our capabilities into quickly getting to the 200-millimeter with the GTAT
+acquisition, closing the GTAT acquisition and solidifying our baseline as a full-on silicon carbide
+providers to our customer. And more importantly, a very competitive roadmap not just of what
+we're providing today, but the customers' reaction to our roadmap conversations that we've had
+for the next five years or so.
+All of these have been very favorable that gets me very bullish about our silicon carbide and
+that's the reason in all honesty, our strategy is to double down on it, both from a technology
+development site and you heard me talk about the aggressive ramp that we're doing in 2022 in
+order to support that doubling every year of our silicon carbide revenue, starting with the
+quadrupling of the GTAT capabilities, exiting 2022. All of these are, I would say, positive
+developments. This is where our investment is coming in and I remain very bullish on our
+capabilities and the outlook of our silicon carbide business.
+Q - `Harsh Kumar, Piper Sandler `
+Great. Thanks, Hassane. And then as you look at some of the changes you guys have made
+structurally to the ON business, getting in silicon carbide, getting into -- focusing on some new
+areas that are high growth, how should we think not the near term or the midterm, but the
+longer-term growth rate of the company, how should we think about that as maybe, industry
+growth rate plus x percentage, what would that number be?
+A - `Hassane El-Khoury, President and Chief Executive Officer `
+We're talking about, you can think about it over the long term, about 2X of the industry given the
+content gains that we're getting. But also being, over the next few years, moving more and more
+towards the megatrends that are driving the content, like EVs and ADAS. All of these are going to
+drive our 2X market growth over the longer-term as we exit some of those businesses that we --
+that Thad just talked about.
+But more importantly, it's not just the EV, there's a lot more also investment in content growth in
+the alternative energy business, where I talked about we are seeing 50% growth in '22, that's
+going to remain over a multi-year period. All of those are net revenue increases for us, because
+they're new markets. So that's going to keep fueling that growth. So, you can see it both on the
+automotive and industrial and of course, the cloud business, where that investment is going to
+keep going. So all of these are going to fuel our growth because of our exposure to those
+megatrends.
+Q - `Harsh Kumar, Piper Sandler `Thanks, guys. Congratulations, again.
+Operator
+Your next question comes from a line of `Vijay Rakesh, Mizuho Securities from Mizuho. Your line is open.
+Q - `Vijay Rakesh, Mizuho Securities `
+Yes. Hi, Hassane, Thad, a great quarter and guidance, solid margins. Just a quick question on the
+silicon carbide side. I know you mentioned $2.6 billion in basically committed revenue. Just
+wondering how that translates -- how that should -- what should be the contribution for 2022
+from that? I know you a billion a year, but is that what -- be incremental to 2022? And if you can
+give some margin profile on that business as well. Thanks.
+A - `Hassane El-Khoury, President and Chief Executive Officer `
+Yes. So, where -- I didn't -- I'm not guiding the silicon carbide in '22, other than saying, it's going to
+more than double from the 2021 as we ramp the existing customers we have in 2021, plus
+layering on top of that, the LTSAs that start in 2022 and go through 2024.
+So, we have a multi-year visibility on our silicon carbide LTSAs that will get us to exiting '23 with
+the $1 billion dollar run rate. That foundation is ramping. We have started ramping. We will be
+ramping heavily in the second half of '22 and that's for the full year, it will be more than 2X what it
+was in 2021.
+For margin profile, obviously, that margin profile as we ramp into our CapEx expansion, is going
+to be accretive. Today, obviously, there's the ramp up cost and I just want to make sure that you
+guys understand our margin profile and our margin guide is fully loaded, meaning it includes all of
+our startup costs for silicon carbide. So that gives you kind of the accretive nature of our silicon
+carbide over long time.
+A - `Thad Trent, Executive Vice President and Chief Financial Officer `
+Yes. Just to be clear. So in the short term, silicon carbide ramp is dilutive to margins, because we
+have the startup costs but over the long term, it is accretive to our corporate average.
+Q - `Vijay Rakesh, Mizuho Securities `
+Got it. And just on the GTAT side, obviously, very good to see you guys are pivoting to that. It's
+obviously, Vi [ph] and silicon carbide are huge markets, and quadrupling the capacity there but
+can you give us some color on how that translates the quadrupling of silicon carbide capacity, how
+that translates to your silicon carbide wafer capacity or how much of your revenue will be
+addressed internally with that quadrupling? Thanks. That's it.
+A - `Hassane El-Khoury, President and Chief Executive Officer `
+Yes. Our intent is to have majority of our demand supported by our internal capability. Obviously.
+We are also partnered. We have outside sources that we are able to flex capacity during a bumps
+in ramp. But if you think about the quadrupling of our output from GTAT by the end of '22, you can
+think about it as putting that infrastructure for the supply over the next few years. I talked about
+more than doubling in '22, we're going to double again from that in '23. As I mentioned in my
+prepared remarks this quarter and last quarter, that's what's going to be supported by the GTAT.
+But today, we do have still a mix. But our -- as we ramp up the GTAT capability and really, the
+capacity expansion I talked about, is moving more and more of our substrate internal.Q - `Vijay Rakesh, Mizuho Securities `
+Got it. Thank you.
+Operator
+Your next question comes from the line of `Chris Caso, Raymond James from Raymond James. Your line is open.
+Q - `Chris Caso, Raymond James `
+Yes. Thank you. Good morning. Just a question on pricing. What's been happening there and I
+guess, there's two elements of pricing, ASP increases because of the mix shift and then pricing
+on individual products. Can you just speak about how much of a tailwind that's been and where
+you see that's going as you go into 2022?
+A - `Hassane El-Khoury, President and Chief Executive Officer `
+Yes. So, if I -- if you look at, 2022 is going to be a majority of mix shift. Most of the price or cost
+increases that we're incurring, we're absorbing through yield improvement or operational
+efficiency. So that's going to be minimal, but the primary driver is going to be a mix shift based on
+really, the new baseline that we've achieved exiting Q4. That new mix shift is going to keep and
+maintain the margin profile that we have on our product. And of course, it's going to keep
+sustaining based on that mix shift we're going to be shipping, given the profile we know already
+in 2022 being fully booked.
+So that's on the gross margin. The value, price-to-value discrepancies we've seen a couple of
+points I'll make in the strategic markets that is sustainable. That's the new, that's the value of our
+products that we have in the baseline today. The only, I guess, pricing actions that will not be
+sustainable is in that non-core business that Thad talked about that we'll be exiting as the supply
+comes online from some of our peers. We're not going to chase that price down. Today, it's
+more favorable than it has been historically. Still dilutive, but more favorable, but we don't plan on
+maintaining that business. We'll be exiting that. So that price -- that portion of that business,
+where priced I don't see that as being sustainable. It is not going to be a drag on margin because
+we plan on exiting and that's all part of the guide that Thad talked about. Everything that remains
+with our profile and our mix shift is what I call sustainable profile and that's where we can expect
+our forward-looking mix to be.
+Q - `Chris Caso, Raymond James `
+Got it. Helpful. Thank you. So, for a follow-up question, if you could give us some numbers around
+the Belgium fab sale, what's the cost and marginal impact of that over time? And when do some
+of those benefits start layering in?
+A - `Thad Trent, Executive Vice President and Chief Financial Officer `
+Yes. So, we won't -- this is Thad. We won't see the benefit until we fully exit the fab. So, as I said,
+It'll take one years to three years. When we're totally out of that fab, you can think about $25
+million annualized fixed cost coming off of the company. In the short term, when the buyer takes
+over that fab, we'll basically be paying the equivalent cost of what we have today. But as we exit,
+you'll see a benefit over that timeframe, over that time period.
+Q - `Chris Caso, Raymond James `Operator
+Your next question comes from the line of `John Pitzer, Credit Suisse from Credit Suisse. Your line is open.
+Q - `John Pitzer, Credit Suisse `
+Yes. Good morning, guys. Thanks for letting me ask questions. Congratulations on the solid
+results. Thad, just going on back to channel inventory. You said, it's back to six weeks to eight
+weeks after a kind of a pop-on linearity at the end of the fourth quarter. Can you help us
+understand what's a normalized level that you guys are thinking about and how long it might take
+to get back to that normalized level?
+A - `Thad Trent, Executive Vice President and Chief Financial Officer `
+Yes. So today, we think about normalized level is going to be in that six to seven-week range,
+given the supply constraints. As you know, we're holding inventory on our balance sheet rather
+than shipping into the channel. We're making sure that this inventory is going to our strategic
+customers, where we're allocating them appropriately, whether it's through the channel or
+whether it's direct. By holding that inventory, we can control where it goes.
+So, in the short-term, I think we popped up to 7.3 from 6.8. I think that's kind of the normal range
+what we're going to be looking at probably for the remainder of this year. I think when you look
+further out there, we're probably looking something around 10 weeks, plus or minus, I think is
+what we'll be doing. I mean, obviously, we've got to see where this market kind of shakes out and
+when we could do that. But I think for the foreseeable future, it's six weeks to seven weeks.
+Q - `John Pitzer, Credit Suisse `
+Got it. And then Thad, I also thought I heard you say that unit volumes drove most of the
+sequential growth in the December quarter. One, is that true? And if it is, I'm just kind of curious,
+if you can help us walk through the incremental margin leverage and what drove that
+sequentially? Because by my math, the exiting of the businesses only gave you about 70 bps. It
+sounds like most of it was unit driven. I know that utilization was up. Can you just help me kind of
+square that circle a little bit?
+A - `Thad Trent, Executive Vice President and Chief Financial Officer `
+Yes. So, we -- revenue was up 6%, units were up 5.7%. So, you're right, so that the top-end
+revenue came from additional units being shipped primarily and then obviously, a mix shift in the
+higher margin. So, when you think about the gross margin improvement, sequentially, it is more
+shifts into the -- more favorable shifts into the strategic markets. We did get operational
+efficiencies, which is reducing our manufacturing cost as well. And then as I said, there's a slight
+pricing increase as well that we're seeing kind of in the market as we're passing on additional
+costs to our customers that we've been seeing.
+Q - `John Pitzer, Credit Suisse `
+And then Hassane if I --
+A - `Hassane El-Khoury, President and Chief Executive Officer `
+And John, you can think about is the auto and industrial, that was a recipient of the mix shift that
+we have from the non-core, the business that we exited, that also drives just a higher ASP also,just because of the market mix and that's why we favor those markets from a strategy
+perspective. So then, it's the unit at a higher ASP.
+Q - `John Pitzer, Credit Suisse `
+That's hopeful. And then if I could just sneak one down on the silicon carbide market, when you
+talk about longer term, this being accretive to your model, I'm just kind of curious, how you're
+thinking about kind of the global capacity for silicon carbide wafers versus kind of the incremental
+value add that your IP can bring to bear? To what extent are you going to be sort of a prisoner to
+global supply-demand where we have to figure out kind of a CapEx model and to what extent
+are you not going to be a prisoner to that because you bring something unique to the table?
+A - `Hassane El-Khoury, President and Chief Executive Officer `
+Yes. Look, we -- I have always said that nobody wins because you have material. Nobody wins
+because you have supply assurance, which makes everybody comfortable and competitive
+advantages. But what you win is the efficiency of your products. That's how customers look at it.
+Nobody's going to take an inferior product for a flagship EV that they're ramping, just because
+you have supply. But they will select the supplier, which they have selected us, because of our
+product performance, our roadmap, and they will get more comfortable and more bullish just like
+I am when we have the supply assurance to support their ramp. That's what's going to be kind of
+the landscape moving forward.
+So, having our supply and the assurance of supply and really controlling our fate with the
+substrate through the GTAT acquisition that we closed, gives us that baseline that we are able to
+ramp from. But we remain winning based on the efficiency of our products and the
+aggressiveness of our roadmap.
+Q - `John Pitzer, Credit Suisse `
+Thanks, guys.
+Operator
+Your next question comes from the line of Christopher Roland from Susquehanna. Your line is
+open.
+Q - `Christopher Rolland, Susquehanna `
+Thanks, guys. Congrats on that gross margin guide in particular. I guess, my first question for
+either of you guys, the LTSAs, I think, I missed maybe some of the details there. But if you could
+describe kind of what percentage revenue falls under LTSAs today? And looking out to 2025, I
+mean we know what you guys did with LTSAs and Cyprus. But what are your plans for -- what
+percentage of revenue by, call it 2025, might be under LTSA?
+A - `Hassane El-Khoury, President and Chief Executive Officer `
+Yes. Look, I'm not giving percent covered in LTSA. I can tell you in 2022, we're sold out. We're fully
+booked. Anything incremental we get is going to come from efficiency that we get through the
+year in units that were able to ship. So 2022, kind of that's how you can think about it. 2023, our
+LTSAs that I keep referring to, extend through 2024. Our focus on LTSA is on strategic and
+obviously, there's always that the net loss that we're talking about, (inaudible) obviously that's not
+under LTSA. We're going to be replacing that with an aggressive new product ramp. So, I'm nottalking about percent under LTSA, but I can tell you the visibility is higher than it's ever been in the
+company and it doesn't -- it extends much beyond 2020.
+Q - `Christopher Rolland, Susquehanna `
+Thanks, Hassane. And then for my second question, the exited business that you guys did, I think
+you said $170 million at 20% gross margin, I was wondering, how much of that might be left? And
+then secondly, if a downturn were to occur and you guys needed to still fill your fabs, could you
+re-engage successfully with those accounts or do you think that ship has sailed?
+A - `Hassane El-Khoury, President and Chief Executive Officer `
+No. Look, I'll answer the second part is that's an important pillar of the strategy. The answer is,
+we're not going to chase after it. Because -- think about it this way, if there is a market downturn,
+that business is highly dilutive. I mean, you can think about the 15% to 25% margin today, that's in
+a favorable pricing environment. So, you can imagine in a downmarket, that revenue or that
+margin, is way worse than it is now at that 20%. So, the answer is, we're not going to chase after
+it. Strategically, we are walking away from it, regardless of what the market does.
+What we are doing in the meantime to make sure that our -- is our manufacturing optimization is
+as we're exiting those, we are resizing our manufacturing footprint in order to prevent under-
+loading that historically has plagued the company. So that's going to give us that sustainable
+margin that we are delivering. So even in a downturn, we're not going to get the drag from gross
+margin because of mix. We're going to be in a favorable mix regardless of what the market does
+from a margin perspective, and we are working on our manufacturing optimization, like Thad
+talked about with the Belgium fab, and then ramping of the East Fishkill, where we have scaled
+fab through our Fab-Liter strategy in order to sustain that and prevent under-loads. So, we're not
+going to run after bad business no matter what the market does. That's strategically, our
+direction.
+Q - `Christopher Rolland, Susquehanna `
+Thanks, Hassane.
+Operator
+Your next question comes from the line of `William Stein, Truist Securities from Truist Securities. Your line is open.
+Q - `William Stein, Truist Securities `
+Great. Thanks for taking my question. I'll add my congratulations on the great results and outlook.
+I'm wondering if you can dig a little bit more into the LTSAs just asked about. But specifically, do
+these look like sort of committed volume where specific orders are allocated as the demand
+becomes more clear? In other words, sort of just volume commitments or are these more like
+hard purchase orders placed in sort of a blanket fashion?
+A - `Hassane El-Khoury, President and Chief Executive Officer `
+So, I'll answer, if I understood the question correctly. The LTSAs are committed, both volume and
+pricing. That gives us the visibility and they're committed on mix. So, it's not a blanket LTSA of
+some revenue number. It is associated to a mix, because that's what we're using in order to
+decide on where to expand our capacity, which is purely on our strategic products. What we don't
+want is just a blanket capacity expansion in good or bad day. So, we're focusing our capacity
+expansion on where the LTSAs are. And again, the LTSAs goes down in volume, price and mix. It'sthe best visibility we have and like I said, extend over a multi-year period, because capacity we're
+putting in today is really impacting '23 and '24. 2022 is kind of, it is what it is. And that's why I say,
+it's fully committed year as far as mix and volume, plus some of the efficiencies that I talked
+about we'll get throughout the year.
+Q - `William Stein, Truist Securities `
+That helps. And then just a clarification on that last point as well. It sounds like lead times are
+beyond 52 weeks at this point. Is that correct? Have they extended further during the quarter?
+And maybe, similar question around backlog, has that grown in the last 90 days?
+A - `Thad Trent, Executive Vice President and Chief Financial Officer `
+Yes. Well, it's Thad. The lead times are very consistent. They are right around 45 weeks plus or
+minus -- consistent with what we've seen in the past couple of quarters, so no major change on
+that. Backlog continues to be very strong. It's outpacing supply. This is purely a supply game right
+now in terms of just catching up with demand.
+A - `Hassane El-Khoury, President and Chief Executive Officer `
+And just to clarify my comment that anything now is for 2023 is more on the CapEx, not on really
+supply and demand perspective, meaning, installing CapEx through '22 will really impact capacity
+expansion in '23.
+Q - `William Stein, Truist Securities `
+Thank you.
+Operator
+Your next question comes from the line of `Harlan Sur, JPMorgan from JPMorgan. Your line is open.
+Q - `Harlan Sur, JPMorgan `
+Good morning. Congratulations on the solid results and execution. Good to see the sale of the
+Belgium fab. I know it's going to take a few years to see the benefits of this. I believe that you
+guys had targeted total fixed cost reductions from smaller fab exits to drive about $125 million,
+$150 million of fixed cost over the next few years. Is most of this fixed cost reduction still ahead of
+the team and have you been able to actually find more opportunities for fixed cost reductions?
+A - `Thad Trent, Executive Vice President and Chief Financial Officer `
+Yes, Harlan. It's Thad. That number is still the targeted number that we're going after. As I said
+earlier, Belgium is roughly about $25 million of that fixed cost. So, you can see, we've got a lot
+ahead of us. We're not done with the fab divestitures. We laid out that plan, that Fab-Liter plan
+and we're still executing to that plan.
+Q - `Harlan Sur, JPMorgan `
+Great. Thanks for that. And then Intelligent Sensing on a 4Q and full-year basis, I mean, very
+strong year-over-year growth, but still quite a bit lower than your auto industrial segments
+combined. In fact, I think ISG growth was almost 2X lower versus PSG in your auto and industrial
+segments combined in Q4. Yet we know that demand in content expansion is just as strong as
+your power business. So, you outsourced a big part of ISG, what's the visibility on when capacitysituation starts to improve meaningfully from your foundry partners? And is this motivating the
+team to actually accelerate its insourcing efforts here?
+A - `Hassane El-Khoury, President and Chief Executive Officer `
+Look, we are -- so you're absolutely right. It's not -- this is purely a supply-constrained
+environment for the sensing, given the higher percent of our external manufacturing. So, we
+remain focused on working with our outside foundry partners. We were able to get more supply
+in the fourth quarter. That's what drove kind of the results, and we're working continuously in
+order to secure more and more supply for 2022. So that's kind of where that business comes in.
+You're right. It's not the demand, it's more of a supply and our focus about the mix, internal and
+external, remains on track.
+Q - `Harlan Sur, JPMorgan `
+Thank you.
+Operator
+Your next question comes from the line of `Tore Svanberg, Stifel Nicolaus from Stifel. Your line is open.
+Q - `Tore Svanberg, Stifel Nicolaus `
+Yes. Thank you and congratulations on the record results. Could you elaborate a little bit on the
+inventory and the channel? I think you said, it went up to 7.3, but I think you also said in this
+quarter, it came back down. So, is that mainly because sell-through actually got better again this
+quarter or did you take an opportunity to perhaps hold a little bit more in this? Just wanted some
+clarification there please.
+A - `Thad Trent, Executive Vice President and Chief Financial Officer `
+Yes. The inventory in the channel went up to 7.3 weeks from 6.8 weeks in Q3. It was purely a
+result of timing of shipments late in the quarter in Q4. Sell-through in the channel remains very
+robust. It's not necessarily that it has cranked up here in Q1. It was just purely a timing of delivery,
+and when we got supply and be able to get it into the channel. So, it's already returned back into
+that 6.8 weeks level. And as I was saying earlier, we think going for what will maintain kind of the
+six to seven weeks' range for the foreseeable future.
+Q - `Tore Svanberg, Stifel Nicolaus `
+Understood. Thank you for that. And the $650 million run rate for CapEx, how much of that is kind
+of going to fund in a regular CapEx versus the additional investments you're having now in 300-
+millimeter and the silicon carbide capacity?
+A - `Thad Trent, Executive Vice President and Chief Financial Officer `
+The vast majority of it is going to silicon carbide and to CapEx for East Fishkill, this 300 mm fab
+buildout. There is -- the rest of it, I would consider more maintenance, CapEx.
+Q - `Tore Svanberg, Stifel Nicolaus `
+Great, helpful. Congrats, again.
+OperatorYour next question comes from the line of Rajvi Gill from Needham & Company. Your line is open.
+Q - `Rajvindra Gill, Needham & Company `
+Yes. Thank you and congrats as well. You might have touched upon this before, but if I look at the
+percentage of revenue coming from auto and industrial, it's now 63%. So ex those markets, the
+other markets represent 37% of sales last year, the other markets were representing about 42%.
+So, your non kind of core markets are going down from 42% to you know 37%, 38% as you ramp
+auto industrial. When we're thinking about this 48% to 50% gross margin long-term, can you give
+us a sense; number one, in terms of what percentage of sales do we think auto industrial
+represent over time, and any sense in terms of the spread of the gross margins between auto
+and industrial against the other segments.
+A - `Hassane El-Khoury, President and Chief Executive Officer `
+Yes. The --we stated in our Analyst Day that we expect over the next five years auto and
+industrial to become about 75% of our total revenue. So, we're at 63%. So that gives you kind of
+our trajectory, because it's also tied to our margin expansion as we move forward towards that
+75%. Obviously, the mix or margin profile is more favorable from these markets because that's
+part of the trajectory that we have, getting to that 48% to 50% is by being more and more
+exposed to the markets. But more importantly, it's the new product that we are ramping that are
+better margin profile. So, it's a mix shift for our products, new products versus call it, the run rate
+products and a mix shift to end markets, auto and industrial becoming 75% as the expense of
+other markets that have historically have had lower margin profile. So net-net, you get the margin
+expansion and the growth that we talked about.
+Now, I just want to highlight one thing; in the other bucket, other than auto industrial, we do have
+a growth segment with favorable margin, and that's our cloud and 5G play for that market. That
+market, we talked about it growing at 11% in our Analyst Day. So, we see that also as a favorable
+mix from both product and market that drive an expansion of margin beyond where we are
+today. So, these are kind of the three big components you can think about driving the growth for
+the company moving forward and the remaining margin expansion that Thad talked about.
+A - `Thad Trent, Executive Vice President and Chief Financial Officer `
+Yes, Rajvi, just let me expand on that a little bit as well. The 37% has got some very favorable
+gross margin in there. It's not like it's all low gross margin. So, we fast forward and we get 75% of
+our business in auto and industrial, the other 25%, other it's still favorable margin, right. It's not a
+low margin business. That's the part that we're exiting. But Hassane is right. As we flex more into
+auto industrial, that would be more accretive, and obviously, the 5G will be accretive as well. But
+there is good high gross margin in our other bucket as well.
+Q - `Rajvindra Gill, Needham & Company `
+That's helpful. And for my follow-up Thad, you know your shift to a Fab-Liter manufacturing
+strategy is underway. You had mentioned in the past that you want to maintain your internal
+manufacturing footprint around 65% and you'll achieve that through a lighter footprint by exiting
+smaller subscale facilities and moving to or expanding larger ones. With your new 48% to 50%
+gross margin target, how do we think about that component of the internal versus external
+manufacturing capacity?
+A - `Thad Trent, Executive Vice President and Chief Financial Officer `Yes. So today, internally, we manufacture roughly 65% of our own product. As we fast forward, we
+bring on East Fishkill, the 300-millimeter fab. We said that we have the capabilities of expanding
+capacity by 1.3X of what it is today. Now we have the option there as we add capacity and we add
+CapEx to be able to support that, but as we look further out, that model doesn't change. We still
+believe we'll manufacturer 65% of our own product in-house, because we'll get a cost benefit of
+it. It's really just exiting those subscale fabs, moving it into more efficient fabs and obviously, the
+300-millimeter fab is a component of that.
+Q - `Rajvindra Gill, Needham & Company `
+Great. Congrats, again.
+A - `Thad Trent, Executive Vice President and Chief Financial Officer `
+Thanks, Rajvi.
+Operator
+This brings us to the end of our question-and-answer session. I'd turn the call back over to
+`Hassane El-Khoury, President and Chief Executive Officer, President and CEO, for some closing remarks.
+A - `Hassane El-Khoury, President and Chief Executive Officer `
+Thank you all for joining us today. I once again, thank our worldwide teams for their hard work in
+accelerating our transformation and driving outstanding results over the last year.
+With the transformation of our business, we have built a strong engine to power our growth for
+many years to come. We have established leadership in the fastest-growing semiconductor
+markets such as vehicle electrification and ADAS, and we are enabling disruption and energy
+infrastructure and factory automation. We are driving growth while accelerating profitability and
+rapidly expanding margins. We expect to sustain this momentum with the ongoing
+transformational changes to our cost structure and the impending ramp of our EV business. Thank
+you.
+Operator
+This concludes today's conference call. Thank you for your participation. You may now disconnect.

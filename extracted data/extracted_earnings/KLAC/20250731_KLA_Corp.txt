@@ -1,0 +1,739 @@
+Q4 2025 Earnings Call
+
+Presentation
+Operator
+Good afternoon everyone, my name is Bo and I will be your conference operator today. At this
+time, I would like to welcome everyone to the KLA Corporation June Quarter 2025 Earnings
+Conference Call and Webcast. All participant lines have been placed in a listen-only mode to
+prevent any background noise. After the speakers' remarks, there will be a question-and-answer
+session. (Operator Instructions)
+I would now like to turn the call over to `Kevin Kessel, Vice President, Investor Relations, Vice President of Investor Relations and
+Market Analytics. Please go ahead, sir.
+`Kevin Kessel, Vice President, Investor Relations `
+Welcome to the June 2025 quarterly earnings call. I am joined by our CEO, `Rick Wallace, President and Chief Executive Officer; our CFO,
+`Bren Higgins, Executive Vice President and Chief Financial Officer. We will discuss today's results as well as our September quarter outlook released
+after the market closed and available on our website along with supplemental materials.
+We are presenting today's discussion and metrics on a non-GAAP financial basis unless otherwise
+specified. All full year references made refer to calendar years. The earnings materials contain a
+detailed reconciliation of GAAP to non-GAAP results. KLA's IR website also contains future events,
+presentations, corporate governance information and links to our SEC filings.
+Our comments today are subject to risks and uncertainties reflected in the disclosure of risk
+factors in our SEC filings. Any forward-looking statements, including those we make on the call
+today are also subject to those risks and KLA cannot guarantee those forward-looking
+statements will come true. Our actual results may differ significantly from those projected in our
+forward-looking statements.
+Rick will start with introductory comments on the business environment and our quarter, followed
+by Bren with financial highlights and our outlook.Now, over to Rick.
+`Rick Wallace, President and Chief Executive Officer `
+Thanks, Kevin. I'm going to cover KLA's business highlights for the June 2025 quarter, including
+commentary on KLA's relevance in the AI infrastructure buildout. For the June quarter, KLA's
+results were strong across-the board, and we were at or above the high end of our guidance
+ranges. Specifically, revenue was $3.175 billion, non-GAAP diluted EPS was $9.38 and GAAP diluted
+EPS was $9.06. We also had record free cash flow of over $1 billion for the quarter.
+KLA's leadership in process control has put the company in a unique position at the center of
+enabling success for our customers to buildout infrastructure to support artificial intelligence.
+Prioritized investment to ramp AI capabilities has fueled growth at the leading-edge across the
+semiconductor industry through more complex designs, faster product cycles, higher value
+wafers and increased demand for advanced packaging. In DRAM, investments in AI have been
+focused on high bandwidth memory, which demand higher performance, enhanced reliability,
+reduced redundancy and more sophisticated logic circuitry at base die chips that control the HBM
+stack. Demand for leading-edge logic, HBM and advanced packaging capabilities were the key
+contributors to KLA's performance in the June quarter.
+The importance of process control continues to increase due to semiconductor scaling, new
+architectures and materials and increasing designs. In particular, process control can improve time
+to results by debugging process integration challenges in the fab ramp phase and optimizing
+yield across a high volume manufacturing environment with high semiconductor device design
+mix. Additionally, the evolution and complexity of requirements for advanced packaging is
+creating new opportunities for the value of KLA's process control and process solutions.
+Finally, this leads to increased relevance for KLA's service business as KLA systems become more
+technically complex, are utilized for longer periods in the fab with customers where they're
+expecting optimal tool performance and availability. To deliver solutions to meet this demand, the
+company leverages the KLA operating model to focus on prioritizing, productizing new
+innovations in our product roadmaps and ensuring that our business operations can scale and
+execute to capitalize on strong growth and expanded market share in the most critical markets
+for our customers. To date, we've seen no material changes in customer demands or
+unannounced investment plans. As a result, our WFE assessment for 2025 is consistent with our
+expectations that were stated last quarter.
+There are more details about this quarter's highlights in our shareholder letter, but in short, KLA
+grew revenue 24% year-over-year in the June quarter with sustained strong investment in
+leading-edge foundry and logic and HBM. This quarter also marked another period of strong
+momentum for advanced packaging portfolio. We now expect advanced packaging systems
+related revenue to exceed $925 million in calendar 2025, up from our previous estimate of $850
+million last quarter and over $500 million last year. In services, our business grew to $703 million
+in the June quarter, up 5% sequentially and 14% year-over-year.
+Finally, the June quarter was strong from a cash flow and capital returns perspective, quarterly
+free cash flow topped $1 billion for the first time, ending at $1.065 billion. For the last 12 months,
+free cash flow was $3.75 billion with a free cash flow margin of 31% over the same-period. Total
+capital return in the June quarter was $680 million, comprised of $426 million in share
+repurchases and $254 million in dividends. Total capital return over the past 12 months was $3.05
+billion.KLA's June quarter results reaffirm our leadership in process control and the strength of our
+broad and differentiated portfolio. They also demonstrate the essential role KLA's products and
+services play in supporting semiconductor industry growth. Our consistent execution reflects the
+resilience of the KLA operating model, the dedication of our global teams and our disciplined
+capital allocation to invest in our business over the long run and maximize long-term shareholder
+value.
+And with that, I'll turn the call over to Bren.
+`Bren Higgins, Executive Vice President and Chief Financial Officer `
+Thanks, Rick. KLA's June quarter results were strong. Revenue was $3.175 billion, above the
+guidance midpoint of $3.075 billion.
+Non-GAAP diluted EPS was $9.38, above its guidance range. GAAP diluted EPS was $9.06, which
+was at the upper end of the guidance range. At the guided tax rate of 13.5%, non-GAAP diluted
+earnings per share would have been $9.
+Gross margin was 63.2%, slightly above the midpoint of guidance as the quarter played out
+mostly as expected. Operating expenses were $603 million, about $8 million above the guidance
+midpoint. Operating expenses were comprised of $353 million in R&D and $250 million in SG&A.
+Operating margin was 44.2%. Other income and expense net was a $23 million expense with
+upside from guidance provided by a favorable mark-to-market adjustment of the strategic
+supplier investment. The quarterly effective tax rate was 9.9%, well below guidance as various
+discrete items impacted the quarter's result.
+Net income was $1.24 billion, GAAP net income was $1.2 billion. Cash flow from operations was
+$1.16 billion and free cash flow was $1.06 billion. The breakdown of revenue by reportable
+segments and end markets and major products and regions can be found within the shareholder
+letter and slides.
+Moving to the balance sheet, we ended with $4.5 billion in total cash, cash equivalents and
+marketable securities and debt of $5.9 billion. The company has a flexible and attractive bond
+maturity profile, supported by strong investment-grade ratings from all three major rating
+agencies. The cornerstone of KLA's business is consistent strong free cash flow generation,
+driven by one of the best operating models in the industry and a predictable and highly
+differentiated service business. This helps drive a comprehensive capital return strategy that
+includes consistent dividend growth and increasing share repurchases over the long-term.
+Our recent actions emphasize our commitment to capital returns and our confidence in the long-
+term shareholder value accretion of KLA. On April 30, 2025, we announced the sixteenth
+consecutive annual dividend increase, which was up 12% to $1.90 per share per quarter or an
+annualized dividend of $7.60 per share. Along with this action, we also announced a new $5 billion
+share repurchase authorization.
+I'll now turn to the outlook. It remains driven by increasing investment in leading-edge logic, high
+bandwidth memory and advanced packaging. For WFE in 2025, as stated earlier, we are
+maintaining our original outlook for mid-single-digit growth in WFE from approximately $100 billion
+in 2024. This growth is expected to be driven principally by increasing investment in both leading-
+edge foundry/logic and memory to support growing AI and premium mobile demand, partially
+offset by lower overall demand from China.Given KLA's strong business momentum, expanding market share opportunities and higher
+process control intensity at the leading-edge across all segments, we remain confident in our
+ability to outperform the overall WFE market in 2025. Finally, early customer discussions are
+constructive on expectations for calendar year 2026 to be a growth year for the industry.
+KLA's unique product portfolio differentiation and value proposition are focused on enabling
+technology transitions, accelerating process node capacity ramps and ensuring yield entitlement
+and high volume production. We continue to be encouraged that our customer discussions on
+product roadmaps and capacity planning have remained consistent. In this industry environment,
+KLA will stay focused on supporting customers, executing product roadmaps and driving
+productivity across the enterprise.
+KLA's September quarter guidance is as follows. Total revenue is expected to be $3.15 billion,
+plus or minus $150 million. Our quarterly revenue expectation and general stability for the
+remainder of the calendar year remains consistent with that articulated over the past two
+quarters. Foundry logic revenue from semiconductor customers is forecasted to be
+approximately 75% and memory is expected to be approximately 25% of semi-process control
+systems revenue to semiconductor customers.
+Within memory, DRAM is expected to be about 79% and NAND the remaining 21%. As always,
+these business mix approximate -- approximations are for our semiconductor customers only and
+do not completely represent our aggregate process control systems revenue.
+Gross margin is forecasted to be 62% plus or minus one percentage point, reflecting a slightly
+weaker systems revenue mix expectation and a 50 basis point to 100 basis point impact from
+announced global tariffs. This tariff impact estimate is below our original estimate of roughly 100
+basis point headwind to gross margin that we discussed last quarter.
+This environment is new to our industry and the long-term tariff situation remains unclear. We
+continue to assess the impact across our business and identify potential mitigation actions to
+reduce our exposure to this headwind over time. We will provide periodic updates on our
+assessment when appropriate.
+For calendar 2025, based on the results for the June quarter, guidance for the September
+quarter and our expectations for the business mix across systems and services, including the
+systems product mix, tariffs and factory utilization, we expect gross margins for calendar '25 to
+remain approximately 62.5%.
+Operating expenses are forecasted to be approximately $615 million in the September quarter
+as we continue to make product development and infrastructure investments to support
+expected revenue growth. Given our expectations for company growth and product
+development roadmap requirements, we will maintain our operating expense trajectory. Our
+business model is designed to deliver 40% to 50% incremental non-GAAP operating margin
+leverage on revenue growth over the long run.
+Other model assumptions include other income and expense net of approximately a $33 million
+expense. The non -- the non-GAAP effective tax rate assumption for the September quarter and
+the remainder of the calendar year is 13.5%, lower than the 14% we had previously estimated
+based on expect -- our expectations for the geographic distribution of income.
+For the September quarter, GAAP diluted EPS is expected to be $8.28 plus or minus $0.77 and
+non-GAAP diluted EPS of $8.53 plus or minus $0.77. EPS guidance is based on a fully diluted share
+count of approximately 132.4 million shares.In conclusion, our near-term revenue guidance remains stable, indicating the continuation of
+current business levels, and our customer discussions support this outlook. Based on
+conversations with customers, we anticipate continued solid growth in calendar 2025. Given the
+revenue commentary for the remainder of the calendar year, we expect to meaningfully
+outperform the mid-single-digit WFE growth rate.
+KLA focuses on delivering a differentiated product portfolio that addresses customer technology
+roadmap requirements, which are driving our longer term relevance and growth expectations.
+KLA's business is well positioned for the current technology inflections, while we cannot ignore
+the near-term geopolitical trends, we are encouraged by the customer engagement that informs
+our business forecast. The long-term secular trends driving semiconductor industry demand and
+investments in WFE and advanced packaging are compelling and represent a relative
+performance opportunity for KLA over the next several years.
+That concludes our prepared remarks. Let's begin the Q&A.
+`Rick Wallace, President and Chief Executive Officer `
+Thanks, Bren. Bo, if you could please queue folks for questions.
+Questions And Answers
+Operator
+Certainly Sir. (Operator Instructions) We'll go first this afternoon to `CJ Muse, Analyst, Cantor Fitzgerald of Cantor Fitzgerald.
+Q - `CJ Muse, Analyst, Cantor Fitzgerald `
+Good afternoon. Thank you for taking the question. So I just would love to hit on your comment
+around early customer discussions constructed for growth in 2026. You know, you work typically
+from eight plus monthly lead times. Obviously, you've got some visibility into '26. So would love to
+hear kind of how those conversations are going and what -- you know, what -- what needs to
+happen to have firm conviction on growth in '26.
+A - `Bren Higgins, Executive Vice President and Chief Financial Officer `
+Yeah, CJ, hey, thanks for the question. And, you know -- yeah, I think it's a little bit early for us to
+quantify it, but certainly, we're encouraged by the discussions we're seeing. We think that as you
+look just across the industry, based on those discussions that we'll see customers investing more.
+Obviously, what's driving the space today is high performance compute, and so that part of the
+market is strong and we'll have to see how other end markets play out in terms of what that
+growth looks like. But certainly at the leading-edge, we're encouraged by the activity we're
+seeing supported by that market. We're optimistic that we might see some broadening of
+investment there.
+DRAM continues to be strong, fueled by HBM, Flash is coming off at low levels, but I think the
+Flash market continues to be constructive moving forward. Overall, legacy seems like it's bottom.
+So I think we feel pretty good about -- about where that is. We'll see what growth looks like, but
+at least in terms of where it's at now, I don't think it's any worse. And then our -- our modeling as
+it relates to Native China activity is that it's -- it's likely down, you know, somewhere in that -- you
+know, we'll see how far down, but I think it's down, you know, after a couple of years of -- of
+pretty elevated investment in '23 and '24. So I do think that '25 is down, and we think '26 has
+probably, you know, has some -- some headwinds as well as --as that normalizes given most of
+the focus there is on legacy.Q - `CJ Muse, Analyst, Cantor Fitzgerald `
+Very helpful.
+A - `Rick Wallace, President and Chief Executive Officer `
+Yeah, just CJ -- CJ to add to it. CJ just to add, as we see the continued investment in the
+advanced logic, as Bren mentioned, we see momentum as more and more players are bringing
+their design. So you think about the sustained investment in advanced logic, and then even some
+investment going back a node. So we're also seeing some additional -- so we feel really good
+about logic/foundry in terms of that overall momentum plus the packaging momentum we've
+talked about.
+Q - `CJ Muse, Analyst, Cantor Fitzgerald `
+Very, very helpful. I guess on -- on the domestic China front, you know, you -- you talked early
+indication of -- of lower again in '26. Curious, you know, as three regions, Wuhan, Shanghai,
+Beijing are -- are competing for supremacy and we've now gone from four to six large kind of
+players. How does that kind of inform your view? Does -- does it give you a sense that things
+would only decline a little or -- or -- or -- you know, a lot or -- or just too early to tell? Thanks so
+much.
+A - `Bren Higgins, Executive Vice President and Chief Financial Officer `
+Yeah. I think it's too early to tell at this point. As I said, you know, we had two years of -- of -- of a
+lot of backlog we had to ship through and work off, which we have done. And, you know, I think
+now, you know, that we're seeing investment from our other customers. We're seeing that drive -
+- drive our business outlook more strongly here moving forward. So -- so we'll have to see as --
+as we move forward here. But my sense just in terms of looking at it bottoms up and trying to
+reconcile with some of of the top-down kind of market outlook information, I -- I feel like it's
+probably got some headwinds to it in terms of the investment levels relative to '25.
+Operator
+Thank you. We'll go next now to `Harlan Sur, Analyst, JP Morgan of JP Morgan.
+Q - `Harlan Sur, Analyst, JP Morgan `
+Good afternoon and great job on the quarterly execution guys. Year-to-date, so March and June,
+your process control systems business, right, that's inspection and patterning, that's up 35%
+year-over-year. So looks like you guys are setting up for another strong year of growth and
+maybe even more share gains, right. But within that, inspection is up 50% year-to-date, while
+patterning is kind of flattish, kind of similar to the profile of calendar '24, where inspection drove
+most of the growth. So maybe you can just help us understand, A, the drivers of the massive
+strength in inspection is it broad bases across optical, dark shield, bare wafer, e-beam? And then
+maybe help us understand the relatively flattish growth in patterning? And do you guys anticipate
+another year of total share gains and process control?
+A - `Bren Higgins, Executive Vice President and Chief Financial Officer `
+Yeah. Yeah, Harlan, thanks for the comments. A lot there. I'll try to unpack it a bit. I mean, certainly,
+we've seen strong inflection in our optical pattern inspection business. We were supply
+constrained in that business for some time. Now, we have more supply, and -- and so we'recritical for -- for gate all around. So that's been a nice driver. Obviously, what's happened in
+packaging has also been -- been a nice driver for this part of the business. Sampling rate and
+inspection given the challenges are very, very high. And so that's been a nice -- a nice tailwind for
+that part of the business as well. So inspection has -- has definitely been inflecting.
+As it relates to patterning, you have really three businesses there in patterning. You have optical
+metrology, which is around overlay, and then you also have film measurement, reticle -- reticle
+inspection, and with overlay, as we've seen some slowdown in advanced litho with -- from a
+customer point of view, there -- there's an attach rate of that business to litho, and so that's --
+that's reduced, you know, I'd call it more, you know, really non-consumption at -- at-- in that
+business. So that's been a little bit weaker. It's really the only business we have that has -- has an
+attached to litho generally.
+Film measurement, yeah, I think it's a little bit lumpy. Would expect better than market growth out
+of that business as we go through the year for 2025. And for reticle inspection, it's a lumpy
+business. We have some large integers in there, but would expect to see that business grow
+meaningfully and at a record level for calendar '25 versus '24. So a little bit of, you know, just what
+happens in the quarter, but I think to -- from a directional point of view, I think we'll see stronger
+patterning as we move through the second half of the year.
+A - `Rick Wallace, President and Chief Executive Officer `
+Yeah. And Harlan, to your point, I think overall, we are seeing process control intensity continue to
+rise for all the reasons we've talked about the -- the advanced designs, large die. And so initially
+at least a lot of that favors inspection and Bren talked about some of this -- the -- the facts and
+patterning. And then the reticle comes around. I mean for KLA, reticle in 2025 is going to be a
+record year. So we feel good about where we are positioned there and we have more products
+coming along. So we feel process control intensity condensing [ph] is to strengthen and our
+market position is very strong.
+Q - `Harlan Sur, Analyst, JP Morgan `
+Very insightful. Thank you for that. And yet again, you guys left your target for advanced
+packaging revenues from $850 million to now $925 million for calendar '25. That's up like 80%
+year-over-year. I -- I assume it's a combination of HDM and 2.5D and 3.5D advanced packaging.
+We know that many of -- of next generation 2 nanometer AI GPU, XTU designs are targeted for
+this kind of 3.5D packaging architecture, stack chips, more HDM stacks, just overall significantly
+more complex versus 2.5D. But maybe you guys can just help us understand where -- where are
+you guys seeing the incremental upside? I think this is like the third or fourth time that you revised
+your full year outlook for advanced packaging. So where are you guys seeing the incremental
+upside?
+A - `Rick Wallace, President and Chief Executive Officer `
+So -- so Harlan, you touched on a lot of it. And -- and I think it's a combination of -- it took us a
+little while to have the products that were requested. And so a little bit of that is adoption and
+then some momentum once we started getting going. And then just the ramp that's -- it's all
+comes back to the buildout associated with the AI infrastructure. And, you know, for us, that's the
+third leg. We talked about logic foundry, advanced designs, bigger die, talked about HBM and talk
+about packaging and really it's that part of packaging. And I think as -- as our customers see
+success with our portfolio, we're gaining share.So the exciting part for us is apart from WFE dynamics, which I think we do spend an awful lot of
+time about, this is really outside of WFE. So we're seeing growth in packaging as a sector for
+inspection metrology. Also, our process position there is good. And then we're gaining share. So
+you have a -- a really nice combination. And when we talk to customers, we think we're closer to
+the -- at the beginning of this trend than at the end of it. We think this is -- there's a lot of growth
+to come.
+A - `Bren Higgins, Executive Vice President and Chief Financial Officer `
+Yeah, Harlan, the other thing I'd say is it's just if you just go back just a short period of time, let's
+go back a few years in 2022 as a percent of advanced packaging, our semi-process control
+business. Given the nature of the -- the requirements was -- was pretty low, you know, probably
+about a 1% intensity. Today, we're sitting, you know, somewhere around, you know, in that -- in 5%
+to 6% -- 6% range. So just in a few years, we've seen our position change quite dramatically as
+the -- as the requirements to Rick's point out, have -- have increased. So we're -- we're pretty
+excited about the growth rate and opportunity there and we think that this continues to be a
+growth area as we move into next year.
+Q - `Harlan Sur, Analyst, JP Morgan `
+Thanks, Rick. Thanks, Bren.
+Operator
+Thank you. We'll go next now to `Vivek Arya, Analyst, Bank of America Securities of Bank of America Securities [ph].
+Q - `Vivek Arya, Analyst, Bank of America Securities `
+Thank you for taking my question. On the first one, the process call -- control intensity in memory,
+I wanted to get your views on -- on this. Historically, you know, it used to be low closer to I think
+mature nodes. How is that process control intensity evolving as the industry is moving from
+traditional PDR DRAM to more high bandwidth memory. Is there a way to quantify what the
+benefits are to KLA because HBM is expected to be one of the, you know, fastest growth drivers
+in AI accelerators. So I'm just curious to understand how your opportunity is evolving as the
+industry migrates to HBM and then, you know, advanced versions of HBM.
+A - `Rick Wallace, President and Chief Executive Officer `
+Yeah. So I'll give you a qualitative and Bren can do the harder thing of giving you more
+quantitative. Qualitatively, you have more advanced, bigger, more valuable die with more
+challenging circuitry in the periphery and less redundancy. So AI, you have a tremendous pressure
+coming because these are in high use and therefore, these die, don't rust. These are, you know,
+unlike -- the duty cycle is high. So you've got to -- and they're part of an expensive system. So
+what our customers have said is they've increased and as you know, there's multiple players.
+They've increased the inspection both in the development, but also in the buildout and they're
+finding that they need everything they can get as to insight.
+And because these are more valuable die with less redundancy, the deep activity levels in the
+past that might have been acceptable are not. And so not acceptable now. So they need more
+coverage, they need higher tools, plus they're introducing new technology. So everything is
+driving toward higher process control intensity. We've been -- I don't know that we've been
+surprised, but we've been pleased by the adoption and we think there's more demand coming
+as people understand the challenges. And then they're on a roadmap cadence that's differentthan the consumer cadence was. So I think from their standpoint, they're not a lot of pressure to
+deliver at yield. So that's what's happening and why this adoption is very different than -- than
+memory has been in years for us.
+A - `Bren Higgins, Executive Vice President and Chief Financial Officer `
+So when DRAM went to -- went to EUV, we started to pattern a couple of layers or a few layers
+thing with EUV, we saw a step up in intensity. So process control intensity was somewhere around
+9% to 10% of -- of WFE back before. And then with the introduction of EUV, we saw that improve.
+We saw that improve about 100 basis points. But when you move to HBM, we think that there's
+another 100 basis points or so of opportunity there. We'll see how that plays out over time. But as
+-- as Rick said, as the requirements have changed, it's increased the value of our products and
+changed how customers sample and their expectations around reliability.
+You also have bigger die, which benefits everyone, but I think these -- some of these challenges
+that they have around the market requirements for HBM are benefiting process control uniquely.
+And so we're seeing that on the logic side, but we're also seeing that on the memory side as
+well. So right now, when we look at it, we think there's probably another incremental 100 bps on
+top of that. So if you go back pre-EUV to where we are today, it's probably somewhere in the
+neighborhood of 200 basis points of higher process control intensity. And our share position and
+momentum is -- is -- is in a pretty good place. So we're encouraged by what we're seeing.
+Q - `Vivek Arya, Analyst, Bank of America Securities `
+Very helpful. And then for my follow-up on -- on gross margins kind of near and a little more
+medium term. So if, let's say December quarter sales are flattish, should we assume gross
+margins stay flattish or are there any other mix effects, et cetera, that we should keep in mind?
+And then kind of more medium term, what are you doing to mitigate that tariff cost pressure?
+Can it be mitigated -- like when -- when should we assume that you have, you know, some
+alternatives in -- in place to get gross margins back to the trend line. Thank you.
+A - `Bren Higgins, Executive Vice President and Chief Financial Officer `
+Yeah. So the first part of your question, we talked about our views of calendar '25 gross margin at
+62.5%. So if you take Q1 and Q2 and our guidance for Q3, that will lead you to an uptick in gross
+margin in the fourth quarter based on our expectations now around revenue mix as it looks next
+quarter. So that -- that should get you there. You -- you can -- you can do the math and -- and --
+and figure out how to get there. But as it relates to tariffs here, there's a lot. I mean, first of all, as
+I said in the prepared remarks, it's -- it's a new thing for our industry, it hasn't been a factor in our
+business operations historically.
+So now as we face the likelihood of higher structural tariffs moving forward. There are some
+business processes as it relates to how we move parts around, how do we leverage free trade
+zones and things like that to reduce leakage of -- of -- of tariffs as it -- when you pay a tariff, but
+then you have an opportunity when you turn around to export where you can reclaim or claw back
+that -- the tariff that you pay related to the export. So there are a lot of those dynamics that are
+mitigating factors. Obviously, if it drives structural cost increase, then that's something that we'll
+have to deal with both in our service and system businesses over time, just like we would with any
+other cost increase.
+But we think that there's some opportunities to go do some things on the process side where,
+like we got a lot to do, the ROI wasn't all that compelling even though it might have been a -- you
+know, a better process. Well, if you add in the economic costs of incremental tariffs, all of asudden, some of those issues rise up or opportunities rise up to the priority scale. So that's really
+how we're thinking about it. I think for -- for the Street in terms of how you're modeling KLA, I
+think that the -- the 50 basis point to 100 basis point guidance headwind is -- is probably the way
+to think about it. And then as I start to see either some stability or -- or some changes in terms of
+how we're doing things that -- that -- that reduce that, I'll -- I'll provide that update when
+appropriate.
+Q - `Vivek Arya, Analyst, Bank of America Securities `
+Thank you.
+Operator
+Thank you. We'll go next now to `Shane Brett, Analyst, Morgan Stanley of Morgan Stanley.
+Q - `Shane Brett, Analyst, Morgan Stanley `
+Thank you for letting me ask the question. Apologies for asking a bit of a near-term question, but
+if I'm understanding this correctly, your September quarter foundry/logic revenue is likely to
+strengthen sequentially, but your memory revenue across both DRAM and NAND will decline. I
+thought that the memory mix, specifically DRAM may uptick a bit more in the second half. So just
+talk about the big business mix here and if we could see a memory uptick in the December
+quarter? Thank you.
+A - `Bren Higgins, Executive Vice President and Chief Financial Officer `
+Yeah. The way it's lining up, I think that we'll see DRAM stronger in the December quarter than --
+than the September quarter.
+Q - `Shane Brett, Analyst, Morgan Stanley `
+Got it.
+A - `Bren Higgins, Executive Vice President and Chief Financial Officer `
+This is really about timing -- timing of revenue, revenue recognition, those dynamics, you know,
+the shipments, but there's final -- there's product acceptance processes that we run through that
+drive revenue into a -- you know, into a particular quarter. But as I look at it and you think about
+some of the -- the project timing that's out there, I would expect to see it uptick into the
+December quarter.
+Q - `Shane Brett, Analyst, Morgan Stanley `
+Got it. Thank you very much. And for my follow-up, so at your 2022 Analyst Day, you set out $14
+billion revenue target for '26, which I think was based on $125 billion WFE assumption. I think your
+market share gains have clearly checked above what you're probably thinking in 2022. Just could
+you talk about those market share gains and sort of where your kind of current assumptions are
+towards -- as we think towards 2026, not really asking for a revenue guide, but if you can kind of
+give us a few crumbs on how to think about '26? Thank you.
+A - `Bren Higgins, Executive Vice President and Chief Financial Officer `
+Well, you're right, the 2026 plan assumed WFE level in the -- the mid 120 range. And so, you
+know, I -- we'll see whether we get there or not. But -- but I would say that -- that for KLA, wedon't need 125 to make that plan. But given the -- the strength that we've seen in our -- our share
+of WFE, the growth rates we've seen in packaging. Obviously, we've had some headwinds as it
+relates to export control in terms of loss opportunity, but also how that's affected our service
+business. But in general, we feel like we're pretty well positioned from a share of WFE point of
+view. We assume the 7.25% share of WFE. If you take out packaging, I think our share of WFE is up
+-- is approaching 8%, then you add in the packaging opportunity.
+So, you know, we'll see. If I got WFE levels in the -- the -- the mid-teens. I think we got a shot at it.
+But I think when you consider puts and takes, we don't need as much given the growth rates
+we've seen in our overall share of market. Now, that's been intensity driven. I mentioned
+packaging. We're also, I think, pretty confident around some of the share opportunities we also
+have that's -- all that's part of that number. The financial model underneath is -- is operating very
+consistent. Absent the tariff effect, we'd probably be in line or maybe even slightly better on the
+gross margin side at that revenue level.
+So the rest of it is driven by our incremental operating margin model and our expectation of draw
+through to EPS based on business performance, but also capital structure action of EPS growth of
+1.5 times our revenue growth rate. So it really is going to be predicated on --on where WFE ends
+up in terms of, you know, how we perform against that target. But the financial framework is
+executing as we expected.
+Q - `Shane Brett, Analyst, Morgan Stanley `
+Got it. Thank you very much.
+Operator
+Thank you. We go next now to `Charles Shi, Analyst, Needham & Company of Needham.
+Q - `Charles Shi, Analyst, Needham & Company `
+Thanks for taking my question. I -- I -- maybe my first question a little bit more about China, China
+as a percentage of sales, 26% in March, 30% in Q2. So is the 30% still the right number kind of
+going into the second half of the year or shall we kind of expect some upside because the data
+point so far has suggested that there -- there has been some upside in China WFE so far. But
+kind of wonder since you -- you still view China WFEs coming down this year kind of -- kind of
+want to get some thoughts there. Thanks.
+A - `Bren Higgins, Executive Vice President and Chief Financial Officer `
+Yeah, Charles, and I'll -- I'll try to unpack this a little bit. If -- if you go back to earnings in January,
+we talked about our China business dropping to the 30% level, assuming a $3 billion-ish run-rate
+and that's down from about 41% in 2024. So obviously, Q1 was lower, which means that, you
+know, the -- the -- the -- you're likely to see higher percentages as you move forward. So our --
+our -- we -- we fast forward to April and the -- the guidance in April was very consistent with that.
+If you look at where we sit today, I still see it at roughly 30% plus or minus. Now the second half
+will be higher than the first half because you were 26% and 30% in -- in Q2. So I think the second
+half is higher than the first half. But for the company overall, we're still in line with that 30%
+expectation, plus or minus a couple of points.
+Now, our business has strengthened. We were at $3 billion run rate. Now, we just guided $3.15
+billion. So some of that strength has been reflected in -- in China at a -- at a consistent
+percentage. So at the beginning of the year, we thought our China business would be downsomewhere between 15% and 20% overall. As I sit today, I think we're probably down
+somewhere between10% and 15% on -- on just the general strengthening overall. So the -- China
+behaving pretty much as expected and expect the year to end up somewhere around 30%.
+Q - `Charles Shi, Analyst, Needham & Company `
+Thanks, Bren. I appreciate the color. Maybe another relatively higher level question. I answered
+your -- I listened to your answers to the questions from -- from other analysts on this call
+regarding process control intensity. I think historically people kind of associate or positively
+correlate process control intensity with lithography intensity. I think lots of discussion on this
+intensity this year, feels like the consensus is probably coming down, but I think that the historical
+correlation kind of broken down over the past couple of years, process control intensity actually
+was on the way up.
+These are probably kind of coming down if we remove any of the stock piling in China, those kind
+of factors. So kind of wanted to get the sense from you guys, what do you see that the process
+control intensity, why -- why is the -- why is that correlation breaking down? And what's the
+outlook going forward from here? Do you expect that -- that bifurcation is kind of going to be
+sustaining structural or maybe we'll get a new reversion event at some point down the road.
+Thank you.
+A - `Rick Wallace, President and Chief Executive Officer `
+Yeah, that's an insightful question. The -- if you go back in time, and I won't go too far back, but
+often the process control for lithography was associated with wavelength shifts in lithography,
+usually driven by one large manufacturer of a microprocessor. And so that was the cadence that
+kind of set everything. And so in those cases, you'd be going to a new design rule and you'd
+need new lithography, maybe the mix was different with the advanced. And so you see intensity
+go up and those same drivers would be driving process control intensity to your point.
+What's changed quite a bit is the dynamics associated and it started happening a few nodes ago
+where we saw proliferation in advanced designs at leading-edge, because historically, what you
+also saw was fewer people designing at the leading-edge. So therefore, it was pretty correlated.
+But around 7 nanometers, we started seeing more designs happening and the design intensity
+around the number of designs chasing leading-edge doesn't really do anything for lot --
+lithography intensity.
+In fact, it doesn't do anything for much capital intensity except for process control intensity,
+because you have a higher degree of variability because you have more designs going through
+at the leading-edge. You drive reticle consumption up higher and that has been a very stable
+market. But more importantly, you have a very high mix fab where the variability is more and more
+challenged. And then you have to manage that in terms of how do you make sure you're -- you're
+yielding enough and not putting too many wafers in. That's all about process control. That's not
+about other things, not about litho.
+And then add to that, the latest thing that's accelerated even further is the -- the number of large
+die and associated with AI. So you -- you have yet another driver that's doing it. On top of all that,
+you have what's going on in advanced packaging, which is allowing people to integrate a lot and -
+- and in many ways reduces the need for other equipment, but increases the need for process
+control.
+Lastly, you have what's going on in HBM. So it's kind of a perfect transition from a -- if -- if your
+business is process control, this is a really good time because every one of these drivers isdriving the intensity and the way that customers can afford to have more processes control is
+they don't need as much intensity in their other parts of semiconductor manufacturing. So you're
+exactly right, but it's really the proliferation of designs and the drivers around AI.
+Q - `Charles Shi, Analyst, Needham & Company `
+I appreciate the insights Rick. Thank you.
+Operator
+Thank you. We'll go next now to Tom O'Malley with Barclays.
+Q - `Thomas O'Malley, Analyst, Barclays
+Hey guys, thanks for taking my question. When -- when you answered the question earlier in the
+call on 2026 and I appreciate it's early and you don't want to give more color. You talked about
+the broadening of leading-edge spends and I think you were very intentional around using that
+word. Are you talking about additional customers coming in on the leading-edge side? Are you
+just talking about the broadening of opportunities in the existing pillars of customers that you
+already have.
+A - `Rick Wallace, President and Chief Executive Officer `
+Both -- talking about both. We're -- we're seeing more people at the leading-edge as we've
+talked about higher mix foundries. And for the first time, I think in quite a while, we're seeing
+more players doing leading-edge or very close in proximity to leading-edge across. So we're
+seeing some momentum there. Some of that's been in the news. And as a result, what we're
+seeing is a broadening of customers as well as a proliferation of design. And I think it is the
+proliferation of design that is driving the broadening of customers.
+Q - `Thomas O'Malley, Analyst, Barclays
+And when you guys look out into '26, you obviously are also thinking, you know, look at this -- look
+at the environment you just described, you talked about a lot of different areas in which process
+control is going to do a lot better than other areas of equipment. How are you comfortable in
+talking about the strength of the broader market where you're kind of -- you're kind of describing
+a dynamic where maybe you're taking more of the pie and obviously having more of the pie, the
+market may look a lot bigger.
+So maybe can you walk us through like what you're doing to -- to understand what your intensity
+is of -- of total WFE next year? Do you see share gains and -- and maybe the market is big, but
+you maybe have a piece of that market that's a little bit larger. How do you kind of figure that out
+as you look at your forecast into next year?
+A - `Rick Wallace, President and Chief Executive Officer `
+Well, I'll --I'll take the qualitative and let Bren once again to do the quantitative part. I -- we don't
+actually know exactly, what we know or what the trends are happening and -- and there's always
+been this thing about process control that kind of cuts both ways. One is can you solve these
+problems and if you could, you -- people would buy systems to do it. But for a long time, there
+were a lot of unmet needs. And so people would find other ways to solve those problems
+because eventually they're going to figure it out. And what I mean by that, let's say you need to
+find a specific defect in a specific part of the process, you need to segment that process to find
+it.Well, if you don't have the tools that are actually capable of doing that, customers will figure out
+another way around it, maybe not nearly as efficient. But so part of what's changed is we have
+more of those tools. And part of what -- the reason we have that is our portfolio has been
+strengthened through a lot of investment over the years. And we talked about quite a while ago,
+that -- the repeated application of advanced processing of our own systems using AI has given us
+more ability to solve those problems in conjunction with some new product offerings such as our
+e-beam portfolio means that we can give customers a better way to manage those.
+So from the standpoint of that -- but I don't actually think in some customers, they are figuring out
+dynamically how much process control they need. And it's still incumbent on us to prove the value
+when they introduce it. But when we say we're pretty confident going into '26, it's because we
+have more and more places where customers are telling us in some regards, they're playing back
+to us what we may have said to them a while ago. We know we need more process control
+intensity. We need you to help us get that portfolio and they're making sure that we have the
+ability to do that.
+Those are encouraging conversations that we're having in there. And -- and we -- we -- we
+understand why because we're involved in a lot of the debugging of these processes to
+understand. You also have architectural changes that are just making it harder. And so the
+dynamics of supporting these advanced nodes. And -- and as I mentioned before, we're in kind
+of the perfect storm for all the process flows, whether it's HBM and those are more challenging,
+whether it's advanced logic with bigger die and also the packaging. So that -- that's why we feel
+pretty good about '26 and Bren can maybe add more color.
+A - `Bren Higgins, Executive Vice President and Chief Financial Officer `
+Yeah. I -- look, we all know our own business is probably best. So when we try to provide some
+color on -- on where the industry is, obviously, that's informed by -- by what you know and are
+closest to. So we thought that, you know, it was prudent at this point given the nature of
+customer conversations to provide our perspective on next year the way we did. To Rick's point,
+we -- we do see opportunities for -- for our business to continue to inflect. One thing about larger
+dye is it creates defect density challenge where everybody benefits from bigger wafers, but the
+defect density challenges when you have large die creates, you know, new opportunities for -- for
+process control.
+When you look at high performance compute, you also look at the value of -- of those dye. And
+so that given -- given the nature of that, customers were -- are investing more to ensure that --
+that those chips function as designed and the performance specs are quite rigorous. So all that
+gives us, you know, a certain amount of confidence around our own business and I -- you know, I
+tried to do my best to give you at least the perspective that I have today in -- at the end of July or
+what next year -- what we think next year looks like.
+Q - `Thomas O'Malley, Analyst, Barclays
+Thank you. Appreciate that.
+Operator
+Thank you. We go next now to `Joe Quatrochi, Analyst, Fargo Securities, LLC of Wells Fargo.
+Q - `Joe Quatrochi, Analyst, Fargo Securities, LLC `Yeah, thanks for taking the questions. May -- maybe just a follow-up to -- to that kind of line of
+questioning. If we think about just -- you talked about, you know, the rising and diversity designs
+of starts in HBC increasing KLA's relevancy. I guess, how do you think about just the sample rates
+or what that does to sample rates for process control? Do we just think about that as being
+maybe the peak to trough is less steep on a new node ramping or is this kind of a step function
+higher in terms of sample rates?
+A - `Rick Wallace, President and Chief Executive Officer `
+Yeah. This is another interesting development and -- Joe and -- and I'll -- because we have that
+same question, you know, if you go back historically, you'd have a new node, you would ramp at
+the beginning of time, you'd ramp it up and then you'd run it in volume. And so you'd see process
+control intensity most, you know, highest at the front end, right. That's what you're referring to.
+What's -- what's happened now --
+Q - `Joe Quatrochi, Analyst, Fargo Securities, LLC `
+Yeah,
+A - `Rick Wallace, President and Chief Executive Officer `
+Yeah, what's happened now though is because there are multiple design, what we're seeing is
+they'll debug, the customer will debug a new process on a specific device type, a specific wafer
+and they'll ramp that. But not long after you'll get other designs that are coming in that have their
+own version of those ramps and they're not the same. In -- in -- and in many cases, the process
+flows for different customers are different. The dye size might be different. So you're really
+having a compounding of ramps inside what looks like HBM and a lot of these HBM fabs are
+actually doing process ramps of the new nodes, plus there are continued improvements inside of
+that node in terms of what that capability.
+And even to one degree, we saw somebody go back to a prior node and introduce more --
+introduce more process control because what was introduced into that prior node was a larger
+die. And so it's not the traditional model people think of when you go back in time of you ramp it
+and then you run it, that's not what's happening. There's multiple ramps because every one of
+these die -- you know, these devices come in. There's some benefit to some customers to not
+be first with their advanced design. In fact, there is an economic benefit to coming in six months
+later, but it doesn't make it easier to ramp it in the production.
+So that's why when we look out and we look at the distribution and we were looking for is -- are
+we seeing that effect of seeing it front end loaded? And the answer is no. That's not what we're
+seeing. In fact, in some cases, we're seeing it going back because the yield -- these wafers are
+so valuable that if there's an entitlement of yield and they can get more, they're actually putting
+in more process control to squeeze those lines to get more capability. So very different than the
+traditional view of how process control ramps with a new technology node.
+A - `Bren Higgins, Executive Vice President and Chief Financial Officer `
+Joe, the other thing is that when these nodes are well adopted, say the design levels are high,
+then that limits what our customers are able to do in terms of trying to reuse their equipment, at
+least as it relates to our products. And so as we've had a -- a -- a litho roadmap, we've had new
+architectures, the Moore's Law attributes have been good that drive the design environment
+high, then it limits the reuse of -- of capacity. There's a number of technical challenges that alsolimit it, but certainly the adoption levels of the leading-edge by multiple designs is a factor as
+well.
+A - `Rick Wallace, President and Chief Executive Officer `
+And let me add two more things. Because you have multiple reticle design -- reticles, reticles
+have always been 100%, right. You're inspecting all the reticles to make sure and then you have a
+refall, but you're inspecting them, make sure they're good. And why? Because they're so
+expensive and the cost of a failure is so high. We're actually seeing that dynamic in packaging
+too, because the cost of these advanced packages are so high that they're running at a 100%. So
+that doesn't even fall off. That's just because of the -- the cost structure of those. So multiple
+situations, it's not as easy to model as it used to be, but it's good for process control intensity.
+Q - `Joe Quatrochi, Analyst, Fargo Securities, LLC `
+Yeah it's -- that's super helpful. And maybe just as a follow-up, I think earlier to a question, you
+said and correct me if I'm wrong, but you said reticle revenue -- reticle inspection revenue this
+year would be a record or pretty strong growth. Can you help us just understand like what --
+what's driving that? I know that like China had been a source of demand for that, but I think
+there's also quite a bit of demand on leading-edge or n-1 one nodes.
+A - `Bren Higgins, Executive Vice President and Chief Financial Officer `
+Yeah, yeah, Joe. So China is a factor there, right, because the very limited number of captive
+mashup [ph], so investments to develop a merchant mask ecosystem. So -- so there is, you know,
+legacy node reticle tools that are -- that are continuing to be a factor for us. Refallification
+opportunities in the fab, given the nature of the number of designs, the value to Rick talked
+about and the limited use of pellicles is also a factor. The -- the other thing that you have that's
+also driving it is more single die. Since most of the -- the reticles, let's say, you know, 60% plus of
+reticles are single die reticles, you need to inspect those reticles against a reference. And so
+whether that is a -- a -- a database reference of the design, whether that's a different golden
+reference, then that's also a factor.
+We're also seeing benefit in terms of print check on -- on -- on the broadband plasma Gen4
+platform or Gen5 -- that one's in Gen5 platform that is -- is doing reticle fall as well. Now, that
+business shows up in our -- in our optical inspection results and not in patterning. But there's a
+number of drivers and -- and -- and -- and a ton of investment happening by customers to ensure
+that these reticles are -- are -- the fidelity of the pattern is good and that they're not introducing
+any defectivity because you need 100% defect detection, reticle inspection or you print that
+defect on -- on -- on to every die. So a number of good drivers across multiple products.
+A - `Rick Wallace, President and Chief Executive Officer `
+But just to point out, what Bren talked about using optical for -- for print check that is not included
+when we say we're having a record year in reticle. It's -- it's without that.
+Q - `Joe Quatrochi, Analyst, Fargo Securities, LLC `
+Got it. Thank you.
+Operator
+We'll go next now to `Timothy Arcuri, Analyst, UBS of UBS.Q - `Timothy Arcuri, Analyst, UBS `
+Thanks a lot., Bren can you -- I know you're going to shift how you report backlog and RPO, but I
+think that's maybe with the new fiscal year. So can you give us RPO?
+A - `Bren Higgins, Executive Vice President and Chief Financial Officer `
+Yeah. So we'll report in the 10-K. I think we're going to file it here in another week or so. RPO will
+be somewhere around -- in the neighborhood of $7.9 billion.
+Q - `Timothy Arcuri, Analyst, UBS `
+So it came down by like a $1 billion.
+A - `Bren Higgins, Executive Vice President and Chief Financial Officer `
+Came down by about that much. Yeah, we're starting to see -- you know, as we said earlier, as
+we've shipped through a lot of the long backlog customers now and some of the supply
+constrained products, we're now seeing our business being driven by our long standing
+customers that operate with -- with shorter lead times. So now we're -- we're normalizing lead
+time, we've been talking about it for a number of quarters that we were moving towards it. I think
+now we're getting into that range where, look, our long standing customers have, you know,
+historically, you know, six month to eight month lead times.
+The packaging business has two month to three month lead times. So we're seeing a
+normalization of lead time that's happening here and that's affecting the backlog level. It took a
+while to get here. We were up at what -- 18 months of backlog, now we're down, you know,
+around eight months of backlog. You have to remember, the RPO number is the -- the --
+significantly a systems number. So when you do the math on it, you have to compare it against
+the systems revenue and so when you do that math, you end up in that -- in that seven month to
+nine month range that -- that I talked about.
+Q - `Timothy Arcuri, Analyst, UBS `
+Yeah. I mean, we've been talking about it for a while that it's going to come down, but it was $1
+billion that was stripped out by you, so basically that's canceled by you.
+A - `Bren Higgins, Executive Vice President and Chief Financial Officer `
+No, no, no, that was -- that was part of our shipments. I mean, we don't really see our backlog
+cancel all that much. I mean, we -- we had to strip out backlog as it relates to export controls
+when that happened. But whenever we make adjustments that are de-booking adjustments,
+those are typically related to an event like that. Our backlog tends to --
+Q - `Timothy Arcuri, Analyst, UBS `
+Yeah.
+A - `Bren Higgins, Executive Vice President and Chief Financial Officer `
+Tends to -- altogether when customer gives us an order. And you have to remember, we had a
+number of new customers that were doing greenfield projects that to get a -- a slot when you
+want it, what do we require? We require an order, we require a deposit, we require letters of
+credit. So that was a big part of the backlog. Now, you fast forward to where we are today andyou look at our long standing customers that you know well. Well, those customers we build the
+forecast with. And so the -- the order to shipment timing tends to be in that six month to eight
+month time frame. So we're seeing more of that business going forward and that's -- that's
+reflected in the -- the lower backlog levels. I would expect the -- now we've normalized it to stay
+more or less in this range here going forward?
+Q - `Timothy Arcuri, Analyst, UBS `
+Thanks,. Bren. And then just on service, you were up 10% for the year, but you seem to be
+running ahead of that because I think (inaudible) maybe like mid-teens this year. Can you talk
+about that service?
+A - `Bren Higgins, Executive Vice President and Chief Financial Officer `
+But for the -- I'm sorry, Tim, you're breaking up a little bit.
+Q - `Timothy Arcuri, Analyst, UBS `
+Service.
+A - `Bren Higgins, Executive Vice President and Chief Financial Officer `
+Oh, service. Yeah, overall service, I think we're in that ballpark. Yeah. Yeah, 10% to -- you know,
+10% --10% plus range for the year.
+Q - `Timothy Arcuri, Analyst, UBS `
+Okay. So it's -- but it's still going to go up sequentially in September and December, right?
+A - `Bren Higgins, Executive Vice President and Chief Financial Officer `
+Yeah.
+Q - `Timothy Arcuri, Analyst, UBS `
+Okay. Thanks [ph].
+A - `Bren Higgins, Executive Vice President and Chief Financial Officer `
+It generally does, right. I think because as you add tools and -- and tools come off a warranty,
+unless you have some situation where all of a sudden like, you know, you lose access to a fab and
+we thought that might put some pressure on sequential growth. But we've also seen the
+dynamics in our -- our service business start to inflect in terms of -- of, you know, performance
+requirements, availability requirements and -- and, you know, our -- our general attach rate. So it's
+the 52nd quarter of -- of year-over-year growth for service and we expect to see sequential
+growth in service as we continue through the year.
+Operator
+Thank you. And ladies and gentlemen, do we have time for one more question this evening. We'll
+take that now from `Brian Chin, Analyst, Stifel of Stifel.
+Q - `Brian Chin, Analyst, Stifel `Hi, there thanks for sneaking me in here at the end. I think one of my questions has been asked
+here, which you -- you -- you remarked on pretty well, which is basically that these data center
+chips are kind of breathing life into, you know, minus one nodes, it sounds like. I think that's
+something that's a pretty important thing.
+Maybe one last -- my question will be, I could be mistaken, but I think when you've discussed in
+the past, it felt like your near-term opportunity set in advanced packaging was particularly in 2.5D
+or packaging rather than HBM. Is -- is that the case? And where -- where is more of -- is that the
+case, I guess? And also, are you addressing more inspection applications still or is metrology part
+of that as well?
+A - `Bren Higgins, Executive Vice President and Chief Financial Officer `
+Yeah. Yeah, most of our share gains that we've seen so far have been in the logic area with
+Coloss [ph] although we are seeing increased momentum in HBM. So we're pretty -- pretty
+excited about directionally where that's going. So it certainly is informing our view of -- of share
+opportunities. It is bit -- more defect loaded than metrology because sampling rates for
+metrology are -- tend to be a little bit lower as the design rules that are typically used in
+packaging are -- are larger.
+And -- and so that limits some of the -- some of the metrology opportunities in the short run. But
+from an inspection point of view, to Rick's earlier point, you know, the -- the -- the sampling rates
+are incredibly high because you don't want to -- you don't want to miss defects, you don't want
+to overkill devices either. So you don't want to underkill and miss something, you don't want to
+overkill either. And I think -- so the -- the -- the -- that's driving, you know, higher -- you know,
+higher sensitivity requirements from -- from KLA.
+Q - `Brian Chin, Analyst, Stifel `
+Great, great. Thank you.
+Operator
+Thank you. And at this time, Mr. Kessel, I'd like to turn things back to you, sir for any closing
+comments.
+A - `Kevin Kessel, Vice President, Investor Relations `
+Thank you everybody for your time and for your interest in KLA. We appreciate it. We know it's a
+busy week of earnings, a busy day. We'll be in touch as we go forward. Thank you. Bye, bye.

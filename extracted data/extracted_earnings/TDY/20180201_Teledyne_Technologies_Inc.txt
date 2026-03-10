@@ -1,0 +1,398 @@
+Q4 2017 Earnings Call
+
+Presentation
+Operator
+Ladies and gentlemen, thank you for standing by. Welcome to the Fourth Quarter Earnings Call. At
+this time, all participants are in listen-only mode. Later we will conduct a question-and-answer
+session, and instructions will be given at that time. (Operator Instructions) Also as a reminder,
+today's teleconference is being recorded.
+At this time, we'll turn the conference over to your host, Mr. `Jason VanWees, Senior Vice President, Strategy and Mergers and Acquisitions. Please go ahead, sir.
+`Jason VanWees, Senior Vice President, Strategy and Mergers and Acquisitions `
+Thank you, Tony. Good morning, everyone. This is `Jason VanWees, Senior Vice President, Strategy and Mergers and Acquisitions, Senior Vice President, Strategy
+and M&A at Teledyne. I would like to welcome everyone to Teledyne's fourth quarter and full year
+2017 earnings release conference call. We released our earnings earlier this morning before the
+market opened.
+Joining me today are Teledyne's Chairman, President and CEO, `Robert Mehrabian, Chairman, President and Chief Executive Officer; Chief
+Operating Officer, Al Pichelli; Senior Vice President and CFO, Su Main and SVP, General Counsel,
+Chief Compliance Officer and Secretary, Melanie Cibik. After remarks by Robert and Sue, we will
+ask for your questions.
+However, of course, before we get started our attorneys have reminded me to tell you that all
+forward-looking statements made this morning are subject to various assumptions, risks and
+caveats, as noted in the earnings release and our periodic SEC filings, and yes, actual results may
+differ materially.
+In order to avoid potential selective disclosures, this call is simultaneously being webcast, and a
+replay both via webcast and dial-in will be available for approximately one month. Here is Robert.
+`Robert Mehrabian, Chairman, President and Chief Executive Officer `
+Thank you, Jason. And good morning, everyone, and thank you, for joining our earnings call. We
+ended 2017 with a truly great quarter. Record sales of $704.4 million reflected growth in each
+business segment and major product category, with overall organic growth exceeding 9%. Full-
+year 2017 was, by any measure, a record year; record sales, record earnings, record operating
+margin, record cash flow and the successful acquisition and integration of Teledyne e2v, our
+largest acquisition to-date. Furthermore, we achieved record GAAP earnings despite significantnon-recurring charges associated with the acquisition of e2v and the US tax reform. In particular,
+our Digital Imaging segment continued to perform exceptionally well with organic growth of 17 --
+13% and 17% in Q4 and full year respectively.
+Furthermore, nearly all of our other businesses achieved mid-to-high single-digit organic growth
+in the fourth quarter. On a full year basis, organic sales growth was over 7%, while end markets
+were more cooperative, years of increased R&D, leading to new product introductions gained
+significant traction. Also, our 2017 performance reflected difficult cost reductions in prior years
+and a disciplined execution to remain lean.
+Turning back to our quarterly results, total revenue increased 27.4%, and GAAP earnings per
+share increased 24.3% compared to last year, while GAAP operating margin increased a 122 basis
+points. Adjusted for charges related to US tax reform, and the e2v acquisition, earnings per share
+increased 19% in the fourth quarter and 25% for the full year. I do want to comment briefly on the
+presentation of our fourth quarter and full year 2017 results. 2017 was a singular and unique year
+given the magnitude of the e2v acquisition-related expenses, primarily in the first quarter, and
+charges related to the US tax reform legislation in the fourth quarter. While we have provided
+results adjusted for these items, it is worth noting that we've only adjusted earnings for these
+two specific non-recurring charges.
+We do not and never have adjusted for ongoing non-cash expenses, such as amortization of
+intangible assets, or stock-based compensation. For reference, in the full year 2017, amortization
+alone was approximately $40 million or about $0.80 per share of non-cash expense. In addition,
+our 2018 outlook is 100% GAAP.
+Now turning to our four business segments, in our Instrumentation segment, fourth quarter sales
+increased 13.4% from last year. Segment operating profit also increased, but margins declined
+slightly, due in part to a facility relocation and some product line inventory rationalization in our
+marine product line. Sales of marine instruments increased 7.7%, due primarily to higher sales of
+sonar systems, autonomous underwater vehicles and interconnect and cable solutions for land-
+based energy applications. This was our third consecutive quarter of year-over-year increases in
+sales of marine instruments. As a reminder, this product line in the aggregate declined
+significantly in 2015 and 2016 given compression in the offshore energy industry. While offshore
+energy only represents about 6% of Teledyne sales, we are reasonably optimistic about current
+industry trends and long-term upside in 2019 and beyond.
+In the environmental domain, sales increased 20.5% overall and organically 9.8%, largely as a
+result of increased sales of laboratory and life science instruments. The total sale increase
+included the acquisitions of Hanson Research and Scientific Systems, known as SSI, as well as
+continued growth in industrial air monitoring instruments. Sales of electronic test and
+measurement systems increased 0.6% overall and 11.1% organically. Sales of protocol analyzers,
+including the Bluetooth and High Definition Multimedia Interface or HDMI products, acquired in
+2016, as well as SP Devices business from e2v were especially strong in the fourth quarter. In
+addition, operating margin for electronic test and measurement products continued to increase
+and was a record.
+Turning to the Digital Imaging segment, fourth quarter sales increased 80.1% with organic growth
+of 13%. The organic increase in sales was broad-based, across both our commercial and defense
+businesses with particularly strong growth for industrial machine vision cameras, x-ray detectors
+for life sciences applications and laser-based geospatial mapping system. Teledyne e2v was a
+major contributor, adding approximately $75 million of revenue in the quarter. GAAP segment
+operating margin increased 363 basis points from last year. While the margin benefited from thereversal of some prior acquisition-related costs, even excluding this benefit segment operating
+exceeded last quarter's record.
+In the Aerospace and Defense Electronics segment, fourth quarter sales increased 18.8% due to
+contribution from Teledyne e2v, but also strong underlying organic growth of 8.6%, driven by
+greater sales of commercial avionics and defense and space microwave and interconnect
+devices. Segment operating margin increased 168 basis points to 20.5% due to greater sales,
+favorable product mix and improved margins across the majority of product categories.
+In the Engineering Systems segment, fourth quarter revenue increased 5.9%. Operating margin
+was the highest in 2017. But declined slightly year-over-year, solely due to a record tough
+comparison. The higher revenue primarily reflected greater sales from marine manufacturing and
+missile defense programs.
+In concluding my comments I want to offer some perspective on our businesses, the US tax
+reform, and our 2018 outlook. We currently believe that organic revenue growth in 2018 will be
+approximately 3% compared to 7% for the full year 2017. I want to emphasize that this does not
+represent a deceleration but rather the fact that Teledyne e2v will be included in the organic
+growth numbers for three of the four quarters of next year.
+While the e2v businesses collectively are high margin, growing businesses, some of the medical
+and defense-related product lines are likely to grow at a lower rate than Teledyne DALSA, which
+was a very strong contributor to Digital Imaging and the whole of Teledyne in 2017. We also
+currently estimate that as a result of US tax reform our total effective tax rate will be lower by
+approximately 300 to 400 basis points going forward. This reflects the US Federal rate reduction
+from 35% to 21% and tax benefits for US exports, but also some negative offsets, such as
+potential tax high on profit foreign, the income the loss of some manufacturing and
+compensation-related deductions, unknown state by state impact in the US, as well as lower level
+of anticipated favorable discreet items compared to prior period.
+Finally, I want to emphasize that 2017, our 18th full year as an independent company was our most
+successful and personally most rewarding. Also due to our record cash flow, we reduced
+leverage from 3.0 to 2.3 in nine months following the e2v acquisition. Furthermore, I believe
+Teledyne now has the solid foundation, the right business mix, and financial
+strength to continue its profitable growth in the foreseeable future. I'll now turn the call over to
+Su.
+`Susan L. Main, Senior Vice President and Chief Financial Officer `
+Thank you, Robert and good morning, everyone. I will first discuss some additional financials for
+the quarter not covered by Robert, and then I will discuss our first quarter and full year 2018
+outlook. In the fourth quarter, record cash flow from operating activities was $126.4 million
+compared with cash flow of $66.3 million for the same period of 2016.
+The higher cash provided by operating activities in the fourth quarter of 2017 primarily reflected
+the impact of higher operating income, cash flow from Teledyne e2v and lower income tax
+payments. Free cash flow, that is cash from operating activities less capital expenditures, more
+than doubled to $108.4 million in the fourth quarter of 2017, compared with $43.1 million in 2016.
+Capital expenditures were $18 million in the fourth quarter compared to $16.7 million for the same
+period of 2016. Depreciation and amortization expense was $25.6 million in the fourth quarter
+compared to $21.7 million for the same period of 2016. We ended the quarter with $1.0 billion ofnet debt, that is approximately $1.07 billion of debt, and capital leases, less cash of $70.9 million
+for a net debt-to-capital ratio of 33.9%. Our leverage ratio was 2.3 times at the end of the fourth
+quarter of 2017, compared to 2.6 times at the end of the third quarter of 2017.
+Stock option compensation expense was $3.2 million in the fourth quarter of 2017, compared with
+$2.8 million in the fourth quarter of 2016. In the fourth quarter, we recorded provisional charges of
+$4.7 million or $0.13 per share related to the US Tax Cuts and Jobs Act. This primarily resulted
+from a $26.2 million repatriation tax charge, partially offset by a reduction in net deferred tax
+liabilities and other items, resulting in a gain of $21.5 million. Also in the fourth quarter, there was a
+minor favorable pretax adjustment of $1.1 million related to inventory step-up amortization, as part
+of the e2v transaction. On a full year basis, e2v related charges were $27 million, or approximately
+$0.54 a share.
+Turning to our outlook, management currently believes that GAAP earnings per share in the first
+quarter of 2018 will be in the range of $1.50 to $1.55 per share. And for the full year 2018, our
+GAAP earnings per share outlook is $7.51 to $7.61%. The 2018 full year estimated tax rate is 21.5%
+before discrete items, which are currently expected to be lower in 2018 than in prior periods.
+I will now pass the call back to Robert.
+`Robert Mehrabian, Chairman, President and Chief Executive Officer `
+Thank you very much, Su. We'd like now to take your questions. Operator, if you are ready to
+proceed with the questions and answers, please go ahead.
+Questions And Answers
+Operator
+Thank you very much. (Operator Instructions) Our first question comes from `Greg Konrad, Analyst, Jefferies & Company with
+Jefferies. Please go ahead.
+Q - `Greg Konrad, Analyst, Jefferies & Company `
+Good morning.
+A - `Robert Mehrabian, Chairman, President and Chief Executive Officer `
+Good morning, Greg.
+Q - `Greg Konrad, Analyst, Jefferies & Company `
+Just wanted to start on a quick question about the quarter. Just in terms of Instrumentation
+margin, and it seemed a little bit light, can you maybe talk about the moving pieces there?
+A - `Robert Mehrabian, Chairman, President and Chief Executive Officer `
+Sure. There are two parts to that. One is our marine businesses, and the other is our
+environmental and electronic test and measurement businesses. In the marine businesses, our
+margins declined somewhat, primarily because we are still continuing to consolidate some of our
+operations. As an example, we are relocating a operation from the United Kingdom to Florida.
+However as a consequence of that, and some charges that we took, our margins declined to
+8.3%. That's in the marine businesses. On the flip side, the rest of instrumentation have really
+good margins. Environmental have margins of 19.8% and test and measurement, margins were12.3%. But I think going forward with the marine charges behind us, the marine margins hopefully
+will increase to double-digit again.
+Q - `Greg Konrad, Analyst, Jefferies & Company `
+Thank you. And then generally around this time, you provide an outlook just for the margins by
+segment. Can you give us a little bit color on expectations for 2018?
+A - `Robert Mehrabian, Chairman, President and Chief Executive Officer `
+Yes, there are two things that we should be cognizant of. The first is what the guidance is for
+future charges in pension benefits. What's happened is that, first our legacy pension program is
+very healthy, it's at a 100% over funded, and it's being closed to new hires for over 14 years.
+Nevertheless, there are some new accounting guidance that has been issued, that requires in
+2018 we split pension expense into two components. One, service cost is not going above the
+operating income, which will lower operating margin. Other income components will be below
+the operating line. EPS won't change compared to our current plan financials statements, but this
+change in pension accounting will cost about 45 basis points contraction in the margin going
+forward. And of course, we will restate the prior periods for comparability, okay.
+Having said that I expect that our overall margin for next year will if we were to keep the current
+accounting system for pension, would improve about 45 to 50 basis points as its done in the
+current and prior years. However, because of the change I just noted, and there is some effect
+from stock options. Because we did not issue any stock options in 2015 now we have three years,
+of stock options hitting our earnings. All-in-all I think we will give back the margin improvement
+and end up next year in the new accounting system with about a 13% margin versus 12.9% this
+year, recognizing that we're taking a 45 basis point contraction from just the pension account
+improving [ph]. But we have restated 2017 for comparison. That's the broader margin going
+forward. Did you have any other questions on margins, that I can help with?
+Q - `Greg Konrad, Analyst, Jefferies & Company `
+Hey, I just -- I want to go back to one thing, what was the size of the charge in marine? I'm just
+trying to do the walk into 2018?
+A - `Robert Mehrabian, Chairman, President and Chief Executive Officer `
+It was approximately about $1.5 million, maybe a little more.
+Q - `Greg Konrad, Analyst, Jefferies & Company `
+Thanks. And then just one last one from me. I mean, listening to our earnings calls and since tax
+reform, it seems like there's been a lot of companies announcing step-ups in CapEx. A large part
+of your business is probably directed towards that type of spending. Any indication from your
+customers in terms of CapEx budgets and how we should think about that in terms of top line
+growth?
+A - `Robert Mehrabian, Chairman, President and Chief Executive Officer `
+I think we are seeing CapEx growth among our customers, that is [ph] projecting CapEx growth.
+We have generally been very cautious with our capital, except this year we have 2 or 3 projects
+that are very important for us to invest in capital investment. The first one is our MEMS foundry in
+Canada, in Bromont, Canada is under capacity constraints right now. We have so much work that
+we have not able to put -- meet all of our customer needs. So we're going to invest, somewherebetween $10 million and $15 million more next year and expand that facility by another at least
+10,000 square feet.
+Second in our X-ray businesses, in our detector businesses, which are for medical and dental
+applications, in our CMOS X-rays, we are again capacity limited. We build most of that work in
+Canada, near Toronto. We also have another operation in the Netherlands. We are going to take
+over part of a former Philips clean room facility to also start making detectors in Europe to
+expand our capacity, to meet needs.
+And then lastly we bought e2v. It has been -- some of the operations there have been starved for
+capital investments and we will be making some serious capital investments to upgrade our
+facilities, especially in Chelmsford, where we make a lot of our products. So for us, there be the
+normal CapEx expenditures, which are approximately $50 million to $65 million. With these
+additions we think that our CapEx will move another $20 million to about $80 million.
+Q - `Greg Konrad, Analyst, Jefferies & Company `
+Thank you.
+A - `Robert Mehrabian, Chairman, President and Chief Executive Officer `
+Thank you, Greg.
+Operator
+Thank you. Our next question comes from `Jim Ricchiuti, Analyst, Needham & Company with Needham & Company. Please go
+ahead.
+Q - `Jim Ricchiuti, Analyst, Needham & Company `
+Hi, good morning. Robert, I just want to make sure I heard your -- in terms of organic growth this
+year, it's somewhere in the area of 3%, is that what you're suggesting?
+A - `Robert Mehrabian, Chairman, President and Chief Executive Officer `
+No, this year's organic growth 2017 or '18, which one are you asking?
+Q - `Jim Ricchiuti, Analyst, Needham & Company `
+I'm sorry, 2018.
+A - `Robert Mehrabian, Chairman, President and Chief Executive Officer `
+2018, yeah, you are right. I'm estimating currently -- we are estimating currently about 3%. Partially
+it's because we don't expect marine to grow much. We think 2019 would be the year it will grow
+based on everything that we see. The other side is that in environmental and test and
+measurements, we are expecting about 3%. DALSA should do better than that, our Digital
+Imaging, 4%. So overall we think 3% organic growth, add another 3% acquisition impact, total
+right now at this moment we are looking at about 6%.
+Q - `Jim Ricchiuti, Analyst, Needham & Company `
+Got it. And you have some difficult comparisons coming up with Digital Imaging. You mentioned
+you think, DALSA is going to have another good year. Are you anticipating decelerations in other
+areas of Digital Imaging? I'm wondering what the outlook looks like for say the industrial machinevision part of the business. How are you viewing the Digital Imaging business after the year that it
+experienced in 2017?
+A - `Robert Mehrabian, Chairman, President and Chief Executive Officer `
+I am -- Jim, I'm fairly positive about Digital Imaging. Our book to bill at the end of the year is
+about 1.16 for all of 2017, when we ended the year. So that bodes well going forward. We think
+that the only problem with that business is that some of it is very short cycle businesses. It could
+be better. So -- but I'm being conservative. I'm positive about it because we have a lot of new
+products that we've introduced and are doing very well in the market. The US-based Digital
+Imaging market is estimated right now to grow about 14%. We -- overall, I would say, I'm positive
+about Digital Imaging, both because we are introducing new products, but we also have some
+new products in the infrared domain. Then finally, as you know, we do have a part of the Digital
+Imaging that is here in Thousand Oaks area, in Camino Rio, which -- where we do government
+infrared imaging business. We're getting traction, really good traction in some classified
+programs. We don't show margin improvement there because as you know our research lab,
+which is located here, which we acquired in 2016, we reinvest all the income in that business to
+develop new products. And we've done that since 2006. So all-in-all, we think Digital Imaging will
+do well. But where we think there is going to be some hard comps [ph] as you put it, it being in
+the other areas, especially in the A&D section segment, in Avionics because of record work that
+we had in aftermarket product. So Digital Imaging I'm very positive about, maybe a little
+conservative.
+Q - `Jim Ricchiuti, Analyst, Needham & Company `
+And last question from me. Robert, you alluded to the book-to-bill for the year, and I believe it
+was Digital Imaging business. Can you give us the book-to-bill for the quarter for the company,
+and would you be able to give it, provide it for the major segments?
+A - `Robert Mehrabian, Chairman, President and Chief Executive Officer `
+I'll try. I think for the company is closer to 1, for the quarter. Going back to the Digital Imaging, for
+the quarter alone is about 1.12. In the Instruments area overall, it's about 0.9 with environmental
+and T&M being closer to 1, marine being below that. AD&E, which is our Aerospace and Defense
+Electronics it's a little over 1, and Engineered Systems we'll be -- right not it's below one. But for
+the whole year it's 1.04. As you know, that's a lumpy government business, so you got to take a
+longer-term view of that. So overall for the quarter, we are close to 1, if you look at overall. If you
+look at whole year we are about 5% up. So it's 1.01 -- 5, I'm sorry, 5, 1.05.
+Q - `Jim Ricchiuti, Analyst, Needham & Company `
+Got it. Thank you.
+A - `Robert Mehrabian, Chairman, President and Chief Executive Officer `
+You bet.
+Operator
+Thank you. (Operator Instructions) Next in queue is `George Godfrey, Analyst, C.L. King & Associates with CLK. Please go ahead.
+Q - `George Godfrey, Analyst, C.L. King & Associates `Good morning, and thank you for taking my question. Robert, first question. Aerospace and
+Defense, I hear you say that you're a little bit more cautious on that segment, offsetting the
+optimism in Digital Imaging.
+A - `Robert Mehrabian, Chairman, President and Chief Executive Officer `
+Yeah, a little bit. There's two parts to that, George. One part has to do with avionics, which is our
+data acquisition and communication systems, that run commercial aircraft and some defense
+aircraft. We are a little cautious in that domain because we had such a great year this year
+especially in the aftermarket. The flip side, we are more positive about our microwave products,
+in the defense portion, partially because investments -- even with the sequestration -- continuing
+resolution, I should say, the electronic warfare budgets are moving up because of the problems
+that we have with our adversaries. So we expect an uptick in the rest of our defense business --
+electronics businesses. So combining the two together, we think it's going to be, if up, relatively
+modestly up.
+I should also note that in Defense Electronics we do have some serious opportunities for growth
+next year, which are not defense-related. These have to do with our products that are going into
+the new satellite systems like in OneWeb. There we have -- we ship the channelizers [ph], which
+essentially permit the signal to be divided into 16 or so channels. And we are expecting -- we
+provided all the engineering products. And we expect a large contract there for the future. And
+as you know that's going to be over a 1,000 satellites. That would be launched sometime in 2018
+and forward.
+Q - `George Godfrey, Analyst, C.L. King & Associates `
+Got it. Thank you. And then looking at Instrumentation margins, you talked about how they were
+down this quarter due to some one-time charges and relocation. If I go back, looking at like, 2012
+for example, where the Instrumentation margin was 18%. Is there anything tied to that margin
+level that requires oil prices to be, say over $100 a barrel, or is that margin achievable at 70, 80
+or 85. I'm just trying to get understanding of how much the equipment might be tied to
+companies purchasing, that can be justified when oil is very expensive, but perhaps not so much
+when it's at a $70 level. Thank you.
+A - `Robert Mehrabian, Chairman, President and Chief Executive Officer `
+Yeah, that's a good question. The years you mentioned our marine margins were about 18%. As
+you'll recall two things happened, one, our marine revenue between 2014 and 2016 went down
+over $200 million. And we went in 2014, it was $655 million. We finished 2017 closer to $430
+million. So that's a serious contraction. The contraction primarily happened in our oil and gas
+exploration and production business. The rest of our marine businesses have remained fairly
+good. But in order to maintain content on our offshore platforms we had to reduce price
+significantly by about 20% to 25%, which has affected margins, but at the same time it's enabled
+us to get long-term majority commitments or majority of their products to be bought from us. So
+coming back to the oil prices, by the way, concurrent with all of that, of course we costs
+significantly and taken out almost 800 to 900 of our employees.
+On the oil price, as you know Brent hit a three-year high this year, close to $70. We see signs of
+commitment to offshore production. They take anywhere from 12 months to 24 months to
+become realized. We see some improvement in Christmas trees, which are the equipment that
+go on the oil head in the bottom of the ocean. 2016 was very low. 2017 doubled from 80 to 170.
+2018 is projected to go to 236 and '19 to almost 300 Christmas trees. Now, remember the yearsget up there, but I don't think oil has to be at a $100 for that -- those businesses to get traction
+partially because everybody has reduced their breakeven costs and some of the deepwater
+offshore production is not profitable, at less than $50. And so volume we expect will begin
+increasing in 2019, our margins would go for what was in the Q4, less than 10% should go above
+10%. Whether they will ever get to 18, I don't know, but they will certainly improve somewhere
+between where they are now and where they were then. I hope that answers your question.
+Q - `George Godfrey, Analyst, C.L. King & Associates `
+Yes, it does, Robert. Thank you very much. And then just my last question is, e2v has been just
+proven to be a home run acquisition. It has fundamentally changed the margin structure in the
+Digital Imaging segment. Is that a function of their products just being fundamentally more
+profitable, or have you been able to significantly improve those operations and I'm thinking, can
+you bring that IP into other segments of Teledyne?
+A - `Robert Mehrabian, Chairman, President and Chief Executive Officer `
+Yeah. Again, let me just answer the first part. It's been a great acquisition by any measure for us.
+But you know, if I go back and look at our other large acquisition, DALSA when we acquired it in
+2011 it had relatively compressed margins. Now e2v has good margins. But DALSA this year
+enjoyed margins approaching 20%. e2v on the other hand, while it has good margins, please
+recall that overall their margins are lower than DALSA, partially because we have intangible
+amortization. And in the Digital Imaging, for example e2v's amortization for this year, 2018 is
+about $11 million. So that compresses the margin. And consequently, e2v's overall GAAP margins
+are lower than DALSA.
+Going forward I think because of the intangible compression e2v would grow the overall margin
+for Digital Imaging. Having said that DALSA used to have a compressed margin, but its margins
+have more than doubled. The same thing with LeCroy. When we bought LeCroy it had very low
+margins. It has more than doubled since our acquisition. And if we do what in those domains with
+e2v I think our margins will improve with time.
+There also you asked a question of how some of those products may carry over to other
+segments. First, in the space imaging domain, we have between DALSA, Teledyne Imaging here
+and e2v we practically own the visible and the infrared businesses for astronomy, and we are
+making now some margin growth in defense programs. Some of e2v, because e2v has not had
+access to the US defense market we expect that we'll be able to introduce some of their
+products into our defense markets here, which is then, of course, a bridge across to our
+products.
+Also we have inherited some really outstanding high-performance analog to digital and digital to
+analog conversion devices that cut across all of our businesses. Between what they bring and
+what we have I think would have a significant overlap, I certainly hope in all of our other segment.
+So it's been a great acquisition. It doesn't have the margins that DALSA has but DALSA didn't
+have the margins it has now when we acquired it. But it does have healthy margins, in fact, mid-
+double digit margins even with amortization of intangibles that I mentioned.
+Q - `George Godfrey, Analyst, C.L. King & Associates `
+Great. Thank you very much, Robert.
+A - `Robert Mehrabian, Chairman, President and Chief Executive Officer `Thank you.
+Operator
+Thank you. We do have a follow-up in the queue, from `Jim Ricchiuti, Analyst, Needham & Company with Needham & Company.
+Please go ahead.
+Q - `Jim Ricchiuti, Analyst, Needham & Company `
+Thanks. Just with respect to acquisitions in general, I guess you're coming up on the one-year
+anniversary of the e2v acquisition next month. Robert, I wonder if you could talk a little bit about
+where we might see Teledyne going next and what does the pipeline look like?. Is it more difficult
+to find acquisition opportunities in this current valuation environment?
+A - `Robert Mehrabian, Chairman, President and Chief Executive Officer `
+Yeah, I think the valuation of course is problematic to a certain extent. But It's not a very good
+excuse in a lot of ways. If we find the right thing and we pay the right price, even if it's a little over
+what we would have paid two years ago, we would acquire businesses. Our focus right now is in
+two areas. Obviously, digital Imaging and anything related to that domain would be very attractive
+for us. And the other half of it is in the environmental portion of our instrumentation business. We
+make a lot of the different products there, ranging from water quality monitoring air pollution
+monitoring, particulates in air, and we made one small acquisition, SSI in mid-year this year. We
+would like to do that, more of that.
+So we will make some acquisitions. The size of, course we prefer it were [ph] significantly larger.
+So it moves the needle but we expect to -- we have the money. We have the financial resources.
+As I said our debt-to-EBITDA ratio is right now about 2.3, was 3 when we acquired e2v. Our net
+debt is about a $1 billion. If we generate the cash we did this year, which was over 300 million,
+that was significantly down this year, we have anywhere from right now, about 600 million to 700
+million capacity to buy things. And by year-end, that should grow up by another $300 million. So
+we will buy things if we can find the right products, Digital Imaging being first. Environmental
+being second, in terms of our preferences.
+Q - `Jim Ricchiuti, Analyst, Needham & Company `
+Thank you. Good luck.
+A - `Robert Mehrabian, Chairman, President and Chief Executive Officer `
+Okay, thanks a lot.
+Operator
+Thank you. At this time there's no additional questions in the queue. Please continue.
+A - `Robert Mehrabian, Chairman, President and Chief Executive Officer `
+Thank you, operator. I will now ask Jason to conclude our conference call please.
+A - `Jason VanWees, Senior Vice President, Strategy and Mergers and Acquisitions `
+Thanks Robert. And again thanks everyone for joining us this morning. If you do have follow-up
+questions please feel free to call me on the number on the earnings release. And of course, allour news releases are available on our website. Tony, if you could please conclude the
+conference call and provide the replay details for the audience, we'd appreciate it. Thank you.
+Operator
+Thank you. And ladies and gentlemen, this conference will be available for replay after 11 AM
+Pacific Time today, running through March 1st, at midnight. You may access the AT&T Executive
+Playback Service at any time by dialing 800-475-6701 and entering the access code of 442739.
+International participants may dial 320-365-3844. Once again those phone numbers are 800-
+475-6701, and 320-365-3844, using the access code of 442739. That does conclude your
+conference call for today. We do thank you for your participation and for using AT&T Executive
+Teleconference. You may now disconnect.

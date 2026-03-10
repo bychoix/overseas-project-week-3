@@ -1,0 +1,751 @@
+Q4 2015 Earnings Call
+
+Operator
+Good morning. My name is Maria, and I'll be your conference facilitator. At this time, I would like to
+welcome everyone to Delphi's Fourth Quarter 2015 Earnings Conference Call. All lines have been
+placed on mute to prevent any background noise. After the speakers' remarks there will be a
+question-and-answer session.
+I would now like to turn the call over to Elena Doom, Delphi's Vice President of Investor Relations.
+Elena, you may begin your conference.
+`Elena Doom Rosman, Vice President of Investor Relations `
+Thank you, Maria. Good morning, and thank you for joining Delphi's fourth quarter earnings call.
+To follow along with today's presentation our slides can be found at Delphi.com under investor
+presentations. Please see slide two for a disclosure on our forward-looking statements, which do
+reflect Delphi's current view of future financial performance that can and may materially be
+different from our actual performance.
+Joining us today is Kevin Clark, Delphi's CEO and President, and Mark Murphy, our CFO. As seen
+on slide three, Kevin will provide an operations update as well as an overview of the quarter, and
+then Mark will cover the financial results and the (sic) 2016 outlook in more detail.
+With that, I'd like to turn the call over to Kevin Clark.
+`Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Okay. Thanks, Elena. Good morning, everybody. Thanks for joining us. Before Mark gets into our
+financial results I'd like to provide some color on the fourth quarter and 2015 full year as well asour outlook for 2016.
+So let's begin with highlights on slide five. In summary, we had another good quarter, which was a
+really nice finish to a challenging year, in which we had very strong operating performance.
+Organic revenue growth was a robust 11% for the quarter and 6% for the full year, driven by just
+under 20% growth in China and roughly 13% growth in our Electrical Architecture and Electronics
+and Safety segments during the quarter.
+Operating income totaled a record $503 million. That was above our guidance. However,
+operating margins lagged the prior year, primarily the result of the sequential whipsaw in China
+volumes. You probably recall that in response to the third quarter slowdown in China, we actually
+reduced head count by about 4,000 employees, and then, had to add back over 6,000
+employees to meet the 40% sequential increase in volumes that we experienced in the fourth
+quarter.
+While growth over market inflected in the quarter due to new launch activity, our outlook and our
+performance also reflected higher manufacturing costs as a result of this increased launch activity.
+So to put it in perspective, our operating team did an outstanding job executing on a record 75
+major new program launches during the quarter and roughly 150 for the full year.
+Lastly, Mark will take you through the details, but FX was a bigger impact to margins in the
+quarter, especially at our E&S segment. For the full year, operating income totaled almost $2
+billion, representing a 60 basis point increase in operating margins. New business bookings
+exceeded 2014 levels, reaching a record $26 billion. And during the year we further optimized our
+manufacturing footprint, improving the flexibility of our cost structure.
+And we generated $1.7 billion of cash flow from operations, and returned roughly $1.5 billion to
+shareholders through share repurchases and dividends throughout the year. While at the same
+time making significant progress realigning our product portfolio through accretive acquisitions
+and investments that strengthen our competitive position, while exiting businesses that did not fit
+with our strategic and our financial objectives.
+Slide six covers 2015 new business bookings in more detail, which as I mentioned totaled over
+$26 billion a year. We actually totaled over $4 billion for the fourth quarter. During the quarter, we
+had a number of important customer bookings as well as several conquest wins, including a GDi
+win with a major North American customer, Electrical Architecture awards with both Toyota and
+PSA, and the second wave multi-domain controller award with a European OE. We continue to be
+successful retaining replacement business with our existing customers, as reflected by our win
+rate on incumbent business of almost 90%.
+The right side of the chart reflects the balanced geographic mix of our bookings, which will drive
+strong revenue growth over the next few years. And as important, the increased geographic and
+customer diversity ensures that we're not dependent on any one region, segment, or customer
+for growth. Given our focus on innovation, our portfolio of safe, green, and connected technology
+solutions and our track record of flawless execution, we continue to be an important strategic
+partner for our customers.
+Slide seven outlines the view of the macro environment in 2016, beginning with our view of the
+tailwinds on the left. Regulatory trends and consumer demands continue to influence fuel
+economy, emissions, and vehicle safety standards, driving content for vehicle growth. As a result
+we see strong demand for our safe, green and connected technologies. We continue to expect
+solid growth in global vehicle production, primarily driven by strong growth in China, NorthAs we sit here today, we do not expect foreign exchange rates to be as significant of a headwind
+as they were in 2015. Additionally, customer price-downs remain relatively stable.
+However, we are anticipating some headwinds as detailed on the right side of the slide, including
+continued softness in vehicle production in both South America and in Eastern Europe and
+ongoing weakness in the global commercial vehicle market. As such, we will continue to
+aggressively optimize our cost structure. The flexibility of our cost structure and ability to execute
+in a challenging macro environment gives us confidence we'll continue to deliver on both our
+short as well as our long term financial commitments.
+Turning to slide eight. Our strong bookings growth has led to a significant increase in major
+program launches, which in turn has accelerated revenue growth across each of our segments.
+To put this into perspective, major launches were up five-fold in the fourth quarter 2015 and two-
+fold for the four year – for the full year rather.
+We expect that trend to continue as launches more than double in the first quarter of 2016.
+These major launches require additional manufacturing resources, as we trend to normalized run
+rates over the next couple quarters, which translates into a steady increase in margins over the
+course of the year. And we remain on track to deliver both 2016 and 2017 margin targets.
+Turning to slide nine. Last month we made our 20th appearance at the Consumer Electronics
+Show, which seems to have a larger automotive presence each year. CES is a fantastic venue to
+showcase a few of our advanced technologies that will create a safer, more connected vehicle
+and ultimately drive significant revenue and earnings growth.
+Our customers, our suppliers, and investors had the chance to travel the streets of [Las] Vegas in
+our two automated vehicles and experience first-hand some of our newer V [vehicle]-to-
+everything technologies. We returned from the show optimistic about the tremendous
+opportunities in active safety, automated driving, and vehicle connectivity, which is further
+validated by roughly $1.2 billion of active safety and $2 billion of Infotainment bookings during
+2015.
+And lastly, we're encouraged by the outlook for vehicle electrification. We're seeing accelerated
+quote activity and revenue growth driven by the success of the hybrid vehicle technologies like
+48-volt, where content is more than four times our standard powertrain content.
+Our capital allocation strategy, outlined on slide 10, remains an important lever to enhance
+shareholder value. We expect CapEx to total roughly $800 million in 2016, supporting new
+program launches in North America, Europe, and China; investments in information systems that
+increased efficiency and productivity; and supporting our ongoing footprint rotation to best cost
+countries.
+We also believe an attractive dividend is another means of enhancing shareholder returns. As a
+reflection of our confidence in our underlying business, last month we increased our dividend 16%
+to $1.16 per share, representing a dividend yield of 1.9%.
+And lastly, we remain focused on executing value enhancing portfolio modifications. As such we
+intend to deploy roughly half of our operating cash flow towards value accretive strategic
+acquisitions and investments as well as share repurchases.
+On the M&A front we hope to acquire and make investments in businesses and technologies that
+further strengthen our competitive position, drive profitable growth, and are accretive to
+shareholder value.To the extent we have excess cash we have a track record of returning it to shareholders via
+share repurchases, as evidenced by the roughly $1.2 billion of repurchases we did last year. Our
+current 2016 guidance assumes $400 million of share repurchases. However, we have the
+flexibility to take advantage of dislocations in the market to ramp up the pace of our repurchase
+activity.
+As shown on slide 11 we believe we are well-positioned to deliver shareholder value in 2016. We
+will continue to optimize our cost structure by rotating our footprint to best cost countries,
+increase the flexibility of our workforce, optimize our regional service model, and further
+integrate the enterprise operating system to ensure flawless execution, both organically and
+through acquisitions, investing in safe, green, and connected technologies that address our
+customers' challenges and drive accelerated revenue growth, margin expansion, and enhanced
+returns.
+I'll now turn the call over to Mark for a more detailed look at our financial results. Mark?
+`Mark J. Murphy, Chief Financial Officer & Executive Vice President `
+Thanks, Kevin, and good morning, everyone. I'll begin by covering our fourth quarter and full year
+2015 performance and then discuss our 2016 guidance. Consistent with prior calls today's review
+of our actual and forecasted financials excludes restructuring and other special items and will
+address the continuing operations of Delphi. The reconciliation between GAAP and non-GAAP is
+included at the back of this presentation and the press release.
+Let me start on slide 13 with a snapshot of our fourth quarter financial performance. As Kevin
+mentioned we were pleased with our quarter results, which reflected robust revenue growth and
+record earnings.
+Revenue was up 3%, or 11% adjusted for currency and commodity effects. Operating income
+grew 1%, or 12% excluding currency. Operating margin was down 20 basis points from prior year,
+including a negative 40 basis point impact from foreign currency and the sales of the reception
+systems business. Additionally as Kevin mentioned, our margin rate for the quarter was impacted
+by the 40% sequential increase in China volumes, as well as higher manufacturing and
+engineering spend to support major new growth program launches across all segments.
+Earnings per share grew 7%. However, adjusting for the effects of currency and commodities, EPS
+grew 19%.
+Slide 14 provides greater detail on revenue in the quarter. As you can see currency and
+commodity effects were significant headwinds. However, organic growth was very strong at 11%
+and 8% over market, delivering on our growth outlook from early 2015. Regionally, Europe and
+Asia were exceptionally strong at 8 points and 10 points over market respectively. North America
+remained solid at 7% and 5 points over market. Though our business performed better than the
+market in South America, the underlying market there remains weak.
+Turning to profit. Slide 15 walks the fourth quarter year-over-year change in operating income,
+highlighting the previously mentioned foreign exchange effects. The cost impact of the China
+volume recovery, as well as the investment to support new program launches, is captured in net
+performance. These items are expected to remain a headwind to our normal margin flow
+through in the first half of 2016. And accordingly were included in our previously communicated
+guidance. We are confident in our ability to expand overall margins by roughly 50 basis points in
+2016.Moving to slide 16. Let's look at the performance by segment. With sales growth and operating
+performance Electrical Architecture and Powertrain expanded margins 60 basis points year over
+year, despite additional costs resulting from the sharp recovery in China volumes.
+As expected Electronics and Safety growth accelerated in the quarter on new program launches.
+The reported E&S margin rate of 10.4% was negatively impacted 260 basis points by unfavorable
+foreign exchange, the impact of the reception systems divestiture, and prior year nonrecurring
+items. When adjusted for these items E&S margins for the quarter were down 100 basis points
+on costs associated with support of new program launches.
+As it relates to 2016 we expect continued strong growth from launches. Margins will expand over
+the course of the year with lower volume flow through in the first half.
+Turning to slide 17. Increased earnings and lower share count drove EPS growth of 7% for the
+period. Excluding the effects of currency and commodities earnings per share grew 19%. Taxes
+came in as expected in the quarter at 14% on an adjusted basis; 16% adjusted for the year. On a
+year-over-year basis we were favorable by $0.01. However, that was offset by higher minority
+interest and versus our guidance, HellermannTyton financing, which we completed in the quarter.
+Moving to slide 18, our full year results. We delivered record earnings in a challenging macro
+environment. In 2015 our results included unfavorable currency and commodity effects of $1.3
+billion on revenue and $178 million on operating income. Organically, revenue was up 6% with our
+growth over market increasing through the year. Despite the previously mentioned headwinds, in
+2015 we delivered more operating income, expanded margins 60 basis points, and grew
+earnings per share 16%, excluding currency and commodities.
+Looking at the segments on slide 19. We delivered solid growth across all segments with growth
+over market strengthening through the year. Our overall margin expansion came in as expected.
+And going forward we project margin expansion to continue in line with our guidance and longer
+term financial targets.
+Turning to 2016. Slide 20 highlights our full year guidance assumptions; no change from last
+month. We expect growth in global vehicle production of roughly 2%, reflecting 3% growth in
+North America, growth in Europe of 2%, a 4% increase in China, and a decline in South America of
+10%. Our 2016 guidance maintains a $1.10/€1 rate.
+On slide 21 we reaffirm our 2016 guidance. Revenue is driven by accelerating organic growth and
+the full year effect of the HellermannTyton acquisition. Operating income growth for the year is
+14% at the midpoint, expanding margins roughly 50 basis points. 2016 EPS is expected to be in
+the range of $5.80 to $6.10; no change from our prior outlook. We forecast first quarter revenue
+growth of 5% to 8% adjusted, with margins up slightly versus the prior year at midpoint. And we
+expect first quarter EPS in the range of $1.28 to $1.38, up 10% at the midpoint.
+As Kevin mentioned our guidance assumes $400 million of share buybacks in the year. We intend
+to be opportunistic, while remaining committed to executing a balanced and disciplined capital
+allocation framework.
+In summary Delphi overcame a number of headwinds and still delivered a great year. Our 2016
+outlook is balanced and reflects our continued ability to adjust to changing market conditions.
+I'll now turn it over to Kevin for some final thoughts before Q&A.
+`Kevin P. Clark, President, CEO, Chief Operating Officer & Director `Sure. Thanks, Mark. Now summarizing on slide 22. 2015 was a record year, as Mark just said. Once
+again, we demonstrated our ability to deliver on our commitments, even against the backdrop of
+a more challenging and volatile environment.
+While capital markets are reflecting uncertainty in the underlying macro conditions, we aren't
+seeing anything today that would change our assessment of the market or the guidance that we
+provided last month. And while we're counting on a slight lift from global production in the year, if
+you look at the numbers, the bulk of our growth is driven by our planned new launches and
+increased content opportunities.
+Now having said that, we continue to actively monitor the dynamics in the industry and plan our
+investments prudently. In the event conditions deteriorate, we've demonstrated several times
+the ability to respond quickly and surgically. The European slowdown in 2012 as an example,
+where revenues declined 6% and our operating margins actually increased by 50 basis points.
+And the China slowdown in the third quarter of 2015, where revenues actually declined $175
+million, but we were able to offset that revenue shortfall with productivity initiatives. Those are a
+few of the examples. We continue to increase our flexibility and reduce our operating costs to
+ensure that we're positioned to mitigate unplanned headwinds.
+Further, our strategy for value creation remains intact. We're supporting growth where we see
+opportunities and we remain disciplined in our allocation of capital. We continue to execute on
+the relevant breakthrough technologies that are driving incremental growth and margin
+expansion in 2016 and beyond, enabling us to outperform over the long term. You can expect to
+see and hear more about these innovations and our long term roadmap at our investor day
+coming up in London on April 13.
+So with that, I'll turn the call over to the operator for questions.
+Q&A
+Operator
+Thank you. Our first question comes from the line of Rod Lache of Deutsche Bank.
+Q - `Rod A. Lache, Analyst, Deutsche Bank Securities, Inc. `
+Good morning, everybody.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Good morning.
+Q - `Rod A. Lache, Analyst, Deutsche Bank Securities, Inc. `
+Had a couple questions. One is your overall performance in Q4 was in line, but the E&S margin
+specifically looked a little bit light in the fourth quarter. And you mentioned FX headwinds; I was
+hoping you can elaborate on that. And also how we should be thinking about the net
+performance in 2016? It sounded like it could be – get a little bit better over the course of the
+year.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Well, Mark, why don't I start at a high level and then I can turn it over to you, and you can go
+through the numbers in more detail. I think – first, Rod, I think to Mark's point with respect to theyear-over-year at E&S, there's a lot of noise in the numbers that you need to make adjustments
+for, including the divestiture of our reception systems business, right? As well as foreign
+exchange, as well as a one-time item in the fourth quarter last year. And I think those amounts
+total roughly 250 to 260 basis points. The balance relates really to the launch activity – the
+significant ramp-up in launch activity that's reflected in the underlying growth rate at E&S.
+As you roll out for the full year, both at E&S as well as for Delphi in total, you're going to continue
+to see some ongoing costs related to the China inefficiencies, as well as ramp costs into Q1,
+although at a much lower rate than what we have in the fourth quarter, and then continue to
+dissipate through Q2 and be largely gone in Q3 and Q4. So, as you look at margin expansion
+throughout the year both for Delphi as well as E&S, you'll see a gradual margin expansion on a
+sequential basis.
+As it relates to the FX exposure, Mark, do you want to talk about that?
+A - `Mark J. Murphy, Chief Financial Officer & Executive Vice President `
+Yeah, Rod. We did have in the quarter, particularly around euro, renminbi, we had some
+transactional exposure, some balance sheet re-vals, which contributed several million beyond the
+normal operating margin flow-through rate we see in the business on FX.
+And then as Kevin mentioned, there's some elevated costs around launches, which we expect to
+have peaked in the fourth quarter, remain elevated in the first and then begin to trail off through
+2016 as that business returns to more normal margins.
+Q - `Rod A. Lache, Analyst, Deutsche Bank Securities, Inc. `
+Okay. And then just secondly, I was hoping you can give us a couple of the elements of the
+bridge just to – not for E&S specifically – but for the overall company as we look out at Q1. Does
+the acquisition revenue roll through at something like a 15% margin? And how should we be
+thinking about the FX/commodities performance as we look at Q1?
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Yeah. On the acquisition – so acquisition revenues for the quarter – it's $800 million for the full
+year. It's about...
+A - `Mark J. Murphy, Chief Financial Officer & Executive Vice President `
+$190 million.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+$190 million for the quarter at an OI rate that's consistent with our current corporate OI rate. You
+need to offset that to some extent, Rod, with the divestiture of the reception systems business.
+So that reduces the number by about $20 million or $25 million in the quarter and has a small
+effect on OI.
+A - `Mark J. Murphy, Chief Financial Officer & Executive Vice President `
+Yeah. So I think, Rod, we – just walking from the $472 million last year – we've got volume/price of
+about $30 million flowing through at normal rates. I'm talking OI.
+As Kevin mentioned we've got the HellermannTyton revenue flowing through, but offset by someWe have very little FX effect in the first quarter; low, mid-single digits impact. Unfavorable, but
+mid-single digits.
+And then, we have what we talked about, some of these launch costs in China, inefficiencies on
+production persisting, but down from the fourth quarter. So we ran – we'll be down about $20
+million lower versus what we ran in the fourth on that bucket of costs. Net performance will be
+close to $0.
+Q - `Rod A. Lache, Analyst, Deutsche Bank Securities, Inc. `
+Okay. So just to clarify what you just – the way you bridged it, it's like $18 million to $48 million of
+year-over-year EBIT growth, you said 30% incremental on the organic of around $300 million. So
+that gives you about $90 million, pricing consistent, net organic growth minus pricing might be
+around $20 million positive. The acquisition adds $25 million. And then did you say that the
+performance and commodities is kind of a push?
+A - `Mark J. Murphy, Chief Financial Officer & Executive Vice President `
+Yeah. Commodities and FX is roughly mid-single digits. Price is roughly in line with last year. I'm
+doing the walk your way at $76 million. Volume at 30% flow through. And then the net
+performance numbers we talked about.
+Q - `Rod A. Lache, Analyst, Deutsche Bank Securities, Inc. `
+Okay. Great. Thank you.
+Operator
+Our next question comes from the line of John Murphy of Bank of America Merrill Lynch.
+Q - `John J. Murphy, Analyst, Bank of America Merrill Lynch `
+Good morning, guys.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Good morning.
+Q - `John J. Murphy, Analyst, Bank of America Merrill Lynch `
+Just a first question. I mean obviously leverage stepped up a little bit with the HT acquisition as
+expected. It looks like it was about 1.6 times on a gross basis on trailing EBITDA. For both you,
+Kevin and Mark, I mean if you think of that number, I mean it was a step up. But it's certainly not
+anything that's alarming.
+Would you be willing to maybe take that up somewhat significantly to get a lot more aggressive
+on share buybacks, just given where the stock is right now? I'm just trying to understand, given
+opportunities to acquire your own shares or maybe other strategic acquisitions, how far you
+might push that leverage ratio?
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Listen, I don't – I couldn't give you an exact number with respect to the leverage ratio. As we've
+told you over the – it's our objective to remain an investment grade company.Having said that when you look at where our balance sheet is, you look at the cash flow
+generation forecast for 2016, there certainly is an opportunity to be more aggressive on a – from
+a share repurchase standpoint. And as I said in my prepared comments, to the extent there's
+dislocation in value we're going to certainly accelerate share repurchases in a meaningful way.
+Q - `John J. Murphy, Analyst, Bank of America Merrill Lynch `
+Okay. That's helpful. Then just a second question. Could you just remind us what your commercial
+vehicle exposure is? It sounds like you're highlighting that as a risk. But I think it's relatively small in
+the grand scheme of the company.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Yeah. It's about 10% of total revenues. And our outlook for the commercial vehicle market this
+year is flat to down a point or 2 points, depending on markets.
+Q - `John J. Murphy, Analyst, Bank of America Merrill Lynch `
+And profitability would be roughly close to the corporate average? Or a little bit above?
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Yeah. Yeah. No, profitability is in line with the corporate average.
+Q - `John J. Murphy, Analyst, Bank of America Merrill Lynch `
+Okay. And then just lastly, if you could just talk about sort of bids that are in process right now as
+we look at the potential for new business bookings in 2016? And how you think that may shape
+up? Is there sort of increased activity? Or is there a little bit of leveling out?
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+No. The actual – the pool of opportunities is actually higher. So the amount of activity that remains
+out there is actually higher than what it was in 2015, which is certainly a positive sign. So we would
+expect from a booking standpoint to come in roughly in line with what we booked in 2015 from a
+total new business bookings standpoint.
+The big opportunities tend to be around, as you can guess, active safety. We're seeing a big
+ramp-up in demand – off of a small number obviously – on vehicle electrification, including things
+like 48-volt, as well as a fair amount of activity on our traditional powertrain products like GDi, Gas
+Direct Injection. So very good. Great deal of opportunity out there.
+Q - `John J. Murphy, Analyst, Bank of America Merrill Lynch `
+Great. Thank you very much.
+Operator
+Our next question comes from the line of Brian Johnson of Barclays.
+Q - `Brian A. Johnson, Analyst, Barclays Capital, Inc. `
+Yes. Good morning. I wanted to talk a bit about the Powertrain unit. A couple questions. The
+organic growth of 4% in 4Q. Was this expected? Was there commercial vehicle headwinds there?Secondly, what's the bridge to get to 8% growth in 2016? Does it have to do with take rates?
+Does it have to do with program launches?
+And just thirdly, how are the dialogues vis-à-vis timing of customer programs going? Given both
+where oil prices are and the sort of views about the cycle, which I know are more intense on Wall
+Street than perhaps in OEM headquarters.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Yeah. Well let's start with your last question first. We've seen no shifting in schedules from a
+Powertrain quite frankly or any of our other businesses. We've seen absolutely none.
+With respect to the growth rate of the Powertrain business. In the fourth quarter and in the first
+quarter of this year Powertrain segment growth will be a bit slower, primarily the result of a
+challenging comp in our aftermarket business. So if you remember, Brian, last year we launched a
+major program with a U.S. independent aftermarket retailer that had very strong revenue. So that
+affects the year-over-year comp in the Powertrain segment. So that's one.
+Two, what you will see is consistent in reality with the balance of our businesses. Based on the
+timing of the ramp-up of all these launches, growth is going to be stronger in the second half of
+the calendar year than it is in the first half of the calendar year, consistent with the margin
+explanation that Mark talked about. So we're still very optimistic about the Powertrain segment.
+The other thing to underscore though is – we've talked about it in the past, and I mentioned it
+again in my comments. We're starting to see more demand, more of a ramp-up in vehicle
+electrification, including things like 48-volt. Those are very good for us. So 48-volt hybrid content
+is four times to five times the content that we have on a traditional car. Full EV is seven times the
+content. 48-volt is an area that – quite frankly a product that we'll be talking more with folks like
+yourself about at our investor conference in April. But the great thing about it is it's 70% of the
+benefit at 30% of the cost for the OEs. So we think it's a great value proposition.
+Q - `Brian A. Johnson, Analyst, Barclays Capital, Inc. `
+And also on Powertrain, just to finish up. Margins expanded in the quarter even though revenue
+ticked – on a headline basis was down, on an adjusted basis was the slowest of your three
+segments. Is that because of the lack of launch activity? And I guess in general how should we be
+thinking about the cadence of margin in that segment?
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Well launch – I mean launch activity was a little slower. But there's still – relative to the other
+businesses I think it's really the benefit of – as you recall we've done a fair amount of footprint
+rotation in our Powertrain business. And it's the benefit related to that footprint rotation.
+Q - `Brian A. Johnson, Analyst, Barclays Capital, Inc. `
+Okay. And just one final strategic Powertrain question. Are you getting more software work
+around Powertrain? Just given sort of what went on with a major European manufacturer and their
+diesel issues, which centered around software? Is there any kind of desire of OEMs to have a
+second set of eyes on the software, even if they could do it themselves internally?
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `Yeah. That's an interesting question. I don't think we've seen it as a result of that. However, as
+you know there's more electrification. There's more software going into the Powertrain. So that is
+certainly an overall trend that we're seeing. I don't believe it's a result of the event that you're
+talking about.
+Q - `Brian A. Johnson, Analyst, Barclays Capital, Inc. `
+Okay. Thanks.
+Operator
+Our next question comes from the line of Pat Archambault of Goldman Sachs.
+Q - `David Tamberrino, Analyst, Goldman Sachs & Co. `
+Thank you. Good morning. This is actually Dave Tamberrino on for Pat. Our first question really
+relates to price downs. Just looking at the last four quarters, we've seen them accelerate from
+the 1.5% range to really exiting the year at 2%. One, what's driving that? And secondly as we get
+a little bit longer here in the cycle at least in North America, do you anticipate further pressure
+here?
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Yeah. That's a good question. We get asked it a lot. We've always said price downs will be in the
+range of 1.5% to 2%. Last year I think we ended the year at 1.4%. This year we're at about 1.8%.
+The primary driver of that quite frankly is faster growth in the E&S business, where price downs
+tend to be 2% to 3%, versus our Powertrain business and E/EA businesses that have lower price
+downs.
+With respect to added pricing pressure our response is, our customers always challenge us for
+price downs. It goes on when times are good. It goes on when times aren't quite as good. So we
+would tell you we haven't really noticed the environment changing.
+Q - `David Tamberrino, Analyst, Goldman Sachs & Co. `
+Okay. That's helpful. And then we're about six months removed now from the onset from the VW
+emissions scandal. Just thinking about your business within Europe, have you seen any shift really
+in production? Or any of the take rates that are going on within the region?
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+No. No, nothing out of the ordinary. No. Have not seen any change.
+Q - `David Tamberrino, Analyst, Goldman Sachs & Co. `
+Okay. And then lastly in the U.S. Looking at January numbers at least for a couple of the OEMs, it
+looks like there was some excess inventory exiting January. We're really wondering if you've seen
+any changes in your OEM partners in terms of what production schedules look like in the short
+term?
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+No. I'm – listen we've – again we understand the concern that people in the investment
+community have with respect to where we are in the cycle and what production schedules looklike. We see none. I mean we've seen absolutely no change in production schedules from when
+we gave guidance originally a month ago, as well as what our outlook was in the fourth quarter of
+last year as it relates to 2016. So we've seen no change.
+I think if you go back and you track SAAR in retail sales, January does tend to be a lower month
+relative to the other months in the year.
+Q - `David Tamberrino, Analyst, Goldman Sachs & Co. `
+All right. Thank you very much, guys.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Thank you.
+Operator
+Our next question comes from the line of Ryan Brinkman of JPMorgan.
+Q - `Ryan J. Brinkman, Analyst, JPMorgan Securities LLC `
+Hi. Thanks a lot for taking my question.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Ryan.
+Q - `Ryan J. Brinkman, Analyst, JPMorgan Securities LLC `
+Good morning. Just looking at the 1Q margin guidance, 12.3% to 12.7% [operating margin]. Can
+you quantify at all what the impact is in dollars or in margin from the China production
+inefficiencies? Just to help us kind of better gauge the underlying rate. And then on the
+efficiencies can you remind us of the cadence of them? And whether you expect any sort of
+lingering impact as late as 2Q, for example?
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Yeah. Listen, the China piece in Q4 was roughly call it $20 million – $15 million to $20 million. Q1 we
+expect it to basically decline to roughly $5 million. So there will be a lingering effect in Q1, and
+then it'll fall away in Q2.
+However, given launch activity there'll still be some of that incremental launch cost carry-on from
+Q4 into Q1. Call it another – I don't know – $25 million roughly of launch costs in Q1 relative to a
+higher number. Call it roughly $60 million in Q4.
+Q - `Ryan J. Brinkman, Analyst, JPMorgan Securities LLC `
+Okay. Thanks. That's very helpful. And then just last question is a macro one. I see on slide 20 that
+your industry assumption for China is plus 4% in 2016. That's reasonable; of course, I don't think
+anybody really knows, right? So, but I see that IHS is using plus 6%. So I'm just curious about your
+decision to forecast less than them? Whether that's due to something that you're seeing on the
+ground over there? Or is there a different view as to when the current strength in China pulls
+from? Does it pull from second half 2016 instead of 2017 after the incentives expire, as their
+forecast seems to imply? I just thought to ask your thoughts on the market since you have...A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Sure.
+Q - `Ryan J. Brinkman, Analyst, JPMorgan Securities LLC `
+...a bigger exposure and you've been there longer than most.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Sure. No. Listen, we – I mean the first thing – when you look at HIS, I think you need to make sure
+when we talk about market assumptions we include commercial vehicle. So that does have an
+effect. And given the fact that we're flat to slightly down in commercial vehicle versus past car
+growth, that will have some effect.
+I think in addition to that there may be a little bit of conservatism built into our numbers. We still
+remain optimistic about the China market. Q4 growth was very strong; was quite frankly, as we
+said before, a bit of a surprise. Our outlook for the balance of the year is solid growth. And if the
+market ends up being stronger I think that is an upside to our overall outlook for the business.
+Q - `Ryan J. Brinkman, Analyst, JPMorgan Securities LLC `
+Okay. Very helpful. Thank you.
+Operator
+Our next question comes from the line of Adam Jonas, Morgan Stanley.
+Q - `Adam Michael Jonas, Analyst, Morgan Stanley & Co. LLC `
+Hey, everybody.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Adam.
+Q - `Adam Michael Jonas, Analyst, Morgan Stanley & Co. LLC `
+Just one question. Hi. It's on the startup costs. And the question is kind of, is it unreasonable to
+assume that given the huge growth in very different technologies and sometimes untested
+technologies – or let's say uncommercialized, let's say – in the E&S business that you're going to
+see over the next couple years, that some of the startup costs and launch costs, I should call
+them, are just regularly recurring for a while and can reasonably be assumed to weigh down on
+margins? And I ask that because I think everyone on the – at least on the sell side I've seen – has
+margins in E&S just going up inexorably each year. And I'm just wondering if there's like a scenario
+where the startup costs are – we should have them running recurring basically.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Yeah. I...
+Q - `Adam Michael Jonas, Analyst, Morgan Stanley & Co. LLC `
+Or if not larger. Yeah.A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Yeah. No, listen. I – relative to where we are today and the amount of launch activity at E&S – I'd
+say no. I think significant amount of launch activity, Adam, in Q4 or Q1 and ramping down in Q2 at
+E&S. So I think you have some normalization.
+I think long term margins for E&S, from my perspective, remain in line with what our longer term
+outlook was. And I think the question is – the question I would ask myself is – how aggressive in
+terms of investment in new technologies do we – how aggressive do we want to be? How
+aggressive do we want to be in pursuit of those technologies as well as that business? And I think
+that's something that we have the ability to calibrate on or off. And to the extent we decide to be
+more aggressive from an investment standpoint, it's something that makes sense financially, and
+we're able to communicate to folks like yourself.
+Q - `Adam Michael Jonas, Analyst, Morgan Stanley & Co. LLC `
+Okay.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+And you'd agree with the opportunity.
+Q - `Adam Michael Jonas, Analyst, Morgan Stanley & Co. LLC `
+Thank you, Kevin. Can I just ask a follow-up, please?
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Sure.
+Q - `Adam Michael Jonas, Analyst, Morgan Stanley & Co. LLC `
+We're seeing a lot of, say, nontraditional players getting involved in the software part of the car,
+whether it's safety or even in Powertrain. I couldn't help but notice the Chevy Volt, just it seems
+like LG Corp. like basically made two-thirds of the purchase bill of materials of that car. I'm sure
+you saw that too. Is that factoring into your longer term views of where the margins of say E&S or
+Powertrain could be? Is the pace of let's say nontraditional crowding progressing as you'd
+expect? Or is that something that – is that a variable, a vector to think about?
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Yeah. No, it's – listen, it's something that we always think about. To date, it's not as direct a
+competition in terms of space or places that we compete. So it hasn't had an effect. And it's
+something we watch closely. I mean the Chevy Volt is a great example. I mean, that's a car where
+we have close to $400 of content. So we have a pretty good position from a vehicle standpoint.
+But it's something we monitor very closely.
+Q - `Adam Michael Jonas, Analyst, Morgan Stanley & Co. LLC `
+Thanks, Kevin. Thanks, guys.
+Operator
+Our next question comes from the line of Joe Spak of RBC Capital Markets.Q - `Joseph R. Spak, Analyst, RBC Capital Markets LLC `
+Hi. Good morning, everyone. Actually just wanted to follow up on Adam's line of questioning a
+little bit. So, obviously there will always be launch costs. It sounds like they'll be a little bit lower. I
+guess, though, what I was wondering is how – I mean it seems like there's also going to be a
+period of time when you take on this new business until it gets to a right normal run rate of
+profitability to wring out the most – most of the efficiencies you can. So, as we get all this new
+business coming on, can you give us some indication as how long it takes to actually get to the
+proper run rate margin for the new business versus the core or the base business if you will?
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Yeah. No, two to three quarters. And I – it depends what the product is. But two to three quarters,
+Joe. Not any longer than three quarters.
+Q - `Joseph R. Spak, Analyst, RBC Capital Markets LLC `
+Okay. And then within E&S – sorry if I missed this, but is – any breakdown between Infotainment or
+active safety? Or what really sort of drove that big backlog launch in the quarter?
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+What drove the big – it's really – it's both. So, active safety growth in the fourth quarter for Delphi
+was 66%. For a full year, we're well north of 50%. And we're launching new Infotainment
+programs where our growth in Infotainment in 2016 is going to be roughly 25%. So, those are two
+very active product lines.
+And then the last is, again, I mentioned vehicle electrification. Our revenue growth in vehicle
+electrification product line is going to be well north of 50% in 2016. So, those are all the big
+drivers at E&S.
+Q - `Joseph R. Spak, Analyst, RBC Capital Markets LLC `
+Okay. One more housekeeping. And maybe I'm wrong here, but I think you still didn't get the
+proceeds from the Thermal China JV. Is that accurate? And when do you expect to get that?
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Yeah. We'd expect second quarter of this year. But you're correct.
+Q - `Joseph R. Spak, Analyst, RBC Capital Markets LLC `
+Okay.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+We have not, but we expect it to actually receive them in the second quarter.
+Q - `Joseph R. Spak, Analyst, RBC Capital Markets LLC `
+And that's roughly $200 million or so?
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+No. No. It's about $90 million.Q - `Joseph R. Spak, Analyst, RBC Capital Markets LLC `
+$90 million? Okay.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Yeah. Remember, we own half of it. So your $200 million is probably the view on the total value.
+Q - `Joseph R. Spak, Analyst, RBC Capital Markets LLC `
+Okay. Thanks a lot.
+Operator
+Our next question comes the line of David Leiker of Baird.
+Q - `Joe D. Vruwink, Analyst, Robert W. Baird & Co., Inc. (Broker) `
+Hi. Good morning. This is Joe Vruwink in for David.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Hey, Joe.
+Q - `Joe D. Vruwink, Analyst, Robert W. Baird & Co., Inc. (Broker) `
+If I consider the quarterly cadence of what might be likely in China from a production standpoint,
+it would seem that growth rates probably decelerate as the year goes on. And we might even hit
+a negative comp by Q4. I'm just wondering does your guidance then imply that you're going to
+see net-net negative performance out of China maybe by Q4 in anticipation of needing to make
+either head count changes or line rate reductions for the production decline?
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Yeah. I don't – I think you look at it mathematically it'd be much slower growth to a slight decline in
+Q4 as you look at the number. I don't think it'd be a significant head count reduction if we had to
+do it, nor would it be costly. I mean that's a region where we can change up head count very, very
+quickly.
+Q - `Joe D. Vruwink, Analyst, Robert W. Baird & Co., Inc. (Broker) `
+I guess the question is given what you saw in – with the layoffs happening during summer,
+needing to build staff back up Q3, and then incurring these costs Q4 and Q1, is there any lessons
+learned? Where you might've – you could've done something different? Where as we get into the
+back half and things might be softening or slowing, maybe the incrementals or the decrementals
+are better this time around?
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Yeah. Well listen. I think once we normalize I think the incrementals would be the same, maybe a
+bit better. Listen, I would – we obviously follow the markets very, very closely. The China market,
+the decline happened very rapidly.
+I think our view as a management team here is we'd rather be in front of the cost reductions
+versus behind it. So I think it would be fair to ask the question would you act as aggressively inhindsight without knowing that schedules were going to rebound as much as they had in the
+fourth quarter? Would you react as quickly and aggressively? And I think we'd tell you we would,
+because we'd rather be in front of a slowdown versus behind it.
+And that's a part of the cultural DNA here – we have here. We talk a lot about growth. We talk a
+lot about opportunities from an innovation and technology standpoint. At the same time over the
+last two years we've closed close to 15 manufacturing facilities globally. So we're always focused
+on how do we manage the business, how do we increase the flexibility of the cost structure
+under the realization that we operate in a cyclical industry.
+Q - `Joe D. Vruwink, Analyst, Robert W. Baird & Co., Inc. (Broker) `
+Great. I'll leave it there. Thank you.
+Operator
+Our next question comes from the line of David Lim of Wells Fargo Securities.
+Q - `David H. Lim, Analyst, Wells Fargo Securities LLC `
+Hi. Good morning.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+David.
+Q - `David H. Lim, Analyst, Wells Fargo Securities LLC `
+Several questions here. You added back more employees than you laid off in China if I heard you
+correctly. Is that due to...
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Yeah.
+Q - `David H. Lim, Analyst, Wells Fargo Securities LLC `
+Is that more due to surge production – a surge in production? Or are you thinking that there's just
+maybe an incrementally better outlook for you guys in 2016 in China than what you guided to?
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+No. It's what we needed to deal with to deal with the production. Right?
+Q - `David H. Lim, Analyst, Wells Fargo Securities LLC `
+Got you.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+In reality you're – not only was the production ramp-up significant. But it's you have a new
+employee who is going to be less efficient or productive than a historical employee. Therefore
+you need more of them.
+Q - `David H. Lim, Analyst, Wells Fargo Securities LLC `Got you. And then on the restructuring side, I saw an uptick in Powertrain. Can you give us a little
+bit more color there? Was it more in Asia, Europe? And in theory wouldn't that yield stronger
+margins in the coming quarters or the flow through from the restructuring activity?
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Yeah. Yeah. It would be primarily in Europe.
+Q - `David H. Lim, Analyst, Wells Fargo Securities LLC `
+Okay. And finally, and a little bit more of a housekeeping item. How should we think about
+operating income and revenue cadence from Q versus – one half versus the second half? Thank
+you.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Well revenue growth will be a couple points higher second half versus first half. And then margin
+expansion with the exception of – you'll see sequential increase in margin expansion with the
+exception of the third quarter, which as you know, David, with the shutdowns in Europe and North
+America tends to be the lowest margin quarter.
+Q - `David H. Lim, Analyst, Wells Fargo Securities LLC `
+Great. Thank you so much.
+Operator
+Our next question comes from the line of `Emmanuel Rosner, Analyst, CLSA Americas LLC of CLSA.
+Q - `Emmanuel Rosner, Analyst, CLSA Americas LLC `
+Hi. Good morning, everybody.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Morning, Emmanuel.
+Q - `Emmanuel Rosner, Analyst, CLSA Americas LLC `
+I wanted to ask you a little more detail on the content opportunity for you guys on the vehicle
+electrification. So you have been talking about really impressive numbers, four times, five times
+on the 48-volt and up to seven times on electrical vehicles. Can you maybe unpack a little bit
+what goes into these calculations? Is that pure electrical content increase? Or does that net out
+also what you would potentially lose in terms of Powertrain – traditional Powertrain content?
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Yeah.
+Q - `Emmanuel Rosner, Analyst, CLSA Americas LLC `
+And does that assume any level of autonomous driving in there?
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `It doesn't assume anything on autonomous driving. And it is a net number. So to the extent we're
+losing content on a fully electric vehicle, it doesn't include the content of an internal combustion
+engine. But it's things like an electrical architecture, it's the wiring and connectors associated with
+EVs or hybrids. At E&S it's inverters, converters, hybrid control units, it's battery pack, and
+controllers, not the battery. It's chargers. Powertrain, it's the supervisory controller. So it really
+affects each one of our segments.
+Q - `Emmanuel Rosner, Analyst, CLSA Americas LLC `
+So ultimately in the fully electrified world you would have massive segments in E&S and E/EA.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Yeah.
+Q - `Emmanuel Rosner, Analyst, CLSA Americas LLC `
+And then a strong – much more than offsetting a strong segment in Powertrain.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Yeah. I think that's a – depending on the size of the engine, if it's a hybrid. But I think in a simplistic
+and a basic way to look at it, you're absolutely right. Very good growth at E&S and E/EA with
+potentially lower growth or a decline in Powertrain revenue.
+Q - `Emmanuel Rosner, Analyst, CLSA Americas LLC `
+Okay. And then one question on China. So we've been seeing through this past year a bit of a
+mix shift towards smaller engines, largely due to the tax cut on those engines. But also I think the
+growth coming from lower tiered cities and maybe the lower end of the market. Is that an
+opportunity for you, because essentially you could sort of like sell your GDis on these smaller
+engines? Or is that a negative mix implication, because we're talking about customers that may
+be a little bit more price sensitive? Or segments of the market that are more price sensitive?
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+No. We would say it's an opportunity. At the end of the day it's an opportunity.
+So first to give you a perspective. 80% of our revenue in China is on platforms where the vehicles
+have a 1.6-liter engine or less. So just to put that in perspective. With respect to the Powertrain
+technology needed to hit the CO2 targets in China, they always need things like GDi. Those are
+important aspects to have them hit their fuel economy standards. So they're areas of opportunity
+for us. They're definitely areas of opportunity.
+Q - `Emmanuel Rosner, Analyst, CLSA Americas LLC `
+Great. Thank you.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Thanks.
+Operator
+Our next question comes from the line of Anthony Deem of KeyBanc.Q - `Anthony J. Deem, Analyst, KeyBanc Capital Markets, Inc. `
+Hi. Good morning. Thanks for taking my questions.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Morning.
+Q - `Anthony J. Deem, Analyst, KeyBanc Capital Markets, Inc. `
+Does your current share price impact your view of M&A? And by that I mean are you more
+inclined to take advantage of the market dislocation we're seeing? Or is M&A the more attractive
+alternative, based on the visibility you have in your current pipeline? And are any deals maybe in
+advanced negotiations that might impact your share repurchase rate near term?
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Nothing to announce today. Listen, I – at the end of the day we always try to be active and look
+what's out there from a technology and M&A opportunity. We have a pipeline of opportunities
+that we continue to evaluate.
+But we always look at M&A from a strategic and financial return standpoint. And we look at it
+through the lens of where the current value of our stock is. And yeah. The reality is it does affect
+our view. Right? It can't help but affect our view.
+But to the extent we could find a very compelling M&A transaction with really great synergies that
+we looked at. And relative to share repurchase it looked more attractive to driving long term
+shareholder value, that's something that we would certainly do. To the extent there isn't
+something out there like that, we would certainly ramp up the pace of our share repurchase
+activity.
+Q - `Anthony J. Deem, Analyst, KeyBanc Capital Markets, Inc. `
+Okay. Then just one extra question from me please. Within your 2016 guidance can you share any
+outlook you have for the light duty diesel mix? You mentioned there's nothing really out of the
+ordinary you're seeing. So maybe I should assume your outlook is similar to before? Maybe diesel
+trending a shade below production rate?
+And then just curious to get your latest thoughts on CO2 standards, the role of diesel? And if
+anything has changed in your mind over the medium to long term to hit fuel economy standards?
+Thank you.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Yeah. Yeah. So our view, light duty diesel – light duty diesel – our view on light duty diesel
+penetration rates hasn't changed. And it's basically there'll be some growth, but albeit slow. And
+penetration rates will actually decline in Western Europe.
+Having said that based on our discussions with all our OEs, all of them view diesel as absolutely
+critical to meeting the CO2 regulations that are out there. They have to have it. So it'll continue to
+be a Powertrain solution, although it'll grow at a slower rate.
+Q - `Anthony J. Deem, Analyst, KeyBanc Capital Markets, Inc. `A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Hopefully that answers your question. But no change in view. I mean we had that view a year ago.
+Q - `Anthony J. Deem, Analyst, KeyBanc Capital Markets, Inc. `
+All right. Thank you.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Thank you.
+Operator
+Our last question comes from the line of `Matthew Stover, Analyst, Susquehanna Financial Group LLLP of SIG.
+Q - `Matthew Stover, Analyst, Susquehanna Financial Group LLLP `
+Hello. Thanks for taking the question. Two things, one a housekeeping item. Could you just
+illuminate the acquisition-related expenses that were in the one-timers?
+And then two. If you could comment, Kevin, about the increased quoting activity. Is that primarily
+on HEV activity? Or are you seeing an increase in activity relative to fully electrified Powertrains?
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Yeah. I would say more on the high – I'd say – I'll answer the last question, and then Mark can
+respond to the first one. When you think about it, we're seeing an overall increase in quote
+activity in general across all of our segments. When you look at it with respect to alternatives to
+traditional internal combustion engine, more on the hybrid/electric side that on the EV side.
+Q - `Matthew Stover, Analyst, Susquehanna Financial Group LLLP `
+Okay.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+So that has been the net change. With respect to the one time.
+A - `Mark J. Murphy, Chief Financial Officer & Executive Vice President `
+Yeah. Matt, just to hopefully answer your question here. There were about $25 million of fees
+associated with HellermannTyton, but it was adjusted out of OI. Of course it hit cash flow in the
+quarter. And then what hit operating income was about $1 million. It was immaterial.
+Q - `Matthew Stover, Analyst, Susquehanna Financial Group LLLP `
+So that was the banking and legal fees?
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Yeah. The $25 million would – yeah.
+A - `Mark J. Murphy, Chief Financial Officer & Executive Vice President `
+Yeah. Yes.Q - `Matthew Stover, Analyst, Susquehanna Financial Group LLLP `
+Yeah. Okay. Okay. Thank you very much.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Thanks, Matt.
+Operator
+Thank you. That concludes Delphi's fourth quarter 2015 earnings conference call. Thank you for
+joining. You may now disconnect.

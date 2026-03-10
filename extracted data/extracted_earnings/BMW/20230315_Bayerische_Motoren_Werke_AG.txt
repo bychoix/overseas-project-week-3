@@ -1,0 +1,593 @@
+Y 2022 Earnings Call
+
+Presentation
+`Max-Morten Borgmann, Communications Corporate `
+So, ladies and gentlemen, welcome back. Ritu, you joined us last year for the first time at the
+Annual Conference. That was just before you officially took over as Senior Vice President for
+Group Treasury. What have been the highlights of your first year in this role?
+`Ritu Chandy, Head of BMW Group Treasury `
+Thank you, Max. It's been an extraordinary year. We delivered strong results within a guidance in a
+challenging environment and there were number of other unique events in 2022. We have the full
+consolidation of BBA. We started our share buyback program, completed about 82% of the first
+program that was launched, and we saw the launch of the i7, the all-electric Rolls Royce Spectre, a
+number you -- number of you on this call actually joined us for those events, which are both
+unique in their segments, very -- very important for our electrification narrative. And finally, we
+accomplished all this while generating a record free cash flow, putting us in a perfect position to
+invest in the future.
+`Max-Morten Borgmann, Communications Corporate `
+Excellent. Absolutely, Ritu, it was certainly a challenging, yet exciting year, but I think we can be
+confident about this year. And now, ladies and gentlemen, I will leave you in great hands with Ritu
+for the Q&A. Ritu, the stage is yours. Please.
+`Ritu Chandy, Head of BMW Group Treasury `
+Thank you again, Max. I would now, without further ado, like to welcome back `Oliver Zipse, Chairman of the Board of Management and
+`Nicolas Peter, Finance on stage with me. Thank you.
+The gentlemen have now joined me on stage. Thank you for joining me here. Ladies and
+gentlemen, as usual, we look forward to your question. Your call will be streamed to us directly in
+the room. We would therefore encourage you to use video call so that we can also see you here.
+Without further ado, we will now hand over to the operator and take the very first question.Questions And Answers
+Operator
+Our first question comes from `Dorothee Cresswell, Analyst, Exane BNP Paribas at Exane BNP Paribas. Please unmute your line
+now and turn your camera on.
+Q - `Dorothee Cresswell, Analyst, Exane BNP Paribas `
+Hi, there and thank you for taking my question. I think you can hear me. And my first question is
+around the earnings dynamics in China. And you look to have generated pretty phenomenal
+profitability there last year despite a challenging operating environment and it now seems like
+demand is picking up. And you're also taking market share in the BEV segment, which is quite
+unusual for western name. And -- but we also hear that pricing is very, very challenging and there
+is talk of a great deal of discounting. So my first question is, is 2022's profitability sustainable into
+2023 and also beyond and why? And then my second question is just around the cash return to
+shareholders. You've obviously got the 10% buyback authorization. You're nearly done with the
+first EUR2 billion program. Should we expect you to launch a follow-on program? And is the EUR2
+billion, a good point of orientation for that? Thank you so much.
+A - `Ritu Chandy, Head of BMW Group Treasury `
+Thank you very much for your question, Dorothee, and for kicking us off today. The first question
+regarding pricing development in China, I would hand over to Nicolas please. Nicolas?
+A - `Nicolas Peter, Finance `
+Dorothee, first of all, you're absolutely right. Despite the volatility we've seen in '22, in particular
+in the second quarter in China and in the first quarter, '22 was a good year in -- for BMW in China
+and, in particular, we have seen contribution per unit developing very strong and we have seen
+step by step our EV share going up. I think it's worthwhile to mention that the EV market is
+developing in a different manner in China compared to Europe and US where Europe and US are
+more top down. China is developing more bottom up and we are now launching step after step
+the next all electric cars in China.
+We are -- if you remember our Q3 conference, we are not surprised that the market, in particular,
+in January, February in the first quarter is somewhat more difficult in China, which has, on one
+hand side, to do with the fact that we've seen at the very beginning of the year still the impact of
+the COVID lockdowns in January and beginning of Feb, then we had the Chinese New Year little
+bit -- a bit earlier. We are nevertheless optimistic -- we are nevertheless optimistic that we will see
+beginning probably from end Q2 onwards, a positive dynamic development in China. So we
+believe based on our strong portfolio, full availability of long wheel base X5 pricing discipline. We
+will have another successful year in China. And on top, further grow our all-electric business.
+Maybe only way is that something you would like from your perspective to add to China because
+of conflicts and very, very important element.
+A - `Oliver Zipse, Chairman of the Board of Management `
+You know, Dorothee, China is a full-scale operation for us. We have a very high locally for local
+production. And by the end of this year and you mentioned that rightfully that we are gaining
+market share specifically on the premium best segment there. At the end of this year, we will
+have 11 fully battery electric models in the market. Most of them locally produced, but also
+imports, like for example, the iX and the i7. So, especially the second half of the year, with thenew government taking on, and I will be in two weeks at the China Development Forum, and
+there we will see what is happening. You can only charge China if you are in China. But we are
+cautiously optimistic about the further development of China, especially in the mid and very much
+so in the long term.
+A - `Nicolas Peter, Finance `
+Now, though I see a second topic, share buyback. First of all, our first program is still underway, I
+believe in a very successful way. We have completed the first program to, while we are, as we
+speak at 82 -- 82%. And if you ask me today, first, we have to finish program one. We have still
+very -- based on our strong cash flow, strong liquidity, we have a very strong cash position,
+liquidity position. We will continue on one hand side to invest, in particular, in the development of
+all electric cars, battery module production is another important element. So we will slightly grow
+a CapEx, nevertheless we have from today's perspective, definitely room to continue our share
+buyback program. So far the experience with the size of -- we've been a little bit faster than
+initially anticipated, if you remember our deadline was to say, well, we will finish EUR2 billion end
+of -- end of this year, we will most likely be, well, six -- six to five months faster. So I believe it's a
+good -- it's a good indication, nothing decided -- nothing decided yet, but we are really happy
+with the size, maybe taking into account the share price development, speed could be a little bit -
+- bit lower because that's, of course, an important element to factor in. But from today's
+perspective, there is no reason why we would not continue.
+A - `Ritu Chandy, Head of BMW Group Treasury `
+Thank you, gentlemen. And we would be ready for the next question, please.
+Operator
+The next question is from `Daniel Roska, Analyst, Sanford C. Bernstein at Bernstein. Please unmute your line now and turn your
+camera on.
+Q - `Daniel Roska, Analyst, Sanford C. Bernstein
+Good morning, thanks for taking my questions. First on the BEV margins, you're ramping up BEV
+penetration again in '23. Could you elaborate how much of a margin headwind the increase in
+BEV penetration was last year in '22 and what you're expecting in '23? And then maybe further
+out in the decade, do you think it's actually possible to get to margin parity or cost parity in one
+point in between ICE and BEV markets [ph]?
+The second part of the question would be, on the Dee and the Panoramic Vision and NEUE
+KLASSE, which we've now seen a couple of times. The question here would be, why do you think
+this technological approach is superior to, I would call it, a screen-based approach, right. So not
+maximizing the screen, but using the augmented vision that you're using. And could you share
+some more insights on the potential technological partnerships, both on the hardware and
+software side required to bring that to reality? Thanks.
+A - `Ritu Chandy, Head of BMW Group Treasury `
+Thank you very much, Daniel. We will start with the first question regarding development of
+battery electric vehicles, the margin headwind in 2022 versus development in 2023 and most
+likely parity discussion which I would hand over to you, Nicolas, please.
+A - `Nicolas Peter, Finance `Daniel, you have to look at best margins from two angles. Of course, on one hand side and this is
+no surprise is the margin of an all-electric car exactly on the same level as in comparable car with
+an internal combustion engine, of course, not. On the other hand side, if you would look at our
+own planning 12, 24 months ago, we are surprised in a very positive way, which means our best
+margins are higher than we planned our sales. So that's I believe a very, very strong -- strong
+basis.
+Now what is part, of course, of our business model that this effect and this is why we can despite
+a growing share of all electric cars, Oliver in his speech said while we will go up to 15% in '23,
+which would indicate we will end up somewhere close to 400,000 cars. We still stick to our
+margin corridor of 8% to 10%. And if you adjust by the PPA, we would be even 1% higher, which is
+on one hand side, an indication that our business model is extremely robust that BEVs are
+developing better than we've anticipated. And we plan, of course, with NEUE KLASSE, this was
+also one of the question of -- in our media around a couple of minutes ago, we plan with NEUE
+KLASSE to be as a -- on a car level, on cost parity, which means -- and this exactly one of the
+reasons why we've developed NEUE KLASSE. So not only to optimize the drivetrain. Drivetrain
+optimization means cost down by approximately 50% with the generation six compared to
+generation five, 30% more range, 20% more density in -- in the battery cells. So that's definitely a
+very important step. But at the same time, we optimize the cost level of the whole car. And this is
+why we are -- we are confident that with the NEUE KLASSE, we will be, if you compare ICE --
+compare with ICE car to an all-electric car, we will be on margin parity.
+A - `Ritu Chandy, Head of BMW Group Treasury `
+And NEUE KLASSE, of course, makes another step Nicolas with the panoramic display that you
+referenced, Daniel. And I would hand it over to Oliver, please, Oliver to describe our partnership
+strategy and the reason for the approach.
+A - `Oliver Zipse, Chairman of the Board of Management `
+Yes. Hello, Daniel, also from my side. We have 20 years' experience with head up displays. And
+that came actually from the airplane industry into the car. Now what you see very much in our
+industry that driver distraction becomes a dominant problem. And with the next level of our
+Panoramic View or Panoramic Vision display we have here, we want to have the control of the
+driver to be in the heart of our product development. Eyes on the road and hands on the wheel.
+And if you look at our user interface today, you have an head up display, you have a cockpit
+display and you have a touch screen. You will still in future, even with the BMW Panoramic Vision,
+you still will have the opportunity to touch, which is close to the driver. But there will be a new
+combination of these displays. And the forefront, the biggest change you will see in the new
+version of the -- of the screen head up display.
+Your second question, how do we do that? Do we need partners to do that? We are always the
+system integrator. We're always the system integrator and we have many partners for the
+displays, for the software from external services. And we will tell you more about it when we
+showed that our next concept vehicle for the NEUE KLASSE this year in the IAA here in Munich and
+then we can also talk about our partner approach.
+Q - `Daniel Roska, Analyst, Sanford C. Bernstein
+Thank you.
+A - `Nicolas Peter, Finance `Daniel, maybe to add one additional element to your first part of the question. Of course, you've
+asked specifically as well impact in '23 because we are significantly growing our all-electric
+business and here you have to take into account. And this is why -- exactly why we are confident
+to stick to our strategic margin corridor that with our GTL offensive, with offensive at the top end
+of our segment 7-series as the new X7 which is doing extremely well. And coming later, what I've
+said all year availability of X5 along, which gives additional production capacity for Spartanburg for
+other markets. All those -- all those cars are positioned in -- in the high margin area and, of
+course, this is offsetting some of the -- I would not call them negative effects because those
+costs are still very positive and much more positive than we've sought, but all those two
+elements together lead us to 8% to 10%.
+Q - `Daniel Roska, Analyst, Sanford C. Bernstein
+Understood.
+A - `Ritu Chandy, Head of BMW Group Treasury `
+Thank you very much. And NEUE KLASSE, next step at the IAA is what I heard. With that, we would
+be ready for the next question, please.
+Operator
+Our next question is from `Tim Rokossa, Analyst, Deutsche Bank at Deutsche Bank. Please unmute your line now and turn
+your camera on.
+Q - `Tim Rokossa, Analyst, Deutsche Bank `
+Thank you very much. It's Tim from Deutsche Bank. And well done for today. I think investors
+cannot ask for much more. We've argued many times on this call about your strategic direction.
+Now you think more about high-end models, cash return, free cash flow. And also your move
+straight into Q&A, which we think is really great and much appreciated.
+I have two questions please. The first one is strategically very early -- you were very early in
+adopting a very globally balanced footprint with very, very local for local production now. We see
+the entire industry is spending a lot more CapEx in the US market for all the right regions
+probably, but the fee is obviously that this industry never really finds an investment peak and will
+always continue to find something to spend money on.
+Usually, Nicolas, you would answer the question on CapEx, but maybe Oliver, when we think
+about this strategically, do you feel you still have any holes in your global production network? Do
+post 2025 still have to invest a lot more money incrementally in the US? Do you have to go to
+Asian countries, India, do something in new technologies? Or can we really believe for good that
+in the next two, three years, we're going to see the investment peak in this industry spending
+and that it not only continues to go up and up?
+And then secondly, Nicolas, I'd like to come back to Dorothee's initial questions. I think that's
+actually pretty favorable for your stock. You seem to like how the cash return programs with the
+buybacks is actually working out. Why wouldn't you just say that cash returns in the form of
+buybacks, when you have excess liquidity, which you seem to generate are quite confident on --
+or going to be a regular part of your cash return strategy going forward from here beyond the
+allowance that you already have right now? Thank you.
+A - `Ritu Chandy, Head of BMW Group Treasury `Thank you very much, Tim, and we appreciate the feedback as well. Starting first with Oliver, with
+regards to a balanced footprint local for local approach that you mentioned, Oliver, and what
+does that mean for upcoming investment plans? Thank you.
+A - `Oliver Zipse, Chairman of the Board of Management `
+Well, Tim. Thank you. Thank you for asking these questions. And you rightfully observed that we
+have taken that balanced global approach for a very long time. Our plant in Spartanburg is not
+only our largest plant, but also the root cause that we are the largest exporter of cars by value
+from the United States and the rest of -- into the rest of the world. CapEx, you will always spend
+for two reasons, technological advance, new cars and also for capacity expansion. And we do
+both at the same time because we think with our technology opened approach, we have the
+best fundament for growth as well. Because we are playing, of course, the North American
+market, we play the European market with whatever regulation will come here, we will be
+prepared.
+Of course, we invested heavily into the Chinese market. And now comes up a fourth pillar, we call
+that, which are exactly these markets you're talking about, Southeast Asia, India, where we just
+decided on a new strategy that we not only look at the three biggest markets today, but where is
+the largest growth. And these are not only one market, this is a multitude of markets with very
+high potential. Specifically going in the upper segment just like Nicolas just said, we have a very
+strong product lineup where CapEx lies already behind us with the 7-series, with four drivetrains.
+We have the XM. We have facelifts of the X5 and the X6 and the M and the X7. So there is growth
+potential.
+And at the same time, of course, we have invested, which is already behind us, into an
+architecture which can do all drivetrains. And that is not something where we neglect the
+customer, it's the other way around. We worked on our ability to have architectures, we can do all
+drivetrains and that gives us I think a very good growth perspective as well. And again to
+summarize, besides the three pillars we have today, which we rightfully mentioned, we look very
+much into the fourth pillar, which is -- which is ramping up now.
+A - `Ritu Chandy, Head of BMW Group Treasury `
+Thank you very much. And I think in relation to that, Nicolas, the second question, free cash flow
+generated CapEx, of course, but also buyback as a regular part of our shareholder return.
+A - `Nicolas Peter, Finance `
+Yeah, maybe -- maybe one or two comments on CapEx, Tim. If you look and this is what we've
+said in our speeches today. This year, you will see CapEx being in the -- for us, relatively high area
+of 5.5% to 6%, but we believe that still very, very reasonable, in particular, into -- if you take into
+account that we are investing more than two-third of those investments going in future
+technologies, we can't speak for the industry when will the investment peak be reached. We
+believe we have a very, very good plan. So '23, maybe '24 on a similar level and then we will go
+back to 5% and as outlined, major investments going, in particular, in the electrification of the -- of
+our business. We've announced EUR1.7 billion in Spartanburg. We are investing in a battery
+module production nearby Munich. So those are some cornerstones of our strategy moving
+forward.
+While we believe definitely cash return, share buyback program is a very good way to balance
+good element of an additional mix to get to balance our capital market strategy. We have
+executed of, as I said, faster than -- much faster than initially thought, the first 82% -- first 82%,initial plan was to finish a year -- year-end with the program one. This will be definitely faster. I've
+already indicated that also in many, many talks with you and the colleagues that it's very likely that
+we will continue to one such program, now we are at 3% -- a little bit more than 3%. We have an
+authorization of 10%. So there is still some way to -- there is still some way to go. We have still
+some room to maneuver. And we will take the next decisions when we are closer to the -- to the -
+- to the limit of the authorization, we've already cut. But you know the company, as a company, is
+a very long-term oriented company. We develop things not to do one thing in one year and then
+do something completely different the next year. So that's part of our plan moving forward.
+A - `Ritu Chandy, Head of BMW Group Treasury `
+Thank you very much, Nicolas. I think that definitely clarifies the share buyback question. We are
+ready for the next question please.
+Operator
+Our next question is from `Patrick Hummel, Analyst, UBS of UBS. Please unmute your line now and turn your
+camera on.
+Q - `Patrick Hummel, Analyst, UBS `
+Yeah, hi, everybody. I hope you can hear me. My first question, it's probably one for Oliver. I want
+to understand how you conceptually think about taking cost out in your BEVs with NEUE KLASSE. I
+mean, there's a lot of fresh technology coming into the vehicle and it's going to be an appealing
+product to the customer. But there are other competitors out there that are really super
+aggressive in reducing cost in absolute terms on next generation BEVs. So your road map to
+margin parity versus ICE, that sounds promising, but we don't know what the price of the product
+is. And it depends on external factors as well.
+So, I'd like to understand, when you're planning NEUE KLASSE, how much of an absolute cost
+focus do you have? And can you give us a feel, are we talking about really step change in cost
+per unit? Or is it all just about scaling up the new platform that will bring the savings? Just how
+you balance that, try to better understand that. And the second question is probably more for
+Nicolas. I understand you're guiding for flattish price mix this year. But your high-end luxury is
+growing a lot, you say mid double-digits, sounds like 50% or so year-over-year. Is the offsets on
+the negative side that results in a flat price mix impact on EBIT just at BEV, which suggests it's still
+very dilutive? Or have you just generally taken a more cautious view on pricing this year? Thank
+you.
+A - `Ritu Chandy, Head of BMW Group Treasury `
+Thank you very much, Patrick. We'll start with the first question on NEUE KLASSE, specifically again
+the strategy and the approach, followed by the cost focus also of NEUE KLASSE with Nicolas. But,
+over to you, Oliver.
+A - `Oliver Zipse, Chairman of the Board of Management `
+Yes, Patrick, thank you for that question. I think if you think others are super aggressive than we
+are super, super aggressive because the NEUE KLASSE, it's not so far away. And we're adamantly
+that we will reduce 50% cost reduction, which is extremely important to ramp up electromobility.
+If you're not able to do that, you shouldn't ramp up anything. And that -- how we do that consists
+of various elements. First of all, you have to understand the chemistry, which are inside yourself.
+And that is what we do with almost 300 people since a couple of years, not only since we startedwith the i3. So we have an in-depth knowledge how to reduce costs because 80% -- 80% of the
+cost structure of battery module is raw materials. And you have to bring the raw materials down.
+And at the same time, of course, to increase performance of the -- of the battery module.
+On the second half, you will always have economies of scale. And as we said, we ramp up the
+NEUE KLASSE 25. We started Debrecen, then come to Munich, then go to China, then go to San
+Luis Potosi. So there will be an immediate ramp up, which gives us the necessary economies of
+scale to stay profitable in that segment. And also on the approach, how do we source the
+batteries. We have a competitive approach. As we always said, it does -- at this phase of
+industrial development, it does not make sense to invest in house. We do the (inaudible) the
+actually complete battery model, that's an in-house thing. That's, as Nicolas said, that is what we
+invest [ph] ourself.
+The cell -- the round cell itself, we will have various suppliers. That means you will always have a
+competitive element in your supply chains. We don't rely only on ourselves. I think this is -- you will
+have the huge lock in effect. Especially if the technology advances quickly, you will also have -- you
+see these advances in the worldwide supply chain, which is rapidly growing up. And I think there
+are enough -- very competitive players out there. So we will have not only one, we will have
+various suppliers to do that ramp up. And in playing together, the economies of scale,
+understanding technology, and a competitive supplier base, I think that is the main -- the main
+levers we have to come to that minus 50% our cost reduction. And as it looks now, that is
+achievable.
+A - `Nicolas Peter, Finance `
+Patrick, so you've asked on -- at the end of the day, you've asked, well, what are the headwinds
+and what are the tailwinds we are facing compared to last year in '23. And maybe to start with
+the -- with the headwinds when you've already mentioned, definitely an increase at today's
+contribution points of all electric cars is a headwind. No doubt. And this is why this investment,
+Oliver just outlined, in NEUE KLASSE is so important and so relevant. If you look at further
+headwinds, we have definitely -- it's a combination of raw material and currencies. This is
+probably in the mid to higher three-digit area. And we might -- we might have a risk of additional
+material cost headwinds additionally to the EUR2.4 billion we've already absorbed last year.
+On the other hand side -- and this is definitely indicating the quality of our portfolio and the
+strength of the existing lineup, we have a significant positive impact from the GKL [ph] cars, X5
+will play an important role, as I've said, with more availability from Spartanburg and you can
+probably relatively precisely calculate the profitability of those products ongoing high demand,
+very low discount levels, if you look at very recent auto data numbers coming from the US. So as
+still the discount level is very, very low. We continue to see remarketing -- re-marketing of off
+lease vehicles being a very positive element.
+We continue to see -- despite the slight increase in our credit risk assumption, we continue to see
+in the first two months very strong credit risk development, positive development. So all those
+other elements make us confident that we are in a position to go back to our strategic margin
+corridor of 8% to 10%. And as I said, if you integrate the PPA effect, we would even be
+approximately 1% higher.
+Q - `Patrick Hummel, Analyst, UBS `
+So there is no change in how you think about pricing overall this year?
+A - `Nicolas Peter, Finance `Pricing -- if -- if you look at the start of the year, very confident in in US, good -- really good start. If
+you look at Europe, I see somewhat mixed picture. Mixed picture means that we see more
+pressure, in particular, in Germany and UK, but definitely we have a very, very strong focus on
+pricing and supply follows demand. And important element, in particular, in Germany and UK is
+that we have still a very strong order bank against which we can deliver. So we will see a stable
+development. This is exactly the background of our assumption that it will be -- it will be stable.
+China, I have already outlined. And then we see other markets developing in a more positive way,
+Korea, good momentum; Japan, good momentum. And in Europe, interestingly, I've mentioned
+the two markets being more on the difficult side, but we have, with the French market, with the
+Italian market, with the Eastern European markets -- markets, which continue to be very, very
+stable and contribute in a positive way to the development of our profitability.
+Q - `Patrick Hummel, Analyst, UBS `
+Thanks very much.
+A - `Ritu Chandy, Head of BMW Group Treasury `
+Thank you very much. We'd be ready for the next question please.
+Operator
+Our next question is from Jose Asumendi of J.P. Morgan. Please unmute your line and turn your
+camera on.
+Q - `Jose M. Asumendi, Analyst, J.P. Morgan `
+Thank you very much. It's Jose from J.P. Morgan. Just a couple of questions please. Nicolas, you
+mentioned already a few times during the press call and today that the profitability of electric
+cars is coming better than expected. So I'd love to understand a bit better, what specifically or
+can you give us some -- some insights as to why the profitability of this electric cars is coming
+better than expectations versus the previously planning? And then as we think about NEUE
+KLASSE and Oliver has been pointing out this 50% reduction in cost, will this bring the gross
+margin of BEV in line with ICE by 2025? Is this how we should be thinking about it?
+And then second question please for Oliver, can you speak a bit more please around the
+strategy in China? I mean, so far, you're doing I think an excellent job. You're selling -- your
+monthly sales on BEV are actually ahead of your competitors. You're clearly going to double
+capacity in one of your plants in Shenyang, Tiexi [ph], in the next three years. So there's a lot
+going on China. I think, it is just probably another hour of discussion, but can you talk a little bit
+around strategy and also are you happy around the net construction prices Japan will be
+achieving on battery electric vehicles in the Chinese region? Thank you.
+A - `Ritu Chandy, Head of BMW Group Treasury `
+Thank you very much, Jose. We will start off first with profitability of battery electric vehicles
+expectations and then answer the question on margin parity on NEUE KLASSE with Nicolas. Thank
+you, Nicolas.
+A - `Nicolas Peter, Finance `
+Well, Jose, first of all, good to go -- good to see you. Well, why -- one of the reasons definitely is
+that the cars are great that the cars are really in line with what customers expect. We've just
+launched, not only the i7, but we've launched, which is from volume development, a veryimportant product as a new X1 with the iX1. And iX1 has not only outstanding feedback in media,
+but also has a very, very strong in incoming orders. So that's definitely the product quality. The
+substance of the product is one element.
+The second element is, of course, our -- what we internally call granular performance
+management that we are really very precise in the way we steer demand and supply. And this is
+not just supporting the profitability of ICE cars, but it's also supporting the profitability of all
+electric cars. The positive element, in particular, with our all-electric car development is that this is
+not just an effect in one market. We see a positive development, as you've referred to in China --
+we've seen a positive development, of course, in Europe, but also in -- in the US.
+Your second question which is related to the 50% reduction in costs. And this is only related to, of
+course, to the battery -- to the battery to the, in particular to the cell, which is a key component
+even more in an all-electric cars and combustion engine and combustion cap because it accounts
+for more than 40% of the total cost of the car. And this is why what Oliver just has outlined, this is
+why this is so important and so relevant. But the reduction, we are not stopping there. We have,
+for example, in a quite substantial and smart way without reducing from a consumer perspective,
+the attractiveness of those products.
+We have significantly reduced complexity of the car. Complexity of the car has not only an
+advantage from a consumer perspective, but it also has an advantage from an engineering
+perspective, if you think about, for example, and the layout of our plant in -- our new plant in
+Hungary. So it has positive effects in those areas as well. And this is why all those elements
+together will at the end of the day lead to a contribution margin, which is on par with ICE cars.
+A - `Ritu Chandy, Head of BMW Group Treasury `
+Thank you very much, Nicolas. And then to your next question, Jose, strategy China, but also the
+development of our BEV portfolio in China, Oliver?
+A - `Oliver Zipse, Chairman of the Board of Management `
+Well, Jose, you rightfully said, China is a very special market. And let me describe what we
+actually do there. We know two things. First of all, the biggest growth in the NEF [ph]
+development that means the best cars in China comes from the bottom of the market segment.
+Very, very strong code -- growth in the markets, below RMB200,000, RMB250,000, very strong
+growth. If you look in the upper segments above RMB350,000, the growth is very comparable to
+the rest of the world. Of course, China is the biggest market, they will always have the highest
+numbers. But in percentage, it's quite comparable to the rest of the world. So the revolution in
+China is in the lowest market segments. That's the first observation.
+The second observation is the average age of our customers is much younger. They are in the
+mid 30s. And, of course, they have different requirements and that is why respond with some
+very specific things. We have more than 2,000 people already now working in our R&D
+departments in Beijing, in Shanghai, in Shenyang, in Nanjing. Those are big, big effort to localize
+also our digital and our battery technology in China, for China. And even more so, a lot of things
+are coming out of China for the rest of the world.
+I think this is very important to understand. And having 11 battery-only cars at the end of this year
+in the market, is also indicative how serious we take it with the BEV development there. And one
+last comment, I think the world starts to understand what BMW is doing with their, on the one
+side, technology open approach, and on the other side, to have a very, very strong push on the
+base of these architectures on the BEV side. And this gives us a lot of efficiencies in our ownprocesses. And at the end, a big market opportunity and that works in China as well as in Europe.
+And I think the world starts to understand what we actually do here.
+Q - `Jose M. Asumendi, Analyst, J.P. Morgan `
+Thank you very much.
+A - `Nicolas Peter, Finance `
+Maybe I'd say too, because you rightly said, net transaction prices for all electric cars in China. So
+if you look at our price position and our price -- net price position in China overall, also the two
+first months of the year are confirming that we have a very, very strong position -- ongoing strong
+position in China, so BEV and ICE combined. If you take into account what I have -- answering
+Dorathee's question what I've said earlier, the market in China is developing into -- in direction of
+all electric cars from a different position compared to Europe and the US. Europe and US is top
+down. And China is putting up.
+So if you look at our price position, we still have and we will stick to it. We have a very high gross
+price position in the Chinese market with our -- with our products. This is exactly where premium
+cars should be a position. And, of course, coming from such a position, you can have the one or
+the other comment in media that, which is -- which is reflected that the one or the other dealer,
+they are independent entrepreneurs is giving also from our perspective too high discounts in
+particular on all electric cars, but this is unfortunately something which we can always experience
+in our business model. And this is why it's so important to us that we have now introduced in
+China in a successful way with MINI brand, the agency model, so it's already up and running for
+the MINI brand since 1st of March, very successful start. System is running well. Agents which are
+our former dealers really like as a system and we are on track to implement a similar system in
+Europe in the next two and half years.
+Q - `Jose M. Asumendi, Analyst, J.P. Morgan `
+Thank you very much.
+A - `Ritu Chandy, Head of BMW Group Treasury `
+Thank you very much. Thank you very much, Jose. Next question please.
+Operator
+Our next question is from `Tom Narayan, Analyst, RBC at RBC. Please unmute your line now and turn your
+camera on.
+Q - `Tom Narayan, Analyst, RBC `
+Hi. Yeah, thanks for taking the question and thanks for doing this platform for the Q&A. I think your
+peers could learn a lot from it. It's lot more egalitarian. I wanted to follow-up on the -- on the
+pricing point first. It sounds like you were saying that Europe could actually be tougher on pricing
+in '23 versus the US, which is kind of the opposite of I think what a lot of folks are thinking. Europe,
+you already have incentives fairly high, you already have a fleet base corporate car, which should
+support higher pricing you would think versus the US. So I'd love to hear a little more on that why -
+- why pricing may be tougher in Europe and specifically you mentioned Germany.
+And then a second question on software. One of your German premium OEMs peers did a large
+event where they touted their level 2 plus and level 3 offerings, noting that they are the only OEMthat has level 3 capability, although at some limited fashion. Just love to hear your points on
+where you guys are level 3 and when you guys may get legal approval maybe in Germany first or
+in other areas?
+And also when we looked at their financial guidance for this -- for the software applications, it
+wasn't really that big to be quite honest. It didn't seem like softer was a huge financial contributor,
+but rather more of a product enhancer. And let me think that, in the future as some of these
+ADAS functionality becomes regulated, just like airbags and seatbelts work, so level 2 plus
+functions become regulated, perhaps the pricing that you could charge to consumers or buyers
+of your car come down, maybe it makes sense to outsource a lot of this functionality to others,
+maybe like an app did or a mobile app. Just love to hear your thoughts on ADAS functionality as a
+financial return for your business. Thanks.
+A - `Ritu Chandy, Head of BMW Group Treasury `
+Thank you very much, Tom, and thank you again for the feedback. We'll start with the pricing
+question with Nicolas, why do we believe European pricing is tougher than that of US. Thank you,
+Nicolas.
+A - `Nicolas Peter, Finance `
+Well, maybe, Tom, first of all, I didn't say Europe in general. What I've said is the following. First of
+all, we have in Europe still a very strong order bank in all major markets, in particular also, as I've
+said in Germany and in the UK. So we will be in a position to deliver to supply against this strong
+order bank. But what we can see on the other hand side and we've already communicated and
+detailed this in our Q3 call last -- early November that we see a softening in demand, in particular,
+in the two major European markets whilst markets like France, Italy and Eastern European markets
+are much more stable.
+Having said this, we have -- and this is why we are optimistic in terms of to maintain a solid price
+position, we are very precise in managing supply and demand. And this is exactly why looking at if
+-- and I know you look, as we do in a very, very systematic way at the US -- US data and I guess
+you would agree that also after the first two months, on one hand side our inventory level is on a
+really very, very good level. And second element that if you look into the different car lines that
+discount pricing remains -- remains strong. And taking into account that we have, in particular, in
+the US, more supply for all -- for SUV type of cars, which are still in very high demand coming from
+Spartanburg. This is why we are, I would say, in particular, for the US very -- very confident. And
+this on top comes the ongoing in the first two months -- ongoing strong remarketing we see in, in
+the US market.
+A - `Ritu Chandy, Head of BMW Group Treasury `
+And now moving to next question, Tom, specifically on ADAS level 2 plus and level 3 availability
+and our partnership approach. Over to you, Oliver.
+A - `Oliver Zipse, Chairman of the Board of Management `
+Well, there seems to be a strange competition about who has which level in which country and so
+on. The main question is what's in for the customer? How reliably do the system works in
+customers' hands? Does the automotive OEM actually deliver the car to the customers? And
+finally, at which kinds of speeds do these -- does the ADAS offering work? And you will see BMW
+always finding the solution where first the customer profits that he uses and that he pays for it.
+You asked about the profitability. You will not see an offer from BMW where we just do it out ofcompetence reasons, but there must be a use case for the customer. And we think that higher
+speeds at about 120 or 130 kilometers first of all, second hands-free and independent of what
+kind of -- what kind of level you attach to it is a very serious customer offers and look at the next
+couple of weeks and months what we will offer here.
+Talking about partnering strategy, we are on the road to the NEUE KLASSE as you -- as we said.
+And we are partnering in the ADAS field with Qualcomm. And it's not a normal supplier
+relationship, it's cooperation. We bring in IP, which we developed for more than 20 years in that
+field and Qualcomm brings on -- brings its own competencies. So it's a very new approach how to
+-- how to make the next level here. And again the NEUE KLASSE is only two years away.
+A - `Ritu Chandy, Head of BMW Group Treasury `
+Thank you very much, Oliver. And I heard that again, IAA next step towards NEUE KLASSE,
+software ADAS, let's see what's in. We have time for one more question, please. Thank you.
+Operator
+Our last question is from `Stephen Reitman, Analyst, Societe Generale at Societe Generale. Please unmute your line now and
+turn your camera on.
+Q - `Stephen Reitman, Analyst, Societe Generale `
+Yes, thank you. Thanks for taking my questions. Two questions, please. First of all on China. The --
+you already export the iX3 from China to Europe. Given, what we've seen maybe almost been
+happening with the i3 in China, do you think this may be a case for making having more flexibility
+in terms of being able to export some your BEVs from China to Europe where clearly there is a
+very strong demand and pricing is stronger at the moment as we've seen, for example, Tesla do
+with its Model 3, Model Y.
+The second question again is about the NEUE KLASSE. Clearly, you've laid out, how you're going
+to roll out the production of the NEUE KLASSE. And I was wondering, is it easy to understand
+obviously that you have a low cost -- low-cost manufacturing in Hungary and in Mexico, but
+obviously German costs are significantly higher. So, I was wondering if you could share with us
+maybe are there any production advances that you're making with the NEUE KLASSE in terms of
+where you produce cars that is different from how you're producing your conventional cars at the
+moment that is leading to this cost improvements as well, much in the same way that we had
+other manufacturer talking about change in manufacturing that will lead them to make significant
+cuts in their cost of manufacturing. Thank you.
+A - `Ritu Chandy, Head of BMW Group Treasury `
+Thank you very much, Stephen. We will start with your first question regarding the export of
+battery electric vehicles from China to Europe with Nicolas, after which we will hand over to Oliver
+regarding NEUE KLASSE.
+A - `Oliver Zipse, Chairman of the Board of Management `
+Stephen, I have just looked into -- very precisely into the numbers regarding the iX3 to be very
+precise. So you're absolutely right, as the iX3 continues to sell very well. And this is exactly why
+we are growing production. We are increasing production in China and the car is selling well in
+China, in Asia, and in Europe to give you an indication, our order bank without disclosing too
+precisely I have them in front of me, but too precisely the numbers, we are very close to autumn -we are very confident that we will -- we will -- the iX3 will continue to contribute in a very positive
+way to the increase of our overall better sales and to achieve the ambition and the target which
+Oliver has outlined 15% of our -- 15% of our global sales being all electric.
+Well, coming to your question about the NEUE KLASSE, what will happen -- and it actually started
+today that our production is being transformed into i factories. And the i -- and the i factory, in the
+name itself stands for intelligence. And it's not only about labor costs, that's one element. But
+even more so, high productivity is more depending on how do you handle complexity, how are
+you able -- all the advances in the artificial intelligence arena, how well you can connect them and
+use them in your production system. That's the key.
+And with i factories, which will of course start in Debrecen because this is always a gift, you have a
+greenfield and you do everything from scratch. But we will transform the other brands very
+quickly, not only to being fully electric, but we will transform them also in terms of the ability to
+use artificial intelligence. And if you -- if you're able to do that, you can even have high complexity
+very efficiently and you become more and more independent of the actual labor cost. Because at
+the same time, we have increasing labor cost in these countries and they -- of course, they
+advance rapidly and we will also -- wherever you are in this world, you will have to counter with
+that highly qualified personnel will be a scarce resource. That means the ability to use automated
+features in your factories, artificial intelligence becomes main ingredient of your cost position.
+And I think with our approach with the i factories, we will have a very competitive stands here.
+A - `Ritu Chandy, Head of BMW Group Treasury `
+Thank you very much, Oliver. Thank you very much, Nicolas. Dear ladies and gentlemen, thank you
+very much for your questions and that great engaging dialog. Max, I'd like to hand over back to
+you now.
+A - `Max-Morten Borgmann, Communications Corporate `
+So thank you very much, Ritu. By the way, excellent job. Thank you. I clap my hands. Thank you
+very much. Ladies and gentlemen, before we go, we have one final very important topic. As you
+have heard, this is a very special Annual Conference because Nicolas, it is your last annual
+conference with the BMW Group. You are still with us for a few more weeks, but today we have
+you here with us in person. And we didn't want to miss the opportunity to say a few words.
+32 years ago, you joined the BMW Group. For the last six years, you have been our CFO. And not
+just any CFO, but someone who brings a strong strategic perspective and an international
+outlook. You have been a steady presence on our Management Board and provided clear
+direction. This was true especially during the last few years. Together, with Oliver, you have been
+a real dream team. Furthermore, you have been an excellent ambassador for the company. Our
+guests on this call can best judge that. For me, you are, I would say in German, really (Foreign
+Language) a really cool authentic guy. Of course, you will still be with us for our Q1 telephone
+conference and the Annual General Meeting in May. Though this is not a final farewell, but for
+now, I can simply say, thank you, Nicolas.
+A - `Nicolas Peter, Finance `
+Well, thank you Max for your very, very kind words. Absolutely right. I've joined 32 years ago BMW,
+1st of April '91. By the way, exactly the same day (Multiple Speakers) you are little bit younger than
+I am, but we've joined the same day. And Oliver, I'm -- I don't know whether we've been a dream
+team, but we really worked extremely well together. I'm very, very thankful also for your -- foryour trust. This was really outstanding. And I am, in particular, happy that the BMW Group is in such
+a strong position.
+We have a very solid foundation. We have a clear strategy moving forward. And for me the best --
+the best example for our strategy and the power of our strategy is our best ramp-up, you've
+mentioned what I believe our impressive numbers. And this combined with a strong weighting,
+this combined with the ability to deliver against our high margin target to generate free cash flow.
+And the basis of this company has always been a very, very strong teamwork between all the
+different, not only Board members, but within the whole management team and this is why I
+really enjoyed, I can say, every, every single, single day. So a big, big thank you for the last, in
+particular, for the last couple of years. And well, all the best, I'm very optimistic that on this very
+good foundation and -- that the company has chosen, I -- what I believe is a very good successor
+in my role. And dear colleagues, I look very much forward to see you first, I believe, in Frankfurt, in
+the next couple of weeks, in London, in Boston, in New York. So, see you very soon and thanks a
+lot.
+A - `Max-Morten Borgmann, Communications Corporate `
+But please hand over to Oliver to one sentence.
+A - `Oliver Zipse, Chairman of the Board of Management `
+Yes, just one sentence because we have some visitors here. You know it was not always so easy
+to explain what BMW does. Our business is very complex. And I'm very, very grateful to have had
+a strategic CFO, as it was said before, who could understand the peculiarities to have a strong
+budget control. And you don't know how tough he was in our monthly budget control meetings,
+but at the same time to be strategic and have the right feeling where we have to invest. And now
+you see that you saw beginning in the last -- in the last part of last year and specifically this year,
+that this is blossoming [ph]. We have strong BEV growth and that, of course, is a result of a
+strategic CFO. And I must thank you for 32 years, working together, we actually really started on
+the same day, and you're still here, but then after our shareholder meeting, our General Meeting,
+we will dearly miss you. Thank you for everything.
+A - `Max-Morten Borgmann, Communications Corporate `
+Thank you very much, Oliver. And thank you very much, ladies and gentlemen. I think it was a real
+honor for us today. Thank you, Ritu. Thank you, Nicolas. Thank you, Oliver. And thank you to all of
+us. Thank you very much and bye-bye from the BMW world. Bye-bye.

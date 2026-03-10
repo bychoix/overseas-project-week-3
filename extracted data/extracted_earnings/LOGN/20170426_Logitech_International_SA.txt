@@ -1,0 +1,471 @@
+Q4 2017 Earnings Call
+
+Operator
+Good day and welcome to the Logitech Fourth Quarter Fiscal 2017 Financial Results Conference
+Call. At this time, all participants are in a listen-only mode. We will be conducting a question-and-
+answer session and instructions will follow at that time. This call is being recorded for replay
+purposes and may not be reproduced in whole or in part without written authorization from
+Logitech.
+I would now like to introduce your host for today's call, Mr. `Benjamin Lu, CFA, Vice President-Investor Relations, Vice President of Investor
+Relations.
+`Benjamin Lu, CFA, Vice President-Investor Relations, CFA `
+Thank you, Dan. Welcome to the Logitech conference call to discuss the company's financial
+results for the fourth quarter of fiscal year 2017. The press release, our prepared remarks and
+slides, as well as a live webcast of this call are available online at the Investor Relations page of
+our website, logitech.com. As noted in our press release, we published our prepared remarks on
+our website in advance of this call. Those remarks are intended to serve in place of extended
+formal comments today and they will not be read on this call.
+During the course of this call, we may make forward-looking statements, including forward-
+looking statements with respect to future operating results that are being made under the Safe
+Harbor of the Securities Litigation Reform Act of 1995. The forward-looking statements involve
+risks and uncertainties that could cause actual results to differ materially from those anticipated in
+the statements. Factors that could cause actual results to differ materially include those set forth
+in Logitech's Quarterly Result – Report on Form 10-Q filed with the SEC on December 31, 2016
+and subsequent filings. The company undertakes no obligation to update or revise any forward-
+looking statements as a result of new developments or otherwise.
+Please note that today's call will include results reported on both a GAAP and a non-GAAP basis.
+Non-GAAP reporting is provided to help you better understand our business. However, non-GAAP
+financial results are not meant to be considered in isolation from or as a substitute for or superior
+to GAAP results. Non-GAAP measures have inherent limitations and should be used only inOur press release includes a table detailing the non-GAAP measures, together with the
+corresponding GAAP numbers and a reconciliation to GAAP. This information is also posted on
+our Investor Relations website. The slides that accompany this call are also available on our
+Investor Relations website. We encourage listeners to review these items.
+Unless noted otherwise, comparisons between periods are year-over-year and in constant
+currency and all reported results and updated outlook are focused on continuing operations and
+do not include the performance of Lifesize, which is reported under discontinued operations. This
+call is being recorded and will be available for replay on the Investor Relations page of the
+Logitech website.
+Joining us today from Zurich are Bracken Darrell, President and Chief Executive Officer, and
+`Vincent Pilette, Chief Financial Officer, Chief Financial Officer.
+Now, I'll turn the call over to Bracken.
+`Bracken P. Darrell, President, Chief Executive Officer & Director `
+Thanks a lot, Ben, and thanks to all of you for joining us. Let me start by talking about a few of the
+products that we introduced this year. It's just a fraction of the total. We launched our first ever
+completely Pro Gaming mouse. We love eSports and we want to be a partner with the people
+making eSports the most exciting and the fastest growing sport in the world, the athletes and the
+coaches. Did you see the eSports will now be an official event of the 2042 Asian Games? Who
+knows, it might even be an Olympics sport one day soon.
+We made listening to music out loud even more social. We upgraded our prior BOOM and
+MEGABOOM products again and again, and most recently with PartyUp, that allows you connect
+really to an unlimited number of speakers together to create an incredible group listening
+experience. And just earlier this month, we released our latest mobile speaker, the Ultimate Ears
+WONDERBOOM. It's waterproof. It's practically break-proof and the volume and sound quality is
+as good as the original BOOM 1, all for just $99.
+We introduced the SmartDock and extends our lineup for Video Collaboration, enabling Skype
+with a push of a button. It's a terrific compliment to our any size meeting room offerings. And
+even as we've entered and now are growing new businesses by double digits, we are not letting
+up on our original core. Silent mice, multi-device keyboards, and our latest, the reinvention of the
+clicker, all are part of our product highlights this year.
+A minute on that clicker reinvention. Spotlight, we just launched. It's a breakthrough way to
+present and it's the coolest way to give a presentation. Spotlighting are magnifying instead of
+laser pointing. Every time I use it with people, as I just did this morning here in Zurich, people
+come up and ask me how to buy it. Over an (04:36) organic innovation company, we are
+sharpening our skills in acquisitions and integration. This is enabling us to accelerate our entry in
+the seats (04:44) basis. Jaybird and Saitek help us accelerate into Bluetooth earphones and
+simulation gaming, both are off to good starts and we're learning a lot.
+Now, let me give you a quick rundown of this year's performance by business and region. The Q4
+and full-year performances are consistent, so I'm going to focus on the year. We grew across all
+our regions and almost all of our categories. PC Peripheral categories remained healthy, with
+sales up 7% for the year. Consumers continue to use PCs as they add mobile computing on top
+of PC usage. We use computers for productivity and we use our phones for almost everything.Keyboards & Combos sales increased 12%. This is the seventh consecutive year of growth.
+Pointing Devices rose 2%, and we won't stop innovating in mice or keyboards. Webcams grew 9%
+behind the rise of streaming. Sales on our Tablet & Other Accessories category fell 26% in line
+with performance in the broader tablet market. We'd expect this steep Q4 drop compared to Q4
+a year ago when we had introduced, and we're in the first full quarter, of the CREATE keyboard
+for the iPad Pro.
+Video Collaboration increased 42%, powerful across all three regions, all year long. Mobile
+Speakers sales grew 30%, ahead of our original expectations heading into the year. Despite not
+having any new hardware product introductions, we leveraged software and our go-to-market
+capabilities to drive market share gains and deliver that growth.
+With Jaybird, you might recall last quarter, we mentioned supply constraints that held us back and
+we committed that we would fix that. We did. And now, Jaybird supply is where it should be. In
+fact, Jaybird contributed 3 points, not only to the full year but also in Q4.
+Gaming sales grew 28%. Even as we continue to grow well in Gaming, there's just a lot of exciting
+potential in every segment of the Gaming business.
+Now, I'm going to pass it over to Vincent to go through some financial performance details.
+`Vincent Pilette, Chief Financial Officer `
+Thanks, Bracken. Very consistently with our performance through the year, we finished the year-
+end quarter with another strong and broad-based performance, double-digit sales growth across
+our regions and our main product categories. Q4 retail sales rose 17% to $496 million and our
+fiscal year 2017 sales grew 14% to $2.2 billion. We have not seen this level of growth since fiscal
+year 2011, and today, our market growth opportunities are a lot bigger.
+On top of that, our Q4 non-GAAP operating profit increased 61% to $36 million and our full-year
+non-GAAP operating income grew 33% to a better than expected $238 million. Non-GAAP EPS
+was $0.21 in Q4 and $1.32 in fiscal year 2017, up 35% versus last year. These results reflect the
+strength of our business model and our disciplined execution.
+At our Analyst and Investor Day, we laid out our fiscal year 2020 non-GAAP EPS roadmap of $2.
+This would be double the level of earnings we saw in fiscal year 2016. And the $1.32 we just
+delivered this past year, demonstrates our clear progress towards this goal. As we look out to
+fiscal year 2020, we will continue to push for strong and sustainable top line growth, while at the
+same time, reinvest our gross profit into our five key capabilities that constitute the foundation of
+our long-term financial model.
+Our Q4 non-GAAP gross margin increased 430 basis points to a robust 37.4%. In fact, our margin
+remained flat sequentially, despite the sequential seasonal decline in sales. This is a great
+example of how we continued to improve our cost structure ahead of plan, benefiting from
+higher volume and our design forecast programs. It puts us in a healthy position to reinvest our
+gross profit dollars to support our long-term growth objectives while continuing to create
+operating leverage.
+Our Q4 non-GAAP operating expenses rose 24% to a $149 million, with Jaybird contributing 6
+points of that increase. For the year, non-GAAP operating expenses rose 14%, or 10% excluding
+Jaybird, as we're making prudent investments to support our growth opportunities. While we
+invested in R&D and sales and marketing in the year, we reduced our infrastructure costs and
+drove G&A to below 4% of sales, a metric that we see as an external sign of improving ourefficiency. For fiscal year 2017, operating expense ratio was 26.1% of sales and on track towards
+our long-term targets.
+Along with strong operating profits, we also generated robust levels of cash flows. In fiscal year
+2017, cash flow from operations reached $279 million. That's over 50% from $183 million last year.
+Our full-year cash conversion cycle remained stable at 23 days, essentially unchanged versus a
+year ago, and right in the line with our annual target of 20 to 25 days.
+In fiscal year 2017, we returned $177 million of cash back to shareholders in the form of $93 million
+of dividends and $84 million of stock repurchases. Going forward, we will continue to return our
+free cash flow to our shareholders through a growing dividend and opportunistic share buyback.
+And now, I will turn it back to Bracken.
+`Bracken P. Darrell, President, Chief Executive Officer & Director `
+Thanks, Vincent. I joined Logitech five years ago this month. Three things stand out as I look back
+that suggest a very strong future ahead. First, we proved that we can extend our portfolio. We
+love mice and keyboards and we are tend to have a nice business in them for a long time to
+come. But today, they're less than 45% of our business as we're growing faster in an increasing
+number of new categories, like Video Collaboration, Gaming and others.
+Second, we aren't just innovating in a few categories or countries. We've created an innovation-
+led growth engine that's growing all our regions and almost all our categories. This growth
+capability in retail and e-tail in a growing array of categories around the world is an exceptional
+strength versus those single category small companies. It's also unique for our size.
+Third, we proved, we can consistently grow our business profitably. In a world where top line
+growth with bottom line losses is sometimes viewed as attractive. We've demonstrated that our
+ability to grow top line sales and increase profitability is possible in Logitech long-term. We've
+almost quadruple our profits and accelerated our growth over the past four years. But the most
+exciting fact of all is that the opportunities available to us are expanding dramatically.
+For 30 years, our primary growth driver was the PC. While the PC industry is flattened, file
+services are exploding, and there is and will be an expanding number of peripheral opportunities
+for these cloud services. We just gave our outlook for fiscal year 2018 a few weeks ago, so
+naturally today, we're confirming that, and you can be sure that we're working toward our long-
+term model.
+With that, Vincent and I are ready to take your questions. Operator, please queue up the
+questions.
+Q&A
+Operator
+Your first question comes the line of Tavis McCourt with Raymond James. Please go ahead.
+A - `Bracken P. Darrell, President, Chief Executive Officer & Director `
+Hi, Tavis.
+Q - `Tavis C. McCourt, Analyst, Raymond James & Associates, Inc. `Hey, guys. Thanks. Hey, Bracken. Thanks for taking my question and great finish to a great year.
+So, a couple of questions. I guess, first, if I do the math on the Jaybird operating expense, I'm
+assuming it's probably neutral to a little dilutive to the bottom line right now, and I guess if you
+could give us a sense on kind of your game plan for scaling that business. Obviously, it's in a big
+growth category but maybe kind of the game plan for scaling that business to get it to a
+meaningful level of profitability.
+Secondly, Harmony Hub had a great quarter, obviously, easy comp, but maybe give us a sense of
+the sell-through on that and how sustainable you think adding some of these voice assistance is
+maybe creating a new growth category there for you guys?
+And then, finally, Vincent, just a [Technical Difficulty] (13:36) if the top line growth continues to
+outperform, how we should think about flow through to operating income this year? Thanks.
+A - `Bracken P. Darrell, President, Chief Executive Officer & Director `
+Okay. I'll take the middle one. I'll let Vincent take both the Jaybird and top line comps (13:54).
+A - `Vincent Pilette, Chief Financial Officer `
+Yeah. So, I can take the first one. So, first on Jaybird, right, so we – and so, we did the acquisition
+with the idea of running the business at somewhat around the breakeven point for [Technical
+Difficulty] (14:06) investing for the future growth. We were on track as you remember in Q3, we
+had a little bit of a supply issue that lowered the revenue compared to our expectation. We made
+the decision not to lower our investment because we're very confident in both the market
+opportunity and our portfolio. And so, for that reason, it's slightly diluted for the full year but if you
+exclude that supply bump, if you want, in Q3, which we recovered in Q4, we're on track to our
+initial plan.
+For next year investment, it's built into our guidance. We're investing into expansion
+internationally, investing in Europe, investing in Asia heavily to take that brand off the ground and
+make it meaningful. We're also investing for the long-term path towards much (14:56) long-term
+portfolio growing mark where we think we have a lot of opportunities. So definitely, we expect
+this product line or set of products, if you want, to become more and more meaningful to our
+portfolio. That's for Jaybird.
+In terms of the flow through, right, as we continue to grow high-single digit, and of course, we
+work every day to deliver that. We'll continue to expect a very healthy flow through. We achieved
+the high end of our initial margin target of 35% to 37%. At this point in time, we plan to use the
+incremental gross margin dollars if they come through to invest and build even at a more
+accelerated growth rate. So, our focus really is on capturing the growth opportunities.
+Now with that said, we have a long-term range of operating profit of 10% to 12% on the bottom
+line and we are just at the midpoint – starting at the midpoint, 10.8%, 10.9%. And so, you'll see a
+constant expansion of that operating profit margin that's – we continue to build out this year
+(15:59).
+A - `Bracken P. Darrell, President, Chief Executive Officer & Director `
+And on your Harmony question, I think, I say we're guardedly optimistic. The performance over
+the last couple of quarters has been really strong as we've activated through Amazon Echo and
+now Google Home. And I think the couple of interesting facts about that, one is that about half of
+the users who come in are new users or using – based on what we can see from activation, so itmakes you optimistic that this is an interesting one. And the other thing is we haven't seen a
+significant fall off after the first announcement, the first letter that went out from Amazon Echo,
+for example, so for Amazon on the integration. So, we'll see. We're not going to make any strong
+commitments on that but we're optimistic and it's exciting to see.
+Q - `Tavis C. McCourt, Analyst, Raymond James & Associates, Inc. `
+Great. Thanks very much.
+A - `Bracken P. Darrell, President, Chief Executive Officer & Director `
+Thank you, Tav.
+Operator
+Your next question comes from the line of `Michael Foeth, Analyst, Bank Vontobel AG with Vontobel. Please go ahead.
+A - `Bracken P. Darrell, President, Chief Executive Officer & Director `
+Hey, Michael.
+A - `Vincent Pilette, Chief Financial Officer `
+Hey, Michael.
+Q - `Michael Foeth, Analyst, Bank Vontobel AG
+Yes, hi. Hi, guys. One question regarding your selling and sell-through dynamics, in particular, in
+EMEA, where selling was high and sell-through – selling was low and sell-through was high. And
+then, in the Americas, we have the opposite. Can you maybe just give us a little bit more
+explanation of what is going on there and how we should see that...
+A - `Vincent Pilette, Chief Financial Officer `
+Yeah. So...
+Q - `Michael Foeth, Analyst, Bank Vontobel AG
+...in the coming quarter?
+A - `Vincent Pilette, Chief Financial Officer `
+Yeah. Let me answer that first, Michael. So, quickly before we talk about region wise, so selling
+was around 15% U.S. dollars, 17% in constant currency. Sell-through is around 14% in dollars. So,
+overall globally, pretty stable. When you look at weeks on hand, whether it's backward looking or
+forward looking, it's either flat or slightly improving. So, we feel really good about position overall
+in our inventory somewhere in the midpoint of our target range and very stable to slightly
+improving year-over-year. So, I feel good on that one.
+When you look at by region, I don't know if you remember, last year, Q4 in Americas was exactly
+the reverse which was low-selling, high sell-through. And then, this year, we have in the EMEA that
+position, well, obviously, it's a dynamic management of our overall distribution footprint, if you
+want, and nothing specific on this at this point in time. Overall, if you look at EMEA, full-year selling
+is around 18% and we exit the year with sell-through at a rate of 19%. So, nothing special at this
+point in time.Q - `Michael Foeth, Analyst, Bank Vontobel AG
+Okay. And maybe just to follow-on, the high growth in the Americas...
+A - `Vincent Pilette, Chief Financial Officer `
+Yeah.
+Q - `Michael Foeth, Analyst, Bank Vontobel AG
+...was that just Jaybird or anything else?
+A - `Vincent Pilette, Chief Financial Officer `
+No, no. It's a function of, again, the compares. So last year, selling in Americas was minus 8% on
+the positive DCS, and therefore, now, of course, you have the file (18:47) that you compare
+against that's very low. If you look at the trend on the gross rate in Americas, we've been
+trending at the high-single digit, low double-digit, except Q4 2016, where we voluntarily – we're
+cautious on mobile speakers and that the overall sell in Americas was minus 8%. So, now, of
+course, a year later, you compared against that.
+Q - `Michael Foeth, Analyst, Bank Vontobel AG
+Okay. Great. And then, just maybe one last one on your distribution. Can you give us the
+development of the portion of online sales in Asia versus Americas? How is that developing?
+A - `Bracken P. Darrell, President, Chief Executive Officer & Director `
+I couldn't really give you Asia overall because you got a combination of online-only players, and
+then, bricks-and-mortar which are harder to judge. What we can see though is in China, for
+example, our online sales, we do know pretty well, which is somewhere between 65% and 70%
+now. In the Americas, it's – we believe it's about 35%.
+Q - `Michael Foeth, Analyst, Bank Vontobel AG
+Okay. That's great. Thank you.
+A - `Vincent Pilette, Chief Financial Officer `
+You're welcome.
+A - `Bracken P. Darrell, President, Chief Executive Officer & Director `
+Thanks, Michael.
+Operator
+Your next question comes from the line of `Joern Iffert, Analyst, UBS AG with UBS. Please go ahead.
+A - `Vincent Pilette, Chief Financial Officer `
+Hey, Jörn.
+A - `Bracken P. Darrell, President, Chief Executive Officer & Director `Q - `Joern Iffert, Analyst, UBS AG `
+Hi, Bracken. Hi, Vincent. Thanks for taking my questions. The first one, obvious one, just to
+redelivered (20:04) your fiscal year 2018 guidance. I think it's implying no margin improvement. Is
+there any specific reason for this? Are you planning any, in brackets one-off investments or adjust
+(20:15) a course of nature, which, of course, would be absolutely reasonable?
+And second question would be on your design to cost program. I think, last time, when you
+update us, you have reviewed around 20% of your products. Where do we stand here right now
+and when do you expect us to finish and what are roughly the proceeds coming out of this in
+terms of dollars?
+And last question was to a strategic nature, would you consider, or is this part of your strategic
+thinking to enter into advanced partnerships with Amazon and Google, for example, not as an
+OEM supplier but just as a (20:51) peripheral and partner? Thanks very much.
+A - `Vincent Pilette, Chief Financial Officer `
+Yeah. Joern, let me take the first one and Bracken will take the two. And so, when you talk about
+guidance, so we've build a reputation on delivering a plan that we have high confidence in and
+delivering on what we say. Early March, when we give our guidance for the full year here FY 2018,
+we measure all the risk and the opportunities and develop a strong operational plan by category,
+by region, investments and returns expected. I'm really glad that we finish Q4 here slightly better
+than expected. I think it's a very good sign as we start the year, but we still have full months – full
+year, sorry, to deliver this guidance. So, I don't think at this point in time, it wouldn't make any
+sense to adjust that guidance. If we see revenue upside in the year, we may still make the
+decision to accelerate some investments for a better FY 2019, and of course, we'll dynamically
+boost (21:49) financial business and update the investors on what we're doing here.
+A - `Bracken P. Darrell, President, Chief Executive Officer & Director `
+On your question of design for cost, in the description, you used a 20% of the kind of a ballpark
+number. What I would say is overall, our current game plan is we want to take the concept of
+supplier for cost into everything. We're doing it over time. We're doing it very systematically. It's
+actually showing up our new products now, so you saw some this year. As you said, 20% is not a
+bad number. It probably – you could probably guess it's going to be about the same kind of
+number or even larger next year. And then, over time, all our products would be more designed
+for cost. We will always have cost (22:27) opportunity at every launched product. But one of the
+things that we measure now, we look very carefully at what's the – if a product is replacing other
+products and redoing it equal or better gross margin and that is a reversal from what you would
+have seen five years ago when we launched at lower gross margin and then we're falling back
+over time.
+On the – on your question on, would we consider or is there an option or to do partnerships of
+some kind with other players out there. If you remember our – the nature of our business from its
+very kind of beginning was to create products that work with other people's products. We're a
+peripheral player and we've been a peripheral player and we'll probably, in some ways, in most
+of our categories, would be a peripheral player, that we're already doing things in that space. And
+so, with the question earlier about Harmony, Harmony is now integrated with both Alexa and
+Google Home and we're always looking for opportunities to peripheral as other products with the
+existing ones or new ones.Q - `Joern Iffert, Analyst, UBS AG `
+All right. Thanks. Thanks, very much.
+A - `Vincent Pilette, Chief Financial Officer `
+Thank you.
+Operator
+Your next question comes from the line of `Andreas Mueller, Analyst, Zürcher Kantonalbank with ZKB. Please go ahead.
+A - `Bracken P. Darrell, President, Chief Executive Officer & Director `
+Hi, Andreas.
+Q - `Andreas Mueller, Analyst, Zürcher Kantonalbank `
+Yes, hi. Hi, everybody. Thanks for taking my question. Question, can you be a bit specific more on
+the gross margin right there? Who are the main drivers behind this increase sequentially even, I
+mean, was very good?
+A - `Vincent Pilette, Chief Financial Officer `
+Yeah. So, I can definitely do that. So, it's definitely an operational performance. If you wonder,
+there's no big one-timers that's in that margin. Similar to what we described in margins, similar to
+what we delivered this year, the single biggest contributor of this gross margin improvement this
+year is the improvement of the cost structure combined with our ability to hold prices and value
+we deliver to consumer. And I think that contributed to even more gross profit with that. We then,
+in turn, reinvest to simulate growth at a form of sales.
+Q - `Andreas Mueller, Analyst, Zürcher Kantonalbank `
+Okay. Then, what was the main factor behind this huge growth at Video Collaboration? I mean,
+was it all through pure sell-through or was it coming from the expansion of some channels? And
+how do you see the growth going forward? I know that you see all these – big and small
+conference rooms, but this 73% going forward, of course, that's probably not really a sustainable
+figure out but for this year, at least, can you indicate what you see there?
+A - `Bracken P. Darrell, President, Chief Executive Officer & Director `
+I would look at 70% in Q4 as the number to expect for next year. We grew 42% this year and I
+think that's the kind of growth we've seen – on average, we saw on the first three quarters. That
+said, I take us out of the quarter or even out of the year, what's the driver of the overall growth.
+It's the fact that honestly, I continue to walk in everyday into small, medium and some big
+companies and I'm amazed that how many small, medium and even large conference rooms are
+not even enabled yet. I would say the vast minority are, and so, there is just a very large long-
+term opportunity for very affordable video-enabled conference rooms and we intend to be, and
+as many as we possibly, can be. So, no, I don't think we can expect 70% all year long next year
+but we expect to have strong growth.
+A - `Vincent Pilette, Chief Financial Officer `If I can just add, so we had guided the year at around 40% and we delivered, as Bracken said,
+42%. I don't know if you remember but Q1 (26:12) was actually weaker and you had or some of
+you had reverse questions and we said, this is not a business that deliver the same growth rate
+every quarter, right? We come here to be drop (26:21) our sales engagement with various
+accounts and businesses and we see a very strong long-term structural growth. The sales cycle is
+a bit more aligned to a B2B sales cycle, which is slightly different than the core retail.
+Q - `Andreas Mueller, Analyst, Zürcher Kantonalbank `
+Okay. And then, my last question on the Pointing Device category and most specifically, the
+Spotlight. I mean, what's there (26:47) the opportunity, I mean, that'd be kind of substantial within
+the category like 10%, 20% or will it be kind of just a small product within huge category going
+forward?
+A - `Bracken P. Darrell, President, Chief Executive Officer & Director `
+It's too early for us to say. What I can say with a lot of conviction is we've created a breakthrough
+in that category that anybody who presents will prefer what we just offer to anything that's ever
+been made before. What I can tell you is how broadly that will spread across the people who do
+presentations. And so, our mission right now is because that as many people's hands as possible
+to sample it, and the minute you present like I did today here in Zurich, we've got a room full of
+people who see, for the first time, what could be done with the Spotlight compared with anything
+they ever saw before.
+Now, how fast will it happen? I don't know. We just announced a partnership with TED, which is the
+most important in a way public speaking operation in the world. And so, we are trying to make
+sure we get Spotlight as many people have as possible. So that audience – those audiences or
+few potential speakers are seeing it in action. And so, we'll see. We'll give you an update through
+the year on our proceeding but we're very optimistic.
+Certainly, if you think about it, I don't want to overstate this, but if you think about how many
+people presenting and how few people own a "clicker", there's a big opportunity out there.
+Q - `Andreas Mueller, Analyst, Zürcher Kantonalbank `
+Okay. Thank you very much.
+A - `Bracken P. Darrell, President, Chief Executive Officer & Director `
+Thank you.
+Operator
+Your next question comes from the line of `Felix Remmers, Analyst, Credit Suisse Securities Europe Ltd (Switzerland) with Credit Suisse. Please go ahead.
+A - `Bracken P. Darrell, President, Chief Executive Officer & Director `
+Hi, Felix.
+Q - `Felix Remmers, Analyst, Credit Suisse Securities Europe Ltd (Switzerland) `
+Yes. Hi. Three questions from my side, actually. One on PC gaming, maybe hear an update on the
+competitive situation. I read that, for example, Lenovo wants to open 100 stores in Asia devoted
+to PC gaming, and I think they have a collaboration with Razer. You have other companies talkingabout, bullish about PC gaming. Have you seen, experienced any increased competition in that
+market so that would be of interest?
+And then, maybe an update on market share in your PC Peripherals business. I mean, I'm always
+surprised how fast you are growing, particularly in keyboards. I understand that this is also related
+to market share gains but how big is still this market share gain opportunity?
+And maybe lastly on Jaybird. It's a bit difficult to forecast that for us, given it's in the Audio-PC &
+Wearables category. But the category as a whole, do you foresee growth in this year in that
+category?
+A - `Bracken P. Darrell, President, Chief Executive Officer & Director `
+Yeah. So, I'll take all three of those. Vincent, you can jump in as you like. From a PC gaming
+standpoint, is the competition tough? It's always been tough. Is there more – are there more
+people entering? Yes, because it's a super high growth category. Do we love our position over
+(29:44) there? Absolutely. We're fond to deliver key tools in that category, our mouse and
+keyboard (29:49) today, so we love that spot. And one of the reasons why a lot of activity is in
+Asia is Asia's just on fire from a PC gaming standpoint, for us and our competitors. So, yeah, I feel
+good about where we are. It will absolutely be competitive and that's probably not all bad. It's
+helping drive growth in the category.
+From a market share standpoint in PC Peripherals, yeah, we are and you mentioned keyboards, in
+particular. We are systematically growing market share, depends on what you see around the
+world. We have grown market share in Q4 and we're going to keep innovating there.
+Finally, Jaybird, the category of wireless earphones is growing. It's growing rapidly. And so, we
+expect that that category will continue to grow and we're going to keep innovating in it.
+Q - `Felix Remmers, Analyst, Credit Suisse Securities Europe Ltd (Switzerland) `
+But for the full category report in Audio-PC & Wearables, is there growth? Is that feasible, given
+that the traditional PC speakers are more still under pressure, I guess, no?
+A - `Vincent Pilette, Chief Financial Officer `
+Felix, the answer is yes, we obviously don't guide for every category. We said in overall music
+business next year, we expect a growth of 10% to 15% in both categories, should drive positive
+growth.
+Q - `Felix Remmers, Analyst, Credit Suisse Securities Europe Ltd (Switzerland) `
+Okay. Thank you.
+Operator
+Your next question comes from the line of Paul Coster with JPMorgan. Please go ahead.
+A - `Bracken P. Darrell, President, Chief Executive Officer & Director `
+Hi, Paul.
+A - `Vincent Pilette, Chief Financial Officer `
+Hi, Paul.Q - `Paul J. Chung, Analyst, JPMorgan Securities LLC `
+Hey, Bracken and hey, Vincent. Hey, this is Paul Chung on for Coster. Thanks for taking my
+question.
+A - `Bracken P. Darrell, President, Chief Executive Officer & Director `
+Hey, Paul.
+Q - `Paul J. Chung, Analyst, JPMorgan Securities LLC `
+So, on keyboards and desktops, can you give us more insight into how this business accelerated
+double-digits after growing low-single digits in both 2015 and 2016? What have been the drivers
+there and what do you expect for 2018?
+A - `Bracken P. Darrell, President, Chief Executive Officer & Director `
+Sure. Yeah. I think at the end of the day, we're just innovating very well there, to be honest. The
+category is still absolutely alive and well, and we've got the multi-device – first, we went to living
+room (31:50) keyboards and we did multi-device. We launched more multi-device keyboards this
+year. Our best top line keyboard is the multi-device keyboard with a cradle in it and that has had
+just a lot of appeal. So, we've – the market for keyboards has done fairly okay and we've grown
+share within it, and I think that's really most driven the acceleration.
+So looking at into 2018, it's hard to predict exactly what's going to happen with PC category. We
+tend to be more consistent, more conservative in our PC Peripherals planning, and therefore, it
+puts pressure on us to make sure we're growing our new engines of growth faster, but I think the
+PC Peripherals category will be okay in 2018.
+Q - `Paul J. Chung, Analyst, JPMorgan Securities LLC `
+Okay. Great. And then, going back to Video Collaboration, what has been your go-to-market
+strategy there and how do you think about sizing this opportunity or what do you think is the
+TAM? And also, what's the competitive landscape in this space in your respective market share?
+Thank you.
+A - `Bracken P. Darrell, President, Chief Executive Officer & Director `
+Well, it's really hard to come up with a TAM but if you could find reliable because it depends on
+how you think about it. It's really a new category And so, we've sized at 100 different ways. What I
+would just say is, forget the TAM. If you look at our existing growth rate, we should be able to
+sustain that and it's a very, very big operation. The addressable market range we've come up
+with sort of anywhere from $20 billion to $40 billion and those numbers are still big, honestly,
+that's a little hard to believe them. So, (33:20) today is a big market and there are lot of rooms
+that are not video-enabled and we really do believe that over the next 5 to 10 years, most will be
+video-enabled, over 20 years probably, all will be video-enabled. That's a big, big opportunity.
+Q - `Paul J. Chung, Analyst, JPMorgan Securities LLC `
+Who do you think your main competitors are there?
+A - `Bracken P. Darrell, President, Chief Executive Officer & Director `It's interesting. There are a couple of ways to look at that. Essentially, I think the biggest
+competitor is really the chair in the room. So, if you're in a chair – if you have a room with six chairs
+in it, for the cost of one or two of those chairs, you can video-enable the room. And today, most
+people are running facilities or even the CIOs are not thinking like that. Once that's put in front of
+them, they kind of scratch their heads, especially when they're creating an open office
+environment outside (34:08) this is a huge opportunity. And then, the question is which video first
+I use. I start to look at costing and pricing and it takes time. So, I think the biggest competitor we
+have is just the inertia of the reality that video is not yet in rooms, but it will come.
+Q - `Paul J. Chung, Analyst, JPMorgan Securities LLC `
+Great. Thanks. Excellent results.
+A - `Vincent Pilette, Chief Financial Officer `
+Thank you.
+A - `Bracken P. Darrell, President, Chief Executive Officer & Director `
+Thanks a lot. Say hi to Paul.
+Operator
+Thank you. And it appears there are no further questions at this time. I will now turn the
+conference back over to Mr. Darrell for closing remarks.
+A - `Bracken P. Darrell, President, Chief Executive Officer & Director `
+I'll just close quickly by saying thanks a lot for hanging with us through those of you who have,
+most of you have through the last year, and certainly, through the last five years that I've been
+here. We're really proud of the results and it's been an exciting ride. I always smile when I read or
+hear somebody say, we did price to perfection, or boy, we're executing nearly perfectly because
+if you sat inside, you could see how many just amazing number of opportunities we have both
+operationally and from a growth standpoint that we're not yet getting at. So, we're really excited
+about the future. We have so many opportunities ahead of us. I hope each of you will be on for
+these calls for the next five years, and thank you.
+A - `Vincent Pilette, Chief Financial Officer `
+Thank you.
+Operator
+That concludes our conference call for today. You may all now disconnect. Thank you.

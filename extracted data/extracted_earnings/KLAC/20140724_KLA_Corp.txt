@@ -1,0 +1,754 @@
+Q4 2014 Earnings Call
+
+Operator
+Good afternoon. I would like to welcome everyone to the KLA Fourth Quarter Fiscal Year 2014
+Earnings Call. My name is Leanne and I will be your conference operator today. All lines have been
+placed on mute to prevent any background noise. After the speakers' remarks, there will be a
+question-and-answer session. Thank you.
+Ed Lockwood, KLA-Tencor Investor Relations, you may begin your conference.
+Ed Lockwood `
+Thank you, Leanne. Good afternoon, everyone, and welcome to our conference call. Joining me
+on our call today are Rick Wallace, our President and Chief Executive Officer; and Bren Higgins,
+our Chief Financial Officer.
+We're here to discuss fourth quarter results for the period ended June 30, 2014. We released
+these results this afternoon at 1:15 p.m. Pacific Time. If you haven't seen the release, you can find
+it on our website at www.kla-tencor.com or call 408-875-3000 to request a copy. A simulcast of
+this call will be accessible on demand following its completion on the Investor Relations section of
+our website. There, you'll also find a calendar of future investor events, presentations and
+conferences, as well as links to KLA-Tencor's SEC filings, including our annual report on Form 10-K
+for the year ended June 30, 2013, and our subsequently filed 10-Q reports.
+In those filings, you will find descriptions of risk factors that could impact our future results. As you
+know, our future results are subject to risks. Any forward-looking statements, including those we
+make on this call today, are subject to those risks, and KLA-Tencor cannot guarantee thoseforward-looking statements will come true. Our actual results may differ significantly from those
+projected in our forward-looking statements.
+More information regarding factors that could cause those differences is contained in the filings
+we make with the SEC from time to time including our fiscal year 2013 Form 10-K and our
+subsequently filed quarterly reports on Form 10-Q and current reports on Form 8-K. We assume
+no obligation and do not intend to update those forward-looking statements. However, any
+updates we do provide will be broadly disseminated and available over the web.
+With that, I'll turn the call over to Rick.
+Richard P. Wallace `
+Thanks, Ed. Thank you all for joining us for our call today. Given that we've provided a thorough
+update just two weeks ago at Semicon West, I'll focus my commentary on summary highlights of
+our results and provide guidance for September. Then Bren will follow with a more detailed
+review of the Q4 financials.
+KLA-Tencor's fourth quarter results culminate a year of strong operating and financial
+performance for the company, as well as solid execution of our strategic objectives. Our June
+quarter report is highlighted by achievement of the second highest net bookings result in the
+company's history in fiscal 2014, including record bookings for our wafer inspection products in
+the year. This demonstrates our customer focus and market leadership as well as the critical role
+KLA-Tencor plays in helping our customers address the higher cost and complexity associated
+with competing at the leading edge.
+Additionally, we announced earlier this month our board of directors has authorized significant
+increases to the company's program to return cash to stockholders. These enhancements include
+an 11% increase in the level of the company's quarterly dividend to $0.50 per share, as well as an
+increase of 13 million additional shares to the company's share repurchase authorization, which
+brings the value of the shares remaining available for repurchase under our program to
+approximately $1 billion using our current stock price. This meaningful increase in the targeted
+amount of cash being returned to stockholders is reflective of our more assertive capital
+deployment strategy. Now for some perspective on the current demand environment.
+New orders for June were $898 million, 24% above the midpoint of guidance, with strong foundry
+bookings for the sub-20 nanometer and upside to DRAM forecast leading the way. In foundry,
+we're encouraged by the strength of the upside in the June quarter, with foundry orders nearly
+doubling compared to the March quarter. We believe the magnitude of these orders reflect our
+market leadership and the critical nature of process control in enabling the adoption of 3D
+technologies.
+However, as we indicated at Semicon West, the upside to foundry orders in Q4 was concentrated
+with a single customer. Delivery of these orders are not slotted to begin until later this year and
+they're expected to extend into calendar 2015. The timing of those shipments combined with the
+uncertainty of our plans for sub-20 nanometer capacity additions among the other major
+foundries for the remainder of calendar 2014 continues to put pressure on the outlook for
+foundry spending in the year. However, we believe this also sets up a strong year for foundry in
+2015 as we expect to see broader customer participation and a steady focus on ramping 16- and
+14-nanometer technologies.
+Logic orders came in largely as expected in the June quarter. Memory orders also grew
+sequentially in the June quarter driven by strength in DRAM, with customers continuing theirinvestment in 2X nanometer technology conversions. In NAND flash, orders levels continued to
+be modest and focus on planar NAND. For KLA-Tencor, our market leadership and growth are
+driven through successful collaboration with our customers. Our mission is to help our customers
+navigate the ever-changing landscape of increasing device complexity and yield challenges that
+accompany each major node transition.
+Turning now to our outlook for the first quarter of fiscal year 2015, we expect September quarter
+bookings to be in the range of $600 million to $800 million, with about 70% of systems orders
+concentrated among foundry and logic customers in the quarter. Guidance for revenue in
+September quarter is in the range of $590 million to $650 million, with non-GAAP earnings per
+share projected to be in the range of $0.34 to $0.54 in the quarter. Our September quarter
+revenue and EPS guidance reflect the longer shipment lead times associated with the recent
+order flow. With our current backlog, coupled with the anticipated order profile for the second
+half of the year, we expect shipment and revenue growth to resume in the fourth quarter of
+calendar 2014.
+And with that, I'll turn the call over to Bren Higgins for his review of the numbers.
+Bren D. Higgins `
+Thanks, Rick, and good afternoon. My remarks today will focus on highlights of the financial results
+for Q4, my perspective on current trends in the marketplace and our outlook for the second half
+of calendar year 2014. Revenue for Q4 was $734 million, just above the midpoint of guidance,
+and fully diluted GAAP earnings per share were $0.77. Non-GAAP earnings per share finished the
+quarter below the midpoint of the guided range at $0.80 per share. In our press release and in
+our supplemental financial data accompanying our results, you will find a GAAP to non-GAAP
+reconciliation of the $0.03 difference in EPS. My comments on the quarter will be focused on the
+non-GAAP results which excludes the adjustments covered in today's press release.
+New orders in Q4 were $898 million, significantly above the guided bookings range for the
+quarter of $625 million to $825 million, as we saw upside in our original order forecast from one
+of our foundry customers and from DRAM. We were encouraged by the strong demand in the
+June quarter, as we believe it speaks to the value of process control and helping our customers
+navigate the complex transition from planar to 3D structures. Also as Rick mentioned, since these
+orders are largely scheduled to ship in revenue in calendar 2015, we think this very strong order
+activity sets the stage for 2015 to be another year of strong relative growth for process control in
+what industry analysts expect to be a growth year for the semiconductor equipment industry. We
+expect to have multiple customers simultaneously ramping new leading edge capacity featuring
+3D designs in foundry, logic and memory in 2015.
+Turning now to our customer segment commentary for the June quarter, foundry demand was
+68% of new orders for Q4, consistent with our expectations as a percentage of the overall mix of
+orders but higher in dollar terms compared with March. Foundry orders in Q4 featured nearly
+$300 million in system orders from one customer to largely support 14-nanometer activities.
+These orders are scheduled to begin shipping later in the current calendar year and revenue in
+calendar year 2015. I would note that these orders are not a pull-in and represent significant
+upside to original forecast for this customer. Clearly the competitive battleground for 3D foundry
+is taking shape, and as the market leader in process control, KLA-Tencor is well-positioned to
+benefit from what we expect to be strong broad-based foundry demand at the 16- and 14-
+nanometer nodes.
+Memory was 23% of new system orders in June, up sequentially both in terms of percent of totalhighlighted by another good quarter for DRAM. Notably we delivered upside to our original
+memory forecast for June, even with orders from Korea finishing significantly below the quarterly
+levels we've seen over the past few years. We think this indicates good breadth of demand
+among the market leaders in leading edge memory and also points to the quarterly variability of
+individual customer demand in our highly concentrated end market.
+Logic was 9% of new orders in June, down slightly compared with the original forecast. Customer
+investments in technology at 20-nanometer and below constituted roughly 75% of the orders we
+received in the June quarter.
+Turning now to the distribution of orders by product group, wafer inspection was approximately
+55%. As Rick mentioned, total orders for our wafer inspection products were a record in fiscal
+2014, finishing in excess of $1.5 billion for the year. Reticle inspection was approximately 10%,
+metrology was approximately 14%, service was 19%, storage, high-brightness LED and other non-
+semi was approximately 2%.
+Total shipments in Q4 were $694 million and below the guided range, as delivery timing for
+certain orders relating to leading edge foundry and NAND projects originally scheduled to ship in
+the June quarter shifted into the second half of 2014. This is consistent with the conditions we
+experienced in our March quarter. In general, our shipment profile associated with our recent
+bookings features extended lead times and is resulting in a lower quarterly shipment profile over
+the near term. Looking forward, given our June orders and our September bookings forecast, we
+are currently modeling December quarter shipments above $800 million with sequential quarterly
+growth in shipments expected to continue through the remainder of fiscal 2015. September
+quarterly shipments are expected to be in the range of $600 million to $660 million.
+In total, we ended the quarter with over $1.2 billion of total backlog comprised of $977 million of
+shipment backlog or orders that have not yet shipped to customers and expect to ship over the
+next six months and $269 million of revenue backlog or products that have been shipped and
+invoiced but have not yet been signed off by customers.
+Turning to the income statement, revenue for the quarter was $734 million, down 12%
+sequentially from the March quarter and just above the midpoint of guidance. We expect revenue
+in the range of $590 million to $650 million in the September quarter, driven by a lower
+shipments forecast resulting from the extended lead times in our current shipment backlog that I
+just discussed. Given our strong backlog, we expect revenue growth to resume in the December
+quarter.
+Gross margin was 56%, down compared with the March quarter and 150 basis points lower than
+the midpoint of the guidance range we provided due to a less favorable mix of product that
+revenued in the quarter and higher than expected costs in our service business. We expect gross
+margin to be in the range of 54% to 55% in September, largely a function of the lower revenue
+forecast for the quarter. Total operating expenses were $231 million, up about $5 million
+sequentially over the March quarter and just above our guidance range of $225 million to $230
+million, mainly due to material and personnel costs associated with next generation product
+development programs. Going forward, we expect quarterly operating expenses in the $230
+million to $235 million range, reflecting higher product development costs associated with our
+ongoing investments in next generation technologies to meet customer requirements and
+extend our market leadership.
+Our effective tax rate was 23% in the quarter, in line with our long-term planning rate. For
+modeling purposes going forward, we believe the appropriate long-term planning rate should bereduced to 22%, given our expectations for the mix of business over the next few years. The 22%
+planning rate also assumes the U.S. R&D tax credit that expired at the end of calendar year 2013
+will be reinstated at some point during the next 12 months. Finally, net income for the June
+quarter was $133 million or $0.80 per fully diluted share. I'll turn now to the balance sheet and our
+cash flow statement.
+Cash and investments ended the quarter at $3.15 billion, an increase of $126 million compared
+with March. Cash from operations was $249 million in the quarter, up $11 million sequentially over
+the March quarter and free cash flow was $236 million. In the quarter, we paid $74 million in
+dividends and repurchased $60 million of our common stock at an average price of $66.19.
+As Rick mentioned, our board of directors recently increased the level of our quarterly dividend
+to $0.50 per share, and also authorized us to repurchase an additional 13 million shares of our
+common stock. As of June 30th, we had approximately 2 million shares available for repurchase
+under our existing authorization, so the board`s recent increase brings the value of the shares
+remaining available for repurchase under our program to approximately $1 billion using our
+current stock price. We currently plan to execute this repurchase program over the next 12 to 18
+months. Fully diluted shares ended the quarter just over 167 million.
+We are pleased with the strong bookings results for the June quarter, as we believe it speaks to
+our market leadership and the critical nature of process control in helping our customers address
+the increasing cost and complexity associated with the transition from planar to 3D device
+architectures. However, the extended lead time associated with these orders is having an impact
+on shipments in the near term and resulting in lower than expected revenue and EPS guidance
+for the September quarter. We see this as a temporary anomaly with shipment and revenue
+growth forecasted to resume in the December quarter and setting the stage for what we expect
+to be a strong growth year for KLA-Tencor in calendar year 2015.
+With that, to reiterate, our guidance for the September quarter is bookings are expected to be
+within a range of $600 million to $800 million, revenue between $590 million and $650 million
+and earnings per share of $0.34 to $0.54 per share. This concludes our remarks on the quarter.
+I will now turn the call back over to Ed to begin the Q&A.
+Ed Lockwood `
+Okay. Thank you, Bren. At this point, we'd like to open up the call to questions, and we do once
+again request that you limit yourself to one question and one follow-up given the limited time we
+have for today's call. Feel free to re-queue for your follow-up questions, and we'll do our best to
+give everyone a chance for further questions as time permits.
+So, Leanne, we're ready for the first question.
+Q&A
+Operator
+Your first question comes from the line of `C.J. Muse, International Strategy & Investment Group LLC from ISI Group. Your line is open.
+Q - `C.J. Muse, International Strategy & Investment Group LLC
+Great. Thank you. Thank you for taking my question. I guess first question, considering the
+extended lead times that you're seeing particularly on the foundry side, I'm wondering if that
+extends also into other customers into 2015. What I'm trying to get at is how do you see theramp in terms of 16-, 14- spend, and therefore, linearity through shipments to the foundry guys
+for you guys into the next year?
+A - Bren D. Higgins `
+Hi, C.J. Good question. Thanks. It's Bren. So I think as we look out going forward here, I think that
+clearly this – and I talked about it at Semicon West, where we had effectively one customer that
+we were expecting to ship somewhere close to $100 million to in the September quarter, and we
+planned to book those orders in June. And as that business fell out, other business came in to
+replace it. And so it did put a bit of a hole into the shipment forecast for the quarter. I think going
+forward as we said in the prepared remarks, we see the shipment trajectory being positive, and
+we'll see a resumption of growth into December. And as we said in the remarks, it looks like it's
+greater than $800 million or so.
+I think it's interesting. It is fairly fluid in terms of timing or it has been, although I think that these
+orders that we did see in the quarter in foundry are a, I think, a good confidence point in terms of
+timing of when we expect that capacity to get added as we go into the first part of 2015. So we'll
+see. I mean, there has been a fair amount of fluidity around the shipment plan over the last
+couple of quarters. Clearly this one in particular is a large sizable order and those orders are
+slotted in mostly in the first half of the year.
+Q - `C.J. Muse, International Strategy & Investment Group LLC
+Okay. And I guess as a quick follow up, in terms of the roughly $1 billion buyback, is that
+something that if you were to see weakness you would look to be more aggressive, or is that
+something still planned over the next 12 months?
+A - Bren D. Higgins `
+Well, our plan, as we put in the press release, was that we were going to execute that over the
+next 12 to 18 months. Obviously there are conditions you would look at as you go through that
+period in terms of – that would impact how you think about the timing. But that's as far as I want
+to go in terms of how we would execute that going forward.
+Q - `C.J. Muse, International Strategy & Investment Group LLC
+Okay. Great. Thank you.
+Operator
+Your next question comes from the line of Harlan Sur from JPMorgan. Your line is open.
+Q - `Harlan L. Sur, JPMorgan Securities LLC `
+Hi. Thank you for taking my question. So given the order upside in the June quarter, I believe at
+Semicon you said you sort of now anticipate a flattish second half versus first half. So sort of two
+questions on that front. Given your pipeline, do you still expect flattish second half orders? And
+then, your first half order mix was roughly 63% foundry, 23% memory, 14% logic. How do you see
+that mix in the second half, and can you point to specific programs or initiatives sort of driving that
+order mix?
+A - Bren D. Higgins `So this is Bren. Harlan, I think that, consistent with what we said at Semicon, we see the second
+half lining up roughly flat with the first half. Given the strength in June where initially we thought
+second half would be stronger, but then we had the strength in June which drove that view where
+I think it's sort of flattish now. So I don't think that that's changed. As I look at the data, I think that
+foundry is probably up half-on-half, memory is up half-on-half and logic is probably lower.
+Q - `Harlan L. Sur, JPMorgan Securities LLC `
+Okay. Got it. And then gross margin performance, Bren, as you highlighted for the June quarter
+came in roughly about 110 basis points below the low end of your guidance range. I know you
+mentioned mix and lower revenues. Is the mix impact due to lower shipments of your high-end
+tools? Maybe you can just provide a bit more color there. And then for the gross margin guide for
+September, is that weighted more towards mix effects or just lower absorption from lower
+revenues?
+A - Bren D. Higgins `
+Yeah, so on the Q4 performance relative to guide, I mean, systems mix was about half of the
+delta there. And it was really just driven by what ends up revenue in the quarter. That is all driven
+by acceptance cycles and so on. So that is how we just finished up, and it was weaker than I had
+expected. I think in terms of which product lines, I think there's always a fair amount of movement
+in that in terms of what actually gets accepted. The other piece, the other half of the margin
+weakness is driven just by higher than expected costs, parts costs in our service business, and I
+think it's just related to the mix of service business that we had in the quarter.
+So if you think about Q1, I think Q1 most of it, to your point, I think when you think about the
+revenue decline, as I said in the prepared remarks, we're expecting to have output going forward
+in excess of $800 million, so you're taking costs associated with the ability to deliver that kind of
+output and spreading those across a lower revenue base. And certainly that dilutes margin. I think
+the other dynamic that's in there is services is up just a little bit quarter-on-quarter, so service
+which we believe is dilutive to gross margins, it's accretive to operating margin but dilutive to
+gross margin is a greater percentage of the revenue mix, and that has an impact as well. So
+those are the dynamics that are affecting Q1.
+Q - `Harlan L. Sur, JPMorgan Securities LLC `
+Okay. Thank you.
+Operator
+Your next question comes from the line of John Pitzer from Credit Suisse. Your line is open.
+Q - `Farhan Ahmad, Credit Suisse Securities (USA) LLC (Broker) `
+Hi. Thanks for taking my question. This is Farhan asking the question on behalf of John. I just
+wanted to probe you a little bit more in terms of the finFET RAM, how it is progressing. With the
+order backlog that you have already from one customer as you mentioned and what you are
+seeing from your other customers, where do you think the expected capacity is by end of this
+year and how do you see that progressing through the next year?
+A - Richard P. Wallace `
+Yeah, this is Rick. We continue to see a lot of customer interest in the finFET development, but I
+think that when you get to large scale production, we're really looking out in the foundry space inparticular to see what happens in 2015. We're not as dialed in to some of the other suppliers in
+terms of the actual number of wafer starts. There are a lot of estimates out there, but we do see
+activity across several foundries in terms of finFET. The expectation there will continue to be pilot
+work this year and then ramping into production and high volume by the end of calendar 2015.
+Q - `Farhan Ahmad, Credit Suisse Securities (USA) LLC (Broker) `
+Got it. Thank you. And then my second question is on gross margins, the gross margin guidance
+for September quarter. If I think about the gross margins, your gross margins at that level were
+only way back in 2009. So I was just wanting to understand, like, going forward after the
+September quarter, how should we think about gross margin? Is there some sort of decline that
+is happening going forward, or is it just a one-time issue?
+A - Bren D. Higgins `
+Well, I think as I mentioned, I think how we're sized relative to the revenue level is a factor
+certainly in that in September. I think going forward over the long run, you always have some
+volatility in terms of the mix of products that we ended up revenueing, and that has some impact
+on gross margin. I don't see anything fundamentally different or structural in the overall business
+in terms of gross margin performance. And I think you ought to continue to see us over broad
+periods of time perform fairly consistently with the gross margin model that we cited many times
+at 60% to 70% incremental gross margin on revenue growth.
+So I think given where we're starting from here, I think if mix holds the way I think it is today and
+obviously that moves around a little bit, I think we'd probably end up performing towards the
+higher end of that range early on. But we'll have to see how it plays out. But nothing, as I said,
+that's sort of structural over broader periods of time that would indicate is any different than what
+we have seen in the past.
+A - Richard P. Wallace `
+And this is Rick. To that point, if you look at the order book for the June quarter and you were to
+analyze the expected margin once those tools revenued, then it's very consistent with what
+we've seen historically.
+Q - `Farhan Ahmad, Credit Suisse Securities (USA) LLC (Broker) `
+Got it. Thank you. That's all I had.
+Operator
+Your next question comes from the line of John Pitzer from Credit Suisse. Your line is open.
+A - Ed Lockwood `
+Operator? Can you move onto the next question?
+Operator
+Yes. Your next question comes from the line of `Atif Malik, Citigroup Global Markets Inc. (Broker) from Citigroup. Your line is open.
+Q - `Atif Malik, Citigroup Global Markets Inc. (Broker) `
+Hi. Thanks for taking my question. Rick, can you talk about the timing of the next phase for 3Dthe second half. Can you talk about what are your expectations in terms of the timing for the 3D
+second case (25:10) orders?
+A - Richard P. Wallace `
+Sure. I think the soonest we would see the next tranche of orders for additional capacity for 3D,
+the soonest would be the end of the calendar year with anticipation of early calendar 2015 ramp-
+up. So I don't expect anything to happen before then. I think there's a lot of questions out there
+continuing to be addressed by our customers, but when we talk to them, that's the kind of
+timeframe we see as orders if they happen this calendar year would be at the end of the
+calendar year, supporting build-out in 2015. And I think you get to multiple suppliers, the soonest
+you get to multiple suppliers is by the end of 2015.
+Q - `Atif Malik, Citigroup Global Markets Inc. (Broker) `
+Okay. And then as a follow-up, can you talk about the actions or the steps that you're taking to
+come combat ASML's offering on both metrology and lithography so if can you talk about your
+historical relationship with Nikon and what you plan to do in the future?
+A - Richard P. Wallace `
+Well, we don't – I guess certainly from our customers, there's an interest as EUV pushes out to
+get more capability to be able to support the multi-patterning challenges with overlay. And it's
+not just overlay, it's all patterning challenges. So we have been polled I would say by customers to
+support an initiative that we talk about as 5D which handles several different aspects of the
+patterning challenges. And that includes allowing our customers to interface with multiple
+suppliers of lithography but also looking at feed forward and feedback from etch as well. So
+we're engaged with several customers on that, trying to support their efforts to get control of
+their litho strategy. And I think that that includes support with other suppliers, and I think of litho in
+particular, and so we're working those avenues. But there's a very active engagement by
+customers as they deal with the challenges of multi-patterning.
+Q - `Atif Malik, Citigroup Global Markets Inc. (Broker) `
+Thanks.
+Operator
+Your next question comes from the line of `Stephen Chin, UBS Securities LLC from UBS. Your line is open.
+Q - `Stephen Chin, UBS Securities LLC `
+Thanks. Hi, Rick. I just wanted to follow up on the big $300 million order that you got from that
+foundry in the June quarter. Do you think the product mix from that customer will be favorable to
+your fiscal 2015 gross margin?
+A - Richard P. Wallace `
+Yeah, I mentioned in a response to an earlier question that if you look at the order book, I'll be
+more general than specific to that one quarter, but if you take June and you look at the overall
+orders for June, the gross margin from that quarter looks more typical of what you would expect
+and what we have historically had. So rather than get into specific margins for customers, I'd just
+say overall June looks more typical of what we have done in the past. And as Bren said, there'ssome anomalies in the June quarter and September that are impacting overall margin, but it
+does resume as he indicated back to our historical levels as you get out further into 2015.
+A - Bren D. Higgins `
+I think the other thing I would just add to that is if you look at the mix of the new products and a
+lot of the products that we talked about at Semicon West with some product launches is the
+margin profile of the new products is on par or better than what we've seen in the past. So we
+feel very comfortable I think with the margin position of the latest products that are part of that
+order book but also just in general what we're shipping out of the factories today.
+Q - `Stephen Chin, UBS Securities LLC `
+Okay. And then maybe just a follow up on the December quarter shipments getting back to the
+$800 million level. Do you think there will be DRAM shipments for capacity adds helping in that
+December quarter also? Thanks.
+A - Bren D. Higgins `
+When we said an excess of $800 million into December, and I think a lot of that – I mean, there's
+capacity that's being shipped I think in general in the book for memory, but I think a lot of that
+depends on timing of orders. But it's certainly possible we could see some capacity shipping in
+the December quarter for DRAM.
+Q - `Stephen Chin, UBS Securities LLC `
+Thanks, Bren
+Operator
+Your next question comes from the line of `Timothy Arcuri, Cowen & Co. LLC from Cowen & Company. Your line is
+open.
+Q - `Timothy Arcuri, Cowen & Co. LLC `
+Hi. I guess I had a couple things. First, Bren, I don't know if you answered this, but given how much
+the numbers are whipping around, you gave us shipments for December. I'm wondering if you
+can give us some sense of revenue for December and maybe margins, just given how margins
+are also whipping around because of some of the absorption around this big order. And then I
+had a follow-up.
+A - Bren D. Higgins `
+Tim, I don't want to guide out to the December quarter. I wanted to I think provide a little bit of
+color on how September is sort of setting up and some of the unique dynamics that are affecting
+September on the negative side and our expectations going forward. Certainly there's a portion
+of our revenue is going to come from shipments. So to the extent that we can deliver the
+shipments, 40% to 50% typically of shipments end up being revenue in the quarter. So that
+obviously has an impact on where we end up.
+But to your point, I mean, it's clearly in the short-term, there's a little bit more volatility around the
+numbers. I think over the long-term, given a lot of the dynamics that we talked about at Semicon
+West, I think perhaps there's some moderating cyclicality. But in the short-term there can be
+volatility. When you have just a few customers placing orders and they're large orders and theASPs are high, units are lower, it does have an impact. Those dynamics do have an impact
+quarter-on-quarter when one customer makes a decision on their plan.
+And I think one aspect of these plans in terms of how people buy process control, is they tend to
+front load it. And so, to the extent there are challenges around progressing nodes and it
+obviously impacts the timing of how they add process control. And they get in the queue I think a
+little bit earlier for that, and as a result of that, you do see some movement when there are
+challenges in terms of trying to ramp new capacity.
+So, I think those are dynamics that we're just going to have to live with. I think there are a lot of
+positives to it in terms of just our exposure to foundry logic. But over the long run, I think it has
+very little effect. And as I said, I think over time I think it makes things a little bit more predictable
+in terms of how we look at it.
+Q - `Timothy Arcuri, Cowen & Co. LLC `
+Thanks. And then, I guess, just a big picture question for Rick. Rick, I've been covering KLA for like
+16 years and KLA never used to miss on any number. They never used to miss guidance, very
+predictable results, operate with a lot of backlog. And now, every quarter it seems like we're
+guiding below or we're – margins are whipping around a lot. Yet you still have about the same
+amount of backlog that you always had. So, I just was wondering if you could sort of wax poetic a
+little bit about maybe what's different about the company today, because it seems like it's
+becoming a lot less predictable and a lot less – operating with a lot of backlog as it used to. And
+I'm just not sure why. Thanks.
+A - Richard P. Wallace `
+Yeah, great question. I think two thoughts and I'll let Bren weigh in on part of this answer. It's
+interesting if you look back at the last four or five years, the predictability year-on-year has
+actually never been higher. Our ability, when we go back and look at our plans for our calendar
+year, our internal plans fiscal year-on-year, it's actually pretty close to what happens. The volatility
+has dramatically increased on a quarter-by-quarter basis, however, and I think it speaks a little bit
+to what's going on in terms of fewer customers, fewer units, larger ASPs. And the backlog is
+partly affected by our customers not needing to take things early or not wanting to take things
+early, but not wanting to have them late. So they want all the equipment to come in at the same
+time. Kind of to Bren's comment earlier, when they're looking at a ramp, they want to front load it
+with process control.
+But when something moves out as it did in the September quarter, the guys that want to move in,
+it's not a plug and play in terms of being able to fill in that revenue. So I think the backlog is still
+very solid. It's just not as fungible in terms of short-term as it was. Bren, if you want to add
+anything to that.
+A - Bren D. Higgins `
+So, Tim, I think over the last three or four years we've seen shipment backlog actually come in a
+fair amount. It used to be consistently around six months and over the last few years, it's come
+down between four and five months. There is a bit of a pop in June, but it's related to some long
+lead time business that we booked. I think that's a little bit of an anomaly compared to what
+we've seen where we are generally booking in one quarter and shipping a fair amount in the next
+quarter. So that has changed a fair amount, and to Rick's point, it's not necessarily fungible
+customer by customer. And the timing is a factor in terms of when they need the equipment.So as a result of that, we are reacting, I think, much faster to the bookings number or really the
+shipment number, I think, in terms of where the P&L is. And so to the extent that there's
+predictability quarter-on-quarter in shipments, then that enables us, I think, to drive a little bit
+more predictability in the P&L. But it does react much faster, and in the past we had more backlog
+to, I guess, absorb or cushion some of those swings one direction or the other.
+Q - `Timothy Arcuri, Cowen & Co. LLC `
+Okay, guys. Thanks.
+Operator
+Your next question comes from the line of `Mahesh Sanganeria, RBC Capital Markets LLC from RBC Capital Markets. Your
+line is open.
+Q - `Mahesh Sanganeria, RBC Capital Markets LLC `
+Thank you very much. I actually wanted to follow up, Rick, on the comment you made about the
+timing of the customers trying to take all the tools together. What's surprising is I would think that
+your tools goes with the lithography tool, and if I look at your guidance and ASML they guided the
+shipments down 20% almost in Q3 and then another down 15% in Q4 whereas you are seeing a
+pickup in Q4, so where is that discrepancy coming from? I would think that foundry guys will be
+looking for lithography tools first, at least lithography and process control together.
+A - Richard P. Wallace `
+Well, you might imagine we don't spend a lot of time trying to figure out what's happening in the
+litho tool space as much as dealing with our own dynamics but a couple thoughts for you. One, in
+the case of technology transition, essentially the world is on 193, by and large, 193 scanners now.
+And so there's really not a lot of change in new technology for scanners with the push-out of EUV.
+So it may very well be there's some modest changes in the scanner, but they're not moving
+wavelengths. So you don't really have necessarily technology buy as much as you do with some
+of our tools with new tools coming in. And also if you look at memory, then in the memory case,
+again the extension of litho. So we have some of the overall probably same dynamics, but I don't
+think it's necessarily as linked as it might have in the past when the new litho technology isn't
+really that new.
+What we do see too is in the case of the order we received that we talked about in June is the
+timing for that, part of the customer's goal, and we were working with them, was to secure the
+slots to support a RAM but also to get us in place to provide the training and resources to do all
+those things. In that case, they have the lithography that they need. What we're talking about is
+bringing in the other tool set and particularly ours, because they're feeling very pressured by the
+yield challenges and as they do 20- and sub-20 nanometers given their portfolio.
+So in that one, I think there's a clear difference between what we would experience and other
+tool providers. So I don't think it's always true that it's the same. We're not dealing with many
+greenfield fabs these days. Mostly what we're talking about is extensions to existing capacity. In
+the case of greenfield, then of course you'd be right. You'd want to get litho tools and the other
+new ones, but that's not a big part of what's going on right now.
+Q - `Mahesh Sanganeria, RBC Capital Markets LLC `
+Okay. That's actually very helpful. And I conclude from that that the tools you are shipping arebig orders.
+A - Richard P. Wallace `
+Correct.
+Q - `Mahesh Sanganeria, RBC Capital Markets LLC `
+Okay.
+A - Richard P. Wallace `
+New in that customer, not necessarily new everywhere, but new for that customer.
+Q - `Mahesh Sanganeria, RBC Capital Markets LLC `
+Right. And then one quickly on the OpEx. With the revenues going down so much, won't the –
+OpEx should be going down because your bonus allocation probably should be going down for
+the quarter.
+A - Bren D. Higgins `
+Well, when we look at OpEx, I mean the way we think about sizing the business is relative to the
+roadmap requirements to maintain the product investment that we need to make. And so we're
+less sensitive obviously to a quarterly change in that, and I think given our expectations of a ramp
+in business, we think given what we feel like we need to do and our expectations of our fiscal
+year but also as we look out into calendar 2015, we think that's sized right. I think over time,
+depending on performance, you start to see variable comp move both directions, but it doesn't
+do that necessarily in one quarter. It all depends on what happens in sort of annual views in terms
+of how we pay that out.
+So for now I think it's reflecting I think some higher program investments and I expect to see
+those going through over the fiscal year, and I'm currently sizing the business right now around on
+an annual basis somewhere between $925 million and $935 million for our fiscal year, and that
+translates into the guidance range that we gave you. Business is a lot stronger. That probably
+doesn't change all that much, probably a little bit related to comp. If the business is weaker on
+the margin, probably doesn't change much the other direction. I think significant moves either
+way obviously will have us reacting to it but that's how we're looking at it today.
+A - Richard P. Wallace `
+Let me just add to that. We are starting a new fiscal year. So September is the first quarter.
+Obviously we're well aware of the plans for September as we make our plan for the fiscal year.
+And we feel very confident about our plan for the fiscal year, and we think we'll have a very
+strong FY 2015 for KLA-Tencor and we're obviously aware of what that means in terms of starting
+with the September quarter. So I think we're actually well positioned to outgrow the industry as
+we go forward.
+Q - `Mahesh Sanganeria, RBC Capital Markets LLC `
+Thank you. That's very helpful.
+OperatorQ - `Romit J. Shah, Nomura Securities International, Inc. `
+Thanks a lot. I just want to go back to the cash balance and buyback that I think C.J. touched on.
+Bren, when you made the buyback announcement at Semicon West, I think some people were
+expecting more just given that if you were to execute that over 12 to 18 months, it would seem
+like you could cover most of it with your strong cash flow generation, and therefore, barely make
+a dent in the cash balance. So could we get your perspective on that and just the capital structure
+more broadly?
+A - Bren D. Higgins `
+Well, as I talked about at Semicon West, I think for a lot of the reasons that I talked about around
+secular dynamics, our business model, our ability to generate cash through cycle, that there's an
+opportunity I think for the company to be – to adopt a more service capital structure as part of
+our long-term strategy. And so I think we've done a lot already with what we've done in terms of
+our dividend and the growth rate in the dividend. But there's an aspect or an opportunity to do
+more there. So the buyback announcement was sort of the recognition of that, and I think the
+logical first step in terms of moving that direction. I don't want to show all my cards on it, but it is
+something that we continue to look at additional opportunities to drive value for our shareholders
+by using the capital structure of the company in a more assertive way.
+So also I think given a lot of the dynamics I talked about, it does offer an opportunity, I think, to
+rely more on leverage as an opportunity to fund the company's needs, either strategic or
+operational down the road. And so certainly that's an aspect of how we're thinking about it as
+well. So, we will – I think on execution of the buyback, we will take our U.S. cash balance, I think,
+reducing the U.S. cash reserves, which is how we're going to fund that, with the logical first step
+there. And then we'll take our U.S. cash balance because I'm not generating any new cash in the
+U.S. because I'm already paying it all out. We'll take it down to somewhere around $1 billion, which
+we think is at the right level given our views of just the ability to fund strategic needs and
+operational requirements.
+Q - `Romit J. Shah, Nomura Securities International, Inc. `
+Would you consider raising your debt levels to bring your net cash down to a level below $2
+billion?
+A - Bren D. Higgins `
+I don't want to get into specifics. I think, to your point and the point I made, I think there are
+opportunities to – and I think this has changed a lot in the last 12 months, and I think as we look at
+it today, I think there are opportunities to use more leverage to drive more value over time. And
+I'll leave it at that.
+Q - `Romit J. Shah, Nomura Securities International, Inc. `
+All right. Thanks, Bren.
+Operator
+Your next question comes from the line of `Krish Sankar, Merrill Lynch, Pierce, Fenner & Smith, Inc. from Bank of America Merrill Lynch. Your
+line is open.
+Q - `Krish Sankar, Merrill Lynch, Pierce, Fenner & Smith, Inc. `Hi. Thanks for taking my question. A couple of them. Rick, I had a question. Your two foundry
+customers that are doing 14-nanometer finFET and they have a technology tie-up, are the DTOR
+ph] or PTOR tools the same between the two, or can they make independent decisions?
+A - Richard P. Wallace `
+I'm trying to think about the confidentiality of that question. I think that in general, our customers,
+the ones we deal with, are unique and able to make their own decisions.
+Q - `Krish Sankar, Merrill Lynch, Pierce, Fenner & Smith, Inc. `
+Got it. All right. And then just a two part question for Bren. On the December quarter shipments,
+over $800 million, can you talk a little bit about what you think the composition of that will be
+between foundry, memory and the other guys? And also could you give the June quarter order
+breakdown by geography?
+A - Bren D. Higgins `
+I think the breakdown of the geography is on the web in our supplemental information, so you
+can get it there. And we talked about it at Semicon West so it's probably not all that different
+from there as we finalized the quarter. I don't want to get into the mix of the shipments. We don't
+typically look at it that way. It all lines up based on when customer request dates are, and that's
+how we end up driving the shipments. So we think a lot about incoming orders from a customer
+segment perspective, but to our operational guys it's all about shipping the tool out, not
+necessarily where it's going.
+Q - `Krish Sankar, Merrill Lynch, Pierce, Fenner & Smith, Inc. `
+Did you guys give a breakdown of DRAM versus NAND in June?
+A - Bren D. Higgins `
+DRAM in June, of the memory number which was 23%, NAND flash was 29% of that.
+Q - `Krish Sankar, Merrill Lynch, Pierce, Fenner & Smith, Inc. `
+Got it. Thank you very much.
+Operator
+Your next question comes from the line of `Srini Sundararajan, Summit Research from Summit Research. Your line is
+open.
+Q - `Srini Sundararajan, Summit Research `
+Hi. This is `Srini Sundararajan, Summit Research. I have two questions, one positive, one negative. The first question is
+when you look at calendar Q3, would you see that there's a breadth of foundry orders? Like are
+you getting foundry orders from like the 28-nanometer customers right down to 16-nanometers?
+A - Bren D. Higgins `
+Yes, there is some breadth in the order book for foundry in September.
+Q - `Srini Sundararajan, Summit Research `Okay.
+A - Bren D. Higgins `
+Generally across the second half, but in September also.
+Q - `Srini Sundararajan, Summit Research `
+Okay. And considering that your big order that the shipments have been likely to be later, isn't it
+fundamentally dependent on whether Apple and Qualcomm go with the one set of foundries or
+the other, and therefore do you have some contingency plans on what might happen if there
+were cancellations?
+A - Bren D. Higgins `
+Generally I mean if you look historically, our orders tend to ship. I mean our cancellations in our
+backlog tend to be very low, I mean, less than 1% over time. So it's usually very good backlog, and
+obviously the timing moves around a little bit. So I don't have any reason to believe in this case
+that this isn't quality backlog that will ship over the next six to 12 months.
+A - Richard P. Wallace `
+Yeah, and we're heavily engaged with the management team and have had a lot of meetings
+about support, so I'm confident as well that there is, to Bren's point, that these orders are very
+solid. I think one thing we have seen in the recent past as the customer has consolidated more,
+we do see I think we have pretty good visibility into people's confidence in their plans. And usually
+they'll let us know if it`s not going to happen, but once they place the order it's a pretty good
+indication. The only exception would have been what happened during the 2009, right after the
+financial crisis I'd say then. In those environments all bets are off, but since then I think it's been
+very solid.
+Q - `Srini Sundararajan, Summit Research `
+Thank you very much
+Operator
+Your next question comes from the line of `Mehdi Hosseini, Susquehanna Financial Group LLLP from Susquehanna International. Your
+line is open.
+Q - `Mehdi Hosseini, Susquehanna Financial Group LLLP `
+Yes. Thanks for squeezing me in. Rick, when you were talking about outgrowing the industry back
+at Semicon, outgrowing by 5%, is that revenue base or shipment?
+A - Richard P. Wallace `
+Well, we generally look over timeframes in terms of ultimately it has to be revenue, so it varies.
+But as you know, Mehdi, depending on your start and end point, you've got to integrate it over
+time. But ultimately if it doesn't turn into revenue, it doesn't really count, right?
+Q - `Mehdi Hosseini, Susquehanna Financial Group LLLP `
+Because early on you said the year or fiscal year is very lumpy, which I understand the customer
+concentration, but the year has progressed in line with what you were expecting in January. Butwhen I look at your shipment guide, even for December, even if I put in more than $800 million, it
+would give me calendar year shipment down 3%. So either are you saying, or suggesting that
+demography (48:25) is going to decline by more than 5% or is that just an anomaly?
+A - Richard P. Wallace `
+I'll let Bren take the year, but we're looking out at FY 2015 for us. What I was referring to – as
+opposed to calendar 2015, which is the next four quarters. But, again, Bren can address calendar
+2014.
+A - Bren D. Higgins `
+So when we think about calendar 2014, I mean back in January I think we were at a much more
+bullish view that we've moderated as we went into the April call, and I don't think that view has
+changed today, that we think the industry is probably plus 5% to plus 10%, in that range. And to
+Rick's point earlier, you just tend to think about revenue performance relative to industry. This
+year calendar 2014 I think because of these pauses related to leading edge foundry, I think
+because of memory composition, I think we're setting up for this year to be probably somewhere
+around a market perform in calendar 2014. I think as we look at calendar 2015, to Rick's point
+earlier about our fiscal 2015 given the dynamics we expect around foundry and the progression
+of 16- and 14-nanometer ramp, we think that the company is positioned to see some of the
+relative outperformance that we saw in 2011, 2012 timeframe.
+Q - `Mehdi Hosseini, Susquehanna Financial Group LLLP `
+Thanks. I'm just trying to understand the thought behind the forecasting, because in January you
+were saying that foundry is going to be weak but then 3D NAND is going to be very strong. And
+back then you were saying that June quarter you should be able to do around $750 million, $800
+million of shipments. That has entirely changed. And now you're saying there's a big turn coming
+in December. So I'm just wondering what gives you confidence that these turns or these pauses
+don't change? Are we setting ourselves up for more disappointment down the road?
+A - Bren D. Higgins `
+Well, I mean, we talked about it a lot over the last six months about just I think the challenges our
+customers have been facing in trying to ramp up some of these new technologies. On the
+memory side with VNAND, I think there were expectations in the industry of certainly of much
+stronger investment in VNAND, and certainly I think that has pushed out into 2015, certainly the
+next phase of that, we talked a lot about the foundry push.
+I think given what we're seeing in the order book now, it seems that we're starting to see these
+commitments in the industry towards putting production in place to start to ramp this capability
+for finFET into the middle of next year, and that would line up with timing of shipments, in the
+fourth quarter, calendar quarter, and into the March quarter to be able to have that capability
+come on line. But these have been very challenging transitions for our customers, and they have
+all I think crossed whether it's memory or even in foundry we've seen a slowdown there that has
+continued through the middle of the year. It looks like it's turning the corner now, but I think it's
+been a tough transition.
+A - Richard P. Wallace `
+And Mehdi to your point, and you've made this point in the past, as I recall, our inability to
+forecast short-term. It is, I made the comment earlier on the call, it is interesting when I look back,we actually have done, certainly internally when we plan out the year, we have actually done a
+pretty good job of forecasting on an annualized basis. But what is interesting also is it's usually
+not exactly how we thought it would happen. So if I look at the fiscal year that just ended, our
+bookings target for the year and what we ended up achieving internally was very close to what
+we had modeled, and process control intensity was very close, and we actually had some
+strength in share. But when you go back and look at the specific customers and the mix, it wasn't
+necessarily at all what we thought.
+So it came from different regions, it came from different customers, it came from sometimes
+even different products. So I would say we're better over the longer term and more on an
+annualized basis than we are on a quarterly basis. And even to your point, things move and have
+moved quite a bit during this calendar year, and to your point, it's pretty likely that they'll move
+again based on just history. So we're, we pointed out at Semicon West, it's very hard for us to
+predict WFE, so we base our business on what we think in terms of share and adoption, and how
+we can drive process control intensity and try to be flexible to handle the normal gyrations we
+see in the customer base. But we have consistently proven your point. We're not great at
+forecasting, certainly over a three-month period.
+Q - `Mehdi Hosseini, Susquehanna Financial Group LLLP `
+Thanks for the detailed color.
+Operator
+Your next question comes from the line of Patrick Ho from Stifel, Nicolaus. Your line is open.
+Q - `Patrick J. Ho, Stifel, Nicolaus & Co., Inc. `
+Thank you very much. Rick, maybe firstly a big picture question on the Reticle Inspection business
+as a whole, we have seen it pick up in orders in recent quarters. But do you see any big structural
+changes in that business itself, given that you are at much higher run rates coming out of the
+market correction in 2010 and 2011, but we have kind of seen it really muted for the last I would
+say three years? Are there big changes coming around, or do you see maybe a more sustained
+pickup as we enter 2015?
+A - Richard P. Wallace `
+Patrick, great question. I would say the following: One, the biggest inflection that would come for
+reticle inspection would of course be EUV and high volume. And we said at Semicon West, and
+continue to say, we don't see that happening in the foreseeable future. However, we are seeing
+indication that at sub-20nanometer, some of the lithography challenges being presented by
+people having to extend 193 is creating a buying cycle both in, and certainly in mash-up, it's not as
+robust as it would be if it were an entirely new generation of mask, but I think what we don't know
+and our customers don't know is how much capacity they're going to need to add, and part of
+that is how many starts are actually going to happen sub-20. But we have seen some support for
+that.
+The other thing that goes on is in the fab line. And I think that the customers have enjoyed a
+holiday, a mask makers holiday, if you will, because of double-patterning on relatively simple
+masks. But again when you get to sub-20, there's some challenges associated with that. That
+business is different. We have different offerings for it, that tends to be more cost competitive,
+and not as high-tech, and so there's some challenges in terms of satisfying and there's more
+competitive pressure in that market. But we have offerings and we think we can compete in thatmarket. But it's not going to be the same as what you'd see in the mask shop. So until high
+volume EUV comes in, which is several years out, I do think there's going to be some opportunity
+as we look at sub-20 and some of the lithography challenges. But frankly it's new enough that our
+customers don't yet know exactly the implications for their reticle strategy.
+Q - `Patrick J. Ho, Stifel, Nicolaus & Co., Inc. `
+Great. And my follow-up question on the wafer inspection business, you've seen pickup and you
+talked about the record orders this year. You have also mentioned that DRAM spending was up. I
+think in the past you've noted that you expect process control intensity for DRAM to be kind of
+split between metrology and inspection. I guess after the last few quarters where DRAM
+spending has been up, are you seeing more of a bias towards inspecting given that metrology's
+kind of held steady or is that something where metrology will catch up down the line with I guess
+the capacity build on the DRAM side?
+A - Richard P. Wallace `
+Great question. I think that the immediate answer is right now we're seeing probably a little more
+opportunity in the wafer inspection. But the truth is there's not enough out there yet at the
+advanced nodes in DRAM or frankly in what's going on in flash for our customers to fully
+appreciate what they're going to need. We've talk about our process control intensity going up
+but if you look at for example our 3D NAND model, part of the reality is there hasn't been
+enough out there to really validate the model yet. But I would say if there's any bias, it would be
+toward higher levels of adoption and probably more in the inspection side.
+The caveat being is in our ability in OCD and in optical CD to take on more of some of the
+historical SEM based inspections, I think that does provide some opportunity, particularly as
+people go to more 3D structures. Then there probably is more growth in that segment. So it's
+still early to tell, but I think right now to answer your question, I'd say the bias might be more
+towards inspection.
+Q - `Patrick J. Ho, Stifel, Nicolaus & Co., Inc. `
+Thank you very much.
+Operator
+Your next question comes from the line of Mark Heller from CLSA. Your line is open.
+Q - `Mark J. Heller, CLSA Americas LLC `
+Thanks for taking my question. Rick, I'm just wondering what your view is for calendar 2015. Do
+you see any pull in for potentially for 10-nanometer foundry spending? And if so, do you have any
+view whether EUV will be used on 10-nanometer?
+A - Richard P. Wallace `
+We do see some interest in 10-nanometer. In fact I don't know how public it has been, but there
+has certainly been customers talking about accelerating 10-nanometer neither development and
+very aggressively. And I think there's a bit of a competitive battle going on in the foundry space to
+get to the next node. My expectation is that we will not see high volume EUV for 10-nanometer,
+but because there is some capacity out there, I think it only stands to reason that if people want
+to use 10-nanometer, want to use EUV in 7-nanometer production, they're going to definitely try
+to get it into a layer or two for 10-nanometer just to debug it and prove it out.But I think at the same time, the customers I talk to about 10-nanometer have that as a nice-to-
+have not a must-have to be able to do 10-nanometer. They're certainly going to be capable of
+doing 10-nanometer without it because they feel like there's some challenges with productivity in
+10-nanometer. But of course especially those that have some capacity would like to get some
+learning out of it and some productivity out of it.
+Q - `Mark J. Heller, CLSA Americas LLC `
+Got it. And on the second half order outlook, you said that memory would be up half over half. Do
+you think that's weighted more towards DRAM or NAND? Thanks.
+A - Bren D. Higgins `
+I think in September right now it looks like it's NAND is a higher percentage. Right now for
+September we're forecasting memory overall to be about 27% of the mix or so, 27%, 28%, and
+NAND will be the bulk of that. I think there is – but there is investment in both areas, and so I just
+don't have the detail on December. But that's how it looks for September right now.
+Q - `Mark J. Heller, CLSA Americas LLC `
+Thank you.
+Operator
+I now turn the call back over to Mr. Ed Lockwood with KLA.
+A - Ed Lockwood `
+Thank you, Leanne. I'd like to thank everyone for joining us today on our conference call. An audio
+replay of today's call will be available on our website later on this afternoon. Once again, we
+appreciate your interest in KLA-Tencor.
+Operator
+This concludes today's call. You may now disconnect.

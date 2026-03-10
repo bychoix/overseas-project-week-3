@@ -1,0 +1,761 @@
+Y 2022 Earnings Call
+
+Presentation
+Unidentified Speaker
+All right. Good morning, good afternoon everyone, and welcome to Logitech's Video Call to
+discuss our Financial Results for the Fourth Quarter and Full Fiscal Year of 2022. Joining us today
+on the call are Bracken Darrell, our President and CEO; and `Nathan Olmstead, Chief Financial Officer, our CFO. During
+this call, we will make forward-looking statements including with respect to future operating
+results under the Safe Harbor of the Private Securities Litigation Act of 1995.
+We're making these statements based on our views only as of today. Actual results could differ
+materially and we undertake no obligation to update or revise any of these statements. We will
+also discuss non-GAAP financial results. And you can find the reconciliation between these non-
+GAAP and GAAP results, and information about our use of non-GAAP measures and factors that
+could impact our financial results, in our press release and in our filings with the SEC, including our
+most recent annual and quarterly reports, and subsequent filings. These materials, as well as our
+prepared remarks and slides and a webcast of this call are all available at the Investor Relations
+page of our website.
+We do encourage you to review these materials carefully, and unless otherwise noted,
+comparisons between periods are year-over-year, and in constant currency, sales or net sales.
+And finally, this call is being recorded and will be available for a replay on our website. With that, I
+will now turn the call over to Bracken. Good morning, Bracken.
+`Bracken P. Darrell, President and Chief Executive Officer & `
+Good morning, mate. And good morning, mate -- Nate, and thanks to all of you for joining us. I
+am so excited about the year that Logitech has had, and our team's strong performance despite
+a backdrop, perhaps best defined as unpredictable and certainly challenging.
+Despite of these headwinds, our teams delivered an outstanding fourth quarter and overall a
+tremendous fiscal year 2022. Coming off 74% net sales growth in the previous year, weWe posted our ninth consecutive year of growth, delivers strong growth in key categories like
+C&P and Gaming. So our market share gains across our portfolio and geographies, and continued
+to invest in future, using our strong growth profits to invest in key strategic areas, like marketing
+and product development.
+Nate and I will go deeper into the financial details for the fourth quarter for the fiscal year in just a
+minute. But I wanted to start by offering a bit of perspective on the macroeconomic environment,
+world events, and overall state of global business as we head into our new fiscal year.
+As I talked to other CEOs, we generally agree that there's uncertainty about the U.S. and global
+economies will perform, but we'll leave the predictions about that out of this call. But what is the
+backdrop to our thinking? I see a certain set of conditions that most of you will be familiar with,
+inflation, war in the Ukraine, COVID lockdowns, changes to monetary policy, supply chain
+instructions. These challenges are not just possibilities, of course, they are happening.
+No business leadership team operating globally can dismiss them. We at Logitech talk about
+possible impacts regularly and truth is that all businesses including ours, operate in this
+environment with the understanding that we can't influence the outcome of each of these
+challenges, but we all can adapt, change and ultimately adjust. That's exactly what we've done at
+Logitech through the last decade.
+The dynamic nature of Logitech and we've got more dynamic as we've grown, makes me proud
+we've continually found ways to solve old and new challenges, by ultimately serving delighting
+customers. We've adjusted, adapted so many times over the past decade.
+So what does the next year look like? While this may not be the most satisfying answer, the hard
+truth is that we just don't know exactly how and when this particular set of challenges are going to
+play out. But I do know we have years of experience operating in challenging environments. We
+change the way we source components. We've diversified our shipping strategy. We've
+automated our factories. We've built a very diverse portfolio. We've changed the way we price
+our products. We strengthened our balance sheet, intentionally pursuing a strategy, avoiding high
+levels of debt, the list goes on. All to ensure, we can operate with excellence, discipline, and a
+focus on the future during unpredictable times.
+So, I prefer to look beyond the near term, and make sure we're operating in growing categories,
+staking out long-term leadership positions in those categories, and investing in product design,
+and engineering, the absolute lifeblood of our business. And as we discussed in our Analyst Day
+in March, we're doing exactly that.
+But what's been true for the last few years is still true today. Hybrid work or the idea that we used
+to call, work from anywhere, continues to thrive. There are sales and upgrade opportunities that
+exist right now across more than 1 billion workspaces, all driven by hybrid working and learning.
+What an incredible opportunity.
+Everything is moving to video, including this call. Hybrid work is here to stay and most meaningful
+be a mix of on-site and virtual, and video helps bring more meeting equity to all participants.
+Gaming will continue to expand, the long-term momentum is unstoppable. Like most long-term
+high-growth markets, there will be strong growth quarters and lower ones, but that shouldn't
+confuse anyone. Gaming is a juggernaut and it's evolving and adding new engines of growth.
+Take the Metaverse, for example, the tools needed to experience and create the Metaverse
+expanding and evolving, but big picture, ask yourselves, what about the fundamental premise of
+gaming as a cultural phenomenon has changed. The answer, nothing.And the streaming and content creation trend hasn't changed, but continues to grow rapidly. In
+other words, while we're very clear-eyed and measured in our approach to the near-term
+challenges and events, we're equally invested in and excited about the durable longer-term
+trends, driving our largest categories.
+Our company's solid performance, reflects the broad strength of our capabilities, including the
+product development engine that continues to introduce new products on a global scale. And
+also reflects our diverse portfolio, and its leading position in growing markets. Our focus on
+operational execution, and the ability to adapt quickly, continues to help us navigate industry-wide
+supply chain challenges and disruptions. And that's why, I'm so incredibly excited about the future
+of Logitech.
+With that, let me briefly step into our categories. Creativity and productivity. In creativity and
+productivity, we had a really strong year. I finished the fiscal year 2022 with good momentum.
+Mice and keyboards continue to drive this category with another year of creative product
+development, driving growth. There is no debate over the sustainability of hybrid work.
+Hybrid is here for now and in the future. And C&P is set up to enhance workspaces around the
+globe. You've heard me say this before, but it remains true. Very few people have the optimal
+workspace set up, either at home or at work, even I continued to experiment all the time to try to
+find a better way. I'm excited about what you'll see in the coming quarter for this group. Gaming
+grew double digits in fiscal year 2022, on top of an exceptional revenue growth last year.
+Gaming continues to be adopted by an increasing number of people as both a competitive
+esport, and is a more casual way to hang out with friends. We're in the very early inning of what
+the Metaverse can do to enhance the enjoyment and experience of gamers. Gaming is a market
+of demands' innovation, and we're doing just that with more wireless peripherals and higher
+performing keyboards and mice.
+I'm so confident about the long-term potential in this category. In video collaboration, we continue
+to see pockets of increased activity with more certainty in office re-openings and hybrid work
+planning. But planning and purchase timing differ by region. So I said -- and so as I said earlier,
+there will be near-term unpredictability. And then, overall choppy environment, but long-term
+growth. Webcams decline versus our lofty mid pandemic peak, but the need for webcams is
+strong, and the demand is steady, in more than three times, what it was two years ago.
+And our long-term strategy of enabling meeting space with high-quality video systems and
+solutions, supported by an enhanced sales and support team around the globe, remains well on
+track. Consistent with our mission to develop video collaboration tools that can make remote
+participants feel they can participate equally or even better than those gathered in person in the
+room.
+We launched RightSight 2, an AI-based software solution, that helps bridge the gap between in-
+meeting participants, and those joining remotely. It's such a smart solution, and we have much
+more in the works.
+And supporting all our products is our DEFY LOGIC marketing campaign. We're increasingly
+raising awareness of the brand, and bring Logitech's amazing products to the top of every
+consumers' consideration list. More to come in this area, but we really like the results we're
+seeing. Finally, it's such a fundamental part of our purpose that we focus on environmental
+sustainability at the core of our business.We were just recognized by the financial times as the European climate leader, based on our
+carbon intensity improvement score. It's nice to be recognized like this, but the truth is that this
+score only covers things that happen in our offices and factories. Hardware companies like gas
+release more -- much more carbon beyond our four walls than in them. As we buy components
+and products, we transport them and consumers like us, use them. The rest of our story, so far is
+that we are carbon neutral in Scopes 1, 2 and 3, which includes all of those carbon impacts. And
+we're committed to being carbon negative or climate positive as it's called, beyond 2030.
+And on top of that, earlier this quarter, we announced that we have exceeded our initial
+commitment to incorporate post-consumer recycled plastic into our products, reducing our
+carbon impact, and increasing the circularity of consumer product materials and ingredients.
+During the last calendar year, one of every three Logitech product shifts, used recycled materials,
+and that's going up into the right. We believe this is the right thing to do for the planet. But we
+also believe that a growing share of businesses and consumers will favor our products, as a result
+of this industry-leading approach.
+Now, let me turn the call over to Nate for further comments on our financial performance this
+quarter. Nate?
+`Nathan Olmstead, Chief Financial Officer
+Thanks, Bracken. We delivered solid financial results in Q4 and for fiscal year '22 in an
+environment that was often quite challenging. I'll spend a few minutes on the quarter and then
+provide some context and texture to our full-year results.
+Q4 was our toughest compared for the year as we grew 108% one year ago. In Q4 this year, net
+sales were down 17% to about $1.2 billion, although impressively we saw continued growth and
+pointing devices, keyboards and combos, and gaming. Gross margins were essentially flat
+sequentially, despite ongoing cost pressures and incremental currency headwinds.
+We remain disciplined with promotions, while still gaining share in many categories, and we work
+to reduce our reliance on air freight. Looking ahead to the first half of fiscal year '23, margins
+could come down further due to ongoing cost increases, unfavorable currency rates, and higher
+levels of air freight as we expedite to recover from these supply disruptions, due to the China
+COVID lockdowns.
+Profit was down for the quarter, as was cash flow from operations, both as expected. For fiscal
+year '22, we turned in our ninth consecutive year of growth with net sales and constant currency,
+up 4%. As mentioned earlier, C&P and Gaming performed particularly well over the course of the
+year. Overall gross margin was 41.7% within our long-term guidance of 39% to 44%.
+In fiscal year '21, we experienced an unusually low level of promotional and in-store marketing
+investment, and as expected and planned for an increase -- and we expected and planned for an
+increase in such spend this year. Higher promotional and retail marketing investment and
+increased logistics and component costs proved out as margin headwinds. For example, the cost
+of ocean freight is up about 5x versus fiscal year '20.
+Operating profit was $904 million, well above our annual guidance provided at the beginning of
+the fiscal year. We delivered this incremental profit, while continuing to invest to improve our
+capabilities with an emphasis on marketing, product design, and engineering. And we returned
+over $1.5 billion to shareholders through our share repurchase and dividends.Moving into our categories, in creativity and productivity, keyboards and combos grew 8% in Q4,
+and 22% for the fiscal year. Pointing devices were up 14% for the year, as a strong portfolio,
+excellent marketing execution, and continued demand from hybrid work trends, drove strong
+performance in these categories.
+Gaming delivered 1% growth in Q4, and 17% for fiscal year '22, delivering double-digit growth off
+of a record year last year, was impressive. While we experienced pressure in our console gaming,
+and PC gaming headset categories, we have an excellent line-up of innovative products, a
+leadership position and expanding categories like wireless mice and steering wheels, and are
+beginning to gain traction with the social gaming segment.
+Q4 video collaboration sales declined 35% after growing more than 200% in Q4 last year. For the
+year, video collaboration was down 4% after growing more than 180% last year. Conference
+room cameras and systems grew double-digits for the year, and continue to lead the category
+performance behind a refresh and expanded product portfolio.
+Sales in our tablet and other accessories category declined 39% in Q4, and 17% for the year. As a
+reminder, last year we saw a surge in sales for our education, iPad keyboards, driven by Japan's
+Government-sponsored GiGA program, which expired at the end of March 2021.
+Excluding sales through the GiGA program last year, fiscal year '22 sales in this category grew
+double digits, and we gained more than three points of share in retail keyboards, driven by
+strong product launches, and in-store marketing execution. Our mobile speaker sales declined
+12% in Q4 and 15% for the full year. As noted previously, we continue to reallocate our resources
+to faster-growing market opportunities.
+Our audio and wearables sales decreased 35% in Q4 and 15% for the year as expected, despite
+these declines, sales were up more than 40% versus two years ago, due primarily to expanded
+market opportunities for retail headsets and blue microphones.
+Looking regionally, for fiscal year '22, our sales were sustained or grew in all three regions, much
+like the diversification of our category portfolios, our geographic diversification helps us manage
+risk. For example, hedging against regional softness and demand, geopolitical issues or
+economic disruptions.
+Turning to expenses. In the quarter, we executed our plan to strategically invest to grow our
+business over the long term. While our Q4, non-GAAP operating expenses decreased by 13% to
+$342 million, our fiscal year '22 non-GAAP operating expenses were up 27% to $1.4 billion dollars.
+As we stated before, this is reflective of continued investment in marketing sales coverage,
+product development, and operational improvements. For example, we increase the level of
+automation in our factory by more than 50% over the last year, which helps us reduce our cost,
+improve quality and reduces our exposure to labor disruptions.
+And finally, Q4 cash flow from operations was positive $100 million and we ended the year with
+the cash balance of approximately $1.3 billion. Our cash balance ended this fiscal year about $400
+million, lower than the end of last year, as we returned $571 million to shareholders through
+dividends, and share repurchases, this fiscal year.
+For the year, our conversion cycle -- our cash conversion cycle increased to 77 days. This increase
+was primarily driven by higher inventory days, due to industry-wide supply chain disruptions, and
+demand forecast fluctuations for some of our products.We also continue to leverage our balance sheet to strategically purchase hard to find and long
+lead time components to help ensure supply availability and maintain competitive advantage.
+Finally, I'll spend a minute on fiscal year '23 guidance. At our analyst day in March, we guided fiscal
+year '23 revenue to be up mid-single digits, and non-GAAP operating income of $900 million to
+$950 million. And noted that full-year revenue from Russia and Ukraine was about 2% of our net
+sales, and was included in our outlook.
+At that time, the Russian invasion of Ukraine was in its first days. As of now, this war is ongoing
+with no sign of resolution in the near term, and we do not expect sales in Russia and Ukraine for
+the full fiscal year.
+We continue to monitor the Russia-Ukraine situation, and broader potentially challenging market
+conditions. Given this, we now expect full-year revenue to grow between 2% and 4%, and full-
+year non-GAAP operating income is expected to be between $875 and $925 million.
+With that, I will hand over to Bracken for some closing remarks. Bracken.
+`Bracken P. Darrell, President and Chief Executive Officer & `
+Thank you, Nick. In closing, this year we sustained our scale, delivered record sales on top of last
+year's 74% of sales growth. We delivered many accomplishments and a ninth consecutive year of
+growth, strong growth in key categories, and market share gains across the portfolio.
+We also beat our original profit target by over $100 million. Despite strong year-over-year results,
+our focus was on the long term. We're writing secular growth trends and hybrid work, video
+collaboration, e-sports, and digital content creation.
+We will continue to deliver against those with agility, operational excellence and a diverse
+innovative portfolio. I'm super-excited for the future.
+Before I open the call to Q&A, I want to thank all of our employees, and partners for continuing to
+deliver some terrific results, while navigating a really dynamic and at times challenging market
+environment. Your hard work continues to pay off, and I'm really proud of both Q4 and the entire
+fiscal year '22. Thanks to you all.
+Nate, we can open the line for questions.
+Questions And Answers
+A - Unidentified Speaker
+(Question And Answer)
+A - `Nate Melihercik, Head of Global Investor Relations `
+Great. Thanks, Bracken. Thanks, Nate. We'll start the Q&A portion of the call now. For our first
+question let's go with `Alex Duval, Goldman Sachs from Goldman Sachs. Alex, good to see you.
+A - `Bracken P. Darrell, President and Chief Executive Officer & `
+Hey Alex.
+Q - `Alex Duval, Goldman Sachs `Yes, hi everyone and congrats on strong results today for the quarter. Just had a couple of quick
+questions. Firstly, just to clarify on your updated full-year guidance. It looks like you cited
+geopolitical events, meeting Europe as the reason for the change. Just wanted to clarify if that's
+the only reason or is there any sort of big underlying change in terms of the drivers that you're
+seeing, for example, if we think about the COVID situation in China and lockdowns there.
+And secondly, some investors have been asking about how important the PC data is, which
+perhaps indicates a little bit less growth in current periods than in prior periods? And what that
+means for Logitech. So, for example, to what extent do you think yearly PC unit growth is actually
+directly relevant to your company, given that today, you sort of beat expectations on keyboards
+and pointing devices. How should we be thinking about that? Many thanks.
+A - `Bracken P. Darrell, President and Chief Executive Officer & `
+Let me take the second one. And then, I'll look at.
+A - `Nathan Olmstead, Chief Financial Officer
+Yeah. That sounds good.
+A - `Bracken P. Darrell, President and Chief Executive Officer & `
+How relevant is PC growth. I think, we disconnected from the PC market, seven -- six or seven
+years ago. And so, we really stopped considering it a key driver of our business. I guess over the
+long-term, it would be, but we really focus on the installed base and the installed based
+expanded dramatically during COVID. And so we've got a lot of work spaces to upgrade and
+enable. So, we don't see it as particularly relevant.
+A - `Nathan Olmstead, Chief Financial Officer
+Great. Yeah, I think on the guidance, let me just highlight how I was thinking about this Alex. And I
+think there's always many things to consider. Some are very objective and easier to quantify, and
+others are probably more subjective and harder to quantify. And I think that's the case right now
+as well. Direct sales in Russia and the Ukraine are certainly easier to quantify, although the
+following effects that this conflict could have on European demand, oil prices, logistics, things like
+that are certainly less certain than the direct sales, which is kind of, what we talked about being
+about 2% of the overall company.
+I think more broadly though we've got -- we have other challenges that we have to consider as
+well, and monitor and track just like we do every year. I mean, right now, Bracken talked about
+those in his prepared remarks, things like currency, logistics disruptions, cost inflation you
+mentioned the China COVID shutdown. And I think these are some really good examples of
+things that frankly are just harder to quantify. But we have to monitor and track really closely, and
+that's what we do, I think it's also interesting we don't know sometimes how some of these
+things will play out, how they're intertwined. If I use as an example of the start of COVID, little
+over two years ago, our initial perception of that was we have a supply challenge.
+Our factory was shut down and a lot of our planning was around how do we recover from that,
+and quickly it turned into wow, we have a lot of demand coming in as a result of this and we had
+to adapt to that. So I think today's environment really is very similar to that, there are a number of
+factors that we consider, and like I said some are easier to quantify than others, but I think the
+reality is, you just have to track the business regularly, which of course we do. As Bracken said,adapt, change, and operate, and compete. So, that's kind of how I think about guidance every
+time. And I think this year is no different.
+Q - `Alex Duval, Goldman Sachs `
+Many thanks.
+A - `Nathan Olmstead, Chief Financial Officer
+Thank you.
+A - `Bracken P. Darrell, President and Chief Executive Officer & `
+Thanks, Alex.
+A - `Nate Melihercik, Head of Global Investor Relations `
+Thanks, Alex. Next up `Paul Chung, JPMorgan from JP Morgan. Please. Hey, Paul.
+A - `Bracken P. Darrell, President and Chief Executive Officer & `
+Hi, Paul.
+Q - `Paul Chung, JPMorgan `
+Hey, guys. How's it going?
+A - `Bracken P. Darrell, President and Chief Executive Officer & `
+Great.
+Q - `Paul Chung, JPMorgan `
+So I guess, first up on VC. As we look forward, after very strong 2021, now lapping a tough comp
+here in 1Q 2023. But should we still expect that 5, it's kind of 15% growth. And how do you see
+kind of product mix evolving? Are you seeing more video solutions accelerate, and are you having
+more success in the larger conference room? And how do you see competition evolving with HP
+now, kind of getting into the mix here? And then, I have a follow up.
+A - `Bracken P. Darrell, President and Chief Executive Officer & `
+Okay. Let me start it and I'll let Nate jump into the latter half of this. First of all we're still a super
+bullish about VC. You know, the underlying demand for conference cams was really strong. We
+grew double digits this year, throughout the year, and it looks good around the world. And we just
+love our product portfolio. We think we've got super cool things coming and we've got
+peripherals around that. They're also doing well and we started off for services that are super
+early days.
+So, we feel really, really good just in general. And it's hard to imagine companies going back into
+a hybrid environment. I was just in one yesterday, it's hard. And they're on their way back in, it's
+hard to imagine those offices without upgrading and putting video, more video and different
+videos. So, it's coming. In terms of our growth expectations, I think we moderated our growth
+expectations for the year as you just saw, and that certainly has some impact on VC, but I think
+the thing that I would really highlight is that because of the diversity of our portfolio, it's always
+played with us.We've always been lucky to have this diverse portfolio that range from consumer, direct
+consumer experience like gaming all the way into, and now more and more in the office, and I
+think whatever direction we end up taking whether it gets even stronger in VC because I think it's
+possible or it's a little bit weaker than the 5%, 15% you mentioned. I'm kind of confident that our
+portfolio will play in our favor here. Do you want to add anything Nate?
+A - `Nathan Olmstead, Chief Financial Officer
+Yeah, I'd like to highlight just I guess the strength of the performance in FY 2022 in conference
+cam and in grew double-digit and net sales sell-through, through double-digits, it actually grew
+sequentially throughout the year as well. And Americas was particularly strong consistent in that
+sense. So like Bracken said, we're very -- you have different demand trends sometimes and the
+timing of those trends could be a little bit different by region, and take some time to build the
+pipeline and to close deals. But again, I think just looking out on a longer horizon, which is the way
+we think about planning the business and investing we feel very good about it.
+Q - `Paul Chung, JPMorgan `
+Okay, great. And then, on free cash flow, do you still expect that one times kind of pro forma
+operating profit for the year? And when do you expect to see working capital investments kind of
+come down some more harvesting? And then your case of buybacks has accelerated this year.
+Should we expect kind of a similar pace in 2023? Maybe see, the bulk of free cash flow going to
+dividends and buybacks? And then lastly your inorganic opportunities, it's been a while since
+you've done quite a material acquisition? So just any thoughts there. Thanks.
+A - `Bracken P. Darrell, President and Chief Executive Officer & `
+Okay. Let me try to take those. So, I think -- that's okay. You lost me again. What was the first
+question, as I was the one I was starting with.
+Q - `Paul Chung, JPMorgan `
+Just operating cost.
+A - `Bracken P. Darrell, President and Chief Executive Officer & `
+Oh yeah, yeah. On OCF. So, just to clarify, the 1 times is on operating cash flow, not on free cash
+flow, small adjustment, there you got to net out the CapEx. I still think, that's the right way to think
+about it. Cash, a lot of it's about timing and linearity within a quarter, and how you end the year,
+and things like that. But I think that's the right way to think about it this year.
+Working capital, we've been very thoughtful and strategic about the use of the balance sheet in
+terms of supporting the business with working capital investments. And I think that's played out
+well for us. And we'll continue to do that because it is, it's not really the time to be managing to
+just-in-time inventory, there's enough uncertainty where it's helpful to be a little bit long in some
+areas, and that's what we've done, whether it's on the component side, as lead times have
+gotten longer, and there's been some shortages, or we have categories like the one you
+mentioned, video collaboration, strong margins, the cost of a stock out there is pretty high.
+And these are products that have long life cycles and so it's made sense for us to make sure that
+we're invested in carrying appropriate levels of inventories, so that we can move quickly as
+demand changes.You know that said there's obviously some things to that are leading to some higher levels of
+inventory relative to pre-pandemic, for example, port delays and just overall supply chain
+disruptions. And so, those things resolve themselves, I don't really see us moving quickly to
+reduce inventory in our distribution centers or in manufacturing, because again I think it's to our
+benefit just to be running a little bit higher than what we did before, but I think towards the end of
+the year we'd probably see working capital levels come down a bit. But like so many things right
+now, Paul. It's a little bit hard to see that far out. And we'll just -- we'll manage it as such. But I like
+our position with the inventory. I think it's a good use of the balance sheet.
+On another uses of cash, yeah, I mean, probably similar strategy that we always talked about,
+right? We actually do prioritize M&A, we see deals that make sense for us, and we've done
+several small deals, which granted may not be the news headline that you're talking about. But I
+think they're very strategic and important for us and whether it's the light that I'm using here at
+home or some of these other things that are nice additions to the portfolio, and to give you sort
+of the balance sheet as well. So we'll continue to prioritize M&A where it makes sense. And then,
+take a balanced approach, I would say, with share repurchases and dividends.
+A - `Nathan Olmstead, Chief Financial Officer
+Yeah, let me add that last one. I think we're always in the market and they try, and we've done, he
+mentioned service modules. Another way up the web kind of thinking about it is, I think we've
+crossed the threshold here, where our innovation engine is really strong. We don't need to go
+buy new things to go to deliver our long-term targets. We can do it without it.
+We do sometimes feel like we can accelerate things by buying small kind of ingredient plays that
+can help us really get off the ground faster, on some innovation, and thus the kind of thing we've
+been doing the last year and a half, two years, and you haven't seen them, but they're built into
+what we're doing. But we're not going to stop looking at bigger things. If we see something that
+we think really makes sense, we'll do it.
+Q - `Paul Chung, JPMorgan `
+All right. Thanks a lot. Thank you.
+A - `Nathan Olmstead, Chief Financial Officer
+Thank you. Thanks, Paul.
+A - `Nate Melihercik, Head of Global Investor Relations `
+Thanks, Paul. As a reminder, for those on the call. If you do, if you would like to ask a question,
+please raise your virtual hands and we'll work through that. Next up is `Asiya Merchant, Citigroup from Citi.
+A - `Bracken P. Darrell, President and Chief Executive Officer & `
+Hi, Asiya.
+Q - `Asiya Merchant, Citigroup `
+Hey, good morning. Hey, good morning, everyone. Thank you for the opportunity, and a great
+results for the quarter. So I'm just going to focus on the outlook a little bit. You guys talk about the
+quantifiable impact from Russia and Ukraine. So just to clarify the guidance includes obviously no
+sales from that, kind of what gives you confidence here that, could it spread to other GOs?And then as a follow-up, the long term secular drivers that Bracken referred to, the confidence
+that the underlying demand remain solid, I mean, are there indicators that you're watching that
+suggests that, okay, this is kind of more GO-focused at this point, but the drivers outside of that
+region remain pretty strong across the portfolio, whether it's VC or gaming, or keyboards and
+peripherals.
+And then just a clarification on gross margins. I think Nate said they would come down in the first
+half, air freight was mentioned as one of them, or ocean freight I should say, but there is high
+levels of inventory right now that you guys are holding. So, could that provide some offset to just
+the rise in freight costs here. Thank you.
+A - `Bracken P. Darrell, President and Chief Executive Officer & `
+Let me jump into part of that Nate, I'll let you answer the rest ones. Your question on
+Russia/Ukraine you know I think that's a definable problem that we feel like, obviously, the conflict
+itself has borders. So, that makes it very easy for us to quantify. Everything else, every year, we
+go into, we always have some, what will happen with dot, dot, dot. This year there are more,
+what will happen with dot, dot dots, the normal I would say, you've got the tailwind of several
+things that are caused by COVID, and then they are maybe you can link them all to, but you also
+got inflation and currency swings and that kind of thing.
+So, I think this feels a little bit like normal year except that maybe there are more of them. But
+we're getting -- we're used to that, we've been doing that for 10 years. So, we're pretty good at
+adjusting and we're going to try to be really good at adjusting where we need to. And as Nate
+said, I think very appropriately. It's amazing how often things that start in one direction flipped to
+the other. They might start being bad news and end up being good news or start being good
+news, end up being bad news.
+So, it's early in the year, we're super-excited about our categories. You asked about the
+underlying things that give us confidence. You know, it's really hard to look away, I tried to make
+this point in the opening. I mean, it's really hard to look away from any of our four categories and
+feel like there's anything, but it's very, very strong underlying dynamics long-term. Those
+underlying dynamics we don't see anything that's changed. And we -- and why you can't really
+detect that, you can't predict a really short-term change. The long-term changes feel really, really
+good. Your long-term trends go really, really good. And if anything, it's getting stronger. So, I
+guess, that's what should I say. But do you have anything Nate?
+A - `Nathan Olmstead, Chief Financial Officer
+No, I think, you've covered the first part. I'll just clean up a little bit on the margin. So, I think similar
+to what I said today at AID. I think, the first half margins will be lower than the second half. You
+mentioned the inventory I mean that is part of the inventory strategy, right, is you want to buy
+ahead of cost increases. So, to the extent that costs have been rising, I think, holding a little bit
+more inventory has given us a short advantage, you can't buy a year's worth. But we're a little bit
+long in some areas, and we've probably avoided some cost increases or delayed some cost
+increases more appropriately.
+But from what we can see right now, just with a little bit of pressure here from currency and some
+of the inflation that we're seeing, yeah, I think the first half margins were pressured a little bit,
+we're obviously doing our best to adapt to that and we're probably around it, whether it's with
+finding new suppliers, adjusting prices, those types of things, just like Bracken said, we go into
+every year and some things we have some visibility to and other things will change as the yearQ - `Asiya Merchant, Citigroup `
+Okay. Thank you.
+A - `Bracken P. Darrell, President and Chief Executive Officer & `
+Thank you Asiya.
+A - `Nate Melihercik, Head of Global Investor Relations `
+Great. Next up is `Erik Woodring, Morgan Stanley from Morgan Stanley. Erik?
+Q - `Erik Woodring, Morgan Stanley `
+Awesome. Good morning guys. Good, good how are you guys?
+A - `Bracken P. Darrell, President and Chief Executive Officer & `
+Good.
+Q - `Erik Woodring, Morgan Stanley `
+So maybe I'll start at the top, and just to clarify obviously COVID and the lockdowns impacting
+China, are having an impact across the board. Maybe just a clarification question when you talk
+about production or supply disruptions, is that your own factory? Is that just general sourcing of
+components? Has there been any change in April versus the March quarter? Just trying to
+understand the pace at which maybe production in some of those bottlenecks might be
+loosening or becoming a tailwind for you this quarter? And then, I have a follow-up.
+A - `Bracken P. Darrell, President and Chief Executive Officer & `
+You want to take that one, Nate, I'm happy to.
+A - `Nathan Olmstead, Chief Financial Officer
+Sure. Again very dynamic, Erik. I would say, we obviously, as you know, we have our own factory
+there that handles good portion of our production, we use a lot of partners. I think one of the
+things about a supply chain, it is a chain. There are links all along and that's one of the things that
+makes it very challenging and very much day-to-day is, you've just got to try to keep that whole
+chain strong.
+So, we'll see how China plays out, that is just one of those things, we're going to have to monitor
+throughout the year. If this is charges in recent days that there's some signs that Beijing is maybe
+taking some stances towards lockdown. I have no idea what the Chinese government's long-term
+strategy is going to be on this, and frankly, on the short-term. I think, it's just one of those things
+when you're part of an operations team, you go chase supply, you work around it, there has been
+some things that have been to the positive recently with some reopening of some warehouses
+and some distribution, and it's -- I think that's all I can really say is, we're just monitoring it and
+closely tracking it and then trying to work our way around it, but we will have to see how that plays
+out.
+A - `Bracken P. Darrell, President and Chief Executive Officer & `
+Erik, if I could just add, I'm -- I probably feel like I tell our team too much, but I'm so impressedset every single time, and I'd say it's a little bit of magic to me sometimes how the in the world
+we've done that. But they continue to do it. And so, I don't know exactly what we'll face in there.
+But yeah, I'm pretty optimistic about not seeing a major, major disruption of any kind. But I'm sure
+that we'll manage really well relative to everybody else.
+Q - `Erik Woodring, Morgan Stanley `
+No. And I would agree with you on the outperformance versus peers. I think you see that in the
+data so definitely there. And then, maybe as a follow-up, how should we think about any, let's call
+it, potential pricing actions you might need to take in international markets, just in light of a
+strengthening dollar basically in order to help maintain profitability or asked maybe more broadly,
+how is Logitech today thinking about managing its currency risk in light of this kind of challenging
+asset environment?
+A - `Bracken P. Darrell, President and Chief Executive Officer & `
+Yeah, I don't know if you are following us few years ago. I can't remember what year was, it was
+2015 or 2016, when we saw a major currency swing, the dollar strengthened dramatically relative
+to Europe, (inaudible) and we had products, and obviously, there's a delay and what you can do
+there, but you can -- one of the advantages we had then and we have even bigger advantage
+there now is that we're the market share leader in most of our categories, and our market shares
+have grown since then dramatically. So I really like our position from a pricing standpoint to the
+extent that we feel like we need to do it.
+We're not going to be kind of casual about that though, market share has its costs, and both
+short-term and long-term, and sort of pricing has caused both short-term and long-term, you
+need to make sure you're always extracting the level of value that you should, and not trying to
+get greedy. So, I think we've already put through some pricing and I would suspect it will put
+through more if the dynamics here look like they're going to stay the same, and I think we're in a
+position to do that because of the size of our business within the categories we're in.
+A - `Nathan Olmstead, Chief Financial Officer
+I'd also point out Erik to the importance of the marketing investments we've been making to,
+things like building up your brand, raising awareness for the value of the products goes hand-in-
+hand with your pricing strategies, of course, as well. So again, difficult to put a fine point and
+quantify that, but directionally, it's certainly helpful. And that's consistent with our long-term
+strategy about how we think about investment and marketing, and how we think about its
+relationship with our pricing.
+Q - `Erik Woodring, Morgan Stanley `
+All right. And maybe if I could just sneak in one last quick one with you Nate. If we think about kind
+of the midpoint of your revenue guide and how you guided operating income, you could get to a
+scenario where operating margins are down slightly year-over-year. Should we think about gross
+margins primarily driving that, and you still being able to invest or maybe just help me think about
+the trade-off of kind of gross margins versus OpEx, as you think about the next 12? And that's it
+from me, so thanks guys.
+A - `Nathan Olmstead, Chief Financial Officer
+Well, I think there's going to be ranges on both Erik, again, we're looking out over a full-year. So,
+we will manage those. I mean, I don't think this will -- this won't be a year where I don't believeyou'll see OpEx investment faster than revenue growth this year like you have in past couple of
+years or at least last year. We didn't actually two years ago. But, we'll see what happens with
+those pressures on the gross margin side like Bracken said where it makes sense for us to be in
+promotional where it doesn't. How much we should be investing in marketing? I think what's really
+important is, we want to sustain investment in innovation and engineering, things that are key to
+capturing the value of the long-term opportunities that we have.
+Q - `Erik Woodring, Morgan Stanley `
+Great. Thank you, guys.
+A - `Nate Melihercik, Head of Global Investor Relations `
+Thank you. Appreciate it, Erik, thank you. Next up Ananda, Loop Capital.
+A - `Bracken P. Darrell, President and Chief Executive Officer & `
+Hi, Ananda.
+Q - `Ananda Baruah, Loop Capital `
+Hey, yes, thanks guys. Good morning. Yeah, just two -- good morning, good morning, good to get
+to see you guys. Just two quick ones from me if I could. Going back to fiscal 2023 outlook, what if
+anything with regards to the collection of macro and supply chain, and lockdowns, et cetera,
+would you guys consider to be incremental over the last 60 days or so since you gave your initial
+forecast that goes into your fiscal -- your sort of revise fiscal 2023 outlook. So just sort of what
+dynamics are incremental? And what thinking might be incremental from 60 days ago?
+A - `Bracken P. Darrell, President and Chief Executive Officer & `
+Nate, do you want to take that one, and I'll come afterwards.
+A - `Nathan Olmstead, Chief Financial Officer
+I mean, I think the only thing that wasn't occurring 60 days ago, I guess, would be China COVID
+lockdowns, the threat of that I think was always out there, and it could have been in China or
+anywhere, and I think that's the environment we're in. I mean, frankly now that we don't know, I
+don't know what new variants may come out. I mean, it certainly seems like things are kind of
+trying to the positive, and I certainly hope that's the case, but it's just -- we just don't know. But I
+mean, over the last 60 days, I don't think there's been any -- we've learned more about each
+impact that's out there, and we've adapted to Bracken's point started to adapt as per to
+Bracken's point. But probably trying to cope with lockdowns, the only one that's incremental.
+Q - `Ananda Baruah, Loop Capital `
+Okay, great. That's super helpful actually. So, I guess that also is to say that you still feel like
+everything else is dimensioned for inside of responsible bounds with regards to your initial
+expectations?
+A - `Bracken P. Darrell, President and Chief Executive Officer & `
+Well, I wouldn't say nothing has changed. I think that's important. I think I just want to stress this
+point again, there are many things to consider and we have to keep in track all of them. We're
+giving an outlook for a year, right So, it's just -- it's a substantially long period of time that we'regoing to adapt, markets are going to change, based on the information that's contained in the
+trends in the business today, that's kind of what we've reflected in the outlook. But we will update
+it as we always do, how we see things each quarter.
+Q - `Ananda Baruah, Loop Capital `
+Well, that's super helpful. And I guess, quick follow-up. Nate, I think it was, I think it may have been
+you who talked about in the prepared remarks, gaining some traction in social gaming. And like,
+how incremental, how incremental, can you just give some context around that traction? And how
+incrementally to the segment over time, if you play it out?
+A - `Bracken P. Darrell, President and Chief Executive Officer & `
+Well, I will jump in there Nate. I think, very incremental. I think it's sort of a natural outcome of, if
+we went back in the United States to when the NFL was started and when football became really
+popular, football was a boy's sport, and immense advocationally men watched it. And I think if you
+roll forward to today, it's in the U.S. it's everybody's sport. There's a maybe bunch of them and
+there are women playing now, that's a very big fiscal support for women playing now.
+Even more true in gaming. And so I think the natural evolution of what's happening in gaming is,
+it's becoming, regardless of your identity, it's becoming more and more popular. And probably, I
+don't know exactly, but I'll bet the fast-growing segment of it is the casual, I know it is for us, the
+casual gamer, the person really comes in to connect with other people, not just to go in and try to
+beat somebody else. And we're super-excited about that. And I think that is incremental. I
+wouldn't say that's something that surprises us, we expect that to happen, but it's nice to see it
+happening as we launch products in to, they're taking off, which means we're really in the right
+place.
+Q - `Ananda Baruah, Loop Capital `
+And when you guys, when you going back to March back when you guys say social, I think it was
+social platform gaming or something. I might be getting the language wrong, but it's something
+like that. What's specific when you use that language, social platform gaming, like what
+specifically -- what specifically you are doing, what's specific, sort of that gaming applications, are
+you guys describing when you use that language?
+A - `Bracken P. Darrell, President and Chief Executive Officer & `
+Well, we really say social gamers and so there's a lot of platforms, they're playing out a lot of
+different games, they're playing on, and even things like Roblox I mean, I'm just giving an
+example which isn't exactly gaming, just this weekend, we had the first that -- this shows you how
+far away from gaming you can get the, the four gamers, we just had the first, we just created the
+first big awards event in the Metaverse, which was attended by over 6 million people so far.
+And it's a -- that just didn't exist before and that's all occurring with performances live by Lisa,
+those of who know, different performers live in a video format in a cartoon-based format. So it's
+kind of remarkable to see how far we've come and you can only imagine how far this is going to
+go. So that's social experience which is happening in game. There are people really chatting, and
+talking, and going there to meet and playing games, and the games are completely secondary to
+the social experience, that's really we're referring too.
+Q - `Ananda Baruah, Loop Capital `A - `Nathan Olmstead, Chief Financial Officer
+Thanks, Ananda.
+A - `Bracken P. Darrell, President and Chief Executive Officer & `
+Thank you, Ananda.
+Q - `Ananda Baruah, Loop Capital `
+Thanks, guys.
+A - `Nate Melihercik, Head of Global Investor Relations `
+Thanks, Ananda. Next up Joern from UBS. Joern, good to see you.
+A - `Bracken P. Darrell, President and Chief Executive Officer & `
+Hey, Joern.
+Q - `Joern Iffert, UBS `
+Hey. Hi, Bracken and hi Nate. Hi, Nate. Good to see you and thanks for taking my questions. And
+the first, I will be pleased on video conferencing. The year was little bit falling short of your high
+expectations, the recovered impact. Now you also said, maybe since the year 2023, we could be
+below the 5% to 15% despite the pent-up demand and COVID restriction seems to ease. And
+also, business lives are like becoming more expensive in Europe and Asia. The environment is
+becoming much better. So, why should we then grow in 3,4 years? Why should you confronting
+this revenue line? And it's not really growing on volumes maybe in fiscal year 2022 and 2023?
+And the second question, if you allow me. In gaming, can you give us an update on the gaming
+mice and keyboard in the U.S. how this has developed in the last three, four, five months versus
+Europe? Thanks very much.
+A - `Bracken P. Darrell, President and Chief Executive Officer & `
+Yeah, let me take the first one. Nate I'll see if you can take the second one. If not, I'll come back.
+A - `Nathan Olmstead, Chief Financial Officer
+Okay.
+A - `Bracken P. Darrell, President and Chief Executive Officer & `
+On the VC side, we said, yeah it could be below, it could be above, so I don't think we meant to
+suggest that we're suddenly pessimistic about VC at all. I feel really bad. I'm sorry if I misled you
+in my introductory remarks and then answering one of the questions. I think it's things thought
+out, I do expect to see lots of video going into offices and things around the world. I think we're
+more clear-eyed about what's happening to webcams. I think webcams are pretty stable, but
+they're not going to -- we aren't predicting a big growth, but that's a relatively, relatively smaller
+part of our overall VC business. But conference cam market looks strong.
+A - `Nathan Olmstead, Chief Financial Officer
+Yeah. Thanks for clarifying that Bracken. I didn't mean to imply that either during I mean certainly.Q - `Joern Iffert, UBS `
+Okay. Yeah, thanks.
+A - `Nathan Olmstead, Chief Financial Officer
+It's always possible to be outside that range, but I think the distribution probably mostly fits within
+the range of the game.
+A - `Bracken P. Darrell, President and Chief Executive Officer & `
+Yeah, and on the other questions on gaming mice in the U.S. do you have those numbers off the
+top of your head, Nate?
+A - `Nathan Olmstead, Chief Financial Officer
+Was it gaming mice? Or was it office mice?
+A - `Bracken P. Darrell, President and Chief Executive Officer & `
+Gaming mice, yeah.
+Q - `Joern Iffert, UBS `
+Gaming mice and keyboards, yeah.
+A - `Nathan Olmstead, Chief Financial Officer
+Yes, and you're (Multiple Speakers).
+Q - `Joern Iffert, UBS `
+We can also follow-up later.
+A - `Nathan Olmstead, Chief Financial Officer
+Maybe it's easier, yeah, if we just follow up, I mean I have the data here. I don't really -- nothing
+jumps out at me, but we should say like I'd say the trend is still kind of stronger on the wireless
+side obviously than wired. I mean that's -- and that's kind of we're particularly strong is on
+wireless. So, I think that's our benefit from a share standpoint, but in terms of market trends, I
+mean, both EMEA and Americas have seen pullbacks in gaming over the last several months,
+that's we talked about that previously, Asia frankly remains very strong. But also consider the
+comps that we're talking about as well, and I think the 17% growth this year, and even growing this
+quarter against the year that was up 108% a year ago, I think, is great and our share performance
+has been really strong with some discipline promo.
+Q - `Joern Iffert, UBS `
+Thanks. And if you allow me one last question on the pricing. Just across many industries, average
+price increases we are observing right now are between 3% to 6%, some are even higher. If I try
+to make the math on your increased costs, maybe it's 200 basis points to 300 basis points of
+your total sales, this is roughly, if you fully pass it on that you should think about your price
+increase has a magnitude of an average of 3 percentage points to 4 percentage points in fiscal
+year 2023, is this a fair starting point?A - `Nathan Olmstead, Chief Financial Officer
+Your question is, is our average price increased 3% to 4%?
+Q - `Joern Iffert, UBS `
+Yeah, for fiscal 2023, is it fair to assume?
+A - `Nathan Olmstead, Chief Financial Officer
+I don't actually, I mean I don't really think about it that way Joern because it's really category-
+specific as Bracken said, we don't have sort of one number that we would apply everywhere. It's
+really different by category. So, I'm sorry. I don't think I can really confirm your estimate.
+Q - `Joern Iffert, UBS `
+Sure.
+A - `Bracken P. Darrell, President and Chief Executive Officer & `
+What we don't is, a lot of businesses and companies do this, we don't apply one price increase
+right across the board. We're very, very specific. We go, for example, we'll go 10% plus in some
+places and we'll go to straight flat in others. We tend to be pretty -- we try to stay very
+aggressive on the low end because that tends to be the most price-sensitive and then we'll go
+through more aggressively price in the high-end.
+Q - `Joern Iffert, UBS `
+All right. Thanks a lot.
+A - `Bracken P. Darrell, President and Chief Executive Officer & `
+Thank you. Thanks, Joern.
+A - `Nate Melihercik, Head of Global Investor Relations `
+Thanks, Joern. Next up, `Rob Sanders, Deutsche Bank, Deutsche Bank. Hey, Rob.
+A - `Nathan Olmstead, Chief Financial Officer
+Hey, Rob.
+A - `Bracken P. Darrell, President and Chief Executive Officer & `
+Hey, Rob.
+Q - `Rob Sanders, Deutsche Bank `
+Hey guys. My first question is on China. I just wanted to understand your factory in Suzhou, if
+you've had any disruption, how would that affect you if there was an extended lockdown? Given
+that I'd lost I remember, it was something like 50% of your manufacturing out of that facility. So.
+And then, I have a follow-up. Thanks.
+A - `Bracken P. Darrell, President and Chief Executive Officer & `Well, I'll jump in on that, Nate. So first of all, we have had disruptions from time to time, in fact
+very early days of COVID, I think the factory is closed for two weeks. So we obviously can't
+recover from those and it happens, if it happens again, we'll recover from it. It'll be a timing
+problem more than anything else. We may lose some sales, but not too significant.
+So far we've not had a big issue there. We've had some component shortages, of components
+that came out of the Shanghai area. But, in terms of factory itself, it's done very, very well. We've
+got a fantastic factory team. We also have a very, very strong ability to move things in and out of
+our factory, which is not quite as dynamic, as within a two-week period. But what I would say,
+extraordinarily good. And so, it gives me a lot of confidence if we went into something that was
+more protracted. We'd find a way to manage through it with best possible outcome.
+So, I feel pretty bullish about where we are from a manufacturing standpoint. Your numbers are
+about right, between 40% to 50% of our products are made in our own factory.
+A - `Nathan Olmstead, Chief Financial Officer
+You know, I might just add a little bit of that Rob. I think it's always an -- it's a lot of little things. I
+mentioned in my prepared remarks, the increase in automation that we've done in our own
+factory. So, that's certainly not going to protect us completely, but it does reduce our exposure a
+little bit to labor. So, to the extent that labor gets disrupted in a situation like this, I think that we
+could find ourselves competitively advantaged versus someone who hasn't made that
+investment in automation.
+So, it's kind of the reason why I wanted to call that out is, it gives you a little bit of protection.
+Depending on the severity of the lockdowns, the length of the lockdowns, there's different
+impacts that we would have. It's really around prioritizing too. We have a broad portfolio, and so,
+if we get into a situation where we have to make some choices, we'll make some choices, we'll
+prioritize certain products, maybe even certain countries with supply. We're not having to do that
+right now, but if we get to that point, we have some experience doing that.
+Q - `Rob Sanders, Deutsche Bank `
+Okay. And just from my follow-up, a lot of the investor base seems to have sell-through data
+from GFK and ED, I just wondered if you could just give an indication how April is looking by region
+just so that we understand what's the starting point? Because I'm still not really clear whether
+you're assuming that the first half would be down, and the second half would be up or something
+like that, just to understand how you're thinking about the linearity of the year.0
+A - `Nathan Olmstead, Chief Financial Officer
+I would say, yeah, stepping back a little bit, we often talk about typical seasonality in our business.
+And I've been saying for a while, if a seasonality kind of got thrown out the window, and that's
+kind of been true for all of the fiscal year 2021 really starting in our fiscal Q4 2020 when COVID
+began, the COVID period began. The last couple of quarters have been more typical. Our Q3
+was up 25% and our Q4 was down 25% sequentially, which is more in line with typical seasonality.
+So, it could be an indicator that enough things are settling down, it's still a little bouncy by
+category, right, not as predictable, but for diversified portfolio like ours, we're starting to see
+some of that seasonality reappear. So, there's lots of ways. Again, it's a full year ahead. But I think
+thinking about our business kind of probably returning to more typical seasonality is a good way
+to think about modeling it today. And then we'll see how things evolve.One adjustment to that certainly that we all need to make is just that there's no sales in Russia
+and Ukraine right now, and I mentioned that earlier. So, there'll be some adjustment in Q1 to that
+seasonality as a result of that. But then, my assumption right now is based on current trends, the
+back half of the year kind of looks fairly typical with what we saw pre-COVID.
+Q - `Rob Sanders, Deutsche Bank `
+Thanks a lot.
+A - `Bracken P. Darrell, President and Chief Executive Officer & `
+Thank you.
+A - `Nate Melihercik, Head of Global Investor Relations `
+Thanks, Rob. All right. I think we've got time for one more question. `Adam Angelov, Bank of America, Bank of
+America.
+Q - `Adam Angelov, Bank of America `
+Yeah, thanks guys. Well, quick one from me. So I wanted to double-check on your category
+assumptions for the year, you sort of touched on already, but just want to see if there's been any
+changes there. And then, secondly, if you could just update us on the channel inventory situation
+of your products?
+A - `Nathan Olmstead, Chief Financial Officer
+Yeah. I would probably say no real update on the categories. All of them have some sales in
+Russia. So, you might think about them all being equally impacted by that from a direct sales
+standpoint. And then, channel inventory is, I would say, like I mentioned back at AID, I think, they're
+in a good healthy shape. We're always a little bit short on something and a little bit long in
+something, and I think that's kind of the way I would describe it now.
+Areas of probably the most tightness are still on C&P, some of the mice and keyboards. We've
+got some component things that we're still trying to chase and clean-up, and the demand has
+been pretty healthy there. But we're working through those things. I'd say the channels are at
+typical levels.
+Q - `Adam Angelov, Bank of America `
+Right. Thank you.
+A - `Nate Melihercik, Head of Global Investor Relations `
+Thanks, Adam. I think we're at the bottom of the hour. Bracken, Nate, appreciate the update.
+Bracken, any final thoughts as we wrap here?
+A - `Bracken P. Darrell, President and Chief Executive Officer & `
+No, thank you so much. Thanks for everyone's questions, the engagement has been terrific, I
+know you do this for a living, but it's really stimulating for us. I always say that, I've said this to Nate
+many times, I always learn when I go out on the road and meet with investors or with you, and I
+always learn something about -- either about how people think about our business or what's
+going on in the world.So, anyway, thank you all for all support during the year. It was a terrific year. And we're really
+excited about the next year and the years after that. So, look forward to a lot more interesting
+and exciting calls, a lot more learning. Thanks a lot.
+A - `Nathan Olmstead, Chief Financial Officer
+Thank you.
+A - `Nate Melihercik, Head of Global Investor Relations `
+Thanks, guys.
+A - `Bracken P. Darrell, President and Chief Executive Officer & `
+See you there.

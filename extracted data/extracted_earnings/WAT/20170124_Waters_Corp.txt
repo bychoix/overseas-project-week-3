@@ -1,0 +1,752 @@
+Q4 2016 Earnings Call
+
+Presentation
+Operator
+Good morning. Welcome to the Waters Corporation Fourth Quarter 2016 and Full-Year Financial
+Results Conference Call. All participants will be able to listen only until the question-and-answer
+session of the conference. This conference is being recorded. If anyone has objections, please
+disconnect at this time.
+It is now my pleasure to turn the call over to Mr. `John Lynch, Vice President of Investor Relations, Vice President of Investor Relations.
+Sir, you may begin.
+`John Lynch, Vice President of Investor Relations `
+Thank you, operator, and good morning, everyone, and welcome to the Waters Corporation
+fourth quarter earnings conference call. Before we begin, I will cover the cautionary language.
+During the course of this conference call, we will make various forward-looking statements
+regarding future events or future financial performance of the company. In particular, we will
+provide guidance regarding possible future income statement results of the company for the first
+quarter and full-year 2017. We caution you that all such statements are only predictions, and that
+actual events or results may differ materially.
+For a detailed discussion of some of the risks and contingencies that could cause our actual
+performance to differ significantly from our present expectations, see our 10-K Annual Report for
+the fiscal year ended December 31, 2015, in part one under the caption Risk Factors, and the
+cautionary language included in this morning's press release and 8-K.
+We further caution you that the company does not obligate or commit itself by providing this
+guidance to update predictions. We do not plan to update predictions regarding possible futureincome statement results, except during our regularly scheduled quarterly earnings release
+conference calls and webcasts. The next earnings release call and webcast is currently planned
+for April 2017.
+During today's call, we will be referring to certain non-GAAP financial measures. A reconciliation of
+the non-GAAP financial measures to the most directly comparable GAAP measures is attached to
+the company's earnings release issued this morning. In our discussion of the results of
+operations, we may refer to pro forma results which exclude the impact of such items -- of items
+such as those outlined in our schedule entitled quarterly reconciliation of GAAP to adjusted non-
+GAAP Financials included in this morning's press release.
+Unless we say otherwise, references to quarterly results increasing or decreasing are in
+comparison to the fourth quarter of fiscal year 2015. In addition, unless we say otherwise, all year-
+over-year revenue growth rates, including revenue growth ranges given on today's call, are given
+on a comparable constant-currency basis.
+Now I would like to turn the call over to Waters' Chief Executive Officer, Chris O'Connell. Chris?
+`Christopher O'Connell, Chief Executive Officer
+Great. Thanks, John, and good morning, everyone. Thanks for joining us today. Along with John
+Lynch, joining me on this morning's call are `Sherry Buck, Chief Financial Officer, Waters newly appointed Chief Financial
+Officer; and Gene Cassis, Waters outgoing CFO, who is transitioning into a new Corporate
+Advisory role.
+During today's call, I will provide an overview of our operating results for Q4 and 2016, and will
+add some broader commentary on the business. Gene will then review financial details for our
+reported results and Sherry will then provide our 2017 financial outlook before the Q&A period.
+I'm pleased to report that we finished 2016 with strong broad-based sales growth across our
+major market categories and the product lines. The quarter capped off a 2016 fiscal year that
+featured robust organic revenue growth, operating leverage and double-digit earnings per share
+growth.
+In the fourth quarter, revenues grew 9% and adjusted earnings per share increased by 13% as
+reported. For the full year 2016, sales grew 7% and adjusted earnings per share increased by 12%
+as reported. These full year results were especially encouraging as they followed strong growth
+and financial performance in 2015.
+Taking a closer look and starting with a review of our market categories at the corporate level;
+sales to our broadly defined pharmaceutical category grew 6% in the quarter and grew 10% for
+the full year. The strength in pharma demand over the course of the year was driven by macro
+trends of rising global regulatory standards, increasing global patient access to prescription drugs
+and the growing testing needs of newer biologic drugs that feature ever increasing complexity
+and molecular structure.
+Sales to our worldwide industrial category, which includes the material characterization, food,
+environmental and fine chemical markets across all product lines were robust in the fourth quarter
+growing 14%. This category continues to be led by demand for food quality and safety testing
+and was also aided by demand for fine chemical applications that rebounded from levels seen
+earlier in the year. For the full year, the industrial category grew 6%.
+Looking at our governmental and academic category, we saw general rebound in the quarter withEurope, where we saw a notable increase in installations of new research-grade mass
+spectrometry instruments, as well as strong performance from governmental agencies in Asia
+Pacific.
+Like Europe, the US was strong in Q4, but negative for the year, which contributed to a full-year
+decline in our overall government and academic category by 3%. As we have consistently
+conveyed, this category is small and somewhat lumpy quarter-to-quarter for Waters, so we tend
+to focus on rolling trends versus any particularly quarter result.
+Now I'd like to review product line dynamics, which I will cover by our Waters and TA branded
+lines. Waters instrument sales grew 12% in the fourth quarter with LC and LCMS platforms
+performing about equally as well accompanied by continued strong performance for laboratory
+informatics offerings. Looking at the full year Waters branded instrument platform sales were up
+7%, a rate that reflects our strong product positions and the excellence of our field operations in
+a very competitive marketplace.
+On the LC front, ACQUITY Arc and workhorse alliance-based systems for regulated testing drove
+overall healthy system growth. For LCMS applications, benchtop systems had incorporated our
+ACQUITY QDa and the Xevo family of tandem quadrupole mass spectrometers grew
+impressively. With thousands of installations now, the ACQUITY QDa mass detector continues to
+expand the adoption of mass spectrometry molecular characterization to the larger liquid
+chromatography market end-user base.
+Waters recurring revenue the combination of servicing chemistry consumables grew 9% in the
+quarter. This rate includes the positive effect of two additional selling days in comparison to the
+prior year's quarter. For the full year, Waters recurring revenues grew 8%, marking the third
+straight year of high single-digit growth. This consistent performance is indicative of strong
+instrument utilization, growth in service plans for regulated workflows and leading technology
+positions for advanced consumables.
+Our differentiation in consumables continues to grow with innovations in LC columns such as
+CORTECS and application specific testing kits such as GlycoWorks and ProteinWorks. Additionally,
+sales of ACQUITY UPLC columns continue to demonstrate the increasing uptake of UPLC
+technology and more challenging biopharma workflows.
+Turning to our TA product lines, revenues were down 2% in the fourth quarter. Sequentially we
+saw a nice pickup of orders and shipments in comparison to the third quarter result and the
+fourth quarter's modest decline was more a reflection of the mid-teens growth that we delivered
+in the prior year's fourth quarter. From a product perspective, we saw increasing customer
+acceptance of our newly introduced discovery line of thermal analysis.
+In the quarter, we began shipping our discovery Thermogravimetric Analyzer or TGA, an
+instrument that is often purchased alongside differential scanning calorimeters or DSCs.
+Customer feedback on the new discovery line continues to be favorable and our installations
+have gone very well. For the full year sales of TA products and services increased 2%. This growth
+is slower than the businesses long-term trend and reflected moderate weakening in demand
+from industrial end markets against a prior year strong performance. We now enter 2017 with a
+strong product position, a growing business pipeline and some early indications of a cyclical
+recovery in industrial demand.
+Finally, I will review performance by geography at the corporate level. Asia-Pacific continued to
+pace our global growth for the fourth quarter, while Europe was also a region of strength and theand this performance continued throughout 2016 with growth in the high-teens range in the
+quarter and mid-teens range for the year. The strength in our business in Asia was highlighted in
+2016 by strong double-digit sales growth in China, as well as consistent double-digit growth
+performance in India.
+Within China, we saw growth across all of our market and product lines with particularly strong
+demand from pharmaceutical customers. Looking specifically at this category, growth drivers
+included new regulatory requirements by China's Food and Drug Administration, which focus on
+increasing analytical rigor across key workflows to ensure consistency of results and integrity of
+archived data. Our industry-leading empower chromatography data systems has us well-
+positioned to meet these rising regulatory needs.
+In Japan, sales increased 6% in the quarter and 4% for the year. Growth over the course of the
+year was somewhat balanced between the pharmaceutical and industrial categories. Revenues in
+the Americas grew by 2% in the quarter with strong growth in specialty pharma, chemical
+materials and government and academic markets offset by weaker growth from newer clinical
+diagnostic installations and applied industrial markets.
+For the year, Americas sales increased by 3% with balanced contributions from the
+pharmaceutical and industrial categories offset by modest declines in governmental and
+academic business. Europe as a region was a strong contributor to the fourth quarter growing 9%
+behind strong trends in pharmaceutical applications for both LC and MS instruments, as well as
+service plans. Offsetting stronger growth in Western Europe was weaker demand in Eastern
+Europe and the Middle East. For the year, Europe grew 6%, impressive when considering the
+backdrop of economic uncertainty in a number of countries.
+Stepping back and looking at the corporation broadly, 2016 was a year of great performance and
+also great progress. It all starts with our 7,000 employees worldwide, for it is our people, culture
+and values that make the Waters difference. I want to congratulate our entire organization for job
+well done. The team worked tirelessly and executed all year long. While we delivered strong
+financial performance in 2016, we also transitioned to our new leadership structure, advanced our
+innovation capability through development of our rigorous portfolio management process and
+created a strategic framework to guide our continuing growth and performance for the long
+term. It was a busy and rewarding year and I feel very grateful to be part of such a fine company
+and team of people.
+In a few minutes, you'll have the chance to hear from `Sherry Buck, Chief Financial Officer, our new CFO, she outlines our
+financial outlook for 2017. Though Sherry has been with Waters for only a few weeks, she has
+already immersed herself in the business, participated actively in financial planning activities and
+contributed strongly in our new position. We are very excited to have Sherry and welcome her
+warmly as our CFO. Her background skills and character are the perfect fit for Waters at the right
+time as we navigate the changing landscape of corporate finance and chart our next phase of
+shareholder value creation.
+Also I want to salute Gene Cassis, as he support Sherry's onboarding and transitions to his new
+Corporate Advisory position focused on technology and strategy. You will continue to see Gene,
+but I want to thank him at this time for a truly impactful and memorable three years as our CFO. I
+know everyone in the investment community will miss interacting with Gene on a daily basis, but
+rest assured his positive impact on Waters will only continue.
+Finally, I want to comment on our upcoming Investor Day scheduled for Thursday, March 2nd in
+New York City. Our goal as the Waters management team for this meeting is to provide investorswith a fresh look at our markets, products and growth strategies. While much of what you will
+hear will feel familiar and consistent with our development to date as a company. Our aim is to
+provide fresh new insights on our evolving global markets, our unique competitive position and
+our strategies for growth and value creation. Perhaps more importantly you will have the
+opportunity to hear from our experienced and talented executive management team. I know you
+will enjoy meeting them and I'm confident that their remarks will add new texture to Waters as a
+compelling investment opportunity.
+Now I'd like to pass the call over to Gene for a deeper review of the 2016 financials. Gene?
+`Eugene G. Cassis, Outgoing Chief Financial Officer `
+Well, thank you, Chris and good morning. In the fourth quarter, our revenues came in at $629
+million, an increase of about 9% before currency translation. Currency translation reduced sales
+growth in the quarter by about 2%, resulting in 7% reported sales growth. Our non-GAAP earnings
+per diluted share in the fourth quarter were up 13% to $2.21 in comparison to earnings of $1.96 last
+year. On a GAAP basis, our earnings were $2.15 versus $1.83 last year.
+For the full-year 2016 sales grew about 7% before currency effects, while currency translation
+reduced sales growth by 1%. Our non-GAAP earnings per fully diluted share were up 12% to $6.62
+per share versus $5.89 last year. In all, the impact of foreign exchange benefited full-year
+earnings by about $0.70 [ph] versus the prior year. On a GAAP basis, full year earnings per share
+were $6.41 versus $5.65 in 2015. A reconciliation of our GAAP to non-GAAP earnings is attached
+to our press release issued this morning.
+Looking at the fourth quarter, our growth was balanced with all of our major customer defined
+markets contributing nicely. Our pharmaceutical end markets grew 6%, industrial markets grew
+14% and sales to global, academic and governmental customers grew 6%. Product line growth
+was also balanced with total instrument sales growing at 9% and recurring revenues up 8%.
+Breaking that down further, our Waters products and services sales were up 10%, while TA is
+declined by 2%. Breaking that down even more, LC and LCMS platform instrument sales
+increased by 12% and TA's instrumentation systems sales declined by 4%.
+Our total recurring revenues associated with both Waters and TA products grew by 8% with TA
+service revenue up 3% in the quarter. Looking at the full-year, instrument and recurring revenues
+sales for the corporation grew 6% and 8% respectively.
+Now looking at our growth rates in the fourth quarter geographically and before currency
+translation; US sales were down 1%, European sales were up 9%, sales in Japan up 6%, and sales
+in Asia outside of Japan were up 18%. As for TA, global product and service sales were down 2%
+overall with growth in Europe offset generally by declines elsewhere. Looking at the full year,
+Asia-Pacific showed strong and consistent growth throughout the year and grew at 12%. Europe
+was also solid growing 6% and the Americas grew 3%. This over a strong prior year performance.
+Now I'd like to comment on our fourth quarter's non-GAAP financial performance versus the prior
+year. Gross margins for the quarter came in at 60% compared to 59.4% in the prior year's
+quarter. For the full-year in 2016 gross margins were 58.9% versus 58.7% in the prior year. In the
+fourth quarter, foreign exchange impacted gross margin's percent positively by about 60 basis
+points and for the full year the impact was neutral.
+Now moving down the P&L; in the fourth quarter, operating expenses were up 9% on a constant
+currency basis and 5% on a non-GAAP reported basis. In the quarter, higher variable expenses
+associated with higher volume and performance incentives contributed to spending growth. Forthe full year, operating expenses were up 5% on a constant currency basis and 3% on a non-
+GAAP reported basis.
+On the tax front, our effective operating tax rate for the quarter was 14.3%, and for the full-year
+14.1%. This versus 13.8% in 2015. In the quarter, net interest expense was $6 million and our
+average share count came in at 81 million shares or approximately 1.4 million shares lower than in
+the fourth quarter of last year. This being a net effect of our ongoing share repurchase program.
+Now turning to the balance sheet, cash and short-term incentives totaled $2.8 billion and debt
+totaled 1.8 billion, bringing us to a net cash position of $986 million. As for fourth quarter share
+repurchases, we bought 595,000 shares of our common stock for $82 million, this leaves 123
+million on our authorized share repurchase program.
+We define free cash flow as cash from operations, less capital expenditure, plus non-cash tax
+benefits from stock-based compensation accounting and excluding non-recurring items that are
+unusual. In the fourth quarter of 2016, free cash flow came in at $151 million after funding $21
+million of capital. Excluded from this amount is approximately $2 million of investments associated
+with facility expansion. This brings our full-year 2016 free cash flow to $555 million or
+approximately $0.25 of cash flow for each $1 of sales.
+Accounts receivable days outstanding stood at 71 days in the quarter, which is equal to that in the
+fourth quarter of last year and sequentially down five days from the third quarter. In the quarter,
+inventories declined by $40 million in comparison to the prior quarter. This is in line with our typical
+seasonal patterns.
+At this time, I'd like to hand the call over to `Sherry Buck, Chief Financial Officer, Waters CFO for further comments on our
+future outlook. Sherry?
+`Sherry Buck, Chief Financial Officer `
+Thank you, Gene, and good morning, everyone. I'm very happy to be a part of the Waters team,
+and I'm looking forward to connecting with many of you during our engagements with investment
+community in the coming months.
+Looking ahead to 2017, our outlook generally assumes continued stable demand from our
+pharmaceutical and markets, consistent growth in our recurring revenue and balanced growth
+rates from our other end markets. These dynamics lead up to a mid-single digit constant currency
+sales increase in 2017.
+At current rates, currency translation is assumed to reduce 2017 sales growth by about 2% to 3%.
+Gross margins for the year are expected to be consistent with the prior year in the range of
+58.5% to 59% as volume-related manufacturing efficiency gains are expected to be offset by
+negative effects from foreign currency translation. Our plan is to continue to manage operating
+expense growth at a rate that is less than our sales growth rate.
+Moving below the operating income line, net interest expense is expected to be approximately
+$26 million. Our current operating tax rate is estimated to be approximately 14%, similar to our
+2016 rate.
+Our 2017 guidance regarding capital allocation assumes continuation of our share repurchase
+program through 2017 at a rate that will result in an average diluted 2017 share count of about 80
+million shares outstanding. Rolling all this together and on a non-GAAP basis, full-year 2017
+earnings per fully diluted share are projected to be within a range of $6.85 to $7.10. At currentLooking at the first quarter of 2017, sales growth is expected to be in the range of 3% to 5%. At
+today's rates, currency translation is expected to reduce first quarter sales growth by about 2%.
+This sales growth rate includes the effect of two fewer selling days in the quarter that we assume
+will reduce sales growth by approximately 1%. These top line factors combined with moderate
+increases in expenses result in an estimated first quarter earnings per diluted share in the range
+of $1.26 to $1.36.
+Now I'd like to turn the call back to Chris. Chris?
+`Christopher O'Connell, Chief Executive Officer
+Great. Thank you, Gene, and thank you, Sherry. As we turn to 2017, we will continue to emphasize
+execution in our core business and believe the trends in our key business drivers suggest a
+continuation of solid operating performance. As always when entering a new fiscal year, we will
+strive for balance in our results and seek to cover unexpected changes in our assumptions with
+the breadth of our growth opportunities. Additionally, as we have stated consistently, we will seek
+to balance growth, operating leverage and investment in the business.
+With that, we'll now open the phone lines for Q&A. We are rarely able to get to everyone's
+questions, so please limit yourself to one question and one follow-up. And if you have additional
+questions, please contact our Investor Relations team after the call. Jay, first question please.
+Questions And Answers
+Operator
+Thank you. We will now begin the question-and-answer session. (Operator Instructions) Our first
+question comes from `Tycho Peterson, Analyst, JP Morgan of JP Morgan. Sir, your line is open.
+Q - `Tycho Peterson, Analyst, JP Morgan `
+Hey, thank you. Chris, want to maybe ask on pharma dynamics. It looked like you had a little bit of
+a slowdown there when you take into consideration the extra selling days and easier comps. Can
+you maybe talk about what you saw in the channel at the year-end? Was there any kind of budget
+flush dynamics that you could call out? And then what's embedded in guidance for both pharma
+growth and then separately for biotech for '17?
+A - `Christopher O'Connell, Chief Executive Officer
+Sure. Thanks, Tycho. Yeah, the pharma quarter, as we talked about, was up 6% on a year of 10%
+[ph]. So I think the fact that we saw fairly balanced demand at the end of the year is evidence,
+maybe to answer your question on budget flush that we did not see any significant budget flush,
+in fact, we saw the strength in our business generally across the quarter and most of the growth
+in the quarter came from the smaller and specialty accounts as we've consistently talked about
+that we do have a broadening base of pharma demand that's not as reliant on the large pharma
+companies that have historically been a question of budget flush. And so really you can see from
+the result in the fourth quarter growing more modestly than the year that we did not necessarily
+experience that type of flush.
+And I would also point though to the prior year where we had a strong pharma year as well in '15,
+we saw the same pattern of moderating growth towards the end of the year. And so when I look
+at the pharma performance for the company, I really look at the total year result, which was that
+double-digit result.In terms of guidance and what we're assuming for '17, to answer the last part of your question, I
+think we do what we always do is to be a little more moderate in our outlook and look at more
+historical trend lines when forecasting a line of business such as pharma. And as I pointed out in
+my prepared remarks, we seek to achieve more balance across our portfolio at least from a
+planning standpoint. It doesn't mean we're not going to be going for upside like we've been able
+to achieve, but I think we've taken a very pragmatic outlook in terms of our guidance that we've
+given.
+Q - `Tycho Peterson, Analyst, JP Morgan `
+Okay. And then just if I could ask one follow-up. What's in guidance for China and India? These
+have been big sources of strength for you guys over the past year. Can you just kind of clarify
+what you are expecting there?
+A - `Christopher O'Connell, Chief Executive Officer
+Yeah, certainly China and India, as we pointed out, had another strong year, and it's a strong year
+on top of the strong year. Those performance trends reflect the underlying positive conditions in
+those markets for sure, but also the strength and consistency of our approach executionally in
+those markets. But, again, like the pharma story, when we look at guidance for the year, we do
+look to moderate our expectations to set a bar that we can achieve and don't necessarily assume
+that everything goes right, I mean every geography. And so really when you look at what we're
+assuming for '17, it's a moderation of the performance we've seen from '16 and '15, but again,
+that's a baseline and we'll attempt to improve upon that over the course of the year.
+Q - `Tycho Peterson, Analyst, JP Morgan `
+Okay. Thanks.
+Operator
+Next question is from Dan Arias of Citigroup. Your line is open.
+Q - `Daniel Arias, Analyst, Citigroup `
+Hi, good morning. Thank you. Chris, just to sort of drive home the point on Tycho's question
+there, should we take your comments to mean that the mid-single digit assumption overall is kind
+of in line with what you are thinking for biopharma? I'm sorry to ask the same question twice, but
+just given the magnitude of decline, I am just trying to get a number for the assumption on
+biopharma.
+A - `Christopher O'Connell, Chief Executive Officer
+Sure. I think mid-single digit overall guidance for our company is very consistent with the type of
+guidance that we've given heading into prior years, again looking at an overall balanced portfolio,
+not assuming everything goes perfectly and wanting the ability to cover changes and
+assumptions over time. I would say that the historic rate of the pharma market for us has been a
+little bit better than mid-single digits more in line with the company's long-term trend line growth
+rate of around 6%. And I think it's responsible to begin the year with that more moderate type of
+an outlook. But really underlying that is a set of market dynamics that we think are sustaining.
+We've talked about these in the past and certainly conditions we saw in the fourth quarter
+continued to reinforce to us that those core drivers are intact, drivers such as the rapid rise of
+prescription drugs in the world really fueled by generics, factors such as the increasing researchand now commercial activity of large molecule drugs that carry with them more significant
+characterization requirements due to the complexity of those molecules. And just a general rise
+in standardization of regulation around the world and that's particularly fueling our business in the
+emerging markets like China and India. So, really a lot of those drivers are very much intact and
+again we make -- we try to make prudent assumptions when we head into a new fiscal year.
+Q - `Daniel Arias, Analyst, Citigroup `
+Okay. Thanks. That's helpful. And then maybe within industrial, can you just put some color to the
+comment on the early signs of potential cyclical recovery? And then maybe if we just look at the
+four sub-segments that you typically tease out, would you kind of mind just sort of listing them in
+order of strength? It sounds like food is at the top. I would love to just get a relative sense for
+your expectation around materials, chemical, environmental as you look at '17. Thanks.
+A - `Christopher O'Connell, Chief Executive Officer
+Sure. Yeah, I think our comments on the industrial sector reflect our own experience particularly as
+we close the year, but also just the broader backdrop of what we're seeing in the economy. I
+mean, certainly we are seeing probably a little bit better tone in the market among some of our
+end customers in terms of capital spending. Now, obviously, we're -- we need that to be proven,
+in terms of orders as we get into the year, but it does seem like the broad tone is a little bit
+better.
+In terms of the quarter, obviously, we had a good industrial quarter at 14% growth and actually 6%
+for the year. So when you really step back and look at industrial for the company, there were
+definitely puts and takes, but pretty solid performance for the year. At the top of the
+leaderboard, if you will, for the industrial businesses indeed, the food and environmental, those
+applied markets, which are really a reflection of rising testing standards in the food safety
+industry and the continued adoption of LCMS technology.
+We have a particularly strong product position right now in that area with our tandem quadrupole
+mass spectrometer offerings and that's really a combination of the TQ-S micro, which has been in
+the market for several years, as you know and the newly launched in 2016 product the TQ-XS,
+which is our new high-end tandem quadrupole mass spectrometer. So we have a good product
+position. We have a favorable trends in those market segments that are really leading our
+industrial category.
+The chemical, the fine chemicals market, the chemical materials market was softer during the
+year, but did have a rebound towards the end of the year and really normalized I'd say in the
+fourth quarter for an overall year look and so that would be really the next on the list and perhaps
+hopefully signals some stability in the coming year.
+The TA instruments business as we pointed out had a softer year, obviously, on a tougher comp,
+but reflecting really a broad year of relatively soft demand in the material science, polymer,
+metals market, but, again, we feel really good about the TA franchise overall from the standpoint
+of the product position that we enter 2017 with and so. If there is a pick-up in demand in those
+end markets, we stand to benefit as we head into '17.
+Q - `Daniel Arias, Analyst, Citigroup `
+Okay. Thanks very much.
+A - `Christopher O'Connell, Chief Executive OfficerThanks, Dan.
+Operator
+The next question is from Mr. `Dan Leonard, Analyst, Deutsche Bank of Deutsche Bank. Your line is open.
+Q - `Dan Leonard, Analyst, Deutsche Bank `
+Thank you. I guess I will start by following up on that last bit. Chris, can you comment on how TA
+performed versus plan in the fourth quarter and would the expectation on 2017 just be mid-single
+digit like the rest of the company and an assumption that markets improve?
+A - `Christopher O'Connell, Chief Executive Officer
+Yeah, TA was soft in the fourth quarter and they missed their plan and obviously we're not happy
+about that, but we also are putting the right context around that with which is -- they had a terrific
+quarter in the year prior, so their comp was tough. Their comp was 15% type growth in the fourth
+quarter of '15.
+As I pointed out in the prepared remarks, we did see a nice sequential improvement in their
+result in Q4 from three to four and we are encouraged by the work they're doing in their pipeline.
+And so in terms of the year, we expect TA to have, we certainly model them in and around the
+corporate average, which is primarily organic growth, but we will get a small benefit from a small
+acquisition we made in 2016 that we talked about in one of the prior calls. But like I said earlier,
+we were really keying off of the Discovery product line as our main lever to achieve better growth
+in 2017.
+Q - `Dan Leonard, Analyst, Deutsche Bank `
+Understood. And I know it is a smaller part of your business and you are not a great barometer,
+but can you discuss maybe what you are seeing in the academic market? It sounds like the US
+was still weak and maybe what the outlook is there for 2017?
+A - `Christopher O'Connell, Chief Executive Officer
+Sure. Yeah, the government and academic market as we talked quite a bit about last quarter is
+smaller and lumpier and we had a good quarter worldwide. It was strength in Europe and in Asia
+offsetting relative weakness in the US, but nothing off the radar. And for the year, the category
+overall was down in the low-single digits as I pointed out.
+Like we've stated before, we always have relatively modest expectations for the sector because
+it does tend to be lumpier and really more research-grade mass spec oriented. We do like our
+product position and to the extent there is an improved spending profile coming from those
+types of sources we stand to benefit. That market is generally driven by medical research where
+there is certainly a lot of interest in broad-based funding and really is an interesting proving
+ground for the latest and most exacting measurement technologies and so we like the market,
+it's a good market for us, but it is smaller and lumpier and we have relatively modest outlook
+because of that.
+Q - `Dan Leonard, Analyst, Deutsche Bank `
+Got it. Thank you.
+OperatorThe next question is from `Isaac Ro, Analyst, Goldman Sachs of Goldman Sachs. Your line is open.
+Q - `Isaac Ro, Analyst, Goldman Sachs `
+Good morning, guys. Thank you. Wanted to start with a question on just the strength in Europe
+and academic globally where it looked like your performance was better than most would've
+expected. I know you guys are at the beginning of the earnings cycle here for the Group, but I'm
+wondering if you have any views as to whether or not market share was part of the driver and I
+know it's hard to measure, but it just seems like you guys at the very least might have gained a
+little share, at least in those two areas?
+A - `Christopher O'Connell, Chief Executive Officer
+Yeah, Isaac, that's a good question, and I think I don't have a very good answer. Market share, as
+you point out is tough to ascertain, particularly the further you get out in the world and in different
+pockets. I would say that we had in Europe, particular success with our new Vion high-resolution
+QTof mass spectrometer in some of the key academic centers. It has attracted some interest
+with an increasing perspective, I would say, on ion mobility in workflow and solid execution by the
+team. That was true in Asia as well. So whether we picked up share, it's hard to say. Because of
+the lumpiness of those markets, I wouldn't want to draw conclusions based on very limited data,
+but we obviously like the performance and we're going to continue to attempt to play with hot
+hand as the year unfolds here.
+Q - `Isaac Ro, Analyst, Goldman Sachs `
+Great. And then just a follow-up on the -- maybe financial side with regards to margins. Sherry, if
+you could comment that would be great. I know you are new in the seat, but just curious if, in your
+initial overview of the business, anything really stands out in terms of areas where you could drive
+an improvement in margins? Waters obviously has been a very profitable company with great
+margins for a long time, but I think the assumption here is that there is still opportunity. So if there
+is either a category or a theme here that we should think about as you take the reins, I would be
+interested in where you think there is opportunity for improvement.
+A - `Sherry Buck, Chief Financial Officer `
+Sure. Yes. So as pointed out there's been a very strong history of our performance and really if
+you look at the margins we've achieved historically, I say it's really a factor of the kinds of
+businesses that we're in that generate those kinds of margin profiles. I'd say like all companies, I
+think we have opportunity to improve in our operations through various efficiencies and that will
+be one of the areas that I'll be focused on this year.
+Q - `Isaac Ro, Analyst, Goldman Sachs `
+Okay. Thank you.
+Operator
+The next question is from `Ross Muken, Analyst, Evercore ISI of Evercore ISI. Your line is open.
+Q - `Ross Muken, Analyst, Evercore ISI `
+Good morning, guys. Just curious on the capital equipment side. It seemed like obviously strength
+broadly, but how much lumpiness was there in some of the order patterns and obviously, you
+didn't see much flush in pharma, but I'm just trying to get a sense of, in the industrial and some ofthe other non-traditional businesses, how that cadence looked and then obviously it's tough to
+see any look into '17 as we are only in January, but as your sales has had conversations on capital
+equipment purchasing, is there any areas you would highlight for us to monitor where it could be
+improving or decelerating?
+A - `Christopher O'Connell, Chief Executive Officer
+Yeah, thanks for the question, Ross. The instrument category, generally the hardware category
+was pretty solid across the year. We had in total instruments 9% growth for the quarter and 6%
+growth for the year, which is really right in the zone of where we expect and hope to be then with
+the recurring lines giving some improvement to that. And what was nice to see particularly as we
+came to the end of the year was more balanced between LC and MS, we were a little softer in
+the beginning part of the year in the mass spec business. Pretty solid throughout the year in LC
+and really as we got towards the end of the year, it seemed like better balance and that's any
+time we see better balance, we're encouraged.
+In terms of lumpiness, I guess I'm still in the broad sense of the world getting to know the
+business and understand the different patterns and there are always a lot of puts and takes. And
+so I've tend to see the lumpiness factor within certain sub-categories like government and
+academic with more consistency in the bigger categories like pharma. And then really in that
+broadly defined industrial trade class, if you will, what I have been looking for is strength and
+consistency in the factors that tend to drive that category like the applied markets in food and
+environmental and that was really a good story in the year driven by both good product position
+as well as relatively healthy end markets.
+And I think the trends that are driving some of those end markets in the applied areas are ones
+that are sustainable just because of the general rise of regulatory standards and expectations for
+quality and safety in the world's food supply.
+Q - `Ross Muken, Analyst, Evercore ISI `
+Got it. And just to be clear, on the operating margin side, obviously, a bit of a shift on the FX
+benefit this year turning obviously to a headwind. Just give us a little sense of what the underlying
+sort of implied operating margin expansion and/or incrementals look like because obviously it
+doesn't look like we are getting much on gross.
+A - `Christopher O'Connell, Chief Executive Officer
+Yeah, I mean, the gross margin, just one quick comment and I will defer to John as well for any
+further comments. But on the gross margin was relatively flattish, but keep in mind that a couple
+of key drivers for the business this year, for example were China, and then broadly the global
+service business, both of those areas of business tend to carry slightly lower gross margin, but
+they're accretive to the operating margin. And so really by the time you get down to the
+operating margin, one thing we feel best about over the course of the year was the modest
+operating leverage we were able to achieve, and the improvement in the operating margin really
+on, and as reported basis as well as on a constant currency basis.
+And so to get the 7% top line constant currency to reflect in double-digit operating income
+growth was a good achievement by the team and really reflected the mix of the business overall
+rather than being too fixated on one particular line or the other, but it was good spending control,
+it was efficiency gains and it was at the same time making sure we're making the right
+investments back into R&D and things that drive our growth for the future.A - `John Lynch, Vice President of Investor Relations `
+And maybe just to add to that, Ross, what Chris said, this is John speaking, I think that the major
+dynamic and margins for 2017, let's say we are expecting a bit of an FX headwind in margins. I
+think other than that the dynamics will be similar to what Chris described.
+Q - `Ross Muken, Analyst, Evercore ISI `
+Great. Thanks.
+Operator
+The next question is from Mr. `Jon Groberg, Analyst, UBS of UBS. Your line is open.
+Q - `Jon Groberg, Analyst, UBS `
+Okay. Thanks. First of all, welcome, Sherry, to Waters and good luck.
+A - `Sherry Buck, Chief Financial Officer `
+Great. Thank you.
+A - `John Lynch, Vice President of Investor Relations `
+Jon, you're there? I think you got dropped somehow by the phone, but Jon if you call back in,
+we'll take your question right away.
+Operator
+This is the operator. The next on the line is Mr. `Jack Meehan, Analyst, Barclays Capital of Barclays. Your line is open.
+Q - `Jack Meehan, Analyst, Barclays Capital `
+Hi, thanks. Good morning. And maybe I just want to start off on FX and just what your thoughts
+are on pricing philosophy there and just more broadly what's baked into the guidance on that
+front?
+A - `Christopher O'Connell, Chief Executive Officer
+Baked in, in terms of the overall FX headwind?
+Q - `Jack Meehan, Analyst, Barclays Capital `
+Yeah, I guess just with some of the recent changes whether it impacted the way that you think
+about setting price for some of your products.
+A - `Christopher O'Connell, Chief Executive Officer
+No, I would say that we tend to be pretty consistent in our pricing philosophy. We do try to
+achieve annual modest and sustainable price increases especially where we demonstrate that
+value to our customers. So I don't think there is anything unusual in terms of our pricing policy or
+strategies right now related to FX. Obviously, we try to protect our revenue in some of the more
+volatile currencies through a combination of pricing in dollars and local currency, but I wouldn't say
+there's anything unusual heading into this year.Q - `Jack Meehan, Analyst, Barclays Capital `
+Got it. Thank you. And then I just want to follow up one more time on biopharma. Getting a few
+questions on it. And I was wondering just paring your commentary around biotech and some of
+the smaller accounts driving a lot of the growth with the 2% organic you had in America, just what
+should be the read-through in terms of the trends with large cap pharma and just the confidence
+looking into 2017 that, that can continue to sustain the growth? Thanks.
+A - `Christopher O'Connell, Chief Executive Officer
+Sure. Now, you have to piece apart the overall pharma picture and the US picture to see some of
+the underlying points there. And like you point out Jack, we are less dependent on large pharma,
+that's been a consistent trend over time, where 10 years ago, 25% of our pharma business was
+large cap, multinationals and today that's only about 11%, and so it is a broadening base that
+business and our globalization of that business. And when you really piece it apart US pharma was
+comparing to a tough year of 10% growth in prior year, and when you exclude the effects of
+some slightly negative government and academic and flattish industrial, US pharma was more of
+a mid-single digit, which reflected pretty good performance.
+And so, I think we generally feel good about the US, It's sort of steady as she goes and we
+continue to seek the balance that I described, but certainly not forgetting about large pharma. It's
+been a really our core customer base for a long time and actually some of the most innovative
+work going on in the world right now is from the traditional large pharma companies and we're
+very excited to participate in that.
+Q - `Jack Meehan, Analyst, Barclays Capital `
+Great. I appreciate all the color.
+A - `Christopher O'Connell, Chief Executive Officer
+Thanks. Jon, did we get you back on the line?
+Q - `Jon Groberg, Analyst, UBS `
+Can you hear me now?
+A - `Christopher O'Connell, Chief Executive Officer
+Jon, yeah, we can hear you.
+Q - `Jon Groberg, Analyst, UBS `
+All right. Well, thanks. I'm not sure what happened. So I just had two quick questions, one on -- I
+know you don't want to think about this, Chris, but for QDa, can you give a sense as to how
+penetrated you think that market is from an adoption standpoint?
+And then the second question -- they are both kind of detailed questions -- given kind of the
+rhetoric going on in Washington, how are you thinking about or what percent of your products are
+manufactured outside the U.S. today? I know it's a pretty significant percentage and how are you
+kind of thinking about what you are hearing going on in Washington? Thanks.
+A - `Christopher O'Connell, Chief Executive OfficerSure. Sure. Fair question. First of all, QDa, look, I think we're -- I know I have trouble hiding my
+enthusiasm of the QDa. QDa is a fantastic product, it's revolutionary in terms of bringing mass
+spectrometry to a package that's far more usable and integratable into many more workflows.
+The bottom line is today mass spectrometry is used in far less than 10% of traditional
+chromatograpic workflows. And so we're only at the very beginning of mass detection and this is
+particularly true as it relates to the uses of QDa and mass detection generally in biopharm
+workflows, as biopharm becomes bigger and bigger.
+And so it's hard -- it's actually hard to put a specific number on percent penetration of
+addressable market, even though we do strive to do that, because the other thing we see is that
+new uses for QDa continue to present themselves. It's a fairly -- it's a fairly diverse [ph] range of
+uses that people are finding for it and we'll put some more color on that when we get to our
+Investor Conference in early-March, but we really do like the QDa platform and we like what it will
+do for the field of mass spectrometry broadly.
+In terms of the rhetoric in Washington, there is a lot of rhetoric for sure. To answer your question
+specifically, we're actually relatively balanced today in terms of being a net importer or exporter.
+We've got a strong global manufacturing footprint with our major facilities between Singapore,
+Ireland, UK and the United States.
+And so, from the standpoint of potential changes in corporate tax policy, we're actually excited
+about some of those directions, certainly access to our global cash would be a benefit, certainly
+lower rates in the U.S. would be a benefit, and operationally depending on how significant some
+of those changes are. We're in a good position based on that global footprint to move
+production to where it's most optimized to benefit the company operationally, but also financially.
+So, we're watching all that very, very closely. I guess, I'm an optimist at the end of the day on
+matters like trade policy. I think we have too much to gain in terms of being a global economy.
+And while there is a war of words from time to time among different countries, I think the U.S. has
+shown over time to take a pragmatic view towards these questions. And I think the U.S. economy
+will only benefit from that.
+So I'll be an advocate from my chair in terms of free trade type policies and the growth of the U.S.
+economy as a result of that which would only benefit our company and our industry.
+Q - `Jon Groberg, Analyst, UBS `
+All right. Thanks.
+Operator
+The next question is from `Amanda Murphy, Analyst, William Blair of William Blair. Your line is open.
+Q - `Amanda Murphy, Analyst, William Blair `
+(inaudible) I just have two quick questions for you. One, you mentioned the importance of
+regulatory dynamics and standardization, and you also talked about the Chinese FDA. So I was
+curious how much more runway do you have on that specific initiative do you think, and anything
+else that is coming down the pipeline that you see in terms of regulatory changes or movements
+that could help in various different geographies going forward?
+A - `Christopher O'Connell, Chief Executive OfficerSure. It's a good question, Amanda. We've seen this theme in different markets. And for
+example, two, three years ago, four years ago, we saw this trend play out in India, for example,
+as the FDA took a greater interest in on-the-ground resources in India, and as a lot of these
+Indian generic providers both local and multinational began their efforts to step up compliance
+activities.
+To your point, we're seeing that in China real time as the Chinese government is harmonizing on
+the greatest common denominator which are the more exacting FDA level type standards. We
+think we're in the middle of that. We're not going to try to predict how long that cycle may exist,
+we're just focused on executing within it. But we do think in the, at least, in the near term there is
+more runway there.
+I think this regulatory theme is not just one for the pharmaceutical market, but it's also therefore
+the food market as well. And actually it's no coincidence that our food and applied franchise in
+China, in particular, has been a source of strength for the company. We do see over time more
+transparency in the supply chain for food from farm to market and really the adoption of more
+sophisticated measurement technology such as LCMS.
+And so we're trying to pursue those trends, we're trying to advocate with governments for
+responsible regulation in that regard, and we think will benefit from it. But rising regulation is also
+a trend in the material sciences. As new materials become introduced for industrial products of all
+types, there are increased testing standards and even regulation. So we think this regulatory
+theme is an important business driver for us and one we're going to key off of.
+Q - `Amanda Murphy, Analyst, William Blair `
+Yes, okay. It makes sense. I just had another question. I know this might be generic, so forgive
+me, but I was wondering if you could just talk a little bit about competition. And I know that is
+probably different in each part of your business and I think mass spec historically been a little bit
+more competitive than others, but just trying to get a sense of how you feel about the
+competitive dynamics at this point and who you are running into type thing?
+A - `Christopher O'Connell, Chief Executive Officer
+Yeah, I'll probably just give a simple answer to that, which is we think we have really great
+competitors. I have a lot of respect for the people we're up against. The dynamics are different,
+obviously, in different sectors. In LC, market share tends to be stickier for obvious reasons related
+to the standards that endure in terms of the methods used to produce -- develop and produce
+medications. Mass spec tends to be a little faster in terms of the innovation cycle and a little bit
+more dynamic in that regard. And don't forget about competition on the servicing chemistry side
+as well. TA instruments on the materials side faces a more fragmented competitor base than we
+do in the LC and MS business.
+But overall, I think we're up against smart, well-resourced, disciplined companies, and I think that's
+good for the business and for the markets and for the customers. So I wouldn't really want to say
+anything more than that.
+Q - `Amanda Murphy, Analyst, William Blair `
+Okay. Fair enough. Thank you, guys.
+OperatorQ - `Derik de Bruin, Analyst, Bank of America Merrill Lynch `
+Hey, good morning.
+A - `Christopher O'Connell, Chief Executive Officer
+Good morning, Derik.
+Q - `Derik de Bruin, Analyst, Bank of America Merrill Lynch `
+Great. So just a couple of quick ones and then I have one longer one. Any M&A contribution in the
+quarter? And last quarter you had a negative 15% academic result in Q3. Was there stuff that got
+pushed from Q3 into Q4 this quarter?
+A - `Christopher O'Connell, Chief Executive Officer
+Yeah. First of all M&A was very, very minor if -- almost immaterial. We had a tiny bit from the
+Rubotherm acquisition within TA, but it was almost not enough to comment on. Academic, yes, it
+was down in the quarter, we talked about that being sort of small and lumpy. There were one or
+two relatively modest examples of business that was pushed quarter-to-quarter, but that is also
+something that happens many quarters. There's always some pushes and pulls. So we tend to
+look at that, as I said in the prepared remarks that academic and government over a little bit
+more of a rolling period as quarters can -- there's sometimes a lot of noise in various quarters.
+Q - `Derik de Bruin, Analyst, Bank of America Merrill Lynch `
+Great. And then just one longer one. I certainly agree with that certainly globally regulation is
+going up, but there's news out this morning that Mr. Trump has frozen EPA grants and he is talking
+about rolling back 75% of regulation. I mean, how do you sort of deal with sort of like the -- I
+would say the mixed messages that we've got wanting to push back regulation in the states and
+then sort of by global market? And I guess the question I am going to is like, how much of your
+market is U.S. based that could potentially be impacted by some of the plans that Mr. Trump has
+been proposing?
+A - `Christopher O'Connell, Chief Executive Officer
+Yeah, first of all, I think the regulatory drivers of our business have a lot more to do with the
+emerging markets, harmonizing lot more global standards. I mean, certainly I don't expect there's
+a lot of different types of regulations that I think people are probably talking about in some of
+those comments and but I don't think we have any expectation that regulations around the safety
+medical therapies is going to be rolled back, and I don't think there's any talk about that. I think
+there is a lot of talk about financial regulation, environmental regulation and some things of that
+nature, but there are a lot of messages out there and we just try to be little more focused on
+what's in front of us, but I would say the two overwhelming factors driving our view of this topic
+are -- again the harmonization standards around the world particularly in the Chinese and India's
+of the world. And I think there is also an underlying consumer demand for safety, for purity, for
+quality, in products of all types whether they're medications, food or industrial products.
+Q - `Derik de Bruin, Analyst, Bank of America Merrill Lynch `
+Okay. Thank you.
+OperatorThe next question is from (inaudible), your line is open.
+Q - Unidentified Participant
+Yeah, good morning. Can you guys hear me?
+A - `Christopher O'Connell, Chief Executive Officer
+Sure.
+Q - Unidentified Participant
+Thank you, Chris. Thanks, Gene and welcome, Sherry. Just Chris, if I could try to understand the
+biomolecules dynamics in the developed market pharma, could you help us understand in the
+QA-QC lab in terms of competitive dynamics you have biomolecules that are being entering the
+pipeline from the top, from discovery and going through their approval. They are pulling in some
+of the competitive technologies into the QA-QC lab where traditionally you've had a very good
+position, very strong position. Help us understand a little bit in terms of those competitive
+dynamics and of course you're answering that by your QDa Detector, but help us pass out [ph]
+where do you see that in 2017 and how do you see that going forward?
+A - `Christopher O'Connell, Chief Executive Officer
+Yeah, I think it's a good broad question (inaudible) as it relates to the -- really the movement of a
+lot of biomolecules from the discovery and development phase into manufacturing. And there is
+ultimately going to be a technology set that may look quite different in that large molecule
+category than we see in traditional chemical entity type workflows. And this is why the company is
+positioned for that. You mentioned QDa and that's certainly one aspect of it, but it also starts with
+separations and the advent of UPLC and the technology advantage we have on the UPLC side for
+speed and precision of separation sciences is clearly a key driver.
+I would also say on the kits in addition to the mass detection that we talked about with QDa,
+there is all the work around -- around the kits required to characterize the various qualities of
+modules, for example, in glycans. So you've heard us talk about glycans and the GlycoWorks
+technology that has been a real boon to protein characterization, additionally our package around
+ProteinWorks that goes even further. And then I'd really wrap it also with the comment on
+software, please don't forget about the importance of the data integrity equation that continues
+to impress us as a need in the market and the validated software that we offer.
+So anyway we put a stake in the ground a long time ago and we're continuing to develop this
+particular thought process around how the biomolecule world will increasingly look different and
+we expect to share more insights on that when we get to our investor meeting in March.
+Q - Unidentified Participant
+Got it. And just one quick follow-up on the food and environmental comments that you made
+earlier. I mean, as you look at the food and environmental market in China, again my
+understanding the LCMS world being in that in past [ph] life is sort of the pricing is on the
+biopharma and is less sensitive compared to the food and environmental guys as they look at the
+overall offering. Help me understand how you are able to penetrate those markets and gain
+share, especially in China, which is not only it's so price sensitive, but again food and
+environmental being more -- a little bit more price sensitive. And you guys really have premium
+offering in terms of UPLCs and across the board. So help me educate a little bit.A - `Christopher O'Connell, Chief Executive Officer
+Let me give you just a quick simple answer for that and then I'd like to go to the last question as
+we're a little short on time. The reality is those markets are still prioritizing the most exacting
+measurement technology and we're actually able to maintain a price premium. We've been hard
+at work for a long time with the government agencies to help define these new standard of
+analysis, which typically involve adoption of the latest technologies, not price discounted lesser
+technologies. So we'll continue to try to push that trend. But thanks for the question. Could we
+have one more question, Jay, from the queue?
+Operator
+Thank you. The next one is from `Doug Schenkel, Analyst, Cowen and Company of Cowen and Company. Your line is open.
+Q - `Doug Schenkel, Analyst, Cowen and Company `
+All right. Good morning, everyone. First, I welcome Sherry and second, I want to take this
+opportunity to thank Gene for all your help over the years and congratulate you on the new role.
+So now for the questions I have; I have two. The first is on guidance. I was surprised that gross
+margin guidance wasn't a little bit better given the move in the pound sterling. Can you help
+educate us a bit? Are you embedding any assumption that product or geographic mix are a lot
+different in 2017 as part of the guide?
+And then the second question is really on TA and the industrial end market. I was a little surprised
+as well to see TA not do a bit better when commentary on industrial was so positive relative to
+what we have seen for a little while. I know some of this was attributed to the comp, but do you
+think there's also some potential that the market paused a bit, at least for you, due to all the new
+product launches that you have coming to the market right now? Thanks. I will get back in the
+queue and listen.
+A - `Christopher O'Connell, Chief Executive Officer
+Sure. Well, I'll take the question on TA and then see if John and Sherry want to comment a little
+more on the guidance. But first of all -- thanks for your comment on Gene as well. On TA, maybe
+what you suggest is possible that as the market seeks to absorb new technology and it does so
+in a little bit more of a measured fashion.
+I think -- but I think the TA performance really reflects what we talked about which is strong comps
+and also maybe particular factors that are associated with the polymer and the metals type of
+industry that TA tends to be more focused on. Our better performance in the overall industrial
+category was really driven by, as we talked about earlier, the applied markets of food and
+environmental and those are markets that TA has some exposure to but less than Waters
+product. So, again, a little bit of a softer year on a great year before but a great product position
+and we're hopeful for TA for 2017. So any thoughts on the guidance?
+A - `John Lynch, Vice President of Investor Relations `
+Hi, Doug. This is John. I'll comment on the gross margin guidance. I think that we do get some
+benefit from the pound but we anniversary that about mid-year and what we are feeling some
+pain from is the yen and the euro for the full year.
+Q - `Doug Schenkel, Analyst, Cowen and Company `A - `Christopher O'Connell, Chief Executive Officer
+Thanks, Doug. And with that let me thank everybody for your great questions. Let me conclude
+the call now please. So in conclusion, we are encouraged by our 2016 performance, as we've
+described, really headlined by our ability to deliver strong organic top line growth, modest
+operating leverage and double-digit earnings per share growth. So as we move into 2017, we
+remain focused on delivering operating results and feel that market conditions and our
+competitive position to support continuing success.
+So on behalf of our entire management team, I'd like to thank you for your continued support and
+interest in Waters, and we look forward to updating you on our progress during our upcoming
+investor conference, as well as our Q1 2017 call, which we currently anticipate holding on April 25,
+2017. Thanks very much and have a great day.
+Operator
+That conclude today's conference. Thank you all for joining. You may now disconnect.

@@ -1,0 +1,536 @@
+Q4 2014 Earnings Call
+
+Operator
+Good morning and welcome to the Bio-Techne earnings conference call for the fourth quarter of
+the full year fiscal 2014. At this time, all participants have been placed in a listen-only mode, and
+the floor will be open for questions following management's prepared remarks.
+I would now like to turn the call over to Mr. Jim Hippel, Chief Financial Officer.
+James T. Hippel `
+(0:23 – 0:40) as well as meeting with customers. Also on the call with me is Frank Mortari, Vice
+President of Corporate Development.
+Before we begin, let me briefly cover our Safe Harbor statement. Some of the remarks made
+during this conference call may be considered forward-looking statements. The company's 10-K
+for fiscal year 2013 and the 10-Q filed for the fiscal quarter ended March 31, 2014 identify certain
+factors that could cause the company's actual results to differ materially from those projected in
+any forward-looking statements during this call. The company does not undertake to update any
+forward-looking statement as a result of any new information or future events or developments.
+The 10-K and 10-Q as well as the company's other SEC filings are available on the company's
+website within its Investor Relations section.
+During the call, non-GAAP financial measures may be used to provide information pertinent to
+ongoing business performance. Tables reconciling these measures to most comparable GAAP
+measures are available in the company's press release issued earlier this morning or on the
+Techne Corporation website at www.techne-corp.com.
+So with that, I will turn the call over to Chuck.
+Charles R. Kummeth `
+Thanks, Jim. Good morning and thank you for joining us today.
+As I stated in our earnings release, I'm extremely pleased with the quarter, but even more
+pleased with the year-end results. To come back from negative growth last year to 3% organic
+growth this year given the headwinds of NIH funding and increasing competition is a greatWe started the year telling all of you in our first ever earnings call that we would achieve better
+than historical growth rates in China, which were in the 15% to 20% range, raising them into the
+high 20%. We actually achieved 37% organic growth in China for Q4 and 27% for the year.
+Investments made in China are paying off. By next year, with our continuing growth in China, over
+25%, and the acquisitions of PrimeGene, over 30%, Novus, and ProteinSimple, we should be able
+to boost the Bio-Techne China company that has grown from $12 million in revenue last year to
+well over $30 million by this time next year. It's a very exciting time for our Asia business.
+As we have done all year, we continued to strengthen our commercial execution in North America
+this quarter. While we had no weather to contend with like last quarter, we still had a difficult year-
+over-year comp with regard to academic sales. However, by leveraging our field sales
+investments and the Fisher relationship, our academic sales have stabilized since Q1 of 2014,
+positioning us to accelerate growth next year with the introduction of the PrimeGene and Novus
+fighter brands.
+Turning to Europe, we did see some lumpiness there the past several quarters, similar to where
+other peers have reported. In Q4, we had some Easter seasonality in the results, but the quarter
+was less than we had hoped for. Overall for the year, we did have some organic growth over the
+previous year. We believe the strategic acquisitions we have made will really help our Europe
+business since these businesses can leverage our strong operations in Europe. Novus is growing
+at a double-digit growth rate in Europe as an example. We are also confident of the potential
+future of ProteinSimple in Europe. These businesses are firing on all cylinders.
+Speaking of these strategic acquisitions, 2014 was a very active year for Bio-Techne, especially
+Q4 of fiscal 2014. We started the year with the acquisition of Bionostics, which expanded our
+clinical control segment to include control solutions and IVD devices used in blood glucose,
+coagulation, and blood gas testing.
+Our team then worked very hard throughout the year on a number of targets that cumulated into
+two acquisitions in Q4 and two more which closed in July. First, we made a substantial equity
+investment in CyVek, structured to be an acquisition after certain commercial thresholds are met.
+CyVek produces a transformative immunoassay platform which delivers the most advanced and
+efficient bench-top immunoassay system. We followed this in Q4 by acquiring PrimeGene, which
+will provide us manufacturing capabilities in China and a fighter brand for recombinant proteins
+here in the U.S.
+And in July we announced and subsequently closed the acquisitions of Novus and ProteinSimple.
+Novus to expand our portfolio of antibody offerings to approaching 250,000, which can be
+delivered to our customers through an innovative digital commerce platform. And ProteinSimple
+provide our customers with instruments that have revolutionized the analysis of proteins in terms
+of reliability, consistency, and productivity. All these acquisitions fuel our long-term strategic plan
+to expand our customer offering and geographic coverage while leveraging our core product
+base of reagency controls. We even changed the trade name of the company to Bio-Techne,
+which unifies and positions our brands under one complete portfolio.
+Despite all the activity this year around acquisitions, we have not lost focus on our strategic pillar
+of driving innovation to produce core products that fulfill a greater number of our customers'
+needs. In fiscal year 2014, we released approximately 1,600 new products, which generated $3.4
+million of new revenue in the first year. This compares to approximately 2,100 new products
+released in fiscal year 2013, which generated only $2.4 million of new revenue in year one. Our
+prioritization process is already starting to bear fruit, and we believe there is much more to comewith the key opinion leader network and scientific advisory board that our new CTO has created
+to collaborate on tools needed to support the leading edge of life sciences research.
+Overall, I'm extremely proud of the work our team has done this year and want to thank our
+employees for all their efforts. We have worked hard to build a stronger global team and it is
+paying off. As NIH and other funding return to more healthy levels, we intend to capitalize on the
+pent-up need for tools and reagents that researchers need for their work. We have and we will
+continue to invest in innovation and quality, further demonstrating that Bio-Techne has the
+premier brands and a premier global biotech company.
+Jim, I'll turn it over to you now for a dive into these financials.
+James T. Hippel `
+All right, thanks, Chuck.
+Given that this is a year-end call and we just closed the Novus and ProteinSimple acquisitions, I
+have a number of topics to cover in my remarks this morning. First, I'll start with an overview of
+our Q4 and full-year 2014 financial performance. Next, I'll provide you a recap of the terms
+regarding the revolving credit facility that was opened to partially fund the ProteinSimple
+acquisition. And finally, although we do not provide future guidance, I will provide today some
+additional financial data and longer-term goals regarding our recent acquisitions, giving more
+clarity as to the impact these acquisitions may have on our financial performance in 2015 and the
+years following.
+So starting with the overall recent financial performance, we delivered a solid fourth quarter,
+resulting in a 7% increase in adjusted EPS to $0.88. For the full year, adjusted EPS was up 6%
+compared to the prior fiscal year to a record $3.39. As detailed in our press release, adjusted
+earnings per share exclude acquisition-related costs. These are costs such as intangible asset
+amortization, costs recognized upon the sale of inventory that was written up to fair value, and
+professional fees related to ongoing acquisition activity. Also excluded are the impacts of certain
+tax events. Under GAAP, EPS was $0.72 in Q4 and $3.00 even for the full year compared to $0.77
+and $3.05 in Q4 and full-year 2013 respectively.
+On the top line, Q4 total revenue was $92.5 million, an increase of 16% year over year, and
+organic growth was 2%. Q4 reported revenue includes 13% growth from our Bionostics and
+PrimeGene acquisitions, PrimeGene nominally so, and approximately 1% impact from foreign
+exchange. For the full year, total revenue increased 15% year over year, and organic growth was
+3%. Full-year growth included 11% from acquisitions and also 1% impact from foreign exchange.
+Moving on to the details of the P&L, total company adjusted gross margin came in at 73.4% in Q4,
+down 320 basis points from the prior year due to the product mix change associated with the
+acquisition of Bionostics last July. Excluding Bionostics, gross margins were essentially flat
+compared to last year.
+Adjusted SG&A in Q4 was 14.1% of revenue, approximately 30 basis points more than the prior
+year. For full-year 2014, adjusted SG&A was 13.5% of revenue, 40 basis points higher than 2013, a
+modest increase as a result of the commercial and infrastructure investments made throughout
+fiscal year 2014.
+Finally, R&D expense came in at 8.3% of revenue for the quarter, 80 basis points below the prior
+year. For full-year 2014, R&D expense was 8.6% of revenue, also 80 basis points below 2013. Forboth Q4 and full year, higher overall spend on R&D activity was partially offset by greater revenue
+generation from new products launched, as Chuck has discussed in his opening comments.
+Turning to cash flow and the balance sheet, the headline numbers are $37.9 million in cash
+generated from operations for the fourth quarter and $136.8 million for the full year. That's up
+26% and 11% respectively over the prior year.
+At year end, we had $367 million of cash and short-term available-for-sale investments, with a
+large portion of these investments liquidated into cash in Q4 to prepare for the funding of the
+July Novus and ProteinSimple acquisitions. As of fiscal year end, we had no debt. Our investment
+in capital expenditures was $13.8 million for the full year, and we returned over $45 million to our
+shareholders in the form of dividends.
+That wraps up my comments on the total company performance for the fourth quarter and the
+full fiscal year. Now I'll walk you through the revenue performance of our two business segments,
+starting with the Biotechnology segment. This is the larger of our two segments, which develops,
+manufactures, and sells biotechnology research and diagnostic products worldwide.
+For the fourth quarter, the Biotechnology segment reported $76.7 million of revenue and 1%
+organic growth compared to fourth quarter last year. Full-year revenue for the segment was
+$300.6 million, for organic growth at 3% for the full year. The lower growth in Q4 was mostly
+attributable to Europe, which was down 3%. The timing of Easter in Q4 this year versus Q4 last
+year as well as the timing of some larger bulk orders that occurred in Q3 versus Q4 last year
+attributed to the decrease. However, despite continued softness in the academic market and
+consolidation of Big Pharma, Europe managed to achieve positive 1% growth for the year.
+In the U.S., industrial customers such as pharma and biotech in the Biotechnology segment
+continued to grow at 4% in Q4, which is consistent with the growth we saw from these customers
+all year. U.S. academia, on the other hand, continued to be soft compared to last year, down 8%
+for the fourth quarter and down 9% for the year. However, as Chuck indicated in his opening
+comments, U.S. academic sales seem to have bottomed in the first half of fiscal year 2014, and
+the run rate has been relatively stable since. Thus, we are expecting this piece for our business to
+improve next year with the addition of newly acquired fighter brands to our portfolio as well as an
+overall more stable environment with the proposed NIH funding.
+As for Biotechnology sales in China, Chuck has pretty much shared the highlights there, just a
+great quarter in Q4 with 37% organic growth in the quarter compared to fourth quarter last year,
+to cap off what was a great year that experienced 27% organic growth over last year.
+I will note that these numbers are slightly different than most in the press release which discloses
+the China region. Included in those figures are Taiwan and Hong Kong, which are more mature
+markets and thus usually experience lower growth rates than Mainland China. Looking ahead to
+next year, we expect to continue to achieve strong growth in China both organically and from our
+recent acquisitions.
+Finally, the Pacific Rim, which generates about 10% of the Biotechnology segment's revenue,
+experienced organic growth of 5% for Q4 and 10% for the full year. The lower growth rate in Q4
+was driven by the timing of a number of orders in Japan that occurred on the cusp of Q3 versus
+Q4. The region's growth rate for the full year is indicative of our expectations going forward.
+Turning now to our other segment, Clinical Controls, which develops blood controls and
+calibrators for use in hospitals and clinics, this segment closed Q4 with $15.8 million of revenue
+and finished the full year with $57.2 million. Organic growth, which excludes the Bionosticsacquisition last July, was 8% in Q4 and 7% for the full year, rounding out a year of solid and
+consistent demand and operational execution.
+Now before we turn the call over for Q&A, I'd like to provide some additional insight into the
+financials of our most recent acquisitions and investments as well as a reminder on the financing
+details, most of which were communicated in the recently released 8-K. I will start with the
+financing.
+All of our acquisitions and investments in Q4 were funded with cash on hand. This includes our
+investment in CyVek as well as our purchase of PrimeGene. In early July of fiscal year 2015, our
+purchase of Novus was also funded with cash on hand. And in late July of fiscal year 2015, our
+purchase of ProteinSimple was funded by a combination of cash on hand as well as with our $150
+million revolving credit facility that was opened at BMO Harris Bank; $125 million of this credit
+facility was drawn upon to fund the purchase of ProteinSimple. The interest on this facility accrues
+at a variable rate of LIBOR plus a margin ranging from 1% to 1.75% depending on certain leverage
+ratios. Currently, our interest expense on our debt is accruing at 1.16%. The one-time bank fee
+associated with opening the credit facility was $375,000, and ongoing fees for any unused
+portion of the credit facility are 15 basis points per annum.
+Now some financial details on the acquisitions themselves; going in reverse chronological order,
+I'll start with CyVek. CyVek is not really an acquisition yet but rather an equity investment that was
+made on April 1, 2014 with a commitment to acquire within 12 months if certain future milestones
+are met. CyVek will have no impact on our P&L until the time it is fully purchased. As of right now,
+the milestones are on track, and we expect the full purchase to consummate sometime in the
+second half of fiscal year 2015.
+Next is PrimeGene. As we announced in our prior press release, PrimeGene was acquired on April
+30, 2014 and had an immaterial impact to our fiscal 2014 results. In calendar year 2013,
+PrimeGene had product sales of approximately $4 million, with gross and operating margins that
+were similar to the rest of our Biotechnology segment. Over the next five years, we have
+aspirations for this business to increase 30% annually as it continues to grow in the rapidly
+expanding local Chinese market but also as an OEM supplier of fighter brands to be launched in
+the U.S. and Europe.
+The acquisition of Novus followed PrimeGene on July 2, 2014. Novus's calendar year 2013
+revenue was approximately $19 million. Its wide product offering of over 225,000 antibodies
+necessitates a large mix of OEM supplies versus proprietary products. Thus, its gross margins are
+lower than our current Biotechnology segment of roughly 50% while EBITDA margins are in the
+mid-teens.
+Our aspirations over the next five years are for this business to grow organically in the upper
+single digits annually, with EBITDA margins approaching 30% by year five. Our intention is for this
+growth to be supplemented by R&D systems brands leveraging of Novus's digital commerce
+platform and Novus leveraging the existing Bio-Techne's global sales channels and proprietary
+capabilities.
+Finally, our latest acquisition and thus far our largest, ProteinSimple, closed July 31, 2014.
+ProteinSimple's revenue for the last 12 months ended June 30, 2014 was approximately $60
+million, with EBITDA of approximately $9 million. Gross margins for the past year have been in the
+upper 60% range, which is quite strong for an instrument-based business, signifying the novel
+technology of their platform and high consumable pull-through.Our aspiration over the next five years for this business is to maintain a 20% annual revenue
+growth rate, as ProteinSimple continues to revolutionize the way Western blotting has been done
+in the past 30 years by investing in further global commercial penetration of these existing
+instruments and further innovation on next-generation platforms.
+Through gradual sales leverage on these investments, we see the potential for EBITDA margins
+to approach the upper 20% range by year five. These numbers don't factor in our other
+aspirations to source consumables used by ProteinSimple's instruments from existing Bio-Techne
+reagents nor possible sales synergies with the eventual CyVek instruments, which we expect to
+own by the end of this year. These synergies we believe are real, so putting a timetable and
+valuation on them right now is not practical.
+That concludes my prepared comments. And with that, I will turn the call back over to the
+moderator to open the line up for some questions.
+Q&A
+Operator
+And our first question will come from Matt Hewitt with Craig-Hallum Capital. Please go ahead.
+Q - `Matthew G. Hewitt, Craig-Hallum Capital Group LLC `
+Good morning, gentlemen, congratulations on a very successful 2014.
+A - Charles R. Kummeth `
+Great, Matt. Hi, good to see you.
+Q - `Matthew G. Hewitt, Craig-Hallum Capital Group LLC `
+Just a couple questions. First, you've been very busy on the M&A front and the investment front.
+I'm curious as you look at your portfolio today. Where do you see some gaps? What should we
+be anticipating as we get into fiscal 2015? Where are some areas that you think you might be
+investing to broaden your portfolio?
+A - Charles R. Kummeth `
+All right. Thanks, Matt. Well one, we're not following any schedule for acquisitions. You run a
+process and you run an offer and you work with them, and they take their own timing. We were
+very fortunate to succeed in a pretty high percentage of tries this year, and there will be more I'm
+sure in the future. We're following our strategic plan pretty carefully. And we've talked to this as
+far back as about a year ago almost now with our initial come-out of our strategic plan. And in
+broadening our portfolio, antibodies is one of the key things we want to do, which we've done
+with Novus. There are certainly other categories of antibodies that are in more narrow product
+platform ranges like AIR-antibodies around flow, around IHC that could be significant and could
+be more than useful, especially antibodies that could work within our systems, our new platforms
+that we've acquired, and going after new territories like China for IVD and other areas like that, et
+cetera.
+We're also always in the hunt for new CyVek-like and ProteinSimple-like platforms. We have
+mentioned many times that we're not going to get in the instrument business to be an
+instrument business. We like content and we want to drive that content, the value of our content
+in full solutions for our customers. And if this can be done with a novel new instrument thatleverages our content in ways never done before, like CyVek and ProteinSimple do, then we're
+interested. And there are other areas, other categories that we're looking at, and you're as
+probably as well familiar with them as we are. And this was about tech industry (19:47) and there's
+a new way to do all these laboratory processes all the time. And any ones that come out that
+have IP that look novel, that look like they can really leverage and benefit from our content, we're
+interested. So I'd say stay tuned.
+Q - `Matthew G. Hewitt, Craig-Hallum Capital Group LLC `
+Okay. All right, fair enough, and then maybe one more. There's a new proposal in the Senate
+right now that is looking to boost the NIH funding, and it's not the 2% to 3% type increases that I
+think we've become accustomed to over the last few years or even cuts. This one could drive
+10% growth in NIH spending over the next few years. I'm curious if you had to – I realize it's the
+government, but if you had to handicap the reality here or the potential for that to occur and what
+that would mean for your business, that type of an increase in NIH spending?
+A - Charles R. Kummeth `
+Yeah, I saw the article. I think right now, it's pretty early to conjecture its merits or how long it will
+take. Obviously, if it goes through and there's funding levels getting back to upper single digits or
+10%, we're going to benefit for sure being we're the leader in proteins in the world. So for sure,
+that will happen. And let's hope it does because as we broaden our portfolio and expand into
+other offerings and hopefully become one of the largest providers of antibodies as well in the
+world, we should do well with this. So I wish the bill luck.
+Q - `Matthew G. Hewitt, Craig-Hallum Capital Group LLC `
+All right, fair enough. Thanks, gentlemen.
+A - James T. Hippel `
+Right. Thanks, Matt.
+Operator
+Our next question comes from Jeff Elliott with Robert W. Baird. Please go ahead, sir.
+Q - `Jeffrey T. Elliott, Robert W. Baird & Co., Inc. (Broker) `
+Hey, good morning, guys, and congrats on the quarter. I heard the comments about China, where
+you expect the run rate to be next year. But what do you think of from a split of organic growth
+and acquired growth? What's baked into that assumption?
+A - Charles R. Kummeth `
+I would say right now on our core organic growth, you can continue to count on us in the 25%
+range, like we've stated. Everything above that, which the numbers we showed I guess would be
+on top that, would be inorganic of course. As ProteinSimple and Novus and PrimeGene grow in
+China, which they'll also grow with great numbers, great growth rates, it will hopefully at least
+keep pace with our core organic growth. I would say long term, if we could stay apace organically,
+a number of years from now as these deals become organic, if we could stay at that 25% rate or
+better, that would be a fantastic goal for us. And that is as close as we think it can be.
+Q - `Jeffrey T. Elliott, Robert W. Baird & Co., Inc. (Broker) `Okay. Chuck, in your opening comments you mentioned increasing competition. I guess can you
+elaborate on what you meant by that?
+A - Charles R. Kummeth `
+Nothing more than what we have seen, the likes of Peprotechs and Abcams and then a lot of
+smaller players are getting bigger and stronger. And the door was open to all the funding cuts
+here in the last two, three years with funds (22:43) being tight and the customers taking chances
+on lower quality of products and in some instances getting their work done acceptably, at least
+initial research done that way.
+As you know from our gross margins, it's a profitable business and it's going to attract attention. I
+don't see that going away. And China is only going to be – there are great opportunities here in
+China. The growth rates are wonderful but with all that growth and all these opportunities and the
+embryonic nature of the biotechnology industry in China, I think you're going to see more and
+more players as well. This is why we have such a strong strategic initiative in China to remain a
+leader and to even accelerate that leadership position. And having PrimeGene is going to allow
+us a double-decker approach here.
+Q - `Jeffrey T. Elliott, Robert W. Baird & Co., Inc. (Broker) `
+What do the margins look like on the PrimeGene product? I guess you're going to expand that
+over to the U.S. and Europe. So how should we think about the gross margins on that?
+A - Charles R. Kummeth `
+Actually, it's weird because, as you know, most companies expand in China and we've all done it
+a few times in different industries. And the Chinese, they're very price conscious and you usually
+have lower margins in China. And I would say overall and we state overall we'll see lower margins
+in China. PrimeGene is very, very similar to our business right now, but it's also very, very small. So
+with that kind of basis, it's really not something to glean a lot of input out of. But they run a good
+business and the margins are very strong, probably much better than typical for a local Chinese
+competitor.
+Q - `Jeffrey T. Elliott, Robert W. Baird & Co., Inc. (Broker) `
+Got it. Okay, I'll get back in queue. Thanks.
+Operator
+Our next question comes from Amanda Murphy with William Blair. Please go ahead.
+Q - `Amanda L. Murphy, William Blair & Co. LLC `
+Hey, good morning, just a question on organic growth. So obviously, there are a lot of moving
+parts with Europe and China and then some of the comp dynamics going forward, so I'm just
+curious. How should we think about the organic growth rate? It's been a bit lumpy over the past
+year, although it obviously accelerated from prior levels. So I was just trying to get a sense of is it
+3%, is it 5%, for example?
+A - Charles R. Kummeth `
+We don't provide guidance. We've given you what our long-term thinking is. Our goal is to get to
+mid-single digit. We made a good move in that direction from negative territory last year. I'd liketo tell you, Amanda, that we're going to be able to hit 5% organic growth this year. It's too early
+to tell. We'll see what happens. If we truly have funding issues behind us, if it slows this
+competition, we have a better chance, I think. It will rely on how well we do with the Fisher type
+relationships, how we manage our channels, and how we leverage possible synergies with these
+recent acquisitions with our core organic products right now. And if all that comes together, I think
+north of 3% is more than just possible; it should be doable. Getting above 5% though I think
+would be very difficult at this point given what we still see as headwinds. And Europe is still a
+difficult question still.
+Q - `Amanda L. Murphy, William Blair & Co. LLC `
+And actually in terms of Fisher, I don't think you mentioned the contribution from that this quarter.
+Has that been meaningful? And just thinking about that going forward, obviously there's a lot
+going on in the space in terms of M&A. So I'm curious how you're looking at that specific
+relationship.
+A - Charles R. Kummeth `
+It's been going very well. The work together on the two companies with the systems we call the
+punch-out systems, especially in areas – with like Luminex kits and the other concept that they
+were very eager to get their hands on and move for us is going very well. The growth rates are
+amazing. It's just still small. They're getting trained in. They're getting more comfortable. The
+numbers are roughly double the levels that they were a quarter ago when we only had a partial
+quarter, so it's moving in the right direction for sure. And as you know, Amanda, we have to also
+deal with potential slop in what are the real numbers. There's certainly some slop in that too. We
+certainly have some institutions that are saying now let's make things simpler. Let's put everything
+through Fisher since we buy so much of their stuff through Fisher, so we had some sales indirect
+before. So some of that we're working through as well. We're creating all the right dashboards
+and working together to find out what's what.
+They are extremely focused on incremental growth. They're paid that way, as you know. That's
+what the incentives are. So areas like really going into Canada very heavily are some strong areas
+we're looking at with them. And overall, I'm very encouraged. It's looking very good. If you look at
+what we would call the U.S. retail segment in the academic sector, as we mentioned, we were
+negative 9% for the year. We were negative 8% this quarter. We've been double-digit down
+every quarter before this. I think some of that is coming from channel and coming from the help
+of Fisher, who was definitely picking up the ball in our academic retail space.
+Q - `Amanda L. Murphy, William Blair & Co. LLC `
+Got it, okay. That's helpful, and then just last one. You talked a little bit about M&A. I'm curious. I
+think you've said in the past that you're comfortable with a three times leverage number. Is that
+still true? And I'm curious. I guess generally, what's your appetite for larger deals and what's the
+opportunity there? I know you've done quite a few already. So I'm curious what you think of there.
+A - Charles R. Kummeth `
+We've got plenty of dry powder left. I'm going to let Jim follow on with my answer with some
+more detail. But I think we're not out to be a P/E-type company. We're not going to be riding the
+line like a Thermo Fisher went through. We just don't have that kind of experience or credibility
+yet. I think staying safe after 35 years of no debt, I think being at between two and three times
+leverage I think is a safe place to be to go. We'll always cover all covenants. Cover any mishap inthe economy whatever else should happen. We're going to be patient, very patient. Jim, do you
+want to say anything else?
+A - James T. Hippel `
+I would just say I think three times leverage is still our comfort range in general. We do have a lot
+to digest right now with the recent acquisitions we did. But the good news there is that we've
+also inherited some strong management teams with those acquisitions which I think will make the
+assimilation, so to speak, in Bio-Techne all that much smoother and quicker. And so if and when
+the right opportunity comes, if it's a larger one, I think we'll be ready.
+Q - `Amanda L. Murphy, William Blair & Co. LLC `
+Okay. Thanks, guys.
+Operator
+Our next question comes from Dan Leonard with Leerink. Please go ahead.
+Q - `Daniel L. Leonard, Leerink Partners LLC `
+Thank you. So ProteinSimple considered coming public to aggressively expand their investment in
+sales and marketing, among other things. Is that still the plan now that the business is part of Bio-
+Techne, or do you envision a different level of investment for that business?
+A - Charles R. Kummeth `
+Our plan with ProteinSimple is to leverage their plan with the content we create. Since physicians
+have to have antibodies and proteins to really work with in the customers' hands, we provide a lot
+of different content related to the customers they want for full solutions.
+So that's the magic. It's going to take probably years to make all that really happen. But it's a
+rocket ride we're on (30:05). To be honest, my big decision is just to make sure all of us stay out
+the way. This thing is doing great and it's growing. In Europe, we're going to leverage a lot of our
+resources in Europe operationally. They're very small in China but exploding. We're going to be
+able to leverage that heavily. So I would say tactically, operationally we're going to be helped a
+lot. On the science synergy front, the long-term points where the big investments may be you're
+talking about are going to be coming over next year as we integrate; and as we work together,
+where is the appropriate integration, what should we work on together.
+Q - `Daniel L. Leonard, Leerink Partners LLC `
+Okay. And, Chuck...
+A - Charles R. Kummeth `
+Whether it be the S1 (30:40) or anything else. Their West platform is just way ahead of
+expectations. What really excited us was the fact that academia is eating it up. They love it. We
+always thought that might be a hard pill to swallow with their funding concerns, but it appears not.
+Q - `Daniel L. Leonard, Leerink Partners LLC `
+And, Chuck, how much detail do you plan to offer on ProteinSimple's business? So for example,
+West, can you disclose how many West placements they had in the June quarter?A - Charles R. Kummeth `
+We're not going to disclose anything yet, but we expected this question. So we have two
+divisions so far. And now going forward with these instruments, we're going to have to have an
+instruments division, probably an instrumentation segment to lay out for you. So you're going to
+get lots of data, but it's too early right now. But by the end of this next quarter we report you're
+going to see I think a lot of your answers coming in.
+Q - `Daniel L. Leonard, Leerink Partners LLC `
+Okay. And I know you don't want to provide guidance. But at least on the expense line, can you
+talk about what you're budgeting for operating expenses in fiscal 2015? And the reason I ask is it
+just difficult to figure out if the ProteinSimple deal is accretive, dilutive, or neutral to 2015.
+A - Charles R. Kummeth `
+Yeah, well, I will say that we feel it will be accretive. We're not going to give much guidance
+beyond that. In terms of our operating expenses this year going forward, last year, nine months
+ago on the first calls you guys were giving me lots of questions about how hard will I invest. What
+will we do? Will it eat into margins significantly? And there was a lot of potential fear around that.
+And you can see from our results, we didn't really impact our gross margins at all. And with a lot
+of hiring, a lot of new execs, a lot of new promotional activities, we more than doubled. We went
+from 12 people to like 30 people in China with the core business. And all that is paying for itself.
+That level going forward is probably going to be reduced. We're not going to be investing at the
+same level. Our goal is to definitely have EPS growth, and I think I'll leave it at that. Jim, you may
+want to give a little bit more color around this.
+A - James T. Hippel `
+I would say for our core business, and we're still in at least a two-year build in terms of investment
+in basic infrastructure and sales, commercial reach, et cetera, that Chuck kicked off last year. And
+so fiscal year 2015 we're in year two of that. It will be at somewhat lesser rates but there will still
+be some investment. I'd say overall, when you look at the core business as well as ProteinSimple,
+we are going to reinvest in par with our revenue growth rate. That's the way I think about it.
+Q - `Daniel L. Leonard, Leerink Partners LLC `
+Got it.
+A - Charles R. Kummeth `
+Particularly in ProteinSimple, where they are still very much in a ramp mode.
+Q - `Daniel L. Leonard, Leerink Partners LLC `
+Yeah.
+A - Charles R. Kummeth `
+We definitely want to see that beast.
+Q - `Daniel L. Leonard, Leerink Partners LLC `
+Great, thank you.Operator
+Our next question comes from Suresh [Rajagopal] with SBH [Segall, Bryant & Hamill]. Please go
+ahead. Good morning, Suresh with SBH, if you have a question, please go ahead. All right, maybe
+not. [Operator Instructions] We have a question from Paul Knight with Janney Capital. Please go
+ahead.
+Q - `Bryan A. Kipp, Janney Montgomery Scott LLC `
+Hi, guys. This is actually Bryan Kipp on behalf of Paul. Thanks for taking the questions. You guys
+alluded to your Novus platform and the potential to expand your e-commerce channels via the
+Novus acquisition. Where are you with the current Bio-Techne franchise on converting from
+catalog to e-commerce? And in conjunction with that, what's your horizon to consolidate all these
+new acquisitions into a uniform platform to drive additional cost synergies? Is it several years out
+or just thoughts around that?
+A - Charles R. Kummeth `
+That's a great question. Clearly, when I arrived, we talked a lot about branding and improving the
+customer experience with a much better website. And we kicked off a lot of that work, and we're
+going to be launching a first phase of that this next quarter for Bio-Techne. Now here we make
+these acquisitions and guess what, they've got their own initiatives, their own websites, and all
+this has to be integrated and melded, right, and you've seen this movie before.
+We love Novus because they've got a lot of great digital platforms. They have some internal
+platforms that make running a 225,000 SKU business very efficient. We were very, very
+impressed. We would like to leverage that across our company. It will take us a year to probably
+do that. We do see it could be very (35:06) possible. We're definitely going to merge the
+websites. Now you are not going to get the PrimeGene products via an R&D systems branded
+part on the website. Think of it as a tree coming down from Bio-Techne.com, and you'll either go
+one direction or the other. And you're going to be looking at branded quality things under R&D
+systems or you may be looking at fighter brand if you're academia in some areas maybe in
+Novus, maybe in PrimeGene. But we're going to be very distinct and then very careful how we do
+that and how we integrate. So in a way they can operate as they have these (35:26) punch-outs
+for now, and we'll be integrating them together for typical SEO type of initiatives over the coming
+year.
+Your question whether it will take two years or not, I'm not sure they're ever done, but I think it
+will take us a full year to try and get something really out there and working cohesively together
+as a Bio-Techne type of umbrella system. And it's going to probably take two years and there will
+be other initiatives as well. But it's all exciting stuff and we believe it's very imperative to get this
+part right long term going forward.
+Q - `Bryan A. Kipp, Janney Montgomery Scott LLC `
+Definitely. And another follow-up because I know there has been a lot of thought and a lot of new
+product launches over last year on the local instrumentation side to reduce consumables
+utilization and make it more efficient. Is that a pressure that you guys are seeing on your
+Biotechnology business? Is that a driver for you guys to augment that with consumables?
+A - Charles R. Kummeth `I'm sorry. I'm in China and this question is breaking up. The line is getting goofy on me. Would you
+mind repeating it?
+Q - `Bryan A. Kipp, Janney Montgomery Scott LLC `
+Can you hear me? Is this better now?
+A - Charles R. Kummeth `
+It's tough. Try one more time and I'll have Gallev (37:09) fill in the answer if I can't.
+Q - `Bryan A. Kipp, Janney Montgomery Scott LLC `
+Is that any better?
+A - James T. Hippel `
+Sounds better now.
+A - Charles R. Kummeth `
+That's better. Ask your question again.
+Q - `Bryan A. Kipp, Janney Montgomery Scott LLC `
+Okay. So analytical instrumentation a lot of new product launches over the last couple years have
+focused on reducing reagent utilizations just to naturally drive efficiencies. Is that something you
+guys are seeing as pressure within your Biotechnology franchise and why you're seeing some
+anemic or more anemic organic growth rates? And is that why you're augmenting your legacy
+reagent business with more analytical instrumentation products that you can synergize and drive
+top-line growth? Just color around that would be helpful.
+A - Charles R. Kummeth `
+I think you've got to back up a little. What's driving things is the need for productivity, and ELISA is
+a great tool. It's been around 35 years. It uses a lot of reagents. We like it. We're the leader, but
+it's not that efficient. And we look at CyVek as a next-generation ELISA. It is microfluidic. There are
+a lot of different tool-type forms coming out that are getting into microfluidics, and they're doing
+it not to use less reagents. They're doing it because using less reagents usually can react quicker.
+There's a lot of speed involved here. For instance , there's a big component to productivity. Now,
+we don't equate the amount of reagent with the value at all.
+Q - `Bryan A. Kipp, Janney Montgomery Scott LLC `
+That's true.
+A - Charles R. Kummeth `
+And in fact, we're well known for our purity and our bioactivity. And in a lot of cases, you can get a
+lot more action out of a lot less of our reagents than our competitors. So you may pay a lot less
+money for the same amount of material from members (38:15) than us, but you'll get a lot more
+work done with ours because we've just got more bioactivity.
+So you have to be careful when you delve into this because your question really I think is more
+around productivity and what's going to help drive productivity. And I think speed and accuracyare going to be that, and I think solutions that use smaller amount of reagents help drive that
+speed component. I think people think so, and that's why they're designing systems. Microfluidics
+happens to be that route. We're very interested in that as we should be, being a leader in our
+reagents selling.
+That said, is that why we're getting into instrumentation? Again, no, we're getting into
+instrumentation because it's part of the solution. We were trying to work with researchers to help
+their needs for their AIR experiments and help drive science all the way. That's why we're working
+with more KOLs [Key Opinion Leaders] now. That's why have a big-name CTO. It's why we have a
+science advisory board now helping drive our directions. And we're prioritizing which way we go,
+how deep in a stem cell, why and where are we going with it, and who are we going to work with.
+And through all these collaborations, if we come across new tools that change the game and
+affect or not affect the use or reagents, we're interested. Again, we understand all these
+processes. Again, as an example, if you want to look at a big Western blot shop, come see us.
+We'll show you a lot of Western blot. And so ProteinSimple makes really nice sense for us. And I
+can tell you our labs are screaming for tools themselves. So if that's an indication, we're really
+bullish on ProteinSimple's value to the industry. So I hope that answers you.
+Q - `Bryan A. Kipp, Janney Montgomery Scott LLC `
+Yes, definitely. Thank you.
+Operator
+There are no further questions in queue.
+A - Charles R. Kummeth `
+There's a little more time left, if we can give it a minute.
+Operator
+A - Charles R. Kummeth `
+Okay, I want to thank you all for getting on this call, and we intend to continue doing earnings
+calls. I know you're appreciative for that. We're doing what we said we'd do, all the way back to
+our come-out strategy meeting last fall.
+The team has done I think wonderful things this year. We have changed a lot of things, and we're
+really focused on change management and on talent management and helping employees deal
+with all of this, and in integrating the fine new teams that we have acquired, and that's also going
+very well. So I'd say stay tuned. We're following our plan. We don't think we've let you down on
+that at all, and we're glad you're with us.
+So thanks again. And one last time, I'd like to thank all our employees and for a great year. And
+we hope that the coming fiscal year 2015 will be as good or better. Thank you.

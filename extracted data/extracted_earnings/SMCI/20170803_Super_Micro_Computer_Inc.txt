@@ -1,0 +1,476 @@
+Q4 2017 Earnings Call
+
+Presentation
+Operator
+Good day, ladies and gentlemen, thank you for standing by. Welcome to the Super Micro
+Computer Incorporated Fourth Quarter and Fiscal 2017 Conference Call.
+The company's news release issued earlier today is available from its website at
+www.supermicro.com. In addition, during today's call, the company will refer to a slide
+presentation and the CFO commentary which can be accessed in a downloadable PDF format on
+its website at www.supermicro.com in the Investor Relations section under the Events and
+Presentations tab. (Operator Instructions) As a reminder, this call is being recorded, today,
+Thursday, August 3, 2017. A replay of the call will be accessible until midnight, Thursday, August 17,
+2017, by dialing 1 (844) 512-2921 and entering replay pin 7567416. International callers should dial 1
+(412) 317-6671. With us today are `Charles Liang, Founder, Chairman of the Board, CEO and President, Chairman and Chief Executive Officer; Howard
+Hideshima, Chief Financial Officer; and Perry Hayes, Senior Vice President, Investor Relations.
+And now I'd like to turn the conference over to Mr. Hayes. Mr. Hayes, please go ahead, sir.
+`Perry G. Hayes, SVP of IR `
+Good afternoon, everyone. And thank you for attending Super Micro's conference call on financial
+results for the Fourth Quarter and fiscal 2017, which ended June 30, 2017. By now you should have
+received a copy of today's news release that was distributed at the close of regular trading and is
+available on the company's website. As a reminder, during today's call, the company will refer to
+a presentation as well as the CFO commentary that is available to participants in the Investor
+Relations section of the company's website under the Events and Presentations tab.
+Before we start, I'll remind you that remarks include forward-looking statements. There are a
+number of risk factors that could cause Super Micro's future results to differ materially from our
+expectations. You can learn more about these risks in the press release we issued earlier this
+afternoon, our Form 10-K for fiscal 2016 and our other SEC filings. All of those documents are
+available from the Investor Relations page of Super Micro's website. We assume no obligation toMost of today's presentation will refer to non-GAAP financial results and outlooks. An explanation
+of our non-GAAP financial measures can be found in our slide presentation or in our press release
+published earlier today. In addition, a reconciliation of GAAP to non-GAAP results is contained in
+today's press release and in the supplemental information attached to today's presentation.
+I'll now turn the call over to `Charles Liang, Founder, Chairman of the Board, CEO and President, Chairman and Chief Executive Officer.
+`Charles Liang, Founder, Chairman of the Board, CEO and President `
+Thank you, Perry. Good afternoon, everyone. Let me summarize our Fourth Quarter.
+Revenue was $717.9 million. It's 36.9% higher year-over-year and 13.7% higher than the previous
+quarter.
+Non-GAAP net income was $20.7 million. Non-GAAP earnings per share was $0.39 per diluted
+share compared to $0.38 last quarter and $0.20 last year.
+Non-GAAP EPS was 95.8% higher year-over-year and (30%) higher than last quarter.
+Super Micro achieved a new record high in revenue in the Fourth Quarter, which exceeds our
+expectations.
+For the full fiscal 2017, our revenue was over $2.5 billion or 14% greater than last year. Even more
+remarkable is that our fiscal 2017 second half achieved 27.6% growth over last year, which is many
+multiples higher than the overall industry and any other Tier 1 vendor, which also demonstrates a
+strong momentum as we finish the fiscal year and come into a major technology refresh cycle
+which entails new Skylake Xeon processor.
+Super Micro has built a strong foundation for sustaining high growth while maintaining profitability
+every quarter for 24 years.
+Over the last three years, we have managed significant investment in global production capacity,
+operations, system solutions, quality, global service and management software.
+In the same period, we have ramped our engineering staff by over 60%, bringing in the most
+advanced and the broadest portfolio of server and storage, global service and management
+software to the market.
+These are the investments that we are proud of, the new Supermicro 3.0. Supermicro 3.0
+positions us as the fastest growing Tier 1 IT infrastructure provider, capable of delivering first-to-
+market product innovations in a global scale with quality, management software, on-site service
+global and support to engage our rapidly growing enterprise customer base.
+The record high revenue and strong second half growth rate is a direct result of Supermicro 3.0
+investment with the major fundamentals in place and the new Skylake product portfolio shipping.
+Future investment and expense will begin to (trend) up, driving much improved profitability
+moving forward.
+The new foundation of Supermicro 3.0 has 3 potential locations worldwide, totaling almost 3
+million square feet, with a production building, including dedicated record-level integration,
+conversion and validation.
+Combined, this capacity can support an annual revenue up to $5 billion on hardware alone. In
+2017, we shipped approximately 1.2 million server storage nodes in system and subsystems,based on leading analyst estimates. This volume is above 10% of our total number of systems
+shipped in the world.
+Under Supermicro 3.0, our direct billings in large enterprise data center storage and deeper
+learning is expanding rapidly. We are seeing significantly more engagements with large
+enterprise customers than ever before from Fortune 100 companies in technology, social media,
+major retailers, news media, cable companies and Internet and retail.
+We are engaging earlier for technology optimization and providing more total solutions, which
+include incomplete systems, software integration, quality reputation, solution optimization, data
+center management software. And global on-site service.
+Our channel strategy has also evolved under Supermicro 3.0. We are working more closely with
+the channel and with their end user to provide solutions that drive demand to our partner.
+Channel accounts for 46.3% of our revenue. And we are becoming a more strategic vendor to
+those channel partner through sales of computer systems, which contributed to the growth of
+total systems revenue of 74.3% over the quarter.
+Under Supermicro 3.0, we also continue to invest in new product lines to enhance our industry-
+leading solutions, including our complete line of over 100 new X11 system models based on the
+recently announced Intel Xeon scalable processor.
+Our BigTwin, SuperBlade, NVMe storage systems and AI and deep learning solutions have been
+optimized to deliver the high-scale performance and efficiency from the new Intel processor and
+the latest NVMe innovations, especially All-Flash and hybrid NVMe solutions.
+We have been -- we have seen major design wins for our new 2U 4-node BigTwin offering in both
+the service providers and as well as major storage OEMs. The advanced feature of our 2U 24
+NVMe system secure a large-scale agreement at a major financial service company. And we have
+seen triple-digital growth in our GPU and AI deep learning system scale -- system sale. We
+continue to be the leader in NVMe technology and our ramp of NVMe sales is growing
+dramatically.
+We secured several new major data center wins and interest from (specific robotics), such as
+autonomous driving based on our NVMe competitive advantages.
+NVMe storage delivered orders of magnitude, better performance than traditional solutions. And
+we had over (80) optimized designs available in a variety of configurations, including a 2U system
+capable of delivering 16 million IOPS, which is one of the highest performance systems in the
+whole industry.
+Our global service and management software have critical factors for Supermicro 3.0. They
+provide a Tier 1 experience for our server and storage portfolio. They create a stronger and
+deeper relationship with our customers.
+Our service team work hand-in-hand with our enterprise customer to (deploy) the highest
+performing and most efficient data center in the world.
+Our software tools are tightly integrated into the customer environment and tool set. We
+achieved ($15 million) of billings from global service and management software in 2017. That is
+nearly double from the last year. And we will continue to double yearly moving forward with a
+higher margin and amortized revenue model driving increased profitability over time.Looking forward, the combination of new Intel Xeon scalable processor and advanced NVMe
+products make this technology transition cycle one of the most significant opportunities for our
+customers in over a decade.
+Along with the Supermicro 3.0, we have the foundation, the product and a strong pipeline to take
+maximum advantage of this technology transition. We believe that fiscal year 2018 will be one of
+the strongest years in Super Micro's history.
+For more specifics on the First Quarter, let me turn it over to Howard.
+`Howard Hideshima, CFO and SVP `
+Thank you, Charles. Good afternoon, everyone. I will focus my remarks on earnings, gross
+margins, operating expenses and similar items on a non-GAAP basis, which reflects adjustments
+to exclude stock compensation expenses.
+Reconciliation of GAAP to non-GAAP is included in the financial statements of the company in
+today's earnings release and in the supplemental details in the slide presentation and prepared
+remarks accompanying this conference call.
+Let me begin with a review of the Fourth Quarter income statement. We ended fiscal year 2017
+with a record $717.9 million in revenues for the Fourth Quarter and executing on a number of
+strategic investments, which put us in very strong position as this technology refresh cycle begins.
+The investments across a number of market verticals and geographies around the world have
+expanded our business opportunities with a host of new and exciting and existing customers,
+especially in large enterprise.
+The increase in revenues of 36.9% from last year was widespread across our market verticals,
+such as enterprise, storage, IoT and accelerated computing. This was offset in part by a decline in
+IDC.
+On a geographical basis, we had strong growth in Asia, Europe and in the U.S. The 13.7%
+sequential increase in revenues was primarily driven by strength in Asia. In particular, China was up
+35% as we leveraged our growing partnerships.
+Non-GAAP gross margin was 13.5%, down 60 basis points from 14.1% a year ago and down 50
+basis points from 14% sequentially. The decrease from prior year and sequentially was primarily
+due to cost increases in memory and SSD; higher sales in Asia, which is typically more
+competitive; and sales of later-stage life-cycle products also affected margins.
+Offsetting these were operational efficiencies, which we have made over the past few years
+through capacity utilization, economies of scale, more complete solution sales with higher
+content of software and services.
+Non-GAAP operating margin was 4.5%, up 1.4% from 3.1% a year ago and 20 basis points from
+4.3% sequentially. The increase in -- from prior year and sequentially were primarily due to the
+growing revenue at a faster pace than our operating expenses. This year, we plan to tighten our
+headcount and expense control with the goal of continuing to leverage the investments we have
+already made and drive improved profitability.
+Net income was $20.7 million, up 100.2% from $10.4 million a year ago and up 2.1% from $20.3
+million sequentially.On a non-GAAP basis, fully diluted EPS was $0.39 per share, which was up from $0.20 per share a
+year ago and up from $0.38 per share sequentially. The number of fully diluted shares used in the
+Fourth Quarter was 53 million.
+Turning to free cash flow on a sequential basis. Cash and cash equivalents, short; and long-term
+investments were $115.9 million, up $5.4 million from $110.5 million in the prior quarter. In the
+Fourth Quarter, free cash flow was a negative $12.3 million, primarily due to an increase in AR of
+$92.1 million, offset in part by a decrease in inventory net of accounts payable of $40.9 million. So
+the increase in AR was primarily due to higher revenues which accelerated late in the quarter.
+Overall, cash conversion cycle days was 95, which is five days lower than the prior quarter and
+four days higher than the same quarter last year. We do expect the SSD and memory issues to
+last through the end of the calendar year.
+Now for a few comments on our outlook. As we enter the First Quarter of fiscal 2018, we see
+strong growth opportunities from a technology refresh cycle which is just starting. We continue to
+see strong traction for our leading solutions in our growing customer base, especially in large
+enterprise.
+These factors, coupled with the investments we have made in our future during the past few
+years, give us strong momentum to accelerate our growth in the many market verticals we serve
+as exhibited by last quarter's results. Therefore, the company currently expects net sales for the
+quarter ending September 30, 2017, in a range of $625 million to $685 million. Assuming this
+revenue range, the company expects non-GAAP earnings per diluted share of approximately
+$0.30 to $0.40 for the quarter. At the midpoint, this will represent an increase of 24% in revenue
+and 9% in EPS from the prior year.
+We continue to expect to reach the $3 billion run rate by the end of the year -- calendar year. It is
+currently expected that the outlook will not be updated until the release of the company's next
+quarterly earnings announcement, notwithstanding subsequent developments. However, the
+company may update the outlook or any portion thereof at any time.
+With that, let me turn it back to Charles for some closing remarks.
+`Charles Liang, Founder, Chairman of the Board, CEO and President `
+Thank you, Howard. We finished the fiscal year 2017 with record revenue and strong momentum.
+Supermicro 3.0 provides the foundation and product to take advantage of this cycle of
+technology transition. We believe that fiscal 2018 will be one of the strongest years in Super
+Micro's history.
+Operator, at this moment, we are ready for questions.
+`Perry G. Hayes, SVP of IR `
+Operator, we're ready for questions.
+Questions And Answers
+Operator
+(Operator Instructions) And we'll take our first question from Mehdi Hosseini with Susquehanna
+Financial Group.Q - `David Ryzhik, Associate, Susquehanna Financial Group, LLLP, Research Division `
+This is `David Ryzhik, Associate, Susquehanna Financial Group, LLLP, Research Division for Mehdi. Just a few if I can. The midpoint of your revenue guide comes out
+to around down 9% Q-over-Q. Just wondering, what are the factors there, particularly given that
+you're entering the product cycle and it's assumed that it would be ramping in the September
+quarter. And I had a follow-up.
+A - `Howard Hideshima, CFO and SVP `
+Yes, David, this is Howard. Yes. We are seeing the ramp-up as Skylake is launched here. Again
+though, the September quarter is seasonally soft. And the -- this guidance is above seasonal
+averages.
+Q - `David Ryzhik, Associate, Susquehanna Financial Group, LLLP, Research Division `
+Got it. And regarding gross margins; if memory pricing was a 50 to 70 basis point hit. And I
+assume it was 70 basis points, that would've put your gross margins at 14.2. Given the -- in the
+June quarter. Given the high volume, the favorable mix from the lower Internet data center, just
+would've thought that the normalized gross margins would've been higher perhaps from capacity
+utilization. Can you just talk about what are the other impacts? I mean, you mentioned Asia
+business. Can you just elaborate a little bit more on some of the mix and if there's any kind of
+pricing impact that we should be aware of in gross margins?
+A - `Charles Liang, Founder, Chairman of the Board, CEO and President `
+Yes. Last quarter, indeed, memory and flash price grew more than 20%. In this quarter alone, we
+have seen an improvement, (net growth) 10%, will improve for the whole quarter, I hope. (Soon)
+the price (stays) high. And that's why we try to be conservative because for memory, for flash,
+ASP or some unknown factor.
+A - `Howard Hideshima, CFO and SVP `
+And David, just to add to what Charles was saying with regards to that; again, we are at the end
+of the technology refresh cycle. And we're coming into a brand new technology refresh cycle. So
+typically at the end of the cycle, the pricing gets a little bit more -- less on the older technology.
+Q - `David Ryzhik, Associate, Susquehanna Financial Group, LLLP, Research Division `
+And so I guess, the follow-up would be; should we expect, given that you're entering the product
+cycle, the favorable margin impact, should we expect Q-over-Q increase in gross margins?
+A - `Howard Hideshima, CFO and SVP `
+Yes. I think the ramp for -- of the product cycle we talked before is probably going to be towards
+the December quarter. It usually takes something like 2 quarters to ramp the production to the
+new chipset.
+Operator
+And we'll move to our next question from Aaron Rakers with Stifel.
+Q - `Joseph Michael Quatrochi, Associate, Stifel, Nicolaus & Company, Incorporated, Research `Great. This is Joe Quatrochi on for Aaron. Just want to go back to the September quarter guide.
+And you -- and talking about that it is above seasonal and then Skylake's going to be more of a
+kind of December quarter story or ramp. What's the kind of outline driver for the September
+guide?
+A - `Howard Hideshima, CFO and SVP `
+Well I think we talk about a number of new engagements and new customers that we're bringing
+onboard. So the pipeline is very strong.
+Q - `Joseph Michael Quatrochi, Associate, Stifel, Nicolaus & Company, Incorporated, Research `
+Okay. Maybe can you talk a little bit about the growth you're seeing in China, what's driving that?
+Is it the Fiberhome partnership or something else?
+A - `Charles Liang, Founder, Chairman of the Board, CEO and President `
+Yes. Our business in China continues to be strong. And we see -- we continue to gain a major
+partner, I mean, especially large corporates. And that trend will continue.
+Q - `Joseph Michael Quatrochi, Associate, Stifel, Nicolaus & Company, Incorporated, Research `
+Okay. Then just a quick follow-up on the gross margin. I don't think -- maybe I misheard the
+manufacturing utilization this quarter. Then -- I mean, do you think this could be the bottom of
+gross margin as we kind of work through some of these memory cost increases?
+A - `Charles Liang, Founder, Chairman of the Board, CEO and President `
+Basically, we hope so.
+Operator
+And we'll take our next question from Brian Alger with Roth Capital `Partners, LLC, Research Division.
+Q - `Brian Matthew Alger, Head of Technology Research & Senior Research Analyst, Roth Capital `
+As you look in the full year out. And you've talked about Supermicro 3.0, is there -- this
+diversification that you're now enjoying, is there a new focus for the company? Or is
+diversification really the name of the game as we look going forward?
+A - `Charles Liang, Founder, Chairman of the Board, CEO and President `
+Indeed, as you may know, we invested a lot, like in last three years, we grew 60% engineering
+manpower. That's why we are able to implement our global service team. And we are able to
+make our server storage data center management software completed and ready. So with all
+those ready, we are able to continue to gain enterprise customers. Indeed, in the last 12 months,
+we won more than 15 large enterprise customers. And this year, we believe we will accelerate the
+large enterprise customer (revenue). That means we are truly ready -- function like a true Tier 1
+company with product advantage and with a completed solution, including service.
+Q - `Brian Matthew Alger, Head of Technology Research & Senior Research Analyst, Roth Capital `
+Great. And I guess, maybe a technical question. Obviously, storage was a really strong performer
+in this past quarter, up significantly both year-on-year as well as sequentially. In the past --
+historical Super Micro, you guys used to ship a lot of JBODs basically. Now you guys have a verystrong NVMe product portfolio. And I'm curious as to how much of your storage solutions these
+days are solid-state as opposed to rotational?
+A - `Charles Liang, Founder, Chairman of the Board, CEO and President `
+Indeed, last year, the whole year, we grew about 30% in storage system overall. And looking
+forward, we will continue to have a strong growth in storage, especially our NVMe base.
+Q - `Brian Matthew Alger, Head of Technology Research & Senior Research Analyst, Roth Capital `
+Is there a margin difference? If we normalize availability of NAND and DRAM, Howard, is there a
+significant difference in terms of this -- the gross margins that you guys can generate with these
+NVMe systems as opposed to the JBOD systems that you were shipping previously?
+A - `Charles Liang, Founder, Chairman of the Board, CEO and President `
+Basically, NVMe new technology, we're supposed to have much better profit margin, however the
+shortage. And at the same time, we need much more volume because we are fastly growing. So
+in that case, we had to pay a premium to gain more volume. That's why margin was low.
+Operator
+We'll move to our next question from Nehal Chokshi with Maxim Group.
+Q - `Nehal Sushil Chokshi, MD, Maxim Group LLC, Research Division `
+Two part question here. So first, memory and NAND flash price increases for the quarter. How
+much was it to you guys on a Q-over-Q basis?
+A - `Howard Hideshima, CFO and SVP `
+Well as Charles mentioned earlier, we saw price increases around 20%. Within the commentary, I
+said that it had about 50 to 70 bps impact to our gross margins.
+Q - `Nehal Sushil Chokshi, MD, Maxim Group LLC, Research Division `
+Okay. And so I guess, there's some customers that did not accept price increases or you had an
+existing fixed-price contract. And the -- what I'm trying to get at is that, there must have been
+some % of customers that didn't accept that. And a, what is that %? Then, b, it seems like, given
+the incremental revenue and then there was actually negative incremental EPS from what I can tell
+that this was actually a negative incremental gross margin business because they didn't accept
+the increased price. So b, is that correct? Then, if that is correct, why honor that contract?
+A - `Howard Hideshima, CFO and SVP `
+Again, the contract was in place, it's expiring and being renegotiated. So again, we had contracts
+there and it was terminated. But again, the volume went up and it did hurt us a bit as we
+mentioned earlier in our press releases. We'll soon rectify it.
+Q - `Nehal Sushil Chokshi, MD, Maxim Group LLC, Research Division `
+Okay. If I may, I'd like another follow-up question, just different topic. The ASP per server really
+took off, it was up 43% year-over-year and 13% Q-over-Q. What's behind this significant increase?
+A - `Howard Hideshima, CFO and SVP `Well I think -- like I said, we're getting into our more full boxes now. As Charles mentioned, we're
+building our breadth into the large enterprise-type customers, (data-type) customers, from taking
+full boxes. Previously, if you remember, our server solutions category had everything from
+barebones to complete server solutions. So we're now moving more into complete server
+solutions, including software and support services.
+Operator
+And we'll take our next question from Alex Kurtz with KeyBanc Capital Markets.
+Q - `Alexander Kurtz, Senior Research Analyst, KeyBanc Capital Markets Inc., Research Division
+Can you hear me okay?
+A - `Howard Hideshima, CFO and SVP `
+Yes. We can, Alex.
+Q - `Alexander Kurtz, Senior Research Analyst, KeyBanc Capital Markets Inc., Research Division
+Great. So just on some numbers here. What was the utilization rate in the quarter? And what was
+the emerging growth -- the emerging storage growth rate?
+A - `Howard Hideshima, CFO and SVP `
+Yes. For the quarter, Alex, it was about 60% on utilization.
+Q - `Alexander Kurtz, Senior Research Analyst, KeyBanc Capital Markets Inc., Research Division
+Yes. And the emerging storage (names)...
+A - `Howard Hideshima, CFO and SVP `
+Let me get back to you on that question.
+Q - `Alexander Kurtz, Senior Research Analyst, KeyBanc Capital Markets Inc., Research Division
+Okay. My question for you guys is just taking a deeper look here at the data center business.
+Obviously, IBM was a tough comp in fiscal '17. But even if you, I think, exclude IBM out of the data
+center number, it was down this year in fiscal '17. Historically, the IDC business has been a good
+business for you guys. So what's going on there? Even if you exclude IBM, it looks like things were
+down. Can this business -- can the IDC business grow in fiscal '18 at the same growth rate as the
+rest of the business?
+A - `Charles Liang, Founder, Chairman of the Board, CEO and President `
+Yes. Indeed, in last year, including last quarter, the major challenge to us was the (no NAND)
+memory. Not just the price is high but, in lots of case, we had to wait for memory. So was no
+NAND memory in some tier, we had to wait for flash. So that kind of impact. That's why we have
+the best IDC, Internet data center business especially.
+Q - `Alexander Kurtz, Senior Research Analyst, KeyBanc Capital Markets Inc., Research Division
+So memory specifically held up projects, Charles, is that, right?A - `Charles Liang, Founder, Chairman of the Board, CEO and President `
+Your question again?
+Q - `Alexander Kurtz, Senior Research Analyst, KeyBanc Capital Markets Inc., Research Division
+So memory impacted your ability to deliver on some opportunities in the IDC space, is that what
+you're saying?
+A - `Charles Liang, Founder, Chairman of the Board, CEO and President `
+Part of the reason. But also because memory price is so high. And as you know, Internet data
+center profit margin basically more limited. That's why we have the best in that area.
+Q - `Alexander Kurtz, Senior Research Analyst, KeyBanc Capital Markets Inc., Research Division
+And just last question for Howard. I can get the storage number later. But what would stop you
+from getting back to like a 15%-plus gross margin exiting fiscal '18, Howard, assuming that
+memory does play out the way you think it does and you have Skylake kicking in, which always is
+helpful for you? So why can't investors think about a 15%-plus kind of gross margin on exiting
+fiscal '18 if all those things were to come together?
+A - `Howard Hideshima, CFO and SVP `
+I think, like, what we've talked about here, Alex, we've got a number of investments, we're going
+to be leveraging off our investments, being better on our operational efficiencies and operating
+expenses. So obviously, there are a lot of opportunities for us to grow that margin through this
+year, especially with the refresh cycle coming. With regard to -- just sort of back on the next-gen,
+it was about 76% year-over-year growth.
+Q - `Alexander Kurtz, Senior Research Analyst, KeyBanc Capital Markets Inc., Research Division
+And you guys still feel that -- you did have that 1 vendor that was acquired by a larger OEM. And
+that hasn't impacted your emerging storage business yet?
+A - `Howard Hideshima, CFO and SVP `
+No. It hasn't. And probably, it will provide us with great opportunities going forward as well.
+Q - `Alexander Kurtz, Senior Research Analyst, KeyBanc Capital Markets Inc., Research Division
+To work with that OEM that acquired that company?
+A - `Howard Hideshima, CFO and SVP `
+That's correct.
+Operator
+(Operator Instructions) We'll take our next question from Nehal Chokshi with Maxim Group.
+Q - `Nehal Sushil Chokshi, MD, Maxim Group LLC, Research Division `
+One bookkeeping question; number of subsystem units?A - `Howard Hideshima, CFO and SVP `
+Number of subsystem units was 1,014,000.
+Q - `Nehal Sushil Chokshi, MD, Maxim Group LLC, Research Division `
+Okay. Then, of the 15 new large-scale enterprise in fiscal year '17, how many of them began in this
+quarter?
+A - `Howard Hideshima, CFO and SVP `
+Can you say that again, Nehal, sorry.
+Q - `Nehal Sushil Chokshi, MD, Maxim Group LLC, Research Division `
+So in the presentation, there was a statement that there was 15 new large-scale enterprise
+customers during fiscal year '17. I'm wondering how many of those actually started deployments
+within this June quarter?
+A - `Charles Liang, Founder, Chairman of the Board, CEO and President `
+Indeed, all of them start deployment in last year. And around half of them started to move on
+June quarter. But because it's new, that's why the first deployment is not as big. But kind of
+relatively a very good size though.
+Q - `Nehal Sushil Chokshi, MD, Maxim Group LLC, Research Division `
+And so effectively, I think there was like a 170% Q-over-Q increase in the enterprise revenue. Was
+that because of all these new large-scale customers? Or was it because you had significant
+expense from the large-scale customers?
+A - `Charles Liang, Founder, Chairman of the Board, CEO and President `
+I believe majority from the new enterprise customer.
+Q - `Nehal Sushil Chokshi, MD, Maxim Group LLC, Research Division `
+Okay. Then for those that did become Super Micro customers at the beginning of the fiscal year,
+how has cadence of orders been from those large-scale customers?
+A - `Howard Hideshima, CFO and SVP `
+Well certainly, the opportunities are there. And we're going to be -- as we've said earlier, the
+pipeline is very good for us.
+A - `Charles Liang, Founder, Chairman of the Board, CEO and President `
+Yes. Last year, we won, I believe, more than 15 large enterprise customer. This year, we foresee
+at least to win another 25 or 30.
+Operator
+We'll take our next question from Mehdi Hosseini with Susquehanna Financial group.
+Q - `David Ryzhik, Associate, Susquehanna Financial Group, LLLP, Research Division `This is `David Ryzhik, Associate, Susquehanna Financial Group, LLLP, Research Division again for Mehdi. Just to clarify, what % of total revenue in the June quarter did
+enterprise make up? And just given your target of adding 30 new customers in fiscal '18, do you
+have a target of what percentage enterprise can make up of total revenue exiting the fiscal year?
+A - `Howard Hideshima, CFO and SVP `
+Yes, for the quarter, David, it was about 8% of total revenues.
+Q - `David Ryzhik, Associate, Susquehanna Financial Group, LLLP, Research Division `
+Great. And do you have a target exiting '18?
+A - `Howard Hideshima, CFO and SVP `
+We haven't put a target out there. Certainly we have plenty of opportunities.
+A - `Charles Liang, Founder, Chairman of the Board, CEO and President `
+I hope at least double.
+Q - `David Ryzhik, Associate, Susquehanna Financial Group, LLLP, Research Division `
+Great. Great. And just related to that, how can we think about OpEx for fiscal '18? You do have an
+aggressive strategy to add -- onboard these new customers. I would assume that would require
+some investment. Yet, in your slide deck, you talked about that leveling off. Just how can we think
+about the quarterly OpEx as moving through fiscal '18?
+A - `Charles Liang, Founder, Chairman of the Board, CEO and President `
+Yes. That's in the chart we shared with you, last three years we grew about 450 engineers, just to
+enable Supermicro 3.0. And pretty much that whole program already is established. So looking
+forward, we don't have to invest actual -- don't have to invest that much actual investment.
+Q - `David Ryzhik, Associate, Susquehanna Financial Group, LLLP, Research Division `
+Got it. And so I guess -- so no real need to invest in sales and marketing capacity to onboard
+additional enterprise customers? Or do you feel like you have what you need?
+A - `Charles Liang, Founder, Chairman of the Board, CEO and President `
+Pretty much ready. We need to hire more wherever limited.
+Operator
+And we'll take our next question from Aaron Rakers with Stifel.
+Q - `Aaron Christopher Rakers, MD, Stifel, Nicolaus & Company, Incorporated, Research Division `
+Yes. And I apologize for kind of joining a little bit late, maybe some housekeeping things first.
+How should we think about the progression of the tax rate?
+A - `Howard Hideshima, CFO and SVP `
+In the prepared remarks -- and this is a new concept for us a bit, Aaron. So if you look on our
+website, you'll see some prepared remarks from us. It will say that we do have a guide for this
+quarter of about 34% on the tax rate.Q - `Aaron Christopher Rakers, MD, Stifel, Nicolaus & Company, Incorporated, Research Division `
+Yes. And I guess I was asking more beyond that. I mean, it's been somewhat volatile, quarter-by-
+quarter, over the last few quarters. So understanding it's somewhat driven by the international
+mix, et cetera. But again, I think it would be helpful to understand, with some of the (taxings) that
+you've done over the last few quarters, what should we be thinking about the progression?
+Where do you think a normalized tax rate kind of falls out for the company?
+A - `Howard Hideshima, CFO and SVP `
+Well I think certainly it gets better for us as we go further -- grow further offshore, increase our
+foreign presence. But at this point, we're guiding 34% for the quarter.
+Q - `Aaron Christopher Rakers, MD, Stifel, Nicolaus & Company, Incorporated, Research Division `
+Okay, fair enough. If you didn't have the constraints this last quarter on DRAM. And it sounds like
+maybe a little bit of flash or SSDs as well, what do you think your revenue could have been? Was
+that a $20 million impact, $30 million, $50 million? I'm just kind of trying to frame how constrained
+you are in terms of fulfilling the potential incremental revenue.
+A - `Charles Liang, Founder, Chairman of the Board, CEO and President `
+Indeed, it's a lot more.
+Q - `Aaron Christopher Rakers, MD, Stifel, Nicolaus & Company, Incorporated, Research Division `
+I missed that. Was that a lot more?
+A - `Howard Hideshima, CFO and SVP `
+That wasn't small. Aaron, I think we've done a very good job of managing this, going through the
+process of managing this. And so quite frankly, we're delivering orders and doing it. You saw
+some acceleration at the end of the quarter. But again, we did a pretty good job of managing the
+SSD and memory shortage.
+Q - `Aaron Christopher Rakers, MD, Stifel, Nicolaus & Company, Incorporated, Research Division `
+Okay. How much strategic inventory on memory and SSDs are you carrying coming out of this
+quarter? I think last quarter, you talked about kind of $63 million of excess inventory.
+A - `Howard Hideshima, CFO and SVP `
+It's similar to that.
+Q - `Aaron Christopher Rakers, MD, Stifel, Nicolaus & Company, Incorporated, Research Division `
+It's similar to that, okay. And your current view of when things kind of get back to normal, where
+you're executing in a quarter that there's no supply constraints, when would you expect that to
+be?
+A - `Howard Hideshima, CFO and SVP `
+Yes. We're not -- we haven't forecasted that per se. We set our guidance...
+A - `Charles Liang, Founder, Chairman of the Board, CEO and President `Basically, the memory and flash shortage problem will be getting better from now on I believe. So
+by December quarter, I believe we will see some significant improvement.
+Q - `Aaron Christopher Rakers, MD, Stifel, Nicolaus & Company, Incorporated, Research Division `
+Okay. Then the final question, I'm sorry to go back to it. But the enterprise business growing as
+much as it is, is pretty remarkable. As that grows and becomes a larger potential piece of your
+overall business, how do we think about the margin profile of that vertical relative to the margin
+of your overall business today, say, relative to the 13.5% growth? I'm just trying to understand how
+we should think about that given what should be a positive mix of software, maybe services, that
+are wrapped around that traditional enterprise customer base?
+A - `Charles Liang, Founder, Chairman of the Board, CEO and President `
+Yes, basically, enterprise customer are more picky with quality of solutions. So the margin will be
+slightly better at least.
+Q - `Aaron Christopher Rakers, MD, Stifel, Nicolaus & Company, Incorporated, Research Division `
+Okay. Any -- is it 200 basis points?
+A - `Howard Hideshima, CFO and SVP `
+We haven't quantified that, Aaron. It's going to be better.
+Operator
+And that does conclude today's question-and-answer session. Mr. Liang, at this time, I'd like to
+turn the conference back to you for any additional or closing remarks.
+A - `Charles Liang, Founder, Chairman of the Board, CEO and President `
+Thank you for joining us today. And we look forward to talking to you again at the end of this
+quarter. Thank you, everyone. Have a great one.
+Operator
+And this concludes today's call. Thank you for your participation. You may now disconnect.

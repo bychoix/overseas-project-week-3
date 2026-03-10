@@ -1,0 +1,767 @@
+Q4 2019 Earnings Call
+
+Presentation
+Operator
+Good morning. My name is Carol, and I'll be your operator today. At this time, I would like to
+welcome everyone to the Medtronic Fourth Quarter Earnings Call. All lines have been placed on
+mute to prevent any background noise. After the speakers' remarks, we will have a question-and-
+answer session. (Operator Instructions)
+At this time, I would like to turn the call over to `Ryan Weispfenning, Vice President - Investor Relations, Vice President, Investor
+Relations.
+`Ryan Weispfenning, Vice President - Investor Relations `
+Thank you. Good morning and welcome to Medtronic's fourth quarter conference call and
+webcast. During the next hour, `Omar Ishrak, Chairman and Chief Executive Officer, Medtronic's Chairman and Chief Executive Officer;
+and Karen Parkhill, Medtronic's Chief Financial Officer will provide comments on the results of our
+fourth quarter and fiscal year 2019, which ended on April 26th, 2019. After our prepared remarks,
+we'll be happy to take your questions.
+First, a few logistical comments. Earlier this morning, we issued a press release containing our
+financial statements and the revenue by division summary. We also issued an earnings
+presentation that provides additional details on our performance and outlook.
+During today's earnings call, many of the statements made may be considered forward-looking
+statements and actual results may differ materially from those projected in any forward-lookingcontained in our period reports and other filings that we make with the SEC, and we do not
+undertake to update any forward-looking statements.
+In addition, the reconciliations of any non-GAAP financial measures are available on our website,
+investorrelations.medtronic.com. References to organic revenue growth exclude the impact of
+material acquisitions, divestitures and currency. References to pro forma exclude the impact of
+material divestitures. Unless we say otherwise, quarterly rates and ranges are given on a constant
+currency basis, which compares to the fourth quarter of fiscal year 2018 after adjusting for
+currency. Unless we say otherwise, annual rates and ranges are given on a comparable constant
+currency basis, which compares to fiscal year 2018 after adjusting for currency and the fiscal year
+'18 divestiture of the Patient Care, DVT and Nutritional Insufficiency business. All of these
+adjustment details can be found in the reconciliation tables included with our earnings press
+release. Finally, our EPS guidance does not include any charges or gains that would be reported
+as non-GAAP adjustments to earnings during the fiscal year.
+With that, I'm now pleased to turn the call over to Medtronic's Chairman and Chief Executive
+Officer, `Omar Ishrak, Chairman and Chief Executive Officer. Omar?
+`Omar Ishrak, Chairman and Chief Executive Officer `
+Thank you, Ryan, and thank you to everyone for joining us. This morning, we reported a solid
+finish to a strong fiscal year for Medtronic. We delivered revenue growth, operating margin and
+EPS, all ahead of Street expectations. Q4 revenue grew 3.6% organic, with outperformance in
+RTG and MITG offsetting challenges in CVG and difficult comparisons in diabetes. In addition,
+emerging markets continued to be a big driver, growing 12%. Our adjusted operating margin
+expanded 140 basis points, including currency, reflecting our entire organization's focus on
+Enterprise Excellence. On the bottom line, we grew adjusted diluted EPS 8.5%, or 9.2% at
+constant currency.
+For the full fiscal year 2019, revenue, EPS and free cash flow, all came in above the guidance
+ranges we set at the beginning of the year as we executed against our commitments. Revenue
+of $30.6 billion grew 5.5% organically. Adjusted diluted EPS grew 10% in a comparable constant
+currency basis and 11.5% pro forma. Free cash flow of $5.9 billion grew 62%, much faster than
+earnings, reflecting the focus of our entire organization on improving this important metric.
+Last June, at our Investor Day, we set a target to improve our free cash flow conversion to 80%
+over the next two to three years, and we achieved it in just one year. FY '19 free cash flow
+conversion was 83%, notably above our peer average. In FY '19, we invested our capital into
+future growth platforms with a focus on returns, while at the same time, increasing our returns to
+shareholders through share repurchases and a rising dividend.
+In Q4, we overcame significant challenges and relied upon the diversification of our business to
+deliver another quarter of solid top and bottom line results. Let's discuss some of the more
+important drivers of our performance, starting with our Restorative Therapies Group, which had
+another very strong quarter, growing 6.5%. The launch of the Mazor X stealth navigated robotic
+system is off to a strong start and building momentum. We sold 26 systems this quarter,
+increasing our spine robotic market share to more than 70% with an installed base that is now
+more than 3.5 times that of our closest competitor.
+While Mazor sales are driving brain therapies' growth, we believe they are also a good leading
+indicator of future growth of our spine division, as customers that are purchasing our Mazor
+system are also choosing to increase their share of Medtronic spine implants. In fact in Q4, overand implant contracts, and the percentage of Mazor robotic cases that use our Medtronic spine
+implants continued to climb, exceeding 60% in Q4, a double-digit increase from Q3.
+When you combine our Spine division sales with the sales of our capital equipment from our Brain
+Therapies division used in spine surgery, our Spine division grew 5.6% with the US Core Spine
+business growing 11%. This is how our competitors report and a strong indication that our enabling
+technologies, robotics, navigation, imaging and powered surgical instruments will help increase
+sales of spine implants.
+In RTG, I'd also highlight neurovascular and pain therapies. The neurovascular, our market leading
+stroke portfolio continues to perform extremely well with double-digit growth in stent retrievers,
+flow diverters, coils and neuro access products. In Brain Therapies, we continued to gain market
+share despite the market's recent slowdown. Our Pain Stim business achieved a number one
+share position in Q4 for the first time in 2.5 years, driven by our differentiated Intellis system with
+its Evolve workflow algorithm and Snapshot reporting.
+In MITG, we grew 5.1%, driven by strength in Advanced Stapling and Advanced Energy. This is an
+impressive performance, as the surgical innovations business overcame challenges resulting from
+the shutdown of a major sterilization supplier's facility. I just cannot say enough about how our
+team stepped up and successfully managed this issue, quickly identifying alternative suppliers
+and rerouting our supply chain to get inventory to the right place at the right time. We expect to
+be back to full sterilization capacity late in Q1
+In CVG, we grew 1.1%, as we faced challenges in Drug Coated Balloon and LVADs as well as CRM
+replacement devices, given where we are in our replacement cycle. At the same time, multiple
+product lines showed exceptional strength in the quarter with high-teens growth from our Reveal
+LINQ Insertable loop recorder and mid-teens growth from both our Micra Transcatheter Pacing
+System and our Arctic Front AF Ablation Catheters. We also continued strong double-digit growth
+in our TAVR franchise. Our TYRX anti-infection product grew in the high 20s, and we saw a
+notable pickup in its utilization following the rapid data presentation at the American College of
+Cardiology meeting in March.
+In Diabetes, we grew 0.6%, an anomaly given difficult prior-year comparisons that we described
+on our last earnings call. Despite the challenging comparisons, Diabetes delivered mid-teens
+growth in international markets and a fourth consecutive quarter of triple-digit growth in
+standalone CGM. Looking ahead, we expect diabetes growth to re-accelerate in the first quarter
+and to be accretive to total Company growth in FY '20. At the ADA Conference in June, we plan
+on hosting an Investor Meeting where we will update you on the progress of our pipeline and an
+exciting series of product launches we have planned over the next 24 months.
+Now, turning to emerging markets, our performance continues to be strong, growing 12% this
+quarter and representing 16% of Medtronic revenue. Our strength was diversified across all four
+groups and across multiple geographies, with China growing 13%, South Asia by 22%, and
+Southeast Asia by 20%. In addition, Middle East and Africa grew 13% and both Eastern Europe
+and Latin America grew 8%. Our strategies of public and private partnerships, optimizing the
+distribution channel, and in some markets, localization of R&D and manufacturing are driving
+growth and differentiating Medtronic. Overall, it was another solid quarter despite the noted
+headwinds and a really strong year for Medtronics.
+But as we look forward, we're even more excited about what lies ahead as investments we've
+been making in our pipeline begin to pay off with accelerating revenue growth and ultimately
+value creation for our shareholders. We expect our top line to accelerate over the course of FY'20 and into FY '21, driven by the anniversary of recent headwinds, combined with major products
+that are launching now or will launch over the next 12 months.
+It's worth highlighting some of these near-term launches. I'll start with CVG. In our TAVR business,
+we are expecting low risk indication expansion in the US as well as launches of our next
+generation TAVR valve, the Evolut PRO plus. We intend to launch this valve across all sizes,
+including a large 34 millimeter valve.
+In CRHF, two of the biggest launches we have in FY '20 are; number one, our Reveal LINQ 2.0
+Insertable Cardiac Monitor; and number two, our Micra AV Transcatheter Pacing System. LINQ 2.0
+will feature Bluetooth connectivity, five year battery longevity, enhanced sensing specificity and
+the ability to monitor new physiological parameters. Micra AV, which is one of the most disruptive
+products in our pipeline, is expected to launch around fiscal year-end. It will enable us to access
+and disrupt over 55% of the eligible pacemaker market, up from 16% today.
+In MITG, we continue to make great progress with our soft tissue robotics program and we are
+now preparing for the initial launch in FY '20, consistent with our commentary over the last several
+quarters. Our initial launch activities will occur outside the US and support our clinical and
+regulatory strategies and geographies around the globe. I know everyone is anxious to see the
+robot, and for competitive reasons, we've obviously kept this program close to the vest. The
+good news is that we plan to host an analyst event this fall to show the robot. We're in the
+process of working on dates and as soon as we get everything confirmed, we'll be sure to send
+the analysts an invitation.
+In RTG, as I've mentioned earlier, the launch of the Mazor X Stealth is off to a great start, and we
+expect this will continue to drive growth in our neurosurgery business, along with creating
+demand for our core spine implants.
+In neurosurgery, we're preparing for the launch of the Midas Rex MR8 drill platform in the first half
+of FY '20 and we expect its differentiated features to drive share growth. In neurovascular, we
+just launched our next-generation stent retriever Solitaire X and the React 071 Aspiration
+Catheter, advancing our leadership in the treatment of ischemic stroke.
+In Pain Therapies, we expect a full launch in FY '20 of our Accurian Nerve Ablation platform. In
+Diabetes, we expect to file for a non-injective indication for CGM sensor in early FY '20 thereby
+allowing us access to the US Medicare market for the 670G. In addition, in FY '20, we expect to
+launch the MiniMed 780G, our advanced hybrid closed loop system with Bluetooth connectivity.
+The 780G will feature next generation algorithms designed to improve time in range to over
+80%.
+The system will reduce the burden of carb counting, enable remote monitoring, as well as
+remote software downloads and includes several key enhancements to our CareLink system.
+What all this means for the Company as a whole is that we expect our growth rate to accelerate
+over the course of FY '20 with the second half growing faster than the first, as we; one,
+anniversary recent headwinds; and two, bring these innovative products to market over the next
+several quarters.
+Moreover, we expect our top line momentum to build, heading into FY '21. As we get the
+increasing benefit of FY '20 product launches that I just mentioned, as well as the benefit of
+several products that we expect to launch early next fiscal year, such as, our first deep brain
+stimulation system, the very first deep brain simulator with sensing capability. Our DiamondTemp
+focal ablation catheter system which we'll initially launch in Europe and our InterStim micro 3CCMRI compatible sacral nerve stimulation system, which is fully rechargeable and 80% smaller than
+our current market leading device.
+While there isn't enough time today to go through the longer-term pipeline with all of these
+products launching, the takeaway that I want you to have is that each of our four groups has the
+potential to see accelerating growth in FY '21.
+Let me now ask Karen to take you through a discussion of our fourth quarter financials. Karen?
+`Karen L. Parkhill, Chief Financial Officer `
+Thank you. As Omar mentioned, we delivered fourth quarter organic revenue growth of 3.6% and
+EPS growth of 8.5%. For the full year, our adjusted operating margin expanded 120 basis points,
+including 50 basis points on a constant currency basis and in line with the guidance we gave at
+the beginning of the year. We remain focused on our Enterprise Excellence program, better
+leveraging our size and scale and driving improved effectiveness and efficiency across the
+Company. This past year in particular, the benefits of the program were most evident in SG&A,
+where we drove 40 basis points of improvement.
+Our fourth quarter adjusted operating margin was 31.5%, an improvement of 140 basis points, or
+50 basis points on a constant currency basis. In addition to driving expansion by executing on our
+Enterprise Excellence program, we also absorbed the unplanned expense of China tariffs as well
+as the negative 20 basis point impact on our operating margin from the sterilization issue, with
+purposeful cost control throughout the Company.
+In the fourth quarter, we successfully executed a EUR7 billion debt offering and used the
+proceeds to reduce US dollar denominated debt. The new euro issuance carries a weighted
+average coupon rate of 0.875% [ph], lowering the effective interest rate on our long-term debt
+portfolio and providing savings for the Company for years to come.
+Our adjusted nominal tax rate was 14.1% for the quarter and 13.6% for the year, in line with the
+expectations we set on the third quarter call. Excluding the non-recurring tax benefits we received
+in fiscal year '19, our adjusted nominal tax rate would have been approximately 14.75%.
+Perhaps most exciting is our annual free cash flow at $5.9 billion, a significant improvement over
+the $3.6 billion we generated last year and well above our guidance and expectations. All of our
+colleagues have made improving free cash flow a priority, and this focus is yielding strong results,
+enabling us to achieve our conversion goal well ahead of the schedule I gave you at our Investor
+Day in June. Going forward, you can expect our free cash flow to grow largely in line with earnings
+as we continue to target an 80% conversion rate, above our peer average, over our long-range
+plan.
+Before I move to guidance, I want to reiterate our commitment to balanced capital deployment.
+We continue to invest in future growth through disciplined investment in R&D, along with tuck-in
+acquisitions like Mazor and EPIX among others. And we remain committed to returning a
+minimum of 50% of our annual free cash flow to our shareholders. In fact, in fiscal '19, we
+returned $4.6 billion, 78% of the free cash we generated, to our shareholders through both
+dividends and net share repurchase. Our total shareholder payout for the year was 65% on
+adjusted net earnings.
+Now, turning to our guidance for fiscal year '20; as a starting point, we expect organic revenue
+growth to be 4% plus or minus. While the impact of currency is fluid, if recent exchange rateshold, foreign currency would have a negative impact on full-year revenue of approximately 1% to
+1.5%.
+By business group, we expect MITG to grow 4.5% to 5%, RTG to grow 4% to 4.5%, Diabetes to
+grow 6% to 8%, and CVG to grow 2% plus or minus, all on an organic basis. We expect our first
+quarter growth rate to be lower than normal, on the heels of a better-than-expected fourth
+quarter, transitory headwinds from the sterilization shutdown in MITG and a slowdown in our
+peripheral business from Paclitaxel coated balloons. Given these, we expect organic revenue
+growth in the first quarter to be in the range of 2% to 2.5%, with currency having a negative
+impact of 2.1% to 2.6% at recent rates.
+By business groups, MITG and RTG are expected to grow 3% to 3.5%, CVG looks flat, and
+diabetes is expected to grow 5% plus or minus, all on an organic basis. From there, we expect
+our revenue growth to accelerate over the course of the year with constant currency growth
+closer to 4% in the second quarter and north of 4% in the second half. We expect to continue to
+drive margin expansion of approximately 40 basis points on a constant currency basis, driven by
+our Enterprise Excellence initiatives. For modeling purposes, we would assume a modest
+improvement in the first half of the year, given lower revenue growth and a slight FX headwind
+with increasing improvement in the second half. We expect our tax rate to increase from 13.6%
+last year to 16% to 16.5% in fiscal year '20, given the changes associated with the US tax reforms
+that we discussed previously. Of course, we remain focused on optimizing our underlying
+operating tax rate over time under these new regulations.
+With respect to earnings, we expect non-GAAP diluted EPS in the range of $5.44 to $5.50 which
+includes a negative $0.10 impact of currency at recent rate. For the first quarter, we expect $1.17 to
+$1.19, including a $0.04 currency headwind at recent rates. After delivering on each of our
+commitments in fiscal year '19, I couldn't be more excited about fiscal year '20 and beyond.
+As Omar outlined, we expect our revenue growth to accelerate over the course of the year as
+we anniversary recent headwinds and launch a series of major products, and we expect this
+momentum to build into fiscal year '21 with each of our four groups having the potential to see
+accelerating growth next fiscal year.
+Now, I will return the call back to Omar.
+`Omar Ishrak, Chairman and Chief Executive Officer `
+Thanks, Karen. Before we go to Q&A, I'd like to acknowledge our 90,000 Medtronic employees
+who work tirelessly and are dedicating to fulfilling the Medtronic mission, alleviating pain,
+restoring health and extending life for so many around the world. In fiscal '19, our employees
+together with our physician partners served over 75 million patients or more than two patients
+every second. Let's now move to Q&A. In addition to Karen, our four group presidents; Mike
+Coyle, Bob White, Geoff Martha and Hooman Hakami are also here to answer your questions.
+We want to try to get to as many questions as possible, so please help us by limiting yourself to
+one question, and if necessary, a related follow up.
+Questions And Answers
+Operator
+(Operator Instructions) Our first question this morning comes from `Bob Hopkins, Analyst, Bank of America from Bank of
+America. Please go ahead.Q - `Bob Hopkins, Analyst, Bank of America `
+Hi, thank you and good morning. Congrats on a strong finish to the year. I just wanted to kind of
+ask a little bit about some of the revenue forecast that you're making. So two very quick things:
+one, given your first quarter guidance in that 2% to 2.5%, can you just walk us through in as much
+details you're willing to provide, some of the incremental headwinds that you're seeing in Q1 or
+that you're forecasting in Q1 versus the 3.6% growth that you put up in Q4. And then I'll just go
+ahead and ask a quick follow-up here. This is a question for Mike. Just wondering if you could
+comment on TAVR and what you're seeing since the presentation of the data at ACC because
+the TAVR number looked maybe a smidge lighter than we were thinking. So those are the two
+questions. Thanks for taking them.
+A - `Omar Ishrak, Chairman and Chief Executive Officer `
+Karen, you want to take the...
+A - `Karen L. Parkhill, Chief Financial Officer `
+Sure, thanks Bob. Appreciate the question. So in the first quarter, we have guided to 2% to 2.5%.
+And as you know, the fourth quarter came in a little better than we expected. Recall that we had
+guided around 3% for the quarter and we came in at 3.6%. So, given the strong finish to the fiscal
+year, it's likely that we'll see a little bit of softness in the first quarter. We also have the lingering
+effect of the sterilization issue in MITG. We did use our inventory on hand to help mitigate that in
+the fourth quarter, and now we have less on hand as we move into Q1. We expect the sterilization
+issue to be behind us as we said at the end of the quarter but will face some slowdown in
+revenue given that probably to the tune of about $20 million to $30 million, which is about a 100
+bps of MITG growth there. And then, as you know, Q1 will be the first quarter, the full impact of
+the DCB issue following the uncertainty of the FDA announcement in June. That could be another
+$20 million to $30 million headwind in CVG and about a 100 basis points of CVG growth. But as
+we noted on the call, we do expect our growth to accelerate over the course of the year as we
+anniversary various headwinds and we introduced our strong pipeline.
+I'll let Mike answer the TAVR question.
+A - `Michael J. Coyle, Executive Vice President and Group President of Cardiac and Vascular Group `
+Yeah Bob, thanks for the question. We were quite pleased with the TAVR number. I think the
+overall growth rates for both -- the global growth rate was around 11%, US growth rate around
+12%, and we were very much in line with that. The announcements at ACC obviously referred low
+risk and there have been no low risk approvals yet, and of course, there is no reimbursement for
+products that are unapproved. So we didn't see a marked increase in penetration of that group
+that will follow after the FDA does the actual approvals of the expanded indications for use. But I
+would point out, a year ago, we were much more active in terms of opening up new accounts
+which carries with it stocking that would've put more revenue in the prior year number. So implant
+growth rates for us were more in the mid-teens rate in US. So we're very pleased with obviously
+the momentum in the business and especially with the potential to further grow and into the low-
+risk patient population.
+Q - `Bob Hopkins, Analyst, Bank of America `
+Great, thank you.
+A - `Ryan Weispfenning, Vice President - Investor Relations `Thanks, Bob. Next question please, Carol.
+Operator
+Our next question comes from `David Lewis, Analyst, Morgan Stanley from Morgan Stanley. Please go ahead.
+Q - `David Lewis, Analyst, Morgan Stanley `
+Hi, good morning. Just one for Karen and one for Hooman here. So Karen, I wonder if you could
+help us with the earnings bridge here for 2020. Other income was a significant driver of EBIT in
+'19. We also had a very significant debt restructuring. So as you think about 2020, can you just sort
+of help us understand the -- our assumptions, what they should be as it relates to other income
+and more specifically actually interest expense, because to us, the earnings guidance looks a little
+conservative? So any help there will be very helpful.
+A - `Karen L. Parkhill, Chief Financial Officer `
+Sure. Thanks for the question, David. So on other income, it was a little strong this quarter and we
+had a significant strength in it from just the currency and our hedging program. But we also did
+have other royalty expense come in better, and as we focused on driving improved royalty
+income where we can, you're seeing that play out and that should continue. In terms of the debt
+restructuring, we were obviously pleased with the euro debt offering and our US debt tender.
+And going forward, you should expect around $200 million to $210 million a quarter in interest
+expense from us.
+Q - `David Lewis, Analyst, Morgan Stanley `
+Okay, that's very helpful. And then just Hooman, a quick question on diabetes. So I think in the
+recent months, there has been sort of this emerging concern that the industry is changing very
+rapidly, just given reimbursement regulatory and various technology changes, I just wondered if
+you can help us understand how is Medtronic positioned over the next one to two years from a
+share perspective in both your pump and CGMS business. And do you think, you know an
+independent diabetes business would allow you to adapt or grow more quickly? Thanks so much.
+A - `Hooman C. Hakami, Executive Vice President and Group President of Diabetes Group `
+Sure. Thanks, David. Let me actually take the second one first. We get a lot of benefit from being
+part of Medtronic, the scale and breadth of the Company we leverage every single day with
+respect to things like wafer-scale technology that we're doing with CVG. As we think about global
+expansion, we leverage our regulatory resources and relationships around the world. So there is
+tremendous benefit and I think that helps us drive the growth that we need.
+Now, with respect to the competitive positioning and all of that, for all that's been said and
+written about the competition and its impact on us, let me just maybe give you a few data points
+with respect to how we finished. First, our installed base in FY '19 grew by mid-single digits. This is
+true globally as well as in the United States. In addition, our patient retention rates were in line
+with historical rates globally. And as we think about FY '20, we see a lot of things to be excited
+about; international that you heard from the commentary is going to be and continue to be a big
+portion of our growth. This is about 45% of our global revenue and it's growing in the mid-teens
+and we expect it to grow in the mid-teens and the other dynamics that we outlined at the Analyst
+Day is the CGM penetration and the CGM growth of our installed base as well as standalone
+CGM growth which had four consecutive quarters of triple-digit growth.You put all of those things together, David, we feel really good about our ability to be accretive to
+overall Medtronic in FY '20 and that's even before we talked about the pipeline that we'll share
+with you at ADA, which is incredibly exciting and will bring a whole host of new innovation over the
+next 24 months.
+A - `Ryan Weispfenning, Vice President - Investor Relations `
+Thanks, David. Can we take the next question please, Carol.
+Operator
+Our next question comes from `Vijay Kumar, Analyst, Evercore ISI from Evercore ISI. Please go ahead.
+Q - `Vijay Kumar, Analyst, Evercore ISI `
+Hey guys, congrats on a nice quarter here. Two quick ones from me; one product and one maybe
+on the guidance here. On the product side, Omar, the robot, the Analyst Day, this is new
+information to the Street. There had been some concerns; maybe this could get pushed out. I'm
+just curious on, is this now the preview of the robot. Does that mean we could see a launch lot of
+the robot end of the year, some really nice Mazor X numbers? So is that -- is that sort of a
+preclude to what we could see on the surgical robotics side in terms of ramp. And then on the
+guidance front, Karen, you mentioned tax headwinds, are the tax regulations finalized and if
+they're finalized, when we think about fiscal '21, are there any tax planning new structures you've
+put in place to offset some of this, as we look forward for '21. Thank you.
+A - `Omar Ishrak, Chairman and Chief Executive Officer `
+Okay. Let me start on the robot and then I'll let Bob also comment on it. I think first of all, you will
+see the actual robot when we invite you. That is the product that we intend to commercialize. And
+I think you know our commitment for an FY '20 launch is still there, as I mentioned in the
+commentary. But let me just say a little bit about the comparison with the Mazor X. As you know
+Mazor X is a different robot, but this methodology of combining our high value consumables,
+which in the Mazor case are -- actually are tools as well as the spinal implants in commercial
+packaging with the capital equipment is a big differentiator for Medtronic. And I can tell you that
+Bob's team is all over this looking at the experiences that we're getting with the Mazor X launch
+and will translate them. And this is not just the commercial framework; it's how we structure the
+sales force, the training, and a whole variety of other areas. So I don't know, Bob, do you want to
+add any color.
+A - `Robert White, Executive Vice President and President of Minimally Invasive Therapies Group `
+No, Omar, Vijay, again, thanks for the question. We're excited about where we're at with the
+program. We look forward, you learn a lot more this fall when we hold the Analyst Day for you. For
+obvious reasons, we're not going to go into the details about our global launch, in which countries
+and when, but consistent with Omar said and consistent with what we said in the past, we're
+preparing for an FY '20 launch.
+A - `Karen L. Parkhill, Chief Financial Officer `
+And Vijay, in terms of the guidance on the tax headwind, the final regulations are not yet out. So it
+is not final. We will obviously be focused on optimizing our tax rate over time, and we've been
+working on that already. And so you've seen our guide in taxes move from a range of 16.7% to
+the lower end of that range 16% to 16.5%. And of course, once the regulations are final, we'll bewe can improve from there, but we'll see. And if you just think about the guidance that we've
+given with the tax rate headwind, tax is about a $0.20 headwind on our year and we've offset
+some of that with the debt offering that we did, call it about $0.08 and we've got the $0.10
+headwind on FX. So when you look at all of that together, if you look at our adjusted EPS growth,
+that would be about 8% to 9%.
+Q - `Vijay Kumar, Analyst, Evercore ISI `
+Thank you, guys.
+A - `Ryan Weispfenning, Vice President - Investor Relations `
+Thanks, Vijay. Next question please, Carol?
+Operator
+Our next question comes from Robbie Marcus from JPMorgan. Please go ahead.
+Q - `Robert Marcus, Analyst, JPMorgan `
+Great, and again, congrats. Either maybe for Karen or Omar, if you could just talk about some of
+the product launches in Fiscal '20 and then Fiscal '21 that give you confidence in accelerating
+growth throughout the course of this year and also, I think it's great to hear accelerated growth in
+Fiscal '21 as we sit here over a year out from that. What are the products that give you
+confidence?
+A - `Omar Ishrak, Chairman and Chief Executive Officer `
+Well, there is a whole series of them and I'll go through them because they're all -- they're all
+contributing, they're all excited. First, the lower risk indication on the TAVR, plus the Evolut PRO
+launch, which gives you a larger valve and a confider sheet, that's in FY '20. Together with that,
+the LINQ 2.0 which we're really excited about with more accuracy with more -- with more
+physiological parameters as well as Bluetooth connectivity, that's in CVG like straight off the bat in
+FY '20.
+And then in RTG, You have the Accurian RF ablation system and the Midas Rex MRAs. I mean
+these are continuous innovation products that we think will make a difference. And then the --
+back to CVG actually the Micra AV, which will have an October submission and we expect
+sometime late in the year sales to start, will also have a carryover into FY '21 on a strong basis.
+And then last and not the least, in Diabetes with -- we expect the 780 to launch towards the end
+of the year as well as the non-adjunctive labeling, which will allow us greater market access and
+that'll happen lot sooner in the year.
+So, those are things that we can talk about like right now in FY '20 and all of these will, in many
+ways, carry on into FY '21, but there are other specific ones and then I'll repeat the Micra AV
+because that will have a full year benefit and that's a big disruptive program for FY '21, But also
+the DiamondTemp RF ablation catheter that comes out of CVG and then RTG has a whole series
+of products. The DBS Percepta product from neuromodulation, which is the first product which will
+have sensing, that will be launched in FY '21. In addition to that, Pelvic Health has the InterStim
+micro which will launch, again, early in FY '21 maybe towards the end of FY '20 and you know the
+Diabetes will have continued rollout of the 780G, which will have significant benefits, as I
+mentioned in the commentary. And again, RTG the soft tissue robotics which I've just talked
+about will launch in FY '20 but the full benefit of that we'll start to see in FY '21.So you know that's a lot of products and I'm tell you I didn't even mention all of them. There is
+some in staplers and other areas in neurovascular in -- and so there's a whole series of products
+that continue our momentum in CRHF. So we were pretty excited and the pipeline here is solid.
+These are solid products, many of them very close to launching and others close to approval. So
+we're really excited about this.
+A - `Karen L. Parkhill, Chief Financial Officer `
+And Robbie, our pipeline is the most exciting, but I would just remind you too that, particularly in
+CVG, we have some anniversary of some headwinds that will help us with the growth acceleration
+as well. We had the accounting change in our Services & Solutions business in Q2, which is one
+anniversary --will anniversary the loss of our MCS share loss in Q3, and then we'll have a partial
+anniversary of the drug-coated balloon issue in Q4.
+Q - `Robert Marcus, Analyst, JPMorgan `
+That's really helpful. And maybe Karen, just a follow-up for you; appreciate all the commentary on
+the operating margin progression through the year. Is there any help you can give us on maybe
+gross margin versus operating margin and how currency might flow through that line item?
+Thanks.
+A - `Karen L. Parkhill, Chief Financial Officer `
+Sure. Thanks for the question. On gross margin, the gross margin as you know can be impacted
+by our product mix and so you haven't seen, at least in FY '19 expansion in gross margin. We've
+driven the expansion in operating margin and SG&A. While our Enterprise Excellence program is
+designed to offset the pressure that we have in pricing and mix, there could be some years
+where we see expansion in gross margins, but I wouldn't count on a lot there. In terms of FX, we
+do have an FX headwind next year and that should show up some in the gross margin line.
+A - `Ryan Weispfenning, Vice President - Investor Relations `
+Great, thank you Robbie. Go to the next question please, Carol?
+Operator
+Our next question comes from `Joanne Wuensch, Analyst, BMO Capital Markets from BMO Capital Markets. Please go ahead.
+Q - `Joanne Wuensch, Analyst, BMO Capital Markets `
+Thank you for taking the question. Can you hear me okay?
+A - `Omar Ishrak, Chairman and Chief Executive Officer `
+Yes, we can. Go ahead Joanne.
+Q - `Joanne Wuensch, Analyst, BMO Capital Markets `
+Wonderful, I have two questions. The spinal cord stimulation market, could you please give us an
+update on your view of that. I think you mentioned that you believe that Medtronic grew faster
+than the market in the quarter? And then my second question has to do with the paclitaxel panel
+that's upcoming, what do you think we should expect out of that. Thank you
+A - `Omar Ishrak, Chairman and Chief Executive Officer `Okay, thanks Joanne. I'll let Geoff take the spinal cord question and then onto Mike for the...
+A - `Geoffrey Martha, Executive Vice President and President of Restorative Therapies Group `
+Yes. So Joanne, how you're doing? On the spinal cord stimulation market, it is a little bit down --
+flattish to even down last quarter, but we did -- and Intellis is performing strong relative to the
+competitors. We're getting great feedback on the battery, the recharge speed and how long the
+charge last, and the outcomes we're getting from the Evolve workflow, which we published in the
+Vector's trial and the Vector study. So we're getting great feedback and we've picked up, by our
+estimates, about 2 points of share year-over-year and we're back to the number one share
+position, which is the first time in 2.5 years. So we're feeling good. Now, the overall market, like I
+said, I wish it were growing faster. It has -- it has slowed and we have a couple of thoughts on
+that. I mean, one is that we see a lot of technology that's been -- we're on the back end, I'd say
+of a nice wave of technology innovation and clinical indication expansion. We're in the back end of
+that and then there are -- I wouldn't say there's new payer policies out there, but there is
+increase payer scrutiny that we're seeing really primarily driven by the performance of our
+competitors devices that has slowed the market a bit.
+A - `Michael J. Coyle, Executive Vice President and Group President of Cardiac and Vascular Group `
+And then on the question of Paclitaxel, obviously, we're looking forward to that opportunity to
+broaden the discussion of the data that's available on Paclitaxel products. Obviously, we have full
+visibility to our own data and are very confident in the performance of our Admiral product
+because we have over 1,800 patients worth of data that has been carefully followed. So from my
+perspective, the discussion to date has really focused on the three PMA submissions from
+Medtronic, Bard and Cook and I think there's a much broader set of data to be looked at that in
+all cases is more favorable from our perspective.
+First, there is additional follow-up -- the capture of patients who were lost in follow-up in the data
+that we have been doing and it's certainly been helpful to the overall numbers for the
+submissions on the PMA data which will be presented at this session. In addition, we have other
+datasets, the Japan randomized controlled study of 100 patients that basically not only showed
+no statistical difference in death rates between DCB and balloons, but also showed a numerical
+higher rate in the PTA arm.
+And then, we will also be submitting data from the IN.PACT DEEP study, which is in the critical limb
+ischemia group, which is a study that would size very similar to the SFA study that FDA
+referenced, 358 patients followed out to five years. And in fact there, we saw higher death rates
+associated with the PTA arm than the DCB arm in five years. So these additional datasets, we
+think will be helpful. There are also datasets that we would expect to see from patient meta-
+analysis that VIVA is doing as well as we think there will be interesting data from claims analysis
+that should be helpful. Of course, we don't have visibility to all of the other company's data. So
+we'll only see those when we get to the actual panel itself, but everything we have seen has us
+even more comfortable than we were in the beginning in terms of the safety of these products
+and they are profoundly efficacious for limiting re-interventions in the patient group.
+So we go into the meeting really believing the data is very strong, but it's important to
+understand that no studies have been sized to answer the question of mortality in this patient
+group and so it's going to be important that we look at the risk benefit of these datasets. And as
+I said, everything we've seen from our own data sets, which are the largest in the industry, make
+us very confident.Q - `Joanne Wuensch, Analyst, BMO Capital Markets `
+Thank you very much and good quarter.
+A - `Ryan Weispfenning, Vice President - Investor Relations `
+Thank you, Joanne. Next question please, Carol.
+Operator
+Our next question comes from Matt Taylor from UBS. Please go ahead.
+Q - `Matthew Taylor, Analyst, UBS Equities `
+Hi, thank you for taking the questions. I just had one follow-up on the Paclitaxel question. I wanted
+to understand if you had a view on PCR statement that came out this week, it seems relatively
+favorable, and if you could talk about how much of a headwind is baked into your guidance or
+maybe if things go well in June. How much of that you think could come back?
+A - `Michael J. Coyle, Executive Vice President and Group President of Cardiac and Vascular Group `
+So, we were pleased to see the PCR statement. It certainly was a more encouraging or let's say,
+softer statement than FDA had made basically pointing out the limitations of the meta-analysis
+data that has been shown and reinforcing the efficacious nature of these products in terms of
+improving patient outcomes. So they were clearly more balanced in their view than we have seen
+in the FDA discussions. Now obviously, we'll see more data coming in and we'll have to weigh
+that. In terms of how we have provided guidance, we are basically assuming that what FDA has
+stated is going to remain for the entire balance of the year and obviously we've seen how the
+market has reacted to that and so we just extrapolated that out through the rest of the year. So if
+FDA were to become more favorable in their commentary, obviously that could improve
+outcomes, but right now our guidance would assume that there will be no change coming out of
+it.
+Q - `Matthew Taylor, Analyst, UBS Equities `
+Thank you. And then, just wanted to ask one question on neuro, so the neurovascular growth is
+very strong. Could you talk about some of the components of that and whether you're seeing a
+stronger market there? Are there any product launches that helped you this quarter?
+A - `Omar Ishrak, Chairman and Chief Executive Officer `
+Go ahead, Geoff.
+A - `Geoffrey Martha, Executive Vice President and President of Restorative Therapies Group `
+Yes, sure. So first of all, in neurovascular, we have -- at Medtronic, we've a broad portfolio playing
+in every segment, and that is our strategy. And we're on number one positions in both ischemic
+and overall hemorrhagic, and we've recently refreshed that entire portfolio. Nobody else can say
+this. So it's a very strong market. We're very well positioned across every segment. Now, what's
+driving our growth in the near term is the -- first of all, entering the aspiration market, where we
+launched the 068 and now the 071 Riptide systems or catheters, and we've got -- we're getting
+really, really positive feedback on both. The 068 started out a little slow because we had to make
+some adjustments to it. We had a soft launch. Made some adjustments to the product, and now
+it's picking up.The 071 hit the ground running and we're getting great feedback. And we estimate that we're
+somewhere around 15% of this market already, well ahead of our plans in the aspiration segment,
+well ahead of our plans. We see ourselves getting to 25% by the end of the fiscal year and we
+think we'll eventually get to 50% of this aspiration market. And on top of that, we just launched
+our next-gen stent retriever to maintain and extend our lead in that segment. So those are some
+of the things that are driving it. And I'd say the other big driver is just the global nature. We are
+just growing very fast in China. And so the fact that we're global is also helping, especially in
+China. So it's a global and broad and refreshed product portfolio.
+Q - `Matthew Taylor, Analyst, UBS Equities `
+Thank you, great color, thanks.
+A - `Ryan Weispfenning, Vice President - Investor Relations `
+Thanks Matt. Next question please?
+Operator
+Our next question comes from `Kristen Stewart, Analyst, Barclays from Barclays. Please go ahead.
+Q - `Kristen Stewart, Analyst, Barclays `
+Hi, good morning, and thanks for taking the question. I just wanted to just talk a little bit just about
+the free cash flow. You guys did a great job of really improving the metrics there. How should we
+just think about the deployment of capital? I know, in the prepared remarks, you talked about the
+commitment to at least 50% to shareholders, but how should we just think about more on the
+M&A side? I think you mentioned tuck-ins, but should we expect an increase in the rate of maybe
+acquisitions going forward and more focused on products, and then really leveraging the
+portfolio? Or just how should we think about that going forward?
+A - `Omar Ishrak, Chairman and Chief Executive Officer `
+I think, Kristen, you're sort of on the right track there. Yes, we have a lot of firepower here and
+we're building it and we intend to use it in M&A. And the focus on M&A indeed is in tuck-ins that
+accelerates our growth and examples of things that we've already done, expect more of the
+same. We just did the Titan Spine acquisition. We had EPIX Therapeutics earlier in the year. We did
+Nutrino Health, which is a great plug into our Diabetes pipeline with nutritional database, and you
+will see that that works through into our next generation pumps. And then the Mazor Robotics
+obviously, which is -- I congratulate Geoff on that one because that's a great acquisition and one
+that's really pulling through in spine.
+So those are examples and they're not all exactly that small either, and you expect more of that.
+Now we'll always be disciplined about this. We'll look at the returns that we get and it has to be
+above our cost of capital. We look at the strategic fit and we look at the earnings impact. And we
+look at those three things in a balanced manner, as well as our team's ability to execute. And put
+all that together and that's the strategy that we have for M&A and we've got tremendous
+firepower and you see us accelerate that process as much as is available.
+Q - `Kristen Stewart, Analyst, Barclays `
+Okay. So it sounds like kind of taking the M&A focus and driving more depths across the
+businesses versus going broader, you feel like you're in all spots that you are or need to be
+today.A - `Omar Ishrak, Chairman and Chief Executive Officer `
+Yeah, that's right.
+Q - `Kristen Stewart, Analyst, Barclays `
+Okay.
+A - `Omar Ishrak, Chairman and Chief Executive Officer `
+This isn't about the -- that will help the growth of our current business.
+Q - `Kristen Stewart, Analyst, Barclays `
+Okay. Thanks very much.
+A - `Ryan Weispfenning, Vice President - Investor Relations `
+Thanks Kristen. Next question please.
+Operator
+Our next question comes from `Larry Biegelsen, Analyst, Wells Fargo from Wells Fargo. Please go ahead.
+Q - `Larry Biegelsen, Analyst, Wells Fargo `
+Good morning. Thanks for taking the question. One high level question for Omar, one product
+related question for Geoff. So Omar, it feels like there's been a little bit of a shift in the regulatory
+environment towards more post market action from FDA, do you agree with that? Has anything
+changed on the pre-market approval side and what are the implications for Medtronic? And
+second, for Geoff, there is a new -- a new competitor coming out in the Sacral Neuromodulation
+space potentially second half of this calendar year. So what's your plan for protecting your
+position in that market? And just remind us of the timeline for your next generation smaller,
+rechargeable device. I think I heard earlier fiscal 2021. Thanks for taking the questions guys.
+A - `Omar Ishrak, Chairman and Chief Executive Officer `
+Okay. First of all, the FDA question. Look the FDA's fundamental mission is to protect the safety
+of the American public and they do an excellent job in fulfilling that mission. And I think as more
+data becomes available, they're using it wisely to make sure that their post market studies and
+that the approval process has in it enough of the safety profile and we are completely supportive
+of that. They're working closely with industry in making sure that approval processes are
+accelerated the right way, but not compromising safety at any time. So we're pretty supportive of
+the moves that they're making. And we don't really see any major changes to the device
+approval framework that they have in place. I think that's about it. You know Geoff, you want to
+talk about Sacral Neuro?
+A - `Geoffrey Martha, Executive Vice President and President of Restorative Therapies Group `
+Sure. Hey Larry, so good question. I'd say, first and foremost, regarding our new product that's
+coming to market, we expect it to launch in the beginning of FY '21 and it is going to be -- this is a
+rechargeable device with really strong MR labeling and about a 3 CC device. So with our
+overdrive battery technology on this, which we've proven with Intellis in Pain Stim, it's just -- you
+know it's just superior. And so between the size and the overdrive technology we think this is awinner. The product that a competitor is launching here in the near term will also be rechargeable
+device. But I think it's a 5.5 CC. So I think we compare it very well and the gap between when they
+launch, we expect them to launch. We don't know -- we don't really know, we don't know how the
+FDA is going to treat things like cyber security and things like that. So we really don't know when
+they're going to launch, but conservatively for us, we expect a three to four quarter gap there.
+And look, Larry, I can say, this isn't the first time that we faced, at RTG, a new competitor coming
+into our markets that we've pioneered and we maintain a high share. And I'd like to think, matter
+of fact I'm confident we've learned from these experiences which have been painful, especially
+like pain -- when you go back to things like Pain Stent, we've learned, we've built these lessons
+learned into our commercial playbook. We changed our commercial leadership across RTG and all
+I can say is we're ready. I don't know what else to say, we're ready for this.
+Q - `Larry Biegelsen, Analyst, Wells Fargo `
+Thank you, guys. Thanks for taking the questions.
+A - `Ryan Weispfenning, Vice President - Investor Relations `
+Thanks, Larry. Next question please, Carol.
+Operator
+Our next question comes from `Matt Miksic, Analyst, Credit Suisse from Credit Suisse. Please go ahead.
+Q - `Matt Miksic, Analyst, Credit Suisse `
+Hi, thanks for taking the questions. So I thought maybe just a couple of quick pipeline type
+questions if you could expand on your thoughts around a few things. Just one on Intrepid, any
+update on the transseptal delivery system pathway forward on that and thoughts on left atrial
+appendage closure which is something that -- ought to be and I'm sure you plan to be exposed
+to. And then the second, just kind of general topic, we see often in these meetings, a lot of
+activity, clinical evidence, interest around Renal Denervation kind of rebounding for both
+hypertension and arrhythmias and just if you could update us on your intermediate or long-term
+strategy for returning Simplicity to commercial product. Appreciate your thoughts.
+A - `Omar Ishrak, Chairman and Chief Executive Officer `
+Go ahead Mike.
+A - `Michael J. Coyle, Executive Vice President and Group President of Cardiac and Vascular Group `
+So, I'll take the questions. On Intrepid, we do expect in the fiscal year to do our first-in-human
+transseptal version of Intrepid, so that work is progressing and we're confident we're going to
+find a path forward to -- just as we did in the TAVR world to start with a valve that transapical but
+then move to a transseptal delivery system. On left atrial appendage closure, we do not currently
+have a product in development that we very -- follow developments in this space very carefully.
+We do have a lot of core competency in our Structural Heart business that's applicable to this
+space. But we also would want to have a superior product before entering into that type of a
+market. So we have a list of designs that we're interested in, but we have no announcements to
+make today on that topic.
+And renal derivation is actually progressing as we discussed, we expect to have the pivotal trial
+results presentations next spring which will be sort of key to the FDA approval cycle, but as youpointed out, there's is a lot of clinical evidence being generated around this topic that has been
+presented both at the PCR meeting here this week as well as at the HRS meeting two weeks ago
+in support of -- both as late-breaking clinical trials, both very supportive of the technology and the
+ones on atrial fibrillation were particularly interesting, we sponsored the one that was presented
+for the (inaudible) clinical trials here this week at PCR. It basically showed a 60% reduction in
+patients who develop atrial fibrillation in a highly selected group of patients who had
+hypertension and were randomized to renal denervation. So the data continues to be very
+encouraging, but obviously, given the events with the HTN3 stud results, it can be very important
+that we have a highly controlled data to show the efficacy of this product and we are very
+confident based on the pilot studies that we've already published on and that the trial we are
+executing with FDA that when we get to next spring, we're going to have some very good
+efficacy and safety data to discuss. So we're excited about that market.
+Q - `Matt Miksic, Analyst, Credit Suisse `
+Thanks.
+A - `Ryan Weispfenning, Vice President - Investor Relations `
+Thanks, next question please.
+Operator
+Our next question comes from `Josh Jennings, Analyst, Cowen & Company from Cowen, please go ahead.
+Q - `Josh Jennings, Analyst, Cowen & Company `
+Hi, good morning. Thanks for taking the questions. I was hoping to ask Mike, just about Cardiac
+Rhythm & Heart Failure and the road to recovery there. It's about half of the revenue pipe for
+CVG and maybe you could just focus on the anchors you know high voltage and LVADs, whether
+we just had to wait for anniversaries or is there anything incremental you can share in terms of
+returning those businesses either to flat or back to growth. And then just to add on -- follow up,
+at HRS you had some really interesting data on some pipeline products post field ablation and
+the Extravascular ICD and just any incremental thoughts there in terms of the signal that those
+datasets provided and your outlook for those two platforms? Thanks a lot.
+A - `Michael J. Coyle, Executive Vice President and Group President of Cardiac and Vascular Group `
+Sure. Starting with the heart failure product lines, actually on the CRT side, we have I think some
+very exciting product development activities in addition to some easing headwinds and obviously
+the biggest challenge we've had in CRT has been, as we significantly extended the battery life of
+these products, we've run into that replacement headwind and as you know, in the CRT space for
+high power, half the market is replacements. We still have a few quarters to go in terms of those
+headwinds being significant, but as we head into next year and into FY '21, we actually see that
+go neutral and that will really help us in terms of just the overall growth profile of the business.
+But beyond that, at HRS, we launched the first Active Fixation Quadripolar lead for use in CRT for
+both CRT-D and CRT-P which physician seemed very excited about and we have our new Galaxy
+Platform, our next generation of ICDs releasing in the third quarter which basically will both add
+Bluetooth connectivity to the product, but also some very important pacing features that both will
+enhance the performance of our product from an atrial fibrillation perspective as well as from
+heart failure re-hospitalization rates.So those will be, I think, really helpful in terms of just getting our CRT-D and CRT-P product lines
+accelerating from where they have been. And then, obviously, we'll get the headwind going away
+as we head into FY '21. On the LVADs side, obviously we saw a fairly significant reduction in
+market share that took place at the middle of the year as a result of competitive product
+launches. We are going back on the offensive with our lateral day to basically take advantage of
+the smaller size of the HVAD system to basically show lower complication rates in surgical
+implants of the thoracotomy approach to the placement of the device and we also think the
+datasets around the stroke are going to be in our favor as we get further evidence of the
+performance of these products and so obviously the anniversary in the second half of next year is
+going to be very helpful to our overall growth rate, but then obviously, we're hoping to take
+sequential market share as we take advantage of the performances of the product.
+And then in terms of your question around the PFA and the EV-ICD, we're very excited about
+both of those programs. We will expect to basically go into pivotal studies with the EV-ICD this
+year which obviously has the benefit over existing subcue products actually allowing anti-tachy
+pacing and post-shock pacing to be done with the product, so that we think will provide a big
+advantage. It's also got a footprint that looks like a standard ICD as opposed to much larger
+device you see in the subcue application. And so we believe that will carry with it benefits in
+implant, including potentially lower infection rates. And then, PFA is probably the most exciting
+thing that we see in the whole Atrial Fibrillation Ablation space. This allows us to actually do
+ablation without thermal energy, neither heating not cooling by essentially disrupting the
+myocytes directly, which has the potential to really address all of the major complications
+associated with Atrial Fibrillation or Ablation of Atrial Fibrillation.
+So that coupled with our entry into the focal ablation segment with the EPIX device the
+DiamondTemp device really now significantly broadens our portfolio from what we are -- we have
+traditionally been cryo-company focused on the PAF ablation. So really nice work by the team to
+basically expand our product offerings, both EV-ICD and PFA of course are beyond the FY '20
+window. But we will speak to those, I'm sure at the Analyst Meeting next year to give you more
+guidance as to when we expect them to be major revenue drivers for us.
+A - `Ryan Weispfenning, Vice President - Investor Relations `
+Okay, thank Josh. We'll take one more question please, Carol.
+Operator
+Our next question comes from `Pito Chickering, Analyst, Deutsche Bank from Deutsche Bank. Please go ahead.
+Q - `Pito Chickering, Analyst, Deutsche Bank `
+Good morning, guys. Thanks for squeezing me in here. A few questions on China, China is
+obviously a very important market for you guys. It looks like revenues in China slowed in the
+quarter to 13% from 16% last quarter. How are the tariffs impacting that business? What growth
+have you embedded within the 2020 guidance? And how should we think about the doubling of
+tariffs and how that impacts your growth in that market?
+A - `Omar Ishrak, Chairman and Chief Executive Officer `
+Well first, look, we're really excited about China and that is an important market, like you point
+out, in the end, it will be the biggest healthcare market just by the size of the population and
+opportunity. So it's a market we intend to be present in. and look, we got pleased with our
+performance. I mean the business certainly grew sequentially quarter-over-quarter and itcontinues to grow and we expect pretty reliable double-digit growth from China on a very
+consistent basis and we are getting that. And so it is a market that we are committed to, one that
+we see is a big growth driver for us. The tariffs do pose somewhat of a headwind in terms of our
+margins, but it's one that we will cover and we will offset. We faced some of that in FY '19, which
+we successfully managed to offset and we don't expect major increase in FY '20, but there may
+be some towards the back half of the year, which we will manage.
+But more importantly, the need for our products in the Chinese population is very clear. There is a
+demand from both the doctors and the patients and we will follow through with that. We have an
+outstanding team there with scale, with critical mass, presence in the big cities as well as the
+outlier regions, in private hospitals as well as the government hospitals and all of those are
+growth drivers for us across the board in all our businesses. So, make no mistake, China is a big
+priority for us that we're all focused on and we are very confident that it'll be a continued
+consistent growth driver in the double digits for Medtronic.
+Q - `Pito Chickering, Analyst, Deutsche Bank `
+Okay. And then one follow-up, this is a very big quarter on Mazor. How does the pipeline look for
+new robot sales in 2020 and how has the spine consumables market share in hospitals where
+you've had the robot installed for over a year changed?
+A - `Omar Ishrak, Chairman and Chief Executive Officer `
+I'll give the Geoff the floor (multiple speakers)
+A - `Geoffrey Martha, Executive Vice President and President of Restorative Therapies Group `
+Can you repeat the second part of that question, the first part was...
+Q - `Pito Chickering, Analyst, Deutsche Bank `
+Yeah, you bet, for hospitals were the robot has been for over one year, how has the spine
+consumables market share changed sort within that year?
+A - `Geoffrey Martha, Executive Vice President and President of Restorative Therapies Group `
+Well, I'll start with that question, I mean we are definitely seeing where we have robots installed
+and to your point, up and running and we've trained the physicians, the surgical teams and our
+reps. We're clearly seeing faster growth and greater market share versus accounts that we don't
+have a robot in and that same can be said to maybe a slightly lesser degree when we have
+navigation and the O-Arm without the robot. So basically where we have enabling technology, our
+value proposition is better and we're seeing faster growth and better market share. We're
+seeing quite a bit different and especially in competitive accounts and the difference I'd say from
+a competitive standpoint between just having NAV and the O-Arm versus having NAV, O-Arm and
+the robot is the amount of competitive accounts that we're getting into customers that or big
+spine centers where we were zero and our competitors had these accounts very well covered.
+We -- they're calling us and we are getting in there and not only getting robotic share, but we're
+getting non-robotic cases. So it's quite dramatic and so we're very happy with it and it's the
+overall value proposition of all of this technology working together in the past to better outcomes
+for patients and better financial outcomes for the hospital and we're building evidence around
+both of those.
+So in terms of the outlook going forward, we feel bullish. So far, it's much better than our dealdouble-digit growth in this area based on the existing -- we just launched the Mazor X stealth
+edition with navigation, we just launched that and so that still has a lot of runway. But we have a
+series of I'll call continuous innovation on top of that, things like, so we can navigate with the
+robot, more of our enabling technology like more of our Midas platform, our drills and such. And
+then we'll be -- which I don't want to talk about for competitive reasons, we'll be adding other
+features that I think are more -- even more differentiated that will improve basically the spine
+procedures, take time out these spine procedures and also drive more consistent reliable
+outcome. So we feel very strong and that's what just generating excitement around the robot, is
+the improvement in outcomes.
+Q - `Pito Chickering, Analyst, Deutsche Bank `
+Great, thanks so much.
+A - `Ryan Weispfenning, Vice President - Investor Relations `
+Thanks Pito. Omar, do you want to pitch in?
+A - `Omar Ishrak, Chairman and Chief Executive Officer `
+Yeah, let me just close out here. Thanks to all of you for your questions. And on behalf of our
+entire management team, thank you for your continued support and interest in Medtronic. We
+look forward to updating you on our progress on our Q1 earnings call, which we currently
+anticipate holding on Tuesday, August the 20th. And with that, thank you again very much.
+Operator
+This does conclude today's conference call. You may now disconnect.

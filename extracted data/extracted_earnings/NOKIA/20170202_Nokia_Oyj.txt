@@ -1,0 +1,702 @@
+Q4 2016 Earnings Call
+
+Operator
+Hello and welcome to the Nokia Q4 and Full-year 2016 Earnings Results Conference Call. All
+participants will be in listen-only mode. After today's presentation, there will be an opportunity to
+ask questions. Please note, this event is being recorded.
+I would now like to turn the conference over to Mr. `Matt Shimao, Head of Investor Relations. Sir, you may begin.
+`Matt Shimao, Head of Investor Relations `
+Ladies and gentlemen, welcome to Nokia's fourth quarter and full-year 2016 conference call. I am
+`Matt Shimao, Head of Investor Relations, Head of Nokia Investor Relations. `Rajeev Suri, President & Chief Executive Officer, President and CEO of Nokia, and
+`Kristian Pullola, Chief Financial Officer, CFO of Nokia, are here in Espoo with me today.
+During this call, we'll be making forward-looking statements regarding the future business and
+financial performance of Nokia and its industry. These statements are predictions that involve
+risks and uncertainties. Actual results may, therefore, differ materially from the results we
+currently expect.
+Factors that could cause such differences can be both, external, such as general, economic and
+industry conditions, as well as internal operating factors. We have identified such risks in more
+detail on pages 69 through 87 of our 2015 Annual Report on Form 20-F, our report for Q4 and
+full-year 2016 issued today, as well as our other filings with the U.S. Securities and Exchange
+Commission.
+Please note that our results release, the complete interim report with tables and the presentation
+on our website include non-IFRS results information in addition to the reported results
+information. Our complete results reports with tables, available on our website, includes a
+detailed explanation of the content of the non-IFRS information and a reconciliation between the
+non-IFRS and the reported information.With that, Rajeev over to you.
+`Rajeev Suri, President & Chief Executive Officer `
+Thank you, Matt and thanks to all of you for joining our Q4 results call. Before I go into the details
+of the quarter, let me take a step back and share some reflections on the full year. We always
+said that 2016 would be a year of transition, and it was certainly that. Nokia started the year
+primarily as a Mobile Networks and patent licensing company, both good businesses, but they
+were largely the limit of our scope. Today, we are a fundamentally different company with a
+complete portfolio that allows us to expand our leadership position with communication service
+providers and to tap adjacent growth areas.
+To start with, we built on our existing two businesses over the course of the year. In Mobile
+Networks, we now have much greater scale after the addition of Alcatel-Lucent, including a
+number one position in 4G LTE that positions us very well for the move to 5G, a strong presence
+in core networks and services and a deeper presence in all markets with particular strength in
+North America.
+Our patent licensing business has also progressed, adding more licensees as well as concluding
+our arbitration and reaching an expanded licensing deal with Samsung. We also reached a band
+licensing agreement with HMD Global, which has already launched a Nokia-branded smartphone
+in China.
+Then we added SCOPE (3:17) and created an end-to-end portfolio that we believe is
+unparalleled. With the Alcatel-Lucent transaction, we added fixed, routing, optical, additional and
+standalone software and more. We acquired Gainspeed, giving us a compelling entry into the
+DOCSIS-based world of cable operators. We also made several other acquisitions designed to
+expand our capabilities in areas such as big data analytics for network and service automation
+and network security. We continued to innovate, leveraging the power of Nokia Bell Labs to
+deliver differentiated products in our Networks business groups.
+In Nokia Technologies, we accelerated our Digital Health business with the acquisition of Withings,
+and continued to strengthen our foothold in the growing virtual reality ecosystem.
+And we set out a sharpened strategy and made significant, even if early progress, in executing
+that strategy. Just to take one example, our efforts to diversify and grow sales to select vertical
+markets that need carrier-grade networks such as utilities and extra-large enterprises that use
+information technology as a competitive advantage, gained momentum.
+In short, 2016 was a year of massive change for Nokia. Pleasingly, as we went through this
+transition, we saw firm support from our customers, little to no drop in our core operational
+metrics, and good work on integration and cost reductions.
+Let me touch briefly on each of these three areas. First, customers, so far in 2017 I've already
+spoken with around 30 customer CEOs. Overall, the feedback I have received is quite positive
+about our technology, quality, unique portfolio and end-to-end capabilities.
+Beyond that anecdotal evidence, I would note that for deals where we compete, our win rate has
+stayed stable and high. When we lose deals it tends not to be because of technology gaps, but
+rather because we choose to prioritize deals, which offer the right value now and in the longer
+term.
+When you look at our 2016 results, I think you see that we have done a solid job of maintainingto-end portfolio is creating new opportunities for us.
+We're seeing cross-selling take place in a number of accounts and 16% of our pipeline of deals
+now involves products and services from two or more Nokia business groups. That is almost
+double what it was in Q2 last year and I see no reason for the momentum in this area to slow.
+Second, operational metrics, despite the challenging market and heavy lifting related to
+integration in 2016, we delivered well.
+Just to give some examples, inventories in our Networks business groups have been stable,
+overdue receivables were down across all of our regions, our supply chain and manufacturing
+partners executed well and the cost of poor quality came down significantly in 2016 compared to
+2015.
+Third, integration and cost reductions; as I said on our last call, we have completed the
+integration projects related to Alcatel-Lucent with the exception of a small handful of long tail
+efforts. With this progress, we have been able to turn to continuous improvement activities that
+already delivered clear benefits in 2016 and will continue to do so this year.
+While I'm generally pleased with work on the integration of our product portfolio today, our R&D
+teams, particularly in mobile radio are facing a heavy, even if not, unexpected workload. The
+volume of products that needs to be combined and new feature that need to be implemented is
+high. Fortunately, we have an excellent team and leadership in mobile radio and I'm confident that
+this work will be largely behind us by the end of the year.
+In terms of cost reductions, our performance in 2016 gives me confidence that we are tracking
+well to meet our commitment to reduce costs by €1.2 billion in full-year 2018. In all key areas, real
+estate, procurement, head count, discretionary spending, we made solid progress in the year.
+In addition, as I've said before, should business conditions prove more difficult than expected, we
+have additional cost levers that we can pull to help maintain our profitability. You should have no
+doubt that we will act without hesitation if the situation warrants.
+Of course, despite what I see as very meaningful progress, we faced some challenges, the
+biggest one being our topline decline. We understand the primary reasons behind that
+performance, a challenging market across most of our segments, a strong Alcatel-Lucent
+performance in 2015, as they drove to complete the shift plan in their final quarter as a company
+and slow sales momentum at the start of the year when we first came together with Alcatel-
+Lucent and we combined the portfolios of the companies. Understanding is not, however,
+excusing. Stabilizing our top line is a top priority and a key area of focus for me and my leadership
+team. I have prioritized my time in the coming months to ensure that customers, particularly those
+where we have large new opportunities, are at the top of the list.
+We have already moved from integration of our sales organizations to optimization, to ensuring
+that we are truly best-in-class. Steps underway include sharpened incentive plans, improved
+competence development for new portfolio areas in software selling, more backend automation
+to enable salespeople to spend more time with the customer, the deployment of advanced sales
+and CRM tools and more. Overall, I would say that 2016 was a year of transition and strong
+execution, a year in which we put in place an extremely solid operational foundation for the
+future.
+With that overview, let me turn to the quarter. Nokia Group net sales in the quarter were €6.7
+billion, down 13% year-on-year. Gross margin came in at 42%, almost flat year-on-year andoperating margin was 14%. Non-IFRS diluted earnings per share came in at €0.12, some of this
+was driven by a tax rate that was considerably lower-than-expected, but even excluding that, we
+delivered well. Thanks to this performance, we confirm today that our board of directors will
+propose a €0.17 per share dividend for 2016, up €0.01 per share from what we returned to
+shareholders in 2015.
+On the Network side, sales in Q4 of €6.1 billion were down 14% year-on-year. When normalized
+for the large Alcatel-Lucent pull-in in Q4 2015, the year-on-year decline in the final quarter was a
+single-digit percent drop, which is consistent with my view that we are making progress towards
+stabilizing our top line.
+Within Networks, we saw improvement in services in Q4 relative to the earlier part of 2016 with
+healthy performances from network implementation and professional services. As you know,
+professional services is a strategic category for Nokia and it saw momentum in many markets last
+year.
+Networks' profitability was quite good in the quarter. Gross margin of 40.6% was up year-on-year
+by 50 basis points, and operating margin was strong at 14.1%. That allowed us to close the full
+year with an operating margin for Networks at 8.9%, at the high end of our guidance range.
+Nokia Technologies had sales and operating profit that were down in Q4 compared to the same
+period last year. This should not, however, obscure the underlying progress we are making, as
+last year we had the unique benefit of the Samsung arbitration award. I will come back to Nokia
+Technologies later in my remarks to give a bit more perspective on the current state of the
+business. Now, let me turn to our three reportable segments.
+In Ultra Broadband Networks, Q4 net sales were down year-on-year. Within this, Mobile Networks
+was down by 14% and Fixed Networks was down by 22%. Gross margin for the segment held up
+well and at 38.1% was up slightly year-on-year.
+Let me provide some more color, starting with Fixed Networks. 2016 was an unusual year for
+Fixed Networks, which had a very slight year-on-year sales decline for the full year, but a large
+variation from typical seasonal patterns. The first and second quarters of 2016 were very strong.
+The third saw slowing but still positive growth, while the fourth ended with a sharp year-on-year
+sales decline.
+This performance may contrast sharply with that of 2017, when we expect to see more typical
+seasonality. I would also note that much of Fixed Networks' decline in Q4 was driven by two
+customers, one in Latin America and one in Asia-Pacific. We do not see any near term structural
+issues that will impact the business beyond the overall market challenges that we've already
+flagged.
+We also see positive synergy opportunities for Fixed Networks with growing interest from Nokia's
+earlier strong customer base, particularly in India, where we have already entered one major
+customer as well as in Japan and Korea.
+Then, Mobile Networks, where despite the top-line decline, we are seeing growing opportunities
+in a number of areas. New evolutions of 4G, small cells, cloud-based core networks and public
+safety, among others. As a result, we see the potential of at least some stabilization in the mobile
+market in 2017.
+In 4G, we're offering operators a way to invest now to meet capacity demands, while also
+ensuring clear service continuity with 5G. Feedback on this approach has been very positive andwe have now more than 110 4.5G customers, many trials of 4.5G Pro underway and significant
+longer-term interest in upcoming 4.9G capability, which will be commercially available later this
+year. Not only does this approach put our customers in a strong technological position, but it also
+helps maintain near-term spending that reduces the impact of the 4G to 5G transition.
+In terms of small cells, we are seeing the market starting to accelerate as customers move to
+densify their networks. Our small cells business grew 51% in 2016 with demand picking up over
+the course of the year, and I expect that to continue.
+Not surprisingly, much of this growth is with existing macro radio customers, but not only. We have
+won several small cell contracts with customers where we have no macro radio business, and we
+see that as an opportunity to demonstrate performance with our excellent small cell portfolio and
+expand future sales.
+Cloud core is an area that we like a lot, given its high value. Once you demonstrate performance,
+customers tend to stay with you for a long time. Nokia is in a very good position with the
+combination of a strong existing footprint, deep customer intimacy, end-to-end solutions,
+comprehensive cloud capabilities, innovation strength and supporting services.
+Our portfolio, particularly in both IP Multimedia Subsystem or IMS and Voice over LTE, has gotten
+excellent industry recognition and continued positive customer momentum. In short, we are
+seeing more and more deal activity for our end-to-end cloud-based core offering.
+Public safety is also an expanding adjacent market and one of increasing focus in our targeting of
+select verticals. While the market is starting a bit slower than some of the early predictions, we
+like public safety a lot and are already working to provide LTE-based public safety networks in
+multiple countries and expect that number to continue to grow in the years to come. Thus, while
+the mobile business has been challenging in 2016, we see some light in the tunnel. Even if the
+market continues to decline in 2017, as we expect it will, conditions are stabilizing and we are well
+positioned.
+Now, on to IP Networks and Applications. Net sales in this segment were 12% lower year-on-year
+in the fourth quarter with gross margin up 90 basis points at 47% and operating margin a
+respectable 16.1%. Applications & Analytics saw another quarter of revenue decline, still feeling
+the effect of the Q4 2015 Alcatel-Lucent pull-in that I mentioned earlier.
+Pleasingly, we do see some signs of stabilization in A&A as our increased our focus on software
+sales starts to take hold. Order backlog, which we define as orders that are booked to-date but
+not yet recognized as sales, grew considerably for A&A during Q4, although we are certainly not
+yet ready to declare victory.
+We believe that this measure generally gives us the best view of future sales performance for
+our Networks business and I'm optimistic about the A&A business in 2017, even if cautiously so,
+given the foundation that Bhaskar Gorti and his team have built and growing customer interest in
+the solutions that we provide.
+On IP routing, we are continuing to ramp down sales of third-party routing equipment, which
+contributed to the year-on-year decline in the business. While some of those sales will continue in
+2017, the majority are now out of the system. I know that there is some concern about overall
+routing market conditions, but we maintain the view that I shared last quarter that the current dip
+in the market is not evidence of a longer-term structural change.The underlying driver, traffic growth in the network, remains extremely strong. Despite
+technology evolution consistently delivering an improved price per gigabyte, the demand for
+capacity in our view cannot be met without continued, and in some cases, accelerated
+investment.
+Much of that new investment, however, will come not from telecom operators, but from large
+enterprises and web-scale companies, those giants of the Internet that are building very large
+private backbone networks. While we do have a presence in these non-carrier segments today,
+much of the opportunity in this area is untapped for Nokia, and we are fully focused on changing
+that situation.
+2017 will be an important year for our routing team, as we have some exciting product
+announcements to come that will take an already excellent product portfolio to an even higher
+level. Stay tuned for more.
+In Optical Networks, revenues declined on a year-over-year basis, partially due to a very tough
+compare as Q4 2015 was a record quarter. North America was an area of strength, and where we
+saw double-digit growth on a year-over-year basis with both web-scale and telco customers.
+Nuage Networks, which sits within our IP/Optical business group, was also an area of strength.
+Until now, Nuage has largely been focused on both product innovation and generating initial
+mindshare with customers. That is now shifting is it pivots to a new level and we are winning
+some good deals with customers like British Telecom Global Services, China Mobile and others.
+Given evolving customer needs, it is increasingly clear that Nuage is a powerful asset for Nokia.
+Finally, I would remind you about our acquisition of Deepfield, a data analytics company based in
+the U.S. that we closed on earlier this week. Among other things, Deepfield's technology gives
+customers visibility and control into which applications are running on their networks, while driving
+automation and higher utilization and improving security.
+Now, a brief look at the regional performance of Networks. Overall, as you will have seen in our
+guidance, we expect our top-line performance in 2017 to be in line with our primary addressable
+market, which we expect to be healthier than in 2016, but to still decline in the low-single digits.
+Within that, there are, of course, significant regional variations. Based on what we saw in Q4, we
+see some potential bright spots for 2017, including North America and parts of Asia-Pacific.
+Despite the year-on-year sales decline in Q4 and for the full-year, I am generally pleased with our
+performance in North America in 2016.
+The team managed a difficult market and complex transition with large customers quite well. As I
+look to 2017, there are certainly some potential positive catalysts in public safety, non-carrier
+market segments, new evolutions of 4G LTE and the early transition to 5G.
+Asia-Pacific, which had a relatively modest decline of 2% in the fourth quarter compared to the
+same period last year has been hit hard for some time by the sharp drop in Japan. Overall, we
+see the potential for a slow recovery starting in that country as the market reaches the bottom
+and carriers start to invest again in 4G capacity as well as ensuring networks are ready for 5G.
+India is another area of opportunity in Asia-Pacific as a new entrant to that market has stimulated
+demand and capacity requirements.
+Fourth quarter sales in China were down sharply year-on-year, pressured by some weaker
+spending, particularly in mobile. We expect that slowdown to continue in 2017, but our
+competitive position in China remains strong and our joint venture in the market gives us the
+benefit of being a part Chinese company.I would expect both the Middle East and Africa and Latin America to remain difficult given ongoing
+economic issues. Europe also remains challenging in the mobile space, but we saw growth
+among non-carrier customers in the fourth quarter and we see longer-term possibilities with
+increasingly strong cable players.
+Now on to Nokia Technologies, our third reportable segment where we continued to make
+progress on executing the strategies that we shared at our Capital Markets Day, last November.
+On patent licensing, I've decided to make Maria Varsellona, our Chief Legal Officer, responsible
+for our patent licensing business, in addition to continuing her existing duties. I am confident that
+the combination of her business acumen and legal skills make her a perfect fit for taking on this
+broader assignment. This change does not impact the way in which we report about our business
+externally.
+I expect that you've seen the action that we have taken with regard to Apple, we have now filed
+suit against them in 11 countries, including the United States, Germany and Finland, and those
+suits cover more than 50 patents that span technology such as display, user interface, software,
+antenna, chipsets and video coding, as well as 3G and 4G cellular standards. While our
+preference is not to have to resort to litigation, we will certainly do so when necessary to protect
+our interests.
+On brand licensing, HMD Global, Nokia's exclusive brand licensee for mobile devices began
+operations in Q4. Shortly after that, just after the quarter ended, they launch their first android
+smartphone, the Nokia 6 created specifically for the strategically important Chinese market.
+Then Digital Health, where we said our initial focus would be on growth through an expanded
+devices portfolio. To that end, the Steel HR watch became available in major channels in January
+and has received very positive reviews.
+In our other area of strategic focus for Nokia Technologies, that of Digital Media, we continue to
+gain momentum in both OZO camera sales and in taking steps to see our virtual-reality video and
+audio technology becoming embedded in the VR ecosystem. Our primary interest in this area
+continues to be in developing technology that we can license to parties and in refreshing our
+patent portfolio.
+With that, let me extend a warm welcome and hand the call over to our new CFO, `Kristian Pullola, Chief Financial Officer,
+who took over from Timo Ihamuotila effective January 1. Kristian over to you.
+`Kristian Pullola, Chief Financial Officer `
+Thank you, Rajeev. I will begin by recapping the closing of the Alcatel-Lucent transaction, and then
+continue with financial performance of Nokia Technologies and Group Common and Other.
+Before commenting on our cash performance in the quarter, finally, I will update you on taxes and
+hedging and close by highlighting key guidance items for 2017.
+Starting with the closing of the Alcatel-Lucent transaction; as you recall, we were able to
+complete the squeeze out of the remaining Alcatel-Lucent securities on the November 2,
+reaching a 100% ownership of Alcatel-Lucent and completing the transaction in just 19 months
+after we announced our plans to purchase the company is a fantastic achievement. Importantly,
+this enables us to begin moving forward with full force to eliminate duplicate public company
+costs and optimize our operating model and legal entity structure.
+Then to Nokia Technologies, whilst net sales declined both year-on-year and sequentially, theaward benefited the top line in Q4 2015 and the expanded IPR agreement with Samsung
+benefited the top line in Q3 2016. Both the arbitration award and the expanded agreement
+included catch-up elements, which boosted net sales of Technology significantly in Q4 2015 and
+in Q4 2016.
+Looking at Technologies' gross and operating margin on a year-on-year basis, both were also
+affected by the absence of the Samsung arbitration award. Furthermore, Digital Health and Digital
+Media represented a higher proportion of Technologies' overall net sales in Q4, and this mix shift
+combined with the higher OpEx levels in these areas was negative for the margin development in
+Technologies.
+As we continue to ramp up Digital Health and Digital Media, we remain highly focused on
+investing at the right levels and at the right pace in these emerging businesses. Also, in Q4, as
+Rajeev explained, we took necessary steps to protect Nokia's IPR by beginning litigation action
+against Apple for patent infringement.
+We would have preferred to reach a fair outcome in the most expedient way possible without
+litigation. However, we are prepared for a long process, if that is necessary, a process during
+which our additional litigation cost could be approximately $100 million per year.
+To help with the consistency of the consensus, we think that it would make sense for the sell side
+to remove net sales related to Apple from their numbers until we achieve a clear outcome. That
+said, let me be clear that we have every expectation that in time we will reach a favorable result
+given the strength of our IPR portfolio.
+We have today reiterated our guidance for our patent and brand licensing revenue run rate to be
+€800 million in 2017, assuming no new license agreements are signed. This number does not
+include any licensing revenue from Apple.
+Turning to the performance of Group Common and Other in Q4; the overall revenue that we
+report under Group Common and Other increased by approximately 34% year-on-year. The
+growth was primarily driven by Alcatel Submarine Networks, which continued its strong
+performance. Again, for 2017, ASN enters the year well-positioned with a strong order book. In
+addition to ASN, Radio Frequency Systems also recorded strong year-on-year growth in Q4. We
+are naturally pleased with the strong financial performance of both ASN and RFS and we are
+continuing the strategic reviews of both businesses.
+Then our cash performance in the fourth quarter, on a sequential basis, Nokia's total cash and
+other liquid assets decreased by approximately €65 million with a year-end balance of
+approximately €9.3 billion. Net cash and other liquid assets decreased by approximately €240
+million sequentially with a year-end balance of approximately €5.3 billion.
+The sequential decrease in Nokia's net cash and other liquid assets in Q4 was mostly attributable
+to net cash outflows from financing activities, which were approximately €730 million. This was
+primarily due to the purchase of Alcatel-Lucent securities and starting of Nokia share repurchases.
+Nokia's adjusted net profit before changes in net working capital was approximately €1 billion in
+Q4. This was partly offset by net cash outflows of approximately €310 million related to working
+capital, approximately €180 million related to income taxes and approximately €20 million related
+to net interest.
+Nokia had approximately €130 million of restructuring and associated cash outflows in Q4.
+Excluding this, net working capital resulted in a decrease in net cash of approximately €180million, primarily due to seasonal increase of receivables partly offset by a decrease in inventories
+and an increase in short-term liabilities. We are focused on working capital and cash flow and we
+will work in the coming months to ensure our receivable level normalizes from the seasonality in
+Q4.
+Additionally, Nokia had net cash outflows of approximately €120 million from investing activities in
+Q4, primarily related to capital expenditure. Furthermore, foreign exchange rates had an
+approximately €160 million positive impact on Nokia's net cash in the quarter.
+And lastly, during Q4, the remaining unsettled Alcatel-Lucent convertible bonds were acquired
+through the squeeze out process. These bonds have been reclassified from interest-bearing
+liabilities to other liabilities in Q3 2016, and therefore, the settlement resulted in an approximately
+€40 million negative impact on net cash in Q4 2016.
+As said, we started repurchasing shares under our capital structure optimization program on
+November 16. In Q4, we executed the share buybacks at an accelerated pace, using
+approximately €220 million of cash out of the planned total of €1 billion. Our intention is to
+complete the planned share repurchases by the end of 2017.
+Regarding the dividend for 2016, the other remaining element of our capital structure
+optimization program, the board will propose a dividend of $0.17 per share, which would impact
+our cash balance by approximately €1 billion when paid out to shareholders in Q2.
+Next, a few words on taxes and hedging. Starting with our non-IFRS tax rate in Q4, which at 23%
+was significantly lower than the approximately 40% we had guided for. The lower tax rate was
+primarily due to a more favorable regional mix as well as overall higher profitability than we had
+expected.
+The tax rate is expected to increase in Q1 to between 35% and 40% as per the guidance we
+provided today. Also, we now expect the tax rate for the full-year 2017 to be around the midpoint
+of the 30% to 35% guidance range. Please remember to take note of this when you update your
+models.
+As mentioned earlier, following the completion of the squeeze out and reaching 100% ownership
+of Alcatel-Lucent, we have been able to start concrete actions to integrate the former Alcatel-
+Lucent and Nokia operating models into one combined operating model.
+In Q4, this resulted in the recognition of €439 million of deferred taxes in the U.S. as well as
+approximately €90 million of non-recurring cash taxes. Looking into 2017, primarily due to the
+changes we expect to make to our operating model, we expect approximately €150 million of
+non-recurring additional cash taxes this year.
+Consequently, we have today raised our guidance for Nokia's cash taxes in 2017 from €400
+million to approximately €600 million. As we detailed in our press release, we also expect the
+changes in 2017 to trigger a reduction in deferred tax assets of approximately €250 million and
+result in non-recurring reported tax expenses of approximately €250 million, again reported tax,
+not non-IFRS.
+By implementing our combined operating model, we are creating a foundation for our long-term
+tax structure. We will be positioned to deliver substantial long-term cash back savings through
+extended across – extending Nokia's tax attributes better and have a better alignment with our
+taxable profit mix and the cash attributes. To be clear, the future cash tax savings are expected to
+be larger than the related non-recurring cash taxes in 2016 and 2017.Then briefly on hedging, following the acquisition of Alcatel-Lucent, we have been reviewing our
+foreign exchange hedging activities.
+From the beginning of this year, we have harmonized practices related to Nokia's FX hedging.
+Thus, from an accounting standpoint starting Q1, all results from hedging, operative forecasted
+net FX exposures will be recorded in other income and expenses, regardless whether hedge
+accounting is applied or not.
+As you might recall, until now these FX hedging results have been recorded primarily as an
+adjustment to net sales if cash flow hedge accounting was applied. That said, there is no material
+change in our approach to hedging.
+To mitigate the impact of changes to FX rates, we continue to hedge operative forecasted net
+FX exposures typically with a 12-month hedging horizon and we apply hedge accounting for the
+majority of these hedges.
+Also, importantly, we are relatively well naturally hedged with similar proportions of net sales and
+costs in our major currencies. Thus, the forecasted operative net FX exposures which we hedge
+are rather limited to begin with. We will also continue to report net sales development on a
+constant-currency basis.
+Turning finally to our €1.2 billion cost savings target and key guidance items for 2017. Today, we
+reiterated our guidance for €1.2 billion of annual cost savings in the full-year 2018. We are well on
+track with our plan; in fact, we were able to achieve slightly more cost savings in 2016 than we
+had earlier planned.
+The cost savings achieved in 2016 were primarily due to lower personnel expenses reflected in
+both OpEx and cost of sales, as well as procurement savings that benefited cost of sales.
+In 2016, personnel expenses benefited from lower incentive accruals related to our financial
+performance in full-year 2016. We expect the impact of lower incentive accruals to reverse in
+2017, assuming Nokia's full-year 2017 financial performance in line with our expectation.
+Consequently, we expect cost savings in 2017 to be approximately €250 million. As CFO of Nokia,
+it is one of my key priorities to ensure strong, continued execution on our cost savings program.
+We have today reiterated also our guidance for the overall planned network equipment swaps to
+total €900 million, although only €150 million of this amount was recorded in 2016. You can find a
+table summarizing our progress on the €1.2 billion cost savings target and the network equipment
+swaps in the cost savings program section of our press release issued this morning.
+Finally, a quick comment on how changes in FX rates affect our guidance. Rajeev already
+discussed the demand trends we currently see in the networks market. As you know, FX rates
+have moved significantly since our CMD in November. For clarity the guidance for 2017 that we
+provided at CMD assumed constant exchange rates.
+Also, as mentioned earlier, we are naturally well hedged. With that as context, we today
+reiterated guidance for our Networks business for the full-year 2017, top-line decline in line with
+our primary market, and 8% to 10% operating margin. If the market and our execution are both
+strong in 2017, we have the ability to land at the higher end of this range.
+Looking forward, as we move past the transition phase of the Alcatel-Lucent acquisition, we have
+clear opportunities to drive higher returns through focused and correctly-timed investments in
+attractive growth areas. While the market is challenging, we continue to make good progress onmultiple fronts and thus we remain confident in our strategic directions and potential to create
+significant long-term value.
+With that, over to Matt for Q&A.
+`Matt Shimao, Head of Investor Relations `
+Thank you, Kristian. For the Q&A session, please limit yourself to one question only. Carrie, please
+go ahead.
+Q&A
+Operator
+We will now begin the question-and-answers session. Our first question comes from Pierre
+Ferragu of Bernstein. Please go ahead.
+Q - `Pierre C. Ferragu, Analyst, Sanford C. Bernstein & Co. LLC `
+Hi. Thank you for taking my question. Rajeev, you mentioned in your prepared remarks what
+spending could be in terms of technology between now and 5G, which still feels fairly far away
+and you mentioned 110 clients of 4.5G already and 4.9G coming on the horizon. I was wondering
+what should be the timeline for that kind of spending, is 4.5G already something that is very big in
+your current run rate or is that something that you're going to ramp, and should we expect that to
+be a boost to revenue in 2018 or 2019 or later? How do you see these two intermediary
+technologies playing out over the next couple of years?
+A - `Rajeev Suri, President & Chief Executive Officer `
+Thanks, Pierre. So, we have these 110 customers of 4.5G and our idea is to increase the adoption
+of those to go to 4.5G Pro. 4.5G Pro gives a meaningful reduction in latency, close to 10
+milliseconds and also an increase towards 1 gigabyte speed, so it actually gives something why
+(39:49) we have new applications and new services in the market.
+And then there's 4.9G, which can even go up to 2 gig and the latency comes in the range of 7
+milliseconds, when number of industrial IoT hyper locally active type of applications can happen
+enterprise, private LTE networks, utilities and so on.
+And also on the consumer side because the speed increase, so 4.9G will come later in the year.
+4.5G Pro will also need the adoption of our new baseband product, AirScale, which has been 5G
+ready, so that's pretty good for operators as well.
+So my sense is that 4.5G Pro will start to happen during 2017, already in the early part of the year,
+4.9G will be more an activity next year and based on the market traction and all the conversations
+I've been having with customers, clearly this will help in bridging between 4G and 5G along with
+small cells being, as I said, 51% growth in small cells last year. So clearly, the next wave is
+densification at higher speeds and lower latency.
+A - `Matt Shimao, Head of Investor Relations `
+Thank you, Pierre. Carrie, we'll take our next question please.
+Operator
+The next question comes from Alex Duval of Goldman Sachs. Please go ahead.Q - `Alexander Duval, Analyst, Goldman Sachs International `
+Yes. Hi, everyone. I wondered if you could help us on network seasonality and how we should
+think about that into the first quarter of the year. It looks like normally on an aggregate basis for
+the businesses you've combined it's normally down about 20% in the first quarter, which would
+seems to imply a decline probably in the mid to high single-digits of that fourth quarter base. So
+just wanted to understand a little bit more about what helps you get to that 2% decline for the full
+year, clearly you've laid out some positive drivers, but a little bit more color would be
+appreciated? Many thanks.
+A - `Rajeev Suri, President & Chief Executive Officer `
+Thanks, Alex. So, we think typical seasonality in our industry will be the norm, large downtick in
+revenue from Q4 to Q1, Q2 typically up from Q1, Q3 can be up or down compared to Q2 and
+then, of course, that depends on timing of large projects in Q4, typically the strongest quarter of
+the year.
+What helps us to recognize that our rate of decline has improved on a normalized basis and I can
+say that on a normalized basis, we think we've moved away from double-digit year-on-year
+declines, because we were single-digit down in Q4.
+The order intake has been strong on some fronts like applications and analytics as I said, not yet
+ready to declare victory, but that's a good sign as well. And then there are a few swing factors
+that are balanced with some macroeconomic difficulties in Latin America and in Africa and Eastern
+Europe, but there are some swing factors as well, U.S. could have some momentum compared to
+last year and then Japan and Korea are clearly bottoming out.
+There could be further acceleration in LTE in India with the entry of the new player, particularly in
+mobile. And then, of course, you have possibly the wholesale network deal in Mexico that could
+come to fruition and public safety in the U.S. So there are a number of things. And of course the
+U.S. broadband auctions in 600 MHz and already what's happening in 700 MHz might be helpful.
+But it's going to be a bit of a balance. So, clearly, the market will stabilize, we believe, in 2017
+relative to 2016.
+A - `Matt Shimao, Head of Investor Relations `
+Thank you, Alex. Carrie, next question please.
+Operator
+The next question comes from Kulbinder Garcha of Credit Suisse. Please go ahead.
+Q - `Kulbinder S. Garcha, Analyst, Credit Suisse Securities (USA) LLC `
+Thank you. My question is a two-part. It's all about costs really. The one for Rajeev is that, I guess,
+the simple question is why aren't you raising your cost savings target? And the reason behind my
+question is that the Networks margin last year was probably just under 9% and it's still down if you
+take out the one-time items in 2015, the industry has clearly turned out to be much worse than
+everyone thought probably two years ago in revenue trends. And you're making faster progress
+in your savings.
+But yet we're not seeing a revision upwards on targets. You had one last year, but we haven't
+seen one for a while now. And this is very different from what happened when the Nokia Siemensintegration was happening. So is there some raised level of need or cost pressure for investment
+that prevents you from raising the net savings number.
+And my question for Kristian is, the €100 million litigation for Apple, is that incremental cost or is it
+partly that you spend on and something else you don't spend on the OpEx on the net technology
+side? Many thanks.
+A - `Rajeev Suri, President & Chief Executive Officer `
+Thanks, Kulbinder. So, we have the preparedness to do something. We have cost levers in play,
+should the market worsen, and we will act on those without hesitation, as I also said in my
+prepared remarks. But we are also investing at this point. Because we think the diversification
+opportunity with the broader portfolio that we've got with Alcatel-Lucent is clearly there. So,
+cable, we're already working on a number of trials, we're heading in the right direction, we could
+see deal activity this year, and probably revenues in 2018.
+Web-scale, our next-generation product will come out very suitable for web-scale from an IP
+routing point of view. As I said, there is more spend happening in web-scale compared to telco,
+so it's a time to invest in that product and make sure we're ready for that market. We're getting
+traction in optics and IP routing could be right behind that.
+Large enterprises, in the extra large enterprises we had growth last year. I want to maintain that
+momentum and actually increase it, so there is a bit of spend happening in the sales channel.
+Public sector, public safety will be a very sizable category in itself, and then software sales force,
+because we have the product portfolio and we made some bolt-on acquisitions in the past, like
+Nakina and so on, but that potentially can also be a positive driver for us and especially given the
+mix that comes from software.
+So, investing in these few areas and 5G's hygiene and we want to make sure that we hit the fixed
+wireless access used case and also be ready for the broader 3GPP acceleration in South Korea
+and Japan.
+So, these are the investments, but it's always about capital allocation, so we can pull the levers
+should we see some of these not getting enough traction or if the market is worsening in the
+primary market, and those levers absolutely we have to our hand and we'll continue our
+transformation cost savings and services and so on.
+A - `Kristian Pullola, Chief Financial Officer `
+Maybe just to highlight still on that one, so as we said during the prepared remarks and also in
+our press release, more than half of that over achievement on our cost savings for 2016 related
+to lower incentive accruals given the performance that we had during 2016, that is something that
+we expect to reverse and thus to be a headwind when we go into 2016 – sorry to 2017, so please
+take that also into account. Then when it comes to your question on other litigation costs of
+Apple incremental, the answer is, yes.
+However, as I said during my prepared remarks, when it comes to investments in technologies
+into Digital Health and Digital Media, we will take a very focused approach on making those
+investments both when it comes to amounts and timings, so also there we have levers to pull if
+there is a need to do so.
+A - `Matt Shimao, Head of Investor Relations `Thank you, Kulbinder. Carrie, next question please.
+Operator
+The next question comes from Francois Meunier of Morgan Stanley. Please go ahead.
+Q - `Francois A. Meunier, Analyst, Morgan Stanley & Co. International Plc `
+Yes, a question about the OpEx, very good performance in Q4 indeed. If I compare Q4 2016
+versus Q4 2015, your OpEx was down €150 million in Networks, and €115 million, €120 million for
+the company, that's very good. Now, the question is, is Q4 2015 a good base of comp, because if
+I remember some of the management of Alcatel paid themselves some pretty nice bonuses
+before leaving, so it's basically like this €120 million decline in OpEx like the good number or the
+good run rate for the beginning of next year before the additional cost cutting?
+A - `Kristian Pullola, Chief Financial Officer `
+So as I said, I think in 2016 we had some lower incentive accruals, that's something which will be a
+headwind going into 2017. The 2015 numbers had some higher incentive accruals in them, taken
+throughout the year that will be the yardstick against which we measure the success of our cost
+savings actions and cost savings program that we have, and it is against that number that we
+expect to deliver the €1.2 billion.
+A - `Matt Shimao, Head of Investor Relations `
+Okay. Thank you, Francois. Carrie, we'll take our next question please.
+Operator
+The next question comes from `Gareth Jenkins, Analyst, UBS Ltd. of UBS. Please go ahead.
+Q - `Gareth Jenkins, Analyst, UBS Ltd. `
+Thanks. I've just got one follow-up on an earlier question and then one question, if that's okay.
+The follow-up on the earlier question, Rajeev, is just you talked about your confidence of hitting
+your revenue target based on bookings you're seeing, et cetera. I wondered if you could specify
+that more around the IP routing business other than just traffic growth in networks please. And
+then, the second question is just on sustainability of gross margins, I wondered what the puts and
+takes are around your gross margin performance. Thank you.
+A - `Rajeev Suri, President & Chief Executive Officer `
+Thanks, Gareth. So, on IP routing, we don't believe – there's been a slowdown on the telco side
+because traffic have moved to the cloud providers. For us, cloud, Google, Apple, all these sorts
+of enterprise centric – sorry, web-centric companies, is an untapped opportunity. Right?
+What gives me confidence is that we're getting traction in Optical. We have already revenues
+established there. So our next generation product will allow us to get into routing as well. And
+then, there is the whole utilities, transportation, extra-large enterprises, their private LTE network,
+when it's formed, most of the business actually is IP routing; a lesser part of the business is
+mobile. So, those two opportunities give me a sense that, for us, it's an untapped opportunity so
+there is growth potential.
+On the telco side, yes, there is a bit of a slowdown, but for us the headwind of this third-partyAnd then, of course, co-routing because we have still much more momentum to have in co-
+routing compared to our edge routing business, given again, the next-generation product that
+will come sort of later in the year. So those are things that give me confidence in our own position
+in IP routing and sort of generally in the market, if you look at the market as a broader thing.
+On gross margin, of course, Q4 benefited from seasonal events, but if you look at overall 2016,
+where we've had 38.5% gross margin in Networks business and we've been at both sorts of
+levels now for quite some time. And to me this is a very important metric we're focused on, this
+KPI matters above all.
+We want to keep that gross margin strong, and so why is it that we have this? One, we continue
+to always have product and services cost reductions to offset price erosion in the market.
+Second, we have benefits in terms of deal quality; we're very strategic and solid around deal
+quality, given our approval process. We are seeing our continued pricing discipline and now we
+have applied that whole model operations also to the former Alcatel-Lucent business, and finally
+we have also seen many cases over the last year where we're getting price premium.
+There is attractiveness in our solution set because we have this end-to-end product portfolio.
+We're increasingly been training our people to sell on value relative to price. In some areas of our
+portfolio, price erosion is just lower compared to mobile, solution selling, cross-selling, whenever
+you have a multi-business group deal price is of less consideration because it's really the end-to-
+end solution that matters wrapped around with SI. So those are the things that suggest to me
+that that's an area that we will continue to focus on very strongly.
+A - `Matt Shimao, Head of Investor Relations `
+Thank you, Gareth. Carrie, let's take our next question and please limit yourself to one question
+only.
+Operator
+The next question comes from `Stuart Jeffrey, Analyst, Natixis (United Kingdom) of Natixis. Please go ahead.
+Q - `Stuart Jeffrey, Analyst, Natixis (United Kingdom) `
+Thanks very much. Got a question on gross margins. Just trying to understand the leverage you
+have in the business. Revenues were down quite a bit during 2016, but gross margins held up.
+You've had a volume driven benefit in Q4, so as you start talking about seeing an uplift in 2018,
+should we also expect that volume to have a positive impact on gross margins? And are there
+any sort of counters around product mix as we go into 2018 that might impact the gross margin
+positively or negatively given that a bounce back in spend tends to be more capacity than
+coverage focused?
+A - `Kristian Pullola, Chief Financial Officer `
+So again I think, Rajeev covered pretty well how we look at the gross margin and still if you look at
+the guidance that we put out today, we still expect to see slight decline in revenue and as a result
+of that, I don't see any kind of additional leverage from a gross margin point of view going into
+2017 so...
+A - `Rajeev Suri, President & Chief Executive Officer `
+Right. And Stuart, your question on 2018, should there be a rebound in the market and we did say
+the primary market over the long-term is growing at 1% and our adjacent opportunities of thatmarket is growing at about 12% at Capital Markets Day. So it should that there'll be a rebound in
+the market and should we be able to get into these other adjacent areas we're talking about,
+naturally there would be a longer term benefit in operating leverage if the revenue would grow
+and we'd keep the focus on gross margin and the strategic deal making and deal quality
+continues to be a driver. But that's more 2018 onwards.
+A - `Kristian Pullola, Chief Financial Officer `
+Correct. And then we continue to operate in a market with tough competition so that's also
+something to keep in mind for.
+Q - `Stuart Jeffrey, Analyst, Natixis (United Kingdom) `
+Yeah.
+A - `Matt Shimao, Head of Investor Relations `
+Thank you, Stuart. Carrie, next question please.
+Operator
+The next question comes from Andrew Gardiner of Barclays. Please go ahead.
+Q - `Andrew M. Gardiner, Analyst, Barclays Capital Securities Ltd. `
+Good afternoon. Thank you. I had another one on the OpEx side, so R&D specifically. Rajeev, you
+mentioned in some of your opening comments the level of workflow that the mobile engineers in
+particular are seeing as you head towards 5G. I'm just wondering sort of, what is the change
+here?
+Clearly, 5G has been coming, but is this – perhaps the standard-setting process is accelerating.
+Are you seeing specific requests from customers for certain elements that means, again, the
+workload is that much higher, or perhaps it's related to the integration still as well? Just a bit more
+detail around that. And I suppose, from a specific cost point of view, does that limit the potential
+for incremental savings in R&D, specifically in 2017 and therefore that's something that – should it
+come through is perhaps more 2018. Thank you.
+A - `Rajeev Suri, President & Chief Executive Officer `
+Thanks, Andrew. It's essentially got to do with the fact that we are migrating the portfolio, so you
+have to ensure you're doing things on the new portfolio while still sometimes doing things on the
+old portfolio, simply because the market needs it, for instance, IoT is something you might need
+on the legacy portfolio, but you'll also have to ensure that you have it on the new portfolio.
+So it's things like these, doing things in parallel, but it's only for a transitionary period, so by the
+end of the year that should go away. We've got strong – it's not so much a money thing, it's not
+an OpEx thing, because migration of portfolio from a project execution standpoint is just a more
+customer driver. But it's just an effort thing, it's leadership, it's structure, it's ensuring that you
+keep our efficiency and the R&D pretty (56:21) focused.
+A - `Matt Shimao, Head of Investor Relations `
+Thank you, Andrew. Carrie, next question please.Operator
+Our next question comes from `Sébastien Sztabowicz, Analyst, Kepler Cheuvreux SA of Kepler. Please go ahead.
+Q - `Sébastien Sztabowicz, Analyst, Kepler Cheuvreux SA
+Yeah. Hello. At the Capital Markets Day, you forecasted slight positive free cash flow in 2017 and
+clearly positive one in 2018. Do you see any change (56:43) litigation and also some higher cash
+tax expenses forecasted? Thank you.
+A - `Kristian Pullola, Chief Financial Officer `
+So, we still target to get to that slight positive free cash flow in 2017. Given the headwinds we
+have here on tax and litigation it will be more challenging, but that's a target we have, and no
+change in any of the longer-term targets that we gave at CMD.
+A - `Matt Shimao, Head of Investor Relations `
+Thank you, Sébastien. Operator, we have time for our final question for today.
+Operator
+Our final question will come from Sandeep Deshpande of JPMorgan. Please go ahead.
+Q - `Sandeep Sudhir Deshpande, Analyst, JPMorgan Securities Plc `
+Yes, hi. My question is on – Rajeev, on the non-core network business, I mean, buying Alcatel-
+Lucent got you your footprint – significant footprint in the U.S., are there any further operators that
+you need to expand footprint into, I mean there was some news flow in Japan, which indicated
+that you are going to break into DOCOMO, so is that a possibility, which could potentially expand
+your market?
+And secondly on IPRs, given that now the Apple potential is in the long grass to some extent, is
+there anything in the near term that you are working on in terms of IPR that could be seen in the
+revenue, potentially, LG and then any others? Thanks.
+A - `Rajeev Suri, President & Chief Executive Officer `
+Thanks, Sandeep. So, in terms of new possible entries and increase of coverage, cable players,
+so cable players with Gainspeed, but we can also not just sell them cable access products, we
+can sell them other products, IP routing, optics, and so on. So having the access through cable
+access will be quite helpful in penetrating more in the U. S., especially because we have a number
+of small customers there that we do quite well with.
+DOCOMO, we already do business with for a few years, but if there's a rebound in the Japanese
+market, I think it's bottomed out that would be helpful. There are other customers, there's a
+customer in Latin America, we don't have an entry with, there is a customer in Australia and so on.
+So there are a few customers we don't have a position with and that's also in our target,
+especially because one of our competitors is weak.
+A - `Kristian Pullola, Chief Financial Officer `
+I think on IPR, so we said at CMD that the current €800 million run rate is approximately 30% of
+the market, so if we now then put Apple aside, there are opportunities there, clearly finalizing theLG is one. Getting traction in China is another one and then we talked about opportunities also
+outside of mobile and the team is also going after those. So, yes, there are opportunities for new
+IPR revenue in addition to the Apple dispute.
+A - `Matt Shimao, Head of Investor Relations `
+Thank you, Sandeep, and thank you all for your great questions today. I'm really sorry we weren't
+able to get to everyone in the queue. With that, let me turn the call back to Rajeev for some
+closing comments.
+A - `Rajeev Suri, President & Chief Executive Officer `
+Thanks, Matt, and Kristian, and thanks again to all of you for joining in for the excellent questions.
+I'd like to close with a few words. As I've said, 2016 was a year of transition for Nokia. We
+successfully integrated Alcatel-Lucent faster-than-expected, drawing on lessons learned from
+past combinations.
+We launched a new strategy, made all of the key product transition decisions and aligned those
+with customers, fostered a common culture and more. All of which underlines a point that when
+you know which direction you should be heading, you can move faster and more effectively and
+we have done that.
+I'll be the first to tell you that I am pleased that we have all of the main integration work behind us
+because now we can get on with it.
+We know that market conditions in 2017 will remain a little challenging and competitive, although,
+we expect the environment to be more stable compared to 2016 in our primary markets. The
+operational foundation we now have in place, our financial strength and our disciplined results-
+focused culture all put us in a much stronger position to capitalize on our bigger portfolio and
+customer set, and to tap the greater number of paths available to us to grow and expand. For all
+of these reasons I feel good about where Nokia ended 2016 and I believe we will raise the bar
+higher in 2017.
+With that, thank you very much for your time and attention. Matt, back to you.
+A - `Matt Shimao, Head of Investor Relations `
+Ladies and gentlemen, this concludes our conference call. I would like to remind you that during
+the conference call today we have made a number of forward-looking statements that involve
+risk and uncertainties. Actual results may therefore differ materially from the results currently
+expected. Factors that could cause such differences can be both external, such as general
+economic and industry conditions, as well as internal operating factors. We have identified these
+in more detail on pages 69 through 87 of our 2015 Annual Report on Form 20-F and our report
+for Q4 and full-year 2016 issued today, as well as our other filings with the U.S. Securities and
+Exchange Commission. Thank you.
+Operator
+This conference is now concluded. Thank you for attending today's presentation. You may now
+disconnect your lines. Have a great day.

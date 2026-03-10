@@ -1,0 +1,645 @@
+Q4 2022 Earnings Call
+
+Presentation
+Operator
+Good morning, and welcome to Bio-Techne Earnings Conference Call for the Fourth Quarter of
+Fiscal 2022. At this time, all participants have been placed in a listen-only mode and the call will
+be opened for questions following management's prepared remarks.
+During our Q&A session, please limit yourself to one question and a follow-up.
+I would now like to turn the call over to `David Clair, Vice President, Investor Relations, Bio-Techne's Vice President, Investor Relations
+and Corporate Development. Please go ahead.
+`David Clair, Vice President, Investor Relations `
+Good morning and thank you for joining us. On the call with me this morning are Chuck Kummeth,
+Chief Executive Officer; and Jim Hippel, Chief Financial
+Officer of Bio-Techne.
+Before we begin, let me briefly cover our safe harbor statement. Some of the comments made
+during this conference call may be considered forward-looking statements, including beliefs and
+expectations about the company's future results, as well as the potential impact of the COVID-19
+pandemic on our operations and financial results.
+The company's 10-K for fiscal year 2021 identifies certain factors that could cause the company's
+actual results to differ materially from those projected in the forward-looking statements made
+during this call. The company does not undertake to update any forward-looking statements
+because of any new information or future events or developments. The 10-K as well as the
+company's other SEC filings are available on the company's website within its Investor Relations
+section.
+During the call, non-GAAP financial measures may be used to provide information pertinent to
+ongoing business performance. Tables reconciling these measures to most comparable GAAPmeasures are available in the company's press release issued earlier this morning on the Bio-
+Techne Corporation website at www.bio-techne.com.
+Separately, we will be presenting at the Wells Fargo Baird and Morgan Stanley Healthcare
+Conferences in September. We look forward to connecting with many of you at these upcoming
+conferences.
+I will now turn the call over to Chuck.
+`Charles Kummeth, President, Chief Executive Officer and Director `
+Thanks, Dave and good morning everyone. Thank you for joining us for our fourth quarter
+conference call. We have tremendous finish to our fiscal 2022 as our 14% organic growth for the
+fourth quarter capped a year where we delivered 17% organic growth for the full fiscal year. In our
+fiscal 2022 we surpassed an important milestone as we exceeded $1 billion, actually $1.1 billion in
+revenue for the first time in our corporate history. These strong results were delivered in the face
+of the most challenging comp the company has faced since I joined in 2013. And the impact of a
+longer than expected COVID related shutdown in China. I'm extremely proud of the global
+team's strong execution in this dynamic environment.
+Some of the highlights in the quarter include continued strength in our biologics instrument
+portfolio where we delivered over 30% growth for the seventh consecutive quarter.
+Ongoing traction with our cell and gene therapy workflow initiatives return to double-digit growth
+in our spatial biology business as well as another consecutive record-setting quarter for our
+ExoDx Prostate test.
+We remain incredibly well positioned and under-penetrated in some of the fastest growing life
+science tools and diagnostics market and our portfolio of proteomic, genomic and diagnostic
+products continue to deliver the solutions necessary to drive scientific discoveries and ultimately
+improve healthcare.
+Given the inflationary environment, we are all dealing with, let's briefly discuss how we are
+successfully navigating these challenges. As a reminder, approximately 80% of our revenue mix is
+consumables and encouragingly given their biological nature these tend to have more modest
+raw material costs. Approximately 10% of our sales are instrumentation where we do have higher
+input costs, but still maintain gross margins in line with corporate averages.
+We have been strategically implementing price increases throughout our portfolio to offset our
+exposure to rising costs including labor and we'll continue to pull this lever going forward.
+Speaking of labor, we made significant progress on our human capital initiatives in the quarter.
+Encouragingly, we are seeing signs of an improving labor market as some of the headwinds we
+faced in recent quarters to attract and retain talent appear to be subsiding.
+In fiscal 2022, we added over 400 individuals to the team and have grown to over 3,000 Bio-
+Techne team members.
+In net headcount additions were across the organization as we strengthen the commercial,
+technical and corporate team at all levels. We will continue to hire as we execute our strategic
+growth initiatives going forward and I'm very encouraged with the recent progress on this front.
+Now lets discuss the specifics of our performance of this quarter starting with our geographies
+and end-market.From on global perspective, we experienced robust growth across geographies with the
+exception of China. Our North American revenue grew in the upper teens for both the quarter
+and our fiscal year.
+In Europe, we finished on a very strong note as we grew in the mid-teens for both the quarter
+and the fiscal year.
+For China, first, I'd like to recognize the relentless efforts of the team. Our China based team
+successfully petition to one of the initial companies permitted to return to work as our products
+were deemed to be critical to the country. Once we are allowed back in our Shanghai based
+warehouse that serves as a distribution hub to all of our China based customers, our dedicated
+team literally lived to the facility to ensure we were able to begin supplying their research
+community with proteomic reagents, analytical tools and spatial biology products. These COVID
+related lockdowns lasted longer than expected in several large cities. Overall organic revenue in
+China declined lower single digits for the quarter. These important Chinese market started their
+reopening process in June and we saw a nice bounce back in revenue, especially in our research
+reagents business. The strong June performance is encouraging and we look forward to
+returning to our historical growth trajectory in this geography.
+Once again, our biopharma end-market remained very strong, growing over 20% globally for
+both the quarter and the fiscal 2022.
+Sales in our academic end-market increased in the upper single digits for the quarter and in the
+mid-single digits for the fiscal year. We are seeing signs of continued improvement in our US
+academic end-market as research budget clarity and increased NIH outlays are benefiting
+spending on our research reagents, proteomic analytical tools and spatial biology solution.
+Now let's discuss our growth platform starting with our Protein Sciences segment where we grew
+organically by 16% for the quarter and 19% for the fiscal year. During the quarter we advanced our
+cell and gene therapy initiatives as our reagents media, technology and workforce solutions
+continue to deliver the necessary solutions to progress therapy development and clinical trials.
+Before we get into the numbers, I'd like to highlight an emerging cell therapy application called
+regenerative medicine. It is garnering significant investment in clinical trial activity, which in turn is
+driving growth in our technologies and products enabling these workflows. The background
+regenerative medicine or regen med leverages stem cells, other derivatives to promote repair
+response of disease dysfunctional or injured tissues.
+Stem cells are unique as they can be induced to differentiate into any cell type. For example, in
+muscle, heart, pancreatic, nerve and blood cells. This functionality has gone robust biopharma
+activity to use stem cells as a treatment and potential cure for many diseases and chronic
+conditions including diabetes, tissue repair, spinal cord injury, chronic wound healing and others.
+This increased activity is sparking demand across our portfolio of cell therapy products and
+technologies including reagents, assays, media, instruments and spatial biology products.
+Our portfolio GMP proteins includes 19 cytokines, including 11 that are only available from Bio-
+Techne that are key to scaling these regen med activities. This interest in regen med is also
+acting as a significant tailwind for our matrix products as these provide structural support for cell
+and play an important role in establishing tissue organization by influencing cell adhesion,
+proliferation, migration and differentiation.
+Our portfolio of matrix products increased over 110% in the quarter and are quickly becoming
+significant tributaries to our burgeoning cell and gene therapy business. Specifically for our GMPprotein business during the quarter we transitioned two additional GMP proteins to our state-of-
+the-art GMP protein dedicated manufacturing facility. Following these latest launches, we are now
+manufacturing five GMP proteins in this new facility at the scale and capacity necessary to meet
+current forecasted demand. Overall, our portfolio of cell and gene therapy products,
+technologies and solutions increased over 50% for fiscal 2022.
+Now lets discuss the performance of our research reagent portfolio including our broad catalog
+of RUO proteins and antibodies. Once again, our brand reputation targeted new product
+introductions, marketing strategy and execution growth above market growth as our research
+reagents increased low trends for the quarter and mid teens for fiscal 2022.
+During the fiscal year, we added approximately 1,000 new R&D systems branded proteins
+antibodies and small molecules, including research reagents strengthening our core portfolio in
+immunology, immune oncology and targeted protein degradation.
+Shifting to our proteomic analytical tools where the team delivered mid-teens growth for the
+quarter and high-teens growth for the fiscal year. Once again, our biologics platform Maurice led
+the way increasing a 35% in the quarter. This marks the seventh consecutive quarter of above
+30% growth for this platform. As we continued to see strong demand from protein therapeutics,
+gene therapy and CRO, CDMO customers.
+We recently dramatically improved Maurice's speed with the launch of the Turbo, the SDS
+cartridge. This new cartridge delivers a 400% throughput increased compared to legacy
+cartridges, enabling higher speed and high resolution analysis of protein size and purity across all
+stages of bioprocess development as well as regulated areas including quality control.
+Separately, in multi-company study published in the journal of electro freezes which showed
+excellent comparability of Maurice to its predecessor instrument iCE3. As background, we
+launched Maurice in 2016 as a next-generation system in our iCE midstream portfolio. Multiple
+biopharma companies have requested comparability data between iCE3 and Maurice prior to
+upgrading and we anticipate this study will help these customers eventually transition to Maurice,
+which offers ease of use and increased functionality compared to the legacy system.
+Our Simple Western portfolio of automated western blot solutions continues to gain share as the
+ease of use, reproducibility and speed compared to manual methods resonates with both
+biopharma and academic end-users. This growing awareness and utilization of Simple Western is
+evident when looking at the number of publications citing Simple Western data. As of the end of
+the quarter, there were over 1600 cumulative publications citing our Simple Western technology,
+representing an increase of 12% during the first half of calendar 2022.
+Review publications is a leading indicator for the growing acceptance of this technology and
+believe we are positioned for continued growth going forward. Our Simple Western business
+increased in the mid-teens for the quarter and in the high-teens for the fiscal year. We continued
+to experience strong demand for our Simple Plex automated immunoassay platform Ella, from
+cell and gene therapy customers as our recent assay additions for AAV characterization back to
+93 wholesale proteins and perform in drive adoption in both process development and QC
+release. In fact, we increased the number of CGT customers and gene therapy that is leveraging
+Ella and their workflow by over 65% during the fiscal year and anticipate growing interest from
+additional accounts as we continue to expand our relevant menu offering.
+During the quarter we announced the latest addition to our family of instruments and
+consumables with the acquisition of Namocell, a leading cell sorting and dispensing company withaddress several high growth markets including cell and gene therapy, cell engineering, cell line
+development, single cell genomics, antibody discovery, synthetic biology and a rare cell isolation.
+While Namocell business is relatively small today, it is growing quickly. And we are excited to have
+this technology and talented team under the Bio-Techne umbrella. We closed this acquisition on
+July 1 and initial integration work is progressing nicely.
+Lastly, our immunoassay kit business finished the year on a very strong note as this business grew
+a low double digits for both the quarter and the fiscal year. In addition to healthy demand for our
+Elisa kits, we are increasingly being recognized as the partner of choice for developing Luminex
+assays for our partners to run this lab developed test or LDT. For example, we recently
+announced an agreement as the exclusive manufacturer of [ph]non-agents, biosciences, Oncuria
+bladder cancer diagnostic panel. This Luminex based multiplex panel combined Bio-Techne is
+high quality reagents and over 40 years of industry-leading immunoassay experience with non-
+agents, diagnostic experience to create a powerful solution could advanced bladder cancer
+treatment strategy.
+Next, let's discuss our Diagnostics and Genomics segment where we grew revenue organically by
+8% in the quarter and 10% for the full fiscal year. Our spatial biology business, branded ACD
+remained the largest global spatial biology business as our highly sensitive biomarker
+identification technology with single cell detection, resolution and quantification capabilities
+continues to enable the transition from discovery to translational research.
+The spatial biology returned a double-digit growth in the quarter as an improving academic
+market and the impact of our fortified leadership in North American commercial teams after the
+challenging year-over-year comp and the impact of the China shutdown. During the quarter, we
+achieved a significant milestone for our spatial biology business, our market leading portfolio
+across 40,000 unique RNA scope in situ hybridization probes in over 400 species.
+We also announced the launch of our CE IVD marked RNA scope ISH probe high risk HPV assay
+for use in patients with head and neck cancer to aid in the identification of high-risk human
+papillomavirus, HPV for use on the automated Leica Biosystems Bond 3 Steinar.
+With our sales territories occupied leadership team in place to drive this business forward and
+expectations for the US academic market to continue to improve, we are expecting a steady
+improvement in our space growth rate in the coming quarters.
+Moving on to our Molecular Diagnostics division, let's start with the significant progress our
+Exosome Diagnostics business delivered in the quarter. The ExoDx prostate or EPI test continue
+to benefit from increasing traffic, the physician office for initial or follow up visit, which in turn
+drove improving diagnostic testing volumes, including PSA test, which is a prerequisite for our EPI
+test. This improving the physician office environment combined with our digital and traditional
+marketing initiatives drove almost 70% year-over-year ExoDx prostate test volume growth as
+testing levels broker quarterly volume record for the second quarter in a row.
+The Exosome Diagnostics team had a strong presence at the American Urological Association or
+AUA Conference in May including the presentation of two posters as well as six (inaudible)
+scientific presentations. This was also a great form to highlight our ongoing partnership with
+foreign Baltimore Orioles player Iron Man, Cal Ripken Junior, who remains an ambassador and
+advocate for the ExoDx prostate test, which was a part of California prostate cancer journey.
+Separately, our Medicare administrative contractor National Government Services held a public
+meeting following our request for reconsideration of our local coverage decision, also known as a
+LCD. As a reminder, we have made significant progress in the existing LCD to align with theNational Comprehensive Cancer Network or NCCN guidelines all the way a few key differences
+remain. Most importantly, the current LCD, it does not reimburse for repeat usage of our ExoDx
+prostate test or for patients who we previously had a negative prostate biopsy. If successful, the
+reconsidered LCD would removing limitations enabling the use of our ExoDx prostate test as a
+surveillance tool.
+We are encouraged following the reopening meeting and are looking forward to the issuance of
+the final LCD. Continuing to Molecular Diagnostics Asuragen had a great quarter as demand for
+its portfolio of genetic carrier screening kids, molecular diagnostic controls, as well as initial
+traction in Europe drove growth of over 25% in the quarter. In addition to the ongoing geographic
+expansion Asuragen has a rich product pipeline positioned the business for continued growth
+going forward.
+Finally, our diagnostic reagents business continued to trend of steady growth in the quarter. The
+return of patients to the doctors offices is sparking demand for hematology and clinical chemistry
+tests which is driving demand for a clinical controls and reagents, improving patient, office visit
+trends a full pipeline and opportunities for additional gains -- share gains within our OEM partners
+set the stage for sustainable growth in our diagnostic reagents business going forward.
+Most of you probably saw the press release issued this morning announcing the planned
+leadership transition coming in two years. Following the conclusion of our fiscal 2024, I plan to
+retire as the CEO, the Bio-Techne and intend to continue to serve as a Member of the Board of
+Directors.
+During my tenure, the Board and I have built an incredibly strong bench of talented results driven
+leaders that could serve as potential, internal replacements. Over the same timeframe Bio-
+Techne has grown into a leading life science tools and diagnostics company and I have no doubt
+that our accelerating organic growth profile in sector-leading profitability will attract extremely
+high caliber external candidates as well.
+The Board search for a potential replacement has already begun and we will update you when
+there is news to share. One thing is certain, with the team now over 3000 strong in a product
+portfolio directly aimed at some of the hottest areas of scientific research and diagnostics, Bio-
+Techne is positioned to continue to execute our strategic plan during the next two years under
+my leadership and beyond.
+With that, I'll pass the call over to Jim.
+`James T. Hippel, Chief Financial Officer `
+Thank you, Chuck. Now I will provide an overview of our Q4 and fiscal 2022 financial performance
+for the total company, provide some additional details on the performance of each of our
+segments and give some thoughts on the fiscal year ahead.
+Starting with the overall fourth quarter financial performance, adjusted EPS was $2.05 versus $1.88
+one year ago, an increase of 9% over last year. Foreign exchange negatively impacted adjusted
+EPS by $0.10 or minus 5% in the quarter.
+GAAP EPS for the quarter was $1.51 compared to 37% from the prior year. The biggest driver for
+the increase in GAAP EPS was unrealized losses on our investment in ChemoCentryx in the prior
+year.
+Q4 revenue was $288.2 million, an increase of 11% year-over-year on a reported basis and 14% ongrowth. Well, the full fiscal year 2022 revenue was $1.1 billion, an increase of 19% on a reported
+basis and 17% on an organic basis.
+Foreign exchange translation had an unfavorable impact of 1% and acquisitions had a stable
+impact of 3%.
+Moving on to the details of the P&L, total company adjusted gross margin was 73.2% in the
+quarter, compared to 72.7% in the prior year. The increase was driven primarily by favorable
+business mix and productivity gains, partially offset by the impact of foreign exchange.
+Adjusted SG&A in Q4 was 27.8% of revenue compared to 25.9% in the prior year, while R&D
+expense in Q4 was 8.1% of revenue, compared to 8% in the prior year. The increase in SG&A was
+due to progress we made in the quarter, building a team to position the company for growth
+going forward, including adding commercial and technical talent.
+Resulting adjusted operating margin for Q4 was 37.4%, a decrease of 140 basis points from the
+prior year period. Excluding the impact of foreign exchange, adjusted operating margin was
+approximately in line with the prior year. For the full year, fiscal year 2022 adjusted operating
+margin was 38.3%, a decrease of 80 basis points year-over-year.
+Looking at our numbers below operating income, net interest expense in Q4 was $2.2 million
+decreasing $0.8 million compared to the prior year period. The decrease was due to a continued
+reduction of our bank debt. Our bank debt on the balance sheet as of the end of Q4 stood at
+$255.9 million. Half of the quarter, we did drawdown approximately $100 million in our existing line
+of credit for the recently completed an MSL acquisition, which together with higher floating
+interest rate is expected to add approximately $1.4 million to our quarterly interest expense in the
+first quarter of fiscal year 2023.
+Other adjusted non-operating income was $1.3 million for the quarter, compared to $0.7 million in
+expense in the prior year. Primarily reflecting the foreign exchange impact related to our cash
+pooling arrangement.
+For GAAP reporting other non-operating income includes unrealized losses from our investment
+in ChemoCentryx.
+Moving further down the P&L, our adjusted effective tax rate in Q4 and for the full fiscal year was
+21.2%.
+Turning to cash flow and return of capital $102.7 million of cash was generated from operations in
+the quarter and our net investment in capital expenditures was $13.6 million. Also during Q4, we
+returned capital to shareholders by way of $58.8 million in stock buybacks and $12.5 million in
+dividends. We finished the quarter with $40.7 million average diluted shares outstanding.
+Our balance sheet finished Q4 in a very strong position with $247 million in cash and short-term
+available for sale investments keeping our net debt position negligible at the end of the fiscal
+year.
+Next, I'll discuss the performance of our reporting segments. Starting with the Protein Sciences
+segment. Q4 reported sales were $217 million with reported revenue increasing 13%.
+Organic growth for the segment was 16% with foreign exchange having unfavorable impact of
+3%. In this segment, the growth was very broad based in nearly all reagent assay and instrument
+platforms. Our portfolio of cell and gene therapy workflow solutions increased over 15%,approaching Simple branded instruments and consumables increased in the upper teens and our
+RUO proteomic research reagents grew in the low teen.
+Operating margin for the Protein Sciences segment, excluding the impact of partially owned
+consolidated subsidiaries was 45.5%, a decrease of 170 basis points year-over-year. The
+favorable volume leverage and productivity gains more than offset by the impact of foreign
+exchange and strategic investments to support future growth.
+Turning to the Diagnostics and Genomics segment, Q4 reported sales were $71.7 million with
+reported revenue increasing 7%.Organic growth for the segment was 8% with foreign exchange
+having a favorable 1% impact. Within this segment the Diagnostics Reagents business increased
+flow single digit. In the ACD branded spatial biology portfolio returned to double-digit growth in
+the quarter.
+With the fortified leadership and commercial team, we anticipate improved growth rates in our
+spatial biology business going forward. For Exosome Diagnostics revenue increased 40% as
+prostate cancer test counts increased almost 70%, compared to the prior year period
+representing the second consecutive quarterly test volume market.
+We are encouraged with the volume trend and anticipate continued improvement as our
+marketing strategy and value proposition resonates with physicians, patients and payers.
+Moving on to the Diagnostics and Genomics segment, operating margin at 15.7%. The segment's
+operating margin decreased a 100 basis points compared to the prior year. The decrease
+reflects the favorable impact of volume leverage and product mix, more than offset by the
+impact of foreign exchange and to a lesser extent investments to drive future growth.
+In summary, the growth momentum across our businesses remain strong. Using fiscal year 2019
+as a pre-COVID baseline, the company's core organic revenue CAGAR has been consistently in
+the low teens, the past couple of years. As our fourth quarter demonstrated the biopharma end-
+market is still very strong. We are keeping a close watch on the smaller biotech portion of this
+end-market in the current difficult market conditions to raise new capital funding. However, we
+see the academic market improving compared to fiscal year 2022 and with a fully staffed
+commercial team now in our spatial biology franchise, we expect our gold standard RNAscope
+products to further penetrate the academic and biopharma end-markets with double-digit
+growth.
+Add to this, the rapid growth we are seeing with our EPI test and Asuragen diagnostic kits and we
+believe we have many arrows in the quiver that will enable us to at least achieve the same
+double-digit organic growth rate in fiscal year 2023 as our CAGAR's since fiscal year 2019.
+Of course, with foreign exchange rates where they currently stand, we expect a 2% foreign
+exchange headwind to our reported growth for fiscal year 2023. However, this should be partially
+offset by anticipated 1% contribution from the recently closed MSL acquisition.
+Negative foreign exchange rates and the acquisition of MSL, we likely have a negative impact on
+our full year adjusted operating margin for fiscal year '23 by as much as 150 basis points. The
+impact on year-over-year margin will be more severe in Q1 and gradually become less of a
+headwind as the year progresses. The time we reach the end of fiscal year 2023, we expect our
+core margin improvement to offset these headwinds and finished the fourth quarter of fiscal year
+2023 with approximately 100 basis points of year-over-year margin expansion. Thus entering
+fiscal year 2024, we're right on track to achieve 40% adjusted operating margin by our target of
+fiscal year 2026.That concludes my prepared comments and with that, I'll turn the call back with the operator
+open the line for question.
+Questions And Answers
+Operator
+Thank you. (Operator Instructions) Our first question comes from `Puneet Souda, Analyst, SVB Securities with SVB
+Securities. Please proceed.
+Q - `Puneet Souda, Analyst, SVB Securities `
+Yeah. Hi. Thanks, Chuck, Jim. Thanks for taking the question. So first of all, congrats on a solid
+print here despite the China challenges. So maybe Chuck given the transition, I think, I mean first
+of all, it's fair to say that you've done a phenomenal job over and portfolio transformation and the
+top line growth, which is in mid-teens and $1.1 billion at an operating profile that is reflecting a
+40% off margins, so that's I mean just great to see across the life science tools industry. So I
+mean, I wish you wondering retiring, but maybe just walk us through sort of what went into this
+decision and maybe talk to us about the overall organization today. I mean you have a target of
+$2 billion by FY '26. You're pivoting more into cell and gene therapy, so potentially there is a lot to
+be excited about. But how are you thinking about the overall organization? What needs to
+happen in order to deliver that target by FY '26?
+A - `Charles Kummeth, President, Chief Executive Officer and Director `
+I think mainly keep doing what we're doing. So we had a hell of a year. 17% percent growth. We
+will be giving our usual mild range guidance here for the coming year, it starts with a double-digit
+for sure. As you know, by the end of our cycle 2026, we're going to be at a 17% for sure, where
+we need to be there to hit the $2 billion and we are more confident and we're doing that. The
+team is over the last, almost 10 years I've been here, we've been building it and you know with
+the retirement of David into last year, we picked up well guys who has extremely strong domain
+knowledge in all the hot areas that we're getting into cell and gene therapy in particular. So the
+bench is set. Of course Jim is here. Jim is 10 years younger than me. So we've got a long runway
+to go here with some solid candidates internally.
+As well as the Board will do their fiduciary duty and I'll look externally as well. They've already
+talked about that and we're doing a two year glide path here. So there is nothing overnight until
+about time I'm out here and I intend to be on the Board going forward. From then we will be
+close to our $2 billion hopefully anyway. So more and more worried about, I'm thinking about that
+the person replacing me, when I'm done with my 10 year it will be a 500% growth -- 5X from
+when I started and personal who replace me, have to have that kind of runway. So we can take it
+from $1.5 billion or more between $7.5 billion and $10 billion and the PoNS we're in. As you know
+we're low and share in all the markets we serve, we see no problem making this a, a fantastic
+company going forward, and an even stronger leader in the life science tools and diagnostics
+markets.
+Q - `Puneet Souda, Analyst, SVB Securities `
+That's great. And then I just wanted to check on Wilson Wolf that was nearing a run rate of your
+potential target timeline for acquisition. Maybe just update us with the business there and with
+that maybe Jim can also talk sort of what sort of leverage ratio once you have that deal closed
+and sort of what, how should we think about the leverage ratio and your cash position? And howdoes that change any M&A prospects for you or as you look at targets out there given the current
+valuations?
+A - `Charles Kummeth, President, Chief Executive Officer and Director `
+Well, we've never been in a stronger position for cash and for our debt levels. So we're definitely
+hunting but we fully expect to consummate the first tranche of our deal before end of the
+calendar year here that takes 20% so far $250 million less the up from option that we gave them.
+So they are on track. The growth is steady, 700 to 800 customers. The facto standard, nothing is
+impeding that and we have also $100 million or so for the Namocell as well and where Jim can
+talk about our leverage going forward. But we're certainly going to get a little more cash and but
+we're sitting in a great spot to do it. And then I mentioned before, this is going to be an excellent
+year for M&A, it's already taken off pretty strong as you look at our peers across the world here.
+A - `James T. Hippel, Chief Financial Officer `
+Yeah, Puneet, I'll just add. I mean with the powder is not an issue. We're sitting a pretty much net
+debt zero as of the end of June 30, we just the Namocell acquisition and assuming we do Wilson
+Wolf here by the end of the calendar year and the other operating cash flow we generate in the
+meantime, will still probably be at or less a one times turn and as we said before, we're very
+comfortable going up to north of three for the right deal. So powder will not be the issue.
+Operator
+Our next question comes from `Jacob Johnson, Analyst, Stephens Inc. with Stephens. Please proceed.
+Q - `Jacob Johnson, Analyst, Stephens Inc. `
+Hey, thanks. Good morning. And Chuck, I'll add my congrats on all you've accomplished over the
+last couple of years and on the retirement announcement, I think you're still stuck with us for
+another seven quarters.
+A - `Charles Kummeth, President, Chief Executive Officer and Director `
+Who is counting?
+Q - `Jacob Johnson, Analyst, Stephens Inc. `
+You are probably, Chuck. On the biopharma end-market Jim mentioned, you guys are keeping an
+eye on funding. Can you just talk about? Are you seeing any signs of a slowdown from activity in
+the end-market? Does it sound like it, is biopharma really strong? But just any thoughts there?
+And then as we think about your portfolio, if we continue to see financing be sluggish, just kind of
+talk about how you view that may be impacting some of your key segments?
+A - `Charles Kummeth, President, Chief Executive Officer and Director `
+Yeah, sure. When we finished the quarter very strong and as we've mentioned in the past, we
+haven't seen too much degradation in any of our markets, so we finished in the US biopharma
+around 30% growth and academia keeps trickling or near high single-digit growth for the quarter
+in the US, better than that in Europe again teens but looking forward, it's kind of hard to answer,
+because looking now from July, when on July kind of soft for us anyway. It is for everyone. And it
+kind of, it's different year-on-year. I do think that this is a year where a lot of people are tired and
+traveling and taking off for the first time. So I think we're seeing some of that. But we'll see right
+now, we see strong continued momentum in biopharma, your Pacific and asking about biotechwe'll see, but I think most of the markets are still doing fine that you've seen our peers can't
+make the same kinds of statements. But, it's hard to really make a statement going into July and
+August.
+And some of our areas and especially like (inaudible) is one of the fastest time of the year for
+them anyway. So things like that, but, we'll know more in about a month or so, and we're not too
+concerned yet. I mean, things are kindly we usually see about this time of year.
+A - `James T. Hippel, Chief Financial Officer `
+The only thing I would add there Jacob is keeping in mind that our core business is reagents and
+relatively low dollar instrumentation that adds the productivity. So if there is any kind of slowdown
+Bio-Techne usually it's that high capital expenditure items that we'll see it first and as long as we
+continue to their experiments are going to still meet our reagents and our value add low cost
+instrumentation. So the risk, I think is lower for us.
+Q - `Jacob Johnson, Analyst, Stephens Inc. `
+Yeah.
+Operator
+Our next question comes from `Dan Arias, Analyst, Stifel with Stifel. Please proceed.
+Q - `Dan Arias, Analyst, Stifel `
+Good morning, guys. Thanks for the questions. Chuck, maybe on ACD good to see a return to
+double-digit growth there. I have you at right around 10% growth for the year. The long-term
+CAGAR that you outlined at the Analyst Day is mid '20s, so for that portfolio, how do you think
+fiscal '23 growth fits into the trajectory there and then relatedly, Jim, how much of the higher or
+chuck of that matter, how much of the hiring you've highlighted as necessary for that business
+that we've been able to complete at this point?
+A - `Charles Kummeth, President, Chief Executive Officer and Director `
+Yeah. Well, that can cover both because it's not much change from last quarter in hiring. So were
+at full strength really literally and we're hiring more. I promised to return and were there. There
+has been new leadership for going on six months. Leadership is fantastic and we're back in the
+teens and will drift away back to north of 20 here, it's only 10 for the year because of a year ago
+a couple of soft quarters which we had to make changes and we lost a lot of people on the sales
+front, which we recovered from. We've done other things, initiatives like I've mentioned in the
+past, like giving equity to our salespeople that's also helped a lot.
+This is a very technical sale. So these people we have in the field in this area are very, very strong
+and their domain now. So, it's not an overnight replacement situation, but we've been there for a
+quarter now at full strength and the results are showing themselves. So the same thing in Europe.
+I'd say Europe is a little behind the US and there is, there is a service component, this business
+too that's a longer, longer sales cycle and so we're busy trying to get that back on track as well in
+which we're seeing strong improvement. So our thesis is 24%, I think we have in the $2 billion in
+our model and we think we're there.
+Remember, we're still on discoveries is translational from discovery to translational. We got
+automation coming out. Like we got new products coming and we haven't done much to crack
+pathology and there is a lot of pathology in our future. This platform as well. So we stand behindour guns here saying this is a $300 million kind of business. It should be and to hit $300 million is
+north of 24%. So, we're pretty bullish on this platform. It is a largest spatial business out there
+right now. It continues to be. So we understand where the target but we're addressing that. And
+we're trying to get out there and be more, be louder about the leader that we are so. Anything
+you want to add more, Jim?
+A - `James T. Hippel, Chief Financial Officer `
+No, Nothing. It's well said.
+Operator
+Our next question comes from `Catherine Schulte, Analyst, Baird with Baird. Please proceed.
+Q - `Catherine Schulte, Analyst, Baird `
+Hey guys. Thanks for the question. Then I will echo the earlier comments about, as Chuck
+mentioned (inaudible) but glad if we get a little bit longer with you? I was hoping you could give a
+little more color on what you're seeing in China? I think after the initial COVID lockdowns, you saw
+some stocking customers return to the bench. So is that something you're expecting to happen in
+your fiscal first quarter?
+A - `Charles Kummeth, President, Chief Executive Officer and Director `
+You know, coming off the COVID or the super weak quarter, we had this amazing surge is all that
+occurred restocking and redoing experiments in the kind of surprised everyone in the industry,
+how fast trying to came back and we had a record year. And the last year, we're still north of 20%
+for the year. We see looking forward this is still a 25% growth engine even though now we're
+north of $100 million in base. I think there'll be some stocking here. I don't think we're out of the
+woods here on turning it all back on. There are a lot of academic institutions that are not coming
+back online until after the elections in October.
+So there is going to be a continual lift in China and we're very bullish. We don't see any concerns
+there. It's just was a soft quarter for us. We all know it would be, you can be shut down for two
+months out of three and not have an impact. And yet, we are still near flat.
+The snapback is coming back pretty well and of course our warehouse wasn't Shanghai, so
+affected all of China for us. And so as long as we keep our warehouse open here. I think that's
+good news for the rest of how we serve China for the rest of the country. So we will build our way
+back. Leaving it off the hook for another very strong plan for this coming year and they're very
+bullish on it.
+Q - `Catherine Schulte, Analyst, Baird `
+Okay, great. And then I was hoping we could talk a little more about the Namocell acquisition.
+What our growth rates and margin there and how do you expect those to trend over the next
+few years?
+A - `Charles Kummeth, President, Chief Executive Officer and Director `
+Yeah, this is a fantastic asset. We've been talking to this team for four years, kind of we're ready,
+we're waiting until they have their two laser system in the market. Now there, it's selling like hot
+cakes, I mean you talk about growth rates, it's a three-digit number. It's a really good number.
+They are definitely already in instrument counts that are significant. And as you know, this is our akind of a best-in-class solution for cell isolation and cell sorting which affect a lot of markets, not
+just cell and gene therapy, but a lot of different applications and it picks away at flow Cytometry
+as well and they have ideas and the drawing board about if it going really dead center at that
+market as well. So a fantastic team, smart people, good IP already off often running in China as a
+matter of fact. Retention is fantastic. Integration is ongoing and started and again we've been
+friendly as for years. So I think we kind of came into this kind of hit the ground running in terms of
+integration. It's a strong application based on strong science and IP and it's just kind of fits kind of
+our thesis for the kind of instruments that we pick up and we've been excited to get this and
+we've been waiting and we're thrilled to have that team on board. And you'll see this be a major
+platform for us in the coming years.
+Operator
+(Operator Instructions) Our next question comes from `Alex Nowak, Analyst, Craig with Craig-Hallum Capital
+Group. Please proceed.
+Q - `Alex Nowak, Analyst, Craig `
+Good morning everyone. I'm just hoping we could speak to the expectations for the overall
+growth range in the new fiscal year. And yeah, as we talked right, in the Q&A session, we got a
+couple across brands. We got China kind of coming back online, maybe not full strength, but it's
+recovering. Maybe a more questionable funding environment for the life science projects that you
+look at this high growth cell and gene therapy business. So just how are you thinking about
+growth throughout this year? The cadence throughout this year?
+A - `James T. Hippel, Chief Financial Officer `
+Yeah. So the plan this year is kind of like last year, we will start out a little softer and very strong
+just like we did. Comps, this is start of tough comp for us in Q1 and then they get a little better for
+us going forward, but not that much better. This is an aggressive business and we're a double-
+digit player now. We expect to continue. As you know, Alex, we don't give real guidance. We will
+give quarterly. But we do think that our range this coming year is something you know something
+probably 11 and 12-ish percent to up-to-mid teens in that range. And we'll keep you posted as we
+do better. But as you mentioned with China still being a little softer as we go forward to fully turns
+on which is really more like Q2 and other situations you know out there. We'll see, but we have
+other things that are counteracting these possible slowing. I mean we're Exo is lighting up, you
+guys aren't asking about Exo but it wasn't a tremendous quarter with 70% test growth, 40%
+organic growth and over 7,000 tests. We are just killing it. And it's their time and it's going to be
+taken off. We're going to an accrual methodology pretty soon here as well if not this coming
+quarter. It's time, the reconsideration is going to really allow us to double the TAM for us. We've
+got 75,000 tests that have occurred out there in the past that are all waiting for a reoccurrence
+and so there is a lot of upside there.
+We just talked about spatial. Spatials back in the groove, and it's already in a $100 million business
+in that range. So it's material. And as long as our core in all stays where it is and proteomics is still
+strong. Biopharma at 30% kind of growth rates, we've seen amazing double-digit year ahead of
+us and we're not going to get more bullish in the mid-teens at this point but we never do.
+Q - `Alex Nowak, Analyst, Craig `
+Okay, understood. That's helpful. And then going back to Namocell. I think in hindsight here was
+just clearly lightning yourselves operation system. I think that's critical for cell and gene therapy as
+you outlined for other areas too. We now as you survey that cell and gene therapy space, justwhat other tools, what other products out there could be used for kind of tuck-ins the bag and
+combined with the rest of the portfolio?
+A - `James T. Hippel, Chief Financial Officer `
+While we're getting pretty darn close to a complete closed workflow. There is not much left that
+we need. I would say cryopreservation would be one area. There are some more cell analysis
+type tools and I guess comp like QC areas and stuff for the process that might make sense.
+Obviously, we need to capitalize on scale ready and with getting Wilson Wolf under the tent here
+that will take care of our bioreactor needs, but it may not be the only one. There maybe a place
+for bags out there and there are certainly is the going upstream into the bioprocessing side of all
+this, which we really haven't done yet, but as we grow, we're going to probably naturally trim that
+direction.
+Starting first with our proteins and other things, we'll be doing in bulk for customers, right. And I
+think then the instrumentation, we're counting on the queue out of Fresenius Kabi with our scale
+ready JV and if that doesn't work long term, we'll have to either acquire that or do something
+different. But we're going to obviously have to have an instrument for (inaudible) to make the
+system complete, and right now they've been a fantastic partner and they are, I wouldn't say a
+strong as Wilson Wolf but stronger than us right now in proteins. They've been out there. And
+they've got a lot of traction with our platform and we think we're ready to explore this thing as
+the market creates itself, which is really the limiting factor right now is, when does this market
+really coming to being and it's coming more every year.
+Operator
+Our next question comes from `Patrick Donnelly, Analyst, Citi with Citi. Please proceed.
+Q - `Patrick Donnelly, Analyst, Citi `
+Hey guys. Thanks for taking the questions. Jim, maybe one for you on the guidance. Just on the
+margin side, talking about kind of that exit rate of 100 bps expansion in 4Q. Can you talk about
+how we should think about the ramp throughout the year? And then just the key levers both
+directions between pricing, supply chain, inflation, some of the Exos, Chuck mentioned the
+accrual side. So maybe just talk about the moving pieces there and how we should think about
+margins throughout 2023?
+A - `James T. Hippel, Chief Financial Officer `
+Sure. So as I mentioned, roughly 150 basis point all for the full year kind of decline driven almost
+entirely by FX in the Namocell acquisition and if we're going to exit the year with 100 basis points
+of expansion that would suggest that we're going to have worse than 100 basis points
+contraction in the early part of the year as because the FX headwinds are more severe when you
+look in the first half of the year than in the back half of the year as well as Chuck mentioned in this
+opening comments, we had a very successful quarter in Q4 with regards to getting staff back up
+and holding onto our key people and that will have a carry-over impact, particularly in the first half
+of the year where we were way behind in our investments last year. So a combination of of that
+carryover impact of getting fully staffed in addition to the FX would be more severe in the back
+half of the year, but then is our operational productivity improves throughout the year. That's
+where we expect to get back to expansion before we exit the year. Hopefully that helps.
+Q - `Patrick Donnelly, Analyst, Citi `Yeah. That's helpful. And then Chuck, maybe just a quick one on kind of the capital allocation
+strategy given the announcement this morning and congrats on the two years. In the next two
+years, is there any reason you guys wouldn't do deals because you're leaving or what's kind of
+the way to think about kind of this in-between period on the capital allocation side?
+A - `Charles Kummeth, President, Chief Executive Officer and Director `
+Now, quite the contrary. This is going to be a good year for shopping. That were out there
+hunting pretty hard. And we're in the middle of some right now. We always are. And we'll see
+what happens, but over thinking two years, I mean the kind of cash flow, we have, I mean our
+EBITDA two years out, is going to be well north of 500 probably 600-ish and we're going to have
+plan to work with. As Jim mentioned earlier the powder is strong. So I think we're looking for
+bigger deals and this may be a good year to pick up a lot of tuck-in mom and pops in all that are,
+we're think an IPO and they can't now and stuff. So we're looking at all those angles to but we're
+open any and all ideas. I guess on anything that it makes sense for shareholders and makes our
+company a stronger company. We are five divisions across two segments. I've always said that
+once we're at a $5 billion kind of revenue rate, this will be a 10-division company, all synergistically
+connected crossed in these 10 divisions. And in the science being all life sciences, so we see no
+change in our thesis, and we've never been more bullish about our capital allocation and is
+primarily M&A. Don't look at this as is thinking about major buybacks or dividend increases. It's
+M&A first.
+Operator
+Our next question comes from `Paul Knight, Analyst, KeyBanc Capital with KeyBanc. Please proceed.
+Q - `Paul Knight, Analyst, KeyBanc Capital `
+Hi, Chuck. Congratulations on the change. It sounds like it will be a while, so that's fabulous for
+you. The ProteinSimple was one of the earlier acquisitions you did. Looking back on it and looking
+forward what are your thoughts on ProteinSimple in terms of share they have today and runway
+ahead on that particular business that you obviously very instrumental in getting cut back and
+growing and transforming that part of the market?
+A - `Charles Kummeth, President, Chief Executive Officer and Director `
+Yeah, sure. Well it's going back six, seven years now but we did that deal pretty quickly. It was on
+the eve of an IPO and we snatched it and it was a $50 million business back then not making
+money in today. It's a $250 million business, making over 30% margins and is an instrument
+business. It's got great IP. We have other things we can add to the platform we think and we have
+runway across all three major platforms, as we've talked about a lot. I mean, everything from the
+Ella platform, which we're competing within a year of 5,10 K process 30, 45 of brand new facility
+manufacturers. They were more than tripled the output. So that will be a sleeper that we'll be in
+pretty much point of care diagnostics in five years. As well as discovery it's a now which is crazy
+growth.
+Simple Western is still an amazing platform with way more ahead of it than behind it and Biologics
+just keeps surprising us. I mean seven quarters going to roll over 30% growth and in our protein
+purity capsid testing HPLC share taking, this thing has got lots of runway as well, more than we
+ever thought. So I look at it and I'll leave in two years here and move on to the other important
+positions and stuff. I'm thinking about here. It's going to be $400 million-ish business unit and
+there is no reason why this can be a $1 billion unit someday. And it will have other other
+instruments, we'll add to the platform over time to, I'm sure of that. So if it was spun out rightnow, obviously it'd be really valuable. So I think we paid $300 million for it. So it's been an
+amazing return and probably the biggest chunk of our overall value creation over the last 9.5
+years I've been here, which is roughly $2 billion, I think today we are in the $15 billion-ish range but
+we're $20 billion, but we're all seen a little setback there. But, you know we're very positive
+because we see as the market finally, I guess bottoms with conviction that there is the Fed's
+done, etcetera. There will be a flow to quality first and you don't find better quality and an asset
+in ours.
+Q - `Paul Knight, Analyst, KeyBanc Capital `
+My last question Chuck would be like on Exosome Diagnostics. That seems to be getting traction.
+Would you be in acquirer of diagnostic assets in the future or what are your thoughts on the DX
+sector?
+A - `Charles Kummeth, President, Chief Executive Officer and Director `
+Well as you recall, we've been very, very bold in our statements about what we want to be and
+we don't want to be in diagnostics across the board. We do, we did not want to be an infectious
+diseases in these low end things that hard to make money and lots of competition, no barriers to
+entry. But, you know we're a company that's focused on oncology cure and cancer from research
+sense as well as neuroscience and diagnostics that fit in those because they leverage our assay
+expertise 40 years worth of experience. That's, we want to flow.
+The Asuragen team really came on and helped us immensely. This team is amazing and they've
+just lit it up there. It was the right idea to put this business unit in charge of professionals and have
+over a decade experience in diagnostics. And I'm not going to say we won't pick up other assets.
+But if we do, they're probably going to be closely related and in areas where there are good
+returns and need for heavy difficult science which usually means going after solid tumors
+something in oncology. It's the difficult areas and we'll see. There is lots of opportunity here and
+well, never say never. Right now we're kind of focused on. It's a new division with the merging of
+surgeon with Exosome and the growth has been wonderful on and its lighting up. It's accelerating
+and so we're going to ride that and we're here for a while and we'll see what happens. But we're
+still focused on making that a major, major platform for the company and I've told you guys more
+than once you look out 5 to 10 years, this is one of the few things we can see in our coming. It
+should be $1 billion or more.
+Operator
+Mr. Kummeth, there are no further questions at this time. Please continue with your presentation
+or closing remarks.
+A - `Charles Kummeth, President, Chief Executive Officer and Director `
+While we're on the hour. Anyway, thanks for the questions. And it was a great quarter and into a
+great year. The best ever for us and we hope to give you an even better on this coming year. So
+talk to you soon. Thank you.
+Operator
+That does conclude the conference call for today. We thank you for your participation and ask that
+you please disconnect your line. Have a great day, everyone.

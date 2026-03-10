@@ -1,0 +1,841 @@
+Q4 2015 Earnings Call
+
+Operator
+Welcome to the Fourth Quarter 2015 Arista Networks' Financial Results Earnings Conference Call.
+During the call, all participants will be in a listen-only mode. After the presentation, we will conduct
+a question-and-answer session. Instructions will be provided at that time. As a reminder, this
+conference is being recorded and will be available for replay from the Investor Relations section
+at the Arista website following this call.
+I will now turn the call over to Mr. Chuck Elliott, Director of Investor Relations. Sir, you may begin.
+Chuck Elliott `
+Thank you, operator. Good afternoon, everyone, and thank you for joining us. With me on today's
+call are Jayshree Ullal, Arista Networks' President and Chief Executive Officer; and Ita Brennan,
+Arista's Chief Financial Officer. This afternoon, Arista Networks issued a press release announcingthe results for its fiscal fourth quarter and year ended December 31, 2015. If you would like a copy
+of the release, you can access it online at the company's website.
+During the course of this conference call, Arista Networks' management will make forward-
+looking statements, including those relating to our financial outlook for the first quarter of the
+2016 fiscal year, industry innovation, our market opportunity, and the impact of litigation, which are
+subject to the risks and uncertainties that we discuss in detail in our documents filed with the SEC,
+specifically in our most recent Form 10-Q and Form 10-K and which could cause actual results to
+differ materially from those anticipated by these statements.
+These forward-looking statements apply as of today and you should not rely on them as
+representing our views in the future. We undertake no obligation to update these statements
+after this call. Also, please note that certain financial measures we use on this call are expressed
+on a non-GAAP basis and have been adjusted to exclude certain charges. We have provided
+reconciliations of these non-GAAP financial measures to GAAP financial measures in our earnings
+press release.
+With that, I will turn the call over to Jayshree.
+Jayshree Ullal `
+Thank you, Chuck. Thank you everyone, for joining us this afternoon for our 2015 and Q4 earnings
+call. I'm pleased to report that we had a spectacular year with a strong finish. Annual revenue
+grew 43.4% year-over-year to a record $837.6 million while earnings per share increased 52.8%
+to $2.44. This was driven by our innovative platforms, differentiated EOS stack, and CloudVision
+orchestration. Services contributed 11.1% of overall sales as cloud demand fueled our growth
+across our top verticals, especially the cloud titans.
+From a geographic perspective, our customers in the Americas contributed 76.8% of total
+revenue in 2015 as our international theaters progressed steadily. We delivered non-GAAP gross
+margins of 65.3% for the year as we grew profitably in a highly dynamic and competitive industry.
+We're now in excess of 3,700 cumulative customers including new customer upticks and
+expansion from our existing customer base.
+Microsoft was 12% of our 2015 revenue, symbolic of the continued shift we see from on-premise
+enterprise to workloads in the public cloud. We remain fully committed to significant R&D and
+customer support investments, often in conjunction with our key technology partners to bring
+open, industry-wide cloud conversions.
+Let me quickly recap some of our 2015 highlights. Early in the year, we announced 26 new Leaf
+and Spline platforms for 10-gigabit Ethernet, 25-gigabit Ethernet, 40-gigabit Ethernet, 50-gigabit
+Ethernet, and 100-gigabit Ethernet, all based on our single binary image EOS philosophy, utilizing
+diverse silicon architectures.
+In May 2015, we achieved the coveted Leaders quadrant with one other vendor in Gartner's
+Magic Quadrant for Data Center Networking out of the 11 vendors mentioned. We forged a key
+agreement with HP for converged infrastructure of compute and storage integrated by HP
+OneView and Arista EOS. We introduced a revolutionary platform, CloudVision, for workload
+provisioning and workflow automation, offering interoperability across overlays like VMware's NSX
+as well as integration into Dell, HP, and OpenStack frameworks.
+Later in the summer, we extended CloudVision to security with Macro-Segmentation Services, or
+MSS for short. Holistic security is a top-of-mind customer mandate, and we are working well withsecurity visionaries like Palo Alto Networks, Check Point, F5, Fortinet, and VMware to realize
+(5:04).
+In fall of 2015, we launched our media and entertainment initiative with industry leaders,
+transforming the once analog world to a highly digitized software-defined and IP one. In
+November of last year, we delivered our first Spine Internetworking solutions connecting between
+data centers with Layer 1, Layer 2 and Layer 3 options endorsed by our leading customers Box,
+Equinix, and Netflix.
+Earlier this year, in January of 2016, we announced a foundational Arista EOS infrastructure with
+NetDB, a network-wide state-oriented database. NetDB builds upon our core state architecture
+by adding network-wide actions including state-sharing mechanisms for control, replication,
+rollbacks, and streaming analytics. We also announced use cases for hybrid cloud, Docker
+Container Support, and more programmability models with OpenConfig and Go. All of these are
+compelling examples and alternatives to the traditional world we all live in.
+Demonstrably, we've had a busy year, growing our employee strength to over 1,200 with
+worldwide investments across 70 countries and 120 support depots. And as we enter the new
+2016 fiscal year, we believe we are gaining market share and increased relevance in the cloud
+networking segment. We are the only authentic state-based cloud stacks differentiated from
+mega-scale networking. Others may mimic us with marketing, buzzwords, and marketectures; we
+simply execute and deliver it. We believe our publish-subscribe-notify is simply several years
+ahead of the industry, and I couldn't be more proud of our customers' steadfast acceptance of
+Arista as well as our teams' results.
+Now, I will turn it over to Ita for Q4 and 2015 financial details.
+Ita M. Brennan `
+Thanks, Jayshree, and good afternoon. (7:11 – 7:22) legal costs associated with the ongoing
+lawsuits and the release of a tax GAAP reserve described in the prior quarter. A full reconciliation
+of our selected GAAP to non-GAAP results is provided in our earnings release.
+Total GAAP revenues in Q4 were $254.4 million, up 41% year-over-year and above our guidance
+of $238 million to $242 million. Revenues for the year came in at $837.6 million, up 43% from the
+prior year. As anticipated, our cloud titan vertical demonstrated particular strength in the fourth
+quarter combined with solid contributions from the other key verticals. Service revenues
+continued to grow, reaching 11.5% of revenue for the quarter, up from 11.1% in Q3.
+International revenues came in at $47 million or 19% of total revenue, down from 22% last quarter.
+We experienced continued growth in EMEA, offset by some lumpiness in APAC. Overall growth
+margin in Q4 was 64% in line with our guidance of 62% to 65% and reflecting an anticipated shift
+in revenue mix towards the cloud titans in the quarter. Operating expenses for the quarter came
+in at $85.7 million, up from $83.1 million last quarter.
+Total spending grew 3% on a quarter-over-quarter basis, considerably slower than our 13% top
+line growth. R&D spending decreased by $1.5 million with lower than anticipated variable and
+prototype spending.
+Sales and marketing expense increased to 11.4% of revenue in the quarter, reflecting additional
+head count and higher variable compensation expenses in the period. Our operating income for
+the quarter was $71.3 million or 29% of revenue. Other expense for the quarter was $0.9 million
+and our effective tax rate was 18.5%, resulting in net income for the quarter of $57.5 million or23.4%. This effective tax rate of 18.5% reflects the full benefit of the renewal of the research and
+development tax credit for 2015.
+Excluding this effect, our non-GAAP effective tax rate for the quarter would have been 30.4%,
+resulting in non-GAAP net income of $49.1 million or 20%. Our diluted share number for the
+quarter was 72.1 million shares, resulting in a diluted earnings per share number of $0.80 up from
+$0.59 in the prior quarter and up 50% from the prior year. This earnings per share number
+includes the $0.12 benefit for the renewal of the research and development tax credit for 2015.
+Legal expenses associated with the ongoing lawsuits came in at $9 million for the quarter, slightly
+below our outlook of $10 million on the last earnings call. As a reminder, these expenses are
+excluded from the non-GAAP results discussed above.
+Now turning to the balance sheet. Cash, cash equivalents and investments ended the quarter at
+$687.3 million. We generated $117 million of cash from operations in the December quarter, up
+from $10.6 million in the prior period.
+DSOs came in at 54 days, down from 68 days in Q3 and 57 days in Q2. We have made significant
+process improvements in this area during the quarter and are pleased to see this reflected in the
+reduced DSO metrics.
+Inventory turns were 3.2 times, up from 2.6 times in Q3. Inventory decreased to $92.1 million in the
+quarter, down from $110 million in the prior period. This reduction is the result of increased focus
+on inventory management and supply/demand planning over the last number of quarters.
+Our deferred revenue balance was $197 million, up from $191 million in Q3. This balance continues
+to be largely made up of short-term and long-term service contracts with some product deferrals
+related to acceptance terms and future deliverables. Accounts payable days were 45 days, up
+from 38 days in Q2, reflecting the timing of inventory receipts and payments. Capital
+expenditures for the quarter were $5.3 million.
+Now turning to our outlook for the first quarter. We are pleased with our 2015 financial
+performance with revenues up 43% and earnings per share up 58% on a year-over-year basis. As
+we look forward to 2016, we believe that the fundamentals of our business remain strong.
+Workloads continued to march towards the cloud, benefiting our key customers who continue to
+deploy our differentiated product set across their data centers. It is typical for Arista to see
+activity in the first quarter somewhat muted, as customers complete their budgeting and planning
+processes.
+Based on our current visibility, we expect revenues for the first quarter 2016 to be in the range of
+$232 million to $240 million, representing a slight reduction from Q4 2015 level but still showing
+growth on a year-over-year basis of 30% to 34%. Our revenue mix is expected to continue to be
+more heavily weighted towards our cloud titan customers. And, on that basis, we expect gross
+margins in the 62% to 65% range.
+With this as backdrop, our guidance for the first quarter, which is based on non-GAAP results and
+excludes any non-cash stock-based compensation expenses and any legal expenses associated
+with our ongoing lawsuits, is as follows: revenues of approximately $232 million to $240 million,
+gross margin of approximately 62% to 65%, and operating margin of approximately 26%. Our
+effective tax rate is expected to be 28% to 30% with diluted shares of approximately 72.5 million.
+Please note that based on our current understanding, we expect costs associated with the
+lawsuits to be approximately $9 million for the quarter.With that, I will turn the call back to Chuck. Chuck?
+Chuck Elliott `
+Thank you, Ita. We are now going to move to the Q&A portion of the Arista earnings call. Due to
+time constraints, I'd like to request that everyone please limit themselves to a single question.
+Thanks, all.
+Q&A
+Operator
+We will now begin the Q&A portion of the Arista earnings call. Your first question comes from the
+line of `Brent Bracelin, Pacific Crest Securities with Pacific Crest Securities. Please go ahead. Your line is open.
+Q - `Brent Bracelin, Pacific Crest Securities `
+Thank you. Jayshree, I wanted to start out with kind of the cloud vertical, obviously you had a
+strong showing here in Q4 with the cloud titans, you're guiding to another strong quarter. In Q1,
+we've seen other companies on the enterprise side, specifically Cisco and NetApp, started to
+see a little slowdown in the enterprise side. So, one, what's your view on the strength and the
+visibility and continued strength in cloud this year and could you offer any sort of visibility what
+you're seeing on the enterprise side as well? Thanks.
+A - Jayshree Ullal `
+Thank you, Brent. Well, I'm no macro economy expert, so I'll leave that to the pundits. But in our
+micro cloud world at Arista, we continue to see strength in the marketplace. Cloud titans had a
+strong quarter in Q4 and we expect to see that in Q1 and beyond as well.
+I'm especially encouraged by the rapid shift we're witnessing of enterprise workloads to private,
+public, or hybrid cloud. So, I think the cloud economy trend is pretty inevitable to me and I see
+that in two forms. I see that as hybrid cloud implementations in the enterprise, and obviously
+public cloud implementations where Arista provides product today to our cloud titans. All four
+verticals did well, but clearly the cloud titans did better, but I would say the other three were
+strong and grew well, too.
+Q - `Brent Bracelin, Pacific Crest Securities `
+Thank you.
+A - Jayshree Ullal `
+Thank you, Brent.
+Operator
+Your next question comes from the line of Stanley Kovler with Citi. Please go ahead. Your line is
+open.
+Q - `Stan Kovler, Citigroup Global Markets, Inc. (Broker) `
+Thanks very much. I just wanted to ask specifically about Microsoft if it managed to hit 10% of
+revenue for 2015. And if so, if the math was right, it was down a few million in line with the
+guidance you gave heading into the year, flat to down at Microsoft. What's the outlook specificallyfrom Microsoft for 2016? Should we expect it to be 10% or more of your revenue into 2016?
+Thank you.
+A - Jayshree Ullal `
+Thank you, Stan. So if – just – first, a little quick review on history. Microsoft has always been our
+top customer with greater than 10% concentration. I believe in 2013, it was in the 20%s, and in
+2014, it went down to the teens, and in 2015, we're now 12%. So, as a percentage of total
+revenue, it's steadily going down. As actual numbers, it continues to be important and it's actually
+steadily going flat to up.
+Q - `Stan Kovler, Citigroup Global Markets, Inc. (Broker) `
+Okay.
+A - Jayshree Ullal `
+And we fully expect 2016 to be an important spend year for Microsoft. I think it will continue to
+trend down in percentage, but remain relevant in actual revenue contribution.
+Operator
+Your next question comes from the line of `Mark Moskowitz, Barclays Capital, Inc. with Barclays. Please go ahead. Your
+line is open.
+Q - `Mark Moskowitz, Barclays Capital, Inc. `
+Yes. Thank you, and good afternoon. Just wanting to get a sense here if you could talk a little
+more about the cloud penetrations with respect to the cloud titans in terms of not only the cloud
+providers, but also those who're doing their own private or hybrid cloud on their own, if you could
+talk about how the penetration runway looks there? And then bigger picture, your numbers
+obviously speak for themselves in terms of the strengths you're seeing, but investors are going
+to start thinking about what's next. And so how should investors start thinking about Arista in
+terms of moving into routing over the next few years and what that revenue contribution could
+look like over time? Thank you.
+A - Jayshree Ullal `
+Yeah. Now – so, thank you – I think, Mark, the way to think of this is our cloud penetration has still
+just begun. We may not be in the first innings, but we're definitely still only in the second innings
+or third innings, there is plenty here. Right? Everybody's infrastructure is just starting to build out.
+Most of them started in the last couple of years. So plenty of room for growth. At the same time,
+there is plenty of room for all of these cloud titans to experiment. We worked with Facebook and
+Wedge and OCP designs.
+We worked with Microsoft's OpenSwitch architecture. We have worked in the past with other
+cloud titans who actually develop switches even before Arista was founded. So we believe these
+can mutually co-exist and the TAM is so large that you're always going to have a permutation and
+combination of Leafs and Spines. Arista's increasing focus will be to work more and more closely
+in building the world-class universal Spine and sometimes we may work with Arista Leafs and
+other times we may work with other Leafs in the network. So we believe our penetration still has
+a lot of room for growth and we can co-exist very much with internal development.In terms of what's next for us, I think it's most important to know our primary market is the data
+center, is the cloud. This is a tremendously large TAM as you know that I think the total available
+market in 2015 is still in the $8 billion range and here we are reporting $837 million, so lots of
+headroom there. Don't want anyone to forget it.
+And as for routing, routing is not new to us. We've been doing Layer 3 routing for some time and
+we fully expect to build our BGP scale, our Internet table routes and continue to penetrate – and
+we see – we are very hopeful that the – how do I say this, the old core routing will become the
+new Spine. And more of these functions will be naturally features on our Spine and I think that's a
+tremendous opportunity for service providers to consolidate their CapEx and for Arista to provide
+more OpEx savings as well.
+Operator
+Your next question comes from the line of Steve Milunovich with UBS. Please go ahead. Your line
+is open.
+Q - `Steven M. Milunovich, UBS Securities LLC `
+Thank you. Do you have any comment on the case with Cisco and specifically since the ITC
+Judge's initial determination came out just a few weeks ago, if the tone of conversation with your
+clients has changed at all, are they at all more cautious?
+A - Jayshree Ullal `
+I'll take a bit of it and then I'd love to have our expert and GC, Marc Taxay, my good friend,
+comment more. First off all, Arista is always happy to address specifics in the courtroom not in
+sensational blog rooms. But, having said that, our primary focus, as you rightly point out, Steve,
+has been our customers and their support to us has been unwavering. Our goal has been to offer
+them appropriate design workarounds with non-intrusive upgrades and they are very comfortable
+with our plans and they're very supportive of what we're doing, and how we're working with
+them. Marc, do you want to add some more?
+A - Marc Taxay `
+Sure, Jayshree. So just to briefly update everyone on the status of the investigation, as you've
+pointed out – starting with a 944 investigation, the Administrative Law Judge did issue an initial
+determination in that case on February 2. As a reminder, that case originally had six patents in it,
+one was dropped, so there were five remaining. Of the five remaining patents, three of them the
+Judge found that we infringed. In two, he found that we did not.
+It's important to note that of the three patents that were in question, they actually relate to only
+two features. The first addresses the manner in which our agents communicate state to SysDB
+and the second relates to our implementation of Private VLANs. We've said this before, and we'll
+repeat it here, Cisco has not asserted and the Judge didn't find in this case that EOS contains any
+Cisco code.
+It's also important to note that PVLANs is a common feature that's offered by nearly all network
+switch vendors today. Going forward, we're seeking Commission review of the infringement
+findings in the initial determination. The ITC will consider our arguments as well as Cisco's and
+issue its final determination on June 2.
+If the ITC finds the violation and issues remedial orders that then goes to the U.S. Tradereview period. That period will end on August 2. We're going to continue to make our case to the
+ITC of course and, as a mitigation strategy, we're also going to be in the process of developing
+technical workarounds for these patents, as Jayshree mentioned.
+We're very confident in those workarounds. And if the ITC does issue an exclusion order as part
+of this process, we'll seek to obtain Customs approval that the workarounds are outside the
+scope of the orders in order for us to continue the uninterrupted importation of products. This will
+be a time critical exercise needing strong execution.
+Of course, Arista will respect the final determination of the ITC. If the final determination is
+adverse, we'll work in good faith to implement the workarounds so that, to the best of our
+knowledge, all products supplied to customers will be non-infringing.
+Now, with respect to the 945 investigation, that's still under review by the ALJ. The Administrative
+Law Judge will issue her initial determination on April 26. That decision will then be subject to
+review by the Commission and we expect for them to issue a final determination in any remedial
+orders for that case on August 26 that then goes to the Presidential review for the 945 and it
+would end on October 26.
+A - Jayshree Ullal `
+Thank you, Marc. I feel like I have a Ph.D. in ITC.
+Operator
+Your next question comes from the line of `Alex Henderson, Needham & Co. LLC with Needham. Please go ahead. Your
+line is open.
+A - Jayshree Ullal `
+Alex?
+Operator
+`Alex Henderson, Needham & Co. LLC, please go ahead. Your line is open. Your next question comes from the line of
+Jess Lubert with Wells Fargo Securities. Please go ahead. Your line is open.
+Q - `Jess I. Lubert, Wells Fargo Securities LLC `
+Hi, guys. Thanks for taking my question and congrats on another nice quarter here. I wanted to
+squeeze two in, maybe just, first, you can comment on where you are in the development of the
+workarounds and your confidence in your ability to get those built and approved by the end of
+Q2?
+And then for Ita, I was hoping to touch upon margins as expenses came in quite a bit lower than
+we expected; and you're guiding operating margins to higher levels than we've seen you guide
+for the last several quarters, even though there hasn't really been a change to the gross margin
+forecast. So I was just hoping to understand, if you feel like 26% or better is likely to be a
+sustainable operating margin level going forward, if you think you can make all the needed
+investments to support your growth at those levels or if we should expect operating margins to
+dip as we look out towards Q2 and the second half of 2016? Thanks.
+A - Ita M. Brennan `Yeah. I mean I think if you look at the approximately 26% operating margin guidance, it's pretty
+consistent with last quarter as well. Right? And I think the way to think about that is, as we ramp
+spending and make the investments that we needed to make, we're doing everything that we
+need to do from an investment perspective, but revenues are growing at a pretty fair clip. Right?
+And we're being very judicious in how we spend money and sometimes the revenue is going to
+grow faster, right, and that will result in some upside to that.
+I think our guidance takes a view of here is the possible things that we need to go do in the
+quarter and that's kind of reflected in that 26%. I think in terms of a long-term model, we've
+talked about maybe a 25% operating margin being a reasonable way to think about and that
+gives us scope to grow sales and marketing expense as a percentage of revenue a little bit and
+maintain our investments in R&D. Right? So I think that's how to think about it. I don't know that the
+26% is anything new necessarily and probably long-term it's like a 25% operating margins model.
+A - Jayshree Ullal `
+Thanks, Jess. No, I think we have been planning and working on what-if scenarios and cases, while
+we don't believe we infringed these patents, you always have to plan and we have been planning
+over the last year, our engineers have been hard at work. So we feel very comfortable that in the
+case of 944 that majority of the workarounds will be available and are being worked around right
+now and will be available in Q2. Marc, do you want to add anything more to that?
+A - Marc Taxay `
+Yeah, I think that's right. I mean our team has been hard at work, we're continuing to evaluate
+everything, of course, and we're in the process of issuing out a new – releasing out a new version
+of the software which will come out in Q2.
+Operator
+Your next question comes from the line of `Ryan Hutchinson, Guggenheim Securities LLC with Guggenheim. Please go ahead.
+Your line is open.
+Q - `Ryan Hutchinson, Guggenheim Securities LLC `
+Great. So two quick questions here just to round out that conversation on the legal, Ita, did you
+factor any – did you change the methodology as it relates to guidance to factor any sort of
+disruption as it relates to legal. So that's more of a clarification. And then the question really is on
+another one of your top cloud titan customers, Facebook, they've been pretty vocal about their
+intentions to build out EU2 with a 100% powered by Open Compute. What role, if any, will Arista
+play? And more broadly, how does the relationship potentially change over the course of time?
+Thanks.
+A - Ita M. Brennan `
+I'll take the first part of that question, the guidance for Q1 is business as normal, right, with
+support of our customers and not really assuming any disruption from a legal perspective, that's
+correct, that's exactly right.
+A - Jayshree Ullal `
+And your second question on Facebook, as, Ryan, we have said a number of times, we fully
+expect our cloud titans to also do engineering. It's not the sole responsibility of Arista. But in
+many cases, this is co-development, and in many cases it's complementary. So, I do thinkFacebook will use a lot of their capabilities. But it's core versus context. It's clearly core to Arista
+and we provide a lot of capability and then we work closely with Facebook's application to give
+them the right control. So, I'm very comfortable that there is room and opportunity for both.
+Operator
+Your next question comes from the line of `Sanjiv Wadhwani, Stifel, Nicolaus & Co., Inc. from Stifel. Please go ahead. Your line
+is open.
+Q - `Sanjiv Wadhwani, Stifel, Nicolaus & Co., Inc. `
+Thanks. I'm going to try to sneak in two. The first question, Jayshree, on Tomahawk-enabled
+switches. Just curious to see, if those are ramping in line or better or maybe even worse than
+expectations? And then, the second question is really on the legal side. Any update on the
+antitrust claim that you filed against Cisco and do you see that impacting the ITC or the District
+Court lawsuits in any shape or form? Thanks.
+A - Jayshree Ullal `
+Okay. So, I'm looking at the Tomahawk data. Good acceptance of the products in general,
+especially the cloud titans tend to be earliest adopters of this type of technology. I would say this
+is a key year for Tomahawk, meaning good acceptance of 10-gig, 40-gig, and 100-gig. We still
+haven't seen 25-gig and 50-gig really takeoff the way we'd want to. So, lots been written about it
+last year. But I think the year of 25-gig and 50-gig will really be this year. And so, that's critical.
+Regarding the lawsuit, once again I'm going to let Marc talk about this. The only comment I want
+to make is, we are – when a monopolist asserts ownership of open-standards, I believe it not only
+harms Arista, but it harms an entire ecosystem and brings innovation to a standstill. So, we really
+want to innovate. We don't want to litigate and we thought long and hard about this. And, Marc,
+maybe you want to comment...
+A - Marc Taxay `
+Sure.
+A - Jayshree Ullal `
+...on why we did it.
+A - Marc Taxay `
+Sure. Now, I think that's right. And I think we evaluated the situation and we felt that based upon
+what we had seen that Cisco was engaging in a series of anti-competitive behaviors. And we'd
+initiated the action really to level the playing field, so we can win in the marketplace based on the
+merits of our products. So, we did initiate this filing. We filed in the copyright case in the District
+Court, a motion for leave to amend our answer to the complaint that was originally filed to
+include the two counterclaims. The first claim alleges that Cisco is engaged in a legal bait-and-
+switch with the industry and its customers protect its monopoly position in switching and routing.
+We asserted in that that Cisco has aggressively promoted its CLI as the industry standard to
+encourage customers to adopt and heavily invest in the CLI without having to worry about vendor
+lock-in or having to invest in training and scripting for alternative CLI commands. Our claims allege
+that when Arista achieved success in the marketplace that threatened Cisco's position, Cisco
+reversed course and now essentially is using those customers' investments against them toachieve vendor lock-in and protect its dominant market share by seeking to preclude competitors
+from using its industry-standard CLI commands contrary to its past representations.
+The second claim alleges that Cisco uses its market position in switching to punish its customers
+for buying competing products by prohibitively increasing the prices it charges for servicing Cisco
+switches where the customers indicated they plan to buy switches from Cisco's competitors. So
+what we've done is as we filed the amended complaint that's being evaluated by the court now.
+The court will make a decision as to whether or not we can include this as part of the existing
+action or whether or not we should be filing a separate action. We'll find out on that shortly.
+A - Jayshree Ullal `
+Thank you, Marc.
+Operator
+Your next question comes from the line of `Alex Kurtz, Sterne Agee CRT with Sterne CRT. Please go ahead. Your line
+is open.
+Q - `Alex Kurtz, Sterne Agee CRT `
+Yeah. Thanks, everyone. And, Marc, we're going to keep going at this. In your prepared remarks,
+there were a couple of really important sentences that I heard about, the timing of the
+workaround, and it sounded like there were some requests for an exclusion of the workarounds
+as far as how the products could be continued to be delivered to customers until the
+workarounds were assessed by the court, something that along those lines. Can you clarify that
+and maybe go through that again, and what that means for revenue as we go through Q2, Q3,
+and Q4?
+A - Jayshree Ullal `
+I don't think we mentioned anything on our prepared remarks. Can you clarify what you're asking,
+Alex?
+Q - `Alex Kurtz, Sterne Agee CRT `
+Yeah. Marc went into some detail in his prepared remarks, Jayshree, about the process of the
+workarounds as they go through the court. And, I just want him to expand on that a little bit as far
+as the timing, and what the...
+A - Jayshree Ullal `
+Sure.
+Q - `Alex Kurtz, Sterne Agee CRT `
+...gates you had to go through to get that approved?
+A - Jayshree Ullal `
+Sure.
+A - Marc Taxay `Sure. So, as we said, we have been developing design-arounds, and we're in the process of
+releasing a new version of EOS that will include that. The process for us would include seeking
+approval from Customs, in order for Customs to ensure that we can import those products into
+the U.S., a non-infringing version of those products into the U.S.
+And so, we'll initiate that process once the final determination from the ITC comes in. It's our
+view, of course, now we're still fighting this case, we're going to continue to fight it and we've
+submitted our briefs over to the full Commission. And then, once the Commission – if the
+Commission issues an adverse ruling at that stage, we'll work with Customs to try to go through
+the process as quickly as possible.
+A - Jayshree Ullal `
+So, just to be clear, we won't know anything about this till June 2, as Marc said. Right?
+Q - `Alex Kurtz, Sterne Agee CRT `
+Okay. Thank you.
+Operator
+Your next question comes from the line of `Rajesh Ghai, Macquarie Capital (USA), Inc. with Macquarie. Please go ahead. Your line
+is open.
+Q - `Rajesh Ghai, Macquarie Capital (USA), Inc. `
+Yes. Thanks. I had a question for Ita and one for Jayshree. Ita, can you talk about the deferred
+revenue, the number did not go up as fast this quarter? And a question for Jayshree is that
+software-only SKU has been out for some time now. Can you talk about what you're seeing in
+terms of demand for that software-only SKU, are you seeing any increase in interest from the
+cloud titans or the Web 2.0 customers?
+A - Ita M. Brennan `
+Yeah. So, just to take the deferred revenue question, I mean, the deferred revenue balance is
+going to move around quarter-over-quarter. Right? Our service renewals are for different time
+periods, large customers, smaller customers, and so on. And then even on the product side, it's
+all about the timing of shipment. Right? So if we're shipping stuff at the end of a quarter to certain
+customers and it's going to be higher, if we ship at the first day of a following quarter, it will be
+lower. So it's not a metric that you're going to see follows a traditional – what you typically see as
+a very predictable cycle through the year (34:34).
+A - Jayshree Ullal `
+I think it's also fair to say, it could stay flat, it can down...
+A - Ita M. Brennan `
+Yeah.
+A - Jayshree Ullal `
+...it can go up. I wouldn't read too much into that metric.
+A - Ita M. Brennan `Right. So it's not...
+Q - `Rajesh Ghai, Macquarie Capital (USA), Inc. `
+Okay.
+A - Ita M. Brennan `
+(34:41) customer.
+A - Jayshree Ullal `
+And, Rajesh, regarding your question on software SKUs, we've offered that a lot and talked about
+it a lot. But at the end of day, we've seen that more of our customers want to know we have it,
+but preferred to use our hardware and software together. So the actual success and
+implementation and deployment of this has been small, the discussion of it has been large. And I
+think that's a disproportionate difference between implementation and discussion.
+Q - `Rajesh Ghai, Macquarie Capital (USA), Inc. `
+Okay. Thank you.
+A - Jayshree Ullal `
+Thank you.
+Operator
+Your next question comes from the line of James Faucette with Morgan Stanley. Please go ahead.
+Your line is open.
+Q - `James E. Faucette, Morgan Stanley & Co. LLC `
+Thank you very much. Just a question talking about geographies, et cetera. You mentioned that
+Asia saw some lumpiness. And I'm just wondering if you could talk about how we should expect
+that in those other international geographies to develop? And, I guess, I'm looking at it in the
+context of the feedback that we've received from a lot of channel in international is that it seems
+like Arista is having a hard time to completely satisfying the demand in some of those newer
+geographies. So, can you just talk about how we should expect these international geographies
+to develop? And, what your sense is as to underlying demand trends, et cetera? Thank you.
+A - Jayshree Ullal `
+So, first of all – hi, James – I think we're doing very well internationally, but it's hidden by the fact
+that we're doing very well in the United States. So, I want to make that point. I'm especially
+encouraged by our success in Europe. We just brought in a very strong leader with 25 years, 30
+years experience in networking. And we're doing very strong in the, especially developed
+countries, Nordics, Netherlands, Germany, and U.K.
+In Asia, what happens is – Asia is not one country, it's really Australia, Korea, Japan, and Southeast
+Asia, including India, where our greatest focus is. So, first of all, we don't – we are reasonably low
+in China. And so, our numbers kind of tend to jump around quarter-by-quarter depending on the
+deal size and what we win. So, we had some fairly large customer wins in Q2 and Q3 than we did
+in Q4.In terms of the difficulty we're having, I think we're still in the very early stages. I don't see
+difficulty, I just see we started later. So, our real first year of international focus, I would (37:00)
+2015. And I'm fully expecting to see more – and one of the great statistics for me of success in
+end market is new customers. We are seeing more new customer acceptance in international
+than we even are in the United States, which to me suggests that the next two years will be very
+promising internationally.
+Operator
+Your next question comes from the line of Kulbinder Garcha with Credit Suisse. Please go ahead.
+Your line is open.
+Q - `Kulbinder S. Garcha, Credit Suisse Securities (USA) LLC (Broker) `
+Thank you. Jayshree, can you just clarify the comments you've made around the Tomahawk linked
+products. How are you expecting them to ramp the success so far, at least on my side, when you
+responding. That's my first clarification.
+The second one was just in terms of verticals, if I think about financials, big seven cloud – big
+cloud titans, other service providers, media, I don't know how you want to split up the verticals
+now versus previous – how you previously talked about it, but is it still quite balanced when you
+look at the 2015 numbers for revenues. Thanks.
+A - Jayshree Ullal `
+Yeah. I think I understood your Tomahawk question, but I'll try again. And, Kulbinder, hopefully if I
+don't answer it, we'll chat more on the callback. But, we are pleased with the transition on
+Tomahawk. We have not seen it become mainstream yet. Trident is still the main technology,
+Trident I, Trident II, et cetera. And you have to understand, we've really only had one quarter of
+Tomahawk.
+We introduced the products, but actual qualification, and production, and installation has been
+one quarter. So, I see this year as the real indicator. And, the other reason I think we haven't seen
+an immediate pickup is customers are happy with our 10-gig, 40-gig, 100-gig current offerings.
+They're meeting their features and meeting their price points. So, the reason to switch to
+Tomahawk would be specifically more need for 25-gig and 50-gig, which requires more of an
+ecosystem, you need the host adapters, you need the NICs, you need the compute, you need
+the storage, you need everyone to come together. So, I think this will be a more crucial year for
+Tomahawk than last year was.
+And, your second question was on, I mean...
+Q - `Kulbinder S. Garcha, Credit Suisse Securities (USA) LLC (Broker) `
+Revenue breakdown vertical for 2016.
+A - Jayshree Ullal `
+Yes. So, verticals haven't changed. We continue to enforce our top four verticals. What I can tell
+you looking at our 2015 order or priority or success of the verticals, if you will, is number one was
+clearly cloud titans. We – number two was service providers and Tier 2 cloud providers. And
+financial services and hi-tech enterprise were tied for third place.Q - `Kulbinder S. Garcha, Credit Suisse Securities (USA) LLC (Broker) `
+Okay. Great. Thank you.
+Operator
+Your next question comes from the line of Erik Suppiger with JMP. Please go ahead. Your line is
+open.
+Q - `Erik L. Suppiger, JMP Securities LLC `
+Yeah. I want to just get a sense for your plans on growing sales organization. Where are you in
+terms of sales force expansion at this point?
+A - Jayshree Ullal `
+We're doing well. We could always be doing better. I think one of our sales models if you look at
+it, which is different from others, is Mark Smith and Anshul and Mark Foss, they're not focused on
+coverage, they're focused on our four verticals and what we call the Arista 100. We're looking to
+make an engagement that's both long-term and impact for – and strategic where they really want
+to transform the data center.
+So, for the regular enterprise IT customer, they're probably less interested in Arista, because
+they'll just keep buying what they are, and it will be hard to change old habit.
+And so, our sales model is very much targeted on go deep rather than go wide and really
+focused in a few good geographies, and obviously the top four verticals than everywhere. We're
+doing very well there. We've hired well, both in sales and technical SEs.
+Q - `Erik L. Suppiger, JMP Securities LLC `
+Can you give us a breakout on your size of the sales organization?
+A - Jayshree Ullal `
+I don't think we've done that historically, but if I look from year-over-year, we had definitely
+increased by double-digit percentages.
+Q - `Erik L. Suppiger, JMP Securities LLC `
+Very good. Thank you.
+A - Jayshree Ullal `
+Thank you.
+Operator
+Your next question comes from the line of Jeff Kvaal with Nomura. Please go ahead. Your line is
+open.
+Q - `Jeffrey Kvaal, Nomura Securities International, Inc. `
+Thank you very much. I have a question on return to a theme that you just hit upon, Jayshree,
+which is new customers. Can you help us maybe think through how much of your business eachquarter or each year is driven by repeat orders and how much by new customers? And then the
+second part of that is, are there particular new customers or suites of larger new customers that
+you are excited about for 2016? Thanks.
+A - Jayshree Ullal `
+Yeah. No, those are both very good questions, Jeff. I – new customers is something I personally
+measure a lot, not because they're the biggest contributor to quarterly revenue, but it's basically
+a definition of seeds you sow for the future. Right?
+In terms of actual contribution of revenue, they tend to be, I don't know, single-digit/double-digit
+percentages. They're not big. And the reason I say that is, because the new customer orders
+aren't big. You have to understand that if you look at a typical Arista sales cycle, our first order is
+SDN Starter Kit or a particular project that could be $50,000 or $100,000. So, even if we have
+lots of new customers that doesn't add up to a lot of millions of revenue.
+But what you have to look at is not what the first customer is, but what happens six months to 12
+months, and 18 months later. That's when we really get them to be – and this is addressing your
+second question – you get them to be a relevant, big, $1 million or a multi-million dollar customer.
+So, that's the pattern we see, we see a new logo in a small project, if you will, and then within 12
+months to 18 months a more substantial win.
+Operator
+Your next question comes from the line of `Alex Henderson, Needham & Co. LLC with Needham. Please go ahead. Your
+line is open.
+Q - `Alex Henderson, Needham & Co. LLC `
+Thanks. So I've got two questions and both kind of on the chip side of things. First off, there have
+been some delay in the timing of getting the Broadwell chip out from Intel and has that slipped
+your timeline for the full architecture of 25-gig stack rolling out a little bit in terms of timing into
+the back half. And then the second one, along the same lines, can you give us an update on what
+you're thinking on the Jericho product coming out and when that might impact the router market,
+I mean, that's an $8.6 billion TAM that will roll into the switch market at some point when that gets
+going, can you just give us an update on those two?
+A - Jayshree Ullal `
+Yeah. No, thanks, Alex, they're both good questions. I think you're absolutely right to point out
+that the 25-gig and 50-gig NIC and it's not just Intel, it's Intel, Broadcom, I think Mellanox plays in
+that, and there is a lot of onboard NAND-on-motherboard type activities, all of that has not
+happened in 2015. And we fully expect them to happen in 2016. And I think one of the biggest
+drivers will actually be storage. As you move to more scale-out Flash-based storage, it will be
+less-and-less Fibre Channel SANs and more-and-more Tier 2 IP storage SAN, so. And we think 25-
+gig and 50-gig is a pivotal performance to hit while 1-gig and 10-gig maybe more for compute. So
+you're right to point out that that hasn't happened as fully and well, and will in 2016.
+In terms of Jericho, the one thing I'll just say in general about the silicon industry, since I came
+from this industry 30 years ago, is we always tend to over-estimate the availability of a chip as
+opposed to the availability of a system. I think Jericho was announced by Broadcom a year ago.
+And, we are very impressed with the table sizes, and capacity, and buffering, and capabilities. But
+announcing a chip is very different than vendors announcing systems.I fully expect that systems will come into play in the summer of 2016, and the qualification of
+those systems because it's routing and Spine, can take longer. So, I think 2016 will be a year of
+trials for Jericho, and core routing. And then, the multi-billion dollar market you talk about will
+really be a multi-year execution.
+Operator
+Your next question comes from the line of `Hendi Susanto, Gabelli & Company with Gabelli & Company. Please go
+ahead. Your line is open.
+Q - `Hendi Susanto, Gabelli & Company `
+Good evening. First for Jayshree, what is your grand vision on Arista products and solution in the
+security space after the new release of the CloudVision?
+And, second question will be for Ita, how much CapEx should we expect in 2016?
+A - Jayshree Ullal `
+I'll take the first question, Ita, and then – so, security is definitely a top-of- mind initiative for a lot
+of our customers, both in the cloud and in the standard enterprise networks. Arista does not
+fancy ourselves as the security expert. We think that's a market in itself and it just changes every
+time there is a new threat vector.
+And so, what we want to do is work with the industry-leading pioneers and visionaries there. One
+of our closest partners is Palo Alto Networks. We're also working with Check Point and F5,
+Fortinet, VMware. And, what we see is, it's one thing to actually say I detect a threat, which our
+security partners do. It's another thing to say I avoid permeating a threat and this is really where
+Arista comes in. With CloudVision, what we're doing is truly establishing that how you can
+maintain firewalls, and rules and policies with our security partners, but really map this from
+physical to virtual to advanced telemetry, and orchestrate through the entire way, so that you're
+not just catching one silo threat, but making sure you can mitigate this across an entire network.
+So, if you will, somebody catches the disease and we make sure it doesn't spread.
+A - Ita M. Brennan `
+And then just on the CapEx, I mean, we've been averaging about $5 million a quarter. Could you
+see that spike a little bit, a couple of million here and there, if we add some capacity and stuff
+maybe, but it should stay roughly in that range. Right?
+Operator
+Your next question comes from the line of `Tal Liani, Bank of America with Bank of America. Please go ahead. Your
+line is open.
+Q - `Tal Liani, Bank of America `
+Hello. I have a question on the 100-gig market. Is there any delay to the deployment of 100-gig
+because of the 25-gig, 50-gig issues you discussed here? I understand that the technology also
+reduces the price for 100-gig. And the question is, if we should model slower ramp for 100G as a
+result of what you're discussing? Thanks.
+A - Jayshree Ullal `Thanks, Tal. No, I don't think so. I think the fueling of 100-gig especially in the Spine is driven by
+aggregate of 10-gig, 40-gig today, and will only get more as 25-gig and 50-gig. So, what we see
+in our customer base is everybody is preparing for 100-gig Spines independent of whether
+they're Leafs of 40-gig or 50-gig or 25-gig or 10-gig.
+And the real – obviously 100-gig in ports is much smaller than 40-gig or 10-gig or 1-gig right now,
+but the real issue for 100-gig for us to solve, and the industry to solve is making sure we can
+deliver incredible scale, capacity, density, but also at the right price points, particularly on the optic
+side. So I think the embedded optics and the cost of that is a bigger issue than the 25-gig and
+50-gig.
+Q - `Tal Liani, Bank of America `
+Is your comment on margins – if I rewind back a few quarters ago, you guided that gross margin
+will decline almost every quarter. I think, you even said, 100 basis points every quarter for four
+quarters or something. And now, we're seeing better margins. So is your comment on margins
+related to the delay or to the slow ramp of 25G and 50G?
+A - Jayshree Ullal `
+No, not at all. I would say, Tal, our margins – we did drop to 64% in Q4, and is much more tied to
+mix, customer mix and product mix. But we feel pretty good about the acceptance of both 40-
+gig and 100-gig last year, and we feel quite optimistic on the additional acceptance of all this, this
+year.
+Operator
+Your next question comes from the line of `Rohit Chopra, The Buckingham Research Group, Inc. with Buckingham Research. Please go
+ahead. Your line is open.
+Q - `Rohit Chopra, The Buckingham Research Group, Inc. `
+Thanks very much. Just a couple quick questions. Just, Jayshree, on the competitive front, have
+there been any changes in the posture of incumbents as they continue to experience share
+losses? And then, secondarily, have buyers changed any of their buying patterns? Are there
+larger or smaller deals as we sort of close the quarter? Are sales cycles any longer? Have you
+seen any changes on the buyer front?
+A - Jayshree Ullal `
+That's a good question. Have there been any aggressive competitive changes? I think it's the
+same as it always. When it comes to Arista, we do see that we receive our lion's share or fair
+share of aggressive competition. And so, it continues to be heightened. But I wouldn't say there's
+any change, I would say it's always been heightened and it continues to be so. Have you seen any
+shift in buyer – behavior? Not yet, no. We are seeing strength in the cloud. We're not the expert
+on enterprise. But the enterprises we serve tend to be extremely knowledgeable and capable
+and maybe, therefore, are a smaller percentage of the broad enterprise market. But in our
+narrow world, in our micro Arista world, we haven't seen any dramatic changes.
+Q - `Rohit Chopra, The Buckingham Research Group, Inc. `
+Thanks, Jayshree.
+OperatorYour next question comes from the line of Vijay Bhagavath with Deutsche Bank. Please go ahead.
+Your line is open.
+Q - `Vijay K. Bhagavath, Deutsche Bank Securities, Inc. `
+Yeah. Thanks. Yeah. Hi, Jayshree, Ita. My question is around the weakness we and others noting in
+enterprise IT spending in particular. So this is a bigger picture question, which is, would you
+anticipate the big banks, the high-tech customers you sell into, asking for hyperscale price points
+that currently a Google or an Amazon would demand from their vendors? And if so, how would
+you manage margins in this more compressed ASP scenario where enterprises are asking for
+hyperscale price points? Thanks.
+A - Jayshree Ullal `
+Hi, Vijay. Yeah, that's a great question. And my answer to pricing is always the same, whether it's
+a customer or you, which is, if you show me the volume, I'll show you the pricing. So if we have
+large enterprise customers who can drive hyperscale volume, we'd love to achieve those price
+points, because it gives us a chance to drive cost reductions and, therefore, price reductions. And
+so, there are some enterprises who can do that and there are many who can't. So I think it
+depends on the sector.
+Ita, you want to add anything more to that?
+A - Ita M. Brennan `
+I think that's exactly it, right. I mean it's very much of volume-based pricing model for us, right. So,
+yeah, if there's volume there, we can drive the pricing and the cost.
+Q - `Vijay K. Bhagavath, Deutsche Bank Securities, Inc. `
+Excellent. And then a quick follow-up, if I may, which is don't want to beat down on the Tomahawk
+thread here, but my question is really around, should we view 100-gig Tomahawk switching as
+really as second half weighted opportunity? Because some of the checks we've been getting is
+mostly early volumes, small volume, top-of-rack upgrades going all at some webscale data
+centers. The Spine 100-gig refresh is really back half. How should we think about a second half
+weighted versus kind of an equal weight of 100-gig Tomahawk refresh? Thanks.
+A - Jayshree Ullal `
+I think your thought process on this is very good, Vijay. I think the only thing I'd add to what you
+just said and I agree with it, is I think the first half will be heavily weighted to planning 100-gig
+Spines and also deploying as many Leafs, whether they're 10-gig, 40-gig, 25-gig, 50-gig. People
+don't think as hard about their deployment of Leafs because they view them as disposable items.
+They have shorter depreciation cycles.
+And so, I see that the 100-gig Spine is definitely started already and will continue to increase in
+the summer and second half. But I don't necessarily see that as Tomahawk, I also see that as
+Spines based on our Arad technology leading to Jericho in the future.
+Operator
+Your next question comes from the line of Simon Leopold with Raymond James. Please go
+ahead. Your line is open.Q - `Simon M. Leopold, Raymond James & Associates, Inc. `
+Great. Thank you. First, a quick clarification, if I might, the R&D – pro forma R&D in December was
+a little bit lower than what we were modeling in the prior quarter. Just want to find out if there
+was anything kind of one-time or timing nature that maybe showing up in the March quarter? How
+to think about R&D?
+And then the question I wanted to get an update on is, any kind of quantification we would get to
+help assess progress on your partnerships. You talked today reminding us on the converged
+partnership with HP, and in the past you've talked about VMware. I'd like to try to get some way
+we can assess progress or maybe outlook on partnerships. Thanks.
+A - Ita M. Brennan `
+Just to take the R&D question, I mean that does move around a little bit just based on variable
+spending, prototypes, NRE, that type of stuff, right. So there's nothing unusual happening there,
+it's just really timing of those two activities.
+A - Jayshree Ullal `
+And, Simon, this is a question I'd like to answer better in forthcoming quarters. I believe, HP,
+VMware, and Palo Alto Networks and also Docker Container partnership we announced are all
+examples today of really technology marketing and how we work to sell together, and if you will,
+move from old school networking to new, converged or cloud networking.
+We haven't done a good job, and I think we owe that to you all on successes and metrics we've
+had there, because I think we've been more in the business development and marketing phase.
+We've won customers together clearly, we've – I'm particularly pleased with the successful
+combination we're seeing of NSX and Arista. We're seeing more of that now than we did, say, a
+year ago. But, let's say, let's take a rain check on that question when I can give you more concrete
+answer.
+Q - `Simon M. Leopold, Raymond James & Associates, Inc. `
+Okay. You know, I'll hold you to it, too. Thank you.
+A - Jayshree Ullal `
+No, I'm afraid of that. I owe you.
+Operator
+Your next question comes from the line of `Paul Silverstein, Cowen & Co. LLC with Cowen & Co. Please go ahead.
+Your line is open.
+Q - `Paul Silverstein, Cowen & Co. LLC `
+Thanks. Jayshree, I have two or three related question that are truly related. First off, I know you
+are reluctant to give, which is to say you're not giving a more precise breakout in terms of the
+cloud titans versus the other verticals, but given your business model and how important the
+issue is from all perspectives, I'm hoping that you will give more granularity rather than they're
+your largest, which is to say, can you at least let us – if you're not willing to give us the exact
+number, can you at least tell us, are they closer to 50% of revenue than one-third of revenue?A - Jayshree Ullal `
+None of our four verticals, Paul, are anywhere close to 50% of our revenue. They average in the
+teens to the 25%. That's the averages.
+Q - `Paul Silverstein, Cowen & Co. LLC `
+So, you're – well, all right...
+A - Jayshree Ullal `
+I answered your question...
+Q - `Paul Silverstein, Cowen & Co. LLC `
+You can't – you obviously have to have a vertical that's greater than 25%, right, unless they're all
+25%?
+A - Jayshree Ullal `
+No, you can – that's not always true. You can have one of them peak over 25% in a given quarter,
+but over a year – and I want to be clear, when I say that, just because we have four verticals, it
+doesn't mean we don't have anything beyond the four verticals either, right, so.
+Q - `Paul Silverstein, Cowen & Co. LLC `
+Well, I'm clearly talking in the context of the way you guys breakout revenue when you talked
+about four verticals in that context?
+A - Jayshree Ullal `
+Yeah. But I think I have done my best to – I think I have done my best to help you out by saying,
+while we do not want to get in the practice of breaking the verticals out, none of them or any of
+them on any – anywhere close to approaching 50%, right.
+Q - `Paul Silverstein, Cowen & Co. LLC `
+All right. So I appreciate that. You're telling us cloud at most is 25% or thereabouts. All right. Let
+me move on. I'm not sure if you've done it recently, but you used to tell us your 10 largest
+customers on an annual basis back in 2013, if I have the numbers correct, it was 43%. Can you
+give us an update on that? And then I've got a pricing question.
+A - Jayshree Ullal `
+No, I think the only 10% concentration customer we reported in 2014 and...
+Q - `Paul Silverstein, Cowen & Co. LLC `
+I'm not asking 10% customers – I'm not asking 10% customers, I'm asking what are your 10 largest
+customers as a percentage of total revenue?
+A - Jayshree Ullal `
+Oh, I see. Ita, do you want to take that one?A - Ita M. Brennan `
+Yeah, I mean, I think what I would say is there's been – it's been pretty stable actually, and it has
+been...
+A - Jayshree Ullal `
+Yeah.
+A - Ita M. Brennan `
+...it is a significant part of the business, right. There is no doubt. I don't know that we've given the
+exact percentage. But it is a significant part of the business, right. And it's been pretty stable, if I
+look at it over the last two years, three years, it...
+A - Jayshree Ullal `
+Hasn't changed.
+A - Ita M. Brennan `
+...has not changed as a percentage of the business. The players inside that top 10 move around
+and then the ranking moves around, but the actual percentage has been pretty consistent.
+Q - `Paul Silverstein, Cowen & Co. LLC `
+All right. One last question, on pricing. I may have these numbers wrong, I apologize if I do, but I
+think I recall per port pricing decline for you by 15% in 2014, and 10% in 2013. Can you give us an
+update on that for 2015, what average of port pricing...?
+A - Jayshree Ullal `
+We'll take this question offline. I think we don't have that level of detail on past years versus now.
+Can we go to the next question since we're running out of time here?
+Operator
+Your next question comes from the line of George Notter with Jefferies. Please go ahead. Your
+line is open.
+Q - `George C. Notter, Jefferies LLC `
+Hi, thanks very much for squeezing me in guys. I guess I wanted to go back to the international
+business, if I look at it in absolute dollar terms, I think it's been roughly flat for about three
+quarters and obviously it's a big percentage of the addressable market. Can you just kind of walk
+through what you're doing sales and marketing wise to kind of get that business growing again?
+And is there some intuitive reason why it's been flat this last couple of quarters despite the larger
+business really growing? Thanks.
+A - Ita M. Brennan `
+I think just to clarify the numbers, George, I think EMEA has actually been growing quite healthily
+for us and it's been keeping pace actually with the overall business. APAC, I think to Jayshree's
+point, it's still at the stage where if we win a big opportunity in a particular country, it's going to
+change that dynamics a lot, right.So, I think, I think about it in two phases, EMEA is more developed and it's more consistent and
+we are seeing success there. And then APAC is still a little more opportunistic and we've got
+more work to do there.
+A - Jayshree Ullal `
+Yeah. No, I think it was well said, Ita. I think we've got lot more volatility in APAC and we got more
+work to do there. In EMEA, I think our numbers have been steadily growing. Sometimes our
+numbers look higher, if the placement of our cloud titans is in a particular geography in Europe,
+which is not really organic growth, but it reflects in our numbers. But I think, in general, U.S. and
+EMEA have been growing and APAC has been volatile and lumpy.
+Q - `George C. Notter, Jefferies LLC `
+Got it. Thanks.
+Operator
+We have time for one final question and that question comes from the line of Simona Jankowski
+with Goldman Sachs. Please go ahead. Your line is open.
+Q - `Simona K. Jankowski, Goldman Sachs & Co. `
+Hi. Thanks very much. I wanted to follow-up on the earlier discussions around Facebook and
+Microsoft, recognizing that there are some internal projects, but that you still continue to sell to
+them. In aggregate, would you expect your business with them to be up or down this year, to the
+extent you have visibility? And then related to that, would you expect any other customers
+outside of Microsoft to cross the 10% mark this year?
+A - Jayshree Ullal `
+Hi, Simona. I'll take your first question, which is, no, I don't expect any customer to top 10% this
+year, but I expect them all to be big customers. Specific to Facebook and Microsoft, your question
+was...
+Q - `Simona K. Jankowski, Goldman Sachs & Co. `
+Up or down this year?
+A - Jayshree Ullal `
+It's too early to call. We don't get that kind of visibility for the entire year. Generally, as I've told
+you, our visibility is greater in one or two quarters than the entire year; and we feel good about
+the one or two quarters.
+Q - `Simona K. Jankowski, Goldman Sachs & Co. `
+Sure. Thanks very much.
+A - Chuck Elliott `
+This concludes the Arista Q4 2015 earnings call. I also want to mention that we have posted a
+presentation which provides additional perspective on our 2015 fiscal results, which you can
+access on the Investors section of our website. Thank you to everyone for joining us today.Operator
+Thank you for joining, ladies and gentlemen. This concludes today's call. You may now disconnect.

@@ -1,0 +1,587 @@
+Q4 2021 Earnings Call
+
+Presentation
+Operator
+Good day, and thank you for standing by. Welcome to the Super Micro Fourth Quarter and Full
+Year Fiscal 2021 Earnings Call. At this time, all participants are in a listen-only mode. After the
+speaker presentation, there will be a question-and-answer session. (Operator Instructions)
+Thank you. I would now like to hand the conference over to `Nicole Noutsios, Investor Relations, Investor Relations.
+Please go ahead.
+`Nicole Noutsios, Investor Relations `
+Good afternoon, and thank you for attending Super Micro's call to discuss financial results for the
+fourth quarter and full year fiscal 2021, which ended June 30, 2021. By now, you should have
+received a copy of the news release from the company that was distributed at the close of the
+regular trading and is available on the company's website. As a reminder, during today's call, the
+company will refer to a presentation that's available to participants in the IR section of the
+company's website in the Events and Presentations tab. We've also published management's
+scripted commentary on our website.
+Please note that some of the information you'll hear during our discussion today will consist of
+forward-looking statements, including, without limitation, those regarding revenue, gross margin,
+operating expenses, other income and expenses, taxes, capital allocation and future business
+outlook, including the potential impact of COVID-19 in the company's business results of
+operations.
+There are a number of risk factors that can cause Super Micro's future results to differ materially
+from our expectations. You can learn more about these risks in the press release we issued
+earlier this afternoon, our most recent 10-K filing for fiscal 2020 and our other SEC filings. All
+these documents are available on the IR section of Super Micro's website. We assume no
+obligation to update any forward-looking statements.
+Most of today's presentation refer to non-GAAP financial results and business outlook. For an
+explanation of our non-GAAP financial measures, please refer to the accompanying presentation
+or to our press release published earlier today. In addition, a reconciliation of GAAP to non-GAAPresults is contained in today's press release and in the supplemental information attached to
+today's presentation.
+At the end of today's prepared remarks, we will have a Q&A session for the sell-side analysts to
+ask questions. I'll now turn the call over to `Charles Liang, Founder, Chairman, President & Chief Executive Officer, Founder, Chairman and CEO. Charles?
+`Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+Thank you, Nicole, and good afternoon, everyone. I am pleased to announce that for the first
+time, our quarterly revenue has exceeded $1 billion. For fiscal Q4 2021, we delivered year-over-
+year revenue growth of 19.3%. For the whole fiscal year 2021, our revenue grew 6.5%. We have
+gained market share and finally resumed faster growth starting from March quarter this year,
+after the impact from the past 10-K delay and the COVID-19 challenges. The revenue growth was
+driven by some wins from large enterprise customers and large multi-nation high-tech
+companies. These customers choose Super Micro because of our green computing technology,
+faster time-to-market and plug-and-play total IT solutions, especially in appliance, cloud, AI and
+5G markets.
+Now let's look at some key highlights from the quarter. Our fiscal first quarter net sales totaled
+$1.07 billion, up 19.3%, both year-over-year and quarter-over-quarter at the top end of our
+guidance range. This growth rate, I believe, is much higher than that of the industry. All our major
+geographies have contributed double-digit year-over-year quarterly growth. Our fiscal first
+quarter non-GAAP earnings per share was $0.81, up from $0.68 same period last year. We saw a
+significant increase in sales from new and existing large high-profile customers.
+Our strong momentum is mainly driven by our business expansion from hardware solution to total
+IT solution that consists of hardware, software and service. We have doubled our software
+engineering resource in the past 24 months to allow us to swiftly execute this plan. Through
+engagement and close collaboration with strategic leading hardware and software partners, we
+have provided our customers fully optimized, tested, certified and ready-to-deploy reference
+architectures. As a result, large volume order are deployed timely without customers having to go
+through a complicated process of hardware validation, software compatibility and supply chain
+disruption. It's a win-win for everyone.
+Earlier in fiscal Q4, we successfully executed the launch of Intel Ice Lake, AMD Milan and NVIDIA
+A100 GPU-based product lines, and began to ship more than 200 application-optimized product
+solutions. They are all based on the strong foundation of our Server Building Block Solutions.
+These optimized systems are created in-house, leveraging close to three decades of subsystem
+innovations, including motherboard, enclosure, power supplies and cooling technologies. What's
+more, our security and management software empower customers to deploy, manage and scale
+in a timely manner from enterprise to hyperscalers.
+On the product side, our new Ice Lake-based X12 generation multiple-node solutions have
+gained great traction among customers who are looking to scale out their enterprise and cloud
+data centers. From SuperBlade, MicroBlade to BigTwin, FatTwin and the upcoming GrandTwin, all
+these resource-saving product lines support a dense NVMe and Optane persistent memory,
+flexible GPU and FPGA configurations, providing optimized performance and the best TCO to a
+variety of customer workloads.
+Our GPU product lines are continuing their strong growth with the explosion of AI, machine
+learning application demands. These new Ice Lake and Milan-based GPU product lines support a
+larger on-GPU memory and accelerate compute-intensive applications. Our 2U 2-node GPUsystem has proven to be a top seller since its introduction. Thanks to its optimum mix of CPU-to-
+GPU ratio and resource-saving features.
+Later this year, we will be introducing a brand new universal GPU product line that will provide
+even more flexible configuration for many different CPU and GPU module combination, further
+pushing the limit of system density and performance up to 50% when compared to competition.
+Announced in June during Computex 2021, our plug-and-play Rack product line is an integral part
+of our company's solution strategy going forward. These turnkey racks have undergone a
+thorough solution-level design and validation process and build security for our AI, 5G telco,
+enterprise, cloud and storage customers. Upon receiving these total IT solutions, customers only
+need to connect power and networking, then they are immediately ready to run their
+applications, shortening the time from making decisions to seeing results.
+To further improve sales and operation efficiency, we will launch our auto-configurator tool to
+enable B2B/B2C automation, which will be broadly ready to service our customers in the coming
+few weeks. This tool makes it faster to achieve product optimization and more efficiently to
+leverage the configurations among our sales, engineers, PM and customers.
+We recently completed our Taiwan campus expansion. Now with the total 3 million square feet
+campus in Taiwan, we are equipped to deliver not only sufficient capacity, supply chain resilience,
+but also lower cost structure. Combined with the manufacturing facility in Silicon Valley and the
+Netherlands, Super Micro is well positioned to grow market share with economy of scale, agility,
+quality and rapid delivery time. To satisfy our customers' faster growing demands, we are
+working aggressively across our global supply chain to improve our critical parts shortage.
+In summary, Super Micro has been solidly transforming into a total IT solution company from a
+server hardware company. In addition to providing the greenest hardware total solution, our
+software and service products are now ready for large enterprise, cloud, AI and telco customers.
+Second, our Taiwan campus expansion doubles our solution capacity and lowers our cost
+structure. Now if we decide to do so, we can start to reduce our expense in Silicon Valley
+headquarter, if we select to, I mean. Third, our business automation program, including the auto-
+configurator and B2B/B2C systems will significantly improve customer experience by streamlining
+our customer configuration and order process, resulting in shortened solution delivery time with
+better quality and optimization.
+With the above summary, I believe our fiscal year 2022 revenue will reach at least $4.3 billion and
+start to grow much faster than the -- than our past four years. In closing, I'm pleased with the
+progress of our business transformation, which has started to speed up our business execution in
+fiscal 2021. As a total IT solution company, we are now able to grow business much more
+efficiently and achieve our $10 billion revenue goal quicker. Perhaps, we are able to pull in from
+2026 to 2025 or even sooner.
+With that, I will now pass the call to `David Weigand, Senior Vice President, Chief Financial Officer, our Chief Financial Officer, to provide
+additional details on the quarter.
+`David Weigand, Senior Vice President, Chief Financial Officer `
+Thank you, Charles. We continue to accelerate in all major areas of the company and exceeded $1
+billion in revenue for the quarter, which was at the high end of our guidance range. The growth
+was driven by wins from large enterprise customers and key high-tech companies worldwide,
+continued strength across all major geographies and solid demand for our products and services.Our fiscal fourth quarter revenue totaled $1.07 billion, reflecting a 19% increase, both on a year-
+on-year and quarter-on-quarter basis.
+Looking at Super Micro's Q4 revenue in our three market verticals, we achieved $672 million in the
+organic enterprise and channel AI and machine learning vertical; $366 million in OEM and large
+data center vertical; and $31 million in the 5G/telco, edge/IoT vertical. Systems comprised 78% of
+total revenue and the volume of systems shipped was up year-over-year, while the nodes
+shipped were down year-over-year. System ASPs increased year-over-year and quarter-on-
+quarter.
+Performance was strong across all major geographies this quarter. On a year-on-year basis, Asia
+increased 25%, U.S. increased 21% and Europe increased 13%, while the rest of the world
+decreased 3%. On a sequential basis, U.S. sales increased 30%, Europe increased 14%, Asia
+decreased 1%, and the rest of the world increased 7%.
+From this point forward, unless otherwise noted, I will be discussing financial metrics on a non-
+GAAP basis. Working down the P&L, the Q4 gross margin was 13.7%, down 30 basis points year-
+on-year and 10 basis points quarter-on-quarter. We expected our Q4 gross margin to improve 70
+basis points, primarily due to discrete costs incurred in Q3. As expected, those costs did not
+repeat in Q4. However, expedite fees and higher shipping costs increased by 50 basis points
+quarter-over-quarter. As reported by many other companies around the world, supply chain
+pressures related to the resurgence of variants of COVID-19 persist.
+Turning to operating expenses. Q4 OpEx on a GAAP basis was essentially flat quarter-on-quarter
+and decreased 7% year-on-year to $106 million. The decrease year-on-year was caused by a
+decrease in incentive bonuses, offset by higher headcount this year, which was primarily in R&D.
+On a non-GAAP basis, operating expenses increased 4% quarter-on-quarter and increased 9%
+year-on-year to $99 million. The quarter-on-quarter and year-on-year increases were related to
+headcount and other personnel costs as we continue to invest in human capital to address our
+growth opportunities.
+Other income and expenses, including interest expense, which was a $2.1 million loss as
+compared to a $1.4 million gain last quarter. The sequential change is mostly related to FX. This
+quarter, our tax benefit was $1.6 million on a GAAP basis and an expense of $1.8 million on a non-
+GAAP basis. Our non-GAAP tax rate was 4% for the quarter.
+Lastly, our share of income from our JV was $0.6 million this quarter as compared to a loss of
+$0.3 million last quarter. Q4 non-GAAP diluted earnings per share totaled $0.81 as compared to
+$0.50 in Q3 of fiscal '21 and $0.68 in the same quarter of last year. Cash flow from operations
+totaled $64 million compared to cash flow used in operations of $124 million in Q3. CapEx totaled
+$13 million, which is resulting in free cash flow of $50 million. Key uses of cash during the quarter
+included increases to inventory and receivables, while key providers of cash included an increase
+of $144 million in accounts payable and $12 million in deferred revenues. The increase in deferred
+revenue was due to higher sales of our service contracts. We also used $12 million to repurchase
+shares this quarter. Our closing balance sheet cash position was $232 million, while bank debt was
+$98 million, resulting in a net cash balance of $134 million.
+Turning to the balance sheet and working capital metrics compared to last quarter. Our Q4 cash
+conversion cycle was 80 days, which was down from 86 in Q3, beating our target range of 85 to
+90 days. While the absolute level of our inventory increased, days of inventory at 96 days
+decreased. Days sales outstanding was 37 days, while days payables outstanding totaled 53
+days.Now turning to the outlook for our business. We expect net sales in a range of $900 million to
+$980 million. GAAP -- which is GAAP diluted net income -- which results in GAAP diluted net
+income per share of between $0.16 and $0.36 and non-GAAP diluted net income per share of
+$0.28 to $0.48 for the first quarter of fiscal year '22, which ends September 30, 2021. We expect
+gross margins to remain at similar levels sequentially in Q1 with upside potential as we continue to
+manage supply chain costs and maintain price discipline.
+Over the upcoming quarters, we expect to achieve margins within our target model as we further
+scale out our Taiwan operations and begin to gain traction from our new product offerings and
+auto-configurator B2B and B2C solutions. GAAP operating expenses are forecast to be
+approximately $110 million and includes $7 million in stock-based compensation expenses and $1
+million in other expenses not included in non-GAAP operating expenses. We expect other income
+and expense, including interest expense, to total roughly $2 million and expect a nominal
+contribution from our JV.
+Non-GAAP operating expenses are forecasted to be up quarter-on-quarter from continued
+investment in R&D, lower NRE expected and higher personnel costs. The company's projections
+for GAAP and non-GAAP diluted net income per share both assume a tax rate of approximately
+16% and a fully diluted share count of 53.7 million shares for GAAP and 55 million shares for non-
+GAAP.
+The outlook for Q1 of fiscal year '22 GAAP diluted net income per common share includes
+approximately $8 million in expected stock-based compensation and other expenses, net of
+taxes, that are excluded from non-GAAP diluted net income per common share.
+We expect net sales in a range of $4.1 billion to $4.5 billion, GAAP diluted net income per share of
+at least $2.60 and non-GAAP diluted net income per share of at least $3 for fiscal year '22, which
+ends June 30, 2022. The company's projections for GAAP and non-GAAP diluted net income per
+share both assume a tax rate of approximately 16% and a fully diluted share count of 55.3 million
+shares for GAAP and 56.5 million shares for non-GAAP. The outlook for fiscal year '22 GAAP
+diluted net income per share includes approximately $30 million in expected stock-based
+compensation and other expenses, net of taxes, that are excluded from GAAP diluted net
+income per common share. We expect CapEx for the fiscal first quarter of 2022 of approximately
+$14 million to $16 million.
+Nicole, I'll turn it back to you for Q&A.
+`Nicole Noutsios, Investor Relations `
+Operator, you can open the line up for questions.
+Questions And Answers
+Operator
+(Question And Answer)
+Thank you. (Operator Instructions) Your first question comes from the line of `Mehdi Hosseini, Susquehanna International Group with
+SIG. Your line is open.
+Q - `Mehdi Hosseini, Susquehanna International Group `
+Yes. Thanks for taking the question. I have a couple of follow-ups. If I were to take the midpoint of
+the guide range for fiscal year '22, it seems like maybe there is a little bit of leverage in theoperating profit. In other words, maybe 200 basis points of improvement to get to $3 of
+earnings. What I want to understand is, what are the key assumptions for component costs? Is
+this a base case or a very conservative case? And I have a follow-up to that.
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+I would rather say, it's based on conservative base because our supply chain continue to be very
+tight. And although we have a good relationship with all of our suppliers, but anyway, it's a global
+strategic program, so it's a conservative base. But because our operation now able to
+dramatically expanded to Taiwan, so that will lower our overall cost.
+Q - `Mehdi Hosseini, Susquehanna International Group `
+Right. So where is the most -- what segment of the supply chain you're experiencing the most
+shortage? What are the key components that you relatively have the most difficult time
+procuring?
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+IC chip, especially I/O chip.
+Q - `Mehdi Hosseini, Susquehanna International Group `
+Okay. And a question on the cash flow. What is the depreciation and amortization for the
+reported June quarter? And what should we assume for fiscal year '22?
+A - `David Weigand, Senior Vice President, Chief Financial Officer `
+So I'd like get back to you, Mehdi on that.
+Q - `Mehdi Hosseini, Susquehanna International Group `
+Okay. Given the CapEx growth in fiscal year '21, almost $60 million, and the build-out of a Taiwan
+facility, should we expect CapEx to moderate from here?
+A - `David Weigand, Senior Vice President, Chief Financial Officer `
+Absolutely.
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+Yes, because our Taiwan operation is pretty much ready. We add about 200 staff in Taiwan in the
+last three months, and all of the people have been well trained, and they just moved into the new
+building last month. Other than that, our business automation, as we just mentioned for B2B/B2C
+and the auto-configurator, we hire people and train people, and they are about all ready and start
+to offer service to certain customers. And we will broadly apply to all our customers in the next
+few weeks.
+Q - `Mehdi Hosseini, Susquehanna International Group `
+Okay, great. I'll get back into the queue.
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+So the investments have been there.Q - `Mehdi Hosseini, Susquehanna International Group `
+So Charles, are you implying that the CapEx should decline in fiscal year '22?
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+Maybe because we are growing. I mean 2022, '23, '24, we expect continue to grow. So I guess
+the operation expense won't shrink, but may grow very kind of consistently, but limited growth
+because we already invested there.
+Q - `Mehdi Hosseini, Susquehanna International Group `
+Okay. All right. Thank you. I'll get back into the queue. Thank you.
+Operator
+Your next question comes from `Nehal Chokshi, Northland Securities with Northland. Your line is open.
+Q - `Nehal Chokshi, Northland Securities `
+Yes. Thank you. And congratulations on strong results, especially on free cash flow. We were
+expecting a drain based on the commentary from last quarter and generate very nice free cash
+flow. It looks like the big delta relative to our expectations was in increasing days payable. And
+given this environment of constrained component environment, I mean how was this pulled off
+basically?
+A - `David Weigand, Senior Vice President, Chief Financial Officer `
+So Nehal, we did have a lot of inventory that came in at the -- near the end of the quarter. And so
+that's what caused accounts payable to rise and with a resultant rise in DPO.
+Q - `Nehal Chokshi, Northland Securities `
+Okay.
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+And now, I consider it positive to keep kind of a high inventory, because we strongly believe our
+customer needed those products.
+Q - `Nehal Chokshi, Northland Securities `
+All right.
+A - `David Weigand, Senior Vice President, Chief Financial Officer `
+And so, we entered --
+Q - `Nehal Chokshi, Northland Securities `
+Go ahead, sorry. Please.
+A - `David Weigand, Senior Vice President, Chief Financial Officer `
+All right. And so, you can tell from our forecast -- from our revenue forecast that our sales are nothand, which was why I alluded to the challenges of cash flow, for this projecting cash flow for Q4,
+but we ended up in a good position.
+Q - `Nehal Chokshi, Northland Securities `
+I see. So I guess, because we built up the inventory at the end of the quarter to satisfy the strong
+demand you're seeing in the September quarter, and the balance sheet is showing up as
+increased days payable, but what you're saying is that your days payable terms actually didn't
+increase. It's just simply the timing of which you received the inventory.
+A - `David Weigand, Senior Vice President, Chief Financial Officer `
+That's exactly right.
+Q - `Nehal Chokshi, Northland Securities `
+Got it. Okay. Understood. Okay. And I don't recall the last time you guys gave full year guidance.
+I'm not sure if you ever have before, but certainly, I don't think you did during fiscal year '21 or
+fiscal year '20 or past few years, when you're on 10-K filing delay hell. So what has changed to
+give you visibility to guide on a full year basis? And importantly, almost 10% above the consensus
+estimate?
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+Not much reason. But pretty much because we have a successful expansion in Taiwan and also
+business automation, including auto-configurator and B2B/B2C tool. And also company expanding
+from a hardware solution company to a total IT solution company. So we saw it's a good idea to
+offer the market kind of a more complete picture for the whole year and in the future.
+Q - `Nehal Chokshi, Northland Securities `
+Okay. All right. And in this midpoint 20% growth guidance for fiscal year '22, is this tied to any sort
+of industry growth expectation?
+A - `David Weigand, Senior Vice President, Chief Financial Officer `
+I'm sorry. What was the last part of your question? Is it tied to what?
+Q - `Nehal Chokshi, Northland Securities `
+Is it tied to server industry growth, any sort of server industry growth expectation? Or is it
+independent of server industry growth?
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+Not quite. Not quite. As we mentioned, we had returned to a faster growth business model. If you
+remember before 2017, before our 10-K delay, our growth always has been 2 times to 4 times
+faster than our industry, and we believe we have returned to that faster growth business more
+than now. So start from March and June last quarter, we started to outperform than the industry.
+And I believe we will start to outperform the industry growth rate, maybe double or triple or even
+more, looking for growth. So we are gaining back share in the overall.
+Q - `Nehal Chokshi, Northland Securities `Yes. Undoubtedly, clearly. But is there a particular industry growth rate that you are expecting in
+order to drive that 20% year-over-year growth i.e. 5%, 10%, 2%? Care to provide thoughts on that
+there?
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+We believe that industry may grow 5% to 10%, right? And our growth rate should be double to
+quadruple of that, hopefully.
+Q - `Nehal Chokshi, Northland Securities `
+Okay. Great. And then my final question is that the minimum $3 per share, does that correspond
+to a low end of the revenue guidance or to the midpoint of revenue guidance?
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+I would rather say it's a conservative number.
+Q - `Nehal Chokshi, Northland Securities `
+Okay. Great. Thank you. I'll see you at the floor.
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+Thank you.
+Operator
+Your next question comes from the line of `Ananda Baruah, Loop Capital with Loop Capital. Your line is open.
+Q - `Ananda Baruah, Loop Capital `
+Hey. Good afternoon, guys. Thanks for taking the question. And congratulations on the strong
+revenue execution and the visibility to put out a -- put out the long-term or the fiscal year rev
+guide here. I guess a couple for me, if I could. David, could you just walk back through the
+components that you spoke to on gross margin? I just want to make sure that I'm straight on
+those. And then I have a quick follow-up as well.
+A - `David Weigand, Senior Vice President, Chief Financial Officer `
+Certainly. So when we finished last quarter at 13.8%, we had some about 70 basis points of
+discrete costs, and which included some shipping costs as well. But mainly it was principally
+discrete -- some discrete cost that we didn't expect to occur. So this quarter, those did not occur,
+but we did have 50 basis points more of shipping costs. And it was really caused by our directed
+effort to deliver products to our customers on time and because that's what our customers
+expect and demand. So, that's really the reason that we were not able to raise margin up higher,
+that's just because these --
+Q - `Ananda Baruah, Loop Capital `
+I got it.
+A - `David Weigand, Senior Vice President, Chief Financial Officer `
+Yes.Q - `Ananda Baruah, Loop Capital `
+Got it. Cool. And so if you lost the 70, so that took you to 13.1%. And then -- I got it. And then you -
+- sorry, you lost 70, and then you gave 77, it take you to 14.5% or so. And then you had 50 more.
+So that took you -- that would have taken you back down to 14%. And then was there -- I think I'm
+doing that math right? Correct me if I'm wrong. And then was there an incremental 30 basis point
+headwind that brought it down to the 13.7%?
+A - `David Weigand, Senior Vice President, Chief Financial Officer `
+Well, there was. We had two things: one, we had deferred revenue that we added to our balance
+sheet of about $12 million. So we had to carve out some income for our services, and we also had
+-- just the rest was just product mix, Ananda.
+Q - `Ananda Baruah, Loop Capital `
+Got it. Got it. Okay. And then like how should we -- what are the sort of the pushes and the pulls?
+You made mention in the prepared remarks that you expect in the coming quarters to move up
+into the 14% to 17% range. What are the pushes and pulls there? And if there's any way to give
+them by order of magnitude, that would be helpful also.
+A - `David Weigand, Senior Vice President, Chief Financial Officer `
+Sure. Absolutely. So we realize that with the Delta variants, it's hard to say that COVID is over. And
+so therefore, we expect to continue to have challenges on supply chain shipping costs. However,
+we do expect our other initiatives such as our transition over to Taiwan and our new product
+offerings, especially in those verticals that have attractive -- more attractive gross margins as well
+as our B2B and B2C configurator, we expect the benefit of those things to start to come to the
+business in the upcoming quarters. So in the short run, we know that Taiwan has gone online.
+However, it's going to take a couple of quarters to start to realize benefits.
+Q - `Ananda Baruah, Loop Capital `
+Any -- could we -- I'm sure I'm not the only one sort of intrigued about this. Any chance we can
+get you to give us some sense of -- for fiscal '22, what the gross margin could look like?
+A - `David Weigand, Senior Vice President, Chief Financial Officer `
+So we've given guidance on the top line and the bottom line, but we're not going -- other than
+the fact that we expect gross margins to improve, we're not giving further guidance.
+Q - `Ananda Baruah, Loop Capital `
+I got it. But it's not unreasonable to think that you would be in the range by the end of the year,
+end of fiscal '21?
+A - `David Weigand, Senior Vice President, Chief Financial Officer `
+Yes. Our target is to go -- and I think this is in the notes, our target is to be back within our range
+by -- during the year. Yes, our range, by the way, was 14% to 17%, yes.
+Q - `Ananda Baruah, Loop Capital `
+I'll get back in the queue here. I appreciate it. That's really helpful. Thanks.Operator
+Your next question comes from the line of `Aaron Rakers, Wells Fargo with Wells Fargo. Your line is open.
+Q - `Aaron Rakers, Wells Fargo `
+Yes. Hey, guys. Thanks for taking the questions and congrats on the quarter. I'm just curious as the
+industry, not just you guys, but the industry in whole deals with supply chain shortages,
+semiconductor IC shortages, et cetera. I'm curious on your side of the business, have you been
+able to invoke your own customers to provide you with extended lead times? And has that
+provided you with better visibility? And then on the heels of that, kind of tied to that question is, is
+the guidance for this current quarter assuming that you would have actually outperformed that
+number if you were able to get all of the supply to meet demand? Put it another way, are you
+able to meet demand as you see it in the current quarter?
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+Very good question. Again, although we try whatever possible we could, but still we cannot get
+whatever we want. So we cannot ship all the demand to our customer. But I would like to say, we
+can ship most of that. Maybe customers still had waited longer than the regular time. And the
+good thing is we have a lot of repeat customers, older customers. So they understand the global
+difficulty. So a longer lead time is, people don't like to see that, but basically, they are
+cooperating. So we cannot ship whatever customer need, but basically, the customers are happy
+with our pace for service.
+Q - `Aaron Rakers, Wells Fargo `
+And what is your current view of expectations of when that normalizes? Does your fiscal '22
+guidance reflect the view that the tightness in the semiconductor supply chain starts to normalize
+through this fiscal year? Or do you think it's out further than that? Just curious of what your
+thoughts are.
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+Yes. I mean as I shared before and now, traditionally, our growth rate was double to quadruple
+faster than the industry. And I believe we already get back to that momentum, double to
+quadruple faster than the industry. But because of the global shortage, that impact our growth a
+little bit for sure. And that's why we are humbled to say, maybe $4.3 billion. If not because of big
+shortage globally, I believe our growth will be much better than that.
+Q - `Aaron Rakers, Wells Fargo `
+Yes. Yes. And then the final quick question is, there's a lot of architectural things going on in the
+server and the universe around semiconductors and so on. I'm curious of how -- what kind of
+growth that you're seeing in GPU accelerated server platforms? And do you think that there's a
+longer-term narrative that we're at the point where actually, the richness of the server
+configurations can really drive a positive upward trend in blended ASPs for foreseeable future?
+I'm just curious to how you're seeing compute architectures evolve that maybe benefits you guys
+from a growth perspective.
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+Yes. As a technology company based on Silicon Valley, we like a technical challenge. We like newthat's a big change to us. And that's why I just mentioned, we will introduce GrandTwin, a brand-
+new architecture to the market, very soon. And we also are designing a universal GPU platform,
+and that will be ready by end of this year. So all of those is to provide a much more flexible kind
+of -- to support multiple different CPUs vendor, multiple different GPU vendor and different form
+factor. So all our platform indeed will benefit our customers. And thank you to our building block
+solution, we are able to kind of skillfully kind of optimize all the different configuration by our new
+architecture, and especially, GrandTwin and kind of universal GPU solution. So we are very happy,
+very excited to see that opportunity.
+Q - `Aaron Rakers, Wells Fargo `
+That's great. Thank you very much.
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+Thank you.
+Operator
+Your next question comes from the line of `Jon Tanwanteng, CJS Securities with CJS Securities. Your line is open.
+Q - `Jon Tanwanteng, CJS Securities `
+Hi. Good afternoon, guys, and great quarter and also the outlook is pretty impressive. I wanted to
+drill down on a previous question just on how you have confidence in that $4.2 billion in revenue. Is
+that a bottoms-up analysis with like qualified customer lead indications of interest, contracts that
+may have already been signed? Or is there more orders that you actually have to go out and get
+before you can achieve that? I'm wondering how you built for that.
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+It's both bottom up and top down. From both directions, we see that growth will be very strong.
+Again, if not because of global shortage, our growth should be much better than that. And with
+better products, with our Taiwan operation, and with also many more new engaged high-profile
+customer we achieved in the last six months and currently. So we feel pretty optimistic over there.
+Q - `Jon Tanwanteng, CJS Securities `
+Okay. Great. And I was going to ask, how do you feel about your ability to pass price through in
+this environment? You talked about expedited shipping. I know that you were doing airfreight last
+quarter just to get things to customers on time. I would think that everyone knows at this point
+that it's impossible to get things without paying for extra shipping charges. So I'm wondering if
+you're planning on surcharges or other pricing methods to be able to pass that through to the
+customers? And if so, are they receptive to it?
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+Very good question and a complicated question, too. So we try whatever possible to
+communicate to customers. But overall, we had observed, I would have to say, at least 50% of
+that, well, maybe plus 50% of customers. So we try to kind of provide the customer a very
+competitive way so that we can grow market share as well.
+Q - `Jon Tanwanteng, CJS Securities `Okay. Great. Maybe just one final one on pricing. When do you think you can catch up on pricing
+just to the higher input costs? Is it a quarter? Or is it two? How should we think of the lag time
+before you're able to absorb all of that?
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+Again, it's a complicated question because of the pandemic, Delta variant still going on. So -- but
+once the COVID-19 ends, I believe we will recover to normal. But before that, we are getting able
+to pass those overhead actual cost to customers. Like what I said, maybe 50-50 in last quarter,
+and we will be getting better. But hopefully, COVID-19 program can be -- end very soon. So we
+will get back to normal automatically.
+Q - `Jon Tanwanteng, CJS Securities `
+Okay, great. Thank you, and congrats again.
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+Thank you.
+Operator
+Your next question comes from the line of Jon Lopez with The Vertical Group. Your line is open.
+Q - `John Lopez, Vertical Group `
+Hi, thanks very much. Can you hear me all right?
+A - `David Weigand, Senior Vice President, Chief Financial Officer `
+Yes, we can hear you.
+Q - `John Lopez, Vertical Group `
+Okay. Sorry. That's great. I had phone trouble. Sorry about that. Thanks, David. So I guess I have
+two. I wanted to come back for a second to the fiscal Q1 guidance, and maybe to come at it this
+way. I thought in some remarks you made, you referenced like not declining in fiscal Q1. But I
+guess as we calculate it, it's actually a bit below your normal seasonal trending pattern, and that's
+after being pretty comfortably above that pattern in the last two quarters, so both fiscal Q3 and
+fiscal Q4. So I guess my question is, one, are we looking at those numbers differently than you
+are? Maybe just step me through what you meant when you said not declining. And then two, is
+there any constraint on your revenue guidance relative to component or logistical issues?
+Perhaps, if you could quantify that. Thanks.
+A - `David Weigand, Senior Vice President, Chief Financial Officer `
+Sure. I think that -- I think what our range does is our range allows for the struggles that we face in
+the supply chain. So therefore, we feel like we provided a broad enough range that we can
+overachieve, and we can also -- but we feel comfortable with that range.
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+I guess one -- the other factor is that because last year, COVID-19 reason, we did not adjust the
+employee salary that much. So this year, we have a much bigger salary adjustment for
+employees. That's why you see -- Q1 and Q2, you may see our expense grow. One of the bigportion because of salary adjustments and also Taiwan expansion. So we hired people in Taiwan
+and trained people, but they will be ready to contribute to our revenue and profitability soon.
+Q - `John Lopez, Vertical Group `
+Okay, thanks. Yes, I guess that helps a bit. I guess my other question, just to come back to the
+gross margin for a second. So to arrive at this $3 figure or north of $3 figure, especially based on
+what you're referencing in OpEx there, Charles. I mean, the gross margin does need, I think, to
+be pretty close to 15% as we get out of calendar Q3 and into the remainder of your fiscal year. I
+guess, why do you think -- like do any of these things feel as though you have line of sight to
+them ending as we look beyond calendar Q3? And if not, are you committing that you get to $3
+some other way? Like will you rein back on OpEx or just maybe walk us through the interplay
+between why you might have comfort in the $3 number, if you don't have visibility to some of
+these logistical issues or cost issues abating.
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+David handles that.
+A - `David Weigand, Senior Vice President, Chief Financial Officer `
+Sure. So one of the things that helps our cost structure again is the movement of our production
+over to Taiwan. So that's -- we expect that to give us benefit as well as the traction in our new
+product offerings, which we expect to bring higher margins than the traditional server business.
+So those are the factors that we have insight into and give us confidence that in spite of supply
+chain challenges, which we've managed to meet, and in spite of higher costs, which we -- in
+terms of shipping and airfreight, which we've continued to deal with, we still believe that through
+price management that we can achieve the margins which will allow us to deliver the targets that
+we are forecasting.
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+Yes. The other way to answer your question more directly is that we expect our growth will be
+significant in fiscal year '22 and '23. And we are very confident to see that happen. But if in case it
+does not happen, then that mean we have too much of resource now. So we may refuse some
+resource in our USA headquarter. I hope we don't have to do so, but if we had to, we will. And we
+have that option. So that will have reduced our operation cost ratio, but I hope we don't have to
+go for that way.
+Q - `John Lopez, Vertical Group `
+Okay, understood. Thanks for the thoughts guys. I appreciate it.
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+Thank you.
+Operator
+You have a follow-up question from `Mehdi Hosseini, Susquehanna International Group with SIG. Your line is open.
+Q - `Mehdi Hosseini, Susquehanna International Group `Thank you. Just a quick follow-up. I want to get your view on the current memory prices. How do
+you see the trend over the next one or two quarters? And I'm asking you about availability and
+the pricing trends?
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+A very complicated question but very good question. Yes, it's hard to predict. But this movement,
+we see that availability is getting better than last quarter. So the price changes should be less
+than before. And as to when the price will stop growing or the price were going down, we watch
+very carefully. So at this moment, no clear date. But at least, we feel it's better than last quarter.
+Q - `Mehdi Hosseini, Susquehanna International Group `
+Sure. Okay.
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+It is much better.
+Q - `Mehdi Hosseini, Susquehanna International Group `
+Yes. Thanks for the color. I know it's very difficult to look beyond a couple of months. As you think
+about your FY '22 revenue guide, how should I think about incremental opportunities? There are a
+lot of AI-type projects that hyperscalers are expected to ramp. Do you think your FY '22 revenue
+guide capture some of them? Or should we wait for FY '23 to have it -- to see a more meaningful
+material contribution?
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+Good question. I mean, for AI, we grew very well in fiscal year '21. In year '22, I believe we will
+continue to grow very well, maybe more than 50%, I hope, right? And for telco, telco is another
+territory we grew very well last year. And I believe this year, 2022, our telco business will grow
+much better than even last year. So that's a very strong area for us. As to hyperscale, with our
+Taiwan operation now is ready, so we have a chance to start to service some hyperscale
+customers, if we select to. But I believe we will be very selective. For some diligent customer,
+when we can provide the value, we will.
+Q - `Mehdi Hosseini, Susquehanna International Group `
+And Charles, when you talked about AI, does that include kind of the ARM-based ASIC CPU? Or
+do you lump that into the hyperscaler segment?
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+Very usual question. But yes, we have some ARM design as well. So if a customer really prefer
+ARM solution, we have some solution there under development.
+Q - `Mehdi Hosseini, Susquehanna International Group `
+Okay. So when you talk about AI, it's not necessarily an ARM-based solution, it's more general,
+right?
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+No. Mainly, still Intel and AMD-based. Intel and AMD GPU, NVIDIA.Q - `Mehdi Hosseini, Susquehanna International Group `
+Sure. Sure. But when you reference hyperscalers, that's predominantly ARM-based solutions?
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+Not necessarily. I mean, a hyperscale to us is still X86 mainly.
+Q - `Mehdi Hosseini, Susquehanna International Group `
+Okay. All right. Got it. Okay. So it's -- we can't really isolate it because perhaps, it is just too early
+to determine on this independent ARM-based solution, right?
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+When customers needed that, we will have been ready.
+Q - `Mehdi Hosseini, Susquehanna International Group `
+Got it. Okay. Thanks for the details. Appreciate it.
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+Thank you.
+Operator
+And for the last question, we have a follow-up from `Ananda Baruah, Loop Capital with Loop Capital. Your line is
+open.
+Q - `Ananda Baruah, Loop Capital `
+Hey. Thanks guys for the follow-up. Yes, just wanted to ask, any context you can give us about
+how to think about revenue seasonality through fiscal year '22? Will there be a seasonal pattern?
+Or will it be -- I mean there will be a seasonal pattern, but will it be different than usual and fairly
+ratable on a year-over-year basis? Thanks.
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+Yes. As you may know, right, September always our weak season. So this year, no exception,
+right? Although we have a strong demand, but global shortage. That's major reason we try to be
+conservative when we share the number with you for September quarter.
+Q - `Ananda Baruah, Loop Capital `
+And then, Charles, through the rest of the year, should we just assume typical seasonality to get
+into the guidance range?
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+Yes, basically. Traditionally, December and June, always our good quarter.
+Q - `Ananda Baruah, Loop Capital `
+Awesome. Okay, great. I appreciate it. Thanks a lot.A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+Thank you.
+Operator
+Thank you. This concludes today's conference call. Thank you for joining. You may now disconnect.

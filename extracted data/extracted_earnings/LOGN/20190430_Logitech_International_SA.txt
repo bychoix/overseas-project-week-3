@@ -1,0 +1,584 @@
+Y 2019 Earnings Call
+
+Presentation
+Operator
+Good day, and welcome to the Logitech Fourth Quarter Fiscal 2019 Financial Results Conference
+Call. At this time all participants are in a listen-only mode. We will be conducting a question-and-
+answer session, and instructions will follow at that time. (Operator Instructions) This call is being
+recorded for replay purposes and may not be reproduced in whole or in part without written
+authorization from Logitech.
+I'd now like to introduce your host for today's call, Ben Lu, Head of Investor Relations. Please go
+ahead.
+`Benjamin Lu, Head of Investor Relations `
+Thank you, James. Welcome to the Logitech conference call to discuss the company's financial
+results for the fourth quarter of fiscal year 2019. The press release, our prepared remarks and
+slides, as well as a live webcast of this call are available online at the Investor Relations page of
+our website, ir.logitech.com.
+During the course of this call, we may make forward-looking statements including with respect to
+future operating results that are made under the safe harbor of the Securities Litigation Reform
+Act of 1995. The forward-looking statements involve risks and uncertainties and actual results
+could differ materially as noted in our quarterly and other filings with SEC. The company
+undertakes no obligation to update or revise any forward-looking statements as a result of new
+developments or otherwise.
+Please note that today's call will include results reported on a non-GAAP basis, except as
+otherwise noted. Non-GAAP reporting is provided to help you better understand our business.
+However, non-GAAP financial results are not meant to be considered in isolation from or as a
+substitute for or superior to GAAP results. Non-GAAP measures have inherent limitations, should
+be used only in conjunction with Logitech's consolidated financial results, prepared in accordance
+with GAAP. Our press release and slides provide a reconciliation between GAAP and non-GAAP
+numbers and are posted on our IR website. We encourage listeners to review these items.Unless noted otherwise, comparisons between periods are year-over-year and in constant
+currency. This call is being recorded, and would be available for replay on the Investor Relations
+page of the Logitech website.
+Joining us today from California are Bracken Darrell, President and CEO; and `Vincent Pilette, Chief Financial Officer, the
+CFO.
+I will now turn the call over to Bracken.
+`Bracken P. Darrell, President & Chief Executive Officer `
+Thank you, Ben. And thanks to all of you for joining us. Logitech delivered another great year, with
+fiscal year 2019 sales and profits up double-digits for the third year in a row. Sales were up 10%
+and profits were up 23%. Our three growth businesses and it's kind of fun to follow -- call this first
+one a growth business. Creativity and Productivity, Video Collaboration and Gaming all performed
+well and will continue to drive growth through this year as well.
+I'm excited about the secular trends underpinning growth in these large categories. There are
+three major global trends driving these businesses and they are just a few of the many reasons
+why we're so excited, and where we are about being the world's leading cloud peripherals
+player. First, the first trend, if you are under 30 or have kids who are, you know that there are only
+two kinds of calls you make. Audio calls when you're moving and video calls when you're
+stationary. But when you look at your offices, you will probably see that most rooms are not video
+enabled. The cloud is changing this by making it accessible, affordable and easy. And we're in the
+very, very early stages as today only a low single-digit percentage of those rooms are video
+equipped.
+I believe in the not-so-distant future every single closed space will be designed for video. And
+that's why we're so excited about the growth opportunities ahead of us in our Video
+Collaboration business. Just look at the recent successful IPO of our cloud video partner ZOOM.
+We are ready to outfit all those cloud video enabled rooms with our best-in-class solutions.
+The second trend is one that you've heard me talk about time and time again. PC Game players
+has become one of the biggest if not the biggest exporter past time -- past times if you protocol
+that in the world. It's not just a fact [ph]. It's a full blown secular tidal wave. And like we see, the
+roots of this second massive trend are fueled by cloud and the social experiences it creates. In
+the social nature not only drives viral adoption by gamers, it also drives viral viewership in casual
+gamers. Today, more people are watching others play video games in almost any other sporting
+event and that viewership is concentrated. Concentrated under 30.
+Imagine as this generation grows up, with leading technology in a broad portfolio of peripherals
+that deliver fantastic gaming experience. We've delivered six consecutive years of double-digit
+gaming sales growth. And we're not expecting that secular momentum to slow anytime soon.
+The third trend is the explosion of content creators. Today, more people are watching content
+created by other people that any time in human history and it's hard to imagine, this trend
+slowing. While we all watch and love big budget movies, like Avengers End Game or shows on
+Netflix, there's an ever-growing library of content that people are creating. And that audiences
+are watching. The democratization and instant availability of this content is surging, thanks to
+Instagram, YouTube, Twitch, Facebook, and LinkedIn and others.
+Content is being created by someone in the bedroom, in a living room, in a dorm room, in an
+open office, in a Starbucks or outdoors right now all the time, all over the world. An employerrecently told me, his five year old niece is infacuated with watching this seven year old boy,
+named Ryan un-box and play with toys. Here's a little known fact, that seven year old boy
+YouTube Ryan show is called Toys or -- ToysReview, and was the highest worldwide earn on
+YouTube last year, polling in $22 million, according to Forbes.
+No, I'm not kidding. Content creators added stage in format at a desk using PC, using a
+keyboard, a mouse, a webcam and sometimes a microphone. And this is one of the reasons why
+our PC peripherals business has consistently been growing ever since fiscal year 2015. And
+frankly, we've not been specifically designing for that user. And new PC shipments may lag or
+even decline, we expect continued low single-digit growth for this large business going forward.
+Three big secular trends driving our business.
+Now, let's talk about the track record we've built, driving into these trends. We did -- delivered
+another year of exciting growth in Gaming with fiscal '19 sales up 33%, gaining market share and
+improving profitability. Our core PC Gaming Group grew double-digits across all three regions. Or
+ASTRO Gaming expanded our presence into the console headsets space and most recently in
+the console controllers. This offset an expected decline in our Simulation Group, mainly racing
+wheels. That's most of the major racing titles were updated in fall of 2017.
+Gaming, and particularly the Simulation part of the business is seasonal and title driven. What's
+most impressive, though, is our Gaming business still managed to grow double-digits in Q4,
+despite being well into the tough Fortnite growth comparisons from last year. That said, growth in
+ASTRO in fiscal year '20 will be tough to predict, given the unpredicted -- unprecedent growth
+we saw last year. And that's why we expect 15% to 20% growth in total Gaming sales for fiscal
+year '20 versus the 33% we just posted.
+Our growth of Gaming will sometimes be more lumpy, especially by product line, we expect this
+Esports phenomenon to continue to fuel the long-term growth of our Gaming business for many
+years to come.
+Video Collaboration sales grew 44% in fiscal year '19. Sales in this category were practically zero, I
+mean six years ago. Since then, our VC sales have put up a six-year sales, kind of CAGR,
+compound average growth rate of over 50%. We are looking for VC sales growth of 25% to 30%
+for this coming year, you can be sure that I'm pushing the team to outperform that.
+As you've heard us say before, we're continuing to grow and invest in our direct sales force. And
+on top of that, we're also innovating in our product portfolio. Sales of our huddle room MeetUp
+product more than doubled year-over-year. And we showed at our March Analyst Day, our VC
+product portfolio can now address both small hotel rooms and all the way up to large conference
+rooms. What does that mean? It means that our previous average customer hardware price point
+of around $1,000 for MeetUp can now potentially go to $2,000 or $3,000, using our new Rally
+Camera system. All the while expanding our addressable market in those larger rooms, in fact
+Rally has shown early signs of success after its initial launch this past quarter.
+And one of our newest products, the universal meeting rooms control panel tap as already
+created a lot of excitement with customers, and we will be shipping shortly, and I strongly
+encourage you can see the commercial for that it's incredibly good and funny. It's still early days
+for companies to adopt lower cost cloud-base Video Collaboration solutions, and we see years
+of strong runway ahead of us.
+PC peripheral sales increased 7% in fiscal year '19, representing the fourth consecutive year of
+growth with all three product lines Pointing Devices, Keyboards and Webcams delivering growth.creative designer, a social content creator, a student, an investment analyst or somebody else,
+we can achieve consistent growth. Our MX Vertical has become a hit, and it's not only taking
+share in the vertical mouse market, but it's also actually dramatically expanded the size of that
+market.
+Our China team also developed the Slim inexpensive Pebble mouse that strongly resonated with
+millennials in China and It's off to a great start than close to users and using designed unlock the
+power of our engineering has been one of our hallmark capabilities for the last five or six years.
+And we're not letting up.
+Tablet and other accessory sales -- I'm sorry, I'm sorry, Tablet and Other Accessories, sales grew
+for the second straight year up 20%, while we saw decline in Q4, this is due to the timing of our
+introduction of the new Slim Folio, the latest generation of the iPad Pro, which just launched this
+month. As long as the iPad market remains healthy, we'll continue to introduce new products and
+drive growth.
+Mobile Speakers were down 26% for the full year with Q4 sales up 81%. Don't get too excited
+about our strong Q4 growth, we had a very weak fourth quarter for Mobile Speakers last year. So
+I wouldn't view this Q4 performance as a trend. And as we have stated before, the overall mobile
+speaker market remains soft, and so we've taken measures to better align our investments, our
+resources and our channel inventory. But we'll continue to innovate and come out with new
+products and experiences.
+Audio and Wearables sales were up 11% for the year, due largely to our recent acquisition of Blue,
+which contributed roughly 2 percentage points to our overall growth in 2019. We love Blue, and
+we love the Blue team, which delivered another strong double-digit quarter. Excluding Blue, Audio
+and Wearables was down single-digits. We remain excited about the opportunities in the wireless
+earbud market. Jaybird is taking a disciplined approach to carving out its own unique niche,
+building out great products targeted at athletes.
+Now let me talk about the news we announced regarding `Vincent Pilette, Chief Financial Officer, our CFO and my
+partner. He and I are actually, much to your surprise both wearing our jackets today in honor of his
+last earnings call at Logitech. I can't in this call without thanking Vincent for the last six years he has
+dedicated to Logitech as our CFO, and he is one of my closest partners. He was here in the early
+stages of Logitech's turnaround, as where many of you, and played a critical role driving the
+company's transformation, which is the Logitech you know today. The multi-category multi-
+branded design company, the growth company. But more important than the work Vincent did in
+helping us get back to a growth company, is the team he built, and the rigor he is brought to the
+way we work. We now have a strong seasoned finance team across every area and that's the
+most important legacy he will leave.
+We've named Nate Olmstead, who is sitting down the table from me, as our Interim CFO while
+we search for the new CFO. Nate joined us earlier this year from Hewlett-Packard Enterprise, and
+brings over 16 years of deep financial management expertise. Most recently as the Vice President
+of Finance for Global Operations at HP. Vincent and Nate will spend the coming weeks together,
+working on the transition plan and meeting with each of you.
+Now, let me turn the call over to Vincent to walk you through our financial metrics.
+`Vincent Pilette, Chief Financial Officer `
+Thanks, Bracken. For the record, I'm wearing a Jacket but no tie.`Bracken P. Darrell, President & Chief Executive Officer `
+Me too.
+`Vincent Pilette, Chief Financial Officer `
+As Bracken mentioned, we delivered another year of strong financial performance. The sixth one
+to be exact. Fiscal year 2019 sales reached $2.8 billion, up 10% in constant currency, while our non-
+GAAP operating profit rose 23% to $352 million better than we expected. Non-GAAP EPS was
+$2.01, a significant milestone for us, because three years ago, we had laid out the roadmap
+towards doubling EPS to $2, and we did it a year earlier. From here, we will focus on driving
+continued top line growth, diversifying the portfolio and delivering operating leverage as we
+recently raised our long-term operating margin target to 14% on the high end of our range versus
+12.6% in fiscal '19. Our fiscal '19 gross margin reached 37.8%, up 190 basis points at the midpoint
+of our recently raised long-term range of 36% to 40%.
+As you recall from our recent Analyst Day in Zurich, we took up the high end of our gross margin
+target range to 40%, and that is due to three factors. One, is normal cost structure
+improvements, which we will continue to drive for and as you can tell from our margin increases in
+the past few years, we have a pretty good track record of reducing cost faster than natural
+product price decline. The second factor is better product mix, as we shift more into Video
+Collaboration, Gaming and PC peripherals, which all generally have better gross margins than the
+other categories. Finally, the third factor is our desire to transition the business model to a more
+branding and marketing led activities for more promo led demand generation that we have
+mainly used in the past. In that sense, we will be balancing how much we spend in gross to net
+promotions versus what we will spend on marketing OpEx.
+As we continue to build our multi-brand, multi-category portfolio, you can be sure that we will look
+to expand our capabilities around marketing and branding.
+Our non-GAAP operating expenses increased 10% in fiscal '19 to just over $700 million or up
+about 8% excluding Blue. This demonstrates our continued discipline in driving operating
+leverage through balancing our spend with both top line growth and gross margin expansion,
+while continuing to invest to capture our best growth opportunities.
+Our approach is pretty simple. We continuously look to optimize infrastructure spend to invest
+more in building and selling great products. Our sales and marketing and R&D spend were both
+up 12% for the year to support the strong top line growth, while we kept our G&A spending flat
+for the year at a record low 2.9% of sales. And as a result, we delivered better-than-expected
+profits for both Q4 and fiscal '19.
+Now let me talk briefly about our cash flows. Cash flow from operations was $305 million for the
+full year, down from $346 million in fiscal '18. Also cash flow continues to be very strong for the
+company. The decline in cash flows year-over-year was mainly a result of the strategic putting of
+inventory ahead of tariffs, and a more back-end loaded sales in Q4. Overall, though, we continue
+to expect our cash flow from operation to generally approximate one-time non-GAAP operating
+income as shown by the average of the last five years.
+In summary, we feel very good about this past year and the business is well positioned to deliver
+another great year in fiscal year 2020. Finally, as Bracken mentioned, I've decided to leave
+Logitech, full of mixed emotions, of course, but wish tremendous optimism for Logitech and its
+future. We've just delivered our six year of growth. The company is well positioned to deliver onCFO's responsibilities to Nate and pursue a new challenge. I was a shareholder before I joined,
+and I will stay a passionate shareholder and a big supporter of the team moving forward. And
+before I get emotional, let me pass it back to Bracken.
+`Bracken P. Darrell, President & Chief Executive Officer `
+If you believe Vincent ever gets emotional you don't know him well enough. Fiscal year '19
+marked another great year for us. We're well positioned to drive continued growth in fiscal year
+'20, as we continue down our path of being the largest cloud peripherals player. I'm energized
+our plans and I'm energized by our people. We just gave our outlook for fiscal year 2020 in March
+and today we're confirming that outlook. Sales of mid to high single- digits in constant currency
+and non-GAAP operating income of $375 to $385 million.
+And with that, Vincent and I are ready to take your questions. James why don't queue them up.
+Questions And Answers
+Operator
+(Operator Instructions) Your first question comes from the line of `Ananda Baruah, Analyst, Loop Capital from Loop
+Capital. Go ahead please your line is open.
+A - `Bracken P. Darrell, President & Chief Executive Officer `
+Hi Ananda.
+A - `Vincent Pilette, Chief Financial Officer `
+Hi Ananda.
+Q - `Ananda Baruah, Analyst, Loop Capital `
+Hi. Good morning guys and hey Vincent. Yes. So we'll miss -- we'll miss working with you and
+congrats on a job well done. We look forward to seeing you where you land and maybe with any
+luck we can make it three for three. So we'd love to. Yes. So, just with regards to the business. So
+congrats on solid top line, solid results. So quicker look, this is a solid up margin beat. And so just
+sort of philosophically are you guys starting fiscal year '20 from perhaps a little bit of a higher sort
+of higher floor than you thought you might be at the Analyst Day, how should we think about that
+cadence in the context of the fiscal year '20 guide. Then I have a couple of follow-ups. Thanks.
+A - `Vincent Pilette, Chief Financial Officer `
+Yes. Ananda in term of guidance at this point, I mean, it's way too early to change our guidance. I
+think the business overall is performing well. And as we always said, we are operating a little bit
+higher in our gross margin. We would like to have the capability to reinvest, and continue to invest
+for the future. So I would say it's all built in. Going into fiscal '20, we still have many variables like
+either tariffs or currency that we don't control, and so we like to have a lot of variability in our P&L,
+to be able to always deliver on our commitments.
+Q - `Ananda Baruah, Analyst, Loop Capital `
+Okay. Okay, great. And then Bracken on Gaming, can you -- could you just point out, if there is any
+specific catalysts for the year Fortnite has been a really tremendous catalyst for a while now. So
+what do you see as being catalyst post Fortnite and maybe that's not the registered -- right wayextent, if any, you consider Fortnite will still be a catalyst? And then I have one more after that.
+Thanks.
+A - `Bracken P. Darrell, President & Chief Executive Officer `
+Okay. Yes, Fortnite. Well, first of all, I think the primary catalyst is the -- and the catalyst maybe an
+interesting word to you use for it, but is the underlying secular trend that's just happening. The
+growth of Esports, the excitement around Esports and then as you said, the launch of new games
+is always going to be a big deal, but remember the underlying continued growth of the existing
+games is still continues to be really exciting. So I'm not sure I -- you could point at this point of the
+year to a single catalyst that will drive the short-term, but the long-term secular trend is -- seems
+kind of almost inevitable to me. And so new games are coming at all the time. The Game
+publishers don't sit on their hands. When Fortnite came out and created such a wave the
+Activision Blizzard and Electronic Arts and so many others have been doubling down on creating
+new games and you're starting to see them come out. So I think it's -- I think we'll have all kinds of
+surprise in the Gaming business, but even if we don't, the secular trend will just continue.
+Q - `Ananda Baruah, Analyst, Loop Capital `
+Okay, great. And just -- is it, as we see more Gaming services enter the market, and some of
+them also -- are also now sort of not surprisingly targeting increasingly sort of some of the larger
+phones and from a couple different service providers, is there an opportunity long-term or even
+in the medium term for you guys to come out with product that might serve as an interesting
+alternative to just sort of in the normal earbuds for folks for that market?
+A - `Bracken P. Darrell, President & Chief Executive Officer `
+Well you know, we tried to comment about specific categories and we might have playing it, but
+what I would say is you referenced something else, I do want to jump on, which is the creation of
+new services like cloud-based services that enable you essentially have a mega PC experience,
+without the PC on your desk or another growth enabler for us, because you continue to need a
+headset, the keyboard and a mouse so this is a super exciting thing for us and we've seen this
+coming. It started with some start-ups and that's going to Microsoft and Apple and others. So I
+think that's going to be exciting.
+In terms of mobile gaming in general, mobile gaming continues to be a huge and growing, and
+we certainly think there are in interesting places to play in there, and obviously headsets are
+more part of this. Some of our products are probably already used for some of the mobile
+gaming. But we haven't directly targeted that yet. And it is an interesting area.
+Q - `Ananda Baruah, Analyst, Loop Capital `
+Okay, great. That's helpful. And then last one from me. Video Collaboration, did I hear you
+accurately Bracken, you said you guys are targeting 25% to 30% growth for the year, and this is
+the first time you've disclosed that if I heard that right. The fiscal year '20 or was that actually a
+target or is that actually from the -- at the Analyst Day as well?
+A - `Bracken P. Darrell, President & Chief Executive Officer `
+No, Yes, we disclosed at the Analyst Investor Day. So that's not a new number. But we -- the real
+point I was making there was, it's really -- at this point, it is little hard to get too specific on it, but
+we're excited about Video Collaboration. I think we're the only building I ever go into this is video
+enabled as the future will be in every building.Operator
+And your next question comes from the line of...
+A - `Bracken P. Darrell, President & Chief Executive Officer `
+By the way -- by the way Ananda I went to this really cool company whose average age is
+probably 28, that has a lot of employees, not too long ago and I won't to mention who it was,
+and it blew my mind. That I walked through their building and there were so many in close basis. I
+mean it looked like ours in that regard as an open office. And so few, in fact I didn't see any video
+enabled spaces except the boardroom, which is just or maybe, maybe one or two of the larger
+and so the opportunity is so big. Thanks Ananda.
+Operator
+And your next question comes from the line of `Asiya Merchant, Analyst, Citigroup from Citigroup. Go ahead please.
+Your line is open.
+Q - `Asiya Merchant, Analyst, Citigroup `
+Hi. Good morning everyone and thank you. And Vincent, we'll miss you as well. But good luck on
+your next venture. A quick question, you know, now with probably the CFO search underway, and
+I know you have an Interim CFO here, how should we think about acquisitions? I mean in the past
+couple of years, you guys have done smaller acquisitions and they've obviously contributed to the
+top line. So should we assume there's a little bit of a step back from these little acquisitions that
+you might have considered prior to Vincent's departure?
+A - `Bracken P. Darrell, President & Chief Executive Officer `
+No. I wouldn't assume that at all. We're always looking and we'll keep looking. I think, it would be
+crazy for us to stop doing what we do well. Vincent's leaving but Vincent's left a great team
+behind, I mean Nate's going to be terrific and we're not letting up on anything at all.
+A - `Vincent Pilette, Chief Financial Officer `
+And if I can add especially in acquisition, but it's actually true in every discipline. It's really a team
+work between the business development team, the strategic team, Bracken's involvement, mine,
+the general managers and so especially in the M&A, it is really a broad effort, the CFO is
+definitely part of that, but not the only player.
+A - `Bracken P. Darrell, President & Chief Executive Officer `
+But I would say we -- we've done acquisitions and they get more focus for all the right reasons.
+We're really an organic growth company, and we've -- we're, first and foremost an organic
+growth company. If you look at VC and Gaming and PC peripherals, really underneath all that is an
+innovation engine, that is the key to this business, but we're going to continue to do acquisitions.
+Q - `Asiya Merchant, Analyst, Citigroup `
+Okay. And then just a couple of follow-up. In your quarter there was some commentary in the
+prepared remarks that there were some linearity in the intra-quarter that suggest it was back end
+loaded, so what is the surprise there? And then as a follow-up to that, at your Analyst Day you
+talked about mid to high single-digit, keeping in mind some of the macro factors that were outthere, perhaps the Fortnite factor as well. Has anything evolved from that line? Anything that has
+surprised you to the upside or to the downside?
+A - `Vincent Pilette, Chief Financial Officer `
+Asiya quickly on linearity. No, it was not a surprise since we talked last which just at the AIG. If you
+remember backing the last calendar quarter Q4 Christmas quarter there was a lot of volatility and
+in January the business of the quarter started slow, and then ramped up faster than last year and
+finished strongly in March and I think that caused some of the AR and cash collection to be
+delayed into the next quarter. That's what we were referencing too.
+A - `Bracken P. Darrell, President & Chief Executive Officer `
+Yes. In terms of, is there anything we've seen since then, it's so early in the year. It's really hard.
+It's really too early for us to comment on it. The economic environment or any of that stuff, so it's
+just too early. We have eleven months to go.
+Q - `Asiya Merchant, Analyst, Citigroup `
+Okay, great. And cash conversion cycle as we revert back to perhaps more linear quarters and
+should we expect that to revert back to what has been a historic norm ex the ASC 606 impact?
+A - `Vincent Pilette, Chief Financial Officer `
+Yes. Absolutely, yes.
+Q - `Asiya Merchant, Analyst, Citigroup `
+Okay. All right, thank you gentlemen.
+A - `Vincent Pilette, Chief Financial Officer `
+Yes.
+A - `Bracken P. Darrell, President & Chief Executive Officer `
+Thank you Asiya.
+Operator
+Your next question comes from the line of `Andreas Mueller, Analyst, ZKB from ZKB. Go ahead please. Your line
+is open.
+A - `Bracken P. Darrell, President & Chief Executive Officer `
+Hi Andreas.
+A - `Vincent Pilette, Chief Financial Officer `
+Hi Andreas.
+Q - `Andreas Mueller, Analyst, ZKB `
+Hello. Thanks for taking my question and good luck Vincent. We miss -- going to miss you. A
+question on the inventories. How do you see the progression of the inventories in the next
+quarters. Are we on the level now that is good enough to protect from the tariffs?A - `Vincent Pilette, Chief Financial Officer `
+Yes. I think as you know, we mentioned in our prepared remarks that we put in some inventories
+to protect against tariffs. It's not clear yet what tariffs will be in the future, but on the current
+assumptions I think we are stabilized, if you want and will burn of that inventory that we put in
+advance. It was the right economic decision using our balance sheet as the strength for that.
+Q - `Andreas Mueller, Analyst, ZKB `
+Okay. Then on -- and then on the operating cash flow, can you give us the absolute size of the
+operating cash flow that was impacted by this back-end loaded quarter?
+A - `Vincent Pilette, Chief Financial Officer `
+Overall, about $40 million impact and about half of it from inventory pulling and the half on
+linearity.
+Q - `Andreas Mueller, Analyst, ZKB `
+Then my last question. Can you dissect the gross margin uplift of this 160 basis points in the --
+into the fact that currency product mix, cost savings, China tariffs and also could you indicate how
+these single factors are going to progress into Q1?
+A - `Vincent Pilette, Chief Financial Officer `
+Yes. So no, Andreas, I'm not going to go into my long, very detailed spreadsheet analysis here on
+the call to give all of the drivers. We always said, we have multiple drivers on the gross margin.
+We've been trending above 37% for the full year and Q4 is slightly above that, but in line with
+everything we said there. And all three factors were favorable to gross margin, which was cost
+reduction mix overall and the reduction of promo and more marketing expenses. Those trends
+will continue going into fiscal year '20. You should expect the gross margin in the first quarter
+here to be a little bit weaker considering that there was more currency impact at this point in
+time, which is the euro being at around $1.12 in exchange rate. So that's -- that's -- but overall for
+the year we will be on a solid footing, and the three factors I've mentioned will continue to drive
+gross margin up.
+Q - `Andreas Mueller, Analyst, ZKB `
+Okay, great. Thanks a lot and good luck Vincent.
+A - `Vincent Pilette, Chief Financial Officer `
+Thank you.
+A - `Bracken P. Darrell, President & Chief Executive Officer `
+Thanks Andreas.
+Operator
+Your next question comes from the line of `Jurgen Wagner, Analyst, Mainfirst Bank from MainFirst Bank. Go ahead please.
+Your line is open.
+A - `Bracken P. Darrell, President & Chief Executive Officer `Hello Jurgen.
+Q - `Jurgen Wagner, Analyst, Mainfirst Bank
+Yes. Hi.
+A - `Vincent Pilette, Chief Financial Officer `
+Hi Jurgen.
+Q - `Jurgen Wagner, Analyst, Mainfirst Bank
+Thank you for taking my question. Actually, I have two sell-through weakness in Europe. Is that
+going to reverse, you had some volatility in the past. Is it just normal fluctuation. And the second
+question would be, and yes you talked a lot about video in your prepared remarks, and now that
+the market is evolving and you are broadening your footprint we hear from others that they might
+see degrowth there. So how do you see your comp -- you're positioning and the competitive
+environment developing going forward, also because it's a high gross margin business for you. Is
+it staying amongst the highest gross margin product for you? Thank you.
+A - `Bracken P. Darrell, President & Chief Executive Officer `
+Yes. Let me take the last one first. I'll let Vincent take the first one last. So I think the video, as I
+mentioned, I think the video opportunity is so big that it's really, we're going to see strong growth
+in spite of what happens from a competitive standpoint and from a gross margin standpoint. I
+don't think there's any reason to think that the gross margin will be impacted by competitive --
+the competitive environment. I think from what I can see there can be gross margin profiles of the
+competitors who have looked a lot like ours. So at least in the same vein. So I doubt it. I think the
+opportunity is really, really big for many companies and competitions great. Competition drives
+growth. It will drive more awareness in the market, and I think you'll see those other 95% of
+rooms come into video faster.
+A - `Vincent Pilette, Chief Financial Officer `
+So I will address the inventory and thanks for your question because there is a few analysts
+writing about that based on the reports we had put on our website. So, overall the selling gross
+rate or the net sales growth rate as you know is 5% in US dollars. The sell-through that you
+mentioned on a global basis is 4% excluding Blue and 6% including Blue. Overall the business
+channel inventories well positioned slightly less than revenue growth. So we feel good and we
+saw an end slightly down. So well positioned going into the first quarter of the next fiscal year.
+As you have seen on the reported it's align in both Americas is actually even more favorable in
+the Asia-Pacific. And then in Europe, we have a little bit higher sales-in than sell-through and the
+thing to consider is really this reduction of promotions into marking up facts that's impacting the
+net sales-in but not reflecting in the sell-through. On the constant currency basis, sell-through in
+Europe was around 6% to 7% growth, and we feel pretty good about where we are in the
+channel there.
+Q - `Jurgen Wagner, Analyst, Mainfirst Bank
+Okay. Thank you.
+A - `Bracken P. Darrell, President & Chief Executive Officer `Thanks. Jurgen.
+Operator
+Your next question comes from the line of `Paul Chung, Analyst, JP Morgan from JP Morgan. Go ahead please. Your
+line is open.
+A - `Bracken P. Darrell, President & Chief Executive Officer `
+Hi, Paul.
+Q - `Paul Chung, Analyst, JP Morgan `
+Hi Bracken. Thanks for taking my question. And thanks, Vincent, you will be missed for sure. So
+first up on Video Collaboration, are you starting to see more competition on the huddle room
+side and then secondly, how's your progress been on kind of attacking the larger conference
+rooms and gaining share there. And what's your kind of go-to-market strategy? And then, any
+sense of revenue potential there would be great?
+A - `Bracken P. Darrell, President & Chief Executive Officer `
+Okay. On the competition on the huddle room side. Yes, absolutely, we are definitely seeing it's
+been out there and we've got several really good competitors in the huddle room space now.
+And as I said, as part of the earnings call I think competition -- I don't want to sound too polygon
+[ph] here but competition is good. I mean if you don't have competition, you don't have nearly
+the market growth potential, because competition drives communication in the market of the
+opportunity, and it will drive the market growth. So I think the -- more players in there is a good
+thing overall and it puts pressure on us to innovate and do -- and innovate well and that's what
+we're up to. So I'd say so far we continue to be excited about the potential there in line with what
+where we were before, but I think the market will be interesting to watch over time.
+In terms of the large room, I spoke to early, we just launched Rally, we've had something that you
+could use in the large room, but I'm sure we'll do better than we had been in those large rooms
+that we have and I wouldn't try to quantify exactly what that is. I think there's just opportunity
+across the board.
+Q - `Paul Chung, Analyst, JP Morgan `
+Okay. And then on the ZOOM wireless headset, seems like a nice cross-sell opportunity in the
+enterprise space. So first, is this going to be classified in VC or Audio Wearables and then
+second, what's your strategy to gain market share there any kind of potential you see as well?
+A - `Bracken P. Darrell, President & Chief Executive Officer `
+That's going to be an Audio Wearables. And it's a first really attempt to get some experience into
+that marketplace. I don't want to overstate its potential. I think it's a terrific product, but it's the
+first and I would say really small step into exploring what it's like to be in that space and we're
+going to see how it feels like we did with video conferencing, six years ago. We got in the front
+door, it's kind of warm inside, and then we continue to walk inside and we're doing the same
+thing there.
+Q - `Paul Chung, Analyst, JP Morgan `Okay. And then lastly, just want to get your sense on keyboard and pointing devices still remains a
+$1 billion business itself. So you continue to exceed expectations in this segment pretty
+consistently. It's pretty nice low mid single-digits there. Just can you expand on what's been
+driving your success there, whether it's ASPs, certain regions, and kind of your longer-term view
+of the segment will be very helpful. Thank you.
+A - `Bracken P. Darrell, President & Chief Executive Officer `
+Yes. It's really, it's really a global thing just like the underlying secular driver of that is a global
+thing. And then underlying secular driver is the fact that so many people are using their PC for
+more than they used to in the past, and they're using it for content creation. So again that might
+seem like a different go path explain how those two are connected but if you just think about the
+way a lot of people are creating content, not doing on their phones or doing at a desk, so doing
+on desk, they are doing with the PC and therefore, it's important part of their lives. I think that's
+really what's happening as long as we innovate and there are different innovation vectors that we
+can go after than we are. So the vertical mouse we launched two quarters ago or the end of the
+quarter before last, is another interesting one where people are using -- continue to use their PC
+so much that they get competitive user injuries and healthy computing is a big deal.
+And it's a really big deal in the Nordics, it's becoming a big deal in Europe and it's starting to pick
+up stream here. So we've got different things that can drive and will drive and are driving that
+growth. And I think we continue to see that as we said, I can think we continue to see low single-
+digit growth for the foreseeable future.
+Q - `Paul Chung, Analyst, JP Morgan `
+Great. Thanks and good luck Vincent.
+A - `Vincent Pilette, Chief Financial Officer `
+Thanks, Paul.
+A - `Bracken P. Darrell, President & Chief Executive Officer `
+Thanks, Paul.
+Operator
+(Operator Instructions) Your next question comes from the line of `Joern Iffert, Analyst, UBS from UBS. Go
+ahead please. Your line is open.
+Q - `Joern Iffert, Analyst, UBS `
+Hi. Hello Bracken, hello Vincent. Vincent we will for sure miss you hopefully, lots I get from missing
+you at some point in time. And quickly following up on Gaming, please. And your competitor
+Turtle Beach I think is guiding down their sales target by around 20% because they think this
+lower demand on the headset side. Are you also seeing similar trends or if not, what explains the
+difference and Bracken when you said Gaming can be sometimes a bit lumpy, does it mean that
+for example Q4 with plus 30% is kind of lumpy? Or can you also mention some point in time in
+the quarter Gaming is falling to flattish or plus 5% growth in the next one or two years?
+A - `Bracken P. Darrell, President & Chief Executive Officer `I think you can see that in the quarter. I think lumpy in terms of different categories grow at
+different rates, sometimes Simulation will be down, like it was this quarter and sometimes others
+will offset it. But yes, I think Gaming could be lumpy like that. I think you could see a drop down
+and be flat or single-digits or low-double digits. But I think the -- and what Turtle Beach I think
+guided, I didn't look closely at, but I would guess they are referencing the Fortnite affect.
+Remember they are completely in the Fortnite business from the headset business. So we're in a
+lot of other categories as well. So we'll decline 20% will it be flat or grow 10%, the headset
+business, especially related, who knows.
+I mean at the end of the day I think we've got enough tools in our arsenal that we're going to be
+able really drive good solid growth in spite of whatever that is. But I think the reality is, whatever
+happens with the Fortnite effect remember there are new games coming on. There look like
+they're on track to be as big as Fortnite, those are lot of stuff coming. I admire their conservatism.
+And I think they're probably right to do it if they're only in the headset business. But we're in mice
+and keyboards and headsets and Simulation, a lot of categories.
+Q - `Joern Iffert, Analyst, UBS `
+All right, thanks. And would you say that Gaming guidance of 15% to 20% is this back-end loaded
+in fiscal year '20?
+A - `Vincent Pilette, Chief Financial Officer `
+No, it's partly regular through the year. And I just want to just add on Bracken's comments right so
+the diversification of our entire portfolio has been definitely a strength for us. Right. And we've
+been growing double-digit for three years at almost every quarter, we had the weakness in one
+specific category. We think Gaming now would become, as we discussed, like a pretty substantial
+business by itself. We have its own set of diversification and any quarter a subcategory of the
+Gaming business we have could be in a weaker position.
+And when Bracken mentioned choppiness or some volatility, maybe we could see one quarter
+5% is we are talking about a quality basis, we are not managing our core basis, we're looking at
+long-term trends and in the guidance we gave at the March, AIG, we definitely were cautious on
+the Fortnite effect and post Fortnite effect, I want exactly say what cautious means, but we were
+prudent going into the fiscal year '20.
+A - `Bracken P. Darrell, President & Chief Executive Officer `
+Yes. I just want to echo the comment that Vincent just made about our portfolio. I think one of the
+-- it's really been such a good event for us to be in so many different categories. I think, by the
+way that I count them now, we're in either 26 or 27 different categories. Some of those are
+Gaming, some of those are Video, so it's a nice situation for us because, and if you combine that
+with the fact that we are super, super global company with lots of market participation to, it does
+buffer us from the short terms ups and downs of a single category like that.
+Q - `Joern Iffert, Analyst, UBS `
+All right. Many thanks.
+A - `Vincent Pilette, Chief Financial Officer `
+Thank you.Thanks Joern.
+Operator
+Your next question comes from the line of `Michael Foeth, Analyst, Vontobel from Vontobel. Go ahead please. Your
+line is open.
+A - `Bracken P. Darrell, President & Chief Executive Officer `
+Hi Michael.
+Q - `Michael Foeth, Analyst, Vontobel
+Yes, hi, thanks. Just one left from me actually. I was just wondering the sort of relative weakness
+in comparison to past quarters that you reported in Asia. And I think you pointed specifically to
+Australia. If you can explain again what that is related to. If it's really general trend or is it related
+to some particular product category. And then, I'm not sure I understood exactly the difference
+between the -- in EMEA between the sell-through and the entity and the reported sell-in growth.
+If you can just explain that promotional driver there once again? Thank you.
+A - `Bracken P. Darrell, President & Chief Executive Officer `
+Let me take the first on and let Vince take the second one again. In Asia-Pacific, yes, we
+referenced that Australia-New Zealand had a strong slowdown in Q4 and I think that's, they tend
+to give the sort of the delayed effect on the rest of the world, and some of the categories we
+are in there also very, very large and music. So they are big music business for us. I think you -- the
+combination of being a very large music business, and then a delay in the slowdown in the market
+of bluetooth speakers, they sort of saw it this quarter. So that was the biggest driver.
+But I do think Asia-Pacific will be slower growth, than it's been in the past. And we have this
+portfolio of regions too, where we've been growing 20%, 19%, 20%, 21% in Asia-Pacific, I think
+you'll see that come down for this year and still I think be strong double-digits but it will -- I think it
+will come down, and I think that's sort of what we would expect. And I -- and, but, so the Asia
+thing was this quarter's issue, and I think that will kind of flow through, but I think Asia-Pacific in
+general will be lower as Europe comes up and hopefully EMEA comes up.
+A - `Vincent Pilette, Chief Financial Officer `
+Michael, let me say high level on sell-through and then we can always follow-up in our one on one.
+So when you look at sell-through report we posted on our website versus net sale, there are
+three factors you need to keep in mind. The first one is the constant currency versus US dollars
+sell-through that we reported is reported to us is in US dollars. So you need to compare that to
+the right course rate. The second one is that sell-through does not include Blue yet, as we have
+not fully integrated that business into that sell-through report you see one coming from third-
+party. And then the third driver is this reduction of contract revenue or gross to net and sell-
+through is on the gross level and net sales is all inclusive. And then I'll be happy to follow on more
+technical answer, when we have our one on one.
+Q - `Michael Foeth, Analyst, Vontobel
+Sure. Thanks a lot.
+A - `Bracken P. Darrell, President & Chief Executive Officer `Thank you. Thanks, Michael.
+Operator
+And there are no further questions at this time. I'd like to turn the call back over to our presenters.
+A - `Bracken P. Darrell, President & Chief Executive Officer `
+Okay. Well I want to finish on two things. One is, we're -- we just finished a great year and we are
+starting a new one and that's always really exciting and we're excited about the year. I want to
+congratulate Nate. I think he is going to be instrument terrific and he has to be sitting close to me
+right now. We didn't put him on the hook today, but we will next quarter. And I want to again thank
+Vincent. It's rare to find a partner who shares your ambition as completely as Vincent did with me,
+and the good news is, there are others here who do as well. And I don't think he is leaving
+anything but a company, that's so much stronger than when he arrived, and we continue and we
+will continue to double down on what we've already built into the future.
+So good luck, Vincent. Thanks everyone for attending the call.
+Operator
+This concludes today's conference. You may now disconnect.

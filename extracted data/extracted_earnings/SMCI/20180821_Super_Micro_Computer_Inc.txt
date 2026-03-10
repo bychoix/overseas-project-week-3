@@ -1,0 +1,356 @@
+Q4 2018 Earnings Call
+
+Operator
+Good day ladies and gentlemen. Thank you for standing by. Welcome to the Super Micro
+Computer Incorporated First (sic) [Fourth] (00:00:09) Quarter Fiscal 2018 Business Update
+Conference Call. The company's news releases issued earlier today are available from its
+website at www.supermicro.com.
+During the company's presentation all participants will be in a listen-only mode. Afterwards,
+securities analysis will be invited to participate in a question-and-answer session, but the entire
+call is open to all participants on a listen-only basis. As a reminder this call is being recorded,
+Tuesday, August 21, 2018. A replay of the call will be accessible through midnight, Tuesday
+September 4, 2018, by dialing 1-844-512-2921 and entering replay pin 3269159. International
+callers should dial 1-412-317-6671.
+With us today are `Charles Liang, Founder, Chairman, President & Chief Executive Officer, Chairman and Chief Executive Officer; Kevin Bauer, Senior Vice
+President and Chief Financial Officer; and Perry Hayes, Senior Vice President, Investor Relations.
+And now I would like to turn the conference over to Mr. Hayes. Mr. Hayes, please go ahead sir.
+`Perry G. Hayes, Senior Vice President-Investor Relations `
+Good afternoon and thank you for attending Super Micro's business update conference call for
+the fourth quarter fiscal 2018 which ended June 30, 2018. During today's conference call Super
+Micro will address the current state of the company's efforts to file its delinquent SEC filings, the
+business and market trends from the fourth fiscal quarter of 2018 and the company's estimated
+financial results for the fourth quarter and for fiscal year 2018.
+References to any financial results are preliminary and subject to change based on finalized
+results contained in future filings with the SEC. By now, you should have received a copy of two
+news releases from the company that were distributed at the close of regular trading and are
+available on the company's website.
+Before we start, I'll remind you that our remarks include forward-looking statements. There are a
+number of risk factors that could cause Super Micro's future results to differ materially from our
+expectations. You can learn more about these risks in the press release we issued earlier this
+afternoon, our most recent Form 10-K and our other SEC filings. All of those documents are
+available from the Investor Relations page at Super Micro's website.We assume no obligation to update any forward-looking statements. Most of today's
+presentation will refer to non-GAAP financial results and outlooks. At the end of today's prepared
+remarks, we will have a Q&A session, which sell-side analysts will be permitted to ask questions.
+I'll turn the call over to Kevin Bauer, Chief Financial Officer.
+`Kevin S. Bauer, Chief Financial Officer & Senior Vice President `
+Thank you, Perry, and good afternoon. Today is a frustrating day because our very good quarterly
+results are overshadowed by the news of our filing status. We remain undeterred in our efforts to
+complete our financial reports. We have worked diligently and deployed significant resources
+towards completing the 2017 and 2018 financial statements, but are not able to file by the
+deadline of August 24, 2018. This was the deadline given to us by the Nasdaq appeal panel when
+they granted the company an exception to the listing standards requiring timely filing of SEC
+reports. We have made tremendous progress on this matter, having completed the analysis of
+specific revenue transactions identified through our audit committee's investigation.
+To-date, our cash flows have not been impacted by our findings and no transaction reviewed by
+the company as part of this process has involved revenue that could not ultimately be recognized
+nor have we concluded that a restatement of financial results is necessary. The question you must
+be asking is; why is this matter taking so long. The answer is that in order to be thorough, we are
+reviewing transactions near the end of each quarter for similar issues found in the earlier testing,
+but particularly as it relates to the matching of purchase order and shipping terms to the timing of
+revenue.
+As we are a high-volume business, this entails locating documentation that is onsite, archived, or
+at third-parties. I'm (00:04:53) reviewing thousands of revenue transactions in detail using a
+structured approach. There are a number of issues. However, let me share an example of an
+issue that has arisen in our reviews.
+We have from time to time offered free shipping to customers even though terms of our
+agreements with those customers provided that the customer would arrange for its own shipping
+company to pick the products up at our factory shipping dock. This practice had the unintended
+accounting consequence of converting the transaction from an Ex Works transaction to an FOB
+transaction. If end-of-quarter shipments are adjusted in this way, it can cause the appropriate
+date for recognizing the revenue for those shipments to slip from one quarter into the next. This
+is one example of what we are looking for as we review thousands of transactions.
+The company believes the revenue recognized for review transactions is valid revenue. The main
+issue is the quarter in which revenue must be recognized. We have not yet determined whether
+the magnitude of any timing adjustment will be material to any of our previously filed financial
+statements.
+We continue to work diligently to complete the review, assess the impact, and complete our
+financial statements and assessment of internal controls over financial reporting. We have
+engaged KPMG to assist us with our review and we are also working closely with our independent
+auditor, Deloitte, to complete the job. We appreciate the efforts of both KPMG and Deloitte.
+Finally, we are also working closely with the agent of our bank group to inform on the testing
+process, as well as our progress toward completing all the SEC filings. As a result, we expect to
+continue to have adequate lines of credit to fund the continued growth of the company. We are
+not able today to project the date by which we will complete this review and file all our delinquentSEC reports, but we believe that date is not too far in the future. Thankfully, our business remains
+healthy and it has grown during this time as the results of our fourth quarter reflect.
+Turning to a brief overview of our financial performance during the fourth quarter of 2018, Super
+Micro had strong fourth quarter revenue and net profit. We estimate fourth quarter revenue was
+in the range of $986 million to $996 million. It was approximately 39% higher year-over-year. With
+this strong quarterly revenue, we achieved a fiscal year revenue of approximately $3.3 billion. We
+estimate fourth quarter non-GAAP fully diluted earnings per share within the range of $0.75 to
+$0.79.
+We grew revenue in all market verticals with key markets growing significantly year-over-year.
+Global 2000 more than tripled your year-over-year. Internet data center more than quintupled
+year-over-year and non-Internet data center grew nearly 50% year-over-year. Accelerated
+computing was up over 90%, Embedded grew 20%. Storage and Channel were up 9% and 3%
+respectively.
+On a year-over-year basis, the U.S. enjoyed the highest growth of 48% followed by EMEA that
+grew 28% and Asia-Pac that was up 24%. Other regions grew 56%. Our estimated range of gross
+margin on both a GAAP and non-GAAP basis was from 12.8% to 13%. Our customer mix primarily
+affected margin this quarter. We estimate non-GAAP EPS range this quarter was $0.75 and $0.79,
+which was a record high and almost doubled year-over-year.
+For the fourth quarter, we estimate cash generated from operations was $38 million. After
+deducting CapEx of $8 million, we estimate free cash flow of $30 million for the fourth quarter.
+Last quarter, we mentioned our effort to manage our working capital. This quarter we reduced
+our cash conversion cycle to 82 days from 99 days in the prior quarter.
+We achieved improvements in days sales outstanding due to collections and improved shipment
+linearity and reduced inventory days by being more precisely (00:09:22) timing purchases that
+was offset by reducing days payable. All in all our business is strong and we improved
+performance while working diligently to come current on filing our financial reports.
+Let me now turn it over to Charles for his comments.
+`Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+Thank you, Kevin, and good afternoon, everyone. Despite our substantial effort and progress to
+complete our SEC filings, I'm very disappointed that we did not meet the filing deadline.
+Personally, I cannot convey how much pain I feel in this unfortunate development. This, however,
+does not affect my confidence in Super Micro's strong foundation.
+In the meantime, we are achieving record-high revenue and profit and continue to introduce new
+and better (00:10:15) product innovations. We are committed to completing our SEC filing as
+soon as possible and making sure this problem will never happen again.
+Completion of the audit is the first step. We have been investing to further improve our people
+skill, process and tools to meet the highest financial standard and to meet the need of a rapid
+growing U.S.A.-based global technology company. We need to make sure our infrastructure has a
+strong asset that accelerates our growth and deliver broadest (00:10:56) customer experience. A
+change is being made already improve our business operations. We add new management
+across the business and financial operations for the company.
+My enhanced team fully is (00:11:12) aware of industry knowledge and experience in large scaleAudit and strengthen our revenue recognition team. Our company is (00L11:31) almost 31% in the
+last year despite the disruption caused by the continuous (00:11:39) delay to our 10-K filing.
+Today, Super Micro's business and product technology leadership has never been stronger.
+Our fourth quarter revenue will be in the range $986 million to $996 million, approximately 59%
+higher year-over-year and was a new record high. With this strong quarterly revenue, Super Micro
+surpassed $3.3 billion for fiscal 2018.
+Record revenue and profit are strong indicator our continued success of our product and much
+focus. We continue to expand our technology leadership with new products that deliver game-
+changing performance. Our multiple-node BigTwin system saw tremendous uptake from hyper-
+converged systems and big data applications. For AI, machine learning, we have partnered with
+NVIDIA to (00:12:46) most powerful platform that combines (00:12:58) Tesla V100 GPU into 2
+PetaFLOPS SuperServer. Partnering with Intel is essential (00:12:58) we delivered a new class of
+high data throughput (00:13:05) that can deliver up to a petabyte of high performance all-flash
+NVMe storage and a compact 1U system and can deliver up to 18 million IOPS.
+I am more confident about our business and technical opportunities (00:13:24) at any time in our
+25-year history. We are clearly focused on meeting our obligation for SEC reporting and
+operating a world-class business. We have many great things going on at Super Micro as we
+continue to bring to market our new innovation.
+The resource-saving economics are enabling great opportunities for us, especially for the
+upcoming 5G transition, enterprise Global 2000 and AI Machine Learning. I look forward to
+sharing more of these exciting opportunities (00:14:05) in future quarters.
+And now, I will hand over to Kevin.
+`Kevin S. Bauer, Chief Financial Officer & Senior Vice President `
+As indicated previously, we will have a Q&A session with sell-side analysts who will be permitted
+to ask questions. I would like to remind you that your questions should be directed to the
+business update that we have just provided. We may decline to answer questions relating to the
+audit committee investigation or the delayed filing of our 10-K because of pending litigation.
+Operator, at this time, we are ready for questions.
+Q&A
+Operator
+Thank you, sir. Ladies and gentlemen, our question-and-answer session will be conducted
+electronically. And we'll go first to Nehal Chokshi with Maxim Group.
+Q - `Nehal Sushil Chokshi, Analyst, Maxim Group LLC `
+Thank you, and really phenomenal results. But, Kevin, as you know, the stock is reacting to
+delayed filing and really great color on some of the examples that's going on. You made a
+statement at the end that you believe that the ability to solve these problems (00:15:47) is not
+too far away, but in the second press release of the day it does say that there is still significant
+work to do. So can you help bridge the delta between the verbal comment and what's in the file –
+in what's the 8-K?
+A - `Kevin S. Bauer, Chief Financial Officer & Senior Vice President `Yeah. So I think it is true that we still have a substantial amount of work to do. I think what we said
+in terms of being able to see it in the future is that now that we are later in the process we
+actually have pretty good visibility on what it takes to remain to be able to complete the process.
+So that's how I would string them together that it's one of better visibility, but there's still a fair
+amount to do.
+Q - `Nehal Sushil Chokshi, Analyst, Maxim Group LLC `
+Okay. So the process that was defined on what needs to be done to review a transaction was
+established relatively late relative to when the investigation started about a year ago. Is that fair
+to say?
+A - `Kevin S. Bauer, Chief Financial Officer & Senior Vice President `
+Well, certainly, as the results of the investigation came in, we were able to see a little bit more in
+terms of the processes that we would needing (00:16:54) to do. So certainly it was evolving.
+Q - `Nehal Sushil Chokshi, Analyst, Maxim Group LLC `
+Okay. And just to be clear, you said significant transactions left for review, but you've already
+reviewed hundreds of transactions. So are you only a fraction of the way through? Are you like
+10% to 20% the way through or are you more like 80%, 90% the way through of what needs to
+be reviewed?
+A - `Kevin S. Bauer, Chief Financial Officer & Senior Vice President `
+Yeah. We really can't go into that level of detail. What I can share with you is that we've taken the
+approach of largest transactions and are now going towards smaller transactions.
+Q - `Nehal Sushil Chokshi, Analyst, Maxim Group LLC `
+Okay. Understood. So on to the fundamental stuff: at the midpoint for the June quarter you had
+25% Q-o-Q growth and that's about 1,000 basis points above your typical seasonality. And you
+did see gross margin tick down a bit Q-o-Q. So, can you parse that between potential drivers of
+mix, component input costs, compare pricing, and then an upside lever that all these three should
+be also offset, so I think should have been volume as well. So, maybe you can also comment on
+how much of a positive effect volume would have been if the other three items were held
+constant?
+A - `Kevin S. Bauer, Chief Financial Officer & Senior Vice President `
+That's a lot. So, I'll tell you that we are certainly aware of the fact that the industry is growing. We
+are benefiting from that. We are happy with the significant enterprise wins that we are getting. I
+will share with you that as I looked at the margin mix, a lot of it had to do with just the quarter-
+over-quarter mix in terms of some of our customers. So, some of that is related to the products
+that they buy; others are related to the aggressiveness sometimes that we have on larger deals.
+So, I think that's – those were the two primary factors.
+Q - `Nehal Sushil Chokshi, Analyst, Maxim Group LLC `
+Would you say that the pricing environment has become more competitive relative to a quarter
+ago?
+A - `Kevin S. Bauer, Chief Financial Officer & Senior Vice President `I wouldn't say that universally. No.
+Q - `Nehal Sushil Chokshi, Analyst, Maxim Group LLC `
+Okay. Thank you. I'll get in back in line. I do have a lot more questions, but I'll allow (00:19:06)
+other people to ask questions. Thank you.
+A - `Kevin S. Bauer, Chief Financial Officer & Senior Vice President `
+Thank you.
+Operator
+We'll go next to Aaron Rakers with Wells Fargo.
+Q - `Jake Wilhelm, Analyst, Wells Fargo Securities LLC `
+Hi. This is `Jake Wilhelm, Analyst, Wells Fargo Securities LLC on behalf of Aaron Rakers. Congrats on the strong results. I was
+wondering if you could give me some color on what you are seeing with AMD's traction with their
+FX line (00:19:30)?
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+Yeah. You see the AMD (00:19:34) has been getting popular. And we ship kinds of much more
+quota (00:19:39) than last quarter. So that change should be continued early (00:19:42).
+Q - `Jake Wilhelm, Analyst, Wells Fargo Securities LLC `
+Thank you. I was also wondering if you could give me some color on Intel's Optane product and
+the traction you're seeing around that with Intel's 10-nanometer challenges?
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+Yeah. We continue to ship Intel Optane technology. Again, back a while now, people want a lower
+latency kind of higher bandwidth and Optane technology provide excellent solution in the area.
+And we have a great product line, one of the earliest player in the market. As to the 10-
+nanometer technology from Intel, as of this moment, we try to observe, and overall we feel very
+optimistic still.
+Q - `Jake Wilhelm, Analyst, Wells Fargo Securities LLC `
+Great. Thank you so much.
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+Thank you.
+Operator
+We'll take a follow-up from Nehal Chokshi with Maxim Group.
+Q - `Nehal Sushil Chokshi, Analyst, Maxim Group LLC `
+All right. Thanks. So your midpoint guidance is down 15% Q-o-Q which is a 1000 basis points to
+1,500 basis points more than what I would consider seasonal. So, can you give some color as faras what's below seasonal guidance? Obviously you did have some incredible Q-o-Q growth over
+the past two quarters, but just want make sure there's nothing more to it than that.
+A - `Kevin S. Bauer, Chief Financial Officer & Senior Vice President `
+No. I think our primary view of this quarter is really seasonal. I don't think there's anything unusual
+as it relates to the guidance. Hopefully, we'll do well.
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+Now with our guidance, $810 million to $870 million, that will be the (00:21:23) this quarter,
+September quarter where (00:21:26) quarter basically.
+Q - `Nehal Sushil Chokshi, Analyst, Maxim Group LLC `
+Okay. And non-GAAP OpEx plans for September quarter, can you give any color there?
+A - `Kevin S. Bauer, Chief Financial Officer & Senior Vice President `
+Yeah. We're not giving any guidance other than revenue at the moment.
+Q - `Nehal Sushil Chokshi, Analyst, Maxim Group LLC `
+Okay. All right. And are you going to be able to provide some color on system volume, system
+ASP, node volume and node ASP for the June quarter?
+A - `Kevin S. Bauer, Chief Financial Officer & Senior Vice President `
+No.
+Q - `Nehal Sushil Chokshi, Analyst, Maxim Group LLC `
+Okay. All right. That's it for me then. Thank you.
+A - `Kevin S. Bauer, Chief Financial Officer & Senior Vice President `
+Thanks.
+Operator
+We'll go next to Jon Lopez with Vertical Group.
+Q - `Jon D. Lopez, Analyst, The Vertical Trading Group LLC `
+Hi, thanks. I'm wondering if you could just spend a moment, because it's not really that apparent
+to me by the wording that you offered in the release. So, specifically, you referenced in the
+second press release the review of hundreds of transactions, and then in the same sentence the
+conclusion that you don't believe a restatement is necessary. So I guess what I'm hoping you can
+expound upon a little bit is, what exactly have you found as you've gone through these hundreds
+of transactions and what are the points of focus and what in that work has led you to conclude
+that a restatement is not necessary? And then – and a last part of that; what would make you
+conclude prospectively that one might be necessary?
+A - `Kevin S. Bauer, Chief Financial Officer & Senior Vice President `So, the predominant pattern that we're seeing is that there are ins and outs across the quarters.
+And so, so far they've kind of netted each other out to a great degree. And that's really what the
+primary modus operandi is.
+Q - `Jon D. Lopez, Analyst, The Vertical Trading Group LLC `
+Okay. And could you just speak a little bit more to the progression of that analysis over the period
+that you've referenced, i.e. fiscal 2015 through 2017? I mean, is it fairly uniform across those
+periods or do you see more congestion in one period versus another?
+A - `Kevin S. Bauer, Chief Financial Officer & Senior Vice President `
+Yeah. Really can't speak to that, but by virtue of the fact that there's not been significant
+distortions, it doesn't say that there's a big difference in the pattern.
+Q - `Jon D. Lopez, Analyst, The Vertical Trading Group LLC `
+Okay, understood. The second clarification I was hoping you could offer is, you don't reference
+fiscal 2018 at all – and I understand that's not a period that you've provided SEC filings. But are
+you reviewing transactions for FY 2018 as part of this as well, or has FY 2018 been, for lack of a
+better term, immunized just based on some of the focus and activities that went into motion
+when you discovered this issue?
+A - `Kevin S. Bauer, Chief Financial Officer & Senior Vice President `
+Well, I can share with you that as we've gone through the year and things have come to light from
+the investigation, we have had our eye on that as it relates to how we have estimated the
+quarters over 2018. So, we have incorporated some of that. We still will have to go through the
+transactions at the end, but we've been improving as you go so to speak.
+Q - `Jon D. Lopez, Analyst, The Vertical Trading Group LLC `
+Understood. The next question I have was just your commentary around the credit lines. My
+recollection – and it's a little foggy – my recollection is that there was some contingencies tied to
+the filing of the SEC documents. Can you just revisit that topic quickly? Are there procedures – or
+do you have to go through separate processes on the credit side now that this deadline won't be
+met? And then what would be the timeframe over which those would be transitioned to
+outcomes?
+A - `Kevin S. Bauer, Chief Financial Officer & Senior Vice President `
+Yeah. So the credit line, the way that it was structured is, is that it was a one-year term. If you
+remember, we closed this in April; so therefore, it had a one-year term or completion of our
+delinquent filings. And then upon the earlier of one of those dates, we would be able to convert
+it into phase two; that phase two actually allowed for an expanded credit facility. So that's the
+nature of it.
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+You can see that (00:25:49) I think our cash flow condition has been pretty healthy, right?
+A - `Kevin S. Bauer, Chief Financial Officer & Senior Vice President `
+That's right.Q - `Jon D. Lopez, Analyst, The Vertical Trading Group LLC `
+No, that's right that; that could change. I mean, your access to credit could change is suppose is
+what I was (00:26:01) driving at. And it sounds like what you are saying is that you still have some
+amount of duration on that one-year term.
+A - `Kevin S. Bauer, Chief Financial Officer & Senior Vice President `
+That's correct.
+Q - `Jon D. Lopez, Analyst, The Vertical Trading Group LLC `
+Okay, and – sorry, could you just remind like approximately when does that duration end?
+A - `Kevin S. Bauer, Chief Financial Officer & Senior Vice President `
+It's like the third week of April, I believe.
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+2019.
+A - `Kevin S. Bauer, Chief Financial Officer & Senior Vice President `
+Yeah, 2019.
+Q - `Jon D. Lopez, Analyst, The Vertical Trading Group LLC `
+Okay, understood. And so at that point, if for whatever reason the situation is not resolved then
+there would be a separate process you'd have to undertake from that perspective?
+A - `Kevin S. Bauer, Chief Financial Officer & Senior Vice President `
+Yeah. We're getting a little ahead of ourselves.
+Q - `Jon D. Lopez, Analyst, The Vertical Trading Group LLC `
+Okay. Sorry, just a couple questions on the business real quick if you wouldn't mind. Can you guys
+just offer a rough split between what your service systems business did in June relative to the
+accessories portion of the business – the subsystems, excuse me.
+A - `Kevin S. Bauer, Chief Financial Officer & Senior Vice President `
+Yeah. So our system business was roughly about 84% in the last quarter.
+Q - `Jon D. Lopez, Analyst, The Vertical Trading Group LLC `
+Okay, 84%. And would you expect a material change in the segment splits looking into
+September?
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+The system business is still continuing to growing stronger.
+Q - `Jon D. Lopez, Analyst, The Vertical Trading Group LLC `I'm sorry, the systems business will continue to outgrow the subsystems business?
+A - `Kevin S. Bauer, Chief Financial Officer & Senior Vice President `
+You're talking a month's verticals?
+Q - `Jon D. Lopez, Analyst, The Vertical Trading Group LLC `
+No, no. I was really just looking at the split between the two reportable segments. You have a
+service systems segment and you have your subsystems business, so the other 16%, I'm just
+asking as we go into – from June into September, are you anticipating any kind of sizable shift
+between those revenue buckets?
+A - `Kevin S. Bauer, Chief Financial Officer & Senior Vice President `
+No, it's been a slow increase towards systems and it would continue to have that kind of
+movement.
+Q - `Jon D. Lopez, Analyst, The Vertical Trading Group LLC `
+Okay, understood. And sorry, the last question on the gross margin side. I think I heard what you
+said earlier. I guess I'm just looking for a little bit more on trajectory. I mean you've obviously seen
+some portions of the component bill of material (00:27:59) become a little bit more favorable.
+Your gross margin obviously went the other way. It sounds like that was vertically related. I'm
+assuming that was hyper-scale to an extent.
+But as we just think about the next several quarters, do you sense the bill of materials (00:28:13)
+buckets continue to trend favorably? Is there a reason that you wouldn't expect your gross
+margins to begin to trend back up toward the mid-13s, low 14s? I mean, I'm not asking you to
+quantify that range. I'm just saying, directionally, would you expect improvement as the cost side
+continues to be a bit more favorable?
+A - `Kevin S. Bauer, Chief Financial Officer & Senior Vice President `
+Modest improvement over time.
+Q - `Jon D. Lopez, Analyst, The Vertical Trading Group LLC `
+Okay. Thanks.
+Operator
+And it appears at this time we have no further questions. I would like to turn the call back over to
+Mr. Liang for any additional or closing comments.
+A - `Charles Liang, Founder, Chairman, President & Chief Executive Officer `
+Thank you, everyone, for join us and see you very soon. Thank you. Have a great day.
+Operator
+Thank you. Ladies and gentlemen, this does conclude the Super Micro fourth quarter fiscal 2018
+business update conference call. We do appreciate your participation. You may disconnect at this
+time. Thank you.

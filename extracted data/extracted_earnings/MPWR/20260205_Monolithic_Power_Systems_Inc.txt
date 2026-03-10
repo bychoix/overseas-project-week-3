@@ -1,0 +1,568 @@
+Q4 2025 Earnings Call
+
+Presentation
+`Arthur Lee, Finance Manager `
+Welcome, everyone, to the MPS Fourth Quarter 2025 Earnings Webinar. My name is `Arthur Lee, Finance Manager,
+and I'll be the moderator for this webinar. Joining me today are Michael Hsing, CEO and Founder
+of MPS; `Bernie Blegen, Executive Vice President and Chief Financial Officer, EVP and CFO; `Rob Dean, Corporate Controller, Corporate Controller; and `Tony Balow, Vice President of Finance, Vice
+President of Finance.
+Earlier today, along with our earnings announcement, MPS released a written commentary on the
+results of our operations. Both documents can be found on our website.
+Before we begin, I would like to remind everyone that in the course of today's presentation, we
+may make forward-looking statements and projections within the meaning of the Private
+Securities Litigation Reform Act of 1995 that involve risks and uncertainties. The risks,
+uncertainties, and other factors that could cause actual results to differ from these forward-
+looking statements are identified in the safe harbor statements contained in the Q4 2025
+earnings release, our Q4 2025 earnings commentary, and in our SEC filings, including our Form
+10-K and Forms 10-Q, which can be found on our website. Our statements are made as of today,
+and we assume no obligation to update this information.
+Now, I'd like to turn the call over to Tony.
+`Tony Balow, Vice President of Finance `
+Thanks, Arthur. Good afternoon, and welcome to our Q4 2025 earnings call. Today, we made an
+announcement that after 15 years at MPS and 10 years as the CFO, Bernie will be retiring. Before
+we begin our prepared remarks, I'd like to turn the webinar over to him for his thoughts on his`Bernie Blegen, Executive Vice President and Chief Financial Officer `
+Thanks, Tony. As I was preparing for today, I realized that this is my 40th earnings call as MPS's
+CFO. That's a nice round number to finish up with. It's been my pleasure and honor to work
+closely with Michael for so long and to have been a part of MPS's leadership team. I want to thank
+our investors and analysts for the trust you placed in me. It is natural for all businesses to go
+through cycles. Your support has been consistent regardless of the circumstances, and I have
+greatly appreciated it.
+As I look ahead, MPS' prospects remain bright. With our unique culture, our dedicated
+employees, and a fantastic portfolio of products, MPS is well-positioned to sustain the broad-
+based growth you've come to expect from us during the last 10 years. I have a lot of confidence
+in the team I am transitioning my responsibilities to.
+Starting with `Rob Dean, Corporate Controller, who will be our interim CFO. While many of you may not know Rob, we
+have been partners in this enterprise for the last nine years. And like my predecessor and for
+myself, Rob continues the MPS tradition of transitioning from MPS's controllership to CFO. This
+ensures a lot of continuity in the role. Likewise, I will remain with the Company to support a
+successful transition.
+Rob, would you like to say a few words?
+`Rob Dean, Corporate Controller `
+Yes. Thanks, Bernie. I'm grateful to you and Michael for this opportunity to continue the tradition
+and to have been part of the MPS finance team while you have been CFO. I know I speak for the
+entire finance team, and I thank you, Bernie, for everything you've done over the last 15 years.
+He's not only helped guide the business to consistent growth and execution, but he's grown a
+great team around him.
+I worked closely with Michael and the executive team for close to a decade. We've developed a
+strong relationship, which I expect to continue as we grow the Company and take on the
+opportunities ahead. I appreciate the confidence they have placed in me in this new role. I look
+forward to meeting all of you in the coming days and weeks.
+With that, I'll pass it over to Tony.
+`Tony Balow, Vice President of Finance `
+Thanks, Rob. I'll now move to our prepared remarks before going to Q&A. In 2025, MPS posted
+its 14th consecutive year of growth with a full-year revenue of $2.8 billion, up 26.4% from 2024.
+For Q4 2025, we had a record quarterly revenue of $751.2 million, 1.9% above Q3 2025 and
+20.8% higher than the fourth quarter of 2024. This performance reflected our consistent
+execution, continued innovation, and relentless customer focus.
+Let me call out a few highlights from 2025. Our non-enterprise data end-markets grew by over
+40% year-over-year, showcasing the strength of our diversified business model. We achieved our
+milestone of securing more than $4 billion of geographically balanced capacity and continue to
+add additional supply-chain partners to support future growth.
+We had record module revenue and positioned ourselves for a further shift to solutions by
+sampling our 800-volt power solution for data center. In automotive, we launched solutions for
+48-volt and Zonal architectures, including the first fully-integrated 48-volt e-fuse and a kilowatt-level Zonal controller that will support growth in 2026 and beyond. We expanded our customer-
+base in data center for power solutions across AI, server, memory, optical modules, and switch
+applications with leading-edge current density, power efficiency, and packaging.
+I am also pleased to announce that our quarterly dividend will increase 28% to $2 per share. For
+the three years ending with December 2025, MPS has returned over 72% of free cash flow to
+stockholders through share repurchases and dividends. Our proven long-term growth strategy
+remains intact as MPS focuses on innovation and solving our customers' most challenging
+problems. We continue to invest in new technology, expand into new markets, and to diversify
+both our end-market applications and global supply-chain. This will allow us to capture future
+growth opportunities, maintain supply-chain stability, and quickly adapt to-market changes as they
+occur.
+I will now open the webinar for questions.
+Questions And Answers
+A - `Arthur Lee, Finance Manager `
+Thank you, Tony. Analysts, I would now like to begin our Q&A session. (Operator Instructions) Our
+first question is from `Chris Caso, Analyst, Wolfe Research of Wolfe Research. Chris, your line is now open.
+Q - `Chris Caso, Analyst, Wolfe Research `
+Thank you. And Bernie, I'm lucky to be the first to congratulate you on your retirement and wish
+you all the best. It's been a pleasure all these years.
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+Thank you very much, Chris.
+Q - `Chris Caso, Analyst, Wolfe Research `
+So, for my first question, I guess as we look into the March quarter, could you give some color on
+what you're seeing with respect to the different segments? What do you see within the various
+market segments?
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+Sure. Let me start to color this by talking a little bit about 4Q25. We saw a good step-up in the
+ordering patterns in the quarter. Our book-to-bill ratio was well in excess of one, and that's really
+reflected in our backlog, which is starting to extend out into Q2 and Q3 of '26. And we also
+finished with fairly routine, or rather, our channel inventories stayed at the low-end of our range.
+And so we feel that we're servicing real demand and that we're seeing a lot of strong ordering
+trends. So as we look at the fourth quarter, you can see that we saw some pretty good strength,
+particularly as it relates to enterprise data and also to the communications. We expect that those
+trends, along with the automotive, should continue to extend into Q1 and into the remainder of
+the year.
+Q - `Chris Caso, Analyst, Wolfe Research `
+Thank you. As a follow-up, and you mentioned enterprise data, and obviously, that's been a focus
+attention, not just for you, but the whole market. You had made some comments in enterprise
+data for '26 on the last earnings call, and if I just annualize the Q4 numbers, you pretty much getto where that guidance was. So what are your thoughts on that in the year, and perhaps is there a
+seasonal element to enterprise data as we go through the year?
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+Sure. I'll start-off on this one. As I said, in Q4, we saw some fairly pronounced changes in ordering
+patterns, which has given us a fair amount more of confidence as far as what the outlook for
+enterprise data could be in '26. Now, I think for those that you have worked with me for the last
+10 years, you know that I'd like to stay pretty conservatively profiled when I make an estimate. So
+I'd probably say that, whereas last quarter, I talked about a range of between 30% and 40%,
+maybe I can increase that to a floor of 50% growth for 2025.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Well, 50%. I thought we can do a lot more than that.
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+Conservatively.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Well, I see -- this is what I see here. Okay. We won many design wins and across-the-board, not
+from one company, one large company, okay, we have multiple customers. They are very big,
+(inaudible) or whatever, okay. We won all the designs, okay, and we are proven -- we are one of
+the variable AI power supplier. And also, I see the other end, look, we have all the right capacities
+we can deliver this year to our customers' needs. And I don't see why not and only 50% -- okay.
+We're going to be a lot more than that, okay.
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+And maybe just one last thing to add. And Chris, you heard us talk about the drivers for growth,
+which was really around growing existing customers, adding new customers, seeing new
+platforms coming to market, and then of course, the server tailwinds. I think we always knew
+those were in place and now we're just seeing some of the backlog to go along with it.
+The only other thing I'd add, right, is we focus a lot on enterprise data, but I think we've seen
+strong data center demand, which has really also pulled through storage growth, optical
+modules, switches, and other areas we've talked about. So I think overall, we've seen strong data
+center demand through the end-of-the year.
+Q - `Chris Caso, Analyst, Wolfe Research `
+Got it. Okay. Thank you. All the best, Bernie.
+A - `Arthur Lee, Finance Manager `
+Our next question is from `Joe Quatrochi, Analyst, Wells Fargo of Wells Fargo. Joe, your line is now open.
+Q - `Joe Quatrochi, Analyst, Wells Fargo `
+Yeah. Thanks for taking the questions, and my congrats to Bernie as well. Thanks for all the help.
+Maybe just a follow-up on that. In the enterprise data and the increase in outlook, how much of
+that is related to like traditional server CPU demand, and then it seems like it's accelerating asA - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Well, as I said, we have a lot of new design wins, and again in the last -- particularly last year and a
+half. And we see continuously changing adapt our modules, and even from -- changing from
+silicon control modules, and we see the trend. And with our power densities, I mean, we're
+winning the market.
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+Yeah. I think to go back to part of your question, which had to do with the traditional maybe CPU
+data center. The lines between AI, GPUs, and CPUs are getting pretty blurry because they're so
+integral to one another these days.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+They're using the same kind of a power supply now.
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+Exactly. But I would say that we've been trending very well in both categories. So I can talk to a
+trend-line, but I can't really give you an absolute figure.
+Q - `Joe Quatrochi, Analyst, Wells Fargo `
+Okay, that's helpful. And then as a follow-up, as I think about just kind of like storage and
+compute and maybe the exposure to like PCs, are you seeing anything related to just kind of
+memory prices increasing, you know, and just kind of maybe some pressure on some demand
+destruction around that part of the market?
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Oh, you're talking about PC? The PC is a different animal than the data centers, okay.
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+New question. He is asking about memory and the constraints there, whether we're seeing that
+affect us.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Oh, memory constraints. Okay. As I said earlier, we don't have constraints on the capacity side.
+A - `Rob Dean, Corporate Controller `
+Yeah. And I think where you're going, Joe, as well as also, is there any demand destruction in
+PCs? I think as you look at Q4 and into Q1, remember, we're coming off a very strong first half of
+2025. So we expected that to be down a bit as well, as we are participating more selectively in
+the lower-margin parts of that business. I don't think we know how it's going to play out through
+the rest of this year at this point, so I don't think it's possible to say how that market might trend.
+We hear a lot of the same, but I think it's too early for us to tell.
+Q - `Joe Quatrochi, Analyst, Wells Fargo `
+Thank you.A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Memory constraint on the PC.
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+Yes.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Okay. I don't know. We don't know those are market -- okay, we don't know what our customers
+do. We deliver what our customers ask; I care less.
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+Yeah, okay.
+A - `Arthur Lee, Finance Manager `
+Our next question is from `Josh Buchalter, Analyst, Cowen of Cowen. Josh, your line is now open.
+Q - `Josh Buchalter, Analyst, Cowen `
+Guys, thank you for taking my question, and then definitely want to echo the congrats and best
+wishes to Bernie after an incredible run and a long sometimes strange trip. I very much
+appreciate the support over the year, and congrats and best of luck to Rob.
+Maybe just to start, the incremental confidence in enterprise data is great to see, and it seems
+like you guys are suggesting -- you feel better about visibility there than you have in the past. Is
+that a fair read? And if so, as part of this, it's just the market is maturing and scaling, and also just
+the capacity needs are so great. I'm just hoping you could maybe speak to how visibility
+compared to maybe a year-ago or something? Thank you.
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+Yeah. I think in prior quarters, I've said that we've been experiencing a turnaround, much of which
+has been around the enterprise data or more broadly AI markets, but that the anomaly had been
+that we've been seeing very short lead times and that they were not putting a lot of backlog in
+our books. And I'd say that the fundamental change that also making us more confident right now
+is that we are seeing longer ordering patterns because some of our customers are concerned
+about capacity constraints, not necessarily with us, but just in general.
+Q - `Josh Buchalter, Analyst, Cowen `
+Okay, that's a helpful color. Thank you, Bernie. And then the 40% non-enterprise data growth
+number for 2025 is obviously a huge and above your historical algorithm of -- I think it was 10% to
+15% above the analog industry. Is that still the right way we should be thinking about the non-
+compute exposed verticals into 2026 as well? Thank you and congrats again.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+I want to try to manage your expectation, or where now we're not say 26% or 40% growth. Okay.
+And these growth, okay, we are still a small players in the overall markets compare all the market
+size, okay. And some growth some years, and we see the opportunities, and we can see theopportunities, we can grow better than any other years, okay? But the long-term trend or even
+short-term trend and even '26, we will grow.
+Q - `Joshua Buchalter, Analyst, TD Cowen `
+Okay. Thank you.
+A - `Arthur Lee, Finance Manager `
+Next question is from `Quinn Bolton, Analyst, Needham & Company, LLC of Needham. Quinn, your line is now open.
+Q - `Quinn Bolton, Analyst, Needham & Company, LLC `
+Thanks for taking my question. And Bernie, it's been a great run, a great decade. So thank you for
+all your help along the way. Welcome, Rob. I wanted to ask, some of your competitors in the AI
+power space are talking about their business is doubling in 2026. And I know your business and
+their businesses don't overlap 100%. There's different compositions. My question is, do you guys
+think that you're gaining share as you look into 2026 broadly in the AI power segment?
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Yeah. I'll refuse to get in to (inaudible) contest, and the whole -- who wear less on the stage,
+okay? We let the numbers speak itself. As always, as our -- since IPO [ph] is about 21 years history,
+we never do that, okay?
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+I do think that we clearly have great products, broad engagement across the customers. We have
+design wins in a broad swath. So how the market then plays out remains to be seen, I think. But I
+think we're very confident in our product portfolio and the engagements we have right now.
+Q - `Quinn Bolton, Analyst, Needham & Company, LLC `
+Got it. And then Michael, some of (Multiple Speakers)
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+That's a much better small talk. That's a much (Multiple Speakers)
+Q - `Quinn Bolton, Analyst, Needham & Company, LLC `
+Well, as you said, we'll see where the numbers shake out at the end of the year. Michael, I
+wanted to ask you -- you talked about sampling your 800 volt (Multiple Speakers)
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Well, probably you'll see earlier. You probably see much early, okay.
+Q - `Quinn Bolton, Analyst, Needham & Company, LLC `
+Oh, good. We'll stay tuned. I wanted to ask you about the 800 volt -- solutions for 800 volt racks.
+Some of the participants in the market are suggesting NVIDIA and others are looking for GaN-
+based solutions. I think you guys are offering a silicon carbide-based solution. And so just
+wondering if you can talk about what you're seeing in the market. Is there a preference for GaNor silicon carbide? Do you think there will be a mix of compound semiconductor solutions for that
+800 volt to 12 [ph] or 6-volt stage in those 800 volt racks?
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Yeah, okay. Again, okay, this is not a good venue to talk about technical terms, okay. Actually, I'm
+happy to be a person who really knows the semiconductor device. And we are developed silicon
+carbide, okay? And 10 years ago, I was wrong about GaN, okay? But in the last few years, we
+developed our own GaN devices, okay? And 800 volt, since Tony has mentioned about it, and
+we're entering a (inaudible) context, okay, that revenue is not for this year, not for even for next
+year. So, okay, maybe end of them next year. However, we are the first company to sample it.
+Now that's a part of a (inaudible) context, okay.
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+And again, we've done a good job and shown ourselves to be very adaptive changes to the
+market. So whether it turns out to be GaN or silicon carbide that is what's demanded, I'm sure
+that we'll be well positioned to take advantage of it.
+Q - `Quinn Bolton, Analyst, Needham & Company, LLC `
+Got it. Thank you.
+A - `Arthur Lee, Finance Manager `
+Next question is from Rick Schafer of Oppenheimer. Rick, your line is now open.
+Q - `Richard Schafer, Analyst, Oppenheimer & Co. Inc. `
+Thanks. And I would just say, Bernie, it's been a genuine pleasure. You're going to be missed. And
+Michael, I just want to confirm for everybody that you're never retiring, right?
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Well, it happened to be today is my 86th earnings call. I'm looking for doubling it, okay. Well, be
+serious, okay? And I enjoy this MPS, okay, and immensely, okay. We actually created this platform.
+Everybody can maximize their capability. And the more interesting things to me is we -- company
+evolve. And we form -- we sell semiconductor, power management. Now in the semiconductor,
+we're getting to MCU, we're getting in to a data converters, we get to even high speed, okay.
+These are a few gigahertz of stuff. And you will see the revenue soon. And on the overall
+marketing -- market segment address, we migrate from silicon to systems to a module to
+systems, and you will see a lot more. I am enjoying this process a lot and I'm a part of it, again,
+and I have all the product lines.
+Q - `Richard Schafer, Analyst, Oppenheimer & Co. Inc. `
+Thanks, Michael. It's reassuring. Also, I just had a quick clarification, and then I've got a couple of
+follow-ups. But the clarification, Michael, you said earlier that CPU, GPU, and server are using the
+same power supplies now. So does that mean that server CPU is already migrating to 48 volt?
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+It still -- they use mostly -- okay, if they have some advanced, okay, high-priced servers or special
+servers, okay, a special need, they use -- still use 12 volts. And -- but I'm aware of some models inthe 48 volts. My guess, it's still small. I'm not very clear on that. But this is -- and the majority is still
+12 volts and now they -- it's clear the module is the way to go, and if you want to improve
+efficiency.
+Q - `Richard Schafer, Analyst, Oppenheimer & Co. Inc. `
+Thanks for clearing that up. So my first question really is on optical transceiver because that's
+basically a brand-new product line, a little over a year old, I believe. And by our count, in our
+model, it's close to roughly 5% of sales exiting last year I think now, which is a pretty remarkable
+ramp. So I guess I'm thinking -- we're asking, what are your expectations for that business this
+year? And what does that imply for comms segment? What are sort of the puts and takes within
+the comms segment?
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+I can't comment on this because we entered the module journey since 2016 or '17. And these
+happen to be the highest power density product on the market. Then optical modules, they
+wanted that because they have limited rooms. So okay, in terms of business, I don't know the
+details and maybe Bernie -- Tony can answer it, okay.
+A - `Tony Balow, Vice President of Finance `
+Yeah. I'll just follow up. I think, Rick, we have obviously seen great growth in optical modules over
+the past year and half. I think the way we look at the market very typical for MPS is sort of
+interconnect. So it's not just optical modules but engagements for CPO, active copper, or other
+things as well because the market will then figure out what interconnect technology is actually
+going to succeed over the long term. We obviously don't guide by some end market -- let alone
+sub-end market, but we would expect optical module to continue to grow as you start to see the
+1.6 ramp, as we go through. And for communications, it should be an area of growth for us in '26,
+both on optical modules and in switches because that's where our data center switches are as
+well.
+Q - `Richard Schafer, Analyst, Oppenheimer & Co. Inc. `
+Thanks for that. And then if I can sneak in one on automotive. I mean, obviously, a great year '25.
+And I'm just curious what are the -- what you see is the top drivers, excuse me, of segment
+growth this year? I know you highlighted 48-volt zonal. And I didn't hear you say much about
+ADAS, but I assume ADAS. I don't know if you can update us on how big ADAS is within that
+segment now? Or -- and if there's any way to quantify sort of a shift this year that you expect in
+potential content per vehicle?
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+Sure. I want to take a victory lap on 2025, where automotive grew 43% year-over-year and --
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+But that's only the beginning.
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+That's exactly the point here is that -- what we saw in 2025 and is going to continue is that while
+ADAS certainly was a strong initial ramp, particularly in '23, '24, and '25. I think we saw a lot more
+diversification into other content opportunities on the automotive platform. And so as we lookahead here, keep in mind, we're not necessarily driven by the SAR [ph] of the business, but we
+are -- our growth is dependent upon how fast our customers implement these new technologies,
+particularly as it relates to zonal and 48 volt.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Or even ADAS.
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+Or ADAS.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+And the majority of cars on the market is no where anything close to what Tesla does, okay? And
+that's the car I drive, okay. You have a full -- I don't drive anymore, okay. And I think a majority of
+people still drive, okay. And that adoption rate that came in a large automotive company, they do
+things very slowly and much slower than a Tesla does, okay.
+And for futures, we are up to this point after the next couple of years, I see our products provide
+the complete power supply chipsets, and also we have all the firmware, software win very much
+engaged with all the carmakers. And I don't see why not, okay. And that business is going to
+continue to grow. You actually guys -- okay, you know how many cars shipped with ADAS, okay,
+which levels, okay. And you can count MPS in it.
+A - `Tony Balow, Vice President of Finance `
+And Rick, we're a little hesitant to probably call any numbers for the full year just because there is
+a lot of macro uncertainty still, great design wins, great engagement with Tier 1s and OEMs, but
+whether it's tariffs, whether it's the end of EV subsidies, or whether you can talk about what the
+impact on the auto market is from the memory shortage, I don't think we know. So I think we're a
+little hesitant to actually put a growth rate on it for the year.
+Q - `Richard Schafer, Analyst, Oppenheimer & Co. Inc. `
+Appreciate it. Thanks, guys.
+A - `Arthur Lee, Finance Manager `
+Our next question is from `Gary Mobley, Analyst, Loop Capital of Loop Capital. Gary, your line is now open.
+Q - `Gary Mobley, Analyst, Loop Capital `
+Hey, guys. Thanks for taking my question. And, Bernie, your retirement is well deserved and look
+forward to working with you, Rob. I think everybody on the call would share the same sentiment
+that I have that you're definitely one of my favorite CFOs. And for my retirement gift to you, I
+wanted to throw you a big softball question, but I think it's an important topic.
+Looking back over the past decade, when you've been CFO, you've outperformed the overall
+analog chip market, the overall voltage regulator market consistently every year and seemingly
+for different reasons each year. But thinking about the outperformance of the market in 2025,
+maybe if you can give us a sense of what drove that? Was that just share gains and voltage
+regulator die? Or was this something more substantial like moving into data converters? Was it
+tied to the higher content associated with modules and related? Can you give us some KPIs as itrelates to sort of your module mix right now? Anything you can help us get a better
+understanding of that consistent market share growth.
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+Sure, Gary. And thank you for the kind words. They're appreciated. When you look at the overall
+performance for the company in 2025, we had -- what had been our largest revenue end market
+in enterprise data had actually declined 2%, and yet overall, the company grew 26%. And
+strategically, how we're differentiated from our competition is that we are represented with the
+best technology, the best services across all of the end markets that we service. And this is really
+just a reflection of our execution against that strategy over all of these years. It wasn't that,
+pardon my saying, we pulled the rabbit out of the hat. We actually are able to adapt very quickly
+to changes in the market. So that's what this is really a reflection of in our performance in 2025.
+Q - `Gary Mobley, Analyst, Loop Capital `
+Thanks. As my follow-up, I wanted to ask about maybe some nuances in your increased visibility
+and comments regarding that. If I talked to you guys three months ago, I think you were thinking
+maybe the 2026 year was going to be a little more second-half-weighted just given the stronger
+bookings that you've seen, the stronger order backlog. As you see here today, would you say the
+shape of the year is a little more linear, less dependent on the second half?
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+I'd say that the first half for enterprise data, in particular, but for the company, it is more secure. I
+think there's still a lot of variables that need to be shaped before we really understand what the
+second-half trajectory is going to look like. But obviously, the initial signs that we saw from the
+ordering pattern in Q4 and continuing into the year have been exceptionally positive. So now we
+have more of the high-level issue of trying to figure out what's real demand and what may be
+some double ordering on the part of our customers as they try to secure capacity. As I said, that's
+a high-level issue, and we've shown that we can adapt to that as well as anybody by the
+performance we gave in late 2020 and early 2021.
+Q - `Gary Mobley, Analyst, Loop Capital `
+Thank you.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+We work with the customers very -- especially all these large data center customers very closely.
+And they will give us a very good lead times and forecast. So we have the capacities ready, okay,
+and we just meet their demand.
+Q - `Gary Mobley, Analyst, Loop Capital `
+Thanks, Michael.
+A - `Arthur Lee, Finance Manager `
+Next question is from `Tore Svanberg, Analyst, Stifel of Stifel. Tore, your line is now open.
+Q - `Tore Svanberg, Analyst, Stifel `Yes, thank you, and congratulations, Bernie. You're a class act, and I'm going to miss you
+tremendously. My first question, Michael, I'm going to zoom in on -- in a market where there's
+perhaps less contests, which is storage and especially SSD power. It seems to be an area that
+could see quite a bit of upside and growth in data centers this year. So I was hoping you could talk
+a little bit about the profile of that business? I mean, I think historically, it's been more tied to
+client and edge devices. But again, what's the company's position, SSD for data center going into
+2026?
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Yeah, these are the power management and also the single processors. These are all in the
+consortium driven by JEDEC. I mean, maybe Tony, you are a lot more familiar than I do. And we
+are part of it. And DDR4, we don't have much business, okay, very little. And DDR5s, okay, we're
+in -- DDR4, we're in on the dining table (inaudible) before DDR4 wasn't, okay? And -- so now this
+business is ramping, okay, and memories, okay, I mean, [ph] all shifted to DDR5, okay. And we
+clearly see the volumes now in last year and this year. And we're not stopping there. We'll
+migrate down to -- we expanded our product lines to the single site. And this is all in the memory,
+okay, modules.
+A - `Tony Balow, Vice President of Finance `
+And also I think there was a portion of your question as well about the non-DDR5 part of that
+business, sort of SDD and HDD, and we have seen an uptick in that part of the business as well.
+And I think you're right, it's being pulled through much more by the enterprise than consumer
+these days. And that's why we generally talk about storage being data center-driven, inside of
+the storage and compute segment.
+Q - `Tore Svanberg, Analyst, Stifel `
+Yes, that's what I was trying to get to. And as my follow-up, Michael, congratulations on getting to
+$4 billion in capacity, but it looks like you're going to need quite a bit more to that. So perhaps
+you could give us a little bit sense of what you're doing on the capacity front, especially in the
+next three years because you're clearly going to need much more than $4 billion.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Yes. We are very aware about that. Okay. And speaking, of course, and we're continuously
+expanding our capacity. And you know MPS history, okay, the worst things are shutting customers
+down, okay? And fortunately, haven't happened in the MPS, okay. And now -- gets a little -- it gets
+a little more complicated, okay? We established the last -- from the beginning of the last year, we
+established our supply management. And this is not only for silicon and we -- and not for
+semiconductors, okay, including, okay, silicon carbides and gallium nitrides and the materials and
+we do a lot of modules and all the module components.
+And -- so we established that part -- that supply chain management. So I think it's -- and also
+quality. It's not everybody can play that game. So every supplier can play the game. These are we
+go through heavy auditings, and -- so their standards, okay, they meet our standard ultimately, is
+a reflection to our margins. And -- so the short answer is yes, we're expanding very fast.
+Q - `Tore Svanberg, Analyst, Stifel `
+Great. Thank you. Congrats again, Bernie.A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+Thank you.
+A - `Arthur Lee, Finance Manager `
+Our next question is from `Kelsey Chia, Analyst, Citi of Citi Research. Kelsey, your line is now open.
+Q - `Kelsey Chia, Analyst, Citi `
+Hey, hi, Bernie, congratulations on your retirement. Really appreciate the opportunity to work with
+you over the past year. So I think to the -- and my first question is with regards to the updated
+guidance for enterprise data. Is there any market-share gains assumption there, or is it just
+primarily due to this industry growth? And also MPS has demonstrated strong execution and
+historically gained share during periods of supply constraints. So is it fair to assume that MPS
+could navigate any potential supply constraints and see and to take share in this environment?
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+Sure. And I think that I'd be doing a disservice to this conversation if I tried to break it down into a
+formula that says what's share gains, or what's new business. And I'd rather sort of respond a
+little differently, that this is a large market. We talk about the large -- the top six, seven customers,
+and we're fully engaged with them in a strategic manner, where we're developing not just the
+release of the next generation, but the one beyond that. But this also is an end-market with a
+long-tail, and we're participating in the mid-market and the small-size as well.
+So we're still very, very early in how this market is going to roll out and what our positioning is
+going to be, and I think that we're as well-positioned as anybody to take advantage of the market
+opportunity. But this is a long, long, and very big story.
+Q - `Kelsey Chia, Analyst, Citi `
+Got it.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Yeah. Well, the Company is -- I'm thinking about beyond AI, beyond enterprise data centers, and
+you have -- I'm not retiring, so I'm 15 -- 10, 15 years ahead.
+Q - `Kelsey Chia, Analyst, Citi `
+Yeah. That's great. You can continue the outperformance. And MPS outlined a gross margin
+target of 55% to 60%. Could you provide an update with regards to which end-markets are
+currently above or below that corporate average, or outline some of the specific gross margin
+drivers in this area?
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Yeah, we're in the range, but on the low side. I noticed that. Okay.
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+Let me add a little bit of color there. So, Michael said this earlier, when we look at all of the
+opportunities, we keep in mind what is the corporate model for gross margin, which is betweenwe've been trending it between 55.5% and 55.8%, which is Michael said, is the low-end of our
+model that in order for us to show improvement, we really need to have a little longer time
+horizon as far as backlog to be able to managing it.
+So we are starting to see a backlog developing, which I don't want to make too much out of one
+quarter's of experience, but we should be able to resume at some time during the year, the
+cadence that we've historically shown of incremental sequential improvements of maybe 10 basis
+points to 20 basis points quarter-over-quarter.
+Q - `Kelsey Chia, Analyst, Citi `
+Sounds good. Thank you. Thanks, Bernie.
+A - `Arthur Lee, Finance Manager `
+Next question is from `Jack Egan, Analyst, Charter Research of Charter Research. Jack, your line is now open.
+Q - `Jack Egan, Analyst, Charter Research `
+Great. Thanks for taking the questions, and I'll echo the congratulations for Bernie and Rob. I had
+a bit of a tactical one. So during last year's Investor Day, you mentioned a packaging innovation
+that would allow you to basically double the current density of your modules to about 3 amps
+[ph] per millimeter squared. And I was just curious, are there any updates on that? Like, is that still
+a work-in progress, or is there kind of a timeline for that milestone?
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+We start to sampling those products, and again, we expect to have a shipping in this quarter and
+next quarter. This quarter. Yeah. Those already implemented --
+Q - `Jack Egan, Analyst, Charter Research `
+Okay. That's great.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+-- those already qualified, and our customers are sort of qualification on it. [ph]
+Q - `Jack Egan, Analyst, Charter Research `
+Got it. Okay. Great to hear. And then, kind of from a higher-level then, last quarter, you talked a
+bit about the gross margin implications of moving from a silicon supplier to a system provider
+over the long-term. I was a bit curious about the impact on OpEx as well. I mean, is that going to
+require you to kind of bring on new teams with experience in systems? Or is there enough
+overlap between the chip design and system design processes that you could accomplish it
+organically, I guess? So, just any details on the impact to R&D dollars or SG&A leverage would be
+nice.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Yeah. Well, we need to -- okay, first things first. And we only gain, not lose, okay. I never believed
+that big dollars investments, and that translates to the bigger gain, okay, that's a bullshit. And --
+so look at MPS, we're creating a few thousand -- 4,000 to 5,000 products, and I lost tracking. We
+address the multiple second of market. Why we can pull up all these one plus ones equal three,higher values to end users, which doesn't mean we're building a refrigerator, we're building TVs.
+And we're building some things enough to alleviate our customers' design effort, the
+manufacturing effort, and that's -- and give us a high ASP. And I said earlier that we're sick and
+tired of selling silicons, but why we can just put all the silicon together and migrate to system
+levels like modules, and like system, you will see a lot more and more. So at least I can say the
+net margins -- net profit have to increase, and there are going to be a company going to be a lot
+more efficient.
+Q - `Jack Egan, Analyst, Charter Research `
+Okay, absolutely.
+A - `Rob Dean, Corporate Controller `
+I want to touch on something that this transformation has been occurring now for well over 10
+years. If you think about we were pretty much completely an analog design house 10, 12 years
+ago, and then we've been able to migrate where we added both digital engineers and software
+engineers. And now we've had to take on new responsibilities and new skill sets related to
+packaging, and as Michael said in testing. And each time we've done this, we've maintained the
+same level of R&D efficiency of getting the most out-of-the dollars spent.
+So just changing to develop new skill sets around the new opportunities we've identified does
+not necessarily mean that it's going to get more expansive, or it's going to compress our
+operating margins.
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+And I'll just have one last comment. Even we made the model during Investor Day, Jack, that was
+fully aware of this transition. And so we talked about growing OpEx slower than revenue and
+giving some leverage to the model. We knew this transition was happening when we put that
+guidance out there.
+Q - `Jack Egan, Analyst, Charter Research `
+Yeah. Okay. Thank you all for all the color.
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+Yeah.
+A - `Arthur Lee, Finance Manager `
+Our last question is from `Sebastien Naji, Analyst, William Blair of William Blair. Sebastien, your line is now open.
+Q - `Sebastien Naji, Analyst, William Blair `
+Hi. Good afternoon, and thanks for taking the questions. I'll just echo the best wishes for you,
+Bern, on your new retirement. My first question is really on the shift to our vertical power solutions
+in the data center. As we move through 2026, what are your expectations for adoption of vertical
+power, and has that changed at all from your view in previous quarters?
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Vertical power. Oh, that's a long -- that's a -- everybody is going to vertical power, so I guess,A - `Rob Dean, Corporate Controller `
+This is just where the direction of the market. It's the only energy-efficient solution you can put in
+place if you're going to operate in this high-voltage --
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+High current.
+A - `Rob Dean, Corporate Controller `
+-- high current. So that's just a natural evolution of the marketplace.
+Q - `Sebastien Naji, Analyst, William Blair `
+Got it. So do you think that starts to drive revenue in 2026 then? Is that fair to say?
+A - `Rob Dean, Corporate Controller `
+Yeah, yeah.
+Q - `Sebastien Naji, Analyst, William Blair `
+Okay. Yeah. Great, great. That's helpful. And then maybe just as a follow-up on your optical
+module business. I think you talked about this a little bit in a previous question. But as we think
+about the shift to co-packaged optics that's getting a lot more attention these days, how does
+that potentially change your revenue opportunity in optics? Is it more revenue per port or the
+ASPs significantly higher? Any thoughts on that?
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Higher current [ph], high density is always good for us. And we're smart in the increased power,
+and there's a lot more opportunity for us.
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+And higher level of integration.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Yeah, high-level integrations. And widen the competition gap.
+A - `Tony Balow, Vice President of Finance `
+Yes, I think the only thing I'd add there is, again, I think that's, again, very long-term. I don't think
+that necessarily moves the needle on '26, just to be sure, but it's certainly something we're
+engaged in over the longer term.
+Q - `Sebastien Naji, Analyst, William Blair `
+Okay. Got it. Makes sense. Thank you.
+A - `Arthur Lee, Finance Manager `
+This concludes our Q&A session. I would now like to turn the webinar back over to Tony.A - `Tony Balow, Vice President of Finance `
+I'd like to thank all of you for joining us today on this conference call. Our first quarter 2026
+conference call will likely be held in late April. Thank you, and have a great day.

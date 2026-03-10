@@ -1,0 +1,736 @@
+Q4 2018 Earnings Call
+
+Operator
+Ladies and gentlemen, thank you for standing by. Welcome to the General Motors Co. Fourth
+Quarter 2018 Earnings Conference Call. During the opening remarks, all participants will be in a
+listen-only mode. After the opening remarks, we will conduct a question-and-answer session. As a
+reminder, this conference call is being recorded Wednesday, February 6, 2019.
+I would now like to turn the conference over to `Rocky Gupta, Treasurer and Vice President of Investor Relations, Treasurer and Vice President of
+Investor Relations.
+`Rocky Gupta, Treasurer and Vice President of Investor Relations `
+Thanks, Dorothy. Good morning and thank you for joining us as we review GM's financial results
+for the fourth quarter and calendar year 2018. Our press release was issued this morning. And
+the conference call materials are available on the GM Investor Relations website. We're also
+broadcasting this call via webcast.
+I'm joined today by Mary Barra, GM's Chairman and CEO; `Dhivya Suryadevara, Executive Vice President and Chief Financial Officer, GM's Executive
+Vice President and CFO; and a number of other executives.
+Before we begin, I would like to direct your attention to the forward-looking statements on the
+first page of the chart set. The content of our call will be governed by this language.
+I will now turn the call over to Mary Barra.
+`Mary Teresa Barra, Chairman & Chief Executive Officer `
+Thanks, Rocky, and good morning, everyone. Thanks for joining. We delivered very strong results
+in 2018, despite significant macro headwinds and in a year in which we transitioned to our lightduty pickup trucks. Our North American performance was very strong, as we launched all new
+pickup trucks and crossovers. China results were strong, despite the market environment. And
+GMF delivered record results.
+Let's get the full year 2018 numbers. Net revenue was $147 billion, EBIT-adjusted was $11.8 billion,
+EBIT-adjusted margin was 8%, our EPS diluted adjusted was $6.54, our automotive adjusted free
+cash flow was $4.4 billion, and this excludes the $600 million in pension pre-funding payments,
+and ROIC adjusted was 24.9% on a trailing four-quarter basis.
+As we shared in January, we expect to improve 2019 earnings and cash flow as we move into the
+next phase of our transformation, leaner, more agile, and better positioned to win. Our favorable
+outlook is based on a continued robust mix of new products around the globe, continued cost-
+efficiencies, and our business transformation initiatives. We believe there will continue to be
+macro uncertainties. But we expect to manage through them based on current market conditions.
+Let's look at our performance in North America, where we achieved a strong year, including
+record fourth quarter earnings. In the U.S., we led the industry in pickup sales for the fifth straight
+year and delivered more than 1 million crossovers. We will benefit from a full year of sales of our
+all-new, light-duty pickups. And the cadence will continue with all-new, heavy-duty models.
+We revealed the Chevrolet Silverado heavy duty yesterday in Flint. And it will go on sale later this
+year, along with the GMC Sierra heavy duty. We are encouraged by the early success of the
+newly-launched Cadillac XT4 SUV, which already leads in its segment. And we'll also see a full
+year of sales of the new Chevrolet Blazer.
+I'd like to take a minute to update you on the business transformation actions we announced in
+November. We said we would align our product portfolio and capacity in North America with
+changing consumer preferences and transform the workforce to position the company for long
+term success.
+To date, nearly 950 U.S. hourly employees have been placed in U.S. plants with products in key
+growth segments. At GM Canada, we are supporting affected employees by working with local
+colleges on retraining as well as with dealers and more than 20 local employers who have
+expressed interest in hiring these experienced employees. And we will also provide
+outplacement services to the impacted salaried employees.
+Because of the strong business results we delivered last year, eligible hourly employees will
+share in this success through profit sharing payments later this month.
+Moving to our International operations, the actions we announced earlier last year have placed
+GM Korea on a path to enterprise level profitability. However, despite improved share in Brazil,
+the South America business remains a concern because of continued macroeconomic pressures.
+We are having productive discussions with key stakeholders to generate acceptable returns in the
+market.
+In China, we earned $2 billion in equity income last year in an increasingly challenging business
+environment. While we expect macro issues and flat industry performance will impact our results
+this year, we remain confident in the long term position in China. We expect China industry sales
+to be roughly in line with 2018 levels, based on expected GDP growth and our current
+assessment of market conditions.
+Last week, the government announced actions to stimulate the economy and the industry. And
+we look forward to learning more about the details of these incentives. However, generally, suchsupport has had a positive impact on the Auto sector.
+Our aggressive product cadence continues this year in China with more than 20 new and
+refreshed models from our Buick, Chevrolet, Cadillac, Arjun, and Wuling brands. This includes
+seven SUVs and the first of our all-new global family of vehicles.
+I also want to mention the momentum at Cadillac. Last month we announced that it will be GM's
+lead electric brand when we introduce our next generation EV technology. Through technology
+innovation and beautiful design, we are fully committed to restoring Cadillac to the luxury leader
+it should be.
+Last year Cadillac posted another record year of global sales. And we expect continued growth,
+as we introduce a new model roughly every six months through 2021, including the XT6 SUV we
+unveiled last month.
+Turning to our future mobility initiatives. We made real progress last year toward expanding our
+leadership in both autonomous and electric vehicles since first announcing our vision of a world
+with zero crashes, zero emissions, and zero congestion nearly 18 months ago. GM Cruise is
+deeply resourced to succeed with more than 1,100 employees and $5 billion raised in external
+capital from SoftBank and Honda in 2018.
+We have demonstrated our willingness to work with partners with common values and where a
+partnership can improve efficiency, capital spend, and speed up development. For example, our
+AV collaboration with Honda built on our existing EV battery and fuel cell work.
+On the EV front, to encourage greater consumer acceptance of battery electric vehicles, last
+month we announced a collaboration with three partners to establish the largest collective EV
+charging network in the United States. In addition, Cruise continues to focus on the entirety of the
+autonomous vehicle ecosystem, signing a partnership with DoorDash last month.
+So to recap, we had another year of strong earnings in a volatile environment. We offset macro
+headwinds with fresh products in the right segments by staying intensely focused on cost and by
+making the right business decisions throughout the year.
+So now I'll turn the call over to Dhivya.
+`Dhivya Suryadevara, Executive Vice President and Chief Financial Officer `
+Thanks, Mary, and good morning, everybody. We exceeded our expected 2018 results from both
+an EPS and adjusted automotive free cash flow perspective. Our performance was driven by
+strong execution across all of our operating segments, including record fourth quarter results in
+North America and GM Financial. We were also able to accelerate the execution of our
+transformational cost savings and started to see early benefits of these actions in the fourth
+quarter. With that, let's review the results in more detail.
+As Mary mentioned, we generated calendar year results of $147 billion in net revenue, $11.8 billion
+in EBIT-adjusted, 8% margins, $6.54 in EPS diluted adjusted, and $4.4 billion in adjusted
+automotive free cash flow, excluding the impact of pension contributions.
+In the fourth quarter, we generated $38.4 billion in net revenue, $2.8 billion in EBIT-adjusted, 7.4%
+EBIT-adjusted margins, $1.43 in EPS diluted adjusted, and $4.2 billion in adjusted automotive free
+cash flow.Let's turn to North America. In the calendar year, North America generated 9.5% EBIT-adjusted
+margins, despite over $1 billion of commodity headwinds and downtime taken for full-size truck
+changeover. In Q4, North America delivered record EBIT-adjusted results of $3.0 billion and 10.2%
+margins, up 20 basis points year over year.
+Performance of our all new light duty pickups and strong material cost performance in the quarter
+more than offset commodity headwinds and the volume impact from downtime. The full-size
+pickup truck launch has been very strong. We have experienced a smooth ramp up of the new
+models, as well as sell down of the old models. We produced over 75,000 all new trucks in Q4,
+consisting primarily of highly profitable crew cabs. This contributed favorably to volume, mix, and
+price during the quarter.
+Let's move to GM International. Full year EBIT-adjusted at GMI was down $900 million year over
+year, primarily driven by FX headwinds in South America. For the fourth quarter, EBIT-adjusted at
+GMI was down $500 million year over year due to South American headwinds as well as lower
+equity income in China. We still delivered strong full year equity income of $2 billion in China,
+driven by our market position, cost performance, and a richer mix of Cadillac.
+Equity income for the quarter was $300 million, down year over year as a result of the industry
+slowdown, continued pricing pressure, and partially offset by cost efficiencies and Cadillac
+growth. Important to note that there were some factors specific to Q4, including lower
+production levels and elevated launch costs that impacted the results for the quarter by $100
+million.
+A few comments on GM Financial, Cruise, and our Corp segment. GM Financial posted all-time
+record revenue of $14 billion for the year and all-time record EBT-adjusted of $1.9 billion. In the
+fourth quarter, GM Financial generated revenue of $3.6 billion and EBT-adjusted of $400 million,
+both records for the fourth quarter.
+In October, GM Financial paid a dividend of $375 million. As I mentioned last month, continued
+dividends from GM Financial provides an opportunity to strengthen our long term cash generation
+capability and narrow the gap between earnings and free cash flow.
+Cruise costs were $700 million for the year and $200 million for Q4. We expect to spend
+approximately $1 billion in the GM Cruise segment in 2019.
+Corp segment costs for the full year were $600 million, including approximately $250 million
+combined favorable impact from PSA warrants and revaluation of our Lyft investment. We expect
+to spend in the Corp segment to be about $1 billion in 2019.
+In the fourth quarter, Corp sector costs were impacted by unfavorable performance in PSA
+warrants and were $400 million negative for the quarter.
+Before I close, I wanted to reiterate our outlook for the calendar year. As I mentioned last month,
+we expect strong EPS diluted adjusted in the range of $6.50 to $7 and adjusted automotive free
+cash flow in the range of $4.5 billion to $6 billion.
+Touching on the headwinds. We will take downtime to the tune of 25,000 units, as we prepare
+for the launch of our all-new full-size SUVs. We expect China equity income to be down
+moderately year over year. We expect to see headwinds year over year from commodities and
+tariffs to the tune of $1 billion.Finally, headwinds from depreciation and pension income are expected to be approximately $1
+billion. And as a reminder, since these are noncash items, they will compress the gap between
+earnings and free cash flow.
+Offsetting these are a number of tailwinds specific to GM. The full year benefit of our truck launch
+will provide tailwinds in volume, mix, and price in 2019. We expect a meaningful benefit from a full
+year of XT4 and Blazer, the launch of Cadillac XT6, Mary mentioned, and the rollout of our global
+family of vehicles.
+We also expect year-over-year growth in high-margin adjacencies like after sales and OnStar.
+When you layer on top of that the transformational cost savings of $2 billion to $2.5 billion through
+2019, we expect these tailwinds to more than offset the headwinds, assuming a similar macro
+environment.
+It is also important to understand this year's quarterly cadence. We expect the first quarter to be
+the weakest since most of our SUV downtime will be taken in the first quarter. In addition, we will
+have lower volumes in China, given continued industry pressure, while staying disciplined by
+reducing our inventory levels. As we progress through the year, we expect to see improvements
+in China equity income following these inventory actions and with a strong product launch
+cadence later in the year.
+As a reminder, Q1 is typically our weakest cash flow quarter due to working capital seasonality. In
+addition, this year, given the SUV downtime that I just mentioned, Q1 cash flow is expected to be
+meaningfully below our historical averages. For the full year, however, we expect cash flow to
+improve after Q1. And our full year free cash flow, as I mentioned earlier, will be in the range of
+$4.5 billion to $6 billion.
+In summary, we had a solid finish to 2018. And we will continue to stay focused on execution in
+2019. And as I mentioned in January, we have three key financial priorities, including improving our
+free cash flow and cash conversion, a best-in-class cost structure, and efficient capital
+deployment.
+That concludes our opening comments. And we'll now move to the Q&A portion of the call.
+Q&A
+Operator
+Our first question comes from the line of `John Murphy, Analyst, Bank of America Merrill Lynch with Bank of America.
+Q - `John Murphy, Analyst, Bank of America Merrill Lynch `
+Good morning, everybody. Just a sort of a follow-up question to sort of your finish there, Dhivya. I
+was just curious if you could go through sort of the cadence of the truck launches? I mean, it
+sounds like you got 75,000 of the light duties in the fourth quarter. But obviously that's much
+lower than the run rate that you'd expect on the new truck. When the HDs will actually start really
+contributing post their ramp and their launch? And then when the SUVs will layer in? So if we could
+just kind of think about when those – the SOP is for those? And when the real full-throated benefit
+comes for each of the three sort of tranches of trucks.
+A - `Dhivya Suryadevara, Executive Vice President and Chief Financial Officer `
+Sure, John. So if you look at Fort Wayne, we're already up and running in full volume. And that
+transition is over.So if you switch over to Silao, which is where we had taken our downtime in fourth quarter, we are
+now up to full line rate production for our light-duty pickup. So after January, we're up to our full
+level of production. So light duties, I would say we're pretty much done with our transition.
+If you switch over to heavy duty, most of the changeover, we have been working on it in 2018.
+And through to the second quarter of 2019, we will see a transition. And after that, starting in Q3
+of 2019 is when you'll see the full production ramping up for heavy duties.
+For SUVs, we're going to take the 25,000 downtime for the year. That will be mostly in Q1 of
+2019. And the SORP for that will be in 2020. And we'll have more to talk about that later.
+Q - `John Murphy, Analyst, Bank of America Merrill Lynch `
+Okay. That's helpful. Then just a second question. If you could sort of update us on what's going
+on with Cruise. I mean, obviously there was some talk about getting launched with a fleet, a
+commercial fleet this year. It sounds like that might be a little bit delayed.
+And also maybe, Mary, if you can talk about sort of what's going on with the DOT petition on the
+four-gen Cruise? And if there's any word on that whatsoever?
+A - `Mary Teresa Barra, Chairman & Chief Executive Officer `
+So there is really no word on the petition for our Level 4, our track 4 vehicle. But we also are very
+capable of launching with a track 3 model. So I think we're in good position there.
+As we've been consistently communicating, safety is going to be the gating metric for Cruise. We
+have hired – we're at 1,100 people, so we've got the right team and the right focus. Dan obviously
+moving out there has been I think – just shows our commitment to what we're doing there and
+being able to work on the whole ecosystem as well as the technology.
+We continue to make rapid progress with the technology. I think that's as evidenced by the video
+we released just last month that shows that our vehicle can handle maneuvers that others are
+struggling with.
+So I think we're in a very strong position, if not a leading position. So we're continuing to make the
+rapid progress. We're going to make sure we meet all the appropriate safety thresholds that
+we've defined for ourselves as well as the regulatory requirements. And this is going to be a
+really important and critical year. And we're going to continue to update you as we progress. But I
+would say everything is moving forward in a very positive fashion.
+Q - `John Murphy, Analyst, Bank of America Merrill Lynch `
+And then just lastly, just one sort of housekeeping. When we think about the GMF dividends, I
+think it was $434 million in 2018. Sort of what is the progression as the balance sheet and the
+earnings grow at GMF? And how should we think about sort of the addition of cash flow in 2019
+and 2020 and beyond?
+A - `Dhivya Suryadevara, Executive Vice President and Chief Financial Officer `
+So, John, you're absolutely right. The dividend in GMF is now at a level which is lower than what
+would be our steady state potential. If you look at our long term earnings before tax expectation
+for GMF, that's in the range of about $2 billion. And we expect that once we reach full captive, and
+that's going to be likely in the early 2020s, we would be able to dividend the entire earnings
+before as well after taxes, net income I would say, to the parent.The curve between there and now would be determined by our leverage ratio along the way.
+And we have our managerial target of 10 times leverage ratio for GMF. And if we see potential
+for dividends, we will take that. But we will ultimately be governed by maintaining an appropriate
+level leverage ratio. And our communications to the rating agencies and how much dividends we
+take out of the central.
+What we have assumed in our outlook for 2019 is at a level that's comparable to 2018 from a
+dividend perspective. And if we see anything above that, that would be upside. But we'll post you
+guys on that as we move forward with how the leverage ratio develops.
+Q - `John Murphy, Analyst, Bank of America Merrill Lynch `
+But simply, it's fair to say $1.5 billion potential upside run rate to free cash flow, as GMF normalizes
+into its size that you want to get it to, accurate statement?
+A - `Dhivya Suryadevara, Executive Vice President and Chief Financial Officer `
+That's correct.
+Q - `John Murphy, Analyst, Bank of America Merrill Lynch `
+Thank you very much, guys.
+A - `Mary Teresa Barra, Chairman & Chief Executive Officer `
+Thanks, John.
+Operator
+Our next question comes from the line of `Rod Lache, Analyst, Wolfe Research with Wolfe Research.
+Q - `Rod Lache, Analyst, Wolfe Research `
+Thanks. Good morning, everybody. I guess a couple questions. One is the fourth quarter margin
+in North America obviously was really strong. It was up year over year, despite the higher D&A,
+the commodity inflation, all those headwinds. And obviously, you're still kind of early days in the
+truck launch.
+I was hoping you may be able to just address one aspect of how we should be thinking about the
+truck positive from where we are right now into 2019. At one point, you talked about, I think it was
+a $2 billion revenue opportunity for you as you converge your average transaction prices between
+where you were on the old trucks and where you expect to be. What's your updated view on
+that? Are you tracking towards that? And is that something we should see in 2019?
+A - `Dhivya Suryadevara, Executive Vice President and Chief Financial Officer `
+Sure. Rod, before we even get into the numbers, I would say from a truck launch perspective,
+we're really excited about the new generation of trucks. And we have been in a leadership
+position in that for many years. And we expect to continue that with this brand new launches that
+we have.
+And within that, Rod, if you remember, we had talked about releasing a number of constraints
+that we've historically had with our previous truck platforms, including crew cab capacity, which we
+have fixed that, I would say, with the current generation versus the prior generation. And also aparticipating in the middle of the curve. And now we've sort of expanded that to the edges as
+well.
+So put all that together, Q4 you're starting to see – you're already starting to see the impact of
+pricing as well as mix in our new trucks. And what you're going to see in 2019 is you could easily
+run rate that off of Q4. And we're also not going to have the volume of headwind that we saw in
+2018 for light duties, as we were transitioning them. So light duties, I would say, volume up, mix
+favorable, and pricing continues to be supportive as well.
+Heavy duties, you're going to see the similar dynamic in second half of the year. So you'll see a
+half-year benefit of that. And SUVs, it continues to be a transition year. So a simple way of looking
+at it for you would be to take the Q4 results for light duties and run rate that into 2019.
+Q - `Rod Lache, Analyst, Wolfe Research `
+Okay. Great. I was also hoping that you can address the non-China part of GMI. Looks like it was
+about a $1.6 billion drag last year. What are your high-level expectations for this going forward?
+Obviously, there's some Korea improvement. And is the rest of it contingent on macro in South
+America? Or are there some other things that you would expect to be big drivers?
+A - `Dhivya Suryadevara, Executive Vice President and Chief Financial Officer `
+Yeah, if you look at our South American business, over the last several years, we've taken a
+number of actions to right-size the cost structure and set the business up for future profitability.
+And in fact in Q4 of 2017, the business did break even and turn a profit.
+What happened in 2018 was, as you well know, the FX story there with the Brazilian real and the
+Argentine peso. What we have done since then is to start working with a number of our
+stakeholders, as you know, in South America. And we'll have more to say as we make more
+progress there.
+But it's important to know a couple of factors specific to 2019. One is we are going to have a full
+year impact of pricing in South America, because price tends to lag FX there. So last year as we
+were experiencing headwinds in FX, we were pricing for them but on a lagged basis. So you're
+going to see a full year impact of that in 2019.
+And the second aspect is towards the end of the year, we're going to start to see the impact of
+our global family of vehicles. And this is the portfolio that we shared more in detail about on last
+month at our Capital Markets day. That portfolio is a new architecture that replaces a number of
+legacy architectures. So the cost profile and the margin profile of the portfolio is different, as well
+as the footprint for the portfolio where we are more hedged from an FX perspective. So you're
+going to start to see the impact of that.
+So year over year in 2019, based on everything in South America and the actions we've taken in
+Korea as well, we expect to see improvement from a profitability perspective in GMI.
+Q - `Rod Lache, Analyst, Wolfe Research `
+Great. Thank you. And just one last question. You talked about $4.5 billion to $6 billion of free cash
+flow. But $6 billion to $6.5 billion excluding the timing differences, which were I think largely
+related to supplier payment days. If we were to think about the underlying free cash flow of the
+business in 2019 to kind of use as – for bridging purposes to understand where your – the free
+cash flow generative power is of the company, is it really closer to the $6.5 billion just on a go-A - `Dhivya Suryadevara, Executive Vice President and Chief Financial Officer `
+Yeah, I think timing you have it right, Rod. It was basically related to supplier payments, as well as
+production timing and our changeover.
+And as we look at – look beyond 2019, excluding the impact of timing, you're going to see the
+remaining cost savings flow through. We said $4.5 billion in total. 2019 will get about a half of it.
+And the 2020 results will have the remaining benefits of the cost savings as well.
+And couple that with our CapEx savings, we talked about how our $8.5 billion run rate will get to a
+– $8.5 billion current level will get to a $7 billion run rate by 2020. You're going to see the impact
+of that in 2020 as well.
+But obviously, all of that is in the context of this current macro environment. And what I'm giving
+you is puts and takes, assuming nothing else changes, but you have these tailwinds working for
+us in 2020.
+Q - `Rod Lache, Analyst, Wolfe Research `
+Great. Thank you.
+Operator
+Our next question comes from the line of from `Itay Michaeli, Analyst, Citigroup Global Markets, Inc. from Citi.
+Q - `Itay Michaeli, Analyst, Citigroup Global Markets, Inc. `
+Great. Thank you. Good morning, everybody.
+A - `Mary Teresa Barra, Chairman & Chief Executive Officer `
+Morning.
+Q - `Itay Michaeli, Analyst, Citigroup Global Markets, Inc. `
+Just the first question on China. Given the recent challenges in the last few quarters, how are you
+now thinking about kind of normalized China margins for GM, say over the next couple of years?
+A - `Mary Teresa Barra, Chairman & Chief Executive Officer `
+Well, I think if you look at, there's kind of puts and takes there from a Cadillac perspective and
+launching more crossovers, we think there's an opportunity to continue to grow and improve the
+margin.
+Clearly, as we transition to more electrified vehicles, as we gain scale, that'll be lower and then
+move higher. So we're still focused on having strong margins in China. We'll go through a bit of a
+transition with the EVs. But we think that especially the growth of Cadillac and some of our larger
+SUVs will help offset that.
+Q - `Itay Michaeli, Analyst, Citigroup Global Markets, Inc. `
+That's very helpful. And then I think you mentioned $1 billion still assumed for commodities and
+tariffs. Love to get your thoughts on the tariff component in terms of what you're assuming? And
+just some – what are some of the scenarios that we should be thinking about with Section 232
+and some of the other items that are still outstanding out there?A - `Dhivya Suryadevara, Executive Vice President and Chief Financial Officer `
+Yeah, Itay, it's a pretty volatile environment, so I don't want to put specific numbers on individual
+components here. You've seen some pullback in steel and aluminum. Palladium has gone up, and
+it changes day to day.
+So I wouldn't really break that down into individual components. We do have the [Section] 301
+tariffs factored into our outlook for the year. That's embedded in our $1 billion number. And as we
+said last year, the amount – since our sourcing for steel and aluminum is largely local, we don't
+anticipate any tariff component there. That's more with where the spot prices are moving. And
+that tends to be lagged by a couple of months.
+So take that as a broader $1 billion number. And we've shown during 2018 that we're going to
+work to offset that with material cost efficiencies and other efficiencies that we can find. And
+that's no different in 2019.
+Q - `Itay Michaeli, Analyst, Citigroup Global Markets, Inc. `
+Great. That's very helpful. Thank you.
+Operator
+Our next question comes from the line of `Joseph Spak, Analyst, RBC Capital Markets LLC with RBC Capital Markets.
+Q - `Joseph Spak, Analyst, RBC Capital Markets LLC `
+Thanks. Good morning, everyone.
+A - `Mary Teresa Barra, Chairman & Chief Executive Officer `
+Morning.
+A - `Dhivya Suryadevara, Executive Vice President and Chief Financial Officer `
+Morning.
+Q - `Joseph Spak, Analyst, RBC Capital Markets LLC `
+Just one quick question, and I think Rod alluded to this. The higher D&A in North America, it looks
+like – I think some of that was accelerated depreciation related to some of the actions you took in
+North America. Was that actually backed out then, the accelerated part, from the adjusted
+results?
+A - `Dhivya Suryadevara, Executive Vice President and Chief Financial Officer `
+That's right. The accelerated depreciation is a part of the overall charge for transformation, which
+is treated as special for EBIT-adjusted. The one that Rod was talking about in the form of
+additional D&A, that is our normal cadence of our D&A normalizing to our capital levels. And we
+saw a portion of that flow through in the fixed component of our EBIT walk. For the fourth quarter
+as well as the calendar year, it impacted results.
+And as I said in 2019, that'll continue to impact results as well. So that's the normal D&A, Joe. The
+accelerated one is not counted in that.
+Q - `Joseph Spak, Analyst, RBC Capital Markets LLC `Okay. So of the $1.5 billion roughly in North America, that includes the accelerated portion. So it
+was – so on an apples-to-apples basis was up a couple hundred million dollars year over year?
+A - `Dhivya Suryadevara, Executive Vice President and Chief Financial Officer `
+Are you talking about the accelerated portion or the normalized portion?
+Q - `Joseph Spak, Analyst, RBC Capital Markets LLC `
+No, just like – just on an adjusted basis, like how much higher was D&A year over year?
+A - `Dhivya Suryadevara, Executive Vice President and Chief Financial Officer `
+I'd say from a transformation perspective, we took a charge of about $1.3 billion for the year. That
+included D&A of about $300 million or so within the $1.3 billion charge.
+Q - `Joseph Spak, Analyst, RBC Capital Markets LLC `
+Okay.
+A - `Dhivya Suryadevara, Executive Vice President and Chief Financial Officer `
+So that's the transformation portion. And on a normalized basis, if you look at our calendar year
+EBIT walk, the fixed component had a year-over-year increase. A vast majority of that, if not all of
+it, I would say would be attributed to D&A.
+Q - `Joseph Spak, Analyst, RBC Capital Markets LLC `
+Okay. And then so the real I guess point in going down this path is, as we think – you show the
+free cash flow walks on slide 13. As we think about that CapEx less depreciation for 2019, does
+that gap further narrow relative to your $8 billion to $9 billion CapEx guidance for the year?
+A - `Dhivya Suryadevara, Executive Vice President and Chief Financial Officer `
+Yeah, the way I would think about that bridge is in 2019, you're going to have $1 billion of
+additional depreciation and pension income, which are noncash. So you'll see the compression in
+the first two bars coming from that.
+And in 2020, you're going to see additional depreciation and pension and a decline in $1 billion of
+capital. So that should be on top of the pension depreciation number that I would think about.
+And as John asked earlier about GMF, that's the other component of when that dividend starts to
+come in, that will be on top of those first two components.
+Q - `Joseph Spak, Analyst, RBC Capital Markets LLC `
+Okay. Thank you very much.
+A - `Dhivya Suryadevara, Executive Vice President and Chief Financial Officer `
+Sure.
+Operator
+Our next question comes from the line of `Colin Langan, Analyst, UBS Securities LLC with UBS.Q - `Colin Langan, Analyst, UBS Securities LLC `
+Oh, great. Thanks for taking my question. There's obviously a lot of pushback on the plans to
+close some plants. I mean how much of that $4.5 billion is at risk if the unions don't allow those,
+the concessions you're closing? And do you see that as a risk?
+A - `Mary Teresa Barra, Chairman & Chief Executive Officer `
+I think obviously, it's important. We announced that the plants are unallocated. And as part of our
+UAW negotiations this year, we need to finalize the status.
+But I think when you look at the fact that of the 2,800 workers that are impacted, 1,200 of them
+are retirement eligible. And we have about 2,700 jobs available. As I mentioned already, 950
+people have been placed.
+I think as we work through and address the concerns from a workforce perspective, that will go a
+long way to allowing us to make this transition.
+And so I'm – obviously, we have work to do. But when we look at what we need to do from a
+market perspective, we can't run at a 70% utilization. We had to improve that. And that's what
+we'll work to accomplish.
+So that's the way I look at it. And I don't see risks from – especially with the ability that we have to
+move the people to places where we're hiring. I mean we just announced yesterday that we have
+1,000 jobs available in Flint. So I think it's a transition we have to go through. It's work we have to
+do and problem solve with the UAW.
+Q - `Colin Langan, Analyst, UBS Securities LLC `
+Got it. And when we look at your 2019 guidance, I mean what is the assumption on pickup? I
+mean do you expect to – I mean is it more about the new product taking pricing? Some of the
+recent data shows some market share shift. Obviously, it's volatile month to month. But I mean
+are you optimistic that you're going to gain share with new truck? Or is it more about pricing?
+A - `Dhivya Suryadevara, Executive Vice President and Chief Financial Officer `
+I would say it's volume, mix, price, all of the above. We expect the truck penetration to hover
+around the ranges that it has in the recent past, which is in the low 20s. We expect that to
+continue going forward.
+The crew-cab mix is an important component of all of this. As I mentioned earlier, in the second
+half of the year when we released the constraint on crew-cabs with Fort Wayne, we saw the
+tailwind associated with that. And we're going to see in the full year calendar year a full impact of
+both Fort Wayne and Silao running at full crew-cab capacity.
+Q - `Colin Langan, Analyst, UBS Securities LLC `
+Got it. So the recent market share changes that are showing up, they're not concerning to you I
+guess is the short answer?
+A - `Dhivya Suryadevara, Executive Vice President and Chief Financial Officer `
+Yeah, I wouldn't extrapolate from one data point, Colin.Q - `Colin Langan, Analyst, UBS Securities LLC `
+Got it. And just lastly, any color on where your inventory in China is? There's a lot of concern that
+there's still high inventories I guess across the industry.
+A - `Dhivya Suryadevara, Executive Vice President and Chief Financial Officer `
+Yeah, I would say we've taken actions in Q4 to right-size our overall production levels. We took
+out about 250,000 units of production in China in Q4. If you look at the overall inventory picture,
+we target to be typically around 40 to 45 days of inventory. SGM, which operates more in the Tier
+1 to 2 cities, is a touch above that. And we're working on that further in Q1 of 2019.
+SGMW, is at a level that is higher than we would like. And again, that's action that we have to
+continue to take in Q1 as well. So when I talk about cadence in my remarks, and I alluded to Q1
+being the seasonal low in China as well, it factors the inventory rightsizing actions within that.
+Q - `Colin Langan, Analyst, UBS Securities LLC `
+Got it. All right. Thank you very much for taking my questions.
+A - `Dhivya Suryadevara, Executive Vice President and Chief Financial Officer `
+Sure.
+A - `Mary Teresa Barra, Chairman & Chief Executive Officer `
+Sure.
+Operator
+Our next question comes from the line of `David Tamberrino, Analyst, Goldman Sachs & Co. LLC with Goldman Sachs.
+Q - `David Tamberrino, Analyst, Goldman Sachs & Co. LLC `
+Great. Let's stay in China for the moment. China, reading the tea leaves on your comments, does
+it sound like your JV income should take a step down from the $300 million run rate in the fourth
+quarter and the first quarter, as you take some of these inventory actions and shut down
+production in wholesales? But then you're expecting it to improve sequentially throughout the
+year? And outside, getting to normalized wholesale shipments, I'm just wondering, what's the
+main driver there?
+A - `Dhivya Suryadevara, Executive Vice President and Chief Financial Officer `
+Yeah, firstly, I would not assume that it would take a step down from Q4. I would say similar to
+Q4, we're taking inventory actions. We took them in Q4 from a production perspective. And
+we're going to continue to take them in Q1 as well.
+And I think it's important to note, the 20 new launches that we talked about earlier, they are in
+Q2, Q3, and Q4. So actions that are specific to us I would say really start to take effect in the
+latter half of the year.
+So from a cadence perspective in China, I would say Q1, expect similar-ish levels to Q4. And then
+a pickup after that. But obviously with an eye overall on the macro environment as well as the
+sales picture over there.Q - `David Tamberrino, Analyst, Goldman Sachs & Co. LLC `
+Got it. That's helpful, Dhivya. And then from a Cruise perspective, the spend, well below your $1
+billion target for the year. Is there anything to read into that? Are you signaling anything here? I
+kind of want to understand if there was a tone shift. Earlier, another analyst asked a question, it
+wasn't necessarily answered or not, if we should expect a later deployment than 2019. It seemed
+a little bit more squishy, if I can use that term.
+But on the back of that one tone shift question too, should that spend in 2019 ramp towards that
+$1 billion that you were looking for? And then what type of increased spend are you really
+contemplating at deployment for your operations as well as customer acquisition costs with
+getting people into a AV ride-hailing network?
+A - `Mary Teresa Barra, Chairman & Chief Executive Officer `
+Well, David, we're not squishy at all on our plan for AV for Cruise. I would say one of the reasons
+the spend is lower, turned out to be lower in 2018, is Kyle Vogt is an excellent leader and
+manager. And he spends every dollar like it's his own. So there's incredibly good cost controls in
+Cruise – in GM Cruise, so that's – and you saw what we expect to spend this year. So I think that's
+just good cost discipline.
+As I said that this is one of the biggest technical challenges of our time. But I think we're really
+well positioned. We're committed. We have every resource we need. And if they come forward
+and say they need additional resources, we stand ready to provide those. So I think it's in a strong
+position from funding. I think it's in a strong position as we continue to do the development.
+And so we're going to keep you posted throughout the year, but we're on track from the
+performance that we've talked about. And I think again, reference the video, that what the
+vehicle is now able to do. We're going to continue to work on the regulatory front as well. And we
+will hold ourselves to the safety standards that we've set. But we're committed. And we're
+moving at a very aggressive pace.
+Q - `David Tamberrino, Analyst, Goldman Sachs & Co. LLC `
+Okay. And just within that, maybe I'm missing it. You did about $700 million of spend this year.
+Your target was $1 billion for 2018. You came in $300 million below that. I understand some cost
+saves. Are you expecting a similar level, $700 million, in your 2019 guidance or (40:10)?
+A - `Dhivya Suryadevara, Executive Vice President and Chief Financial Officer `
+Our guidance for 2019 for GM Cruise is approximately $1 billion.
+Q - `David Tamberrino, Analyst, Goldman Sachs & Co. LLC `
+All right. Thank you, Dhivya.
+Operator
+Our next question comes from the line of Adam Jonas with Morgan Stanley.
+Q - `Adam Michael Jonas, Analyst, Morgan Stanley & Co. LLC `
+Thanks, everybody. Two quick questions. First, when do you think GM can sell EVs for positive EBIT
+margin, roughly?A - `Mary Teresa Barra, Chairman & Chief Executive Officer `
+So, Adam, we've talked about the fact that with our next generation of development that we
+want to make sure we have obtainable, profitable, desirable, and with the appropriate range.
+And so that is the work that we're doing.
+We benefit from the fact that we have a strong position in China. And as you know, the regulatory
+situation will drive there. Also I think, important to note that we have the partnership with Honda
+to leverage the technology as well.
+So I think we're in a good position, driving our sale cost down, also from a quality perspective.
+And that is our stated goal when we launch that next family of vehicles.
+Q - `Adam Michael Jonas, Analyst, Morgan Stanley & Co. LLC `
+Okay. So I'm interpreting that as kind of post 2020, maybe 2021. Correct me if I'm wrong.
+Second question for either Mary, you, or for Mark [Reuss], if he's on. What do you think of an all-
+electric pickup truck? And when will GM sell an e-Silverado?
+A - `Mary Teresa Barra, Chairman & Chief Executive Officer `
+So I think just – you said correct you if you're wrong. I would say early next decade, but I wouldn't
+put any more specificity on EV profitability than that.
+And all I'll say on your second question is we believe in an all-EV future. So you'll have to stay
+tuned.
+Q - `Adam Michael Jonas, Analyst, Morgan Stanley & Co. LLC `
+We will. Thank you.
+Operator
+Our next question comes from the line of `Ryan Brinkman, Analyst, JPMorgan Securities LLC with JPMorgan.
+Q - `Ryan Brinkman, Analyst, JPMorgan Securities LLC `
+Hi. Congrats on the quarter. Thanks for taking my question. I thought to ask on GM International
+restructuring progress, outside of China, that is. So could you provide us with an update on the
+Korea restructuring announced on the 1Q call last year? And how you would rate your progress
+there since that time?
+Also I think there were two international plants included in the restructuring announcement back in
+November. These were unnamed but slated to close some time in 2019. Presumably they're
+outside Korea, perhaps South America. Any update you can provide on how investors should
+think about the cadence of those savings as 2019 progresses?
+A - `Mary Teresa Barra, Chairman & Chief Executive Officer `
+I mean I would step back and look more broadly at GMI, not including China. And Dhivya has
+already addressed South America. I would say the Korea restructuring is on track. And we're also
+seeing a pickup in our share there. Obviously, that was a difficult period of time. So we continue
+to implement all of the actions that we announced last year.I would say there's still work that we're doing around that region to right size the business, have a
+solid plan to profitability. And that work is underway. So I don't have anything more specific to add.
+But what we announced with the two plants is definitely on track.
+And I don't know, Dhivya, if you have any additional color you want to add there.
+A - `Dhivya Suryadevara, Executive Vice President and Chief Financial Officer `
+I would just say that the cost savings that we have outlined for 2019 contemplate the right
+cadence for these plants as well. So it's all baked in.
+Q - `Ryan Brinkman, Analyst, JPMorgan Securities LLC `
+Great. Thanks. And then lastly but sticking with GMI. It looks like currency continues to be a fairly
+large headwind, $300 million in the quarter. Seemingly the Argentine peso and the real, biggest
+drivers there. Based on the prevailing spot prices, any hedges that you might have?
+And then your localization plans with regard to the GEM platform? How should we think about this
+trend as 2019 progresses?
+A - `Dhivya Suryadevara, Executive Vice President and Chief Financial Officer `
+Yeah, I would say that there's been some stabilization post the elections in Brazil from a Brazilian
+real perspective. But obviously, remains elevated relative to historical averages.
+I think the way to think about Brazil and Argentina is we're able to price in line with inflation in
+Brazil. And we typically pass through the FX headwinds in Argentina. There might be a lag, Ryan,
+but I wouldn't think of Argentina as anything other than you take last few months of FX headwinds
+and kind of factor that into your future pricing ability.
+So I wouldn't think of it as hedges. And we don't use forwards necessarily in these areas. I would
+look at pricing and localization as the two primary levers we have from an FX-management
+perspective.
+And on localization, the next generation of vehicles that I mentioned earlier will be more localized.
+But with all the actions we're taking, it is our objective to be able to breakeven and turn a profit at
+even more extreme levels of FX. So we're continuing to work on it.
+Q - `Ryan Brinkman, Analyst, JPMorgan Securities LLC `
+Thanks a lot.
+Operator
+Our next question comes from the line of Brian Johnson with Barclays.
+Q - `Brian A. Johnson, Analyst, Barclays Capital, Inc. `
+Yes. Want to ask a few questions around GM Financial. First, if I look at full year 2018 over 2017,
+ROA seemed to expand from 140 bps to 195 bps. Could you maybe dimension how much of that
+was due to lease residual performance versus credit performance versus other factors like net
+interest margin or cost saves?
+A - `Dhivya Suryadevara, Executive Vice President and Chief Financial Officer `Yeah, I would say if you look at overall year-over-year GMF EBT bridge, if you will, half of it from
+increase in volumes, as they continue to grow to full captive levels. So just their penetration
+getting higher and their overall volumes getting higher. And the other half coming from the fact
+that residual values were flat in 2018 versus 2017. So take the delta, Brian, and divide that by 2.
+Q - `Brian A. Johnson, Analyst, Barclays Capital, Inc. `
+Okay. So the main factor of the ROA increase would have been the residuals.
+Which gets to the second question. You've talked about a mature run rate of about $2 billion EBIT.
+Full year 2019 was $1.9 billion. And fourth quarter would kind of be right in line with that. Are you
+implying that it's sort of going to be flattish, as perhaps your residual gains come down, given
+your used-car pricing forecast? Or even down next year?
+A - `Dhivya Suryadevara, Executive Vice President and Chief Financial Officer `
+I'd say 2019 flat to 2018. We're expecting a 4%-to-6% decline in residual values, which we expect
+will be offset by the growth in volume that I mentioned and our continued penetration. And the
+other aspect longer term as well, Brian, is, as the business matures, you're able to spread the
+OpEx over a larger asset base. So we should see OpEx efficiencies as well as we move forward.
+Q - `Brian A. Johnson, Analyst, Barclays Capital, Inc. `
+Okay. And the need to grow the asset base is why you're not committing to upping the payout
+ratio to the full 100% just yet?
+A - `Dhivya Suryadevara, Executive Vice President and Chief Financial Officer `
+That's correct. So our current asset base is around north of $95 billion. We would see in the next
+several years that that would tail off probably in the $120 billion range. So the amount of equity
+that we're holding in the FinCo now is to support that remaining growth.
+Q - `Brian A. Johnson, Analyst, Barclays Capital, Inc. `
+And final question is really around your GM Financial JV in China. At least the 3Q is up to 44%
+retail penetration, which seems impressive. A few just more strategic questions.
+To what extent is there further room to use that to offset some of the headwinds in the Chinese
+market? And then, second, as you kind of think about the mix, vehicle mix in China, are you better
+able to penetrate the upper Cadillac/Buick end of the market with that support versus the lower
+end, given the credit profile of the buyers?
+A - `Dhivya Suryadevara, Executive Vice President and Chief Financial Officer `
+I'd say to your first question, there's certainly room from a growth perspective for SAIC, GMAC
+joint venture. We are still in the early stages of, I would say, penetration over there on financing
+and also the leasing portfolio, which is in its infancy. So more growth to be had longer term.
+And across the board I would say in China, adjacencies are at its early stages of development
+across the board, whether it's after sales, GMF, and others. So we'll continue growing those. And
+from a vehicle-mix perspective, perhaps more tilted towards the Tier 1 to 2 markets than the Tier
+3 to 4 market. But I wouldn't specifically draw trends on Cadillac versus other brands.
+Q - `Brian A. Johnson, Analyst, Barclays Capital, Inc. `Okay. Thank you.
+Operator
+Our next question comes from the line of `Emmanuel Rosner, Analyst, Deutsche Bank Securities, Inc. with Deutsche Bank.
+Q - `Emmanuel Rosner, Analyst, Deutsche Bank Securities, Inc. `
+Hi. Good morning, everybody.
+A - `Mary Teresa Barra, Chairman & Chief Executive Officer `
+Morning.
+Q - `Emmanuel Rosner, Analyst, Deutsche Bank Securities, Inc. `
+I wanted to ask you about the expected cadence of some of the benefits from your restructuring
+actions. I assume that as part of your comments around the cadence for the earnings this year,
+some of it is also when some of these benefits hit, and maybe beyond the first quarter.
+So can you maybe talk to us about that $2 billion to $2.5 billion benefit expected for this year?
+How should we think about it in terms of progression throughout the year?
+A - `Dhivya Suryadevara, Executive Vice President and Chief Financial Officer `
+Yeah, I'd say we're off to a pretty good start. As I mention in my comments, Q4 we already
+started to see early signs of these savings starting to flow through. And if you look at calendar
+year 2019, the savings will be tilted more towards the earlier part of the year. So we'll be off to a
+pretty good start here after Q1. So I'd say Q1 is when we implement it. Q2 onwards, you'll start to
+see the benefits.
+Q - `Emmanuel Rosner, Analyst, Deutsche Bank Securities, Inc. `
+Okay. Understood. And I guess a second question, did – I don't think there was a big focus on the
+capital markets today. But I was curious about your thoughts around the opportunity to do some –
+or the priority around doing some buybacks this year. It feels like if you achieve your $4.5 billion to
+$6 billion guidance, even after financing, restructuring and the common dividend, it feels like
+there could be some room, depending on where you shake out, for some buyback. Is that a
+priority? Or is 2019 viewed as more of a transition year? And then it would come in future years?
+A - `Mary Teresa Barra, Chairman & Chief Executive Officer `
+Yeah. We're going to stay very committed to our capital allocation framework of looking at
+opportunities to continue to invest in the business to generate a greater than 20% return, as well
+as maintaining an investment grade balance sheet. And then if, as we get to that point, there's
+opportunity, that will be returned to shareholders. So don't have anything specific to say, other
+than we're going to follow our process.
+Q - `Emmanuel Rosner, Analyst, Deutsche Bank Securities, Inc. `
+Okay. And then I guess finally, just curious what you're seeing in terms of latest data and trends in
+China. Obviously, you're assuming a fairly flat market for the year, which I think when the guidance
+was given may have been perhaps seen as optimistic. Now the most recent data point
+throughout January seemed to suggest maybe a little bit of stabilization. Are you seeing any ofA - `Mary Teresa Barra, Chairman & Chief Executive Officer `
+No. I think we're seeing improvements from Q4. I mean it's early days, but we're optimistic, not
+only from what we've seen in the month of January, but also what the government has
+announced, because we've seen that have a positive impact.
+And then again, the team there is very focused on cost and improving mix, et cetera. So with the
+new launches, we see a lot of – we see opportunity from an industry perspective with the signs
+we saw in January. And we also have a lot of, I'll say, GM-specific opportunity.
+Q - `Emmanuel Rosner, Analyst, Deutsche Bank Securities, Inc. `
+And so – and just very finally, I guess still on China. So how should we think about your guidance
+for a modest decline in equity income? I mean it seems like you're speaking about Q1 not
+necessarily any worse than Q4. Then I would assume beyond that you sort of have the benefit
+from some of the new product. And then potentially some stabilization in the market. So is it
+really just mathematically you're lapping some very strong quarters last year? Or is there anything
+else that's sort of like a headwind to expect throughout the year?
+A - `Dhivya Suryadevara, Executive Vice President and Chief Financial Officer `
+I wouldn't say there is headwinds to expect beyond what we shared at Capital Markets Day. I
+think it's important to note that when we say moderately lower equity income, we're factoring all
+these in.
+And it's our intent, there will be puts and takes in different regions and between North America,
+China, and so on. It's still our intent to post a strong calendar year results from a company
+perspective.
+So I wouldn't over train on one versus the other. We do expect that, as Mary mentioned, there's
+company-specific factors that's going to help us. It is a volatile market at the end of the day. I
+wouldn't get any more specific on that.
+Q - `Emmanuel Rosner, Analyst, Deutsche Bank Securities, Inc. `
+Great. Thank you.
+Operator
+Our last question comes from the line of `Chris McNally, Fundamental Research Analyst, Evercore ISI with Evercore.
+Q - `Chris McNally, Fundamental Research Analyst, Evercore ISI `
+Hi, team. First-time caller, as they say, so appreciate getting on the call. Maybe I can attack this
+cadence on the North American EBIT just in a slightly different way.
+I think you guys have been clear that Q1 is the low. We have production shutdown, the cadence of
+the cost saves across the year. I think some of the questions investors may have are around in the
+second half. Is there any extraordinary cost that we should think about, given the launch of the
+heavy duty and the SUVs? Because if not, you would think that sort of cadence leads to sort of
+Q4 as another peak. So is there any sort of offsets to the benefits that you've laid out that should
+get better across the year?
+A - `Dhivya Suryadevara, Executive Vice President and Chief Financial Officer `Yeah, I don't think there's any specific launch-related costs or anything we haven't already talked
+about that's going to weigh on North American results. We had talked about depreciation and
+pension income going down and commodity headwinds. That does impact North America. But
+that should be even through the whole year, depending on how commodities behave in the next
+several quarters here.
+But I'd just say beyond what you talked about on Q1 with the downtime and all the factors that I
+mentioned that should positively impact the second half of the year, there's nothing that we
+haven't already discussed.
+Q - `Chris McNally, Fundamental Research Analyst, Evercore ISI `
+Great. And just one follow up on actually the timing of commodities and tariffs. I mean obviously,
+the $1 billion, we're still annualizing some of the costs from last year. So it would make sense that
+those hits are greatest in the first half.
+It sort of surprised me a little bit when you talked about some of the spot prices of the quarter of
+it being a lag of quarters. I know sometimes with hedges, it could be anywhere from four to six
+quarters. Is it possible that if we see these spot levels continue over the first six months that
+there actually could be some benefit by, let's call it, the end of the year, as obviously you've had
+to project out for the full year?
+A - `Dhivya Suryadevara, Executive Vice President and Chief Financial Officer `
+Yeah, the lag that I talked about is in our indexed commodities. We typically experience a three-
+month lag in when the actual impact shows up on our income statement versus when the spot
+prices go up or down.
+And I would say it's really difficult to call the specific cadence of it. As you well know, this moves
+up and down every quarter. I'd say evenly distributed through the entire year. We're obviously
+watching the [Section] 301 tariffs very closely, because that will have an impact.
+And within the current market environment, I'd say you also need to look at the mix of which
+commodities are going up and down as well. So it's difficult to provide any more specificity on a
+topic that is inherently pretty volatile.
+Q - `Chris McNally, Fundamental Research Analyst, Evercore ISI `
+Okay. Thank you very much.
+Operator
+Thank you. I'd now like to turn the call over to Mary Barra for her closing comments.
+A - `Mary Teresa Barra, Chairman & Chief Executive Officer `
+Thank you. Well, thanks, everybody, for participating today. As we begin the next phase of our
+transformation, I want you to know that we are committed to continuing to strengthen the core
+business, as well as continue to accelerate our work to lead in the future of personal mobility.
+We are really repositioning this company from one that was trying to be all things to all people in
+all markets to a very strategic, agile, and profitable company. And we believe we are in a very
+differentiated position than many of the competitors in this industry. We are intent on reinventingpersonal transportation, capitalizing on a $1 trillion opportunity, while making the world safer,
+better, and more sustainable.
+In 2019 we'll continue to deliver on our commitments that we've made to you, our owners, by
+capitalizing on our strong global vehicle portfolio, our adjacent businesses. And we will stay
+focused on driving profitable growth across the business to create value in the short term and
+long term for our shareholders.
+This transformation will be very dynamic. But you have our commitment that we'll continue to act
+with speed, with discipline, and with integrity to drive the business performance that we need to
+win, not only today but in the future. So thanks again for your time.
+Operator
+Ladies and gentlemen, that concludes the conference call for today. We thank you for your
+participation and ask that you please disconnect your line.

@@ -1,0 +1,721 @@
+Q4 2014 Earnings Call
+
+Operator
+Ladies and gentlemen, thank you for standing by, and welcome to the Intuitive Surgical Q4 2014
+Earnings Release Call. At this time, all participants are in a listen-only mode. Later, we will conduct
+a question-and-answer session. Instructions will be given at that time. As a reminder, today's
+conference call will be recorded.
+And now, I'd like to turn the conference over to our first speaker, Senior Director of Finance with
+Intuitive Surgical, Mr. Calvin Darling. Please go ahead, sir.
+Calvin Darling `
+Thank you. Good afternoon, and welcome to Intuitive Surgical's fourth quarter earnings
+conference call. With me today we have Gary Guthart, our President and CEO; Marshall Mohr, our
+Chief Financial Officer; and Patrick Clingan, Director of Finance.
+Before we begin, I would like to inform you that comments mentioned on today's call may be
+deemed to contain forward-looking statements. Actual results may differ materially from those
+expressed or implied as a result of certain risks and uncertainties. These risks and uncertainties
+are described in detail in the company's Securities and Exchange Commission filings including our
+most recent Form 10-K, filed on February 3, 2014, and our Form 10-Q, filed October 23, 2014.
+These filings can be found through our website or at the SEC's EDGAR database. Prospective
+investors are cautioned not to place undue reliance on such forward-looking statements.
+Please note that this conference call will be available for audio replay on our website at
+intuitivesurgical.com on the Audio Archives section under our Investor Relations page. In addition,
+today's press release and supplementary financial data tables have been posted to our website.
+Today's format will consist of providing you with highlights of our fourth quarter results, as
+described in our press release announced earlier today, followed by a question-and-answer
+session. Gary will present the quarter's business and operational highlights. Marshall will provide athen I will provide our financial outlook for 2015. And finally, we will host a question-and-answer
+session.
+With that, I will turn it over to Gary.
+Gary S. Guthart `
+Thank you for joining us on the call today. 2014 has been a year of transition for Intuitive with
+macroeconomic uncertainty at the start of the year giving way to improving performance as the
+year progressed. At the outset, we focused on driving adoption of our platform in general
+surgery, in launching key new products and in increasing our organizational capability and
+performance in international markets, particularly Europe and Japan. The organization has
+responded well in the year with solid procedure performance and a strong launch of our newest
+generation da Vinci platform. General surgery and international procedures have become the
+growth engine for the business.
+Starting with a review of procedures, year-over-year growth was approximately 9%, led by
+growth in general surgery, growth in the use of da Vinci outside of the United States, and the
+strength in urology, offset by flat annual performance in gynecology. General surgery growth was
+approximately 33% for the year, comprised of strong growth in da Vinci colorectal surgery, hernia
+repair, and in other general surgery procedures, offset by slowing da Vinci Single-Site use in
+cholecystectomy. While Single-Site Cholecystectomy procedures were up in 2014, they were
+down in the fourth quarter.
+Outside of the United States, procedure growth remained robust, rising approximately 20% over
+procedures in 2013 based on strength in Europe and Asia. Patrick will review procedure trends in
+greater detail later in the call.
+Looking at trends in capital sales for the year, capital placements increased in sequential quarters,
+helped by the launch of da Vinci Xi in the second quarter of 2014. Outside of the United States,
+our capital business was solid with international system strength in Europe and Asia outside of
+Japan. System sales weakened in Japan over 2013 as customers wait for both Xi clearance and
+additional reimbursement. Sales elsewhere, particularly China grew over 2013.
+Our product launches were significant in 2014. In the second quarter, we launched our fourth
+generation platform, the da Vinci Xi Surgical System. We launched Xi in the United States in April
+followed by CE mark in June, availability in France, Austria, and Switzerland in October and Korea
+in December. The Xi System enhances our prior generation systems by improving multi-quadrant
+access to the body, introducing the ability to move the endoscope between robotic arms,
+increasing range of motion and reach with slimmer arms and enhancing ease-of-use and set up.
+Customer reception of the Xi has been strong with interest and use by multiple specialties,
+including colorectal surgeons, urologists, thoracic surgeons and gynecologic oncologists.
+Our systems are optimized for different procedures by dozens of instruments and accessories. In
+2014, we added to the initial set of instruments and accessories available for the Xi at launch by
+introducing the Xi Vessel Sealer in Q2, Xi Firefly in Q3, and Xi Stapler in Q1 of 2015. In 2015, we
+plan to submit a 510(k) for software that allows for coordinated table motion with the Xi and a
+510(k) for an Xi-compatible version of our single-site instruments. This filling out of the Xi product
+suite will increase the applicability of the platform to institutions interested in owning a single da
+Vinci system.
+Turning to instruments, we launched our Wristed Needle Driver instrument for use with single-site
+surgery in Q4 of 2014. Surgeons performing single incision hysterectomy with da Vinci Single-Siteare particularly interested in the Wristed Needle Driver and initial uptake has been strong. Single-
+site hysterectomy with Wristed Needle Driver is still in its early days and projecting its long-term
+impact on the hysterectomy market is premature.
+In the fourth quarter of 2014, we issued a field action for our da Vinci Si Stapler after we observed
+three inter-operative instrument failures. In each case, these procedures were completed
+successfully minimally invasively. Our team has identified the root causes of failure and has re-
+qualified the Stapler. As of this first quarter of 2015, the Si EndoWrist Stapler is back in production,
+and first cases have been completed. Our Xi Stapler was also launched in the quarter with first
+cases completed this month.
+Looking back at the full year 2014, our operating performance was as follows: worldwide
+procedures grew approximately 9%. We shipped 431 surgical systems in the year, down from 546
+in 2013. Total revenue was $2.1 billion, down 6% from 2013. Recurring revenue grew to $1.57
+billion, up 5% and comprising 70% of total revenue. We generated $819 million in operating profit
+before non-cash stock option expense, down 21% from last year. Pro forma net income was $607
+million, down 24% from 2013, and we reduced our shares outstanding by repurchasing 2.5 million
+shares at an average price of $398 per share during 2014.
+Turning to our operating performance in the fourth quarter, procedures grew approximately 10%
+over the fourth quarter of last year. We sold 137 da Vinci Surgical Systems, down from 138 in the
+fourth quarter of 2013. Total revenue for the quarter was $605 million, up 5% from prior year.
+Instrument and accessory revenue increased to $281 million, up 5%. We generated an operating
+profit of $237 million in the quarter before non-cash stock compensation expense, down 8% from
+the fourth quarter of last year, and pro forma net income was $184 million, down 5% from Q4 of
+2013.
+In 2014, we made significant investments in our organization, including growing our direct
+commercial organization in Japan. We anticipate growing our organization in specific areas
+through 2015 with particular emphasis on Asia, Europe, and in operations.
+Looking to 2015, our priorities are as follows. First, we will focus on the expanded use of da Vinci
+in general surgery, particularly colorectal surgery and hernia repair. Second, we'll work to
+complete our launch in new product introductions of da Vinci Xi in key markets globally. Third,
+we'll develop our organizational capabilities and markets in Europe and Asia, and finally, we plan
+to build Xi compatible da Vinci Sp prototypes and initiate customer evaluations.
+I will now turn the call over to Marshall who will take you through our financial highlights.
+Marshall L. Mohr `
+Thank you, Gary. Our first quarter 2014 revenue in procedures were consistent with our press
+release issued on January 13. Fourth quarter revenues were $605 million, up 5% compared with
+$576 million for the fourth quarter 2013, and up 10% from last quarter. Procedures for the fourth
+quarter grew approximately 10% compared with the fourth quarter of 2013, and approximately
+9% compared with last quarter.
+I will be describing our results on a non-GAAP or pro forma basis, which excludes the impact of
+our Xi trade-in programs, legal claim accruals, stock-based compensation, amortization of
+purchased IP, and investment impairments. We are providing pro forma information because we
+believe that business trends and operating results are easier to understand on a pro forma basis.
+I will also summarize our GAAP results later in my script. We have posted reconciliations of our pro
+forma results to our GAAP results on our website so that there is no confusion.Procedure highlights will be covered by Patrick. Revenue highlights are as follows. Pro forma
+instrument and accessory revenue grew 4% compared with the fourth quarter of 2013 and 3%
+compared with the third quarter of 2014. The increases relative to prior quarters reflect
+procedure growth partially offset by customer buying patterns and the impact of the field action
+for our da Vinci Si Stapler. We have resolved the issue underlying the Stapler and began shipping
+it again early in the first quarter of 2015. We also began shipment of our Xi Stapler early this
+quarter. Instrument and accessory revenue realized per procedure, including initial stocking
+orders, was approximately $1,830 per procedure compared with $1,930 for both the fourth
+quarter of 2013 and last quarter. The decrease from the prior year as well as the prior quarter
+reflects the timing of customer orders and the field action for our da Vinci Si Stapler.
+Pro forma system revenue of $211 million increased 3% compared with the fourth quarter of 2013,
+and increased 37% compared with the third quarter of 2014. The increase in systems revenue
+compared with the third quarter primarily reflects higher systems sales in Europe and the U.S. 137
+systems were placed in the third quarter, excluding two Xis traded for Sis under our trade-out
+program, compared with 138 systems in the fourth quarter of 2013 and 111 systems last quarter.
+97 of the systems placed in the fourth quarter were Xis, compared with 59 in the third quarter
+and 50 in the second quarter.
+Globally, our system ASP of $1,550,000 increased relative to the ASP for the fourth quarter of last
+year of $1,460,000 and relative to the last quarter of $1,450,000. The increase in ASPs relative to
+last year reflects product mix, where the current quarter included a high mix of Xis and the fourth
+quarter of 2013 included a high mix of the Si-es. The increase in ASPs relative to the last quarter,
+reflect a higher proportion of Xi systems, a higher proportion of dual console systems and a
+positive geographic mix.
+Hospitals financed approximately 15% of the systems placed in the fourth quarter, down from
+27% last quarter. We directly financed 12 systems, of which five were structured as operating
+leases. Through the fourth quarter of 2014, we have entered into 14 operating leases. In the U.S.,
+we placed 71 systems in the fourth quarter, compared with 72 systems in the fourth quarter of
+2013 and 61 systems in the third quarter of 2014. Outside the U.S., we sold 66 systems in the
+fourth quarter, compared with 66 in the fourth quarter of 2013 and 48 systems last quarter.
+Year-over-year system placements reflect growth in Europe, 39 systems this quarter compared
+with 28 systems last year, and a reduction in Japan systems, six systems this quarter compared
+with 21 systems last year. Quarter-over-quarter system placement growth reflects higher system
+placements in Europe and other world markets. Fourth quarter system sales included nine into
+Italy, seven into Turkey, and five into the Nordic countries.
+International revenue results were as follows: fourth quarter pro forma revenue outside the U.S.
+was $197 million, or approximately the same as the fourth quarter of 2013 revenue of $195 million,
+and up 29% compared with $153 million last quarter. Our higher sequential international revenue
+was driven by increased procedures and higher system sales in a seasonally stronger quarter.
+Fourth quarter 2014 OUS procedure volume was approximately 21% higher than the fourth
+quarter of 2013 and 14% higher than the third quarter of this year. Procedure volume growth was
+led by dVP but also reflected strong growth in GYN and general surgery.
+Moving on to the remainder of the P&L, pro forma gross margin in the fourth quarter of 2014 was
+67.1% compared with 70.7% for the fourth quarter of 2013 and 67.2% for the third quarter of 2014.
+Our lower margin percentage relative to prior quarters primarily reflects a high mix of Xi Systems.
+In the first quarter, we recorded a pre-tax charge of $67 million to reflect the estimated costs of
+settling a number of product liability legal claims against the company. During the second quarterand the fourth quarter, we recorded additional charges of $10 million and $5 million, reflecting
+additional claims.
+These claims relate to the alleged complications from surgeries performed with certain versions
+of monopolar cautery scissor, or MCS instruments that included an MCS tip cover accessory that
+was the subject of a market withdrawal in 2012, in surgeries that were performed with MCS
+instruments that were the subject of a recall in 2013. Our estimate of the anticipated cost of
+settling these claims is based on negotiations with attorneys for patients who have participated in
+the mediation process that the company established in conjunction with a tolling agreement. We
+will continue to refine our estimates as we proceed through the negotiation process.
+Pro forma operating expenses, which exclude the reserves for legal claims, stock compensation
+expense, and amortization of purchased IP, were up 9% compared with the fourth quarter of
+2013 and were up 2% compared with last quarter. Our fourth quarter 2014 pro forma operating
+expense compared to the fourth quarter of 2013 reflects head count additions and higher
+incentive compensation. The increase compared to last quarter was driven by higher incentive
+compensation and severance costs.
+Our pro forma effective tax rate for the fourth quarter was 23.5% compared with 25.8% for the
+fourth quarter of 2013 and 27.2% last quarter. The pro forma effective tax rate for 2014 benefited
+from the release of reserves specific to tax years where we have completed our IRS audit or
+jurisdictions where the statute of limitations have now expired. In addition, the fourth quarter of
+2014 rate benefited from the reinstatement of the federal research and development credit. We
+anticipate our pro forma effective rate for 2015 will reflect a more normal range of 28% to 30%.
+Our tax rate will fluctuate with changes in mix of U.S. and OUS income and will not reflect a
+federal research and development credit unless such credit is reinstated.
+Our pro forma net income was $184 million, or $4.92 per share, compared with $193 million, or
+$4.98 per share, for the fourth quarter of 2013 and $145 million, or $3.91 per share, for the third
+quarter of 2014. Excluding one-time tax benefits, our fourth quarter 2014 pro forma net income
+would've been $159 million, or $4.25 per share. As I indicated earlier, pro forma income provides
+an easier comparison of our financial results and business trends.
+I will now summarize our GAAP results. GAAP revenue was $605 million for the fourth quarter of
+2014 compared with $576 million for the fourth quarter of 2013 and $550 million for the third
+quarter of 2014. GAAP net income was $147 million, or $3.94 per share for the fourth quarter of
+2014 compared with $166 million, or $4.28 per share, for the fourth quarter of 2013 and $124
+million, or $3.35 per share, for the third quarter of 2014. We ended the quarter with cash and
+investments of $2.5 billion, up from $2.3 billion as of September 30, 2014. The increase was
+primarily driven by cash generated from operations. During the year, we repurchased 2.5 million
+shares for $1 billion at an average purchase price of $398 per share.
+And with that, I'd like to turn it over to Patrick, who will go over our sales, marketing and clinical
+highlights.
+Patrick Clingan `
+Thanks, Marshall. As mentioned earlier, our total Q4 year-over-year procedures grew
+approximately 10%, with U.S. procedures growing approximately 8% and international procedures
+growing approximately 21%. In U.S. urology, the uptick in dVP procedures experienced in Q3
+continued in Q4. Given our high rate of penetration in the U.S. prostatectomy market, our dVP
+volumes are likely to track overall U.S. prostatectomy volumes. Coupled with continued growth inIn U.S. gynecology, Q4 results were similar to prior quarters in 2014, with low single-digit
+procedure declines. dVHb volumes appear consistent with the expected total market, benign
+hysterectomy procedure declines, partially offset by growth in cancer procedures. Single-site
+hysterectomy continued to display rapid early growth off a small base.
+Moving on to U.S. general surgery, adoption continues to be solid across a broad number of
+procedures. Colorectal and hernia adoption remains a source of strength, while
+cholecystectomies declined modestly in the quarter. Over the course of 2014, we have seen a
+shift in focus from cholecystectomy to hernia repair by our general surgeons and sales force.
+Despite the decline in cholecystectomies this quarter, we continue to hear positive feedback
+from segments of the patient and surgeon populations that see value in the single-incision
+approach of our Single-Site technology or the real-time imaging of the biliary anatomy with our
+Firefly technology among advantages associated with robotic surgery.
+Looking more deeply at hernia repair, we are encouraged by robust procedure growth coupled
+with positive feedback about the clinical outcomes being generated with da Vinci Surgery during
+these early stages of adoption. However, hernia repair is a broad term, and the benefits
+associated with robotic and minimally invasive surgery varies across patient subsets. Provincial
+hernias, surgeon feedback around the ease of suturing and enhanced vision associated with
+robotic surgery enables a minimally invasive closure of the primary defect that is similar to open
+surgery.
+Relative to laparoscopy, da Vinci surgeons have commented on increased intra-abdominal
+surgical dexterity for dissection and suturing, less post-operative pain, and similar or lower
+material operating costs. For inguinal hernia, discussions continue among surgeons about the role
+of minimally invasive surgery for some procedures. However, da Vinci surgeons have reported to
+us that for certain inguinal hernias, there are advantages in trans-abdominal defect closure and
+reduction in postoperative pain. Defining the subsets of hernia repair where robotic surgery is
+expected to thrive is difficult, particularly in these early days, but we are encouraged by our
+physician commentaries.
+Looking abroad, international Q4 procedure growth of approximately 21% continued to be led by
+global adoption of dVP and other urologic procedures, with solid early contributions from
+gynecology and general surgery. In Japan, we've seen continued adoption of dVP. Clinical trials to
+support our reimbursement submissions for partial nephrectomy and gastrectomy have begun
+enrollment, and we continue discussions with key opinion-leading surgeons and surgical society
+leadership on other procedures of interest. Recently, a population-based study of the first year of
+dVP adoption in Japan was completed by researchers from the University of Tokyo and the
+Cleveland Clinic that included more than 10,000 patients.
+Published in cancer science, the study found that dVP, despite being within the first year of broad
+adoption, was associated with a lower complication rate, lower transfusion rate, shorter
+hospitalization, longer anesthesia time, and higher cost compared to open surgery and minimally
+invasive alternatives. There is little detail around how costs were calculated in this study, though
+they appear correlated to anesthesia time. We know from prior studies that with experience,
+both cost and operating room time decline. The authors found the favorable clinical outcomes
+with robotic surgery noteworthy during these early phases of the introduction of our technology,
+offsetting the longer anesthesia time.
+In Europe, in addition to strong capital sales, we are encouraged by continued clinical
+developments. While dVP adoption is driving the majority of procedure growth, initial
+developments in colorectal surgery may establish the foundation for future adoption. Under theleadership of key opinion-leading surgeons, the European Academy of Robotic Colorectal
+Surgeons was launched in December. Through a network of hospitals and surgeons, this group is
+providing standardized training and proctoring to support the introduction of robotic colorectal
+surgery across Europe. While there have been cost studies published that compare robotic
+surgery within patient and surgeon populations amenable to laparoscopy, additional cost studies
+with appropriate comparators were published this quarter.
+I'll quickly review one from the University of Pittsburgh published in the Journal of the Society of
+Laparoendoscopic Surgeons that compared robotic to laparoscopic in open benign
+hysterectomies among surgeons who most commonly perform open surgery. The study
+reviewed nearly 5,000 benign hysterectomies performed by 237 surgeons across 10 hospitals
+from 2011 to 2013, including 119 surgeons that predominantly performed open hysterectomies.
+Using actual cost data during the hospital stay, the authors found that when open surgeons
+perform robotic and laparoscopic procedures, the costs were similar on an operating cost basis,
+including an add-on cost for robotic maintenance and depreciation resulted in higher cost for
+robotic surgeries, but the authors noted a bias in this analysis due to the exclusion of similar costs
+associated with the laparoscopic procedures.
+In conclusions, the authors stated, "Although laparoscopic hysterectomy had the lowest costs
+overall, robotics may be no more costly than laparoscopic hysterectomy when performed by
+surgeons who predominantly perform open hysterectomy."
+This concludes my remarks, and I thank you for your time. I will now turn the call over to Calvin.
+Calvin Darling `
+Thank you, Patrick. I will be providing you with our financial outlook for 2015. Starting with
+procedures, as described in our announcement last week, 2014 total da Vinci procedures grew
+approximately 9% to roughly 570,000 procedures performed worldwide. During 2015, we
+anticipate full year procedure growth within a range of 7% to 10%. We expect similar seasonal
+timing of procedures in 2015 as we have experienced in previous years with Q1 being the
+seasonally weakest quarter as patient deductibles are reset.
+With respect to revenue guidance, consistent with last year, we will not be providing specific
+revenue guidance. We do expect 2015 capital sales to follow historical seasonal patterns with Q1
+being sequentially lower than the recently completed Q4. We will face foreign-exchange
+headwinds in 2015 based upon the impacts of the stronger U.S. dollar.
+Turning to gross profit. We expect our 2015 pro forma gross profit margin to be fairly consistent
+with Q4 2014 based upon the anticipated proportion of Xi, Stapler, and other new products with
+lower gross profit margins in our product mix and the foreign exchange headwinds I mentioned
+earlier, partially offset by cost reductions realized during the year. Our actual gross profit margin
+will vary quarter-to-quarter depending largely upon product mix and systems production volume.
+Turning to operating expenses. We expect to grow pro forma 2015 operating expenses between
+7% and 10% above 2014 levels. As we have stated previously, we believe it is fundamentally early
+days for computer-assisted surgery, and we will continue to make investments to pursue
+significant growth opportunities. We expect our non-cash stock compensation expense to range
+between $180 million and $185 million in 2015, compared to $169 million in 2014. We expect other
+income, which is comprised mostly of interest income, to total between $14 million and $16 million
+in 2015.With regard to income tax, as Marshall described, we expect our 2015 pro forma income tax rate
+to be between 28% and 30% of pre-tax income, depending primarily on the mix of U.S. and
+international profits. This forecast is consistent with our 2014 pro forma tax rate excluding the
+impact of tax reserve releases in 2014 and does not assume the reinstatement of the R&D tax
+credit in 2015.
+Our share count for calculating diluted EPS in Q4 2014 was approximately 37.3 million shares. We
+estimate our Q1 2015 diluted share count to range between 37.4 million and 37.6 million shares.
+That concludes our prepared comments. We will now open the call to your questions.
+Q&A
+Operator
+Thank you, sir. We'll take our first question from the line of Ben Andrew with William Blair. Please
+go ahead, sir.
+Q - `Ben C. Andrew, William Blair & Co. LLC `
+Good afternoon, guys. Thanks for taking the question. Gary, can you talk a little bit about the
+investment plans in terms of dollars, breaking down international versus U.S? Are you adding
+people in the field in the U.S. in 2015? And if so, to what extent? And then maybe talk a little bit
+more about the specific investments overseas that you're making.
+A - Gary S. Guthart `
+Sure. With regard to sales head count, in the U.S. we'll have, I'd anticipate modest growth in U.S.
+head count, not a ton. OUS, in terms of commercial organization, will be a greater source of
+investment. Some of it is in field head count, some of it is in clinical trial effort and dollars, some in
+economics and economists, so a bit of a mix.
+Q - `Ben C. Andrew, William Blair & Co. LLC `
+Okay. And then, Marshall, on the gross margin side, you gave us some good thoughts there in
+terms of the guidance. How much is forex impacting that and when should you get to a volume
+on Xi and Xi instruments where we'd start to see kind of a normalization of gross margin?
+A - Marshall L. Mohr `
+So, FX, a little over 20% of our revenues are FX-based and if you trickle that all the way down to
+what that impact is on the bottom line, because we do have costs that are also FX-based, you
+get down to where the impact is less than 3%. As far as the gross margin goes, we'll be – we're
+ramping Xi, obviously, production given the volume we did last quarter. And we'll continue to try
+to work down costs overall with Xi. And that's typical with all new products, but I'm not sure that
+you should count on it getting on par with Si. It's a more advanced piece of equipment with higher
+complexity.
+Q - `Ben C. Andrew, William Blair & Co. LLC `
+Okay. And then you talked about the revenue per case on instrumentation being down because
+of the product withdrawal. Should we see a bounce back in Q1? And could it overshoot a bit even
+as you've obviously got lower volumes, but then that flowed through the year, so we could see amore traditional stocking of instrumentation as you roll out Stapler and roll these other products
+out?
+A - Marshall L. Mohr `
+Yes, I think the bigger impact in the quarter, frankly, wasn't the field stapler action. It was actually a
+customer buying pattern. We saw fewer stocking orders being filled associated with system
+shipments, and then distributor buying patterns also are odd. If you remember last year first
+quarter we had a higher amount sold through distributors than Q2 it was down, I believe. So
+anyway, the patterns really drove more of that change than did the field action. Having said that,
+we would think, just like we commented in Q2, that we would see a more normalization over time
+of the instrument and accessories per procedure.
+A - Gary S. Guthart `
+Yes, and, Ben, kind of looking forward at the I&A Revenue/Procedure, you look kind of full-year
+2014, it was $1,880 per procedure. And as we discussed earlier, the I&A revenue based in foreign
+currency is definitely going to be facing headwinds based on the stronger U.S. dollar will weigh on
+the overall metric. And as you saw in 2014, the I&A revenue per procedure will vary from quarter
+to quarter largely based on these timing kinds of factors.
+In regards to procedure mix, we don't necessarily see that moving the dial either up or down on
+that, although there are swing items in relation to the metric. One would be our relative success
+with the Stapler and Vessel Sealer utilization and where our revenue/procedure is higher where
+these advanced instruments are used, and conversely, a higher proportion of Single-Site cases
+would weigh on the metric.
+Q - `Ben C. Andrew, William Blair & Co. LLC `
+Great. Thank you.
+Operator
+Next we'll go to the line of Bob Hopkins with Bank of America Merrill Lynch. Please go ahead.
+Q - `Robert Adam Hopkins, Bank of America Merrill Lynch `
+Hi. Good afternoon. And thanks for taking the questions. Can you hear me okay?
+A - Gary S. Guthart `
+We can.
+A - Marshall L. Mohr `
+Yes.
+Q - `Robert Adam Hopkins, Bank of America Merrill Lynch `
+Great. Thanks. So, Gary, just to start out, I'm sorry if I missed this, but could you walk through your
+assumptions for buyback in 2015, and if you're not assuming a buyback, I'm curious as to why and
+what the other priorities might be for your cash?
+A - Gary S. Guthart `We're not declaring anything at this time. When we think about uses of cash, we really think about
+a couple of things. One of them is use to invest in those things that we've talked about; the ability
+to improve our presence in OUS markets, some investment in both operational efficiency and
+new innovations and the ability to respond to opportunity as it comes up, technologically or
+otherwise. Where we see opportunity to return cash to shareholders, we've demonstrated that
+we will, and we keep our eyes open on a routine basis for those opportunities.
+Q - `Robert Adam Hopkins, Bank of America Merrill Lynch `
+Are there better M&A opportunities out there than you've seen in the past?
+A - Gary S. Guthart `
+We have been thoughtful and persistent for years now, and so I wouldn't comment strongly one
+way or another, only that we're thoughtful and engaged in those investigations all the time.
+Nothing has really changed in our rhythm or pattern the last eight quarters.
+Q - `Robert Adam Hopkins, Bank of America Merrill Lynch `
+And then lastly, I want to ask for a real update on Sp. I know the timelines have moved around
+there. Could you just highlight exactly what your expectations are for rollout and approval
+milestones as we think about the course of 2015 and into 2016?
+A - Gary S. Guthart `
+So where we are, what we're trying to achieve on Sp, Sp is our dedicated single-port platform. As
+we talked about last year, our intent is to bring some of the functionality and features that we had
+brought forward in Xi and that had been well received by both our customers and by folks who
+review our products. Into the Sp, we're doing that now. That feels pretty good to me. I think it's
+the right set of decisions to make. We'll develop those products and assemble them in the front
+half of the year and start getting customer feedback on them into the back half of the year. We
+are working with regulatory bodies about what submissions might look like. We don't have
+timelines to share with you on what our submissions will be, and as those firm up, we'll
+communicate them with you.
+Q - `Robert Adam Hopkins, Bank of America Merrill Lynch `
+Okay. And then maybe to sneak one more in on Japan, just really quickly. I'm trying to gauge your
+confidence on the topic of Japan and whether or not you're confident at this point in suggesting
+that by the time we get to 2016, we will see increases that can drive better procedure volume
+growth at that time. It's really a question of gauging your confidence based on what you know
+today.
+A - Gary S. Guthart `
+We are actively involved. I can't give you a number or a binary decision on it. We have several
+conversations going on and real work in several different procedure categories. There are a lot of
+people who have high interest in Japan and our products. A lot of our existing customers and
+future customers, and we're working on it diligently. There are several milestones that have to be
+met both on the path we're on and some alternative pathways that are real decisions on the part
+of government decision makers as to where they want to go and how they want to proceed, and
+it would be premature to try to forecast for you what those decisions would be.Fair enough. Thank you.
+Operator
+And next we'll go to the line of Tao Levy with Wedbush. Please go ahead.
+Q - `Tao L. Levy, Wedbush Securities, Inc. `
+Yes. Hi. Good afternoon. I wanted to ask a little bit if you can maybe expand on what you said in
+the prepared remarks regarding the early uptake in hysterectomy of the Wristed Single-Site
+instruments. And certainly, what type of procedures, what type of patients, which surgeons are
+starting to adopt it, and is it cannibalizing multi-arm hysterectomies? Anything like that would be
+helpful.
+A - Gary S. Guthart `
+Sure. The primary procedure that the Wristed Needle Driver – Single-Site Wristed Needle Driver is
+being used for is benign hysterectomy. And it's being pursued for patients who have an interest
+in a single incision. We see a mixture of existing robotic surgeons and those who have not
+approached da Vinci systems before, so it's both folks who are currently engaged with us as
+customers and those who have not prior engaged, we see a mixture of both of those. Product is
+performing well. Early demand has been really good. And what we really want to watch and track
+is what happens on reorders and how people really experience it as the go forward.
+We see a little bit of both in the early stages. A little bit of switching multi-port procedures into
+Single-Site and a little bit of approaching patients that otherwise would not have been done
+necessarily multi-port robotically. So we're seeing both of those things, and it will take some
+quarters, I think, to shake out where people ultimately find that optimization. I am not too
+stressed about a little bit of cannibalization here. I think that goes with the territory, and we'll
+support surgeons taking the approach they think is most appropriate.
+Q - `Tao L. Levy, Wedbush Securities, Inc. `
+Okay. That's helpful. And a question on the price of the Si-e. I noticed in your latest presentation
+that now has an ASP of around – or at least last year – of around $600,000 and the prior year was
+closer to $1 million. In terms of the pricing of that system, what's the objective? In the past, you've
+talked about outpatient surgery being a potential opportunity if the pricing structure was correct
+for kind of the hospitals. Is that part of that? Or is this just pricing pressure you're trying to
+prevent competition from coming in at a lower price?
+A - Gary S. Guthart `
+Well, as you know, we have a range of options. So at the low-end, and I would not read that chart
+as saying that the ASP of Si-es is that number. It's just showing you kind of where the lower end is,
+and that is looking at de-featured Si's, the lower featured content Si-es, including things like
+Firefly and so on. So you take those things out that moves you lower in the range.
+With regard to do we think that there's possibility in other types of care, other sites of care, I think
+the answer to that is yes. So you think about both, there's kind of duration of care when you talk
+about things like outpatient, but there's both duration and location. How long are they in the
+hospital and where is it being performed?
+And we see increases in both; increases in shorter duration stays and an increase in robotic
+surgery in different locations. And so Si and Si-e, some of those lower-priced packages aredesigned to give an option to some of the customers who are interested in exploring that space.
+And so we've seen some interest. I don't think it's been a wild interest, unabashed interest, but
+we have seen some interest and we've seen some uptake. And you just see that reflected in the
+system sales numbers and placement numbers that we've shared with you.
+Q - `Tao L. Levy, Wedbush Securities, Inc. `
+All right. And just lastly, just a quick clarification. The Xi Single-Site instruments that you're talking
+about, that's different than the Sp?
+A - Gary S. Guthart `
+That is different, right.
+Q - `Tao L. Levy, Wedbush Securities, Inc. `
+Okay.
+A - Gary S. Guthart `
+So exactly, the Single-Site instruments are the ones that go through curved cannulas. They work
+on the same patient side platform as an Xi, the ones that we're developing now, and they're kind
+of an instrument and accessory kit rather than a new patient-side system.
+Q - `Tao L. Levy, Wedbush Securities, Inc. `
+Okay.
+A - Gary S. Guthart `
+Sp is a dedicated single-port patient side, different mechanism, different robot system that
+delivers it. And those are at different price points and they have different capabilities. And as Sp
+progresses, we'll share more of what that product looks like and some of those distinctions with
+our customers and with you as we go.
+Q - `Tao L. Levy, Wedbush Securities, Inc. `
+Okay. Thank you.
+Operator
+And next we'll go to the line of `Amit Hazan, SunTrust Robinson Humphrey with SunTrust. Please go ahead.
+Q - `Amit Hazan, SunTrust Robinson Humphrey `
+Thanks. Good afternoon. Can you hear me okay, guys?
+A - Gary S. Guthart `
+We can.
+A - Marshall L. Mohr `
+Yes.
+Q - `Amit Hazan, SunTrust Robinson Humphrey `Okay, good. Maybe let me just start with the chole side, and obviously the slowdown is quite
+pronounced, if we think about it from 2013 to where we are in Q4 of 2014. So I know there's not
+one driver there. I just maybe want to get some color on the different buckets of impact and
+most importantly kind of the trend line now indicates really declines are going to be in the works
+for next year, and just help us try to assess where the bottom might be to that category.
+A - Gary S. Guthart `
+Let me frame for you how we're thinking about it and I'll let Patrick take you through a little bit
+more of the analytics, so that – we look at Single-Site chole, we think there are three things that
+are important for a procedure long-term, and that is that it's repeatable and teachable, safe and
+efficacious, and we think it is. There's a patient population that cares about it, and in Single-Site
+chole we think that's true. And then the economics work, and we think the economics work for
+that patient population. Then the question becomes one of how big is that population and what's
+access like? And that's really what we're seeing here, as hernia really grows, and Patrick, I'll let
+you take it from there.
+A - Patrick Clingan `
+Yes, Amit. When we look at it where systems, I guess, are pressured for access based upon their
+volumes and where we're seeing declines in – the first procedure that tends to get squeezed is
+the cholecystectomy. In the surgeons for which we're seeing a combination of choles and hernias
+where choles are declining, we're seeing total growth in the volume of procedures that these
+surgeons are performing, which is encouraging, because they're finding where it fits best in their
+practice.
+But over time, based on the underlying advantage of the technologies, what we're hearing from
+surgeons, we're hearing from patients who get a single incision outcome, and given some of the
+underlying patient demographics in the population who gets a cholecystectomy, we're
+encouraged there's something here that we'll be a part of over the long run.
+Q - `Amit Hazan, SunTrust Robinson Humphrey `
+All right. And then if I could shift over to revenue per procedure again, I think at this point I want to
+try to better understand the patterns of stocking order just given the volatility or variability we
+saw in 2014. And I think specifically what I'd like to understand better is the reason it's been more
+volatile in the last few quarters. And maybe asking the impact beyond the simple math of how
+many systems you sell in a given quarter and the stocking associated with it, but why is that more
+volatile, why are you not able to control that a little better on a quarter-to-quarter basis?
+A - Patrick Clingan `
+Yes, we kind of saw a similar thing in Q2 where the revenue per procedure was a bit lower than
+norms and here in Q4 you had kind of a bounce back in Q3. And what we're calling out in each of
+the quarters really is this timing of customer orders. In this last quarter it was timing of various
+types of orders, including stocking orders associated with new system sales. You have fewer of
+those coming through in the quarter than may have been according to historical norms. You have
+timing of orders with international distributors and just general timing of orders. And as I
+mentioned earlier, not so much to do with things like procedure mix. And so is there a pattern of
+this? I think your question is, is there a pattern. I don't think there is. I think these things just tend
+to fluctuate quarter-to-quarter and balance out over longer periods of time.
+Q - `Amit Hazan, SunTrust Robinson Humphrey `Okay. Thanks very much, guys.
+Operator
+And next we'll go to the line of David Lewis with Morgan Stanley. Please go ahead.
+Q - `David R. Lewis, Morgan Stanley & Co. LLC `
+Good afternoon. Gary, just two quick questions. Going back to the chole for a second. Earlier in
+the year, you reduced the price of the chole instrumentation, which actually seemed to have a
+successful impact on driving incremental growth. Why do you think that strategy didn't have more
+staying power, and would you consider further cuts in chole to drive adoption of that procedure?
+And then kind of related, Gary. How do you think hernia and the market development around
+hernia is related? And is there an opportunity to use a similar pricing strategy for hernia to drive
+adoption? And I have a quick follow-up.
+A - Gary S. Guthart `
+Sure. So on the chole side on pricing, we think that where we are right now on chole pricing with
+Single-Site is really appropriate. If you look at the system that's getting average utilization, the
+consumables cost of that procedure and compare it to multi-port alternatives, we think we're
+right in there in terms of being competitive, and appropriate value for what Single-Site can bring.
+So I think we're in a good spot there. I think the biggest thing, and Patrick alluded to it, and the
+biggest thing we are hearing back from our customers is that as they look at competition for time
+on the robot, they are making decisions about which cases get scheduled and which ones don't.
+And that's a near-term problem.
+I think in the U.S. we saw an increase in procedures per system, so that turned around in the year
+where we were building capacity in the beginning part of 2014. The field has now been
+consuming capacity on the robots in the U.S. I think hernia is driving that. And so part of that is this
+issue of which one does a surgeon and an institution find greater value in. At the moment they
+have to make that decision, and I think that's been a primary driver is that competition. And we'll
+see over time if as capacity grows out and we have a broader set of options for them to choose
+from, whether that modulates. We'll have to watch over the next few quarters and see how these
+two play together.
+The economics of hernia are interesting and a little bit different. The laparoscopic hernia repairs
+use a different mix of instruments than choles do. It's a more expensive mix. Using one of our
+systems instead of laparoscopy allows for trade out of some more expensive laparoscopic
+instruments. And so our economic value there is well supported where we are. Currently, I think
+that looks really good. The other thing is that not all hernias are an exchange between
+laparoscopy and da Vinci. A lot of them are still done open – a surprising number are still done
+open, and the economics also look good there. So, hernia economics, the reports we're hearing
+back are pretty solid, and we're feeling like we're in a pretty good position.
+Q - `David R. Lewis, Morgan Stanley & Co. LLC `
+Great, Gary. Very helpful. Just one quick question on Sp timing. So it was encouraging to hear your
+conviction that the delay to improve the system is moving according to plan, at least that's what I
+heard. So just trying to understand the timing here. You're going to lease this product to
+physicians in the first half, you're going to collect feedback from those physicians in the second
+half. So I'm assuming that feedback is going to get incorporated into the device. Is it safe to
+assume there can't be a design lock, then, of the system until the end of 2015 or early 2016? Orcan you submit additional modules to the FDA before you have a design lock? Or am I just
+thinking about this the wrong way?
+A - Gary S. Guthart `
+It's an interesting question. I think the answer is that you are always moving to a point at which
+you lock the design to allow for a submission, and then further feedback and iterations, right? A
+product design is fundamentally iterative. And when you make a decision to submit, it depends a
+lot on where you are, what you see and what kind of performance you're seeing in the product.
+So you ought to think about these as kind of sequential locks, not a big one with a capital L. I think
+from a technology development point of view, I'm quite pleased. I think we have a fantastic team.
+I think that they're bringing technologies forward that we expect, and that are going to make a
+difference. Surgeon evaluation is part of the process. So as those designs get to the point that it
+makes sense to get feedback, we will absolutely do it, and we'll do that through multiple forums,
+both in-house and potentially out of house, and we'll work through that.
+Q - `David R. Lewis, Morgan Stanley & Co. LLC `
+Okay. Thank you very much.
+Operator
+And next we'll go to the line of David Roman with Goldman Sachs. Please go ahead.
+Q - `David H. Roman, Goldman Sachs & Co. `
+Thank you, and good afternoon. Thank you for taking the questions. I wanted to start with
+international, and if I look at the past two quarters, I think the third quarter you benefited from a
+pretty significant order in China, then Q4 saw a nice step up in Europe. Can you maybe just sort
+of talk about the sustainability of this uplift outside the United States and to what extent this is
+tied to some of the discretionary spending investments you've made over the course of the year
+versus either macroeconomic factors or other things we need to consider?
+A - Gary S. Guthart `
+When we look out at – just kind of stepping back – we look out at different opportunities outside
+of the United States, I think that there are interesting and durable long-term opportunities, OUS.
+Having said that, they can be really lumpy, and one of the reasons that we've seen the kind of
+capital lumpiness that you just described is because there are different market access
+requirements in different countries. For example, what approvals look like in China is totally
+different than what they look like in Japan and different again from what they might look like in
+different parts of Europe. So long term, we are very positive and it's the motivation for the
+investments we make. Short term, expect lumpiness. It can require quotas or approvals or data
+submissions, and each country is a little bit different.
+Q - `David H. Roman, Goldman Sachs & Co. `
+Okay. And maybe just a follow-up on the U.S. and specifically the impact of the Xi system. Can
+you maybe give us some feedback now that we're kind of three quarters into the launch on
+whether this launch is playing out similarly to past ones, meaning that people really want to do
+colorectal, for example, and need the Xi to do it, or is that people are getting the Xi and now
+they're building colorectal programs and how is the whole picture on some of those more
+advanced categories coming together now that we're kind of nine months into the introduction ofA - Gary S. Guthart `
+I think first thing, the Xi launch has exceeded our expectations in terms of mix just because in
+prior launches, we had fewer different instruments and accessories that had to be brought to the
+market concurrently with the system launch. And now we have things like Firefly and stapling and
+vessel sealing, a little more complex instrument set. And so those have been launched in the
+market in a staggered way based on conversations with regulators and other pragmatic
+constraints. So it was unclear as to when different folks would step in to acquire that system, and
+we've been pleased with the rate at which Xi has been adopted in U.S. and in Europe, for that
+matter. So that part has been really good.
+You think about colorectal, just to go back to your assertion, colorectal was growing pretty nicely
+on the Si base already, so there had been interest in pursuit of colorectal, so there is a group of
+surgeons who are both interested and skilled and moving forward, and Xi allows them to keep
+going. So in a sense, that's a virtuous cycle. You have some folks who have experience. Xi gives
+them a little greater capability. As they've stepped in and started to use that, they're starting to
+explore that greater capability, and that drives further growth and so we've seen that. We've
+been also pleasantly surprised by feedback from some more of our longer-term customers in
+Urology and Gynecology who have also found benefit in Xi that perhaps exceeded what we
+thought they might in the very beginning.
+Q - `David H. Roman, Goldman Sachs & Co. `
+That's helpful. If I could just sneak one more in here, Gary, you began the call, I think, with sort of
+describing 2014 as a year of transition and macroeconomic headwinds, uncertainty about the
+Affordable Care Act. How would you describe the environment as we exit 2014 and as you've
+talked to customers in 2015, either on the capital side or their procedure volume side on sort of a
+12-month basis?
+A - Gary S. Guthart `
+Yeah, I think that kind of at the C-suite level we're seeing their ability to forecast their business
+start to improve, and they still have to make priorities. It's not like it's a windfall on all fronts, but
+they are able to project a little bit better than they were before. They've got a year of the
+Affordable Care Act under their belt, and that gives them some confidence to start making some
+decisions. That said, there are still capital priority discussions and other things within these
+institutions, and those kind of conversations continue. On the clinical side, I think the conversation
+is much the way it's been for the last couple of years. I think folks are looking at outcomes and
+the cost or price they pay for those outcomes, and where they find value, then they're willing to
+invest and pursue. And so in that sense, we've been pleased with the growth of general surgery
+in the year. It's strengthened nicely as we've gone. And so that's kind of how we've seen it.
+Q - `David H. Roman, Goldman Sachs & Co. `
+Okay. Understood. Appreciate all the feedback.
+Operator
+And next we'll go to the line of Rich Newitter with Leerink Partners. Please go ahead.
+Q - `Rich S. Newitter, Leerink Partners LLC `Hi. Thank you for taking the questions. Gary, I was wondering, just with respect to your comments
+on chole regarding kind of the time availability factor that might be contributing to the pullback,
+and it sounds like it's a little bit of cannibalization into hernia, but what are you seeing in accounts
+where maybe Xi has been placed for a few months now? What are you seeing with respect to
+the trend of chole utilization? Is that alleviating some of the time constraint issue?
+A - Gary S. Guthart `
+With regard to Xi systems?
+Q - `Rich S. Newitter, Leerink Partners LLC `
+Yeah, so maybe where you had choles being done and an Xi was placed, which presumably,
+assuming it's not a first robotic placement, might alleviate some of the time availability issues?
+A - Gary S. Guthart `
+Yeah. It's actually a good question. I don't have the answer at my fingertips.
+Q - `Rich S. Newitter, Leerink Partners LLC `
+Okay. Fair enough. And then if I could, on the procedure volume guidance, maybe Calvin, 7% to
+10%, that's your range. Is it fair to assume the various momentum factors behind your different
+procedure categories in the fourth quarter, those are essentially kind of how we should be
+thinking about the composition of growth comprising that 7% to 10%? Or is it just a continuation of
+the trends we saw in 4Q and carry those over to 2015 to model that growth rate?
+A - Calvin Darling `
+Yeah, I mean, just kind of at a high-level view, assumptions going into the 7% to 10% guidance
+range, we're anticipating a similar U.S. Gynecology and Urology macro trends that we saw in 2014
+continuing on into 2015, and we absolutely expect that U.S. general surgery and international will
+continue to drive procedure growth in 2015 as they did in 2014. Particular swing items that could
+move you towards the lower end or the higher end of the range would be changes in those
+macro trends in Gynecology and Urology, those are large sets of procedures, and then as we
+saw in this last couple of years, those things can definitely move the dial, growth rates in early-
+stage U.S. general surgery procedures, how they – the trajectory they follow is going to be
+important, the international growth side of things, and as was discussed a little earlier, just how
+successful we are with the Wristed Needle Driver contributions and how that may impact benign
+hysterectomy.
+Q - `Rich S. Newitter, Leerink Partners LLC `
+Okay. And maybe...
+A - Marshall L. Mohr `
+We'll just take one more question, please.
+Q - `Rich S. Newitter, Leerink Partners LLC `
+Thank you.
+OperatorAnd we will next go to the line of Larry Keusch with Raymond James. Please go ahead.
+Q - `Larry S. Keusch, Raymond James & Associates, Inc. `
+Hi. Good afternoon. Gary, could we circle back to Sp and help us think about the procedures that
+again, you're targeting on that system and how we should think about that relative to the current
+Single-Site system that's out there?
+A - Gary S. Guthart `
+Sure. Rather than thinking about procedures, I'd guide you to what does it do differently? And
+because I think it's early, and it has a lot of long-term possibility, but predicting exactly which one's
+when is going to be hard. What does it do differently? It delivers four computer-assisted or
+robotically-assisted instruments through a parallel access that can go fairly deep into the body
+through an entry point. And so, when you think about that, you think about accessing the throat or
+the head and neck area transorally, you think about trans-umbilical things that might be able to be
+reached that are otherwise hard to reach with an architecture like Single-Site or transanal
+procedures or transvaginal procedures.
+Now, you can think a lot about them, we think about what are the disease states that surgeons
+can affect, positively impact with a technology like that or an opportunity like that. And they're
+fairly diverse and pretty interesting, and then you have to go all the way through some of the
+testing and evaluation that we're talking about doing this year, which is what can actually be done
+and at what kind of efficiency and what kind of price points, and that's where the heavy lifting is.
+So on long term, I think it will open some interesting doors. Near term, we're not ready to call
+procedure sizes for you yet.
+Q - `Larry S. Keusch, Raymond James & Associates, Inc. `
+Okay. And then just lastly, if you could maybe dissect a little bit about the procedures as you look
+through the year and talk a little bit about the seasonality that you saw actually in the benign
+procedures through the year? I'm just curious if there are any observations that you can make
+relative to the benign procedures done across the board.
+A - Gary S. Guthart `
+It's a good question. We'll have Patrick jump in.
+A - Patrick Clingan `
+Yeah, hey Larry. I think if you just look at the way in which the year played out, the first quarter
+tended to be a little bit weaker relative to the rest of the year, so from an extent you could say
+that there was more seasonality in some of those benign procedures over the course of the year.
+That said, at the beginning of the year there was also a lot of disruption with the implementation
+of the Affordable Care Act, so it's hard to necessarily pin it on seasonality. But to the extent that it
+was seasonality last year, just beware because we still have a significant component of our
+business in those benign procedures.
+A - Gary S. Guthart `
+That was our last question. Thank you. As we've said previously, while we focus on financial
+metrics such as revenues, profits and cash flow during these conference calls, our organizational
+focus remains on increasing patient value by improving surgical outcomes and reducing surgical
+trauma.I hope the following assessment of our latest system, the da Vinci Xi by Dr. Harkins, a Texas
+general surgeon, gives you some sense of the impact our products have in surgery. "Despite my
+obvious interest in minimally invasive surgery I had resisted adopting previous da Vinci platforms
+because of what I felt were imitations. The da Vinci Xi platform is a game changer for me. I now
+feel that this technology will not just equal my standard of laparoscopic abilities but actually allow
+me to reach new levels in providing surgical care to my patients."
+We have built our company to take surgery beyond the limits of the human hand, and I assure you
+that we remain committed to driving the vital few things that truly make a difference.
+This concludes today's call. I thank you for your participation and support on this extraordinary
+journey to improve surgery, and I look forward to talking with you again in three months.
+Operator
+And, ladies and gentlemen, again, that does conclude our teleconference call for this afternoon.
+Again, thank you very much for your participation, and you may now disconnect.

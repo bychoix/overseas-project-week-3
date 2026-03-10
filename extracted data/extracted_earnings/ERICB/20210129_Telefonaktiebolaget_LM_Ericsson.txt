@@ -1,0 +1,598 @@
+Y 2020 Earnings Call
+
+Presentation
+Operator
+Welcome to the Ericsson Analyst and Media Conference Call for the Fourth Quarter Report, To
+view visual aids for this call, please log on to www.ericsson.com/press or
+www.ericsson.com/investors. (Operator Instructions) As a reminder, replay will be available one
+hour after today's conference. `Peter Nyquist, Vice President Investor Relations will now open the call.
+`Peter Nyquist, Vice President Investor Relations `
+Thank you very much. And hello everyone and welcome to this Q4 call or year-end call. With me
+here today, I have our CEO, `Borje Ekholm, President & Chief Executive Officer; and our CFO, `Carl Mellander, Chief Financial Officer. Before we start the call, I
+would like to make this statement. During the call today, we will be making forward-looking
+statements. These statements are based on our current expectations and certain planning
+assumptions, which are subject to risk and uncertainties. The press release -- or the actual result
+may differ materially due to factors mentioned in today's press release and discussed in this
+conference. So, we encourage you all to read about these risks and uncertainties in our earnings
+report as well as in our annual report.
+With those words, I would like to start this call by handing over the word to our CEO, Borje
+Ekholm. Please, Borje.
+`Borje Ekholm, President & Chief Executive Officer `
+Thank you, Peter. So good morning, everyone, and thank you all for joining us today. Before I go
+into the year-end performance in greater detail, I would like to recognize our people. And a
+company is always about the people and I think 2020 more than ever. We as a company migrated
+to work remotely in March last year and our people really stepped up and delivered to all our
+customers with minimal to actually no disruptions. We have also seen some good progress in our
+business for quite some time. But with the financial performance for 2020, we can now say thatengagement and commitment from all of our people. We have now reached a return on capital
+employed at 17%, which is above the cost of capital. So, we can now focus our attention on
+growth as a key value driver of course while maintaining financial discipline.
+But let me now go through some overall conclusions of our performance during 2020. The
+increased R&D has made our portfolio very competitive and cost efficient and this has allowed us
+to gain market share in many markets and we actually see market share gains from all
+competitors today. We exceeded our year-end financial targets for 2020 as well as our targets
+for 2022 about two years early. We have delivered a strong free cash flow before M&A and
+actually if we look at our history, we see that this is the strongest free cash flow we have ever had
+as a company. We also completed the acquisition of Cradlepoint during Q4 and that's an
+important step, as you all know, for establishing our enterprise offering especially targeting the
+rapidly growing demand for Wireless WANs. In addition, we started to invest in increasing our
+resiliency and flexibility of our supply chain and we really started that several years ago.
+We did that for other reasons so no crystal ball on predicting a pandemic, but that have been
+critical in managing our customer commitments during 2020 and we've been able to do that
+despite working from home and in the middle of a pandemic. The health and well-being of our
+people has been at the front and center in how we have made decisions during 2020. So, one
+example is that we decided very early on to migrate to remote working. Across the year, about
+80% of our workforce have operated virtually. Of course the impact and the toll on our people
+cannot be ignored from working remotely, but we are doing as a company what we can to
+support those of us who are most affected by the pandemic. In addition, we took a decision in
+early March not to apply for any government pandemic related support programs as we wanted
+to make sure that we drive the business out of its fundamentals and take the right decisions for
+the long-term future of the business not impacted by any government support programs.
+With our performance and solid long-term outlook, the Board of Ericsson has decided to
+recommend the shareholders to increase the dividend to SEK2 per share and that's an increase
+of (foreign language) or SEK0.50 I should say I guess in English. So before going into each market
+area, just wanted to make some overall comments about the market. It's now clear that 5G is
+increasingly gaining momentum around the world and we are seeing front runner countries to
+rapidly build out the 5G networks as it is a platform to digitalize their economies. But I think it's
+even more encouraging to see that operators who have built out a good coverage are seeing an
+increasing ARPU and thus a reversal of the decline over the last few years. For front runners, 5G
+can be a source of additional revenues as well as to establish the operator as a market leader.
+This is actually not surprising as it was very similar to what happened when 4G was rolled out
+where front runners saw higher ARPU, greater market share, and lower churn.
+We have also seen many wins in -- across the market areas for our private networks for
+enterprises, which actually start to strengthen our enterprise presence. So, some comments on
+each market area. We saw strong growth for the Northeast Asia market area. This was naturally
+driven by China that is now the largest 5G market in the world with clearly more than 100 million
+subscribers, but we also saw gains in many of the other markets in the market area. Continued
+strong momentum in 5G drove a good performance in North America. This was partly offset by
+downward pressure of the loss of a managed services contract due to the operator consolidation
+earlier in 2020. We have seen market share gains in the US, but we have also seen break-in deals
+in Canada that will support long-term growth for us. In Southeast Asia, Oceania, and India; we saw
+growth driven by several countries, but the most noticeable Australia and India.
+Europe and Latin America had a bit of a mixed picture. We saw overall a positive growth in the
+market area, but -- and that was driven by the growth in Europe, which was partly offset by adecline in Latin America. Europe -- the growth in Europe was driven by market share gains and
+Latin America, the decline really caused by the macroeconomic uncertainty due to the pandemic.
+We also see that we so far have had limited 5G rollouts in Europe and we are a bit concerned
+that Europe is falling behind the front runners in China, Australia, North America, and the Middle
+East. Finally in Africa, we saw -- in the market area Africa and Middle East, we saw sales declines
+that was really in Africa related to effects of the COVID-19 and the macroeconomic uncertainties
+and in the Middle East due to timing of customer investment decisions actually in 2019 that ended
+2019 on a strong note. However, we see increasing traction from our efforts to increase market
+share in the market area and we expect that to be visible in the next few years.
+Moving on to the business segments. For Networks, sales grew organically by 20% driven by 5G
+rollouts and market share gains. Gross margin was 43.5% in Q4, up from 41.1% year before. For
+the whole 2020 operating margin was 19%, which is well ahead of our targets of 15% to 17%. I
+would say Networks performance reflect our increasing technology leadership and strong 5G
+portfolio. (technical difficulty) grew to 41% from 38.1% from the year before. From 2017 at the start
+of our turnaround to today if you do a like-for-like comparison, our gross margin has increased
+from 29% to 42%. The turnaround -- we continue to execute on the turnaround plan and our
+operating income for Q4 was positive and that actually is the best result we have seen to date,
+which we view as an indication that our turnaround is on track. Our Cloud native 5G core portfolio
+has a very high win ratio and will start to generate revenues in the next 12 to 18 months ahead.
+So far, we've only seen R&D costs with this new portfolio so we are encouraged by the traction
+we have and expect to see revenues coming here during the -- gradually during the year. Sales in
+Managed Services continued to decline, which is this year a result of the US -- or the consolidation
+in the US market, but also some contract exits in Europe. However, gross margin grew to 17.7%
+from 15.8% a year earlier and full-year operating margin ended at 8.1% ahead of our range of 5%
+to 8%. We continue to invest in R&D in Managed Services to drive automation and AI that will help
+our portfolio to grow in the future. Emerging Business & Other sales grew in enterprise offerings
+such as the IoT platforms complemented by the acquisition of Cradlepoint that was announced in
+Q3 and closed in Q4. Gross margin improved to 33.8% driven by operational leverage from
+growth and lower costs.
+Cradlepoint's underlying business developed in line with plans and we continue to be
+encouraged by the customer reception and see good long-term growth opportunities. However,
+reported sales and cost for Cradlepoint are impacted by purchase price allocations and we have
+also said that that will have a negative effect on operating income with about 1 percentage point
+in 2021 mostly coming from amortizations, but also from investments in growing the business until
+we start to see earnings improve.
+With that, I give the word over to Carl.
+`Carl Mellander, Chief Financial Officer `
+Thank you, Borje. And good morning, good afternoon, everyone, here from Stockholm. And let's
+then start to look at the P&L for the full year 2020. And here you see that with an organic FX
+adjusted growth of 5% year-over-year, net sales reached SEK232.4 billion, which is then within the
+target range of -- excuse me, between SEK230 billion and SEK240 billion and mainly driven by
+continued high demand for our 5G portfolio in the Networks business that grew by 10%.
+Especially the hardware revenue grew strongly and this is a welcome result of the growing
+footprint that we see currently. Northeast Asia grew by 30% FX adjusted and North America as
+well as Southeast Asia, Oceania, and India also contributed to the growth in the year. Gross
+margin as you see improved 310 basis points year-over-year to 40.6% and good to say that wehave improvements in all segments and thereby also clearly beating the gross margin ambition
+range we set up in 2017.
+Operating income SEK29.1 billion as you see excluding restructuring. An improvement of SEK7
+billion or 32% over last year and this is if we adjust for the SEK10.7 billion charge related to SEC
+and DOJ in '19. So, this operating income then leads to an operating margin of 12.5%. And this
+means we reached and exceeded the 2020 target of operating margin over 10% that Borje said
+and again the main contributor to the improvement here we see is again the Networks side of
+the business with a 19% operating margin for the fiscal year. An absolute key metric for --
+obviously for me, but for all of us in the Company is the free cash flow before M&A and this came
+out at SEK22.3 billion. This is a level we have not seen before. And earnings per share we also
+listed out this here diluted came out at SEK5.26. Also that's a level that we haven't seen at least
+during the last 10 years, perhaps longer.
+Return on capital employed for the full year was 17%, that's an increase from 6.7%. Both these
+numbers include the cash position. But if we -- and this might be more appropriate actually if we
+exclude the cash, the return on capital employed would even have been at 32% in the full year.
+But let's have a closer look at Q4, next slide please here. So in the fourth quarter, net sales
+reached the SEK69.6 billion. This is an organic growth of 13% again driven by Networks that grew
+20% based on this continued high demand for the 5G portfolio. The largest growth, as Borje saw
+before, in Northeast Asia but also North America contributing with double-digit growth and
+actually in Southeast Asia, Oceania, and India. Gross margin here 350 basis points improvement
+to 40.6% also for the quarter. And again also looking at the quarter, encouraging to see that all
+segments improved year-over-year with the main contribution from Networks.
+Operating income then SEK11 billion excluding restructuring and an operating margin 15.8%. Again
+repeating myself, but Networks also here the main driver with 21.5% operating margin that
+Networks segment delivered. But I also want to special mention here again of Digital Services
+that actually delivered the best operating income to-date, a profit of SEK0.5 billion. Cash flow
+SEK12.8 billion. We'll come back to that a bit later. But let's have a look at the trend on gross
+margin and if we take this slide here, and you can really see the result of execution of the
+focused strategy here in this graph. You see here the gross margin development over the years
+in distinct quarters, but also rolling. And we have said this many times, but of course it is really the
+increased R&D investments that has been the main driver here for technology and cost
+leadership and also competitive advantage and gross margin improvement.
+So, here if we break this down a little bit. Networks gross margin improved 200 basis points
+following even better operational leverage. Digital Services improved during the year 420 bps to
+42% with more software sales. Managed Services improved, efficiency achievements
+improvement of 310 bps here. And lastly, Emerging Business & Other with a gross margin that
+improved actually 840 basis points to 28%. And Cradlepoint contributes here and maybe a just a
+side note. Being somewhat personally involved in Cradlepoint as well, I was quite impressed by
+the Cradlepoint leadership and now we are full speed with excellence collaborations with other
+parts of Ericsson also to create value. Okay. Let's look at SG&A and R&D. R&D came out at
+SEK10.5 billion. It's a slight decrease year-over-year mainly following positive FX and here of
+course we have added now Cradlepoint since November.
+So two months of Cradlepoint both in R&D and also in SG&A, which is next here. That came out
+SEK7.4 billion. As you see, that's a reduction of SEK0.8 billion year-over-year and this reduction is
+mainly explained by less traveling, less trials cost, and other external spend; but also some
+provision release. We have a provision release for customer financing and also some FX support
+that support this number. And all of this more than offset then the added SG&A from theacquired Cradlepoint. We also show impairment losses on trade receivables here just to illustrate
+that that can really swing between quarters. In Q4, we had a positive impact SEK0.3 billion and
+this follows collection of high risk receivables from customers. As you see last quarter, this
+number was a negative SEK0.2 billion and this is really to illustrate that this item will fluctuate over
+quarters based on our updated risk assessments and changes in exposure collection from high
+risk receivables and so on.
+Let's move over to cash flow and the financial position. As mentioned then, free cash flow before
+M&A in the quarter was SEK12.8 billion and it's really a result of a combination here. Of course
+increased profit levels, but also then in combination with working capital efficiency. Working capital
+days now is down to 65 days from 75 days a year-ago. And I must say I believe we have rather
+impressive focus now among the colleagues across market areas, business areas on cash flow
+generation. So, this brought full-year cash flow before M&A to SEK22.3 billion. And as I think we
+mentioned several times already on this call although free cash flow definitions may have
+changed over time, this seems to be the strongest or is the strongest cash flow in the history of
+the Company. So this led to a net cash at the end of the year then SEK41.9 billion, up from
+SEK34.5 billion and gross cash landed rather flat at SEK72 billion and this in spite of acquisitions,
+dividends, pension trust contributions, and loan repayments during the year.
+We continue to execute here on our capital structure strategy for flexibility and resilience as we
+described before. And in that context of -- I'd like to highlight that we were of course very
+pleased with the rating upgrade we got in November from Standard & Poor's to investment
+grade BBB-, stable outlook. And the key trigger for the upgrade in rating was really free cash flow
+in turn result of growth, reduced cost, and improved capital efficiency. So, now we have
+investment grade ratings both from Standard & Poor's and Fitch. Borje mentioned the Board's
+dividend proposal already. Just to add that this means SEK6.7 billion to be paid out then in two
+equal installments just like 2020 in April and October, respectively. Okay. I will round off now with
+just a few words on planning assumptions and I'm just going to highlight a few of them. But as
+usual, please refer to the report for the full set. First of all on the market we operate in then, we
+usually fight Dell'Oro and we will do that now as well.
+Dell'Oro expects the RAN market to grow by 3% in '21, up from 2% previously with China up 4%,
+North America 2%, and Europe up 3%. And regarding topline then, historically Q1 is our weakest
+sales quarter and if we look at the last three years, normal seasonality or average seasonality has
+been minus 24% from Q4 to Q1. And this Q1 we expect that the seasonal effect might be
+somewhat less pronounced due to the 5G investments and rollouts that are ongoing. ITR
+importantly as you know from the press release in December with ongoing renewal negotiations
+and other factors that we mentioned in the release, we may see an impact on operating income
+by between SEK1 billion and SEK1.5 billion per quarter. For Q1 specifically, we expect that impact to
+be at the higher end of this range. Networks segment, we expect a similar mix Q1 to Q4. OpEx
+typically decrease from Q1 to -- Q4 to Q1 due to seasonality and I want to point out again with
+large variations between the years. Also want to remind about the FX rule of thumb. And then
+finally, a reminder that we expect Cradlepoint, as Borje mentioned, to negatively impact Group
+operating margin in '21 and 2022 by around 1 percentage points.
+With that, thank you so much. And back to you our CEO, Mr. `Borje Ekholm, President & Chief Executive Officer.
+`Borje Ekholm, President & Chief Executive Officer `
+Thank you, Mr. `Carl Mellander, Chief Financial Officer. We are proud of our performance during 2020, but I would also
+say we're not happy at all as we see a lot of improvement areas in the business. And we run the
+business focusing on driving the long-term margin improvements and growth and we really seethe targets for 2022 as a milestone simply on the way to reaching the long-term targets of 15%
+to 18% EBITDA margin. 2021 will however be an investment year with investments that will
+underpin our long-term growth as well as our long-term margins and this includes such areas as
+IPR, Cradlepoint, but also continued investment in the business. And as we have gone through
+already, in December we announced that we have important IPR negotiations and renewals
+ongoing that will impact or that will defer revenues for a period of time. But we see that we still
+focusing on maximizing the long-term value of our portfolio can actually significantly improve our
+IPR revenues.
+We will also continue to invest in R&D to broaden the product portfolio and maintaining a strong
+customer offering, but also driving a further improved cost position. We do note that Cradlepoint
+will have a negative effect in 2021 primarily due to amortizations, but also investments in growth.
+And we also see that in order to further strengthen our platform, we continue to increase our
+investments in compliance, but also security. What we have also seen during the last few years
+that the value of increased footprint is clearly paying off in expanded gross margin and that's
+something we intend to do to capitalize on our very competitive portfolio and the current market
+conditions. The effects from COVID and continued geopolitical uncertainty, they of course remain.
+We believe we are well positioned to manage any potential effects with improved flexibility and
+resiliency in our operation and we continue to invest for further improving the flexibility and
+resiliency.
+5G is now a reality and we are a global leader with 127 contracts as well as 79 live networks. Our
+continued presence in the largest fastest growing markets around the world are critical to
+support technology leadership and are supporting our long-term financial targets. I want to also
+say that from an industry point of view, it's critical that we hold together the global standard and
+not fragment that because the global standard have actually allowed the world to connect 8
+billion subscriber on to one uniform standard. We are increasingly seeing that many countries are
+accelerating the investments in the 5G network as they see the innovation on top of the network
+can easily create value that's 5 times to 10 times the network investments and allow them to
+transform and digitalize their companies to leverage this new platform. We hope that Europe will
+see this value as well before we fall too far behind the more aggressive countries and front
+runner countries.
+We are committed to the target for 2022. But as we have said, we see 2021 as an investment
+year that creates a very strong platform for future growth and for reaching the long-term targets
+of 15% to 18% EBITDA margin. We are confident in our ability to do so based on a strong
+underlying performance and resilience in the business built during the turnaround and visible in
+the financial performance for 2020.
+Thank you again for listening in. And with that, I hand back to Peter for all your questions.
+`Peter Nyquist, Vice President Investor Relations `
+Thank you, Borje. So operator, we can now open for the Q&A session and we will continue that till
+around 10 o'clock Central European Time. So please, operator.
+Questions And Answers
+Operator
+Ladies and gentlemen, at this time we will begin the question-and-answer session. (Operator
+Instructions) As always, please limit yourself to one question at a time and please keep your
+questions at a broad level. Detailed information is provided in our report and Ericsson's InvestorRelations and Media Relations team will be happy to take additional questions and discuss further
+details with you after the call.
+A - `Peter Nyquist, Vice President Investor Relations `
+Thank you, operator. So, the first question we will have here from `Alexander Peterc, Analyst, Societe Generale Corporate and Investment Banking from Societe
+Generale. So Alexander, please.
+Q - `Alexander Peterc, Analyst, Societe Generale Corporate and Investment Banking `
+Yes. Good morning. I hope you can hear me well.
+A - `Peter Nyquist, Vice President Investor Relations `
+Yes, you're perfect.
+Q - `Alexander Peterc, Analyst, Societe Generale Corporate and Investment Banking `
+Great. Thank you. So, I just have one question on your '22 targets and then a very quick follow-up
+if I may so. The first question is given the strong Networks margin that you have now, can you
+explain why we should more cautiously model '22 obviously at midpoint of your targeted margin
+that's 200 basis points below what you achieved in 2020? So, if you could tell us what will drag
+this margin down. Do you have strong market share ambitions and if you could quantify them or
+are you enjoying particular tailwinds now that will disappear and if you'd quantify that as well? And
+then the quick follow-up would be just on IPR. I see a lot of disparity in how we model this so
+maybe a good kind of a guidance on how many quarters we should take the missing IPR out of
+your bottom line and that would achieve a more consistent consensus for 2021 in particular.
+Maybe you would like to give us a bit firmer guidance understanding that that can change as and
+when litigations resolve. Thanks very much.
+A - `Borje Ekholm, President & Chief Executive Officer `
+If we comment on target for 2022, we run the Company not focused on 2022. but much rather
+on the long term. So, we have a clean result for Q4. There's not really any specific tailwinds in any
+way. So it's not that we think that is going to change. It's just that we see that we will continue to
+invest in the business in order to drive the long-term margin target of 15% to 18%. That's what we
+are focused on. So, 2022 is merely a milestone on that journey and we have not spent a lot of
+time looking through the details of 2022. So, view that only as a stepping stone to a much higher
+margin target. And on the IPR, I appreciate your question and I understand the difficulty, but I
+would encourage you to think how long is a rope. It's very unclear when you look at just that pile.
+So, it's very hard for us to say how many quarters this will go on. We have given you the guidance
+that it's about SEK1 billion to SEK1.5 billion per quarter and we will update you as we move along
+on that journey. But rest assured, our focus is again not on closing a deal specific quarter, but
+much rather on maximizing the net present value of our patent portfolio and that's what we will
+focus on not on an individual quarter.
+Q - `Alexander Peterc, Analyst, Societe Generale Corporate and Investment Banking `
+Thank you very much.
+A - `Peter Nyquist, Vice President Investor Relations `
+Thank you, Alexander. We will move to the next question, `Daniel Djurberg, Analyst, Handelsbanken Capital Markets from Handelsbanken.
+So please, Daniel.Q - `Daniel Djurberg, Analyst, Handelsbanken Capital Markets `
+Thank you very much and big congratulation for this very strong report. I have a question on your
+near-term planning assumptions. You expect less visible seasonality quarter-on-quarter on back
+of the strong 5G momentum. I was wondering if we should expect this when it comes also to the
+North American market. If you can comment on that would be great. Thank you.
+A - `Borje Ekholm, President & Chief Executive Officer `
+North America -- thanks Daniel. The momentum continues in North America. It's been strong
+throughout this year and now of course we also see maybe for a bit more long term that C band
+auctions have been completed as you know and that will lead to investments in that spectrum
+band as well, but that's more towards the end of the year. Short term we see that the
+momentum will continue in North America and we are a big part of the roll outs, as you know, for
+the Tier 1 stack. So, that will continue.
+Q - `Daniel Djurberg, Analyst, Handelsbanken Capital Markets `
+Perfect. Thank you so much. I will go back to the queue.
+A - `Peter Nyquist, Vice President Investor Relations `
+Okay. Do that, Daniel. Thank you. And we will move to the next question, which is from Alex Duval
+from Goldman Sachs. Hi Alex.
+Q - `Alexander Duval, Analyst, Goldman Sachs Group, Inc. `
+Yes. Good morning, everyone, and congrats on the robust results. I had a couple of quick
+questions. Firstly, you've talked about market share gains from all competitors. I wondered to
+what extent can that continue this year and what are the key functions or attributes of your
+product that are allowing this? In the past you've talked about ease of rollout and things like
+dynamic spectrum sharing. I wondered if you could talk about what will be the key factors and the
+extent to which you can maintain or extend your lead as presumably others will want to catch up.
+Also it looks like North America and China have been key drivers of growth this year. As we go
+into 2021, it seems like you're talking about market growth for the European market. I wondered
+what you're seeing in Europe that gives you that confidence given your comment just now that
+there could be a risk that Europe could be lagging behind others. What are telcos saying to you
+and to what extent do you see 5G helping to underpin the digital economy in Europe? Many
+thanks.
+A - `Borje Ekholm, President & Chief Executive Officer `
+Yes. If we start with the market share gains, I would say what we see now is the deployments --
+our deployments in the field. Where we can make comparisons, we clearly have a very strong
+performance which I think is the key driver why we see this attractiveness for our customers. The
+other thing is we have invested over the past few years in improving our call it cost -- TCL cost so
+the total cost of ownership for our customers and that of course is an important aspect when
+they look at our product compared to competitors. And of course we have over the last few
+years shown that we deliver on the roadmap commitments we have made, which made the
+customers also appreciate the roadmap we show, but also of course our ability to execute on
+that. So, I would say we are seeing this -- all these gains now happening in several markets
+around the world and I think it shows the investments we made for a long time in R&D and we
+increased in 2017.If you look at Europe, why we -- you hear us be a bit more upbeat is really that we see the market
+share gains. It's more driven by the market share gains than the general market growth for our
+outlook in Europe. What we're hoping for is of course that we will start to see some more 5G
+rollouts on a bigger scale in Europe during 2021, but that would further underpin growth in
+Europe. So, most of what we're seeing so far is really attributable to share gains and of course
+share gains that you cannot expect to continue forever, right. So, it is really important that we
+start to see the market come back to an underlying growth for the long term. But we think the
+migration to 5G is inevitable. It's attractive for the consumer, it kind of generates value for the
+end user, but it also addresses the cost position from growing data traffic in the networks. So, this
+is a migration that will happen, it's more -- and we see that in all other markets. So, we believe it's
+likely to happen in Europe as well.
+A - `Peter Nyquist, Vice President Investor Relations `
+Okay, Alex.
+Q - `Alexander Duval, Analyst, Goldman Sachs Group, Inc. `
+Many thanks.
+A - `Peter Nyquist, Vice President Investor Relations `
+Thank you. And then we move to the next question, which comes from `Sebastien Sztabowicz, Analyst, Kepler Cheuvreux
+from Kepler Cheuvreux. Hi Sebastien.
+Q - `Sebastien Sztabowicz, Analyst, Kepler Cheuvreux `
+Yes. Hello and thanks for taking the question. One question in China, could you please make an
+update on this market? Do you have any 5G tender ongoing there and if yes, when do you
+expect the result from those 5G tenders? And a quick one on the component shortage that is
+affecting the semiconductor industry. Have you seen any impact so far and how do you see the
+situation evolving for your specific supply chain and sourcing? Thank you.
+A - `Borje Ekholm, President & Chief Executive Officer `
+So, your second question was about the supply chain development on the environment?
+Q - `Sebastien Sztabowicz, Analyst, Kepler Cheuvreux `
+Component shortage that are affecting the industry.
+A - `Borje Ekholm, President & Chief Executive Officer `
+Component shortage. Yes. What -- if we start in China, there are continuous ongoing tenders
+there. So far we've seen some -- we read the press like everyone else so we see what goes on
+there. But in addition, we've possibly seen some hesitation and uncertainties among our
+customers. But so far no significant impact at all. We continue to drive the business forward and
+we believe our customers would like us in the network and we see that kind of overall moving
+along in a quite good way. And as I said before, China is aggressively rolling out 5G so we are --
+it's an important market for us to be present in for more from a technology leadership point of
+view than possibly the volume.
+But we are continuing to invest and see no reason to not do that. If we look at the supply chain,
+you're right, the semiconductor market is rather tight. But you may also remember that we tookdecisions already in 2018 to in a way deconstrict our -- whatever you want to call it, remove as
+much restrictions in our supply chain and actually create more supply chain flexibility. So, we are
+not seeing any effect now. We can continue to supply our customers with what they demand and
+if the current conditions continue for years, of course we are going to have issues as well. But
+right now we feel very comfortable about our delivery capabilities.
+A - `Peter Nyquist, Vice President Investor Relations `
+Okay, Sebastien? Thank you. We will move to the next question, which comes from `Peter Robert, Analyst, Swedish Television
+at Swedish television. So please, Peter. Can you hear me?
+Q - `Peter Robert, Analyst, Swedish Television `
+Yes. Thank you very much. Mr. `Borje Ekholm, President & Chief Executive Officer, I would like to ask you about China. You are gaining
+market share there and you are widening scope there on the two year. But what happened after
+20th of October last year when the Swedish authorities decided to close out and why?
+A - `Borje Ekholm, President & Chief Executive Officer `
+Yes. As we said, we continue to see a demand in China. We read the press like you do, but we
+continue to invest in the business and we have so far not see any material effects on the
+business.
+A - `Peter Nyquist, Vice President Investor Relations `
+Okay Peter?
+Q - `Peter Robert, Analyst, Swedish Television `
+Yes. But are you -- can I do another question?
+A - `Peter Nyquist, Vice President Investor Relations `
+Sure. Go ahead.
+Q - `Peter Robert, Analyst, Swedish Television `
+Yes. Have you taken any other steps in China because of what happened in Sweden?
+A - `Borje Ekholm, President & Chief Executive Officer `
+We are continuing -- what we have done and we just went through that is that we have invested
+in flexibility and resiliency in our business. That's something we have continued to do during 2020
+and that allows us to be flexible to manage different type of implications that we can see in the
+business being this question, being other questions. So, that is something we are continuously
+doing. But otherwise our business continues and we are continuing to invest in the business like
+we always have.
+A - `Peter Nyquist, Vice President Investor Relations `
+Okay. Peter.
+Q - `Peter Robert, Analyst, Swedish Television `
+Okay. Thank you.A - `Peter Nyquist, Vice President Investor Relations `
+Thank you. We move to the next question and the next question is from `Achal Sultania, Analyst, Credit Suisse at Credit
+Suisse. Hello Achal, can you hear us?
+Q - `Achal Sultania, Analyst, Credit Suisse `
+Yes, hi. Good morning, everyone. Thanks for the question.
+A - `Peter Nyquist, Vice President Investor Relations `
+Good morning.
+Q - `Achal Sultania, Analyst, Credit Suisse `
+Good morning. Couple of questions. First on the competitive landscape. When we think about
+Huawei getting restricted from a number of countries, ZTE still falling behind on 5G, what is the
+situation when it comes to telco operators trying to find alternative suppliers be it Samsung?
+Have you seen Samsung -- when you go for these 5G bids in Europe, are you seeing Samsung
+coming up as a credible competitor in the long term? And then secondly on the Open RAN
+situation, obviously there has been a lot of talk about Open RAN especially in Europe, a number
+of telcos have come together and formed an alliance. So, how well positioned Ericsson is in that
+OpenWorld environment -- Open RAN environment in the future and how should we think about
+the change in your business model if and when Open RAN starts to get massively adopted?
+Thank you.
+A - `Borje Ekholm, President & Chief Executive Officer `
+On your first question, I think it's fair from our point of view where we're focusing on Ericsson,
+we're focusing on that business and you know the -- how the market looks and how our customer
+looks at different vendors, I think that's a question better asked to them than to us. So, that is I
+think little bit hard for me to address. What I can say is that it continues to be a competitive
+market around the world and we've seen some vendors be aggressive on price, driving price
+discussions, et cetera. But I think overall it's no change compared to how it's been in 2018, '19,
+and 2020. So, that kind of is a general call it background to the whole industry. So, I think you can
+rest assured that the market will continue to be competitive going forward, I know the discussion
+on Open RAN and you all know that we have also championed and pioneered increased
+openness and across the industry collaboration as a way to speed up innovation. So for us where
+we are involved in Open RAN, we are one of the key contributors in the work in that forum.
+But at the same time we see right now that speed to market as well as price performance, for
+instance the integrated solutions will continue to be a majority of the network deployment for the
+coming years. And this is in reality driven by the two large areas in North America as well as in
+China where they are pushing ahead on deploying 5G now. So the discussion when kind of Open
+RAN is and that architecture is going to be truly competitive, I think it's a bit hard to address right
+now. But it's not a near-term question. We don't see it really ready for prime time except for
+some low performance applications or segments in the market. I think you said here the
+discussion to be especially are in Europe, should be -- shouldn't we drive forward on 5G networks
+now otherwise if we don't do that, we expose the whole industry in Europe to fall behind due to
+the disruption that actually happened in the consumer market on 4G that will now happen in the
+enterprise market with 5G. And I think that's a more healthy debate to be had in Europe, what
+can we do to speed up that deployment?Q - `Achal Sultania, Analyst, Credit Suisse `
+Thanks. Thanks, Borje.
+A - `Peter Nyquist, Vice President Investor Relations `
+Thanks, Achal. Then we move to the next question and the next question is from Johanna
+Ahlqvist from SEB. Good morning, Johanna.
+Q - `Johanna Ahlqvist, Analyst, SEB `
+Good morning. Two questions if I may. The first one tag along on previous questions on
+competition. But do you see -- I mean two of your competitors, they are struggling a bit on the
+product side. So, do you see any irrational pricing behavior in the market as of now due to that?
+And the second question relates to OpEx, which was quite low in the quarter as you say partly
+related to less traveling due to the pandemic. But when do you -- when you plan for 2021 on your
+OpEx, do you assume some sort of traveling resuming and things going back to normal that
+OpEx will come up a bit leaving all patent disputes and FX aside or how should we look upon
+OpEx in 2021? Thank you.
+A - `Carl Mellander, Chief Financial Officer `
+Thanks, Johanna. When it comes to OpEx going forward, what we can say in general and you
+know we don't really guide specifically on individual lines and so on in the P&L. But if you look at
+2021 OpEx, we don't expect any massive moves compared with 2020. But of course we have
+talked about a certain number of items that Cradlepoint of course is added. We only have two
+months of Cradlepoint in 2020 and of course the full-year '21. And then we have talked about
+litigation costs so in relation to the IPR negotiation or renewals and so on. So, there are certain
+items like that. But overall I would say 2020 is probably a fairly good guide for 2021 as well. When
+traveling will resume and to what extent, very hard to say. I guess that's something everyone in
+the world thinks about. I suppose a reasonable estimate is that we will not go back to pre-COVID
+travel levels, but it's likely to increase a bit from 2020 whenever we can say that we are out of
+the pandemic.
+A - `Borje Ekholm, President & Chief Executive Officer `
+Well, we can even say on travel that some parts of the world have traveled as normal also this
+last quarter. So, don't think travel has gone to zero. No it's not and of course we are still rolling
+out networks in the world and some countries definitely have come out of that situation and so
+on so there has been travel, but of course on a very different level than pre-COVID. If you look at
+the question on competition, the -- I would say the pricing environment is not that different. It's
+been the same pretty much throughout 2020. So, we've been able to work in that environment
+and still as you have seen increase gross margins. So there are some what I would label
+aggressive and possibly rational pricing behaviors in the market, but that's been throughout the
+year. So, it's nothing that has really changed in the end of the year, it's been there. I don't know
+what to say. We've been able to work in that environment thanks to a competitive product
+portfolio, but also a very good cost position that we achieved by investing in R&D again to drive
+down the cost of the products. So, I feel -- I don't expect any dramatic changes in the market
+behavior going forward, but it of course has elements of aggressiveness, but that it always has.
+Q - `Johanna Ahlqvist, Analyst, SEB `
+Thank you.A - `Peter Nyquist, Vice President Investor Relations `
+Thank you, Johanna. We'll move to the next one and the next question is from `Predrag Savinovic, Analyst, WorldWide Asset Management
+at Carnegie. Predrag, can you hear us?
+Q - `Predrag Savinovic, Analyst, WorldWide Asset Management `
+I can hear you. Good morning to all and thank you for taking my questions. Again on the market
+share gains here, you mentioned you'll take some from all competitors. Could you elaborate a bit
+on the regions where you see the highest share gains and also if you can mention something on
+order inquiries overall, which has not yet led to an order win so to speak as of the beginning of
+this year as well? And the follow-up on another discussion on the software part, I see it's 22% in
+2020, up 1% from last year and has risen steadily. Can you talk about what you expect here in the
+coming five years? Is 30% realistic here? Thank you.
+A - `Borje Ekholm, President & Chief Executive Officer `
+If we start with the latter part, one of our strategies have been to increase the software content
+so that is actually one of our focus areas. So, we continue to do that and where that is going to
+take us at the end of the day except that is going to be an increasing portion as you have seen in
+the past and that will continue to increase. We are consistently working on that and that is one of
+the key parts which allows us to say that our target for long-term margin is going to be 15% to
+18%. That will be underpinned by growing software content. Yes, market share gains and it's
+actually -- it's clear that we see market share gains in Europe. That is what has allowed us to get
+back to growth in Europe. The underlying market we don't see really growing. So, Europe is a
+clear market share gain. We have also seen strong gains in North America where we have -- it is a
+part of the strong growth profile we've seen in the US and we have share gains there with a
+couple of operators in both the US as well as Canada.
+We also and it's well publicized we have a market share gain in China as well. So, we have a larger
+share of 5G than we had of 4G so that is also driving our growth. We are seeing increased market
+share as well in Australia. We are seeing it in other parts of Asia as well. So the market share
+gains, it's not that it's really isolated to one market or one segment. It's actually across the board.
+What makes us comfortable is also that we're seeing or we're comfortable with believing at least
+that we can strengthen our business is what we see on the -- what I would say will the pre-order
+i.e. discussions with customers on deployment plans, chances to win additional market share. So,
+we see actually a very robust development there and that makes us believe that we have a very
+strong position right now and we want to capitalize on that. But don't leave the question thinking
+that we're -- it's an isolated market share gain that drove all of this. No, it's actually much more
+widespread.
+A - `Peter Nyquist, Vice President Investor Relations `
+Okay. Predrag. We'll move to `Fredrik Lithell, Analyst, Danske Bank at Danske Bank. Fredrik, can you hear me? Hi, Fredrik.
+you disappeared. Then we'll move to the next one, `Frank Meyer, Analyst, DNB at DNB. Hello, Frank. Good
+morning.
+Q - `Frank Meyer, Analyst, DNB `
+Good morning. So, I think most of my questions have been partially answered at least. So -- but if
+you could help me a little bit about how to think about kind of gross margins for 2021. Are you -- I
+think you indicated that you are comfortable in general with your ability to meet price pressure for
+instance in North America and elsewhere with -- due to your investments in R&D that allows youto continue to reduce hardware cost and so on. Do you expect that to continue this year? And the
+second point or question relating to this is whether or not you expect a similar commodity mix
+and business mix this year as you had in 2020? Thank you.
+A - `Borje Ekholm, President & Chief Executive Officer `
+Good, okay. Thanks, Frank. So on the gross margin side, of course there are as usual puts and
+takes and you mentioned some of them yourself including constantly taking out cost out of the
+portfolio and that will continue. That's relentless of course in R&D to accomplish that. And you
+have seen the historical development of gross margin, it's really supported to a very large extent
+by the fact that we are cost -- have a cost structure that is more and more competitive and that
+will continue, of course. And then we have flagged for certain things that will impact next year,
+including the IPR of course, which is also impacting gross margin. So, we have to take that into
+account. But otherwise I think we are proud of the gross margin development so far and we will
+certainly fight to continue in this direction as well in 2021 and beyond.
+A - `Peter Nyquist, Vice President Investor Relations `
+Thanks. Frank. (multiple speakers) We'll move to the last question.
+A - `Borje Ekholm, President & Chief Executive Officer `
+What's the second?
+A - `Carl Mellander, Chief Financial Officer `
+Commodity mix for the full-year 2021, that was the question, right?
+A - `Borje Ekholm, President & Chief Executive Officer `
+Yes. I think what we saw in the fourth quarter when it comes to commodity mix is also that the
+hardware portion was large and that's as I think I said before, that's actually very good sign
+because it's an evidence or a result of gaining footprint and that we expect to continue now as
+5G deployments continue. So at least in the beginning or the first half or so of 2021, we will see
+large hardware volumes being delivered and that's a good thing. And then coming back perhaps
+to the last question there on software of course, that's the overall ambition to continue to
+increase the software share in our offering and that goes both for Networks and Digital Services
+business as well as Emerging Business & Other of course.
+A - `Peter Nyquist, Vice President Investor Relations `
+Okay. Then thank you Frank. We'll then move to the last question for this session that is then we
+have `Fredrik Lithell, Analyst, Danske Bank back here, Danske Bank. Fredrik, can you hear us now?
+Q - `Fredrik Lithell, Analyst, Danske Bank `
+Yes, I can hear you clearly. I hope you can hear me as well?
+A - `Peter Nyquist, Vice President Investor Relations `
+Perfect.
+Q - `Fredrik Lithell, Analyst, Danske Bank `Yes. Just a follow-up on the market share gains. Sorry for pushing one more of those questions.
+But outside of Europe and North America where it is probably saw that some operators are also
+leaning more towards you and maybe Nokia instead of the Chinese, can you see market share
+gains in more neutral aspects or sort of on technology aspects and total cost of ownership in
+other regions. Would be interesting to hear sort of where you stand towards maybe your
+toughest competitor. Thank you.
+A - `Borje Ekholm, President & Chief Executive Officer `
+Thank you. As I said, we see market share gains across the board, right. It's not isolated to
+individual countries where there have been restrictions. So I would say when you look, there are a
+number of countries around the world where we have strengthened our position and that makes
+us see that we gained that footprint based on the technology we can offer and it's still a
+competitive market so it's no way granted that everything will go to us. But we can see that we
+are having a disproportionate win ratio. So, that's why I feel very comfortable about our
+competitiveness of the portfolio not only from a product feature and roadmap point of view, but
+also from a cost point of view and that's equally important in a competitive market. So, you see
+our market share gains that may not be visible in numbers yet; but it is in Africa, it's in Asia, it's in
+Latin America as well.
+Q - `Fredrik Lithell, Analyst, Danske Bank `
+Okay. That's very clear. Thank you very much for that.
+A - `Peter Nyquist, Vice President Investor Relations `
+Thank you. Fredrik. So, thank you for all good questions today. But before we close the call, I know
+that Borje wants to have some final remarks. So please, Borje.
+A - `Borje Ekholm, President & Chief Executive Officer `
+Well, wanting, Peter, is different from you telling me that I have to. So, I just want to end by saying
+we are proud of the delivery of a solid 2020. We're not happy. That's because we see a lot of
+improvement areas and we are continuing to invest in those improvement areas. So, we are
+committed on the target for 2022 as a milestone to reaching the long-term EBITDA margin target
+of 15% to 18% where we're really investing and spending the effort to make sure that we deliver.
+With that, thank you all for listening in and wish you a great rest of the Friday and a happy
+weekend.
+A - `Peter Nyquist, Vice President Investor Relations `
+Thank you.
+A - `Carl Mellander, Chief Financial Officer `
+Thank you all.
+Operator
+This now concludes our conference call. Thank you all for attending. You may now disconnect your
+lines.

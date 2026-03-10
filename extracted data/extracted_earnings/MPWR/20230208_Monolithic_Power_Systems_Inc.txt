@@ -1,0 +1,614 @@
+Q4 2022 Earnings Call
+
+Presentation
+`Genevieve Cunningham, Marketing Communications Manager
+Welcome everyone to the MPS Fourth Quarter 2022 Earnings Webinar. My name is Genevieve
+Cunningham and I will be the moderator for this webinar.
+Joining me today are Michael Hsing, CEO and Founder of MPS; and `Bernie Blegen, Vice President and Chief Financial Officer VP and CFO. In
+the course of today's conference call, we will make forward-looking statements and projections
+that involve risk and uncertainty, which could cause results to differ materially from management's
+current views and expectations.
+Please refer to the safe harbor statement contained in the earnings release published today.
+Risks, uncertainties, and other factors that could cause actual results to differ are identified in the
+safe harbor statements contained in the Q4 2022 earnings release and in our latest 10-K and 10-
+Q filings that can be found on our website. MPS assumes no obligation to update the information
+provided on today's call.
+We will be discussing gross margin, operating expense, R&D and SG&A expense, operating
+income, other income, income before income taxes, net income, and earnings on both a GAAP
+and a non-GAAP basis. These non-GAAP financial measures are not prepared in accordance with
+GAAP and should not be considered as a substitute for or superior to measures of financial
+performance prepared in accordance with GAAP. A table that outlines the reconciliation between
+the non-GAAP financial measures to GAAP financial measures is included in our Q4 and full-year
+2022 earnings release, which we have filed with the SEC and is currently available on our website.
+I'd also like to remind you that today's conference call is being webcast live over the Internet and
+will be available for replay on our website for one year along with the earnings release filed with
+the SEC earlier today.
+Now I'd like to turn the call over to `Bernie Blegen, Vice President and Chief Financial Officer.
+`Bernie Blegen, Vice President and Chief Financial Officer `Thanks, Cunningham. For the full-year 2022 MPS achieved record revenue of $1.79 billion growing
+48.5% from the prior year. This is despite industry-wide supply chain capacity constraints. This
+performance represented consistent execution against our strategies and have been more tier-
+one customers recognize MPS for advanced technologies, product quality, and excellent
+customer support.
+Here are a few highlights from 2022. We introduced a new product line of isolated power
+modules for applications exceeding one kilowatt with a fully-integrated controller, isolator, and
+power devices. Our initial revenue ramp for this highly integrated and reliable solution is targeted
+for 2024. These modules are critical building blocks for power management applications for data
+centers, EVs, plug and traction inverters, EV chargers, solar power, wind turbines, battery power,
+storage, and other industrial applications. Our products are designed to set the industry standard
+for these critical system-level applications.
+MPS's first advanced data convertible products for high-precision industrial and medical
+applications were made commercially available during 2022 and we expect to have an initial
+revenue ramp in 2023. We continued to diversify our global footprint with the expansion of our
+R&D centers, supply chain partnerships, and facilities outside of China to better match our
+resource distribution with our customer's geographic demand profile. With our global presence,
+we believe, MPS is in a strong position to support our customers worldwide.
+Turning to our full-year 2022 revenue by market segment compared with 2021. Enterprise Data
+revenue was up 116.1%, Storage and Computing revenue up 76.8%, Communication revenue up
+53.2%, Automotive revenue up 46.8%, Industrial revenue up 18.6%, and Consumer revenue up
+13.2% demonstrating broad-based full-year 2022 revenue improvements. Full-year 2022
+enterprise data revenue grew $135.1 million over the prior year to $251.4 million, this 116.1%
+increase is primarily due to higher sales of our power management solutions for cloud-based
+CPU and GPU server applications. Enterprise Data revenue represented 14.0% of MPS's total
+revenue in 2022 compared with 19.6% in 2021.
+Storage and Computing revenue for 2022 grew $196.7 million over the prior year to $452.6
+million. This 76.8% increase primarily resulted from strong sales growth for storage applications
+and enterprise notebooks. Storage and Computing revenue represented 25.3% of MPS's total
+revenue in 2022 compared with 21.2% in 2021.
+Communications revenue grew $87.4 million to $251.5 million. This 53.2% improvement reflected
+higher sales of products for both 5G and Satellite Communications Infrastructure Applications.
+Communications revenue represented 14.0% of our 2022 revenue compared with 13.6% in 2021.
+Automotive revenue grew $95.7 million to $300.0 million in 2022. This 46.8% year-over-year gain
+primarily represented increased sales of our highly integrated application supporting automated
+driver assistance systems, the digital cockpit, and connectivity. Automotive revenue represented
+16.7% of MPS's full-year 2022 revenue compared with 16.9% in 2021.
+Industrial revenue grew $34.4 million to $218.2 million in 2022. This 18.6% year-over-year increase
+primarily reflected higher sales in applications for smart meters in Industrial Automation. Industrial
+revenue represented 12.2% of MPS's full-year 2022 revenue compared with 15.3% in 2021.
+Consumer revenue grew $37.2 million to $319.5 million in 2022. This 13.2% year-over-year increase
+primarily reflected increased product sales for home appliances and smart TVs. Consumer
+revenue represented 17.8% of MPS's full-year 2022 revenue compared with 23.4% in 2021.Let's talk about the general business conditions. During our Q3 '22 earnings call, we highlighted
+the customers we are becoming more concerned with near-term business conditions and order
+patterns might oscillate in the near future. As a result of this change in ordering patterns, we
+indicated that our inventory levels will likely catch up to our target of 180 to 200 days and possibly
+be higher in the near term. During the quarter, ordering patterns stabilized as customers
+requested pushouts -- customer requested pushouts slowed. While this is positive customers'
+orders are still trending below historic norms and our Q4 '22 inventory is above our target levels.
+As a result, we remain cautious about near-term business conditions. We also believe MPS can
+swiftly adapt to-market changes, as we have done so successfully during similar macroeconomic
+changes in the past.
+Switching to Q4, MPS had a record fourth quarter with revenue of $460.0 million, down 7.1% from
+revenue generated in the third quarter of 2022, but up 36.7% from the comparable quarter of
+2021. On a year-over-year base comparison by market segment, fourth quarter 2022 revenue for
+automotive grew 72.8%.
+Enterprise Data revenue increased 69.0%; Storage and Computing revenue grew 55.0%;
+Communications revenue grew 40.1%; and Industrial revenue grew 13.3%, while consumer
+revenue decreased 20.1%. Fourth quarter 2022 GAAP gross margin was 58.2% down 50 basis
+points from the third quarter of 2022, but 60 basis points higher than the fourth quarter of 2021.
+Our GAAP operating income was $136.9 million compared to $151.9 million reported in the third
+quarter of 2022 and $78.6 million reported in the fourth quarter of 2021. Fourth quarter 2022 non-
+GAAP gross margin was 58.5%, 50 basis points below the third quarter of 2022, but 60 basis
+points higher than the fourth quarter of 2021.
+The year-over-year expansion in fourth quarter non-GAAP gross margin was largely due to a shift
+in sales mix favoring high-value Greenfield products and operational efficiencies which more than
+offset higher product input costs. Our non-GAAP operating income was $174.1 million compared to
+$193.7 million, reported in the prior quarter, and $102.0 million reported in the fourth quarter of
+2021.
+Let's review our operating expenses. Our GAAP operating expenses were $130.9 million in the
+fourth quarter compared with $139.0 million in the third quarter of 2022 and $115.3 million in the
+fourth quarter of 2021. Our non-GAAP fourth quarter 2022 operating expenses were $94.8
+million, down from the $98.4 million we spent in the third quarter of 2022 and up from $83.0
+million reported in the fourth quarter of 2021. On both a GAAP and a non-GAAP basis, fourth
+quarter 2022 litigation expense was $3.2 million compared with $2.1 million in Q3 2022 and a
+$420,000 credit balance in Q4 2021. The fourth quarter 2021 litigation credit reflected IP
+settlement and refund of a legal retainer.
+The difference -- differences between GAAP and non-GAAP operating expenses for the quarters
+discussed here are primarily stock compensation expense and income or loss from an unfunded
+deferred compensation plan. Fourth quarter 2022 stock compensation expense, including $1.0
+million charged to cost of goods sold was $35.3 million compared with $43.0 million recorded in
+the third quarter of 2022. The quarter-over-quarter change in stock compensation expense
+reflected a change in plan best in assumptions.
+Switching to the bottom line, fourth quarter 2022 GAAP net income was $119.1 million or $2.45 per
+fully-diluted share compared with $2.57 per share in the third quarter of 2022 and $1.51 per share
+in the fourth quarter of 2021. Q4 2022 non-GAAP net income was $154.0 million or $3.17 per fully
+diluted share compared with $3.53 per share in the third quarter of 2022 and $2.12 per share inthe fourth quarter of 2021. Fully diluted shares outstanding at the end of Q4 2022 were 48.5
+million.
+Now let's look at the balance sheet as of December 31st, 2022, cash, cash equivalents, and
+investments totaled $739.6 million compared to $738.1 million at the end of the third quarter of
+2022. For the fourth quarter of 2022, MPS generated operating cash flow of about $52.2 million
+compared with Q3 2022 operating cash flow consumed of $18.2 million. Fourth quarter 2022
+capital spending totaled $12.8 million.
+The accounts receivable ended the fourth quarter of 2022 at $182.7 million, or 36 days of sales
+outstanding compared with the $153.4 million, or 28 days of sales outstanding reported at the
+end of the third quarter of 2022 and the $104.8 million, or 28 days reported at the end of the
+fourth quarter of 2021. Our internal inventories at the end of the fourth quarter of 2022 were
+$447.3 million up from $397.4 million at the end of the third quarter of 2022. Calculated on a basis
+consistent with our past practice, and as you can see on the webinar video, days of inventory
+rose to 212 days at the end of Q4 2022 from 167 days at the end of the third quarter of 2022.
+Historically, we have calculated days of inventory on hand as a function of current quarter
+revenue. We believe comparing current inventory levels with the following quarter's revenue
+provides a better economic match. On this basis, again you can see, days of inventory increased
+to 214 days at the end of the fourth quarter of 2022 from 188 days at the end of the third quarter
+of 2022.
+I would now like to turn to our Q1 2023 outlook. We are forecasting Q1 2023 revenue in the range
+of $440 million to $460 million. We also expect the following. GAAP gross margin in the range of
+57.4% to 58.0%; non-GAAP gross margin in the range of 57.7% to 58.3%; total stock-based
+compensation expense of $40.2 million to $42.2 million, including approximately $1.2 million that
+would be charged to cost of goods sold.
+GAAP R&D and SG&A expenses including litigation expenses between $135.1 million and $139.1
+million. Non-GAAP R&D and SG&A expense to be in the range of $96.1 million to $98.1 million. This
+estimate excludes stock compensation expenses but includes litigation expenses. Beginning with
+the Q1 2023 outlook, MPS will no longer separately forecasts litigation expenses. Interest income
+is expected to be in the range from $1.8 million to $2.2 million before foreign exchange gains or
+losses in charitable contributions. The non-GAAP tax rate for -- for Q1 2023 will be 12.5%. The non-
+GAAP tax rate remains unchanged from 2022 as there have not been any material changes in tax
+regulations.
+Fully diluted shares to be in the range of 48.2 million to 49.2 million shares. Finally, I'm pleased to
+announce a 33% increase in our quarterly dividend to $1 per share from $0.75 per share for
+stockholders of record as of March 31st, 2023.
+In conclusion, while we remain cautious about near-term business conditions, we believe MPS can
+swiftly adapt to market changes and take advantage of the current environment to focus on
+business development and investing in infrastructure necessary to support long-term growth.
+I will now open the webinar up for questions.
+Questions And Answers
+Operator
+Thank you, Bernie. Analysts, I would now like to begin our Q&A session. As a reminder, if youthe raise hand button. Our first question is from `Quinn Bolton, Analyst, Needham & Company, LLC of Needham. Quinn, your line is now
+open.
+Q - `Quinn Bolton, Analyst, Needham & Company, LLC `
+Hey guys, congratulations on the strong results and that nice outlook in this environment. I guess I
+wanted to start, Bernie and Michael, the compute and storage business was much stronger than
+at least I expected in the fourth quarter. You grew revenue quarter-on-quarter when the rest of
+the PC market is clearly experiencing softness and inventory correction. So, I guess, can you give
+us sort of your outlook on how do you see that business trending over the next couple of
+quarters? And then I've got a follow-up. Thank you.
+A - `Michael R. Hsing, Chairm an of the Board, President and Chief Executive Officer `
+Sure. I think that there's been a lot of press recently around weakness in notebooks as far as unit
+sales, and in addition, we've started to see some here about declines also in the memory
+market. Interestingly, memory continued to be very strong for us, offsetting a decline in
+notebooks. And as we look ahead here, we actually see notebooks beginning to improve in the
+early part of '23, and probably those gains will offset a decline in memory. So we're basically
+looking at this category, at least for the first half of the year to be flattish.
+Q - `Quinn Bolton, Analyst, Needham & Company, LLC `
+Okay.
+A - `Genevieve Cunningham, Marketing Communications Manager
+But the one component, the AI portions and those still remain to be very strong in the near
+futures and then we see the very-high growth.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+And absolutely in the enterprise data, we've really got good traction with the GPUs for artificial
+intelligence and so that should really be one of our growth drivers in the first half of 2023.
+Q - `Quinn Bolton, Analyst, Needham & Company, LLC `
+That was going to be my next question, enterprise data was down slightly in the fourth quarter,
+but it sounds like you see the ramp or just the strong results in the first half driven but it sounds
+like specifically GPUs, is that right?
+A - `Michael R. Hsing, Chairm an of the Board, President and Chief Executive Officer `
+That's related to artificial intelligence.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+Yeah, when we look at the CPUs in the enterprise data, there's still initial softness as we're
+waiting for the platform launches for both the Sapphire Rapids and (inaudible) to take off.
+Q - `Quinn Bolton, Analyst, Needham & Company, LLC `
+Do you expect that in the second half than the CPU to kind of kick-in more second-half of the
+year?A - `Bernie Blegen, Vice President and Chief Financial Officer `
+Yes.
+Q - `Quinn Bolton, Analyst, Needham & Company, LLC `
+Perfect. Thank you.
+Operator
+Our next question is from `Tore Svanberg, Analyst, Stifel, Nicolaus & Company, Incorporated of Stifel. Tore, your line is now open.
+Q - `Tore Svanberg, Analyst, Stifel, Nicolaus & Company, Incorporated `
+Yes, thank you, and congratulations on another record year. Michael, I was hoping you could talk a
+little bit more about the power isolation module business you expect to ramp up in 2024. Is this
+still based on the company's BCD technology or are you now starting to venture into some newer
+technologies, I'm just curious because you haven't, you haven't talked a whole lot about
+potentially getting into silicon carbide or anything like that.
+A - `Michael R. Hsing, Chairm an of the Board, President and Chief Executive Officer `
+Yeah, so we do have programs that are going to a wide band gap materials, okay, and in the
+past, I think we talk about it in that. We have a program to make, to investigating, and develop
+those devices since 2017 and now, we see the first results, and we do have some samples ready
+but the line of production is yet. My prediction is that somewhere in the mid over the year and our
+second half of the year. And related to that, your questions about the isolated modules. When
+any higher powers traction inverters, solar and solar inverters, and the data centers also chargers,
+onboard chargers, and all of these in the wind turbines. All of these have one basic component
+and all of these are very high-power applications, which is power devices drive by using the
+isolated modules, and MPS is using, again using our own BCD process and as well as while bank
+GAAP materials and we combine together and make a very simple nice, and a very easy ease of
+use power modules for those type of applications. Some of these products already in production
+in EVs currently, and I think so we expected higher growth in the next couple of years.
+Q - `Tore Svanberg, Analyst, Stifel, Nicolaus & Company, Incorporated `
+That's very helpful. And as my follow-up, could you just give us an update on the manufacturing
+footprint both from a capacity perspective, but more importantly about diversification? You talked
+about looking at all sorts of regions to partner with some new manufacturing partners. So both
+capacity, but then also from a geographic, geographical perspective, perhaps an update there?
+Thank you.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+Yeah, we see as our -- everybody else sees either geopolitical tensions and as the MPS in the
+past that we always want to be a local company in every per political region and we did that
+successfully in our R&D and site, and because for one thing that is close to customers, other ones
+and other one was that we isolated from these tensions from between the countries. And for the
+manufacturing side, currently, we can fulfill all our customer demand to demand for wherever
+they want to manufacture it, and we want to, by end of the year or by the next, by the end of the
+year or by the next year we will have fully ramped and for the new capacities, just in case the
+words are really separated.Q - `Tore Svanberg, Analyst, Stifel, Nicolaus & Company, Incorporated `
+Great, thank you so much and congrats again.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+Thanks, Tore.
+Operator
+Our next question is from Alex Vecchi of William Blair. Alex, your line is now open. Our next
+question is from `Matt Ramsay, Analyst, Cowen of Cowen. Matt, your line is now open.
+Q - `Matt Ramsay, Analyst, Cowen `
+Thank you very much. Good afternoon, guys. Can you hear me, okay?
+A - `Michael R. Hsing, Chairm an of the Board, President and Chief Executive Officer `
+Yes.
+Q - `Matt Ramsay, Analyst, Cowen `
+Hey, Michael. Hey, Bernie. The one question. I wanted to ask you that we've heard, I mean you
+guys, I guess addressed in your prepared script how you're working to move sort of the
+operations and the manufacturing footprint and other pieces outside of China to in the long-
+term, more sort of aligned with your TAM and revenue mix for the long-term in the company and
+you've been very clear about those plans, but there has been some more, I guess acute reports
+of maybe some customers that want to very quickly use product sources outside of China and
+you'll probably know some of those reports, I'm talking about. I guess how have those impacted
+your revenues at all? Are you seeing any strange behaviors from customers that way we want to
+move and source product outside of China more quickly than you're able to or are you already
+sourcing outside of China to support many of your global customers? Thanks.
+A - `Michael R. Hsing, Chairm an of the Board, President and Chief Executive Officer `
+Yeah, it's a misconception at NPS is that we are a volume manufacture thus in China. That's true
+but it's a misconception. We do reply colly. We do most of it we do, at least half are manufactured
+and at least we will have the capacities outside of the countries outside of China. And to answer
+your question, we have a zero impact for whoever customers require us to manufacture outside
+of China in the past and the future.
+Q - `Matt Ramsay, Analyst, Cowen `
+No, thank you for that, Michael, that's really clear. It's just a question we get a lot. I wanted to talk
+a little bit about the consumer business, which is kind of the maybe the least important strategic
+segment, but also the most volatile if you look at where I guess the number of schemes in the
+fourth quarter and I guess, what I wanted to understand a little bit is the philosophy that you guys
+might have if and when some of those consumer markets and the China market in general,
+recover. Are you excited to keep that segment down around 10% of revenue and will continue to
+prioritize everything else, or is that a business that you want to serve, Michael as it potentially
+rebounds? Thank you.
+A - `Michael R. Hsing, Chairm an of the Board, President and Chief Executive Officer `Thank you. Again as I've said in the past, last year's capacity issues and not get constrained the
+consumer gross and we do have a lot of opportunity, we just didn't pick that up because of the
+capacity issues. And in the downturns in the past, as you know that there will be a lot more
+aggressive in these consumer markets segment because when you react to a price and you react
+to the opportunity. How fast do you react to that opportunity and within six months, you will see
+the turn-up, you will a bigger number change in the consumer segment, and that's what we'll do.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+And Matt, keep in mind the resilience of our business model has to do with the diversity of the
+end markets, the customers, the geographies that we serve. So consumer well, it has dropped to
+around 10% for the quarter remains a very important part of that strategy and we'll continue to
+invest in it.
+Q - `Ross Seymore, Deutsche Bank `
+Thank you very much, guys. Appreciate it.
+Operator
+Our next question is from Alex Vecchi of William Blair. Alex your line is now open.
+A - `Michael R. Hsing, Chairm an of the Board, President and Chief Executive Officer `
+Hello?
+Operator
+Our next question is from `Gary Mobley, Analyst, Wells Fargo Securities of Wells Fargo. Gary, your line is now open.
+Q - `Gary Mobley, Analyst, Wells Fargo Securities `
+Hey, Michael. Hey, Bernie, and Genevieve as well, thanks for taking my question for the first time
+as a covering analyst. And related to this, I apologize in advance if I ask an uninformed question
+here, but the inventory for you guys at 212 days that's internal inventory. I believe, however, your
+sales, 83% of your sales roughly go through distribution. So maybe if you can give us a view in
+terms of distribution inventory and did it increase, and if so to what extent did it favor revenue?
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+Berni, opening up, welcome to the party. This is Gary's first call with us.
+A - `Michael R. Hsing, Chairm an of the Board, President and Chief Executive Officer `
+And welcome to the inventory question.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+Inventory question. I thought we finished this question.
+A - `Michael R. Hsing, Chairm an of the Board, President and Chief Executive Officer `
+For Gary, it is okay.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `For Gary, it is okay. When I look at the channel inventories from Q4 to Q1, I'm sorry, from Q3 to Q4
+they basically stabilized. So we didn't see a significant increase either in terms of dollars of days in
+the quarter. Likewise, when we talk about inventory on our balance sheet, I'll address that as well.
+There is about a six-month lead time from when we can slow down wafer starts to when you see
+it on the balance sheet. So likewise, as we're looking out ahead to Q1, we see both inventory in
+terms of dollars on our balance sheet as well as in the channel stabilizing, sell-through in the
+channel remains very good and then it should normalize in the second half of the year.
+Q - `Gary Mobley, Analyst, Wells Fargo Securities `
+Got it. I apologize if I stepped (inaudible).
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+And it's fair to say in 2019's we've deliberately built 200 days of plus inventory because we did
+see all these opportunities and then now the inventory goes this high is because it goes over
+200 days again and that is because the customer's demand start to pushing out and this is on
+the high side, and we will cautiously reduce it, this is not the same as the 2019's.
+Q - `Gary Mobley, Analyst, Wells Fargo Securities `
+Got it, thank you for that. And I wanted to ask about contributors to the revenue growth for the
+fiscal year for the quarter, 48.5% is quite commendable. I was hoping maybe you can deconstruct
+that between ASP increases and new increases and how you see that playing out for fiscal year
+'23 as well.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+It's very diverse to gross with a little more aggressive get activities in the consumer segment and
+this is different from 2022 to '21 and everything is the same. So because we are not we don't it's
+another one-trick pony and again another two-trick pony either, we have multiple products. We
+have a product is like 5,000, 6,000 different products. We have a few thousand customers, large
+customers and let's say the biggest customer is less than 4% in a different industry and with our
+that's the same way as we do in in the last 10 years, 12 years and we still continue to pass.
+A - `Michael R. Hsing, Chairm an of the Board, President and Chief Executive Officer `
+Clearly, as you look at a business driver in 2022, and as we look ahead, you can also see the
+impact of selling higher-value technologies and higher ASPs that go along with it. So while many
+companies use this supply-demand imbalance as an opportunity to raise prices to their
+customers, we only have one single-digit price increase back in February, and all of the other is
+representative of higher ASPs and volume gains.
+Q - `Gary Mobley, Analyst, Wells Fargo Securities `
+Helpful, thank you, guys.
+Operator
+Our next question is from `Ross Seymore, Deutsche Bank of Deutsche Bank. Ross, your line is now open.
+Q - `Ross Seymore, Deutsche Bank `
+Hi guys, can you hear me?A - `Bernie Blegen, Vice President and Chief Financial Officer `
+Yes, this is fine.
+Q - `Ross Seymore, Deutsche Bank `
+Perfect. Well, first I also want to welcome, Gary, to the call and thank him so much for being the
+one asking the inventory question.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+(inaudible) it.
+Q - `Ross Seymore, Deutsche Bank `
+I knew you would. So just one question, one follow-up. A question on the near-term, first. You
+talked a little bit about stabilization in your orders but said they are still below normal. So, any
+color around that and then folding another near-term follow-on is the first quarter, you said, it
+sounded like Storage and Computing will be flat, and Enterprise Data will be up a bit. If you're flat
+overall what's going down sequentially in the first quarter to get you to that? So that's kind of the
+aggregate first question.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+So when we look at. Q1, and obviously, we've guided down to about 2%, which is sort of
+consistent with seasonal trends, and the industrial is likely to come down and I may have left you
+with an incorrect impression because enterprise data is likely to go down even though GPU, AI will
+improve. And then on the plus side, the momentum in automotive continues to be very strong.
+Q - `Ross Seymore, Deutsche Bank `
+In the stabilization color geographically by end market, the order stuff you said.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+Yeah, we are seeing better activity. I think that we commented on both in Q3 and repeated it
+here that customers have gotten a lot more near-term focused, and you can point to consumer,
+you can point to China as areas that was very observable, and right now we're seeing a lot better
+activity but it hasn't necessarily translated into what I'd call a normalized ordering pattern.
+Q - `Ross Seymore, Deutsche Bank `
+Got it, thanks for that. And this is longer-term follow-up. A question I get a lot from investors is
+the really impressive growth you guys did in 2022, up about 50%, round numbers, that's about
+30% faster than the FAA defined analog category, and that delta is kind of two times which you
+guys historically have done and some people are concerned that that's just because of
+insufficient supply of competition and assume fungibility that you guys are just growing because
+other people can't or some of your competitors had some product issues that they'll soon rectify
+and so those tailwinds could turn into headwinds this year. I know you're not going to guide for
+the full year, but are you at all concerned about those two dynamics having kind of over-inflated
+2022 and turning into headwinds this year?
+A - `Michael R. Hsing, Chairm an of the Board, President and Chief Executive Officer `Hey, okay, tell those are not customers, okay? Investors are customers too because they buy our
+stock. And hey, we don't do in the pay to pay in the metal products. Everything is pretty much a
+single-source product and our products are more programmable, a lot versatile and our
+customers can configure that product and of course, we would take advantage of it, okay in a
+shortage. Our customers can use our product in multiple ways from a software base now, as you
+know in the software side, I mean, it is a lot more stickier and we will continue to use our technical
+strengths to gain market shares in EMEA and headwind for those people don't they don't believe
+that. And okay, we have a headwind and that's fair but our members delivered. They have a past
+number to show that.
+Q - `Ross Seymore, Deutsche Bank `
+Thanks, guys.
+Operator
+Our next question is from `Rick Schafer, Oppenheimer of Oppenheimer. Rick, your line is now open.
+Q - `Rick Schafer, Oppenheimer `
+Thanks, and I'll add my congratulations, guys. If I could ask my first question. It's kind of a broad
+question on your module just your overall mode strategy, I mean it doubles this year to sort of
+10% or so of revenues. Bernie, I'm sure, you'd correct me if that's I'm off base there, but sort of
+what's the right contribution long-term, I mean Michael eventually, you would want sort of
+everything to move in that direction towards the module or is it weighted more to specific end
+markets, you made a couple of them already? And then, curious if you can comment on the
+margin implications as module becomes a bigger contributor. I think in the past you've said, this is
+up 5X type ASP multiplier but again, please correct me.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+So I'll give you the numbers correction and Michael will give you the strategic answer. Modules
+currently are about 5% of our business.
+A - `Michael R. Hsing, Chairm an of the Board, President and Chief Executive Officer `
+Yeah, it is doubled, yeah, it is double year-over-year for last two years, three years, or two years,
+three years and so it's a significant business now. Eventually, yes, that's all I want to see it and the
+MPS are all going to move into a new type of module and modules, power module has a bad
+connotation, I know that. A lot of the companies end up in a power module in the business and
+those are aimed at 30% gross margins and I don't know what's the, what's the right word to use,
+it is a power modules and product in-place and, but it's not your old grandpa, again power
+modules, okay, this is very different. Our margin is above the corporate average and some of the
+solutions are much, much higher, but we sell well over $100 stuff, and that's kind of a, I see as a
+part of, hardware plus service, and customers, the users they don't need to know how to use that
+product, how do you have to have a very deep knowledge how to design a power supply and
+that they should use very simple solutions like what we provide, they don't need the headaches
+to design a power supply. I think that we're going to end up with the MPS without MPS would be
+that MPS wants to be a leader in that.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+And I'd like to go back to Rick's earlier question, I would say that back in the day the singlethink that what our customers are seeing, particularly in the last three years, is there are other
+value drivers to consider as far as time to market how much design resource, do they want to be
+saved from having to in total custom ownership and those are areas that we are able to meet our
+customers' demand as well if not better than any other analog or power provider.
+A - `Michael R. Hsing, Chairm an of the Board, President and Chief Executive Officer `
+Yeah, I mean, the way I would give examples is we've built our own test equipment, semi-
+equipment, and testing equipment and all based on the MPS power modules, and if you buy
+those kind of power modules, settings are well over $50. And so that in semi-equipment market
+segments that's a perfect fit for that, and these are very high ASP, and they are very much, much
+compact than on the current market.
+Q - `Rick Schafer, Oppenheimer `
+So thanks for that color, and actually it leads me to my next question. I appreciate all the color that
+you guys have certainly discussed with the power solution module, but specific to the silicon
+carbide update just it does sounds like you'll be sampling this year, should we expect any material
+contribution from silicon carbide this year, are we kind of looking at 2024, and Michael, I mean,
+we've heard different numbers, but what is the addition of certain carbide module for traction
+investors, etc, what does that do to your potential content per vehicle.
+A - `Michael R. Hsing, Chairm an of the Board, President and Chief Executive Officer `
+Our trucking inverters are using silicon carbide, okay, it's not this year, and maybe we will see it
+next year. Our silicon carbide devices, okay, we design our own we develop our own, okay, and
+we want, we picked up some market segment the proves our products are reliable, first. That's
+the first step. To answer your questions this year's, okay, we and there is a no larger number of
+building our revenue stream, okay, and so we don't expect that, but they have just approved that
+technology now.
+Q - `Rick Schafer, Oppenheimer `
+Thanks, Michael. Thanks, Bernie.
+Operator
+Our next question is from `William Stein, Analyst, Truist of Truist. William, your line is now open.
+Q - `William Stein, Analyst, Truist `
+Great, thanks for taking my question. Someone beat me to the module question this time, so I'll
+focus in a little bit different direction than in the past. I know a few quarters ago, you talked about
+a team that you hired to work in the converter area, which is something you're not really that
+known for, but I think this is also another big ASP and big growth opportunity for Monolithic. Can
+you talk about your traction in converters so far and what you expect to come in the coming
+quarters?
+A - `Michael R. Hsing, Chairm an of the Board, President and Chief Executive Officer `
+Yes, we can. I'm glad you asked that question. A couple of days ago, I saw an image and we
+received the file, our customers and we use -- our customers use our image for the X-ray
+machines, and much better than their prior versions and so when we sampled other biotech
+companies and their product is designed adding and we see the revenues probably the smallrevenue this year and the next years. This is a slow-ramping product, very high barriers and the
+bottom line is, we have the technologies and we have know-how to design a very high-
+performance data converter. These are comparable, if not If the note betters and we broaden
+our product portfolios, okay, as we expand our teams and these take a lot of effort and a lot of
+investment and so far we built up a pretty good sizable team and now you have seen more
+general product coming up in the next couple of quarters.
+Q - `William Stein, Analyst, Truist `
+Thank you, Michael. Appreciate that. Maybe one other, if I can. Something we haven't heard the
+company speak a whole lot about lately that's the e-commerce effort. Any update on how your
+traction is progressing there?
+A - `Michael R. Hsing, Chairm an of the Board, President and Chief Executive Officer `
+E-commerce. Well, I got maybe a lot faster than I want to be, okay and that set my expectation to
+be high. I think that's above that. We launched MPS Now, actually, I'll take it back sooner. I think it's
+not as it's true it's not as I expect more than but there's a lot of resistance like EMEA but our
+modules, a lot of module ramp-up. It's from the e-commerce and we after but last year, yeah,
+after maybe 13 months or 14 months or 15 months ago. we launched MPS's analysis in remote
+technical support and that helped a lot in especially on our module side, okay.
+I guess, help our customers can schedule a meeting online, and now we can solve their when
+they log in, we can solve their technical issues that helped a lot and I think the most of part of a
+ramp-up is, from the MPS announcement from a website, but overall similar all things and it will
+take time and you are talking about engineers change their behaviors, okay. How do you design a
+product and how you are purchasing a product and I think as a next 10 years, 12 years, not even
+the next five years to 10 years for the millennials to design a power supply and they wanted to do
+a Google search rather than do the fundamental designs and again in the past 20 years ago, last
+20 years and so these are the products designed for that gave easy plug-and-play use and easy-
+to-use and came from the Internet.
+Q - `William Stein, Analyst, Truist `
+Okay. Thank you.
+Operator
+Our next question is from `Chris Caso, Analyst, Credit Suisse of Credit Suisse. Chris, your line is now open.
+Q - `Chris Caso, Analyst, Credit Suisse `
+Yes, thank you. Good afternoon, everyone. The question is about where lead times are right now
+and the degree of product shortages with your inventory up now has that helped to bring down
+lead times and alleviate some of the shortages, and if so has that taken away perhaps some of
+the incentives for customers to place your orders for product, they don't need, It's obviously one
+of the things we worry about as we go through the cycle, interested in your view on that.
+A - `Michael R. Hsing, Chairm an of the Board, President and Chief Executive Officer `
+Yeah, I agree that lead times have been coming down, they were up as long combined as much
+as 26 weeks to six months and they are coming down, more slowly than you think. So, I don't
+know, obviously, our customers have changed their ordering behavior, and if that can beattributed to the change in lead times or the fact that they have adequate inventory or that they
+are uncertain about what the next six months, I can't really say which is the driver in their decision.
+Q - `Chris Caso, Analyst, Credit Suisse `
+Got it. Okay. As a follow-up, Michael, you mentioned in some earlier remarks plan to be a little
+more aggressive on consumer business as you go through the year. I was wondering if you could
+expand on those comments, is that something just opportunistic this year, something that you
+see in the market? Is that just a function of the diversity of your business model, where some
+other business is slow so you can go find business elsewhere? If you could give us some more
+color on that, please?
+A - `Michael R. Hsing, Chairm an of the Board, President and Chief Executive Officer `
+I think you made a very good comment. It is opportunistic. Remember, how many years ago, we,
+years ago we said and more than 50% of MPS's revenues is from a consumer and these are fast
+first design cycles and fast revenues and you can cycle product and opportunities and we have
+the right product, right support and right price and you can move the needle quickly. And
+obviously, in a contract to all the other industrial automotive, cloud computing, and these are
+much longer design cycles and they are kind of slowing down one segment to the other on
+relative and it's not as clearly it's not in the last couple of years, and the consumer is our
+opportunity and we know how to do it, okay, and we have the product, and we have the price
+structure and it is not as high as all the other segments and we would do that.
+Q - `Chris Caso, Analyst, Credit Suisse `
+If I could just follow on that, does that imply when business improves elsewhere we've got a
+better macro and such in some of the product cycles elsewhere with maybe higher margin
+opportunities develop that you sort of back away from some of that and come back to some of
+the other segments that have driven growth more recently?
+A - `Michael R. Hsing, Chairm an of the Board, President and Chief Executive Officer `
+No, no, it's not, okay. Consumer diversity is always our strategy. In the last couple of years, we
+didn't grow because of capacity constraints, okay, and we sacrifice on the consumer side.
+Q - `Chris Caso, Analyst, Credit Suisse `
+Got it, thank you.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+Okay.
+A - `Michael R. Hsing, Chairm an of the Board, President and Chief Executive Officer `
+Thanks, Chris.
+Operator
+Our next question is from `Tore Svanberg, Analyst, Stifel, Nicolaus & Company, Incorporated of Stifel. Tore, your line is now open.
+Q - `Tore Svanberg, Analyst, Stifel, Nicolaus & Company, Incorporated `Yes, thank you. I just wanted to come back to the data converter business. So you are obviously
+getting into the kitchen of two 400-pound guerillas here, I think historically it's been very difficult
+to crack into this market. You talked about the high barriers to entry, and other than the product
+being higher precision, I get that, but is there anything else about your business model that will
+allow MPS to be successful in this market?
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+We don't know what is the business model. I know this it takes time and the market is large. A few
+competitors. All of these that you said are 800-pound guerillas, okay. We are well in the Hyenas
+going around, and we have to run fast, okay, and it's just to take opportunities and okay, what
+presents the product and get and our customers they do have eyes on different suppliers, I
+mean it especially comes from the last couple years. And we have a good hope but we noticed it
+takes a lot.
+Q - `Tore Svanberg, Analyst, Stifel, Nicolaus & Company, Incorporated `
+That's fair. And just lastly could you give us an update on the timeline for the $3 billion and $4
+billion capacity that you're working on?
+A - `Michael R. Hsing, Chairm an of the Board, President and Chief Executive Officer `
+Yeah, what we said in the next couple of years and next two years and we're still on it and we're
+working with our suppliers and came in, I have just mentioned a consumer business, okay. One of
+the reasons is that we do have obligations to fill-up these effects and we'll be aggressive and
+they're getting all these to fill, getting these orders have feel the capacities and I came in and
+that's our gaming in the past we repeatedly and do these, have done this kind of things in several
+cycles already. And this cycle, I don't see a difference from the last downturns. But so for the
+capacity expansion, we're still intact and we may slow down a little from that game in that, but we
+really have obligations so we are without fab, okay.
+Q - `Tore Svanberg, Analyst, Stifel, Nicolaus & Company, Incorporated `
+Great, thank you, again.
+Operator
+Our next question is from `Quinn Bolton, Analyst, Needham & Company, LLC of Needham. Quinn, your line is now open.
+Q - `Quinn Bolton, Analyst, Needham & Company, LLC `
+Great, thanks for letting me take a quick or ask a quick follow-up. Bernie, I just wanted to ask your
+sort of thoughts on gross margin, you guided to 58 at the midpoint, it looks like the Street
+consensus was probably 50 to a 100 basis points higher than that through the year. So as you
+look at '23, do you think March is sort of the bottom and margins can trend higher into the
+second half of the year, or is this push in the ability to be opportunistic in the consumer segment,
+likely to keep margins flattish in this 58% level through '23?
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+Yeah, I'd probably look at it as being flattish for the remainder of '23. And when you look at
+what's taken the margin down and well, you're right, we're down 50 basis points it's not a
+significant deflation from the rate that we've been trending at over the last two years, and it'sreally because we have the additional manufacturing capacity and lower revenue. And as we look
+at the next two quarters at least the sales mix is not as desirable.
+Q - `Quinn Bolton, Analyst, Needham & Company, LLC `
+Understood. Thank you.
+Operator
+Our next question is from `Ross Seymore, Deutsche Bank of Deutsche Bank. Ross, your line is now open.
+Q - `Ross Seymore, Deutsche Bank `
+Hi guys, just a quick follow-up on my side, on the margin side as well this time on the OpEx side,
+you guys did a good job on the OpEx side. I know you're putting litigation expense up into regular
+OpEx, which. Thank you for doing that, but just the trend in OpEx throughout the year, last year it
+grew maybe half the rate of what revenues did. How do we think about this year?
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+I think as Michael as expressed here between diversifying our supply chain and continuing to
+invest in R&D capabilities that we have some very real opportunities for additional investment
+that would show up in growing our operating expenses. Having said that though there is a fair
+amount of uncertainty as far as what the revenue outlook is and we want to be good financial
+managers as we go through these market conditions. So. I would expect that it's likely that
+operating expenses won't grow much more than 50%, 60% of revenue growth in the current
+year.
+A - `Michael R. Hsing, Chairm an of the Board, President and Chief Executive Officer `
+Having said that, again, having said that the in the past two years, now, we'll reach a $2 billion
+companies, okay, one point, 1.8, okay, our infrastructure hasn't really grown that much. In the last
+couple of years, it has been difficult to hire people and now we have a lot more breathing room,
+okay, and this is the time to build up a company.
+Q - `Ross Seymore, Deutsche Bank `
+And I guess for a quick follow-up, I just wanted to revisit one of the questions that was asked. I
+think it was a very first question or close to the beginning on the Storage and Computing
+strength. I know you said notebook was better than you thought and the memory/storage was
+weaker and those two kinds of go the opposite direction in the first quarter then, but those
+markets in aggregate have been weak across the board for quite some time. So I'm still a little
+surprised at the strength in the fourth quarter and the stability in the first, what would you
+attribute that to. Obviously, you're getting the orders, but are you guys taking share, is that the
+tier-one penetration, is it content, just any more color on that because it's such a disconnect to
+the end market in general?
+A - `Michael R. Hsing, Chairm an of the Board, President and Chief Executive Officer `
+I think I believe we've gained some shares.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+Absolutely.A - `Michael R. Hsing, Chairm an of the Board, President and Chief Executive Officer `
+Yeah, we gain some market shares.
+Q - `Ross Seymore, Deutsche Bank `
+Great, thank you.
+A - `Michael R. Hsing, Chairm an of the Board, President and Chief Executive Officer `
+Yeah, well, a little bit aggressive in some low-end market.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+Yeah.
+Q - `Ross Seymore, Deutsche Bank `
+Thank you.
+Operator
+If there are any follow-up questions, please click the raise hand button. As there are no further
+questions, I would now like to turn the webinar back over to Bernie.
+A - `Bernie Blegen, Vice President and Chief Financial Officer `
+Great. Thank you very much for joining us on this conference call, and we'll be talking again here
+for the first quarter update, which will likely be in late April. So thank you very much.

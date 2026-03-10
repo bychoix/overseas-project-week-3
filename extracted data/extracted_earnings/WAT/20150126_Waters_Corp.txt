@@ -1,0 +1,722 @@
+Q4 2014 Earnings Call
+
+Operator
+Good afternoon. Welcome to the Waters Corporation Fourth Quarter 2014 Financial Results
+Conference Call. All participants will be able to listen-only until the question-and-answer session
+of the conference. This conference is being recorded. If anyone has any objections, please
+disconnect at this time.
+I would like to introduce your host for today's call, Mr. Douglas Berthiaume, Chairman, President
+and Chief Executive Officer of Waters Corporation. Sir, you may begin.
+Douglas A. Berthiaume `
+Well, thank you. Good afternoon, and welcome to the Waters Corporation Fourth Quarter and Full
+Year 2014 Conference Call. We appreciate you being able to change your schedules in order to
+be with us late this afternoon.
+It was a result of the weather emergency and the mandatory travel restrictions that were
+announced this afternoon by the Governor of Massachusetts that we decided our best way to
+deal with it was to release earnings at the close of business today rather than wait for tomorrow
+morning when we weren't sure what the conditions would allow us to do. So thank you for
+bearing with us.
+With me on today's call is Gene Cassis, the Waters CFO; Art Caputo, the President of the Waters
+Division; and John Lynch, the Vice President of Investor Relations. Today, I'm going to start with an
+overview of the business and Gene will follow with details of our financial results and the outlook
+for our business in 2015. But before we start, I'd like Gene to cover the cautionary language.
+Eugene Gene Cassis `Well, thank you, Doug. During the course of this conference call, we will make various forward-
+looking statements regarding future events or future financial performance of the company. In
+particular, we will provide guidance regarding possible future income statement results of the
+company, this time for the first quarter of 2015 and for full-year 2015.
+We caution you that all such statements are only predictions and that actual events or results may
+differ materially. For a detailed discussion of some of the risks and contingencies that could cause
+our actual performance to differ significantly from our present expectations, see our Form 10-K
+annual report for fiscal year ending December 31, 2013, in Part 1 under the caption Risk Factors,
+and the cautionary language included in this morning's press release and 8-K.
+We further caution you that the company does not obligate or commit itself by providing this
+guidance to update predictions. We do not plan to update predictions regarding future income
+statement results, except during our regularly scheduled quarterly earnings release conference
+calls and webcasts. The next earning release call and webcast is currently planned for April, 2015.
+During this call, we will be referring to certain non-GAAP financial measures. A reconciliation of
+non-GAAP financial measures to the most directly comparable GAAP measures is attached to the
+company's earnings release issued this afternoon. In our discussion of results of operations, we
+may refer to pro forma results, which exclude the impact of items such as those outlined in our
+schedule entitled Quarterly Reconciliation of GAAP to Adjusted non-GAAP financials. And that's
+included in this afternoon's press release.
+Doug?
+Douglas A. Berthiaume `
+Thank you, Gene. Well, I'm pleased to tell you that our 8% constant currency revenue increase in
+the fourth quarter was a strong finish to 2014 and resulted in full-year sales growth of 6%, a rate
+that's actually in line with our original full-year outlook. And I think that's notable because you'll
+recall that our first quarter was significantly weaker than originally planned. So we saw a significant
+strengthening in the business as the year progressed.
+Looking at the full-year, the big story was stronger demand from our pharmaceutical sector. This
+strength was geographically broad based with improved demand from both research and quality
+control segments. It was this increase in global pharmaceutical business that offset the softer
+demand that we and others saw in China throughout most of 2014. Consistent with our history
+and carefully managed, we carefully managed our expenses through the year, while launching
+new instrument systems and integrating a handful of small acquired businesses.
+So for the full-year, our adjusted earnings per share were up 9%. After foreign currency
+headwinds, reduced earnings per share by about $0.22 or 4%. Looking at the fourth quarter,
+constant currency sales for the Corporation were up 8% with instrument systems growing 6% and
+our recurring revenues, the combination of service and chemistry consumables, up a strong 10%.
+If you look at our operating divisions, Waters Division sales grew by 10%, again at constant
+currency. The strength that we saw in the quarter for the Waters Division was very encouraging,
+as the division saw a similar growth in the fourth quarter of 2013. So that made for a tough base
+of comparison. Our TA Instrument Division sales declined at 5% in the fourth quarter and I'll
+describe the contributing dynamics shortly.
+Currency translation reduced our sales growth by 5% in the quarter, as a result of the U.S. dollar
+strengthening against all major currencies. Geographically and for the Waters Division, sales in theU.S. were up 12%. In the quarter, we saw continued strength in pharmaceutical spending and
+healthy government and academic growth. Industrial chemical growth declined against a very
+strong result in the prior-year. For the full-year, sales in the U.S. were up 8%.
+Sales growth in Europe for the Waters Division and at constant currency was up 10%. Similarly to
+the U.S., we saw a strong pharmaceutical, government and academic spending. For the full-year,
+Waters Division European sales were up 6% and benefited from stronger pharmaceutical sales
+growth throughout most of the year.
+We came into the year with some concern that general economic conditions would limit our
+growth in Europe. However, the large proportion of our sales to pharmaceutical end markets in
+combination with very positive uptake of our advanced mass spectrometry instruments by
+academic and government labs, allowed us to deliver a very solid full-year performance.
+In Asia, China is our largest market and I'm pleased to report that shipment volume increased
+nicely in the fourth quarter and revenues grew 13% for the Waters Division. Consistent with
+Europe and the U.S., sales to pharma and government-supported research labs drove the overall
+sales growth in China.
+Though, I feel, it's premature on the basis of one quarter to believe that business conditions in
+China will allow us to grow at a much accelerated rate in future quarters, we are encouraged by
+the fourth quarter's improvement. Waters Division constant currency sales in Japan were up
+moderately in the quarter with stronger pharmaceutical and chemical industry demand offsetting
+a decline in public sector spending.
+In the quarter, Waters Division sales in India were up over 20%. The 2014 growth in India was
+primarily associated with higher instrument, software and service sales from the generic drug
+industry. Top line growth strengthened across the year and we believe that last year's business
+momentum will sustain into 2015 as drug firms continue to expand their manufacturing capacity
+and make needed investments to ensure regulatory compliance. Our sales in Asian markets
+outside of Japan, China and India grew moderately in the quarter.
+Our TA Instruments Division saw a mid-single-digit decline in sales in the quarter, admittedly
+against a strong result delivered in the prior-year's quarter. Geographically, TA's shipments in
+China were weaker than expected as the conversion of orders to sales proceeded at a slower
+pace. Globally sales growth for the division was affected by a generally slower industrial chemical
+climate.
+Now, I'd like to discuss some product line dynamics that we saw for the Waters Division in the
+quarter. The division's recurring revenues, the combination of service and chromatography
+consumables, grew at an 11% rate in the quarter. Chromatography consumables sales were
+strong in the quarter and grew by 8%. Consumables growth was strongest in Asia and in the
+Americas. Overall the business continued to see strong uptake of UPLC column offerings,
+including our more recently introduced line of CORTECS columns.
+The Waters Division service business also performed very well in the quarter and grew at a 13%
+rate with balanced strength across all major regions in the world. For the full-year and at constant
+currency, Waters Division service revenues grew 10%.
+Waters Division instrument system sales grew 9% in the fourth quarter. LC, LC/MS, and
+informatics sales all contributed to the strong and balanced performance and in the quarter, we
+began to see a positive impact from the new UPLC MS systems launched mid-year at ASMS.Instrument systems continued to benefit from the rapid uptake of ACQUITY QDa, an advanced
+mass spectrometry-based LC detector that we introduced in the fourth quarter of 2013.
+On our October earnings call, I described for you the REIMS technology that we acquired as part
+of our recent MediMass acquisition. You may recall that REIMS is an atmospheric ionization
+technique with potentially a broad range of applications, including a longer-term potential usage
+as a medical device to optimize surgical outcomes, notably for certain oncology procedures.
+REIMS technology is complementary to other atmospheric pressure ionization techniques that we
+offer, and are very excited about its benefits to our recently announced health science initiative.
+This initiative, which we formally organized in 2014, recognizes an important transition in medical
+research that demands a suite of advanced technologies, including research-grade mass
+spectrometry, to obtain a more comprehensive understanding of disease. This molecular-based
+understanding will result in more effective predictive diagnostic and therapeutic tools to cost-
+effectively manage human health.
+I'm pleased to tell you that in the fourth quarter, we began to fund a new internal research
+program to allow us to investigate and further develop REIMS technology for potential future
+advanced medical procedures. This represents a different type of investment for Waters, as we
+have historically concentrated our research efforts on product development plans that will more
+closely align with the needs of our existing customer base. However, we view the value of this
+new embodiment of mass spectrometry technology and its potential medical applications as
+sufficiently compelling to cause us to slightly alter our strategy and incrementally invest in this
+effort. In addition, during the fourth quarter we also acquired access to advanced mass spec
+technology to more broadly support long-term applications for our health science initiative.
+So in summarizing our fourth quarter results, I'm very pleased with the level of top and bottom
+line growth that we delivered in a challenging currency environment. The strength in
+pharmaceutical spending in the second and the third quarters continued nicely in the fourth. Our
+recurring revenues also grew impressively, indicating increased instrument utilization and
+demonstrating the strategic value in offering a full portfolio of technical services and superior
+column offerings. For our TA Instruments Division, the slower annual sales growth was primarily a
+function of weaker chemical industry spending. We feel that TA has a strong pipeline of new
+products that will drive growth in its core business in 2015 and beyond.
+Before looking to the future, I want to note that we generated record free cash flow in 2014,
+including $115 million in the fourth quarter. Looking ahead to 2015, we believe that market
+conditions will be as good as, or potentially better than those in 2014, supported by continued
+strong global pharmaceutical demand for our products. We are hopeful that business conditions
+in China will normalize and that our TA Division will also grow at a rate that is more in line with its
+historical performance. Gene will provide you with a more detailed 2015 outlook shortly.
+On the products side and for the Waters Division, we will continue to benefit from the rapid
+uptake of recently introduced strategic instrument platforms. In addition, at upcoming technical
+conferences, we look forward to introducing new products and programs to benefit 2015 sales
+growth.
+So before turning it over to Gene, I'd like to say a few words about our non-operational plans. In
+2015, we expect another year of strong free cash flow and anticipate continued capital
+deployment toward our share repurchase program. On the M&A front, it is highly unlikely that
+you'll see us in pursuit of a major acquisition and more likely that we'll continue to target smaller,
+bolt-on businesses and technical acquisitions. On a more personal note, the search for myreplacement continues. And I feel we've made significant progress in terms of candidate
+identification and development to complete this process in roughly the same timeframe as I've
+originally put forward.
+So, in closing, I want to reiterate my confidence in our focused business strategy, the discipline
+that we have demonstrated now over a couple of decades of primarily growing our business
+organically has enabled us to have industry-leading ROIC and consistently higher operating
+margins and cash flow. Our results in 2014 confirm the advantages of this strategy.
+Our employees have been, and will continue to be, a significant competitive advantage for
+Waters. They embody and reflect our business strategy and their focused commitment to be the
+best at what they do in order to ensure our customer's success. I personally appreciate their
+efforts and feel privileged to oversee this great organization.
+Now here's Gene for a review of our fourth quarter financials.
+Eugene Gene Cassis `
+Well, thank you very much, Doug, and good afternoon, all. As Doug mentioned, our fourth quarter
+sales grew by 8% before currency translation. Currency translation reduced sales by 5%, resulting
+in 3% overall sales growth.
+On a non-GAAP basis, earnings per fully diluted share were up 17% to $1.99 this quarter, and that's
+up from $1.70 last year. On a GAAP basis, our earnings were $1.80 for the quarter versus $1.65 last
+year. Attached to this morning's press release, you can find a reconciliation of our GAAP to non-
+GAAP earnings.
+Looking at our top line geographically before foreign currency exchange effects, sales within the
+United States and Europe were each up 10%. Our growth in Asia outside of Japan was up 8% and
+in Japan, again before currency translation, sales were flat with last year.
+On the product front and in constant currency, Waters Division instrument system sales increased
+by 9% and recurring revenues grew by 11%. Within our TA Instruments Division, total sales
+decreased by 5% in comparison to strong quarter last year.
+Now, I'd like to comment on our fourth quarter non-GAAP financial performance. Gross margins
+came in at 60.1%, up from 59.5% in the prior-year as the benefits of higher sales volume and
+positive mix dynamics offset the negative foreign currency headwind.
+Moving down the P&L, SG&A expenses were up 3% on a constant currency basis. The impact of
+currency translation reduced this growth slightly. R&D expenses, including ongoing spending
+associated with the medical initiative that Doug had mentioned, increased by 7%, again before
+foreign currency translation.
+On the tax front, our full-year operating tax rate came in at 13%. This rate was lower than what we
+had expected due to the positive effects of higher sales volume in lower tax locations and a $2
+million benefit realized as the United States R&D tax credit was reestablished in the fourth
+quarter. Applying this full-year rate to our cumulative earnings moved our effective fourth quarter
+operating tax rate to 10%.
+In the quarter, net interest expense was $7.6 million and our average share count came in at
+around 84 million shares, about 2 million shares lower than in the 2013 quarter. This is a result of
+our continued share repurchase programs. On the balance sheet, cash and investment totaled
+close to $2.1 billion and debt totaled close to $1.5 billion, bringing us to a net cash position ofabout $590 million. As for the quarter's share repurchases, we bought 655,000 shares of our
+common stock for $74 million. This leaves $769 million remaining on our authorized share
+repurchase programs.
+We define free cash as cash from operations, less capital expenditures, plus any non-cash benefit
+from stock-based compensation accounting and excluding unusual non-recurring items. Our
+fourth quarter generated healthy free cash flow at about $150 million after funding $21 million for
+capital expenditures, a level which does not include $2 million of spending associated with major
+facility construction.
+Accounts receivable days outstanding stood at 68 days this quarter, down one day from fourth
+quarter last year and sequentially down five days from the third quarter. In the quarter, inventories
+declined by $23 million in comparison to the third quarter. So for the full year, 2014 sales grew
+about 6% before currency effects while currency translation reduced sales growth by nearly two
+percentage points.
+Non-GAAP earnings per fully diluted shares were up around 9% to $5.47 per share versus $5.04
+last year. Notably, currency translation reduced earnings by about $0.22 versus the prior year,
+somewhat masking the more impressive organic operating leverage of our business.
+Looking ahead to 2015, our outlook assumes a continuation of the market conditions that we saw
+in 2014. Specifically, we are envisioning stable increases in our recurring revenue sales, in
+combination with continued growth in our sales to our broadly defined pharmaceutical sector. We
+feel these factors and a return to growth for our TA Instruments Division will combine to help
+support a mid-single digit organic sales increase in 2015. Currency at today's rates is expected to
+reduce 2015 sales growth by about 4%.
+Moving down the P&L, gross margins for the year are expected to be about equal to those in
+2014 as volume-related manufacturing efficiency gains will likely be offset by the negative impact
+of foreign currency. We expect to manage our constant currency operating sales expenses to
+grow at a rate that is less than our constant currency sales growth rate.
+Moving below the operating income line, net interest expense is expected to be approximately
+$31 million. We currently expect our operating tax rate to be between 13% and 13.5% next year.
+This rate assumes that the U.S. R&D tax credit that benefited 2014 by about a half a point will not
+be available in 2015. We plan to continue our share repurchase program through this year, and we
+want to do that at a rate that will result in an average share count of about 83 million shares.
+Rolling all of this together, and again on a non-GAAP basis, full year 2015 earnings per fully-diluted
+share are projected to be within a range of $5.55 to $5.80. Looking at the first quarter of 2015,
+we are estimating that sales will grow at a high single-digit rate to a relatively favorable basic
+comparison and four additional business days in the quarter. Currency translation at today's rates
+is expected to reduce first quarter sales growth by about 5%. Rolling all of these factors together,
+we expect first quarter earnings per diluted share to be in the range of between $0.95 and $1.05.
+Doug?
+Douglas A. Berthiaume `
+Thank you, Gene. At this point, operator, I think we can open it up for Q&A.
+Q&A
+OperatorThank you. Our first question will come from Dan Leonard with Leerink. Your line is now open.
+Q - `Dan L. Leonard, Leerink Partners LLC `
+Thank you. Can you comment on the book-to-bill in China? Will booking, is it greater than revenue
+growth?
+A - Eugene Gene Cassis `
+Oh, sure. I mean I think that we ended up seeing a significant backlog, a reduction as we closed
+the year out. We did see throughout the year a little bit of build in terms of the order rate. So it
+seems that the order rate was improving, but one of the big dynamics that worked in our favor in
+the fourth quarter was that funds were available to allow us to complete some shipments against
+the order backlog that we had come into the quarter with.
+A - Douglas A. Berthiaume `
+And you'll recall that we faced two separate issues in China, and I think most people have seen
+this, is that delays in actually getting the process of orders to the point where they can be viewed
+as a legitimate purchase order – and then even once the purchase order is received, the banking
+system slowdowns of getting money authorized to support a shipment was slow. We clearly saw
+some progress on that flow of money. So we think we're beginning on those scores to see some
+breakthrough, but we're reluctant to believe that it's fully something that we can forecast that
+improving in the short-term. So that's the state of the state.
+Q - `Dan L. Leonard, Leerink Partners LLC `
+Got it. And then my follow-up question, Gene, can you quantify the EPS, negative EPS impact from
+foreign currency in your 2015 guidance?
+A - Eugene Gene Cassis `
+Well, yeah. I think as we had mentioned earlier that in 2014 the effect of foreign currency reduced
+the growth in EPS by about four percentage points. And looking at where rates are right now, we
+expect that that impact will be a little bit greater, maybe a couple of points greater in 2015. Now
+you know we've seen some pretty dramatic swings in currency lately. So it's unclear whether the
+rates that we're seeing now are really going to be the rates that we deal with throughout the
+year. But if we do use the current rates and look at our projected mix of sales that's where we
+think, what we think the impact will be.
+Q - `Dan L. Leonard, Leerink Partners LLC `
+Understood. Thank you.
+A - Eugene Gene Cassis `
+You're welcome.
+Operator
+Our next question will come from Tycho Peterson with JPMorgan. Your line is now open.
+Q - `Tycho W. Peterson, JPMorgan Securities LLC `Hey. Thanks. Either Doug or Gene, can you talk about the incremental spending around REIMS?
+You kind of alluded to maybe stepping up some of the efforts there. Understanding, obviously,
+you want to grow expenses less than revenues. But how should we think about the incremental
+investment?
+A - Douglas A. Berthiaume `
+Do you want to...?
+A - Eugene Gene Cassis `
+Yeah. I can start off. I mean it's, we actually did start to fund a program during the fourth quarter.
+And we're looking – within the fourth quarter there were about a couple of million dollars' worth
+of R&D spend that we can attribute to that program. So you can look at that as sort of maybe a
+base rate going forward that we'll likely build off of. So hopefully that gives you a little feel for
+what the level of investment is as we move into this year.
+Q - `Tycho W. Peterson, JPMorgan Securities LLC `
+Okay. And then...
+A - Douglas A. Berthiaume `
+And we've looked at the opportunity to accelerate that program, Tycho. You know you're talking
+about a program that could look at accelerated spending in the $5 million to $10 million annual
+level. We think we have some ways to look at programs that can contribute to not making that
+totally felt in the P&L. But to the extent we're willing to bet on that, that's all reflected in the
+guidance that Gene provided.
+Q - `Tycho W. Peterson, JPMorgan Securities LLC `
+Okay. And then separately there was pharma growth you've seen has been notable and seems
+broad based. Can you maybe just talk about how much this is a function of replacement cycle
+really hitting its stride? How much of it is from QDa uptake or alternatively share gains, other
+factors you may want to call out?
+A - Douglas A. Berthiaume `
+Well, I think it's probably all of those. Certainly, the QDa has been very successful but it certainly
+didn't add up to the 8 point to 10 points of organic growth. It may have contributed one point of
+that. We have, I've been talking about pent up replacement demand for a while and some
+people believed us, others didn't. I think we're seeing some of that as some anecdotal evidence
+that the industry went through so much pulling back that it was inevitable that at some point we'd
+see some contribution as a result of pent up replacement demand.
+We've seen some evidence to that. We're seeing a big return to growth in India that we had a
+couple of years of repressed growth. I think most of that's kind of macroeconomic and
+regulatorily inspired. We're seeing very good response in the biotech segment of the
+marketplace. That's a particularly vibrant area. And we're not seeing any reduction coming out of
+the top 20, 30 pharmaceutical customers. They've certainly stopped being a drag in our growth.
+So and also again, there's a piece here, a piece there. Another piece is the strength that we're
+seeing in our informatics platform. To some extent that represents Big Pharma continuing to
+upgrade their information networks. But it also reflects the investments that we've made in thenew UNIFI platform and the response to that has been good both at the instrument level and at
+the larger network information level. So they're all contributing.
+Q - `Tycho W. Peterson, JPMorgan Securities LLC `
+Can you quantify what's embedded in guidance for pharma for this year?
+A - Eugene Gene Cassis `
+Yeah. I mean as we look at pharma as the broadly defined pharmaceutical market as being more
+than half of our business, we're assuming in our guidance that the pharmaceutical growth rate is
+at the corporate mid-single-digit growth.
+A - Douglas A. Berthiaume `
+It's slower than we saw in the fourth quarter, so if we're lucky and the world stays the way it's
+going now, there's some opportunity there.
+Q - `Tycho W. Peterson, JPMorgan Securities LLC `
+Okay. Thanks. And I'll hop back in the queue.
+Operator
+Our next question will come from Doug Schenkel with Cowen & Co. Your line is open.
+Q - `Doug A. Schenkel, Cowen & Co. LLC `
+Hey. Good afternoon, guys.
+A - Douglas A. Berthiaume `
+Hi, Doug.
+Q - `Doug A. Schenkel, Cowen & Co. LLC `
+So, within the Waters Division it was very solid, a pretty balanced beat in the fourth quarter. One
+of the biggest drivers looks to have been services, though, which continue to trend for the year,
+and, you know, I'm making an educated guess because we don't have precise numbers yet but it
+looks like Waters Division services may have grown about 9% year-over-year constant currency
+and this follows a pretty strong 2013 which, again, was better than the division average. I'm just
+wondering if you'd talk us through what's driving such robust services growth to a rate that
+exceeds Waters Instrument and Waters Chemistry? And how would you describe sustainability?
+And I guess, well, I'm on this topic, could you just talk us through the current margin profile of
+Waters Division services?
+A - Douglas A. Berthiaume `
+Well, maybe Art can handle this strategic question and Gene can jump in on the profitability.
+A - Arthur G. Caputo `
+Yeah, Doug, we've been doing very well on the Waters services. You'll see – you would find that
+the bulk of our high growth comes from planned development. As we sell instruments,
+particularly these sophisticated systems that encompass not only LC but mass spectrometry andinformatics, chemistry solutions, as we've shifted to pushing instrument systems we find that the
+growth in plans, extended plans has been very high. The beauty of the strategy is that they stay
+somewhat immune to outside forces such as third party. Customers invest very heavily in our
+services and support to keep that going. Embedded within those plans are a lot of compliance
+services as well, informatics services. So that has been exceptionally healthy and it makes up a
+very large portion of the growth.
+On top of that, our services also consist of a fairly large parts business, and as you build your
+base and you keep on getting an installed base moving, the amount of instruments going into
+the base versus instruments being retired just exceeds that retirement and we see this
+increasing momentum. So for us the services business is very strong. We feed it with new
+products, new services. We feed the organization in terms of manpower to keep it supported. So
+for us, it's a perpetuating strength and we feel that our strategy keeps it fairly well contained
+within the confines of the Waters infrastructure. It doesn't allow too much outside force to come
+in and disrupt it on us.
+A - Douglas A. Berthiaume `
+As you pointed out, Doug, this performance has been pretty consistent, not only over the last
+couple years, but over many, many years. I mean this was a particularly good year, but it hasn't
+varied downward by more than a couple of points. So it's one of the reasons this strong,
+consistent kind of definable growth. Gene, you want to talk about the profitability in that
+business?
+A - Eugene Gene Cassis `
+Oh sure. If we take a look at – our service business is a very attractive business for us.
+Interestingly at the gross margin line it's probably slightly dilutive. A lot of the costs that we have
+are labor costs, or the people that we have in the field. But if you look at it at the operating
+margin line, it is accretive to the corporation's operating margin in the same way the chemistry
+business is. So it's certainly something that as it becomes a bigger part of our mix, it does have a
+positive effect on our operating income.
+Q - `Doug A. Schenkel, Cowen & Co. LLC `
+Okay. Thanks for all that. Very interesting and helpful. And I think somewhat related to that, I
+guess as my follow-up. If we look down below the revenue line into the expense line, you talked a
+little bit about R&D and that picked up a little bit in this quarter. If you actually factor in FX it
+probably increased a decent amount. And I think for good reason most of us would agree that
+the incremental investment in REIMS and the clinical side. At the SG&A line, you increased, I think,
+it was 1% year-over-year on a reported basis on reported revenue growth of north of 3%, organic
+growth of, I think, close to 8%.
+On the surface this actually seems a little bit light. I'm just wondering is there anything to point to
+in terms of product or geographic mix, I mean, that you just described, Gene, could relate to the
+higher services mix? Is there a timing issue? I guess really what I'm getting at is, is this the type of
+leverage that we can expect as we think about 2015, moving forward over the next few quarters?
+Thank you.
+A - Eugene Gene Cassis `
+It's interesting, Doug, that if we look over the past five quarters, four of them have been pretty
+impressive in terms of the organic growth rate. And if I think about the guidance that we had fornext year of mid-single digit top line growth, there really is not a lot of SG&A leverage that's
+assumed within that growth rate. And that's one of the factors that was considered when we
+gave you the guidance on the EPS line.
+Now, the one thing is that we typically have a base growth of our expenses at the 3% or 4% level.
+And so if you look at some of the results that we've delivered in recent quarters, we've been
+very good at controlling expenses. But again, the business has grown nicely and we have to make
+investments, specifically in our field service operation to make sure that we continue to support
+our customer base. So I would just say that I think we've been conservative in our guidance in the
+amount of leverage that we forecasted for 2015.
+Q - `Doug A. Schenkel, Cowen & Co. LLC `
+Okay. Thanks again. Stay safe and stay warm.
+A - Eugene Gene Cassis `
+Thank you, Doug.
+Operator
+Our next question will come from `Isaac Ro, Goldman Sachs & Co. with Goldman Sachs. Your line is now open.
+Q - `Isaac Ro, Goldman Sachs & Co. `
+Good afternoon, guys. Thanks. I just wanted to ask a question about the impact of falling oil
+prices. It seems sort of like a very topical thing and while I understand it's not the biggest end
+market you have, just maybe what your expectations are just given that energy CapEx in a lot of
+areas is going to be down most likely 25% or 30% this year? Just trying to get a sense of how
+you think that'll impact your business on a net basis, given all the puts and takes?
+A - Douglas A. Berthiaume `
+I think not very much. Directly to the petroleum industry our sales are minuscule. It probably
+matters more to the industrial chemical segment as their feedstocks go down in cost maybe it
+stimulates some of their spending. So that's probably a longer-term dynamic if the cost of those
+petroleum-derived feedstocks go down. But I don't think you'll notice the decline in the cost of
+energy from a revenue point of view nearly at all. Conceivable because we sell to other divisions
+within the big oil companies, it might have some small derivative effect. But I would not anticipate
+that. And as a consumer of energy, it's likely that our costs, particularly freight costs, could be
+meaningfully reduced. It remains to be seen but I would anticipate that.
+Q - `Isaac Ro, Goldman Sachs & Co. `
+Got it. Thank you. And then just to follow up on the tax rate for this year, it sounded like even
+without the R&D tax credit, tax rate this year should be down a little bit. And if I wind back the
+clock maybe a few (40:44) months ago, there was some concern that there would be a little bit
+of tax creep to the upside. So just maybe the reasons why tax rate looks like it'll be at least in line
+if not better this year?
+A - Eugene Gene Cassis `
+Well, I think some of the reasons why we've seen some favorable moves in tax rate, of course
+some of the products that we manufacture in Singapore and Ireland did very well on the revenueside. And also we have a more significant component of the TA mix that's U.S. manufactured. So
+as the shift moved a little bit more towards the Waters Division that was beneficial to our tax rate.
+I think that we're looking at product mix and geographical mix for this year, 2015, to be similar to
+2014.
+And we're not discounting the chance that we get another R&D tax credit from the United States
+government, but we haven't taken that to the bank. So we're, I think, realistic in the 13% outlook
+for this year. And I think there could be some upside. But when you have tax rates that vary from,
+the very favorable rate that we have in Singapore to the mid to high 30s% that we have in the
+United States, it doesn't take much of a shift in terms of geographic and product mix to move tax
+rates around for us.
+Q - `Isaac Ro, Goldman Sachs & Co. `
+Got it. Okay. Thanks, guys. Go Patriots.
+A - Eugene Gene Cassis `
+Thank you. Thank you, Isaac.
+Operator
+Our next question will come from `Miroslava Minkova, Stifel, Nicolaus & Co., Inc. with Stifel. Your line is now open.
+Q - `Miroslava Minkova, Stifel, Nicolaus & Co., Inc. `
+Hi. Good afternoon. Let me just start with Europe. It has been very strong, impressively strong for
+you in the fourth quarter and over the course of 2014. How do you think about 2015 in Europe in
+particular as far as given the mixed economic headlines that keep flowing from the continent?
+A - Douglas A. Berthiaume `
+You know the headlines are probably no more fearsome than they were through most of this
+year, Miroslava. We're certainly watchful. As we began the year, our organization was a little bit
+more optimistic, I'd say, than we were. And then they performed better than, even that optimistic
+level. I think underlying, it still comes down to the strength in the pharmaceutical sector that when
+you cut through all the noise, the pharmaceutical sector marches to a drummer that's different
+than the Greek crisis or the Spanish crisis or something like that.
+So probably the surprising thing that held up was the academic and government sector, not only
+in Europe, but specifically there where we saw good results through most of the year. So if
+there's one area that we continue to monitor, it's that. But of course the pharmaceutical segment
+is by far the most important dynamic.
+Q - `Miroslava Minkova, Stifel, Nicolaus & Co., Inc. `
+Right.
+A - Douglas A. Berthiaume `
+And as Art points out to me, the new products did well all over but did particularly well in Europe.
+Both the new mass spec products and the QDa received a very strong push from our European
+results.Q - `Miroslava Minkova, Stifel, Nicolaus & Co., Inc. `
+Okay. Great. That's great commentary. And on the TA Division, I appreciate it was a weak comp,
+I'm sorry a tough comp this quarter. Are you assuming that it will rebound as we go over the
+course of 2015? Or was there, could there be a period of when your chemical customers might
+be seeing some leftover pressures? Help us understand the cadence of the TA revenues.
+A - Douglas A. Berthiaume `
+I would say we're quite confident that the results will be better than we saw in the fourth quarter.
+The confluence of events that saw a mid-single-digit decline in organic revenue. We've examined
+that very closely and think that the events there are quite definable and as we looked at the, a
+number of underlying dynamics coming at us in 2015, we're confident that, that's not likely to be
+repeated.
+Early indications, albeit early, in the first month of the new year are indicative that, that
+momentum has definitely improved. So we're not being overly confident but the mid-single-digit
+kind of level that Gene has talked about we think is doable in this coming year.
+Q - `Miroslava Minkova, Stifel, Nicolaus & Co., Inc. `
+Okay. Great. Thank you so much. Stay away from the storm.
+A - Douglas A. Berthiaume `
+I don't think we're going to be able to do that.
+Operator
+Our next question here will come from Amanda Murphy with William Blair. Your line is now open.
+Q - `Amanda L. Murphy, William Blair & Co. LLC `
+Hi, guys. Good afternoon. So just a, I guess I had a follow up on Tycho's question earlier on the
+replacement cycle. So and this may be a hard one to answer, but I'm just curious if you take the
+broad sort of LC installed base and then the LC/MS installed base, is there a way to think about
+the aging there more generally? So I'm just trying to get a magnitude of what a replacement
+cycle might look like on both sides. Is it 10% or of the installed base is ripe for an upgrade? Or
+20%? Any sense of how that might look?
+A - Douglas A. Berthiaume `
+Art, you want to jump in on that?
+A - Arthur G. Caputo `
+Sure. Sure. Interestingly on the LC side of the business, what we've been experiencing over the
+last few years has been somewhat the opposite. The cycles used to run seven years pretty
+consistently. They seem to be, accounts seem to be stretching the cycles out on the LC side to in
+some cases 8 years, 9 years, 10 years on the core basic traditional equipment. What we have had
+that has been offsetting that is a strategy that basically adds to that equipment. So when you look
+at products like the QDa and other add-on types of capabilities that we supply, or upgrades, we
+look to offset those increased replacement cycles with additional capabilities, which has worked
+out quite well for us on the HPLC side. Totally separate from that cycle we do continue to seeUPLC transition and replace some of the HPLC business. So it's not necessarily a replacement
+cycle as much as it is an upgrade cycle. So the dynamics aren't as straightforward as a continuous
+wear out-replace. There're some other things going on. And we try to manage that.
+The cycles on mass spectrometry are very different from the LC side. It's not yet fully matured
+out. There's still a lot of increases in performance going on across the various types of mass
+spectrometers. On top of that, as I mentioned, we've added some capabilities with the QDa
+where we're trying to add HPLC detection. So the mass spectrometry cycles tends to be much
+shorter where new capabilities will induce people to replace or expand at a much faster rate. So
+we enjoy a much more vibrant activity on the mass spectrometry side, which plays well for us.
+And I'd add one more thing. And that is that with Waters the biggest leverage we have in the
+marketplace is we have a very strong lead position in the separations business. We have a strong
+lead position in mass spectrometry. And we compound this leverage by continually looking at new
+applications and new capabilities, trying to create new markets and segments. The health
+sciences area is a classic where we're constantly bumping into new problems that need to be
+solved as people move from the discovery phase into this translational medicine phase. So you
+know we can't really talk about a one size fits all in the broad scheme of how we manage the
+business. We have it segmented into multiple components across the company. When we put it
+all together, over the last few years, we're really seeing it start to work and that's essentially
+what's driving the growth on a global basis for us.
+Q - `Amanda L. Murphy, William Blair & Co. LLC `
+On the HPLC side are you seeing that 8 years to 9 years come down a bit then? Or is it still
+running at about that 8 years to 9 years?
+A - Douglas A. Berthiaume `
+Well one or two quarters is a little bit too hard to call. I think intuitively we're beginning to see a
+little bit of what I'd call pent up replacement demand largely from the pharmaceutical industry
+who has pushed off this replacement cycle and dealt with reducing head count. So I think that has
+to account for some of our growth that's disproportionate with the industry's growth, that we're
+so strong in the pharmaceutical market.
+Q - `Amanda L. Murphy, William Blair & Co. LLC `
+Got it. And then just one quick one on the column side of the business. So I think you'd say that
+the attach rate for UPLC was pretty high, sort of 80% to 90%. So are you still seeing that? I know
+you've had some new products there. And so curious if you're still seeing that and also is there a
+risk to that going forward?
+A - Arthur G. Caputo `
+The UPLC attach rate continues to grow. It's growing at a rate faster than the rest of our HPLC
+lines. And we continue to extend that capability by adding new chemical moieties to the substrate
+and new products. So the UPLC column business is quite a success story for and it continues to
+expand. And we see very little competition attacking that specific performance range in the
+chemistry line that we have.
+A - Eugene Gene Cassis `
+And you know, Amanda, I think the attach rate continues to be very robust in the ball park that youto see more migration of UPLC technology into quality control applications. We think we have a
+wonderful reputation for quality of these column chemistries with the people who develop
+methods. And if the past is any indication what the future would bring, that's a great place to be
+once the new methodology goes into quality control.
+A - Douglas A. Berthiaume `
+And that's when these new drugs that we developed using UPLC come into quality control. But
+there are still not into the main stream of that process yet.
+Q - `Amanda L. Murphy, William Blair & Co. LLC `
+Got it. Thanks, guys.
+A - Eugene Gene Cassis `
+Thank you.
+Operator
+Question will come from Brandon Couillard with Jefferies. Your line is now open.
+Q - `S. Brandon Couillard, Jefferies LLC
+Thanks. Gene, quickly on the currency for next year, can you walk us through how you get to the
+negative 4% headwind on the revenue line, exactly what the spot rates are that you're assuming?
+From our end I'm getting closer to...
+A - Eugene Gene Cassis `
+In general if I think about the currency story for 2014 it was largely a yen-based story. But as we
+look at 2015 there's going to be a significant contribution to the top line from the diminished
+value of the euro. And you'll continue to see some drag for the yen. If I look at sort of the rates
+that we're looking at for the first quarter, we're looking at a euro that's at about the $1.13 level; a
+yen at the ¥117, ¥118 level, and on the cost side for us a pound – and this works a little bit in our
+favor at $1.50.
+Q - `S. Brandon Couillard, Jefferies LLC
+Great. And for the full year you're assuming basically today's rates to get the down 4%?
+A - Eugene Gene Cassis `
+Yeah. I mean that's – who knows what the, what it's going to be? And all we can tell you is that,
+listen, if rates are approximately what they are today this is what the impact is going to be. And
+we're not forecasting how rates are going to move through the year.
+Q - `S. Brandon Couillard, Jefferies LLC
+Okay. And one more on the outlook. Could you give us a feel for the CapEx and operating cash
+flow?
+A - Eugene Gene Cassis `Yeah. I think on the CapEx side you know the big investment opportunity that we've made in
+recent years is of course our new mass spectrometry facility in Wilmslow. You know in the later
+part of this year we fully occupied that site. And I really don't see anything on the near-term
+horizon that's going to be a large consumer of capital expenditure. So we're going to go back
+more towards a maintenance type of a cap level. I think if you saw with the capital expenditure
+was in the fourth quarter, it was in the mid-20s. I mean maybe projecting that out and thinking of
+capital expenditures that for a full year might be in the $70 million or $75 million might be a good
+estimate of what CapEx will look like this year.
+A - Douglas A. Berthiaume `
+I think with the free cash flow next year should be around the $500 million level.
+A - Eugene Gene Cassis `
+Yeah.
+Q - `S. Brandon Couillard, Jefferies LLC
+Super, thank you.
+Operator
+Question will come from Steve Beuchaw with Morgan Stanley. Your line is now open.
+Q - `Steve C. Beuchaw, Morgan Stanley & Co. LLC `
+Hi. Good evening, guys. Thanks for taking the questions and thanks for braving the storm out
+there. I'd really just like to focus a little bit on China. I wonder if you could first give a sense for
+what kind of growth you're assuming in China over the course of 2015 in the company's overall
+revenue guidance.
+And then I wonder, Doug, if you could reflect a bit more on the comments that you made earlier
+about the outlook in China. It sounds like – and you guys have been pretty consistent on this point.
+You've seen incrementally a positive sign. But you're not willing to call for a really sustained
+recovery there. Are there specifics that you could point us to? Or is it more about maybe a mixed
+picture in terms of certain parts of China as an end market, some better, some worse? Thanks so
+much.
+A - Eugene Gene Cassis `
+Yeah. Well, I'll start off talking about our assumptions for growth in China in 2015. China
+represents something in the neighborhood of 12% of our sales. And you know what we saw for
+the full year on the sales growth for 2014 was very close to flat, or just a tiny bit of growth for that
+business. We think that both looking at the momentum on the order side as well as the shipment
+side there's some reason for optimism. And I don't think it's unrealistic to think about China as
+growing at around the corporate average for next year, so a mid-single digit top line growth rate.
+Against what is going to be a tremendously favorable base of comparison is a good base case
+scenario for us.
+A - Douglas A. Berthiaume `
+And, Steve, I think as you look and try to read the tea leaves in China, this dual track of how
+orders get processed and then how the financial systems fund that has been something that wefaced through most of the year in China. And at various times we saw a little bit of progress on
+the order side, and relatively little flexibility on the financial funding side.
+The thing – and I'd say roughly we saw maybe a little bit better orders performance in the fourth
+quarter than we had expected. But we saw real progress with the financial system and being able
+to fund orders that had been previously booked. And so what begets what in China I think is a fair
+question. Does the shutdown of the financial funding lead to reduced orders or kind of different
+things working on both sides of the equation?
+We take it as a positive that the funding has improved, and our local organization clearly sees
+that. If you look at the projects and the underlying demand that we're seeing from customers and
+thought leaders in China, nothing's changed. They're still looking for – you'd assume that the
+boom was still going in China. If you look at the underlying requests, the demand for new
+capabilities and the multimillion dollar projects that they continue to talk to us about. So if you
+gauge interest at that level, you'd say, wow, 2015 is going to be a robust year. So we try to gauge
+all of that. I'd say, from a top down perspective, we don't see how the cork (59:33) can be held in
+the order side of this genie (59:34) for too much longer.
+There just appears to be the opportunity to be bursting at the seam. We have an excellent
+organization in China. I'd compare it to anyone else in the life science tools business. It's top of
+the grade and it's long-service, unlike a lot of organizations in China. So it's been through the mill,
+and so we're pretty optimistic if the business and these dynamics turns at all, we're going to be
+there to grab a hold of it.
+That's why we think this mid-single-digit approach is more likely to offer us the opportunity to
+grow faster. The question is will it come earlier or later. So it wouldn't surprise us if it were better
+than that, but it's awfully hard to bank on that at this point in time.
+Q - `Steve C. Beuchaw, Morgan Stanley & Co. LLC `
+That's extremely helpful. Thanks so much and get home safe, guys.
+A - Eugene Gene Cassis `
+Thank you.
+Operator
+The next question will come from Bryan Brokmeier with Maxim Group. Your line is now open.
+Q - `Bryan Paul Brokmeier, Maxim Group LLC `
+Hi. Thanks for taking the question. Doug, you stated earlier in the call that, that you expect the TA
+Division to pick up in 2015, but the fourth quarter looks like it was the weakest quarter of the year.
+Is that because of an easy comp next year that you expect the pick-up or new products that
+you're planning to launch this year? Or is there something that you're seeing now that gives you
+the confidence that it will improve?
+A - Douglas A. Berthiaume `
+I'll let Gene start, since Gene's very tied to this division. Gene, you want to...?
+A - Eugene Gene Cassis `Sure. Sure. I think that there's a confluence of activities happening this year that are going to work
+favorably for the TA Instruments group. If you look at the long-term growth rate of that business
+on the top line, it's been a solid high single-digit grower. Now, a component of that has been
+acquired businesses, and I think in 2015, what you're going to see is a nice delivery of some of
+the businesses that we have acquired more recently. We do have some new core products that
+will be coming to the market midyear. So we should have some second half of the year positive
+impact from those launches. And as you already mentioned, I think in comparison to prior years
+this base of comparison affords us an opportunity to show some nice growth.
+I think that the pipeline looks excellent for both new products for the TA Instruments division. And
+as you begin to look at some of the customer dynamics, it looks like there's a lot of building
+interest in some of the newer product launches from that group that will begin to show their
+positive effects throughout this year.
+A - Douglas A. Berthiaume `
+And as I said, Bryan, we can already see. I'm normally reluctant to take January results to the
+bank. And I'm certainly not going to go hard at this. But already in the January timeframe we're
+seeing very good, strong indications of a better performance coming.
+Q - `Bryan Paul Brokmeier, Maxim Group LLC `
+Okay. Thanks. And another question is, is the money you're spending on your health science
+initiatives relatively immaterial? Or is it at the expense of investments in your core platforms? Or
+are you offsetting those investments with reductions in spending outside of R&D?
+A - Douglas A. Berthiaume `
+It's not so much – well, first of all independent of this decision we continue to drive productivity
+programs. And so we do that every year and we're doing it in 2015. So we fully expect,
+particularly in administrative and in support areas, to be able to grow our sales faster than we
+grow the support spending.
+With the health science initiative, independently we looked at that and said while the payoff is not
+likely to be in 2015, the opportunity, the clear outsized opportunity that we have here means that
+we should spend faster to get there. And so we made the decision to do that in our plan. We also
+have some initiatives, probably three or four separate initiatives that we think will pay off in added
+operating benefits. Any one of which might not happen, but taken in total we think will contribute
+towards minimizing the overall P&L pain. Not all of it, but will mean that we can offset some of this
+increased spending. So that's probably the most I want to say about it, but it's, we're not trying to
+rob Peter to pay Paul.
+Q - `Bryan Paul Brokmeier, Maxim Group LLC `
+All right. Thanks a lot.
+Operator
+Our next question will come from Dan Arias with Citigroup. Your line is now open.
+Q - `Daniel Anthony Arias, Citigroup Global Markets Inc. (Broker) `
+Afternoon, guys. Thanks. Just one question from me. Doug or Gene, in thinking about the margin
+runway, how do you guys see the ability for new products to be additive to gross margins? Justcurious about the extent to which this happens and then whether that's something that you sort
+of aim for explicitly when you're thinking about adding products to the portfolio?
+A - Eugene Gene Cassis `
+Well, you know, it's interesting that typically when you have a new product launched, the short-
+term impact until the volumes ramp is it has a little bit of a drag on gross margins. But I'll take a
+look at some of the programs that we've introduced more recently in the QDa and our new
+Tandem Quadrupole Mass Spectrometer. I think we've done an excellent job in engineering these
+products to be accretive to the gross margin.
+So I mean, it clearly is something that we're focused on, especially for products where we know
+that there's a large market and you have a lot of initial market receptivity, like the QDa, like our
+new Tandem Quadrupole. So and again, we talked about this earlier in the call is the positive
+impact that our recurring revenues have on our gross margins and operating margins going
+forward, and that's an important driver of our future profitability.
+A - Douglas A. Berthiaume `
+Operator, I've noticed the time and the conditions. I think we could probably limit it to one more
+question.
+Operator
+Okay. Great. Our next question will come from Jeff Elliott with Baird. Your line is open.
+Q - `Jeff T. Elliott, Robert W. Baird & Co., Inc. (Broker) `
+All right. Thanks for squeezing me in. Just one quick one here. Doug, when you look at the fourth
+quarter, what's your sense, was any of this revenue pulled ahead from the first quarter, perhaps
+on the Pharma side? Or were there any large orders on the academic side?
+A - Douglas A. Berthiaume `
+You know, Jeff, the clearest indication of a pull-forward, and I – it's not often, but I can't say that in
+20-plus years of doing this I haven't seen some indications of major pull-forwards. But I would say
+the clearest indication is that you see this big bolus of orders in the latter part of December and
+then you see orders fall off the cliff early on in January. But let me say that we clearly haven't seen
+that. I'm certainly encouraged by the kind of early momentum that we've seen in 2015. So it's not
+a guarantee that it continues at a very high level but I will say it's very indicative that we didn't
+empty the bucket in December.
+Q - `Jeff T. Elliott, Robert W. Baird & Co., Inc. (Broker) `
+Thanks a lot. Thank you.
+A - Douglas A. Berthiaume `
+You're welcome.
+Well, I want to thank you all. I appreciate you changing your schedules for this. Who knows what
+the response would have been tomorrow. But we do appreciate it and hopefully this is the last
+time we'll have to change our schedule like this. We'll look forward to seeing you on a more
+rational schedule next quarter. Thanks again.A - Eugene Gene Cassis `
+Thank you.
+Operator
+And with that we'll conclude today's conference. Thank you for your participation. You may
+disconnect your lines at this time.

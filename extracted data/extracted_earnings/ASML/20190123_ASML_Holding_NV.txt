@@ -1,0 +1,142 @@
+Q4 2018 Earnings Call
+Company Participants
+Peter T. F. M. Wennink, President, CEO & Chairman of the Management Board
+Other Participants
+Leo de Later, Analyst, Unknown
+Questions And Answers
+Q - Leo de Later
+Mr. Wennink, ASML showed a good Fourth Quarter. What are the highlights?
+A - Peter T. F. M. Wennink `
+Yes. The quarter was good. I think we had sales that exceeded our expectations, or at least our
+guidance. That was because we pulled some system in from Q1 to Q4, which led to a EUR 3.1
+billion sales number. Gross margin was good, 48.5%. However, we -- a few days before the
+results, we reached an initial settlement with Nikon on a year-long IP infringement court case and
+we settled with them. And we provided (another EUR 30 million) of cost, which actually brings
+down the gross margin. We charge this to the gross margin, brings it down to 44.3%. Now if we
+look at that, net income for the quarter, EUR 900 million. And if we take into account the Nikon
+settlement, EUR 788 million.
+Q - Leo de Later
+Anyhow, you report another record year. How would you summarize 2018?
+A - Peter T. F. M. Wennink `
+I think 2018 is a very good year. I mean, in 2018, we actually reached our EUR 11 billion target --
+almost our EUR 11 billion target that we set for 2020, which is very good. That actually means that
+net income was EUR 2.7 billion. However, because of the Nikon settlement, we had to take the
+provision -- or we wanted to take a provision for EUR 130 million, which brings the net income to
+EUR 2.6 billion. Gross margin, 47%. With the Nikon settlement, that goes down to 46%. But all in
+all, if you look at this from a financial point of view, very good. Now having said that, I think the
+biggest achievement is not on the financial ones. The biggest achievements, I think, in 2018 were
+the technological breakthroughs that we had in EUV, DPV business, application business. So we're
+very well positioned for further growth in the next couple of years.
+Q - Leo de Later
+Let's have a look at EUV. How are you progressing with EUV?
+A - Peter T. F. M. Wennink `
+When you think about EUV in 2018, I can tell you anything about technological progress, which I
+will do. But really the most important here is that it's the acknowledgment of the customers that
+EUV is there to be used in high volume production. So all our major customers are planning EUV in
+high volume production. And they're very vocal about this. I mean, in their public statements onAnd it's actually evidenced by the fact that when we look at our order book, it contains more
+systems -- more unit systems than our planned shipments for 2019. So that's very good. And why
+is that? I think it's really because we made some technological breakthroughs. We actually are
+over 250 watt power in our current systems. It brings us over 145 wafers per hour, where we
+initially planned 125. We pulled the development of the 3400C in, which gives more transparency
+and more wafers per hour, over 170 wafers per hour. If you take that all together, that explains the
+confidence of the customers to say EUV will happen and we're going to put this into high volume
+production.
+Q - Leo de Later
+Are there already gadgets that have chips that are made on EUV systems?
+A - Peter T. F. M. Wennink `
+Well you will see the first high-end applications being built with devices and chips that will be
+made on our EUV systems in the second half of this year. Yes.
+Q - Leo de Later
+Let's have a look at the semiconductor markets. There is considerable uncertainty in the market.
+What's your take on the semiconductor market at present?
+A - Peter T. F. M. Wennink `
+Yes. It's undeniable that we have a concern, a certain weakness in the market right now. I think it's
+primarily driven by the fact that we see certain patches of the economy cooling. China, for
+instance. We have geopolitical tensions, the fear of trade war. We have local fears like the Brexit.
+And everything together leads to, I think, a slowing demand for end products, which also reflects
+on semiconductors. And that's what we have seen. And I think we've seen that trend developing
+in the second half of 2018. But at ASML, we really notice it very close to year-end, we saw
+customers coming, both Memory and Logic customers that actually said the market is clearly
+showing signs of slowing and some weakness. And they decided to push out some of the H1, the
+first half 2019 shipments, into the second half. That is both for Memory and for Logic customers.
+And that has happened. Now, if we look at that. And we would split that into the business
+segments: NAND, there is some overcapacity, it's not a surprise. It was already there also last
+quarter. We saw the 2D to 3D transition has happened. Yield improvements are clear. There was
+a lot of investments done over the last two years. So digestion period, that is clear. DRAM. I think
+DRAM, you very clearly see a slower end demand for bits. That has to do with, for instance, the
+mobile market is slowing because of the economic situation. You see some slower uptick in the
+server market. So that is where DRAM demand -- the end demand seems to slow, which will not
+only happen now. But I think it will continue in Q1 and Q2.
+On Logic, Logic is also a victim, you could say, of some slowdown in the mobile phone space. But
+if you really look at Logic from our point of view, there's quite a significant growth profile in 2019
+for Logic. And as also mentioned by our customers, there's very strong demand for the next-
+generation chips. So for the N7+ chips, for N5, for N10 and that all needs EUV also and a lot of
+immersion. So from a Logic point of view, the market is strong for us. Now I'd like to summarize
+2019 as follows: if you look at the business segments, I think Memory, 2019 as compared to 2018,
+were probably just over 20% lower than in 2018. For Logic, however, I think Logic for 2019 as
+compared to 2018, we see around a 50% increase for the demand for our systems, yes? And on
+installed base management, it's going to be single digit. Also, because you see a slowdown in
+the industry. So some of the upgrades that we're currently planning, probably a little bit later. All inall, if you add that up and you compare 2018 and '19, we see growth. 2019 is going to be a
+growth year.
+Q - Leo de Later
+Regarding 2019, can you give a sense of the impact of the fire at one of your suppliers, Prodrive,
+in December last year?
+A - Peter T. F. M. Wennink `
+Yes. I mean, that happened in December last year, very unfortunate. At that fire, the work in
+process and part of the inventory were actually -- they actually were gone. Now that cycle time to
+start up that production, it was a work in process and to get to an output is about a quarter. So
+this is why we see about a quarter delay. It's about EUR 300 million of impact that we see in the
+First Quarter, which we will recuperate largely in Q2. But that's what it is.
+Q - Leo de Later
+Yes. And how does this translate in ASML's sales First Quarter. But also for the full year?
+A - Peter T. F. M. Wennink `
+The full year's going to be very good, really driven by strong Logic demand. The First Quarter will
+be light and it will be light because, just like I've just mentioned, we have about a EUR 300 million
+impact of the fire at one of our suppliers, which actually pushes some of those shipments into Q2.
+One of the reasons for the lightness in Q1 is the pull-in that we saw in Q4 of 2018 of some of our
+systems that we planned for Q1 and the push-outs that are starting to push to the second half of
+2019. Now looking at that and looking at the first half, I think those trends that I just mentioned for
+Q1, I think they will also be visible in Q2. But we see a very strong correction and uptick in the
+second half of 2019. So it's going to be a year that is really skewed towards the second half. And I
+think if you would compare the first half of 2019 with the second half of 2018, it will be a lower
+number, yes, a lower sales number. And that difference, that reduction in sales, is evenly split
+between Memory and Logic.
+Q - Leo de Later
+Has this also -- also with the fact that you report a lower guidance on your gross margin?
+A - Peter T. F. M. Wennink `
+The gross margin is a reflection of the light sales number, yes? And I think, specifically, there are -
+- I think there are 3 reasons also. One, of course, lower sales. With this supplier accident that has
+actually happened, we have to push some of the higher-margin systems to Q2 and beyond.
+Upgrades, we'd like to use the components to build new systems and we push upgrades to the
+second half of the year. Those are high-margin products that we planned for Q1, which, of course,
+are now pushed back. Next to that, of course, lower sales means a lower load in the factory. So
+the factory utilization is going down. And the third very important item is that we have invested
+very strongly in our service infrastructure. Our customers will ramp high volume EUV towards the
+end of the year, in the second half of this year. And that means that the service infrastructure is
+there and it's a big number. And with very low sales, you have a bigger relative impact of that --
+still that service business that is not profitable yet on the gross margin of the First Quarter. We'll
+see that also in the Second Quarter. But it will recuperate in the second half. In the second half,
+you'll see a strong improvement of the gross margin because of higher sales, better load, thehave all the components to do the upgrades. And I think if you add that all together, you will see a
+gradual improvement of our gross margin from the low levels in Q1 to the end of the year where I
+strongly believe that we'll exit the year with gross margins which are growing towards the gross
+margin target of 50% in 2020.
+Q - Leo de Later
+So summarizing your story, it all has to do with temporary business conditions?
+A - Peter T. F. M. Wennink `
+Yes. I've been with the business more than 20 years and I stopped saying this business is not
+cyclical. I mean, I've stopped saying that a long time ago. It will always be cyclical. If you look at the
+very strong capacity additions that we have had over the last couple of years, driven by very
+strong end demand for leading-edge products. But it's logical that at a certain moment in time
+when the economic tailwind is suddenly a headwind, that will be some time where we need to do
+a digestion. And that's happening as we speak. Now that's normal and we have had that before.
+But you need to really think about what does that mean for the medium; to long-term future of
+the company. It's very bright. I mean, there's no doubt. And you can listen to our customers, of
+what the benefits are of the next-generation chips, yes? Those will be significant. So we will keep
+investing. Even in times of slowdown, we've done this in the past and we'll do it again, we will
+invest in R&D or even accelerate. We need to pull EUV in. We want to make sure that those high-
+value products for the customer and for us will be available in 2020 and beyond. So we're going
+to increase our R&D from EUR 1.6 billion last year to about EUR 1.9 billion this year. And I think it's
+all driven by the fact that we strongly believe in what we have said at our Capital Markets Day
+about the prospect and the future of this company. And I think if you look at that and you translate
+that into our confidence, we translate that confidence into increase our dividend with 50% and I
+think that, all in all, is a very good thing.

@@ -1,0 +1,528 @@
+Y 2022 Earnings Call
+
+Presentation
+`Steffen Hoffmann, Head Investor Relations & Treasury `
+Good morning, everybody. After two years of virtual only, I'm very happy to welcome you
+personally in (inaudible) in Stuttgart, as well as obviously also virtually via telephone via the
+internet. My name is `Steffen Hoffmann, Head Investor Relations & Treasury, I'm Heading Treasury and Investor Relations.
+`Tobias Just, Director, Communications Corporate `
+Thanks, Steffen, and good morning from my side as well. Great to have you guys. And it's
+amazing to finally have people in the room again, even though it's just a small crowd and
+welcome also to everyone joining us online. My name is `Tobias Just, Director, Communications Corporate, I'm Head of Corporate
+Communications. Yes, and it's the third time that we're presenting our annual results jointly to the
+investor analyst community and to the media community, which is great.
+In total, presentations today will last about an hour. As always, you can follow us with simultaneous
+translation, we offer German and Chinese. If you are onsite and you want to switch between
+translations, just a quick reminder, you will find German on channel one and you will find English on
+channel two.
+`Steffen Hoffmann, Head Investor Relations & Treasury `
+Of course, our executives after their presentations will be available for you for Q&As, there will
+be two consecutive Q&A sessions. The first one for analysts and investors, and then obviously,
+followed for the media representatives.
+`Tobias Just, Director, Communications Corporate `
+Yes. Both sessions will, as always, be features on our corporate website. The annul result
+conference ends after the Q&A sessions, which will be approximately at 12:30.
+And with that, I would say, it's time to welcome our two main speakers on the stage today, which
+is our CEO, `Ola Kaellenius, Chairman Management Board; and our CFO, Harald in place. And before we would start the
+presentation, I would kindly ask you to give us a minute for some media pictures and then we can
+get going. (Audio-Video Presentation)
+Good. And then we do -- kindly ask you to take over. Yes. Thank you. Okay, Ola, stage is yours.
+`Ola Kaellenius, Chairman Management Board `
+Good morning, everybody and welcome. I like the line of the video sign of new times, it fits quite
+well to Mercedes-Benz. We are 137 year old company but it's actually been our first year as a
+standalone Mercedes-Benz Group focusing on passenger cars and vans. What we're going topresent to you today with the 2022 results, demonstrated that we have resilience in a challenging
+environment.
+Our product defensive is successfully being rolled out across the world and we are step-by-step
+implementing our strategy moving into a new world for automotive, which is electric and
+digitalized. But I would like to start by thanking the Mercedes team for their passion and
+relentless effort in 2022, navigating through this year and making it a very successful.
+If you remember, when we met one year ago, and we talked about what are the priorities for
+2022 inside the framework of our strategy, we have written down these five things that we
+wanted to focus on in the year of 2022. And I just wanted to very briefly recap what did we do
+and how did we do against these priorities. We said we're now going to start scaling electric
+vehicles and indeed our battery electric vehicle sales grew by just shy of 70%. We wanted to
+accelerate our efforts in car software.
+Many of you know that next week on the 22 February, we will have a strategy update, where we
+will lift the veil on the Mercedes-Benz operating system and show you more details of what's
+going on there, but 2022 is really been a year of laying the foundation for that. Also in the area of
+automated driving, actually launching into the market, the first product ever with level three
+automated driving capability. So, stay tuned for more news on the software side next week.
+We wanted to grow our luxury business. Our top-end vehicle sales grew by 8%. So, another
+strong year in that upper end of our portfolio, where we are the market leader. The last two or
+three years have been defined by supply constraints, mainly on the semiconductor side. And it's
+fair to say that 2022 was another one of those years, but we took a lot of steps to go into
+deeper sourcing, creating long-term contracts directly with the chip suppliers, not just on the
+semiconductor side but also preparing ourselves for deeper sourcing for battery materials. And
+as we move into 2023, we will see that those efforts are starting to bear fruit.
+And last but not least, you cannot produce robust financial results like we're presenting today
+unless you keep an atmosphere of efficiency in the company, focus relentlessly on cost and be
+very, very, very mindful about every year or sen that you spend on new products and
+technologies. So 2022, a strong year in a challenging environment. If we look at the numbers, the
+EBIT grew to just above EUR20 billion and with a healthy cash flow -- free cash flow of EUR8
+billion, leading to a net industrial liquidity sitting at EUR26.6 billion.
+If I dig a little bit deeper into Mercedes-Benz Cars, what was the year all about? I use the word
+resilience, and I think that is going to stay with us. The last three years with COVID, with
+semiconductor shortages other supply constraints an energy crisis in Europe, it's something that
+has made us even more vigilant with regard to the macro environment. We need to keep this
+vigilance alive to make sure that we navigate through these times in a financially robust way. The
+profitability has been lifted to a new level for this company, and Harald is going to go into more
+details around that.
+But as a first glimpse in an environment where raw materials and there were inflationary
+pressures, we were able to in this case on the revenue side, on the price side, outweigh that and
+have a net positive position. We launch new products, the new GLC. In fact, the GLC is actually in
+our model portfolio, the best-selling car. So, we launched that into the market last year and we'll
+grow that around the world this year. We launched the first EQS SUV out of operations in Alabama
+and we presented to the world the smaller sibling of that vehicle, the EQE SUV, that has now
+started production and will go into the market in the first half of this year.On the technology side, many of you will remember that we did a drive with a research vehicle
+that we called EQXX. At the beginning of 2022, to see if we could drive 1,000 kilometers on one
+battery charge. Was that just a science project for the engineers to demonstrate, what is
+possible? No, it's much, much more than that. It is a foundation for technologies for the next
+generation e-drivetrain at Mercedes. So the architectures that are about to come at the end of
+'24, '25 and '26. They will already carry a significant part of the technologies that you saw in this
+EQXX that will take efficiency to a new level and efficiency is really the new currency when it
+comes to electric vehicles and the shift into a decarbonized future.
+And as I mentioned, both on the S-Class and the EQS, we launched Level 3, and we also got as
+the first manufacturer, the ability to put that into the market in United States with the first state
+Nevada and we're looking at more states beyond that. But it was also an important year for our
+operations. In this transition going into EVs, which is a transition over many, many years. It will be
+with us through this whole decade and into the next decade. If you're an established
+manufacturer you have to rebuild your production footprint and your operations to match this
+new world. We have now created a target picture for every one of our plants around the world
+both on the vehicle assembly side as well as on the powertrain side, how this transition is going
+to look like and led the foundation for that.
+So, if you look at the volume side, yes, we grew by 5% in 2022, but over proportionally so at the
+top-end of our pyramid, what we call top-end vehicles which grew by 8%. On the battery electric
+vehicle side, just shy of 70% and the plug-in hybrids stayed at the same high level approximately
+as in 2021.
+If I switch gears and take a look at our premium van business. The van business, even though
+much of the focus is in the public domain towards cars, we have this jewel in our portfolio with a
+very strong and healthy premium van business. And they had a year that can be very much
+compared to what happened on the passenger car side. So grappling with the same challenges
+largely as was the case on passenger cars, the van team was able to also produce a very, very
+solid financial result and a very solid margin that was double-digit in the year of 2022. They also
+rounded off their portfolio and we really have the large vans, the mid-size vans and the smaller
+vans, many of the fleet customers they also buy and want to have the whole portfolio available.
+So the launch of the products for the van side on the entry side also, rounds of that picture,
+including the EQT. If you're a person that likes to go camping, you can now also go camping in an
+electric way in the entry segment. And I think after two-and-a-half years of COVID, a lot of people
+want to feel this freedom. So that segment which we are very strong in is something that we think
+will grow.
+May be in an even bigger decision on the operational side in vans, as far as the production --
+footprint production network is concerned is the decision that we made at the end of last year
+and this is preparing for the next generation architecture that we call VAN.EA, an all-electric
+dedicated architecture for our large and mid-sized vans in the middle of the decade that we will
+rearrange our production network. And with the construction of a new plant in Poland move the
+significant part of the production to that new facility, which enables us to create more flexibility,
+but also as a whole, lower the average production cost in our van division.
+So, the focus on going electric is very much as true for the van business as it is for passenger car.
+The sales of vans grew even faster than on cars plus 8%. On the battery electric vehicles small
+growth in 2022, but it's because we were in model changeover. The new generation of the
+electric sprinter kind of the 2.0 of that family will be launched later this year. So we're looking at
+beyond 2023. So '24-'25, we will see significant growth on the electric side in our van business.If we look at CO2 and this is just a European number that we're looking at here. Indeed, last year
+we kind of overachieve what we had originally thought in terms of the percentage xEV for
+Europe, and this is, of course without the first decimal after the comma here. We were little bit
+north of 115 last year, and we're little bit south of 115 this year. But it's also because of the growth
+of the battery electric vehicles. We have now really gone global with our battery-electric offensive
+in other markets as well.
+So the 115 considering that is a very solid number and significantly below our target. Next year, so
+in 2023, when we look at this next year, you will see that number drop significantly. And if you
+want to compare with other passenger car only manufacturers, if you take out the van piece of
+the 115, so vans that have been registered for private use, the number would be around 106, if
+you want to compare with pure passenger car players. So that gives you a short summary of
+what's gone on the Mercedes car side, and on the van side.
+And with that, I would like to hand over to Harald to take a closer look at the financials. Harald?
+`Harald Wilhelm, Chief Financial Officer `
+Thank you very much, Ola, and hello, everybody. Let's have a look, I mean at the car financials a
+bit more in detail. So what is I mean the point I would say, plus 5%, plus 15% plus 30%. What I
+mean by it, plus 5% on sales, I mean we heard it the growth very much in the top-end and in the
+core with Maybach, with EQS, with the C-Class, but also the GLC.
+Well, if you then look at revenues plus 15%, it means obviously, that next to the mix you have a
+significant price improvement. And then looking at the EBIT side, I mean plus 28%, what does that
+mean? Well, I mean performance at work, I would say. Also, cash flow improved I mean to a bit
+more than EUR11 billion in 2022.
+Let's have a look a bit more in detail, I mean how did we get to the 14.6% return on sales
+adjusted I mean on the car side in 2022. Well, the most important piece on this chart, I would say,
+is this bucket volume structure and net pricing, which increased by not less than EUR8.3 billion in
+the year. The majority of that growth clearly comes from net pricing and that includes gross lease
+price increases that includes, I mean escalation updates and further improvement on discounts.
+The slight increase in the volume is at about I mean the same level as I mean the benefit from
+the mix. The used car business was roughly stable, but very healthy contribution, I mean all in all,
+slight tailwind from the FX as well.
+And then, let's have a look on the industrial side. We obviously -- we had to face I mean significant
+step up in raw material cost on steel at very elevated level. Yes, it will come down in the
+meantime, but until it comes from the contracts, it takes a little while, as well as increases in
+aluminium and obviously, in lithium as a share of e-vehicles I mean goes up. We further had to
+face I mean one time commodity charges and made the deliberate payments I mean to suppliers
+for semi related claims.
+The inflation cost as well as I mean supply chain cost for the inflation take, for example, the
+inflation compensation bonus in Germany as well as production interruption cost, I mean further
+added to the bill and the stop and go and the logistic costs to I mean in 2022 was a heavy
+burden. And you can see in particular, I mean, in the Q4, we did some deliberate payments with
+regard to suppliers as well as we had to accrue for the employee related inflation bonus in
+Germany. That explains why the Q4 ended I mean with 13.4%, which is still I think at a very healthy
+level. But overall, I think I mean the messages in 2022 we were able to offset I mean the
+significant charges I mean from raw mats and inflation and semi by pricing and that's what we callSelling expenses, well a bit of higher marketing expenses, a bit of volume related I mean
+incentives. And now the agent remuneration from the switchover of the Model D in '22 was
+Australia and New Zealand, and Australia is in the selling expenses. So, whereas I mean the
+benefit I mean sits in the bucket -- in the pricing bucket, on the left hand side of the chart.
+You can see also a bit of an increase on the R&D side as we invest into the technologies, and in
+particular, into the Mercedes-Benz operating system. On the others, you find a bit of adjustment
+from the discounting of provisioning. On the adjustment side here, well, worthwhile to note
+obviously the charges, which we booked in Q1 related to Russia for close to EUR700 million, as
+well as the M&A benefits, the gains from our restructuring of the Grand Prix activities, as well as
+the divestment of some of the own retail outlets. So overall, I mean the booked EBIT reached
+EUR16 billion and return on sales of 14.6%.
+If we now look on the indicators of change. This is our pattern I mean how we follow what we told
+you we will do between 2019 and the mid of the decade, where are we. Well, if we look at the
+ASP, slightly increased by 43% since 2019, another 9% in 2021. The ASP, therefore, stands now at
+70 -- EUR73,000 in 2022, obviously, driven by a strong mix and pricing.
+We looking on the active workforce side, you see a minus 5%. Well, I mean if you bear in mind
+that a very good part of the workforce is on the blue color, where we did not reduce. It tells you
+that I mean the reduction on the indirect side is even higher than this 5%. Fixed cost, minus 13% I
+mean some of you might dig out the chart from previous year and will find minus 16%. So, yes, we
+have inflation here, which we have to fight and offset. And it just demonstrates I mean that this
+level of reduction is not a walk in the park but definitely we stick to our objectives of minus 20%
+until the middle of the decade.
+On the R&D side, I mean you some addition to it, I mean, again as we invest into our future into
+technologies. And on the PPE side, on the investment side, the CapEx side, you see a very strong
+break as we making use of our assets I mean, for longer reuse I mean the assets. But now we're
+entering a phase where we have to put I mean some investments into extension of our footprint
+in Eastern Europe, I mean in cash commit, but also into renewal of our paint jobs, just as a -- to
+name an example. But overall, we are definitely I mean committed to these targets, which we
+announced for the mid of the decade.
+If we look at I mean the cash flow evolution in 2022, how did we get to EUR11 billion cash flow in
+terms of the conversion rate that sits at EUR0.7 million, which is slightly below our guidance. Why?
+What's the key reason for that? I mean you see a charge on working capital or networking capital
+of approximately EUR3 billion, and the key driver in here is an elevated level of inventories. Why
+that, still a lot of vehicles would have been in the outbound, i.e., on the way into the markets by
+the end of the year.
+We've been talking also about some S-Class certification issues, which have been holding back I
+mean the flow of the vehicles, I mean into the market. Furthermore, the mix in the inventory is
+significantly heavier, obviously, if we sell more at the top end you need to get them through the
+chain. And on the other side, we could reduce on the unfinished significantly towards I mean the
+year-end the as called inbound, also helped by the trade payables. So, that explains I think for the
+working capital.
+On the M&A side of things, you have the -- our investment into ACC in 2022. On the other side,
+the cash proceeds from the own retail outlet sales. The investments are growing in line with our
+predictions, and as I mentioned and explained before, the other line is basically the reversal of
+the P&L impacts compared to the cash on the Grand Prix restructuring as well as the retail outletsas well as the reversal of the equity result versus and DV from BBAC as well as a diesel related
+payments in 2022. Adjustments are for legal restructuring, legal and restructuring, M&A
+transactions as I explained already.
+With this, I would turn I mean to the van side. And well done to the van team here, I would say I
+mean 5:15, 5:30 before. I mean, here I would even say, 8% or 17% close to 60%. So basically I
+think two similar thing, sales up 8%, revenue is I mean even more 17% up, volume mix pricing at
+work and I think a very good mean underlying performance with EBIT EUR1.9 billion, and turning
+that also at -- into cash with the conversion rate of more than one. I think really well done.
+How did it work? I mean I will accelerate maybe a bit on this, did we get to 11.2% on the van side,
+again here, you see the volume structure and pricing bucket, I mean significantly positive here the
+volume helped also mean a very good mix from Sprinter, Vito and the V-Class next to the pricing
+and that also could offset in the industrial challenges and charges we had to face, basically I
+would say, the same things I was talking about I mean before on the car side. As well as the I
+mean the explanation here on the selling, I would say, same explanation with the switchover also
+on the van side into the direct sales model.
+With this, I would go to the cash flow of the vans, well, I think a pretty clean good picture well-
+managed also in terms of I mean the production and the inventory, you see that just I mean a
+moderate charge on working capital here. The investment side is still I mean significantly lower
+than the depreciation side, but here, I mean, we need to anticipate that this will change moving
+forward is we now will invest even more into the VAN.EA platform and the extension of our
+footprint in eastern Europe as it has been announced. In the other bucket, I mean, you have also
+then the reversal of the FBAC result. The adjustments are on legal proceedings related to diesel.
+Turning to mobility. Overall, I think, I mean a high level of profitability 17%, despite our challenging
+environment. The net credit losses so the actual credit losses remain at a very low level that has
+been supported by the high quality in the portfolio and also strong used car prices I mean in
+2022. Overall, I mean the weakening of the macro environment caused us to update namely
+increase I mean the cost of credit risk. The higher interest rates I mean definitely, we try to pass
+them I mean further on I mean to the customers, but that comes along with some time lag and
+also mean a bit of a step up in the competition in the field, put pressure on the interest margins.
+On the positive side, the fleet management business had a very good contribution in 2022. And
+in 2022, we also completed the as called Phase 2, namely further transfer of the truck business or
+the truck financing business has been completed. And now we can say that Mercedes-Benz
+Mobility is fully dedicated to support a cars and vans in the transformation journey.
+How do the numbers look like I mean for mobility? The new business, I mean, decreased by
+roughly 9% lower penetration rate, intensified competition but also in the previous year number
+you still have, I mean, the truck business inside. The portfolio overall remain stable at EUR132
+billion, and on the EBIT adjusted, I mean, we are at 16.8%. So, let me explain how we got to that
+number.
+Well, in essence I think I mean that is a healthy number 16.8%. And as I said mean before, we had
+to cater and accrue for higher credit risk provisions due to the macro changes again, not to actual
+losses incurred. But due to the macro environment, a bit of a lower volume and the pressure on
+the interest margin, I just explained before. On the other side, FX and the G&A helped a bit to
+improve.
+Once the copy then at the group level. Well, Ola you mentioned, I mean EUR20 billion already. Ichiefly the contribution from the colleagues from Daimler Truck, which is included here at a net
+after PPA of EUR226 million.
+On the adjustments, we find again the restructuring mainly related to Russia as well as the M&A, I
+mentioned already several times during the presentation that leaves us I mean with a group EBIT
+on the book side, also buff EUR20 billion at EUR20.5 billion.
+Group cash flow. The cash flows of the divisions before tax and interest, I explained already
+before. So, what happens else on the group level, it's basically the cash taxes, which we're at
+EUR4.1 billion in 2022, I think we alluded to that, that they would go up significantly from 2021, and
+obviously, with higher level of earnings as well as the tax loss carry forwards being gone that
+comes up and it was this I think we also honor to be a good corporate citizen. Adjustments, again
+same thing from the legal restructuring the M&As and like.
+On the net liquidity and the walk from '21, where we started the year to the EUR26.6 billion end of
+the year. Obviously, the key thing the cash flow of more than EUR8 billion. We had on the chart to
+before the DV, which we paid to shareholders of EUR5.3 billion for the year 2021. But also -- I also
+like to mention I think contribution from Mercedes-Benz Mobility, namely capital returns as a
+portfolio is running at a lower level, which was healthy -- which sits in EUR2.9 billion bucket on the
+right hand side of the chart.
+What is the proposal on the dividend side, well, with the EBIT reported of more than EUR20
+billion that translates aftertax into net profit of EUR14.8 billion or EUR13.55 for the earnings per
+share. We suggest a dividend of EUR5.20 to the AGM that is slightly below, I mean, a payout ratio
+of 40%. However, that is still I mean the step up year-over-year of I think, what is at 4% also
+compared EUR5 in last year. But if you really want to make it like-for-like, bear in mind that the
+EUR5 of last year had a EUR0.70 for the truck inside. So it means nothing else than a step up in
+the DV proposal off 21%.
+DV not enough, well, today is the day where optionality turns into reality, our last slide, some of
+you know what I mean having made reference to that I mean in a couple of times throughout
+2022. The dividend in and itself, and the proposal we just went so before I think it demonstrates
+our commitment and dedication to shareholder returns. But today with this announcement of the
+4 billion share buyback program over two years, we definitely, I think I mean go a step beyond
+that.
+What was very important to us and remains very important, the strategic objectives of the
+company definitely have priority, the definition of them, and the execution, but we feel and the
+Board feels that we're well on track in terms of the strategy and the strategy execution. And
+therefore next to the strong operational performance, which we could see now over some
+period of time and the cash generation, we think that we can optimize them in our capital
+structure. By doing that, we believe we can create value for our shareholders and return capital to
+our shareholders by launching that share buyback of up to EUR4 billion over next two years. The
+program is scheduled to start in March this year and we intend to complete it no later than 24
+months from March '23 starting.
+Another important thing, we rather consider this share buyback, I mean to be funded by the cash
+flows to be generated after dividend in '23 and in 2024, rather than grabbing I mean into the
+cash balance sheet and just I mean returning. So, it is a sign of confidence in our strategy
+execution but also a sign of confidence in our capability to command cash generation moving
+forward.Another important point, I would say, is you could see with the announcement yesterday that two
+key shareholders BAIC and Geely each individually agreed to keep their shareholding respectively
+below 10%, and there's also demonstration of a very strong and good relationship with our
+shareholders at that end.
+Now, let me turn to the outlook for 2023. First, I mean, there's an assumption chart, which is
+pretty long and detailed, and I would really like to invite you to read it carefully. As I think, we're in
+an environment of lots of uncertainties and volatility. So, when it comes I mean to geo, to macro,
+to trade, to politics COVID-19 in China semi or supply chain related I mean issues, energy cost,
+commodity prices, inflation and interest we can read it for 15 minutes, but I am not doing that. As
+we want to talk about I mean, what we have in mind for 2023, maybe a word on the supply chain
+side. So, here we see that the bottlenecks are easing, however, some individual -- and still remain
+important and material, I mean, topics remain causing a supply constraints.
+On the demand side. First, I mean, let me refer to the situation in Europe. Here we see the
+incoming orders being more sluggish. However, I mean, the order bank in Europe I mean
+supports the sales well into the first half of the year. What's the situation in the U.S.? I mean here
+we see a good level of demand. What do we see in China? Well, the Q4 COVID still over from
+Q4 into the beginning of 2023. The Q1 has an impact I mean on consumer sentiment post the
+Chinese New Year, we see some momentum coming back but I would say this is still a bit early
+time to judge from here.
+What does it mean on the sales side, on the sales guidance, well, on the on the sales side on the
+car unit sales that we take a prudent approach given all of these uncertainties. And therefore, I
+mean, the guidance on this -- on the unit sales is on a same level as prior year. I would say that
+also signals I mean our belief and our strategy to prefer margin over volume this is also
+embedded I think in this guidance statement.
+Inside, we want to increase the top-end vehicle share slightly above prior year and we have great
+additions in the portfolio to do so. If we think about I mean the first full year of EQS SUV to come
+and also I mean Maybach version of this beautiful vehicle I mean later in 2023.
+On the BEV side, we want to approximately double and think all of the vehicles, I mean, we will
+now be in the market in 2023 to do so. What does it mean in terms of the margin guidance? Well,
+I mean here we guide at 12% to 14%. How does that refer to the 14.6% you could see in 2022?
+Well, volume flat, obviously, the increase -- the slight increase in the top end has a slight benefit
+on the other side I mean the increase on the BEV has a slight the dilution effect.
+Probably the most important, we have the ambition to make the net-net pricing, namely I mean
+the pricing minus, I mean the charges we still see coming on the commodity side, on the raw
+material side, on the supply chain side, we have the ambition to make that net-net slightly
+positive for 2023, which I mean, given the significant uncertainties I think is a good level of
+ambition.
+We do anticipate I mean the used-car vehicles remain to be at a lower level. We don't see it right
+now, but it is embedded in the guidance as a matter of prudence. R&D should go up, I mean
+slightly. And then guess what we include in this guidance of the 12% to 14%, pretty well known
+general mill macro risk protection of approximately 1%. So, I think, you can read from that, that
+probably our internal ambitions is bit at a higher level, but in this context, I think, it's the right thing
+to do.
+On the PPE on the investment side, we see a step-up the next generation entry luxury, MMA, it's -plant, the paint shops. So, we are approaching a bit of an investment cycle here. But we definitely
+keep in mind, our overall objectives in terms of investment cap, which we announced for the
+middle of the decade.
+Same thing on the R&D side, slightly up due to the investment into software MBOS, but also the
+new platforms AMGEA and MBEA. Cash conversion targeted at around I mean 0.8 to 1. So slightly
+above I mean 2022.
+On the van side, pretty similar picture, I would say, also sales I mean at the previous year level
+with a net pricing, i.e., net-net pricing around break even or i.e., pricing compensating the
+expected supply chain and raw material evolution I mean in 2023. R&D will go up with the
+investment I mean into VAN.EA and same thing also, a bit of a risk provisioning on the van, side
+which makes the guidance 9% to 11% for the margin and on PPE and R&D, I mentioned it already,
+the step up in the VAN.EA as well as in our footprint in eastern Europe, that leaves I mean on the
+van side, cash conversion of 0.5 to 0.7.
+For mobility, we guide at 12% to 14% I mean that might surprise I mean some of you a bit let me
+explain why we see the portfolio slightly down. We do anticipate a deterioration of the interest
+margin by roughly 2% and also bit of FX headwind. That leaves us out rather with a 13% to 15%,
+which I think is in line with our mid to long-term objectives in terms of return on equity for mobility,
+but we also apply a bit of a risk provisioning here. But now, as you know, as we communicated,
+we embed the charging unit, which we announced in January into MBM and that causes some
+OpEx run up in 2023 and therefore we guide at 12% to 14%.
+Almost done, so group guidance, well, I think that's pretty straight forward as -- if you look on the
+revenue that is at prior year level, the mix favorable on cars and vans, mobility down. So that
+makes it flat. On the EBIT side -- the group EBIT side slightly below 2022. Well, also pretty obvious
+I think with a margin guidance I mentioned on cars and vans and mobility. And on the cash flow
+side, however, we want to be at the prior year level maybe more at the upper end of the range,
+despite again higher cash taxes, which we expect in 2023. And CO2, as Ola said already, before
+should be significantly be low prior year level.
+And with this, I hand back to you, Ola.
+`Ola Kaellenius, Chairman Management Board `
+Yes. Thank you, Harald. I just want to finish up with looking at what the priorities are for this year. I
+started the presentation with a quick look back, what did we say a year ago and what did we do.
+Now we have a new set of homework for this year within the framework of our strategy, going
+electric, going digital, letting Mercedes be Mercedes, focusing on the place where we can win in
+the market.
+So what are five of the main things that we need to pay attention to, in this year to get it right and
+be able to deliver on the outlook that Harald just described? I think maybe the most important
+one is what I call safeguard our operating optimum. It is this delicate balance between price and
+volume and a focus on high quality on the contribution side. It is a craft in its own right in shifting
+markets, and of course, competitor behavior that you cannot always foresee. But we have taken
+a very clear course on this in the past two to three years. And as you said, it is a focus on the
+margin quality as opposed to rushing into volume. And that's why we take this prudent guidance
+also on the volume side for 2023.
+We're going to continue to scale the BEVs, try to double that number this year, which is both an
+operational job, as well as then get it into the market. But that story continues and we haverecently launched product and are launching more product.
+We also have to work on future-proofing supply chains. So this short-term tactical dealing with
+supply constraints, it's not gone yet. 2023 is another year where we will work on that. We're
+seeing the constraints easing. But I think, as time goes by, this shifts more into a mid to long-term
+focus as supposed to the short-term, battery raw materials, but not only battery raw materials. As
+I mentioned earlier in my speech, it's also looking through the vertical of what's happening on the
+compute and the chip side, and how do you forge the right partnerships for going into the next
+generation of technology there as well. So supply chains is more than what we experienced
+during COVID or geopolitical issues. It's also part of the overall transformation of the auto
+industry.
+With regard to customer experience, the revolution next to the revolution that is going on in the
+auto industry, and we talk a lot about decarbonization, electric, digital and so on, it's actually
+what's happening on the business model in marketing and sales. We have quietly in the
+background step-by-step introduced direct sales model in some European and overseas market.
+But this year, we're taking a big step-up. We turned UK, which is the second biggest market in
+Europe, into the direct sales model at the beginning of this year. And it is our intent to also switch
+over Germany during 2023. Germany being the third biggest market worldwide, direct sales now
+really start becoming a real thing, and we're going to add a couple of overseas markets to that.
+When you do that, you turn yourself from a wholesaler to a retailer, really. The customer
+relationship is one to one with the manufacturer that changes your whole attitude of how you run
+the business. On the side of that, a lot will happen on the digital side, especially with the launch of
+the new E-Class and so on. But I don't want to be a spoiler alert for the Mercedes-Benz Strategy
+Update next week on the 22 of February, where we will lift the veil on what we call MB.OS, the
+Mercedes-Benz Operating System. So please join us digitally or some of you will be on location in
+California when we talk about that.
+And as far as high end, top end is concerned, yes, even though we're guiding flat on volume, we
+want to have a slight growth on the top end side. So taking care of our very best customers is
+hugely important. And we have recently also added additional formats, dedicated Maybach
+launches, AMG stores and so on in different markets. So more and more is happening there in
+terms of the customer focus.
+And last but not least, I say here, maintain cost discipline. I should rather say maybe maintain
+financial discipline. This transformation requires an extraordinary amount of investment. We saw
+the numbers just a couple of slides ago. If we want to protect our strategic ambition in terms of
+financial results and also relative profitability, we cannot miss a beat on working on the efficiency
+side at the same time.
+So this discipline, this is a more message to the internal viewers here of Mercedes listening to
+this presentation and maybe to you in the room is, yes, we're investing at the high level. Yes, it's
+about new technologies, innovation and taking Mercedes into the future. But we need to remain
+Swabian. So the first few years of this transformation -- I'm a Formula 1 fan. And yesterday, we
+presented our new Formula 1 car that we'll raise soon. These first years of transformation, that's
+like qualifying the race. The race is still to come. So the bulk of the work is ahead of us, and we
+have only just laid the foundation for what needs to happen in this decade and into the next
+decade.
+And with that, I would like to wrap up, and I look forward to the Q&As and the different sessions
+here in a few minutes' time. Thank you very much.Questions And Answers
+A - `Steffen Hoffmann, Head Investor Relations & Treasury `
+(Question And Answer)
+Okay. Besides maintaining cost discipline, we'll also maintain time discipline, but we'd just like to
+take a few minutes before we jump into the Q&As, which, of course, will offer ample time for
+your questions. It's something that is, I would say, almost same procedure as every year.
+Just tapping on a few issues that we did not squeeze into your presentation, but are still relevant.
+And maybe Ola, we'll start with the first question for you. There's been a lot of media attention
+on the ban of ICE cars in Europe post 2035 in recent days, but there's even another European
+regulations closer to today, and that's EU7. Can you share a few thoughts on what you believe
+where EU7 is, and what that means for our company?
+A - `Ola Kaellenius, Chairman Management Board `
+There is an intense discussion going on around EU7 at the moment. And here, I would like to
+remind everybody that the proposal that ACEA made more than a year ago now in terms of the
+NOx emissions was even more aggressive than the numbers that we have on the table in the
+discussion currently.
+So everybody is committed to improving air quality. That's not a discussion. When we saw the
+proposal from the commission, this initial proposal, we thought that in terms of NOx targets, yes,
+that's doable. But it was some of the conditions next to that, that have sparked a debate. Mainly
+three things. One was testing conditions. The testing conditions were not defined, which would
+open up kind of a scenario where you could drive the car under extreme circumstances and you
+can't design the car for an extreme circumstance, you got to find and design the car for
+something that happens in real life. I did see, actually, which was a positive sign yesterday that
+there were some comments from Brussels, saying, no, you -- don't worry, you have
+misunderstood here or we're going to pay attention to the left and the right side of the normal
+distribution and make sure that we don't do something crazy in this regard.
+The other thing was timing, whereas originally middle of 2025 has been the goal from some
+years ago, it's taken a very long time to set the regulation. Usually, the logic is, for new types, you
+take then year one. And for all types, you usually get one more year to convert. Now they
+bundled everything into 2025, and this is only two years' time. So if you have clarity now to get
+this done in two years, it's in some regards almost an impossible task. So on the timing side, I
+think the discussion is up.
+And the last piece was on the heavy vans. Everybody loves when the craftsman come and fixes a
+problem at your house, but the person needs to be able to buy one of these vehicles as well.
+And there were a couple of the values in there where the suppliers tell us, if I go to the best
+suppliers in the world and say, okay, I want to get my van, (inaudible) ready. And said, in some of
+those dimensions, I really don't even have the technical solution for you, Ola. So it's those kind of
+side things that needs to be fixed, and the debate is not so much about improving air quality,
+we're all for that.
+A - `Steffen Hoffmann, Head Investor Relations & Treasury `
+Okay. Thanks. Next question, Harald, you've mentioned that we're going to do a share buyback
+program. How we're going to do a share buyback program? Could you spend a few moreminutes maybe on the why and also put that in the context of the ability of the company to do
+whether [ph] investments?
+A - `Harald Wilhelm, Chief Financial Officer `
+Yes. It was great pleasure. I mean, obviously, you could have the question as why don't you invest
+into your future? Why don't you invest into strategy, into new products and the like? So I would
+say, number one, look into actual data and compare that, I mean, to other industry or within
+industry. And if you do that, you will find out that we are still, I think, I mean the one in the auto
+segment with the highest investment per car, and also in absolute, the highest level of
+investment into R&D and into future platforms. That's when you look into actual data, right?
+If you then look into our product portfolio, which is in the market and which we are bringing to
+market. Wow. What else do you want to do? So I think really, we address from a product portfolio
+side all of the segments where we want to be, and we'll not be shy and greedy in terms of an
+investment to put them in the right substance of the products. We will talk about the top end,
+obviously, that is a mandatory thing to do. We will not compromise on this.
+Next week, we'll talk about software. So I stay silent on this, but we will also -- we do invest, as we
+speak, significant amount of money, I mean into software. So we had been saying, I think, some
+time ago, it's around EUR60 billion we're going to invest into the transformation of the company
+over the years to come. We're investing about, I mean, a double-digit number into our own sites. I
+talked about before the paint shops just as an example.
+So I think, we're doing everything as a matter of priority to execute the strategy which we said.
+But at the same time and we could demonstrate that we generate, I mean, performance,
+operational but financial performance, and translate that also into cash. And even I can say, I
+mean, surplus cash after dividend. Well, end 2019, the net cash balance was EUR11 billion. 2021,
+we could see it on the chart, was EUR21 billion, after having given EUR6 billion to our colleagues
+from trucks. And now we're at EUR27 billion, I mean, at the end of the year.
+So I think we have this track record now. And the message I think of the share buyback is that it is
+definitely our intention to continue that track in terms of operational performance and cash
+generation and to fund, therefore, this EUR4 billion, I mean from this program, while maintaining
+absolute priority and focus on the strategy execution.
+A - `Steffen Hoffmann, Head Investor Relations & Treasury `
+Okay. Understood. Then maybe one more for you, Ola. We've received a question several times.
+What's the impact of the Inflation Reduction Act on the Mercedes-Benz's strategy and production
+footprint going forward?
+A - `Ola Kaellenius, Chairman Management Board `
+The underlying purpose of the Inflation Reduction Act as we understand is to accelerate the auto
+industry and other industries into a decarbonized future. It's the right ambition. It's the right
+ambition. And if political leaders make that a priority and also willing to spend government money
+on that, I think that can be very helpful. So that's good as a foundation for the Inflation Reduction
+Act.
+If there are protectionistic side effects of it, that is unwelcome. I think what we have seen over the
+last 30 years, the WTO driven opening up of markets have created a lot of economic growth and
+lot of wealth growth. So to peel back and go into perhaps a more protectionistic direction wouldstifle that economic growth, and of course, would not be good for export-oriented economies
+and companies like ourselves.
+So I think that's where much of the discussion is going on. How can you have the one without
+having the tractors? So we're watching how that is developing. But I would like to say that we had
+decided in North America for our North American battery electric vehicle production to
+regionalize or sourcing change their anyway, even before the Inflation Reduction Act was
+announced. Now that will be financially supported, so it will be indeed more economically viable.
+A - `Steffen Hoffmann, Head Investor Relations & Treasury `
+Okay. Then I would say for the sake of time, just one last question. It's a question that I received a
+lot last year. So maybe I would use this opportunity to get a clear answer from you for everyone.
+Will Mercedes continue to offer cars in the compact segment?
+A - `Ola Kaellenius, Chairman Management Board `
+I think that's maybe a debate, mostly here in Germany. The short answer is yes, but we will focus
+on the models that we believe are the most successful on a worldwide basis and moving the
+portfolio from today about seven positions to four positions. And we might later this year even
+tease what that new future would look like. So stay tuned.
+A - `Steffen Hoffmann, Head Investor Relations & Treasury `
+Good. Okay. That's it for now. We're going to continue with Q&As. The Q&A for the investors and
+analysts will start at 10:15. That's in a few minutes. And then just for the media attending today,
+your Q&A will start at 11:30. And we're all looking forward to both.
+Thank you so much. Thank you, and see you back in a few minutes.
+A - `Ola Kaellenius, Chairman Management Board `
+Thank you.

@@ -1,0 +1,658 @@
+Q4 2014 Earnings Call
+
+Operator
+Welcome to the Ericsson Analyst and Media Conference Call for the Third Quarter Report. To
+view visual aids for this call, please log on to ericsson.com/press or ericsson.com/investors. As a
+reminder, replay will be available one hour after today's conference.
+Peter Nyquist will now open the call.
+Peter Nyquist `
+Thank you, operator. And hello, everyone, and welcome to this call, the Q4 and the year-end
+result call. With me here today we have Hans Vestberg, President and CEO of Ericsson; Jan
+Frykhammar, our CFO; and Magnus Mandersson, Head of Global Services; Helena Norrman, Head
+of Marketing and Communications.
+During the call today, we will be making forward-looking statements. These statements are
+based on our current expectations and certain planning assumptions, which are subject to risks
+and uncertainties. The actual results may differ materially due to factors mentioned in today's
+press release and discussed in this conference call. We encourage you to read about these risks
+and uncertainties in our earnings report as well as in our Annual Report.
+Before handing over to Hans, I would like to mention, as you probably can see on this slide, that
+in the comments we have adjusted for the SEK 4.2 billion in initial payments from Samsung. For
+the full-year, we have made adjustment of 2013, we have made adjustment of SEK 2.1 billion; and
+for Q4 of 2013, we have made an adjustment of SEK 3.7 billion. And as you will see in adjustment,
+the impact will hit Segment Networks and Support Solutions.
+Commentary made on gross margin and operating income consider these adjustments. And all-
+table displays the reported numbers.With that said, I would like to hand over to you, Hans.
+Hans Vestberg `
+Okay. Thank you, Peter. Let me just go over some of the key market developments for 2014, and
+I will do it pretty quickly, because some of you have probably already followed the press
+conference in morning and read materials.
+We can conclude 2014 continued with a high demand on mobile data from consumers. We will
+see that operators have moved into focus much more on network performance, which means
+capacity enhancements and densification.
+At the same time, we now see in the next step of technology evolution in our industry, which is
+very much about virtualization and cloud, and that coupled with that the opportunities are pretty
+big in the market, and choice has to be taken. We see operators taking their choices, some
+consolidate some with other industries and we saw that due in 2014 and we believe that will
+continue as we were in the inflection point of this industry.
+We also talked about two very important markets for Ericsson. North America, which will lead
+market with strong fundamentals. We have seen investment driven by quality and capacity
+enhancement during the year; however, slower pace in the second half. I will come back to that.
+China is probably doing the most rapid technology transformation than we've ever seen with 4G
+passing some 100 million 4G subscribers in one year.
+In total, we are now 7.1 billion mobile subscriptions in the world, growing still with 6%; more
+important, a growth of 32% the mobile broadband subscriptions to 2.9 billion mobile broadband
+subscriptions. That's a little bit on the market.
+If I look at Ericsson, 2014, excel in the core business, we have a clearly both with business mix and
+efficiency gains improved our core business. We have also launched a couple of new products
+where of course there is a Radio Dot system is important with the first commercials during the
+year. Professional Services as we believe in the first half they would come back in the second half
+and you can see why. Very many Managed Services contracts that we signed up in the first half is
+now coming into the base as well as the demand on system integration is of course high with all
+the softwares from OSS/BSS, TV and media that has to be integrated. That's good to see.
+Our target areas that we talked a lot about the Capital Markets Day. We said that, that market is
+growing 10% and that's partly where they've chosen them. We can conclude that we grew more
+than 10% in 2014 in these target areas. And that's good to see. We are in momentum in all five of
+these target areas.
+Capital Market Days also will reveal our proactively focus on reducing cost and we have the plan
+of reducing our cost base with SEK 9 billion in 2017. We have seen the first activities here
+especially with modem which is ahead of the plan and definitely doing very well on – agreeing on
+the end of life on the 7450. That means that we know when we can ramp down these and where
+we can move resources to Radio, because we're doing some part of that and when then we can
+reduce and discontinue other activities and that's what we're already seen happening in the
+fourth quarter.
+Concluded also this was the year where we clearly see that our monetization work in Europe paid
+off. We have strengthened the position in Europe. That's gone from a coverage sort of project
+region to much more capacity.If you then look at our sales; full-year SEK 228 billion and down for comparable unit, that's down
+2%. Of course, the softer Mobile Broadband business in North America was an important factor in
+the second half. On the other hand, we had many other regions that were compensating through
+the year. Which is also in the year clearly an improved margin in the core business. We produced
+some 7% full-year operating margin. That should be compared to last year's 8%, but remember
+last year we also had the business from the settlements with Samsung that Peter talked about
+how we have tried to adjust in order to make it too much more comparable and easier to
+compare the years, so you can see that.
+Third consecutive year on cash conversion over 70%, which is a long-term target for the company,
+we're happy for that, good work throughout all the organization to reduce our capital structure,
+which meant also that basically with all the activities we've done, we've maintained our balance
+sheet and our gross cash position and Jan will come back to that.
+Fourth quarter, down 2%, very much similar to the full-year in North America sort of a softer in
+Mobile Broadband. Middle East, Europe, Asia stronger, and, of course, eight out of ten regions
+growing in the fourth quarter, which is also a strength of the company, where the largest region is
+not growing. We had currency tailwind which is helping us on the top line, of course, but also
+there are some other challenges coming around on the hedging effects which we will come back
+to later.
+We think that our gross margin improved to 36.6%, which is of course good. That led us an
+operating income of SEK 6.3 billion or 9.3% operating margin, which is clearly an improvement as
+well. And here we of course, we see a good business mix, efficient improvements; and on a
+negative side, we're on the peak on our OpEx. As we have said, we are addressing that in 2015.
+We need that to get the competitive portfolio, but now it's time to take that down and the
+management is extremely focused on doing that. We also have an impact on the currency of
+course that went negative.
+Then if you can look at the regional sales for full-year and clearly see that North America was not
+growing, negative 8%. On the other hand, you saw everything from Middle East, India, Western
+Europe, Central Europe growing for us in the year sort of balancing out.
+And then if you do the same bridge on the fourth quarter, we can clearly see that North America
+came down and that's of course in Swedish kronas, so we had some tailwind. But many other
+regions, of course, eight of them growing very well.
+And highlighting Middle East that has been consistently strong for us, but Western Europe, India
+very strong, Southeast Asia came back very good in the fourth quarter. And here you can see also
+other that went down 35%. In other, as we have explained many times, we had our broadcast
+services, some other small businesses, but we also have the IPR. And here you see the impact
+that we had the Samsung payment at the fourth quarter 2013.
+That was a quick summary of where we are, and I hand over to Jan.
+Jan Frykhammar `
+Okay. Thank you, Hans. Let me then basic comment on the fourth quarter in terms of gross
+margin and operating income. What I want to start with, if you look at the gross margin trend
+there in the chart, you can see that we clearly operate the company now on a much better level
+of gross margins.Typically in the fourth quarter, we have a high share of project completions that is visible in
+network cloud sales in the quarter. We had that this year as well, but we also had a much better
+overall business in terms of software, and also if I compare with Q3, a better IPR revenue.
+Also in the mix is that we continue with high pace in rolling out the coverage projects mainly of
+course related to Mainland China. So overall, a good gross margin development in the quarter
+and also partly supported them by the FX development.
+If we look at operating expenses, SEK 17.8 billion in the quarter. Typically, we have a seasonal
+uptake of operating expenses between the third quarter and fourth quarter. I'm sure many
+companies have that. We have continued to invest in the target areas, predominantly in R&D.
+That's feasible in the run rates; but as Hans said as well, when we go now into 2015-2016, we will
+work with efficiencies and cost reductions in order to make sure then that operating expenses
+comes down here gradually.
+Then, if you look at the hedge impact, I'll come back to that with a separate picture. We don't
+need to comment that now. I think, operating cash flow of SEK 8.6 billion also was a good
+recovery compared to the third quarter.
+So, if you take next slide please. Here we then look at the sales growth adjusted for comparable
+units and FX. And you can see here that we have an organic FX adjusted group sales in the
+quarter of minus 2%; Networks, minus 7%; Global Services grew both in reported numbers as well
+as in organic FX adjusted numbers, 10% and 50%; Support Solution minus 5% organic FX
+adjusted. We have the same major FX exposures. The big currency in terms of top line is U.S.
+dollars and that has been the case for many years.
+If you then take next look at operating income, so with adjustments that Hans have gone through
+to create comparability with the initial payment from Samsung there in Q4 of 2013, we start really
+the comparison with an operating income of SEK 5.4 billion as of Q4 of 2013. That has been
+improved then to SEK 6.3 billion, driven by two main things. One is gross margin improvement.
+You can see that in this slide, and also the fact that we have a net positive impact now from
+currency including volatility reduction. So, this means we are exposed to FX by means of
+translation and transaction exposure, but also when we include the negative impacts of hedge
+contracts there is a positive contribution in the quarter. And that's, I think, important to know.
+Expenses up then, so that offsets partly the improvement. If you then look at the currency hedge
+impact, you can see here that we had SEK 1 billion negative in the fourth quarter. Most of this now
+is realized in the quarter, and that has of course to do with the profile of the year that we have
+the biggest dollar inflows in the fourth quarter every year. So, most of this is realized. Now, we
+have the hedging policy that we have. So, we on average have approximately five month to six
+month hedge horizon.
+We continue to disclose our closing rates when we go into 2015 on the quarterly basis on our
+homepage, which I hope improves the visibility of this impact for yourselves when you do the
+analysis. And the rule of thumb here in terms of the impact on the income of currency
+movements still holds.
+If we then look at the cash position, we started the year with the gross cash balance of SEK 77.1
+billion. When we ended the year, we had a gross cash of SEK 72.2 billion. Operating cash flow, of
+course, positive for the full-year, close to SEK 19 billion. We have spent approximately SEK 5.3
+billion in CapEx. Acquisitions around SEK 6 billion. We have paid back some loans, and we don't
+have any now maturing debt until 2017, and that's disclosed in the report.And then we paid dividend net-net, we ended SEK 72.2 billion or a gross cash reduction of close
+to SEK 5 billion. Net cash then reduced full-year of slightly more than SEK 10 billion, this is mainly
+driven by revaluations of post-employment benefits, and that's due to the very low interest rates
+that we now see in many markets. For us, it's mainly Sweden, UK and U.S. that impact post-
+employment benefits.
+Okay, with that, Hans, back to you.
+Hans Vestberg `
+Thank you, Jan. Then let me start by Segment Networks, then go through a little bit what
+happened there. Full-year down 7%, and we saw a year where we started a little bit weak and
+then had the second quarter and third quarter a little bit stronger, and then the last quarter
+coming down again, overall down 7% down for comparable units. The main reason is of course
+the Mobile Broadband business in North America in the second half here; however, 7 out of the
+10 regions are growing in Mobile Broadband, which is very good.
+Sequentially, that hasn't hit on us, we all had a sequential growth of 7%, but other regions that
+were coming up were countries, Japan, Taiwan and Mainland China are strong. We still, of course,
+with a decline then quarter-on-quarter to 27% on that. North America we actually made SEK 4.3
+billion with better software sales and efficiency enhancement, where the negative impact from
+the hedges, not only that of course, here is the area where we have an high investment level, so
+the OpEx is higher. Still, we made SEK 4.3 billion with all of those. So, we see the sixth consecutive
+quarter here of about 10% operating margin, and as you can see in the lower part of this graph.
+Full-year, 3% down, and, of course, Middle East played a role here as well as Mobile Broadband in
+the second half in North America; but clearly significantly improved operating income with some
+headwinds from currency as well as higher investment levels. But that's what I've spoken about
+right now.
+Magnus Mandersson?
+Magnus Mandersson `
+Very good. Thank you, Hans. Hello, everybody. So, Global Services we had a good sales of 5% up
+in the quarter. We are growing 9 out of 10 regions and we continue to be very strong in
+Professional Services, we see demands increasing both on Managed Services where you had 18%
+growth on. And Professional Services was 12% in the quarter. We saw Managed Services with 17
+contracts. So, very strong quarter for GS.
+Network rollout sales was flat and if we do the organic FX adjusted sales increased 20% quarter-
+on-quarter. And thus we're seeing very high activity on NRO and as we said on Professional
+Services.
+Operating income is basically flat, the same level as on last year, had though some negative
+impact from hedges. That's explained by Jan before, and of course, we had a high share of new
+Managed Service contracts coming in as well. Remember, we had the first half was intense on
+Managed Services. They are now in full transition and transformation and that takes a little bit out
+of the bottom line.
+On the full-year, Professional Services, slow in first half, came back very strong in the second half
+and network rollout declined almost with SEK 6 billion. So, we have had a big portfolio shift here in
+Global Services and we see continued strong demand for our Professional Services. So, all-in-allWith that, I'm back again to you, Hans.
+Hans Vestberg `
+Yeah.
+Magnus Mandersson `
+Popular guy today.
+Hans Vestberg `
+Yes, I am. Support Solutions segment, Support Solutions down 5% in the quarter, when it comes
+to sales for adjusted meaning comparable units, we are transiting. But you've also seen when we
+hit sort of the SEK 4 billion mark in sales here, we clearly have a good model because that
+suddenly turns into an 11% operating margin and a way higher EBITDA level over Support
+Solutions. So, that's very important.
+We have a good portfolio and we have a good development across the portfolio. We're just
+constantly working in this area and we can see that we have good grip on the cost here and we
+have good gross margins. It's more about getting the volumes on Support Solutions.
+Modems, not dwelling too much on that, we're ahead on the plans. This is, as we have
+communicated, discontinued business. We are ending our commitment on the 7450. We have
+agreement on that, very important. That means that we can do this rapidly.
+Then two last lines before the summary. The board met yesterday and discussed the dividend
+and as usual we use our policy for dividend, which reflects on the earnings and the balance sheet
+of the current year, of 2014 in this case. And then looking into the coming years, when it comes to
+the business plan, then expected economic development.
+Doing that, the board then suggest to the AGM, a dividend of SEK 3.40, which is a growth of 13%
+on last year and recording date of that is the 16th of April, 2015. And as Jan said, we basically
+remain on our gross cash, even though we've made repayments of loan, dividend last year of
+SEK 3.00 and also CapEx and acquisitions. That's why the board when they looked at that, then
+looked at a future, then decided to grow the dividend with 13% and sort of suggested that for
+the AGM.
+Good. Then I end up with two measurements that we use to show when we talk about the
+transformation. First, we have talked about the target areas. We defined them as IP networks,
+cloud, OSS/BSS, TV media and industries aside, which includes three verticals. We grew in that
+business with more than 10% last year.
+And as we said at the Capital Markets Day, the combination on the market here is growing 10%,
+but we grew clearly above the 10%. And we see the good momentum in the company. We are
+managing the resource and capital allocation between the core areas and target areas in order
+to make this happen.
+Now the (23:04) for transformation of course that's where we allocate our people, where they
+are, and what type of confidence that they have. That has meant that last year we increased with
+4,000 employees; but on the other hand 15,000 people that left the company last year and we
+hired 19,000 people. Partly on other locations but also Managed Services and acquisitions is
+included in 19,000 people that entered Ericsson for the first time during 2014 and being part of
+the transformation that we're doing.To sum it up, I think we showed in the year of 2014 that our strength in scale both in the different
+business segments as well as scale of different regions has panned out to us to manage the
+differences between regions and products, to see an improvement in profitability, very much
+focus for the management as I said now for two years that we have not been satisfied with the
+profitability. Now we see that coming back.
+Two major markets, Mainland China, the majority of the business is related to the LTE coverage
+rollout that is happening right now in China at the high pace. When we then talk about North
+America, we say that with the current visibility we anticipate that North America Mobile Broadband
+business to remain slow in the short-term and that's with the current visibility.
+And as announced at the Capital Markets Day, we are now working with our cost plan proactively
+in order to reduce our cost, which we believe is we have a good opportunity given the changes
+and the transformation we have done in the company.
+By that, I hand back to Mr. Nyquist.
+Peter Nyquist `
+Thank you, Hans. So, operator, we are now ready for questions.
+Q&A
+Operator
+Yes. Thank you. Ladies and gentlemen, at this time we'll begin the question-and-answer session.
+As always, please limit yourself to one question at a time and please keep your question at a
+broad level. Detailed information is provided in the report and Ericsson's Investor Relations and
+Media Relations teams will be happy to take additional questions and discuss further details with
+you after the call.
+Our first question is coming from `Mark Sue, RBC Capital Markets LLC from RBC Capital Markets. Please go ahead, sir.
+Q - `Mark Sue, RBC Capital Markets LLC `
+Thank you. Good morning, gentlemen. I was wondering just from your comments on the duration
+of the downturn in North America, the carriers' incentive in the U.S. seems to always reduce their
+CapEx. They can only do that to a point until the churn increases. Your comment that it's actually
+going to be short-term, maybe proof points that things will return quite quickly to North America
+and your confidence that you've actually maintained your market share in North America, please?
+A - Magnus Mandersson `
+Of course, we have a hard time, as they exactly, our customers need to communicate to the
+market what they're planning to do, but that's what I'd say with the current visibility, we believe
+this will prevail in the short-term. That's what we're saying. So that's the visibility we have at the
+moment.
+But as you also mentioned, we feel that we have a good solid position in North American market
+both in mobile infrastructure but also in services and now also in the BSS and OSS area and TV
+and media. So, we're a much broader company today in North America compared to five years
+ago, so we have more legs to stand on. We talk more about mobile infrastructure in this case
+when we talk about this short-term that it will prevail.Q - `Mark Sue, RBC Capital Markets LLC `
+Okay. Understood. And then, Hans, you saw a decent bump in software. I guess some of that is
+OSS/BSS. Are customers taking a broader solution set from Ericsson? Are there synergies in the
+acquisitions that you made more so or the deal size is getting larger for you? Maybe just
+qualitative comments as we work to improve you revenue growth and also work to improve your
+overall margins? Thank you.
+A - Hans Vestberg `
+It's an excellent question because you are right. I mean, of course, in the target areas we're both
+acquiring companies and doing organic growth. What we're doing right now is what we're doing
+and every business are doing, we're putting this a system so it hangs together, and of course
+being able to give our customers a much more stronger solutions that where our OSS/BSS are
+connected with a system integration in a totally different way and it can be connected on mobile
+infrastructure.
+And, of course, this take some time to do, but it should evolve that we have a good solutions for
+our customer that we can provide something more. And you're right, in the beginning you sell
+them in smaller portions and then you have a chance to sell something more. And that's our
+ambition of course to be part of transforming especially the OSS/BSS when it comes to the next-
+generation data mining from OSS/BSS point of view.
+Q - `Mark Sue, RBC Capital Markets LLC `
+Thank you. Good luck.
+A - Peter Nyquist `
+Thank you, Mark. Thank you. Next question, please?
+Operator
+Next question is coming from Edward Snyder from Charter Equity Research. Please go ahead, sir.
+Q - `Edward F. Snyder, Charter Equity Research, Inc. `
+Thanks a lot. Hans, do you see North America is kind of a leading indicator of the trends you can
+expect in the Mobile Broadband? You're going from coverage capacity then kind of the cash
+generation? And what does that say for similar timing? What's your view of the same kind of
+trends maybe occurring in Asia? Is that several years out? And then I have a follow-up. Thank you.
+A - Hans Vestberg `
+I think that, in general, you're right. One need to think about, and of course this is a little bit
+different, but it's 7.1 billion mobile subscriptions in the world, and it's 400 million 4G. So, of course,
+it's quite a lot outside U.S., Japan, Korea and China, when it comes to 4G. That means a half, and
+even though the networks always are ahead of subscribers, because the networks need to be
+there, before it can be a subscriber on 4G.
+So, of course, there are coverage base as Jan has told so many times before that we have a
+coverage base, and then after comes the capacity base. We've talked about that in Europe. In the
+Europe case, where the toughest part of the coverage probably in 2010, 2011, and into 2012, andthen 2013 and 2014 were another structure of it. So, it is moving a little bit different from region
+to region depending on how they deployed from the beginning.
+Q - `Edward F. Snyder, Charter Equity Research, Inc. `
+And then, do you expect investments that you're making in media to generate sufficient growth
+to offset some of the slower performance in hardware? Or will there be an extended time where
+top-line performance kind of lags as those investments have to grow, given this relative size of
+the different groups?
+A - Hans Vestberg `
+Our ambition of course is in many of the acquisitions we've done in OSS/BSS and TV and media.
+They have been adding our portfolio, so we can build our holistic system. Then some of the
+acquisition in services, like the Red Bee and Technicolor, they are adding to the top line much
+more. Service acquisitions are adding to the top line much quicker.
+In the Support Solutions what we acquired there is more component that we need for a full
+system to deliver support. That takes a little bit longer time before it adds to our growth. But
+what we tried to prove today is that the target area is now generating about the 10% from the
+market, and of course we will continue to focus to see that we're growing that more than 10%.
+Q - `Edward F. Snyder, Charter Equity Research, Inc. `
+Great. Thank you.
+A - Peter Nyquist `
+Next question, please?
+Operator
+Our next question is coming from `Achal Sultania, Credit Suisse Securities (Europe) Ltd. from Credit Suisse. Please go ahead.
+Q - `Achal Sultania, Credit Suisse Securities (Europe) Ltd. `
+Thanks. Hans, just a question on your European performance of your European business.
+Obviously, we've seen three or four quarters in a row where revenues have actually grown in
+Europe. Can you just give us some color as to – is it mainly driven by just one key customer which
+has been spending on LTE and upgrades? Or is it more broad-based? And what kind of signals
+you are seeing from other operators at this stage about increasing spend as we go into LTE
+networks?
+A - Jan Frykhammar `
+Okay. I can take that question. It's Jan here. So, if you look at Europe and look back to the whole
+of 2014, of course what has been important for us is that we have seen good development on
+capacity, whether it's add-ons on LTE or densification improvements on the network monetization
+footprints that we invested in for a few years. And I think that's good.
+Then of course, we also had the Vodafone Spring project announcement that Hans of course
+supported growth as well in Europe, especially when it comes to the second half of the year.
+Then we have also been successful in signing many important Managed Services contracts in
+Europe in the beginning of the year. That is now part of the revenue mix. And then finally, ofcourse, towards the end of the year we have also been a little bit supported by the development
+of the euro versus the Swedish krona, but that's more towards the end of the year.
+So overall, I think Europe is developing well, but there is, of course, always potential to continue
+to improve both quality in the networks, and so forth, but I think those are the things I mentioned
+are the main drivers for the business in Europe.
+Q - `Achal Sultania, Credit Suisse Securities (Europe) Ltd. `
+Great. And then just a follow-up, Jan, just on the OpEx side, if I remember at the Analyst Day, you
+talked about SEK 9 billion of restructuring, of which SEK 4.5 billion was going to be in OpEx. And I
+presume like at that time, the idea was to retain all of this OpEx savings in your numbers. With
+this FX movement, like are you still looking at SEK 4.5 billion of OpEx reduction in Swedish krona
+terms? Or that number is going to be slightly lower given the volatility in FX?
+A - Jan Frykhammar `
+So, what we said at the Capital Market Day still holds. What we said was that we are going to
+reduce the cost base with SEK 9 billion. Of course, currency is what it is, but we should know that
+currency is not the main driver for OpEx. It was a little bit of OpEx impact in the fourth quarter,
+because we have quite a lot of development in U.S. dollars predominantly related to our IP
+investments.
+But, I think when we come back to the Capital Markets message, it's SEK 9 billion. Half we think is
+related to cost of sales and half is related to operating expenses. You can rest assure that we are
+going to do our utmost to make sure that we deliver on the OpEx savings as soon as possible.
+You also see in the report that we have guided for a restructuring charge this year of
+approximately SEK 3 billion to SEK 4 billion and that has been including what we see and the
+visibility we have for this program and the impacts for restructuring charges for 2015.
+Q - `Achal Sultania, Credit Suisse Securities (Europe) Ltd. `
+Great. Thanks a lot.
+A - Peter Nyquist `
+Yeah. Next question, please?
+Operator
+Next question is from `Gareth Jenkins, UBS Ltd. (Broker) from UBS. Please go ahead.
+Q - `Gareth Jenkins, UBS Ltd. (Broker) `
+Yeah, a couple of quick ones, if I could. Just I wonder if you could talk about the Chinese market?
+It looks like China is flattish year-over-year after very strong prior two quarters' growth. And I
+guess should we end up in a situation with CapEx to sales of 35% with a similar situation that
+we've seen in Korea, Japan and North America where maybe we take a little bit of a pause for
+breath? And then I have a follow-up on a different question, please.
+A - Hans Vestberg `
+When it comes to China, if you look at the full-year it was a little bit slower the first half year. But
+the second half year, of course, we saw some growth in China, when it comes to their business.I don't do any guidance for next year, for 2015, when it comes but they're all on the big
+technology transformation that we have seen on 4G. So, but I guess you better look at what they
+are guiding for, the Chinese operators than asking us because we usually don't want to speak on
+their behalf.
+Q - `Gareth Jenkins, UBS Ltd. (Broker) `
+I'll ask a clarification question there. When you talk about Mainland China, which number are you
+looking at so, I know...
+A - Hans Vestberg `
+Well, I think we only have the 7% of sales for both years. So I know there's a lot of rounding error
+in that. But I don't...
+A - Jan Frykhammar `
+All right. Okay. So I think, so let's come back to if you look at the region Northeast Asia, there
+obviously the main driver of the business in region Northeast Asia in terms of networks for 2014
+has been Mainland China.
+Then towards the end of the year, we have had also business coming from the new customer
+that we managed to acquire in Japan, which is good. But the main drivers of the business in
+Northeast Asia this year, if I look at the full-year is absolutely Mainland China. And also little bit
+Taiwan, but it's not as big as Mainland China, obviously. So that's the big picture.
+Q - `Gareth Jenkins, UBS Ltd. (Broker) `
+All right. And just a follow-up on really quick one is on capitalized R&D looks to have gone up fairly
+substantially in the quarter. I just wondered whether on a going forward basis it will remain at
+elevated levels? Or whether there's a change in accounting policy there? Thank you.
+A - Jan Frykhammar `
+No changes whatsoever in any accounting policy. What we do here in terms of capitalized R&D is
+that we look at the different projects that we have, and since with all of the accounting rules we
+capitalize and then we depreciate them over the course of the lifetime of these projects. It's not
+a material item. So, it's nothing to think about in particular anymore.
+If you look at the full-year numbers, we have had the last three years a little bit slowing trend in
+terms of capitalization. That had to do with smaller, shorter projects. It didn't really make sense to
+capitalize anything. Now when we look forward we have some capitalized R&D in this quarter. But,
+it's nothing that you should model in going forward.
+Q - `Gareth Jenkins, UBS Ltd. (Broker) `
+Thanks.
+A - Peter Nyquist `
+Okay. Thank you, Gareth. Next question, please, operator?
+Operator
+Next question is from Sandeep Deshpande from JPMorgan. Please go ahead.Q - `Sandeep S. Deshpande, JPMorgan Securities Plc `
+Thanks for letting me on. My question is regarding your IPR revenues, and then I have a follow-up
+question. Clearly, you're seeing, even if you exclude that one-off, you see an improvement in IPR
+revenues in the year. Is this mainly because of foreign exchange? Are there renegotiated
+contracts within your IPR business revenues in 2014?
+A - Hans Vestberg `
+No. I think we had (38:47) we outlined in 2011 at the Capital Markets Day that we felt we have a
+strong portfolio, the market is growing with handsets. So, this has been a way for us to grow.
+And you're right, of course, our portfolio has been growing already and it's been growing as well,
+but it's nothing with currency in here, that's the way we are working hard with that. I think we're in
+a very good position as well as we're following the ground rules that are in the market, and we
+have basically agreements with anyone in the industry across license agreement, which is very
+important in these discussions. So it's nothing unusual there.
+As Jan said at the press conference today when he got the question about this over the year is
+that we have probably some seasonality in the fourth quarter, but nothing special when it comes
+(39:40) in the fourth quarter. We have a fairly equal distribution. It can go up and down a little bit
+in quarter depending on how our cross licensees are performing when it comes to their state of
+handsets or its infrastructure.
+Q - `Sandeep S. Deshpande, JPMorgan Securities Plc `
+And then, if I ask you a quick question on Support Solutions. In Support Solutions, is a very rocky
+sort of quarter to quarter your margins change, and you hardly talked about OSS/BSS as being a
+big portion of those sales going forward. Do you see margin progressions in that business as well
+as potentially in the network rollout being better in 2015?
+A - Hans Vestberg `
+What I say about Support Solution is that there is not the gross margin problem in Support
+Solution. We need more volume. But remember what happened at Capital Markets Day. For us
+OSS/BSS, for example, is consistent of businesses which is with minus in services as well as in
+networks. That is the whole offering we have in OSS/BSS. That is a very cyclable business. And
+that's how it hangs together. Of course, where we're seeing a lot in the Support Solutions we
+need a certain amount of volume, and that you see in the fourth quarter, and then we make
+money. I think that's very important for us.
+When we say about network rollout, of course, that we see a very good job there. One is, of
+course, that we're concluding some of the more challenging projects. The other is that Magnus
+and his team are implementing a lot of efficiency improvement in network rollout, everything
+from (41:14).
+And that's why Jan and I said that we see the light at the end of the tunnel. We're not saying
+when we're going to have that profitable business, but clearly our aim is to get that there'll be a
+near-term to the bottom line at least not having a negative impact. And that have been a huge
+focus the team in services are working on daily, and we see the progression. That's why Jan and I
+say we see a good progression here.
+Q - `Sandeep S. Deshpande, JPMorgan Securities Plc `Thank you.
+A - Peter Nyquist `
+Thank you, Sandeep. Next question, please, operator?
+Operator
+Next question will be from Alexandre Peterc from Exane BNP. Please go ahead.
+Q - `Alexander Peterc, Exane Ltd. `
+Hi. Thank you. I'd like you to comment a little bit on the seasonality in gross margins. You usually
+have a weaker Q4 and a stronger Q1, and that's mainly pertaining to software delivered in the
+quarter. So, against the backdrop of this strong gross margin we had in Q4, should we still see
+positive seasonal impact sequentially into the current period? And then the second question, just
+a quick follow-up on restructuring, can you tell us more about which business areas will be
+affected by the SEK 3 billion to SEK 4 billion that you added towards for this year? Thank you.
+A - Jan Frykhammar `
+Okay. I'll take the first one on gross margin and the second one on in here, what was...
+Q - `Alexander Peterc, Exane Ltd. `
+(42:37) in which segments will go?
+A - Jan Frykhammar `
+Okay. In 2015. All right.
+Q - `Alexander Peterc, Exane Ltd. `
+Okay.
+A - Jan Frykhammar `
+So, we'll start with restructuring, then. So, when you look at that, I think when it comes to
+implementation of the service delivery strategy, that is going to continue to be something we do,
+of course, in 2015 as well. That's going to be related to cost of sales, and as such that segment
+services done.
+Other activities, we will obviously communicate as we announced things and we have a principal
+in our company that we always communicate these things to the employees that are concerned
+first and when that happens then we can also guide a little bit more on the segment, but I think
+when it comes to an assumption on operating expense is more to have it perhaps spread across
+all the segments as an assumption.
+Then on gross margins then, yeah, thank you for recognizing the good gross margin for Q4. I
+think it was a good performance for the reasons that I mentioned, so we had a recovery in the
+network rollout business in the quarter. You can see that. So, we had product completions. We
+also had coverage projects that are quite hardware-heavy into Mainland China and so forth in the
+quarter.Despite that, we did have a good gross margin development in the fourth quarter driven by
+software done and also other efficiencies. So, if I look at the first quarter, we don't obviously
+guide for the first quarter, but I think it's important that you listen to what we say there around the
+Mobile Broadband business in North America.
+I think it's important that you also look at and understand that we say that we have a good pace
+on 4G deployments in China. And at the same time, the first quarter, sometimes have a good
+input in terms of software and so forth. And then we have FX that yesterday when I looked at the
+U.S. dollar versus Swedish krona I think it was at 8.25 (45:08) or something like that, so let's see,
+there are a few moving parts but we have been trying in the CEO comments to highlight the
+most important things that we want you to consider and that's really North America and also the
+fact that we have a quite big share of 4G deployments in Mainland China. Okay?
+Q - `Alexander Peterc, Exane Ltd. `
+Thank you.
+A - Peter Nyquist `
+Okay. Operator, next question, please?
+Operator
+Next question will come from `Alban Cousin, Arete Research Services LLPg from Arete Research. Please go ahead.
+Q - `Alban Cousin, Arete Research Services LLP `
+Hi. Thanks for taking my question. Maybe a question for you and I just wanted – I was looking at
+the operating income reconciliation and that SEK 3.7 billion adjustment for IPR that is a SEK 5.2
+billion (45:56) you reported last year, is the delta simply backdated part of the payment that you
+receive then or what's the big driver for that delta?
+A - Jan Frykhammar `
+I think what we have done here is that last year in Q4 we obviously booked the whole what we
+call initial payment from something. It was SEK 4.2 billion. There was an element obviously of the
+past in that initial payment. The reason that we used SEK 2.1 billion is that that's the same
+adjustments that we have used when we – that we communicated at the general assembly when
+it comes to adjusting also our share program for management.
+And I think that's then the element to use the same adjustment here. The reason that we adjust
+with SEK 3.7 billion there in Q4 is of course that we have divided it equally by quarters. There's
+nothing else than that.
+Q - `Alban Cousin, Arete Research Services LLP `
+Okay. Thanks. And, Hans, perhaps just a clarification as well. When you talk about short-term, do
+you mean, I mean, what's the kind of timeframe? Is it up to a year? Or is it shorter than that?
+A - Hans Vestberg `
+Now, we have not quantified short-term as an exact month or quarters here; but with the current
+visibility, again, we believe it will remain short-term, but of course there many parts to it. Maybe
+Jan wants to comment.A - Jan Frykhammar `
+Well, I think I mean so important then is that we highlight this, the drivers beyond what we call
+them as a slowness in short-term. One is of course that our customers are in the finalization I
+think in terms of the big spectrum auctions that is ongoing in the U.S. and I think what is important
+is of course to track the progress there and also the progress in terms of their build up plans for
+their acquired spectrum.
+So I think that by doing that tracking, I think your guess is as good as our guess. What we then will
+do of course is that we will come back after Q1 and report on any progress into this visibility. But
+to look at the drivers and follow those drivers and then I'm sure your guess will be as good as
+ours.
+Q - `Alban Cousin, Arete Research Services LLP `
+Okay. Thanks very much.
+A - Peter Nyquist `
+Okay. Thank you. Operator, we are now ready for the next question.
+Operator
+Our next question will come from `Tim Long, BMO Capital Markets (United States) from BMO Capital Markets. Please go ahead.
+Q - `Tim Long, BMO Capital Markets (United States) `
+Thank you. Just two quick ones if I could. Back to the IPR line, given the litigations or the
+negotiations with Apple, could you give us a little bit of color on how we should think about that
+line into 2015? Obviously, there's going to be a revenue and margin hit, so if you can try to maybe
+give us some scale or if we should just think about it as Apple's percent of industry revenues is a
+good proxy, that would be helpful?
+And then on the gross margins for the full-year in 2014, just curious when you look year-to-year
+how much of that do you think was the end of the network modernization deals? It was obviously
+a big jump year-to-year, so I'm just trying to get how much was just the network modernization
+and how much was just normal business efficiency improvements? Thank you.
+A - Jan Frykhammar `
+Many questions in one. So, on the network modernization projects in Europe, if you look at the –
+our commentary for the last, I guess two years, we started to see the business mix shifting and
+the projects coming to an end here in mid-2013. And since then if you look at the gross margins,
+of course, we have had an improvement thanks to that impact.
+But in addition, of course, we have also seen good capacity business on that footprint. But it
+doesn't explain the whole improvement once you know that. The whole improvement is
+explained by overall work on efficiency and that goes both to commercial questions as well as
+cost of sales reductions, in combination with a better business mix in general for 2014 than 2013.
+And the third element, and that's more towards the end of or second half of 2014, then we
+started to see some positive impact driven by the development of the currency as well.On the question around IPR revenue then, so we have a portfolio of very important customers
+and we obviously will not disclose anything in regards to a particular customer. We felt last year
+when we did this big agreement with Samsung that we had to communicate something because
+it was such a material numbers. But, of course both the Samsung and Apple are very important
+players in this market.
+When it comes to the total patent revenue for 2015 and 2016, I think you just have to come back
+to the fundamentals. We are working with a portfolio that is very strong. We follow the
+fundamentals which means that you should look at smartphone growth and the penetration of 4G
+phones and so forth. That's very important indicators.
+And then at the same time understand of course that if we have a discussion with one of the
+bigger customers that might have an impact or at least it's an uncertainty on the revenue line, I
+will not disclose more than that for now at least.
+Q - `Tim Long, BMO Capital Markets (United States) `
+Thank you.
+A - Peter Nyquist `
+Thank you. Next question, please?
+Operator
+Next question is coming from Kai Korschelt from Merrill Lynch. Please go ahead.
+A - Peter Nyquist `
+Hello, Kai.
+Q - `Kai F. Korschelt, Bank of America Merrill Lynch `
+Yes. Good afternoon, gentlemen. Thanks for taking my question. I had two. The first one was just
+a follow-up on the capitalized R&D. I think, Jan, you said it's not that material but it looks like it's
+about SEK 800 million. So it's quite a big number. And it also looks like at the same time the
+modem R&D or the modem OpEx has come down materially. So, I just wanted to clarify because I
+think we all expected the modem OpEx to get largely restructured and not transferred to the
+balance sheet, that this is unrelated and that the modem OpEx decline is really due to cost
+savings? That was my first question.
+The second one was for Hans and I think in (53:11) last week I believe you said that M&A does
+impact negatively. As more of these deals are announced I think there was one recently in
+Europe, maybe some of the other places, how long do you think that that impacts CapEx spend
+in these regions? And when from your experience shall we expect then CapEx to pick up again
+once the sort of integration and merger dynamics have happened? Because presumably we
+expect an improvement in CapEx once that M&A has happened. Thank you.
+A - Jan Frykhammar `
+Kai, so I will start. So, the progress in terms of the decision to discontinue the modem
+development is growing well. The progress is slightly ahead of the plan. The people that we said
+were going to transfer to the Radio development have been transferred. So operating expense
+obviously have been shifted over there.Secondly, consultants have left the company and quite a lot of employees as well. And obviously,
+we have then used the provisions that we have for the modems for that. So, it's an operating
+expense that is a positive development that is structurally, if I may use those terms.
+And on the capitalized R&D I don't have any more comments than what I've already answered
+before. Then, Hans?
+A - Hans Vestberg `
+So, it was a general comment on how (54:51) impact on consolidation between operators. And
+my experience and Magnus' experience as well, which he is working seriously is usually short-term
+depending how big their M&A is or the consolidation is. Of course, operator looks into what
+assets they have and are a little bit less hungry for investments. They wait, it still have a short-
+term impact.
+Medium-term, you should see more opportunities as they need to combine the networks. So, we
+had service opportunities to combine the network. Long-term, (55:22) a positive. A stronger
+operator that buys more of our full portfolio that want to invest the bigger market that's
+consolidated their company. Those are the three stages. That's a general statement that of
+course could be a little bit different for different consolidation. But it does work pretty good for us
+when we look into consolidations where we have been part of it.
+Q - `Kai F. Korschelt, Bank of America Merrill Lynch `
+Okay. Thank you.
+A - Peter Nyquist `
+Thank you, Kai. Operator, we are now ready for the last question for this session, please?
+Operator
+Okay. And the last question will come from Stuart Jeffrey from Nomura. Please go ahead, sir.
+Q - `Stuart A. Jeffrey, Nomura Securities International, Inc. `
+Hi. Thank you very much. Sorry to end with a sequential FX question. Because of the way you do
+your accounting treatment for FX, it looks like it's going to be an 18% tailwind into Q1 on the
+dollar/krona rate. Assuming that's maybe half of your revenues, could it be that maybe you
+should see an 8% to 9% sequential benefit in revenues? So, is that something that we should
+factor in? Or am I exaggerating some of the trends and there's some offsets that I should be
+aware of? Thanks.
+A - Magnus Mandersson `
+You're accelerating some of the trends, Stuart. Typically, when I look at the revenue mix for
+dollars typically it is between 38% and 42%. So, it's not half-half of the revenue. That's correct. So,
+it's slightly less than half, it's rather towards 40%. So that's important. It is correct to assume that
+we reset the clock in terms of how we do averaging. So, we will then start with a more favorable
+dollar versus Swedish krona rate if the rate persists. That's also why we have started to disclose
+the closing rates at our Investor Relations homepage in each quarter.
+So, I think there will be positives hopefully coming from the U.S. dollar as we have shown on
+development. But there are also some more challenges, which we have talked about and that isof course related to the Mobile Broadband business in North America. So, some short-term
+challenges in terms of the actual volumes and hopefully some tailwinds in terms of currency.
+That's how we see it.
+Q - `Stuart A. Jeffrey, Nomura Securities International, Inc. `
+Okay. Thanks.
+A - Peter Nyquist `
+Okay. Thank you, sir. Before handing over to Hans for his closing remark, I will just welcome you all
+to the Mobile World Congress March 2 to 5 this year in Barcelona.
+A - Hans Vestberg `
+Now, just a quick closing remark as we have said on the earning call we are in transformation. We
+are trying to manage this company on ongoing concern and generating both cash flow and
+operating income as we're transforming and strengthening the target area and so they're
+defining our core areas and that's what you're going to see from us in 2015 as well.
+We will continue to work with that. We have a great leadership team that is very experienced and
+we'll see that we're taking good care of that. And hope to see you in Barcelona, where we most
+hopefully will have a lot of good news when it comes to products and solutions that we always
+launch when we come to Barcelona.
+A - Peter Nyquist `
+Thank you.
+A - Hans Vestberg `
+Thank you.

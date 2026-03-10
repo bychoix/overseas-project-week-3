@@ -1,0 +1,493 @@
+Q4 2015 Earnings Call
+
+Presentation
+`Helena Norrman, SVP, Chief Marketing & Communications Officer `
+Good morning, everyone. Let's take our seats. And welcome to this presentation of Ericsson's
+Fourth Quarter and full-year report 2015.
+While we let the people in the room take their seats, welcome to Kista. Welcome to all of you
+that are joining us through the webcast this morning.
+As usual, we will start with a presentation from our CEO, `Hans Vestberg, President and CEO; followed by a
+presentation from CFO, `Jan Frykhammar, EVP, CFO and Head of Group Function Finance; followed by a Q&A.
+And now that we have everyone in the room, I suggest that we start with you, Hans.
+`Hans Vestberg, President and CEO `
+Okay. Good morning. Lovely to have you all here in Kista. And for the ones on the webcast, very
+much welcome to the Fourth Quarter 2015 and full-year results. I will start with a little bit highlights
+of the year, both for the market and for ourself.
+If we look in to 2015, a couple of things, I think, was highlighted through the year. 2015 was a year
+of 5G. The discussions and the progress on 5G was quite significant during 2015.
+Ericsson has numerous different test beds all around the world with customers. And also with
+different organizations. And of course, we have one here in Kista that is now producing almost 10
+gigabits per second. All driven, of course, of the Internet of Things and the orchestration of
+industries; that's 5G. It's fairly long way until we will see large commercial networks. But definitely
+very important for keeping our technology leadership.
+We also saw the transition from 3G to 4G in many emerging markets. We probably we don't have
+the final figures, passed 1 billion subscribers, or subscriptions, on 4G during last year. And are very
+much driven on many emerging markets that are transitioning from 3G to 4G. And that's, of
+course, a very important trend in the market.
+The other is, of course, the mature 4G markets. They are seeing that the mobility broadband and
+cloud is opening up totally new business models, which drives a lot of transformation for them:transformation on IT systems, which also is very important for us; OSS/BSS, with all the attached
+services.
+Finally, you can say the year 2015 was a year of currency movements. It impacted Ericsson. But
+also impacted our customers in certain markets. It also was a year where we saw some weaker
+macro in certain parts of the world really impacted, especially investment in infrastructure, mobile
+infrastructure.
+So all in all, that's the market point of view. If we try to summarize a little bit the things that were
+key development for us, little bit harder here, no (prioritization), I think one thing that is important
+for us, we signed very important IPR agreements last year. Of course, you cannot state that
+without mentioning Apple; very important.
+We also communicated also in the year that we also signed with Huawei, meaning that we,
+basically, in a four-, five-year period we have signed up all major mobile infrastructure. Then
+there's all handset manufacturers in the industry; we have now cross-license with all of them. I
+think that's a great job of our IPR team; and, of course, finally, the ones doing patents that
+ultimately generate this.
+I'll come back to it, we have now been reporting basically for six quarters the target areas. We
+have good growth. We ended the year also with good growth. This is almost now SEK45 billion in
+sales these target areas, which is a combination of our products and our services.
+We launched, in November 2014, our cost and efficiency program: SEK9 billion net reductions
+2017. Jan and I. And the executive team, feel that we are delivering on that. We see progress
+already in 2015. And we are committed and feel confident that we can do it.
+NRO, we have discussed a lot, ends up here on the key development. But we have now Second
+Quarter of a sustained, at least, (sale) margin on NRO. That's quite a swing from the losses we
+have had in net of rollout. Now it's, of course, all about sustainable, keeping that sustainable.
+Good cash conversion. Historical cash flow in the Fourth Quarter. At least, as far as we can go
+back, we have never seen almost SEK22 billion in cash flow in a quarter. And of course, that made
+us to make our cash conversion target, which we -- even Jan and I had some doubt about in the
+Third Quarter. But a fantastic work throughout the organization with collection, which made us
+making SEK22 billion in cash flow. And again, that's a historical number.
+I will come back to the dividend.
+So let's dig in to the full year, starting with the full year. And then I will do the quarter, just to get
+the parallel of it.
+If you look at the full year, of course, we had the impact of currency in it. But a couple of
+highlights. On the growth side, India, I would say South East Asia very good, Sub Saharan, Middle
+East. Four emerging markets having a good growth during the year, even if you exclude the
+currency.
+Maybe highlighting North America growing 7% with constant currency. Of course, that's not the
+growth in North America during the year. But, of course, they had the stabilization through the
+year. And had a fairly much weaker first part.
+The other thing which is clear if you look at the year, even with the currency we had the challenge
+in markets like Brazil, markets like Russia, where the currency that is giving us the tailwind is givingmakes it the purchasing power in infrastructure going down quite dramatically. And of course, this
+is a growth. But in constant currencies down on full year.
+If you look at the result then, we have been on the SEK227 billion, SEK228 billion now for three,
+four years; this is almost SEK250 billion. Yes. There are some currency in to it. But it's very
+important for us that we see that growth coming.
+More important, if you look at our operating margin excluding restructuring coming up to 11%, I
+would say that's the gradual improvement we are looking for. And it was a year with high
+restructuring; that we knew. That was part of our program that we launched in November. But
+clearly, it came up quite good.
+It is improvements in all segments in the year, which is also very important.
+I mentioned the cash conversion. Jan will come back to the cash flow.
+If we then instead talk on the Fourth Quarter, where you have a little bit less of the currency
+impact, here you can see, of course, that region other is growing very well. Here, we have the
+IPRs that we guided on in December. We had the Apple deal, which we have talked about, which
+had a one-time effect. And, of course, that came in, in the quarter; however, there was also very
+good movements in other IPRs.
+Here, we also have the broadcast services that have been performing well.
+North America, up 31% in the Fourth Quarter. That's, of course, coming from a year where we
+stabilized a little bit. We were down in the Fourth Quarter last year. They were on a low level. So
+you need to look at North America for a full year; I think that's important.
+India continued well, South East Asia. And Sub Saharan, which we have seen.
+And the ones that we see down is the same as we saw for the full year: very much Russia, Latin
+America to some extent. Europe a little bit down as well. That a little bit harder comparison
+compared to 2014 Q4.
+Result-wise, of course, we were up 8% in sales growth; almost SEK74 billion in sales. That's
+probably one of the highest sales quarters we have had for many, many, many years. There were
+some times in the 2000 when we had mobiles phones that was higher.
+Adding to that is, of course, that the profitability then came up to 15%, or excluding restructuring
+SEK11.7 billion. That's, of course, a couple of things that is giving that profit. One is the IPR
+revenues that were coming in, in the Fourth Quarter, a little bit extra. But also, we see the lower
+operating expenses helping us right now getting leverage on our business, exactly as we wanted
+in these times.
+A couple of other things. NRO continued to perform well as well; that also helps us.
+So clearly, an improvement through the year, if you look at operating income coming from the low
+point in Q1; and then, a very strong growth at the end of the year. But it should be seen in the
+light also that we have some currency help through the year.
+That is a little bit where we are. And now, Jan will go into a little bit more the details of the P&L
+and the balance sheet.
+`Jan Frykhammar, EVP, CFO and Head of Group Function Finance `Okay. I will try. Good morning, everyone. Let me then start with the IPR licensing business. And
+Hans has already mentioned a lot of these things. But I think it's important, again, to go back a bit
+to the strategy that we outlined a few years ago. And reinforced also at the Capital Markets Day
+in November last year, which is really focusing, as we all know by now, on two main pillars.
+One is to make sure that we have cross-license agreements with all the major handset
+manufacturers, as well as infrastructure partners or competitors in the industry; and also then,
+building opportunities for technology sharing and licensing in the new emerging industries, such
+as Internet of Things. That's really the strategy.
+If you can then look at where we are from a progress point of view, now we have signed the
+contracts with the majority of handset manufacturers and infrastructure partners, at least if you
+measure it in revenue terms.
+And the main focus now will be to further expand the licensing program in to new industries to
+cover opportunities for all companies that would like to do business at the back end of network
+society, or Internet of Things. So that's the main focus going forward of this strategy.
+From a business point of view, from a revenue point of view, the last five years we have tripled
+the revenue. There's been good efforts, good success, good monetization of the patent
+portfolio. So I think that's very good.
+If you look at these slides, there are a few highlights that shine out here: one is the Samsung
+agreement a few years ago. And the recently announced settlement agreement with Apple.
+So good progress here in terms of the IPR licensing. We ended the year at SEK14.4 billion. We
+guided between SEK13 billion and SEK14 billion, as you remember, for the full year. There is some
+variable components. And there is also some currency tailwind, there that managed us to deliver
+slightly higher than that range.
+The contract signed with Apple, a lot has been talked about that already. There is an initial
+payment in that contract; and then, going forward, there is also ongoing royalty payments.
+The majority of these contracts are in US dollars. So it's important also when we look at this
+business from a currency point of view to remember that the majority of the contracts is in US
+dollars.
+Then, if we look at the cost and efficiency program, this is also trying to show progress from the
+Capital Markets Day in November. We have updated now the actual numbers with actuals. We
+feel that we have good traction on the activities around the program, both in terms of cost of
+sales and operating expense activities.
+If you look at the net savings concept, which is then looking at the 2014 P&L. And then during 2017
+we should have net savings compared to the business mix and the P&L in 2014, there we think we
+are on track for operating expense.
+But if you look at the margin side, we still have more work to do there on the cost of sales. And
+so we will put even more effort in to efficiencies in cost of sales during this year; set aside that we
+continue to, of course, work on operating expense as well.
+If you look at the run rates from an operating expense point of view, I think it's important here we
+started the year 2015 with a high run rate, especially in research and development. We all
+remember that. During the second half of the year, we started to see impact of the costreductions, predominantly in R&D, thanks to discontinuation of modems. But also the efforts in
+Sweden.
+We have also seen impact on the selling and G&A side; however, there the currency
+development has made -- if you look at the numbers, it's flattish there. But there we have actually
+some currency. If you look from this perspective, there we have some currency headwind. But
+10%, approximately, run rate savings second half 2015 compared to 2014.
+If you look then at the restructuring charges that we estimate for 2016, very much in line with what
+we communicated at the Capital Markets Day in November; so, we have put the range between
+SEK3 billion to SEK4 billion.
+I think here it is important now for all of us to remember that this is about the SEK9 billion net
+saving. We will continue to make sure we do the necessary adjustments and find efficiencies to
+improve leverage and earnings of the Company.
+If I look at the Fourth Quarter then, some more details, looking at gross margin and operating
+income. Gross margin, approximately 37% compared to approximately 38% a year ago.
+If you look at the underlying gross margin, meaning then if we normalize for IPR, you can say
+there we have a bit of a mix shift that takes down the margin a bit. And to be very clear, it's
+slightly lower software sales for mobile broadband in Q4, compensated by the same amount of
+hardware sales. The margin profile of those two is different, as you know. And that impacts then
+the margin. And that is the most important difference between both Q4 of last year, 2014, as well
+as if you look at Q3.
+Then, we also had a one-time inventory write-down of approximately SEK400 million. We set
+aside, of course, these type of provisions on an ongoing basis. But we had some customer
+specifics here in certain countries that we needed now to write down. And again, for all of us to
+understand better the margin comparisons, we highlight this as a, clearly, one-time write-off.
+Operating income, as Hans mentioned, this is ex-restructuring; then significant improvement,
+driven mainly by the IPR revenues. But also net FX positive. Then, of course, the operating
+expense reductions here in the Fourth Quarter.
+I think overall, if I look at the full year, it is really the development of network rollout and the
+improvements there on the profitability that is a good effort by the team.
+And this quarter we delivered a breakeven result, excluding restructuring charges. And you know
+that we would like to make sure that this business is clearly sustainable profitable business; super
+important for Ericsson when it comes to being able to carry out projects in a good and high
+quality way.
+Operating income Q4, these are the things that, I think, I've already mentioned almost. But it's --
+the most important thing is when you look at the analysis.
+So reported sales, as Hans said, up 8%, that's a positive; the underlying gross margin slightly
+weaker than a year ago, that's the mix aspect; and then, the impact of the cost and efficiency
+program; and then, more from a (descriptionary) point of view, the FX impact. This is not a net FX
+impact, this is the revaluation of hedged contracts that is positive compared to a year ago. Then,
+you have some small other items.
+Full year, looking across all segments, improvements. And that's all good. We need to continue toas well as in the core business of the Company; and that's on top of the leadership team's
+agenda.
+If I look at the operating cash flow and the overall cash profile of the year, Q4 was really a catch-
+up quarter.
+If I look at operating cash flow, we have been operating with simply too much working capital
+throughout the year. And in Q4 we managed to get good progress on collections, on inventory
+reductions. And as well, of course, then support by the initial payment from Apple. But overall, it
+was a very strong Q4.
+If I look at the full year, the profile of working capital, we have a small negative impact of working
+capital, if I look at the full-year picture. Still potential to continue to work with flow efficiency and
+terms. And such things, on working capital.
+The cash flow profile, as Hans and I have said many times, we want you really to look at the
+operating cash flow on a full-year perspective. That is important. And we are, of course, working
+with the volatility of cash flows throughout the year; we know it's volatile. But still, measure us on
+full-year performance, please.
+If I look at investing then, there you have some acquisitions adding up to close to SEK5 billion.
+Then, CapEx. And that's really in three elements; the first one is the normal investments in test
+environments.
+The second element is the ICT centers, which aims, obviously, to take down the structural cost for
+testing in the Company. So that's an important long-term efficiency potential for lowering the
+R&D costs related -- for own test costs for own developed software.
+Then it's capitalized R&D, where we have had some more major R&D projects this year. All of this
+is, of course, disclosed in the report.
+If I look at financing, it's the dividend that is the main event there.
+Net-net, this leads to a gross cash that was reduced through the year with approximately SEK6
+billion. And a net cash of around SEK9 billion.
+Cash conversion ended at 85%.
+That's it.
+`Hans Vestberg, President and CEO `
+Thank you, Jan. Looking in to the segment. And will not repeat too much, I think Jan has spoken a
+little about. But if you take the Fourth Quarter of networks then, networks came back to a flat
+Fourth Quarter after have a constant currency decline through the year.
+North America, India, parts of Africa, important for it. Then, we need to balance it and see that, of
+course, markets like Russia, Brazil, etc., was clearly down. So it's a mix of it. And it panned out to
+be a flat quarter when it comes to sales.
+If we then look at the operating income, a clear hike up to SEK7.4 billion on operating income.
+Almost a 19% operating margin, partly, of course, IPR; but very much also the improvement on the
+cost levels in networks, where we have taken out a lot. We got some support from the FX.And if you look at the full year, it was a reported sales increase of 5%. But in constant currencies
+down, for the same reasons as we have discussed before.
+Full-year profit going up to SEK15.8 billion. Continue then to see the gradual improvement that we
+want to do.
+And Jan talked about all the other elements of networks. So networks have had a year of fairly
+weak First Quarter and then stabilization here. And then a Fourth Quarter support by the IPRs.
+And a little bit more hardware sales in North America; and also, that China came back a little bit in
+the Fourth Quarter.
+Services had a strong year throughout the year, ended also the full year a little bit down in
+constant currency, very much because of the rollout is coming around.
+Professional services, especially customer or consulting and systems integration, goes well,
+fueled a lot from the TV media, OSS, BSS investments that we have done.
+Profitability-wise, in the Fourth Quarter now we're up to SEK2.7 billion in the quarter. Here, we
+have a gradual improvement all the time.
+And as Jan said, if you look at the full year, this is historical for services: past the SEK100 billion
+that they have been trying so many years now, SEK108 billion in sales in pure services. That's a
+quite astonishing development for a business that is a little bit more than 10 years, that we now
+have past SEK100 billion. And that's important, because I know the service team has been striving
+for passing that tollgate.
+If you look at growth here, professional services has been growing; network rollout on a full year
+is coming down. And as Jan said, a very good profit improvement, up to almost SEK10 billion in
+operating income on full year, compared to SEK7 billion last time.
+And one of the main contributors, as you can see, is the network rollout, that they have done a
+quite a big shift from a big loss of SEK2 billion in 2014 down to SEK400 million in 2015.
+Support solutions, here we got very high sales in the Fourth Quarter; partly, I have to say, it's
+coming from the IPRs. But even excluding that, we had a good quarter of sales in support
+solutions.
+TV and media, especially North America, came back. With some decisions that happened in the
+market, we are now continuing on a good path with our TV and media investments that we done.
+And North America, as you know, is very, very important for the TV and media market.
+Profitability-wise, also a very high profit level, 30%. Yes, IPR is helping it. On the other hand, the
+underlying, if you take that away, is also a clear improvement. And you can see, if you compare
+the years here, we are doing almost SEK2 billion bottom line compared to a flat 2014.
+So we have the leverage model here. And good margins here, a lot of software. It's more the
+sales coming up on growth here.
+Coming back to what Jan talked about, talked about the cash intergeneration, the Board had its
+Board meeting yesterday. And as usual, we have our dividend policy where we look backwards of
+the generation of cash in 2015; and then, of course, looking forward on the business plans and
+the economic development in the world. Based on that, the Board decided to propose to the
+AGM a dividend of SEK3.70; that will be then submitted to the AGM for final approval.As you can see, this has been a journey where we have worked very hard. You will see that we
+can do a high dividend. We have a CAGR 11%. And since Jan and I started in 2009, with the first
+dividend we started SEK2. And now it's SEK3.70.
+Again, it's a proposal to the AGM. And we want see the final verdict on that one. But that's how
+was the reasoning.
+On the transformation, last, before we sum this up, 2014 was a huge transformation year, as you
+remember, with both headcount and target areas. No difference in 2015.
+17,000 people left Ericsson in 2015, majority of them non-voluntary. It is a big transformation in
+the Company and, unfortunately, many of our dear and loyal employees had to leave us in the
+transformation.
+At the same time, we employed 15,000 employees, mainly in three areas. One was acquisition,
+two was outsourcing, where we take over networks. And three was that we build up our service
+delivery centers, mainly in India, Romania. And Mexico, in order to be efficient in our delivery in
+services.
+It is quite a big swing for a company, having some 110,000 plus employees, that we're doing this
+in a year. And it was similar numbers in 2014.
+That also, of course, are supporting our desire for target areas. And Jan, at the Capital Markets
+Day he did an annualized sales, that we should be on an annualized sales around SEK45 billion.
+And that's where we ended up.
+SEK45 billion in sales in the target areas TV and media, OSS, BSS, (in) society, IP networks. And
+cloud. And it's not one area or one region, it's basically well spread on all the five target areas.
+And also well spread out over the regions. So that's an over 20% growth in 2015 in the target
+areas: very important that we are now coming to type of growth.
+That leads me just to sum up. What is the focus of the management in 2016? Number one, the
+core areas, all infrastructures: mobile infrastructure and the attached services. Here, of course,
+it's very much to capture the transformation to 4G network and see that we continue to have the
+lead there; but also, to keep the world leadership in 5G and see that we are the forefront for
+that. Very much the focus in the core area.
+The target areas has now, in a journey, on a 10-year journey. We're on the third part of it. First part
+was we invested in these areas; the second part, we got growth in them; and the third part is
+right now, that with the recurrent revenues and software, this should now be accretive to our
+earnings as well. So that's how we should see the 10-year journey.
+Now, it's SEK45 billion. They should both make a dent to our top line, as well to our bottom line:
+that's the focus for management.
+Finally, the cost program that we have that we launched in November 2014, the SEK9 billion in net
+reductions in 2017, very important that we execute on that. We have seen some good progress in
+2015.
+We will definitely see that, that is happening. And we feel confident we can do it. But we also say
+here that the market is volatile, etc.. And we will have a higher alertness than normal to be
+prepared if we need to do something more.Right now, we are focused on the main program. But we are also preparing to see if we need to
+take necessary action to maintain our profit level. So we can continue to invest in areas that are
+dear for us to keep our world leadership.
+Thank you very much.
+Questions And Answers
+A - `Helena Norrman, SVP, Chief Marketing & Communications Officer `
+So we have come to Q&A. And let's welcome Jan back, as well. And we will start with the room
+here. But there is also the opportunity to ask questions over the phone bridge. But let's start in
+the room.
+Q - `Daniel Djurberg, Analyst, Handelsbanken Capital Markets `
+`Daniel Djurberg, Analyst, Handelsbanken Capital Markets, Handelsbanken. I have a question on your sales mix. For the full year, it was down
+a bit on software; it was 23% compared to 24% the year before. Still, in your targeted areas with
+good growth a big chunk there is software. And you say you are growing that dramatically. Can
+you just explain to me why the relative part of software for the full year is going down?
+A - `Hans Vestberg, President and CEO `
+The core areas, of course, has the mobile infrastructure software. I think that was, Jan alluded, in
+the Fourth Quarter was we had a little bit more hardware. And that we have had through the year
+then.
+A - `Jan Frykhammar, EVP, CFO and Head of Group Function Finance `
+No. And also targeted areas. This year has been very strong in terms of professional services.
+And that's also why we are so clear that now it's important to continue to be in those recurring
+software to support the installed base of customer contracts that we have. So I wouldn't really
+say that it's super-much strong growth in software in the targeted areas, although we see
+improvements; it's really been a professional services year for targeted areas.
+A - `Hans Vestberg, President and CEO `
+We have more to do that.
+Q - `Daniel Djurberg, Analyst, Handelsbanken Capital Markets `
+Okay. And one more question, if I may. And it's about payment terms. Looking, or listening, to
+one of your major customers in the US they were quite happy about the payment terms in
+Mexico. And you highlight Mexico as a good segment, or sector. Any changes in the overall
+payment terms that you see in the markets due to competition?
+A - `Hans Vestberg, President and CEO `
+I think we see. And Jan will comment. But I will help him, that the customers are pushing more. But
+we also need to see that our finance department are doing a great job to work with it to see that
+we're offloading it.
+I think, yes, everyone is looking for, we are looking for our suppliers, even the market is doing it.I think that our financial team, with Jan and Carl Mellander sitting up here, together with all our
+(regions), are working every day to see that we're offsetting that pressure. And I think that if you
+look at the figures this year, or days of sales outstanding, we came down, I think, to 87 days
+ultimately at the year. So they were doing the hard work. Even though we get push from the
+customers. But I think they're doing a good job.
+Do you agree, Jan?
+A - `Jan Frykhammar, EVP, CFO and Head of Group Function Finance `
+Absolutely. I think on the payment term side, remember now that our strategy has been. And will
+continue to be, to work very much as an enabler for export financing, where we are very much in
+close cooperation with EKN in Sweden. And also with EDC in Canada. That's important.
+Another trend on the payment term side is, of course, that the supply chain financing methods
+has been very much (incent) of both our customers and ourselves.
+Remember then, when we talk about the potential to improve in terms of capital tied up, it's
+really around the project terms and our ability to execute and to reach billing milestones as soon
+as possible.
+Q - `Daniel Djurberg, Analyst, Handelsbanken Capital Markets `
+Thanks. Good luck for 2016.
+Q - `Fredrik Lithell, Analyst, Danske Markets `
+`Fredrik Lithell, Analyst, Danske Markets, Danske Bank. You talk, in the beginning of your slides, a little bit about weakening
+market conditions. But you also have markets that have been weak for some time, like Japan and
+Korea. And actually, also North America for two years now. Can you please elaborate on what you
+see as the next step in these markets that have important for you, if they are on their way up, or
+what you see customers prepared to do?
+A - `Hans Vestberg, President and CEO `
+If you take about Japan and Korea, those have been a little bit weaker and softer, not for
+macroeconomic reasons, more that they were very early out on 4G. They made very big
+investments in 4G.
+I think that they are, of course, in their cycle overall on next step as well. So we're going to see in
+2016. It's a little bit too early to say something about those markets. I think we're well positioned
+in both Korea and Japan. And we have definite strength in ourselves in Japan with more
+customers. So we will come back to that.
+On North America, I think we have talked a lot. But I only want to add that one needs also to see
+how we actually have expanded our business beyond the infrastructure in North America. Both on
+the support solutions and on services are very important businesses for us in North America right
+now. And that's partly how they have been offsetting also that. Has been a little bit slower
+investments after very big hike on 4G for a while. So I think that's what I add.
+Jan?
+A - `Jan Frykhammar, EVP, CFO and Head of Group Function Finance `No. I think it's very -- look at the North America and networks business: for us, in US dollar terms,
+full-year perspective it's down approximately 20%. And I think that the planning scenario we have,
+at least, is to continue to see stabilization with some opportunities for pockets of growth, driven
+by quality. So we don't believe that the market will come back to the levels of 2014, at least not
+short term.
+I agree with Hans in terms of Japan: that that's really going to have to be driven now by early 5G
+adaptations to the networks. And so forth. And to get -- because I think those, especially Japan.
+But also Korea, is very advanced 4G markets that has a lot of capacity and spectrum. We need to
+find a (rabbits) to grow in those markets.
+Our position in Japan, for instance, has strengthened a lot. This is more a market issue than an
+issue for our position. It has strengthened. So we need to find a rabbits growth there in those
+markets.
+A - `Hans Vestberg, President and CEO `
+That was a new one.
+A - `Jan Frykhammar, EVP, CFO and Head of Group Function Finance `
+I know.
+A - `Hans Vestberg, President and CEO `
+Rabbits for growth .
+A - `Jan Frykhammar, EVP, CFO and Head of Group Function Finance `
+Pushing our own organizational bits externally here.
+A - `Hans Vestberg, President and CEO `
+Yes, yes. Yes. That's fine.
+Q - `Lena Osterberg, Analyst, Carnegie Investment Bank AB `
+Looking forward to see those rabbits .
+A - `Hans Vestberg, President and CEO `
+Me too, I'm looking for them all over here.
+Q - `Lena Osterberg, Analyst, Carnegie Investment Bank AB `
+`Lena Osterberg, Analyst, Carnegie Investment Bank AB, Carnegie. I have a question on global services, on managed services, on the
+margins. They come down somewhat. And you're right that it's due to new projects which are in
+transformation phase. Can you say a little bit more about those contracts and how long you
+expect that to continue?
+A - `Jan Frykhammar, EVP, CFO and Head of Group Function Finance `
+So this was on the professional services side, okay. No. I think we have -- if you look at the
+numbers. And if you do the math, you see that there is a significant growth in the quarter insystem integration. It's, of course, driven both by industry; and society-related system integration,
+as well as OSS, BSS transformation.
+It is going to be a similar logic as for managed services, where many of these full stack, as I call it,
+OSS, BSS, transformation projects are very much multi-year engagements. And you will have
+impacts of the learning curve of the teams, as well as the scaling of skill and tools. So it will be a
+similar type of logic as managed services, although it's not the same type of recurring revenue.
+But typically, if you look at the projects, they are more or less recurring nature.
+So I don't think that the amount of transformation opportunities will go down. It's the other way. I
+think you've seen our 3G to 4G transformations and preparedness for 5G in most parts of the
+world, which means that there will be more opportunities around IT and (attack at) core networks.
+And so forth. So that's ultimately a good thing for us.
+Q - `Martin Nilsson, Analyst, Nordea Markets `
+`Martin Nilsson, Analyst, Nordea Markets, Nordea. You launched the efficiency program in 2014. And you have now had two
+years of a bit negative organic growth. Was that the planning assumption? Or at which point
+would you feel if the market continues or your revenues continue to drop organically, would that
+create a need for additional programs?
+Or how do you think -- you refer to monitoring the market and efficiency. So do you have a
+specific margin target in line? Or how should we think about the (multiple speakers)?
+A - `Hans Vestberg, President and CEO `
+Yes, definitely, we have a lot of margin inside. So that --
+A - `Jan Frykhammar, EVP, CFO and Head of Group Function Finance `
+I think I can start. And then Hans will fill in I think.
+A - `Hans Vestberg, President and CEO `
+Yes, I will.
+A - `Jan Frykhammar, EVP, CFO and Head of Group Function Finance `
+I think first and foremost, again, I come back to this principle around net savings. The net savings
+principle is going to be delivered based on what I call structural efficiencies. So real cost out in the
+fixed cost structure.
+Then, of course, there is always a need for our Company to look at the overall volumes and do
+business rightsizing. But our main focus is, of course, to -- we have to adapt to business reality,
+which is you can claim that that's not real efficiency, that's just adapting to different top-line
+scenarios. But the more competitiveness aspect of it is going to be delivered by the net SEK9
+billion, right. So that's how we think about it.
+And of course, I agree with you, Martin, that you have to have a certain time horizon. Again, with
+more coverage projects in the mix our line of sight is longer. When it comes to capacity, it's not
+just labor-intense type of project, as you know. So we have to have those two dimensions. And
+that's also why we try to separate, when we look at the restructuring charges, from, if I may say,
+normal restructuring to these more structural efficiency aspects of it.A - `Hans Vestberg, President and CEO `
+I will, again, add that I agree with Jan. Of course, we need to safeguard a certain type of
+profitability in the cash flow in order to invest and be competitive. Very much on the first part of
+the program, the SEK9 billion, that's to really be even more competitive. Then, of course, our
+preparedness is much higher if we need to do more.
+And of course, we are in this mode right now, we are planning and (finding) structures. But focus,
+make the SEK9 billion net, extremely important for us; and then, with preparedness, give a little
+bit more what volumes and what will happen if we need to do something more. That we will
+monitor not only once a quarter; we are monitoring daily to see that we are doing the right.
+But very important also for the organization that execute on what we are committed to. And then
+see equally much for ourselves from the market, because we need to be competitive. So I think
+it's exactly as Jan said: we will have these both constantly in front of us right now.
+A - `Jan Frykhammar, EVP, CFO and Head of Group Function Finance `
+But I think also, remember that many of the things that we are executing in terms of the overall
+program is actually aiming at reducing volatility.
+We know that the mobile broadband business, if you look at it on a country level. And, even
+worse, on a customer level, it goes up and down. And to have a delivery model there that is
+more global than local only will obviously improve efficiency as well. So we need to think like that
+in order to handle this fact that one customer in one specific country invests very much one year
+and then they kind of consolidate the next year. And so forth. So it is very much to also change
+the delivery model to be able to handle these ups and downs.
+Q - `Johanna Ahlqvist, Analyst, SEB Equities `
+`Johanna Ahlqvist, Analyst, SEB Equities, SEB. Just one question related to, first of all, North America. You mentioned in
+the quarter that you had the higher share of hardware sales than normal. And given that North
+America is your biggest market, how do you view your mix in 2016 in terms of software/hardware
+sales?
+A - `Jan Frykhammar, EVP, CFO and Head of Group Function Finance `
+I was trying to say that our scenario, we have had -- if you look at the networks business since the
+Second Quarter, we have been stable. And overall, if you look at it, it is very much a capacity
+market today, which means that investments are coming based on different type of traffic growth
+scenarios, which means that we will have opportunities for densification of footprint. So more
+hardware. But still densification type of footprint; and also, new software features. And all of the
+other type of capacity cycle.
+At least what we think, if you look at the profile since the Second Quarter, that's the business mix
+that at least we believe we will have also in 2016. So we don't see any new kind of coverage cycle
+starting in North America in 2016.
+A - `Helena Norrman, SVP, Chief Marketing & Communications Officer `
+Okay, do we have any more questions here in the room? It seems like the phone participants are
+very happy with the questions that you are asking in the room. So we don't have any questions
+there. And if there are no more questions then the Q&A has come to an end.We look forward to meeting you again the next time at Mobile World Congress. We have a press
+conference Monday the -- does anyone have the date in their heads?
+A - `Hans Vestberg, President and CEO `
+The Mobile World Congress week.
+A - `Helena Norrman, SVP, Chief Marketing & Communications Officer `
+It's the Mobile World Congress, Monday .
+A - `Hans Vestberg, President and CEO `
+February 22.
+A - `Helena Norrman, SVP, Chief Marketing & Communications Officer `
+February 22, in Barcelona. We see you in our hall. Thank you for joining. And see you then.
+A - `Hans Vestberg, President and CEO `
+Thank you very much.

@@ -1,0 +1,541 @@
+Q4 2015 Earnings Call
+
+Operator
+Please stand by. Good day everyone, and welcome to this Microchip Technology Fourth Quarter
+and Fiscal Year 2015 Financial Results Conference Call. At this time, I'd like to turn the conference
+over to Microchip's President and Chief Executive Officer, Mr. Steve Sanghi. Please go ahead, sir.
+Steve Sanghi `
+Thank you. Good afternoon, everyone. During the course of this conference call, we will be
+making projections and other forward-looking statements regarding future events or the future
+financial performance of the company. We wish to caution you that such statements are
+predictions and that actual events or results may differ materially. We refer you to our press
+releases of today as well as our recent filings with the SEC that identify important risk factors that
+may impact Microchip's business and results of operations.
+As you know, in addition to earnings, we also announced the signing of a definitive agreement to
+acquire Micrel. During this conference call, we will not cover anything in relations to the
+acquisition, and we'll take your questions only related to the earning. After we conclude this
+conference call, you will have to dial into the second conference call where we will cover matters
+related to the acquisition and take your questions.
+The second conference call has to be filed with the SEC, hence the separation of two conference
+calls. The second call will begin at 5:45 PM Eastern Time.
+With that, let me now pass this call to our Chief Financial Officer, Eric Bjornholt.
+J. Eric Bjornholt `
+Thanks, Steve, and good afternoon everyone. In addition to Steve Sanghi, Microchip's President &
+CEO, Ganesh Moorthy, Microchip's COO is also participating in this call. I will comment on our
+fourth quarter and full fiscal year 2015 financial performance and Steve and Ganesh will then give
+their comments on the results and discuss the current business environment as well as our
+guidance. We will then be available to respond to specific investor and analyst questions.I want to remind you that we are including information in our press release and this conference
+call on various GAAP and non-GAAP measures. We have posted a full-GAAP to non-GAAP
+reconciliation on the Investor Relations page of our website at www.microchip.com, which we
+believe you will find useful when comparing GAAP and non-GAAP result. I will now go through
+some of our operating results including net sales, gross margin and operating expenses. I will be
+referring to these results on a non-GAAP basis prior to the effects of our acquisition activities and
+share based compensation.
+Non-GAAP net sales in the March quarter were a record $547.2 million and were modestly above
+the midpoint of our guidance which was $546.6 million and were up 10.9% from the March 2014
+quarter. Revenue by product line in the March quarter was $353.6 million for microcontrollers,
+$127.6 million for analog, $33.2 million for memory, $23.6 million for licensing and $9.2 million of
+other.
+Revenue by geography was $106.2 million in the Americas, a record $126 million in Europe, and
+$314.9 million in Asia. I remind you that we recognize revenue based on where we ship our
+products to, which tends to skew some of the revenue towards Asia where a lot of contract
+manufacturing takes place.
+On a non-GAAP basis, gross margins were at the midpoint of our guidance at 58.3% in the March
+quarter. Non-GAAP operating expenses were 25.9% of sales, well below the bottom end of our
+guidance range. Non-GAAP operating income was 32.4% of sales and net income was $148.8
+million. This resulted in record earnings of $0.68 per diluted share, which was at the high end of
+our guidance.
+For fiscal 2015 on a non-GAAP basis, net sales were a record $2.161 billion and up 11.9% year-over-
+year. Gross margins were 58.8%, operating expenses were 26.4% of sales and operating income
+was 32.4% of sales. Net income was a record $593.9 million or $2.66 per diluted share. GAAP net
+sales in the March quarter were $543.2 million, and as originally guided, were $4 million lower
+than non-GAAP net sales due to the contractual relationship change we made with the ISSC
+distribution network to move them to a sell-through revenue recognition model in the December
+quarter.
+The revenue impact from this change was fully recognized as of the end of March and will not
+create a GAAP to non-GAAP revenue difference in future quarters. On a GAAP basis, gross
+margins including share based compensation and acquisition related expenses were 57.7% in the
+March quarter. GAAP gross margins included the impact of $2 million of share based
+compensation, $1.8 million of gross profit on the ISSC revenue recognition change previously
+mentioned, and $1.5 million in manufacturing shutdown costs associated with the Supertex wafer
+fab in San Jose.
+Total operating expenses were $203.3 million or 37.4% of sales and include acquisition intangible
+amortization of $47.1 million, share based compensation of $13.2 million, $0.7 million of acquisition
+related expenses and special charges of $0.8 million.
+GAAP other expense includes a $50.6 million loss on the retirements of 50% of our 2037
+convertible bonds and an $18.5 million gain on the sale of a portion of investments that Microchip
+acquired as part of the SST acquisition back in 2010.
+GAAP net income was $99.4 million or $0.45 per diluted share. GAAP net income includes
+nonrecurring favorable tax events of $26.7 million, which were primarily driven by the closure of a
+tax audit and the expiration of the statute of limitations for certain previously established taxFor fiscal year 2015, GAAP net sales were a record $2.147 billion, gross margins were 57.3%,
+operating expenses were 37.4% of sales and operating income was 19.8% of sales. Net income
+was $369 million or $1.65 per diluted share.
+In the March quarter, the non-GAAP tax rate was 11.4%. The GAAP tax benefit rate was 58.9%. The
+GAAP tax rate was favorably impacted by the $26.7 million of nonrecurring tax events that I
+mentioned before and the tax impacts of certain of the one-time events in the quarter. Our tax
+rate is impacted by the mix of geographical profits, withholding taxes associated with our
+licensing business and the tax effect of various nonrecurring item. Excluding any nonrecurring
+events, we expect our longer term forward looking non-GAAP effective tax rate to be about
+10.75% to 11.25%.
+To summarize the after-tax impact that the non-GAAP adjustments had on Microchip's earnings
+per share in the March quarter, acquisition related items were about $0.217, share-based
+compensation was about $0.052, non-recurring favorable tax events were about $0.121, a
+favorable difference on the sale of a portion of investments acquired in the SST acquisition was
+about $0.084, the loss on the retirements our 50% of our 2037 convertible bonds was about
+$0.144, the difference in the GAAP and non-GAAP non-controlling interest in ISSC was a favorable
+of about $0.005 and non-cash interest expense was about $0.019.
+The dividend declared today of $0.3575 per share will be paid on June 4, 2015, to shareholders
+of record on May 21, 2015. The cash payment associated with this dividend will be approximately
+$72.4 million. This quarter's dividend will be our 51st consecutive quarter of making a dividend
+payment. We have never made reductions in our dividend, and in fact this quarter's increase
+marks the 45th occasion we have increased the dividend payment and our cumulative dividends
+paid amount to over $2.5 billion.
+This program continues to be an important component of how we return value to our
+shareholders. During the time period that Microchip has paid dividends, we have also purchased
+back $1.4 billion of our stock, including the stock that we bought back with the issuance of our
+convertible debenture back in 2008. Our cash returned to shareholders since the inception of our
+dividend program is $3.9 billion.
+Moving on to the balance sheet, consolidated inventory at March 31, 2015, was $279.5 million or
+111 days, flat to the levels at the end of the December quarter. The inventory at our distributors
+increased by 1 day in the March quarter and are at 37 days. I want to remind you that our
+distribution revenue throughout the world is recognized on a sell-through basis. We intend to
+grow the days of inventory on our balance sheet in the June quarter to support our business
+growth and customer service levels.
+The cash generation in the March quarter, excluding the purchase of additional shares of ISSC,
+our dividend payment, changes in cash from the issuance and retirement of our convertible
+debentures and changes in borrowing levels under our revolving line of credit was $155.5 million.
+As of March 31, the consolidated cash and total investment position was $2.34 billion and our
+borrowings under our revolving line of credit were $462 million. Excluding dividend payments and
+our acquisition activities, we expect our total cash and investment position to grow by
+approximately $160 million to $180 million in the June quarter.
+Capital spending was approximately $29.4 million for the March quarter and $149.5 million for
+fiscal year 2015. We expect about $40 million in capital spending in the June quarter and overall
+capital expenditures for fiscal year 2016 to be about $160 million, as we are adding capital totechnologies and to bring in-house more of the assembly and test operations that we are
+currently outsourcing. Depreciation expense in the March quarter was $25 million.
+I will now ask Ganesh to give his comments on the performance of the business in the March
+quarter. Ganesh?
+Ganesh Moorthy `
+Thank you, Eric, and good afternoon, everyone. Let's take a closer look at the performance of
+each of our product lines, starting with microcontrollers. Our microcontroller revenue was up 8.4%
+in the March quarter from the year-ago quarter. For fiscal year 2015, our microcontroller business
+was up 11.4% over fiscal year 2014, crossing the $1.4 million mark for the first time and setting an
+all-time record.
+Also for fiscal year 2015, each of our three microcontroller segments, 8-bit, 16-bit and 32-bit set
+revenue records. Microcontrollers represented 64.6% of Microchip's overall revenue in the March
+quarter. As we mentioned in our January conference call, for competitive reasons, we will only be
+providing overall microcontroller revenue and growth rates and not breakouts by segment,
+consistent with the practice of most of our competitors.
+Gartner Dataquest just released their microcontroller market share report for 2014. We are
+pleased to report that Microchip has regained the number one position for 8-bit microcontrollers.
+Four years ago, it took the merger of three Japanese semiconductor giants, NEC, Hitachi and
+Mitsubishi in the form of Renesas, to knock us off the number one spot for 8-bit microcontrollers.
+We assured you at that time that we would work relentlessly to gain market share and to wrest
+back the number one spot in the coming years. Post their merger, Renesas 8-bit microcontroller
+business in 2010 used to be 41% larger than ours. In every year since 2010, we have closed the
+gap versus Renesas and in 2014, we wrested back the leadership position and finished 10.5%
+larger than Renesas.
+In the 16-bit microcontroller market, we were again the fastest growing 16-bit microcontroller
+supplier among the top 10 suppliers in 2014, growing at over 2x the rate of any of the other top
+10 suppliers. While our substantially faster growth rate closed the gap versus higher ranked
+suppliers, we remained in the number five spot in 2014 and expect to continue to gain share and
+move further up the rankings in the coming years.
+In the 32-bit microcontroller market, we moved up to the number nine spot in 2014 from the
+number 11 spot in 2013, continuing our relentless climb up the rankings since we entered this
+market a few years ago.
+Now, Gartner Dataquest's report is a backward looking indicator where we are performing very
+well. Now to look at a forward looking indicator, in April also, UBM Tech, which is the parent
+company of EE Times, released the results of their annual embedded market study. Once again,
+Microchip was rated by the embedded system design engineers as their number one choice for
+new designs using 8-bit and 16-bit microcontrollers in the performance range that we compete in,
+and we were the number two choice among 32-bit microcontrollers. We're humbled and gratified
+by the overwhelming preference by engineers for our solutions and see this as a positive sign for
+future growth.
+Our overall microcontroller results as well as each of our 8-bit, 16-bit, and 32-bit results are clearly
+outperforming the market, with year-over-year growth rates well above the market, and what we
+have seen reported by our competitors in their results. These outstanding results in a very
+competitive market are a tribute to the tireless effort by the worldwide Microchip team. We havegained significant market share and have the new product momentum and customer
+engagement to continue to gain even more share as we build the best performing
+microcontroller franchise in the industry.
+Analog products. Our analog business was up 18.7% from the year ago quarter. In fiscal year 2015,
+our analog business was up 17.6% over fiscal year 2014, crossing the $0.5 billion mark for the first
+time and also setting an all-time record. This business continues to have strong design win
+momentum in a broad range of applications and represented 23.3% of Microchip's overall
+revenue in the March quarter. We continue to develop and introduce a wide range of innovative
+and proprietary new products to fuel the future growth of our analog business.
+Now moving to the memory business, which is comprised of our Serial EE memory products as
+well as our SuperFlash memory products. This business was up 0.2% versus the year ago quarter.
+In fiscal year 2015, our memory business was down 1.8% versus fiscal year 2014. We continue to
+run our memory business in a disciplined fashion that maintains consistently high profitability,
+enables our licensing business and serves our microcontroller customers to complete their
+solutions. Our memory business represented 6.1% of Microchip's overall revenue in the March
+quarter.
+I have one more topic to cover today. Given the importance of the Internet of Things market,
+some of our investors and analysts have asked for more color about the size of our IoT business.
+First, there is no consistent way in which semiconductor companies report their IoT revenue. As a
+result, there are some who report their entire embedded market revenue or the revenue of
+business units focused on the embedded market as IoT revenue. By that measure, pretty close
+to 100% of Microchip's $2.2 billion of revenue could be classified as IoT revenue. But it would not
+be as meaningful to investors in terms of its potential as a future growth driver.
+We have a stricter definition for our IoT revenue, in that we only count end applications or things
+that are both smart and connected, reflecting what the promise of IoT really is, which is the
+possibilities are open up by adding connectivity to smart systems. Examples of smart and
+connected applications for Microchip are things like alarm systems, access control systems,
+thermostats, smoke detectors, exercise machines, asset tracking, wireless audio docks, set-top
+boxes and other consumer electronics systems, hospital personnel locaters, patient monitors,
+automotive telematics, building automation, vending machines, smart grid monitoring, wired and
+wireless networking systems, GPS navigation tracking systems and many, many others that are
+too numerous list.
+More applications will continue to be added as they get connected. I'm sure you will agree that
+applications like the examples we just provided, which are a combination of smart and connected
+applications, are more real IoT applications and the products going into them would better
+characterized our IoT revenue.
+Microchip solutions that enable the IoT market include low power microcontrollers, analog,
+sensors, memories, wired and wireless communication products. So using our stricter definition
+for IoT revenue, Microchip estimates that our current annual IoT revenue is approximately $275
+million and has been growing at a greater than 35% compounded annual growth rate over the
+last three years. This revenue is already included in the public reporting segments for Microchip.
+Let me now pass it to Steve for some general comments about our business as well as our
+guidance going forward. Steve?
+Steve Sanghi `Thank you, Ganesh. Today, I would first like to reflect on the results of the fiscal fourth quarter of
+2015 and fiscal year 2015, then I will provide guidance for the fiscal first quarter of 2016.
+We were very pleased with our execution in the March quarter. We achieved record net sales in
+the March quarter and slightly ahead of the midpoint of our guidance. Our non-GAAP earnings
+per share of $0.68 were a record and at the high end of our revised estimate. Recall that we had
+revised our earnings per share higher after taking into account the accretive effect of our
+financing transactions.
+Looking at the fiscal year 2015, it was another record year for revenue and the first fiscal year to
+cross the $2 billion revenue mark. For fiscal year 2015, revenue came in at a record $2.16 billion, up
+11.9% from fiscal year 2014. All of our strategic product lines of microcontroller and analog posted
+record revenue performance for fiscal year 2015. The March quarter was also our 98th
+consecutive profitable quarter. I want to thank all the employees of Microchip for their
+contribution in this remarkable achievement of 98 consecutive profitable quarters. We're also
+planning a celebration for 100 consecutive profitable quarter which is two quarters away.
+In the last two conference calls, we told you that we will be shutting down production in Supertex
+San Jose fab, as well as test facility in Hong Kong. The San Jose fab is now closed, with the last
+wafer out occurring in early April. The fab building is undergoing restoration to be returned back
+to the landlord. The transfer of the Hong Kong test operations to a high-volume Thailand facility
+was also completed in February.
+Now I will provide guidance for the fiscal first quarter of 2016. As we look at the business
+environment, it is clear that many of our industry peers are seeing weakness across various end
+markets including PC and industrial slowing growth in China market and currency impacts from the
+strong dollar. Taking all this into account, we believe that our net sales in the June quarter will be
+between $547 million and $564 million.
+On a non-GAAP basis, we expect our gross margin to be between 58.3% and 58.5% of sales. We
+expect operating expenses to be between 25.75% and 26% of sales. We expect operating profit
+to be between 32.3% and 32.75% of sales. And we expect non-GAAP EPS to be between $0.69
+and $0.73 per share.
+Finally, I want to remind you that given all the complications of accounting for the acquisitions
+including amortization of intangibles, restructuring charges and inventory write-up on acquisitions,
+Microchip will continue to provide guidance and track its results on non-GAAP basis. We believe
+that non-GAAP results provide more meaningful comparison to prior quarters and we request
+that the analysts continue to report their non-GAAP estimates to First Call.
+Before we open it up for questions, I want to remind everybody in case somebody joined our
+conference late, where in this conference call, we'll be only taking questions regarding our
+earnings and we'll have a second conference call starting at 5.45 p.m. New York time, at which we
+will talk about the Micrel acquisition and take questions related to that acquisition.
+With this, operator, will you please poll for questions?
+Q&A
+Operator
+Yes, sir. Our first question comes from `William Stein, SunTrust Robinson Humphrey, Inc. with SunTrust.Q - `William Stein, SunTrust Robinson Humphrey, Inc. `
+Great. Thank you for taking my question. Steve, the guidance, a couple percentage points below
+consensus and perhaps normal seasonal patterns, understanding that that's not out of line with
+what other companies are guiding this season as well. I wonder if you can comment on whether
+you see that small weakness extending further in the next quarter. You often have some strong
+opinions on the cycle, and I think we'd like to hear them.
+A - Steve Sanghi `
+I have blocked my opinion on the cycle, and I'm not going to share it with you anymore. Basically, I
+think as far as the seasonality is concerned, a company with a constant stream of acquisitions that
+we have done, we believe seasonality often is miscalculated by the investors. Depending on how
+many years back you go, we have had Supertex acquisition, which closed in April last year; we had
+an ISSC acquisition last year. If you go five years back, we closed SST acquisition also in April.
+So when you look at the June quarter number, sometime you do with or without acquisitions and
+many times the breakdown of those numbers is not available two or three years out. So I believe
+that seasonality changes a lot with these acquisitions. And I think, but the largest reason, as you
+describe yourself, which is industry conditions are soft, just like announced by other peers. That's
+what we are seeing and beyond that I'm not going to comment on cycle or anything else for the
+future.
+Q - `William Stein, SunTrust Robinson Humphrey, Inc. `
+Okay. I understand that. If I can ask one follow-up, please. I wonder to what degree you see this,
+the weakness, as FX related either sort of first order or second order effect? And whether there
+are any end markets – you were good enough to call out IoT. I think historically you haven't done a
+lot of talking about specific end markets, but is there one particular end market like either PC or
+wireless infrastructure that may be weaker or stronger? Thank you.
+A - Steve Sanghi `
+So we don't really have much end market commentary. We serve 90,000 plus customers and
+vast majority of them through distribution, and many time at the customers, we work with multiple
+divisions. For some of them, the business is PCs; for some others, the business is industrial; for
+some other, it could be called consumer. So we don't really have any end market flavor. But
+Ganesh in his commentary described that IoT business, the way we defined it, a much narrower
+definition of IoT for applications that are really smart and connected, is growing 35% a year. So
+that's doing very well.
+But if you take a broader definition of IoT, like include all the embedded business and all that, you
+could almost call 100% of Microchip's business as IoT, which really would not be helpful. So that's
+really what I have to say there.
+Q - `William Stein, SunTrust Robinson Humphrey, Inc. `
+Thank you.
+A - J. Eric Bjornholt `
+Other question on FX.FX, I don't really think we can delineate the FX that much, but we do business worldwide in U.S.
+dollars. So 99% plus of our business will be in U.S. dollars. So we don't take a hit on our
+receivables that way and when the currencies become weak overseas, it doesn't change our
+revenue right away, because our prices are in dollars. But then it makes the products more
+expensive for our customers, so as you are renegotiating the price and next bid comes in, next
+order comes in, you're negotiating and then you will see some impact.
+But doing it in dollars gives us more control, allows us to manage it, split it with the customer or
+do whatever, but really allows us to manage it rather than having automatic full FX impact to drop
+down. So I think the way we do it is probably better and has a delayed effect. It also impacts the
+business of our customers. If our business of our customers includes lots of products from
+overseas, which in most cases it does, then their end product becomes more expensive and
+they're having more trouble in terms of ramping their own products.
+So those results are real. Some are first tier, some are second tier, some are even third tier and
+it's very hard to figure this out with 90,000 customers worldwide doing business in 100 countries,
+and I don't think we can decipher that.
+Q - `William Stein, SunTrust Robinson Humphrey, Inc. `
+Thanks, Steve.
+Operator
+Our next question comes from Chris Caso with Susquehanna Financial Group.
+Q - `Christopher Caso, Susquehanna Financial Group LLLP `
+Yes. Thank you. The first question is along the lines of currency also. But I noted that your
+business in Europe appeared to be very strong in the quarter. Wonder if you could talk about that
+a bit. I didn't know if perhaps there were some currency related effects in there, perhaps having
+an effect on customer demand in the quarter. I guess, was that European strength surprising to
+you and just generally what do you think may be behind that?
+A - Steve Sanghi `
+Go ahead, Eric.
+A - J. Eric Bjornholt `
+So Chris, if you look back at our historical results, the March quarter is always a strong period in
+Europe, and having growth of almost 19%, it was a really good quarter in Europe. But that's not
+out of line with what we've seen historically. And so, with the FX rates really changing kind of late
+2014, early 2015, the impact on the quarter from an FX standpoint was not significant in the March
+quarter. And Steve talked about what the forward effects could be. But it's always a very strong
+quarter in March in Europe and this quarter was no different.
+Q - `Christopher Caso, Susquehanna Financial Group LLLP `
+Okay. Great. Just as a follow-up, I know you're trying to take inventory levels up. If you could
+remind us kind of where you're looking to take them, how long you think it's going to take to get
+there and is there a sort of a leverage benefit on margins as you do that?
+A - Steve Sanghi `I think like our inventory, product mix have gotten very complex. A significant portion of our
+business is analog. Lots of our microcontroller business is very analog-like. There is a high amount
+of analog on microcontrollers, with lots and lots of SKUs. So we're basically finding that inventory
+level needs to be between 115 and 120 days. A few years ago, we used to talk about 110 days. So
+I think it's gone up by about maybe 7 to 10 days to have a reasonable amount of inventory to be
+able to do business in such a complex mix of SKUs. And our inventory today is 111 days.
+A - J. Eric Bjornholt `
+It's 111. We put in the release that we'd expect based on the guidance for the quarter for
+inventory to grow between 3 and 9 days. So, take the middle of the road of that and we're kind
+of getting real close to what our model is for the longer term. So I think inventory is in pretty good
+shape.
+Q - `Christopher Caso, Susquehanna Financial Group LLLP `
+Great. Thank you.
+Operator
+We'll go to Craig Hettenbach with Morgan Stanley.
+Q - `Craig M. Hettenbach, Morgan Stanley & Co. LLC `
+Yes, thank you. Just a follow-up on the current environment, given the quarter itself came in line.
+Can you just talk about maybe how it progressed. And it looks like within the last six months,
+we've had a couple times a bit of pause here, just what you make of that from a demand or
+inventory perspective.
+A - Steve Sanghi `
+Well, in terms of how the quarter progressed, it was a very standard March quarter that starts
+slow with the New Year holidays around the world, then picks up some steam and then slows
+down into the Chinese New Year, and then you have a barnburner March. It's probably the most a
+back-end loaded quarter we do. Compared to June quarter, September quarter, December
+quarter, March quarter is the most backend loaded, predominantly driven by the Chinese New
+Year and slow start in January, so very typical.
+A - J. Eric Bjornholt `
+Yes, and I'd say that was within our expectations.
+A - Steve Sanghi `
+Yes.
+A - J. Eric Bjornholt `
+Yes.
+Q - `Craig M. Hettenbach, Morgan Stanley & Co. LLC `
+Okay. And then any color in terms of just kind of canvassing the landscape from a demand and
+just some of the sluggish trends you're seeing out there?A - Steve Sanghi `
+Well, I hate to go back and visit last year, but late last year the estimates for the industry were
+double digit, 10% type. And we were able to see there that that's not doable. That just didn't look
+possible with what we were seeing in the PC, the inventory we were seeing in the channel, and
+what we were hearing from our customers. We just didn't think the industry had a driver to really
+create another 10% growth year. And as you look at it now, the growth rates for the industry have
+been cut in half. So I really have to say that I'm not surprised. I think that's what we thought it will
+be.
+Q - `Craig M. Hettenbach, Morgan Stanley & Co. LLC `
+Okay. And then maybe just a longer term question. If you look across, you've been successful in
+really ramping the analog business, as well as on the MCU side in terms of share gains over time.
+But just as you look at those two businesses, any differences for long-term growth rates in terms
+of which one you might think grow the fastest longer term?
+A - Steve Sanghi `
+Well, we're a very profitable company as you can see, 32.3% operating profit. So our
+microcontroller and analog businesses are both very well funded and relatively independently.
+We're not driving to a model that three years out, explosion of our business will be in this division
+or that division. They're all well funded and it depends on basically achieving product success and
+marketplace penetration and they meet in manufacturing and they meet at the customer base
+and they meet in applications, where in the same application, we got lots of microcontroller as
+well as analog products going into a single board.
+So there is a lot of synergy that way. But in terms of making investments, there is not a
+competition, because we can really take care of both. So it will largely depend on where we have
+larger success. Analog has been growing faster, somewhat because that's where we have done
+some of the acquisitions. Microcontroller acquisitions are a bit more difficult to do, because
+everybody has a different architecture and you got different issues in trying to get synergy in
+microcontroller. So, we have been able to acquire capability in analog both organically and
+through acquisitions, and it has been a smaller business compared to the microcontroller.
+Microcontroller is a $1.5 billion business and analog is about a third of that, $0.5 billion. So it's been
+growing faster. But it's not something that we are, if microcontroller can grow faster with IoT, with
+other applications, 32-bit is growing very fast, 16-bit is growing very fast, 8-bit did a record. But it
+does have a $1.5 billion gorilla that has to move, and we are number third in the overall
+microcontroller market, third or fourth, depending on which year you take versus in analog, we're
+much lower. There are much, much larger analog companies that we can take share from for a
+long time.
+Q - `Craig M. Hettenbach, Morgan Stanley & Co. LLC `
+Got it. Appreciate the color there.
+A - Steve Sanghi `
+You're welcome.
+OperatorQ - `Kevin E. Cassidy, Stifel, Nicolaus & Co., Inc. `
+Thanks for taking my question. On your CapEx plans for fiscal year 2016, you said $160 million.
+Can you break it down a little bit? Is it front end or back end and just where the spending will be?
+A - J. Eric Bjornholt `
+So it's a combination of both, Kevin. We're continuing to invest in new processes and
+technologies in both the front end and back end, and investing to not only support the growth of
+our organic business, but then you invest to bring some things in-house that were previously
+outsourced for acquisitions. So, kind of the same story that you've heard before. It is definitely a
+split between front end manufacturing and back end manufacturing.
+Q - `Kevin E. Cassidy, Stifel, Nicolaus & Co., Inc. `
+Maybe to add on to that, what do you expect your split to be at the end of fiscal year 2016 for
+internal versus outsourcing?
+A - J. Eric Bjornholt `
+So, if you're meaning how much of our wafer fab will be done in-house, so in fiscal 2015, about
+39% of it was outsourced and 61% was done in-house. There will be modest movements from
+that in fiscal 2016. Nothing will change dramatically.
+A - Steve Sanghi `
+Unless there is a large acquisition that moves the mix. From an organic basis, you can move 1 or 2
+points a year something, so it's not very huge. But significant movements have happened when
+we acquired SST which was 100% outsourced; when we acquired SMSC, that was 100%
+outsourced. You could ask that question in the second conference call and might, clearly maybe I
+can answer it there.
+Q - `Kevin E. Cassidy, Stifel, Nicolaus & Co., Inc. `
+Okay. Maybe I was trying to get a feel for it, too, is like I think with SMSC, the idea was to bring
+the test and packaging in-house even though the wafer fab was out. Is that still the longer-term
+idea, to do more of your own testing and packaging?
+A - Steve Sanghi `
+Yes. So, we when answered you question on 39% inside, it was not on a COGS basis, it was
+basically on a fab basis, front end. In terms of back end, we do -
+A - J. Eric Bjornholt `
+88% of the test we do in-house and kind of high 50s, low 60% of assembly we do in-house, and
+that moves around with the acquisitions as Steve noted.
+A - Steve Sanghi `
+Yes.
+Q - `Kevin E. Cassidy, Stifel, Nicolaus & Co., Inc. `
+Okay. Great.A - Steve Sanghi `
+So we have continued to bring work from SMSC inside. We have closed Supertex test facility in
+Hong Kong. All that is running into Microchip. So yes, case-by-case basis, when it runs outside,
+we'd like to bring it inside for lower cost.
+Q - `Kevin E. Cassidy, Stifel, Nicolaus & Co., Inc. `
+Okay. Thank you.
+Operator
+Our next question will come from Harsh Kumar with Stephens.
+Q - `Harsh V. Kumar, Stephens, Inc. `
+Yes. Hey, Steve, I was wondering if there were any bright spots in terms of end markets, some
+markets that actually held up better both as far as March as well as maybe for the guidance?
+A - Steve Sanghi `
+I think it's fashionable to say IoT. That's what I would say probably. It grew 35% year-over-year and
+I'm sure it did very well quarterly too.
+Q - `Harsh V. Kumar, Stephens, Inc. `
+That's fair. And then I think you, in response to a previous question, you talked about linearity of
+the March quarter. We found that very helpful. I was wondering not specific to this June quarter,
+but historically, maybe you can give us an idea how typically the June quarter trends for you guys
+last couple of years?
+A - Steve Sanghi `
+In terms of monthly linearity?
+Q - `Harsh V. Kumar, Stephens, Inc. `
+Yes, just any kind of color you want to give us.
+A - Steve Sanghi `
+I would say June quarter is probably the most linear quarter. The March quarter is the most non-
+linear quarter because of the Chinese New Year. Then when you get to September quarter, you
+have the August, which is weak usually because of holidays in Europe and parts of Asia, and
+December quarter, you have holidays at the end. So June quarter is actually the most normal
+linear quarter. And I don't think we expect anything different.
+Q - `Harsh V. Kumar, Stephens, Inc. `
+Got it. Thanks, guys.
+Operator
+Thank you. And Chris Danely with Citi, please go ahead.Q - `Christopher B. Danely, Citigroup Global Markets, Inc. (Broker) `
+Hey. Thanks, Steve. So I guess if you just take a step back and you compare this soft patch to
+what happened late last year or maybe even 2012, 2011, do you think it's similar, better, worse?
+Do you think there is any chance that things could get worse or did we just kind of fall down a
+month ago or a few weeks ago, and now we're kind of bouncing along the bottom and waiting
+for things back up. Any perspective there?
+A - Steve Sanghi `
+I think, Chris, I resigned from my industry forecasting job last year. Gave it to you.
+Q - `Christopher B. Danely, Citigroup Global Markets, Inc. (Broker) `
+Good luck with that. I guess as my follow-up, how about inventory out there with distributors and
+your customers? Now that demand is a little lower, do you expect some sort of inventory burn
+this quarter, or do you feel like everybody is pretty comfortable out there?
+A - Steve Sanghi `
+So, I think our distribution inventory is not high. Number one, we don't take it as a revenue, so it
+doesn't really matter as much. But if the distribution inventory becomes too high and then they
+correct it, then you can have a downstream effect then if we have to lower our own inventory. Our
+own inventory is on the lower side and we like it higher. The distribution inventory is in the middle.
+So when you combine those two inventories, they're not high. If anything they're on the low side,
+despite the weakness, despite the guidance. So based on current numbers, our inventory is still
+really on the south of the middle.
+So I don't think that inventory is a problem. We are working very hard in our factories to make
+more product for our customers and have expedites and challenges and others with the mix
+being very complex, having closed down Supertex fab, accommodating all those products in our
+fab. Manufacturing is challenging and inventory, high inventory is not a issue right now.
+Q - `Christopher B. Danely, Citigroup Global Markets, Inc. (Broker) `
+Okay. Thanks, guys.
+Operator
+Thank you. And John Pitzer with Credit Suisse, please go ahead.
+Q - `John William Pitzer, Credit Suisse Securities (USA) LLC (Broker) `
+Can you hear me? Guys, can you hear me?
+Operator
+Yes, please go ahead.
+A - Steve Sanghi `
+We can, John.
+Q - `John William Pitzer, Credit Suisse Securities (USA) LLC (Broker) `Perfect. Steve, I'm going to give my shot to try to bring you out of retirement and kind of follow-
+up to Chris's first question. I'm just kind of curious, you're guiding flat to up sequentially for the
+June quarter. A little bit below normal seasonal patterns, but you guys are comfortable enough to
+continue to build inventory. I'm just kind of curious, if you thought this was going to be prolonged
+or deeper, would you do anything around utilization? Would you not build inventory? Is the fact
+that you're willing to build some inventory kind of a tacit sign that you think this is more of a soft
+patch than anything else?
+A - Steve Sanghi `
+Well, I mean we really aren't making a call either way. I mean manufacturing is running normal. If
+you look at our December quarter, we have holiday related shutdown we have to do to really do
+the maintenance on the facility, so you lose a few days. And it's usually tight on total output in
+December quarter, and in the March quarter you get the full days. And related to that, we're
+working hard to build a few days of inventory. We said 3 to 9 days. Let's say at the end, it comes
+out to be 4 or 5 days, that will still be only 114, 115 days of inventory, on the lower end of the 115 to
+119.
+So like I said, answer to Chris's question, I don't really think we have conviction either way to drive
+the inventory much higher or much lower. We're largely basically trying to get to the middle of our
+range and only going to get to the bottom of our range probably.
+Q - `John William Pitzer, Credit Suisse Securities (USA) LLC (Broker) `
+Good. That's helpful, Steve. And then maybe as a follow-up, Ganesh, really appreciated kind of
+the more detailed definition of IoT, and you talked about a lot of the discrete IP and technology
+you guys provide. I'm kind of curious to what extent you guys are providing that as a turnkey
+solution when you think about microcontroller, analog, wire, wireless connectivity. How do we think
+about kind of how much of your IoT revenue is complete turnkey solutions versus discrete and
+what's the opportunity to go to turnkey?
+And if you could talk a little bit about security within that IoT bucket as well, because clearly there
+is a school of thought that secure and connected is what defines IoT. I'd be kind of curious as how
+you guys are thinking about the security issue?
+A - Ganesh Moorthy `
+Okay. Good questions. So when we go to market, there are obviously many customers for whom
+we can provide the complete bag of solutions, analog, microcontroller, wireless or wired,
+whatever connectivity they want to have. In other cases, we may only win a portion of that and it
+gives us a foothold to the customer to come back and look at their next generation of design. So
+I don't have a good split of which way it is across so many different customers that are -- but our
+obvious go-to-market is to win as much as what's on the board. That constitutes both the smart
+side of the equation as well as the connectivity side of the equation.
+Then your question on security is a very good one as well. So we know it's a key part of many,
+many of these applications. We enable that security in some cases through hardware that's built
+into our products in combination with software that we make available as well. And I think there is
+a lot more coming in front of us from the industry at large on how to ensure that as IoT fills out
+the range of applications, the security part of it continues to be addressed sufficiently. So yes, any
+time you have a node that is connected, its security is a key part of what we need to think about
+in the solution we deliver.Operator
+Thank you. And with no additional questions in the queue, I'd like to go ahead and turn the floor
+back over to our speakers for any additional or closing remarks.
+A - Steve Sanghi `
+Okay, we want to thank everyone for attending our conference call. After a little break at 5.45
+Eastern Time, we'll be starting our second conference call, which is regarding the acquisition of
+Micrel, and we'll hear some of you again on that call. So thank you.
+Operator
+Thank you. And again, ladies and gentlemen that does conclude today's conference. Thank you
+all again for your participation.

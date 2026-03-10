@@ -1,0 +1,897 @@
+Q4 2014 Earnings Call
+
+Operator
+Good day, ladies and gentlemen, and welcome to the Tesla Motors Fourth Quarter 2014 Financial
+Results Q&A Conference Call. At this time, all participants are in a listen-only mode. Later, we will
+conduct a question-and-answer session and instructions will follow at that time.
+I'd like to turn the call over to your host, Mr. Jeff Evanson. Please go ahead.
+Jeffrey K. Evanson `
+Thank you, Patrick, and good afternoon everyone. Welcome to Tesla's fourth quarter Q&A
+webcast. I'm joined today by Elon Musk, Tesla Chairman and CEO; JB Straubel, our CTO and
+Deepak Ahuja, Tesla's CFO. We announced our financial and operational results today in a
+shareholder letter that's available at the same link as this webcast, and a replay of this webcast
+will be available later today at the same link.
+The shareholder letter includes GAAP and non-GAAP financial results, as well as reconciliations
+between the two. Our non-GAAP measures add-back deferred revenue and related expenses
+for cars delivered where the cash has been or will soon be collected. These non-GAAP results
+also exclude stock-based comp – compensation and non-cash interest expenses. Revenues and
+costs associated with cars leased directly through us are treated the same in our GAAP and non-
+GAAP financial information.
+Now, during our call, we will be discussing our business outlook and making other forward-looking
+statements which are based on our predictions and expectations as of today. Actual events or
+results could differ materially due to a number of risks and uncertainties, including those
+mentioned in our most recent 10-Q filed with the SEC.And now Patrick, if we could assemble the queue and have our first question please?
+Q&A
+Operator
+Our first question comes from Andrea James with Dougherty & Company. Your line is open.
+Q - `Andrea Susan James, Dougherty & Co. LLC `
+Hi. Thanks for taking my questions. And congratulations on the rocket launch.
+A - Elon Reeve Musk `
+Thank you.
+Q - `Andrea Susan James, Dougherty & Co. LLC `
+So just quickly, can you help me get to a free cash flow figure? It looks like you're going to do in
+$1.5 billion in CapEx, but what's going to be the operating cash flow to offset that?
+A - Deepak Ahuja `
+Yeah, we will have clearly significant – Deepak here, hi, Andrea.
+Q - `Andrea Susan James, Dougherty & Co. LLC `
+Hi.
+A - Deepak Ahuja `
+We will significant positive operating cash flow, obviously as our business – our volume grows and
+our gross margin continues to improve. We'll also have some cash used on our direct leasing
+program. Our expectation is that we will establish shortly a warehouse line for leasing cars and
+that'll continue to grow and fund a big portion of our leasing funding required. So overall we feel
+pretty comfortable where we are in terms of how 2015 looks from a cash burn perspective.
+Q - `Andrea Susan James, Dougherty & Co. LLC `
+So maybe about $1 billion? Is that about in line, cash burn?
+A - Deepak Ahuja `
+Should be less than that.
+Q - `Andrea Susan James, Dougherty & Co. LLC `
+Okay.
+A - Deepak Ahuja `
+Yeah, considering that we will have a lease warehouse line which continues to expand.
+Q - `Andrea Susan James, Dougherty & Co. LLC `Got it. And so then another point, it looks like you expanded your residual value guarantee into
+extra markets late last year. And then I saw last week you are giving free charging – home
+charging to folks in China. So I guess my question is, it looks like you have really pretty good
+demand, global wait times are increasing, so why continue to give incentives to buy the cars if
+demand is so high?
+A - Elon Reeve Musk `
+Sorry, incentives?
+A - Deepak Ahuja `
+Well, I think fundamentally in China, we want to make sure we are not creating any hurdles or
+issues that create a negative customer experience, and charging installation, given the varied
+regulations and challenges there has been a difficult customer experience and we want to
+overcome that by providing (4:09).
+A - Elon Reeve Musk `
+Yeah, but this is also something that's considered standard in China. So if you like buy an i3 or a
+Leaf or something, that's considered as a standard thing, so we're just matching what
+competitors do. But I think just like the whole – this whole China thing has been blown way out of
+proportion. We didn't execute people well on China last year, but it didn't really matter. I think
+people don't quite get that, like it's not like there were all these extra cars we could have
+produced and if only we'd had a bunch more customers in China, we could have (4:44) those
+cars. We had – we were production constrained. So I wish we weren't, but we were, and we look
+forward to getting demand constrained in the future.
+And essentially, it didn't matter whether we, meaning to the company as a whole, whether we
+sold a lot of cars in China or a small number of cars in China, we (5:05) volume that would've
+headed to – otherwise headed to U.S. or Europe and sent it to China. So it wasn't a high priority
+for the company, because it wasn't a constraining factor.
+Now obviously, in the long-term we do want to succeed in China and make sure we're doing a
+good job, and I think just like the rest of the world, China wants to have the best products, and
+we think the Model S is the best car in the world, and as indicated by multiple outside
+assessments, I'm pretty sure that people in China want the best car in the world, so that's
+something we've got to make sure we lay the right foundation for future growth. But it was
+essentially irrelevant for last year.
+Q - `Andrea Susan James, Dougherty & Co. LLC `
+Okay.
+A - Elon Reeve Musk `
+That's an important point, and the biggest issue which we're still fighting to address is this
+perception that it is difficult to charge your car in China. This is false. It is not difficult to charge
+your car in China. Unfortunately, this sounds kind of brain-dead, but our sales team was telling
+people that it was difficult to charge in China, even though this is not true. That's pretty silly. And
+so I put the guy who was in charge of the Supercharger rollout in China, who is doing an
+awesome job, an engineer basically, he's not a sales person, in charge of China to make sure that
+charging is super easy and excellent. He's not a marketing guy or sales guy, he's like an engineerare trying to have a fantastic experience. And then, just like in other countries, those customers
+become our sales force, and the product sales grow by word of mouth.
+Q - `Andrea Susan James, Dougherty & Co. LLC `
+Is this the company philosophy, because it seems like you're putting engineers in charge of
+customer service even globally with Jerome, I mean, is customer service an engineering
+problem?
+A - Elon Reeve Musk `
+I think if you've got people that are good at creative problem-solving, then they will be good at
+creative problem-solving. I tend to view, I guess it's my own bias that most things, since I'm an
+engineer, I kind of view things as an engineering problem. Not everything is an engineering
+problem, but I think it's like, you've got to design the system and sometimes those systems are
+in the form of a car, or it's a charging thing, or it's the way that you communicate with prospective
+customers, it's just creative problem-solving. So if you are – what you're really looking for, at a
+high level, is a creative problem solver who just cares about getting it right, so that's what we're
+doing.
+And I'm confident, that certainly by the end of this year, that we'll be in really good shape in
+China. Yeah, so I'm pretty optimistic about it. I don't think there's some sort of unique missing
+issue in China. And if you look at say, our sales in Hong Kong, our sales in Hong Kong are
+excellent. But we don't have that – this perception of charging issue in Hong Kong. And
+everybody lives in apartment buildings there as well, so it's not like it's super-easy to get local
+charging. So I'm confident that, just as we're seeing high demand in every other part of the world,
+that we'll see it in China as well.
+Q - `Andrea Susan James, Dougherty & Co. LLC `
+And just to the point – thank you for the clarity on China. Just to my point on the residual value
+guarantee, is that something that you plan on keeping? And why keep it? And what are your
+thoughts about that?
+A - Elon Reeve Musk `
+Yeah, that's a good question. I've actually debated like, should we keep it or shouldn't we keep it,
+because it's kind of moot. The residual value guarantee sort of matches what other premium
+sedans see after a three-year time period, but our actual residual values are substantially above
+that. So it never actually matters; we're not like paying out residual guarantees, because the car is
+worth more than the residual value, all right.
+And it does kind of mess up our accounting, because we have to treat it like a pseudo-lease, but
+so that's – on the other hand, if we withdrew it, then does that mean – would the people take that
+as a lack of confidence in our product? I think they might, they might misconstrue it as such. So
+even though it's moot and it doesn't really matter, it's just there to provide confidence to
+customers. And yeah, so I think we'll probably keep it, even though it makes our financials look
+worse than they really are.
+I think it is really important, because we do get some criticism about the GAAP versus non-GAAP,
+as though, when we do non-GAAP, we're actually trying to trick people into thinking something's
+better than it is, but actually it's not true. I think that the way the accounting rules currently work
+don't give a correct picture. We're trying to give a more correct picture with non-GAAP, not a lesscorrect picture. And the difference between – and as you can see from our gross margin, GAAP
+and non-GAAP are basically the same.
+So for revenue, the difference between GAAP and non-GAAP is just that this is – it comes down
+to just two things, this residual value guarantee where we – as we just talked about, it's moot. But
+because it's a pseudo-lease, we have to recognize the revenue over time, even though we've
+got the cash immediately. So our cash flow is – non-GAAP is an accurate representation of our
+cash flow, which is like what really matters. And yeah, so – and then, even in non-GAAP, we don't –
+for leases that we do internally, they actually aren't even covered in non-GAAP.
+A - Deepak Ahuja `
+(11:31) the full cash up front, so it's aligned with our cash flow.
+A - Elon Reeve Musk `
+Exactly. Exactly, it's aligned with cash flow.
+A - Deepak Ahuja `
+Right; whereas in some other auto companies, the moment they sell the car to a dealership, we
+understand, they recognize the revenue, even though a financing entity might lease that car, and
+so they don't have the cash flows, but they have a GAAP revenue. So in some sense, our non-
+GAAP revenue is pretty clean, and it lines up well with our cash flows.
+A - Elon Reeve Musk `
+Yeah, this is a really important because – a really important point to emphasize, because (12:03),
+are we perhaps exaggerating our revenues relative to how other car companies might represent
+their revenues, and what Deepak just said is a very good point. What the other car companies will
+do is, they will sell the cars to the dealer groups, but then they will then turn around and lease
+finance those same cars. So they're sending it through the laundromat, is basically what they're
+doing. In our case, since we are not sending it through the laundromat, it's actually more correct.
+Because if we do a lease, it's all internal, and we're not trying to send it through some third-party
+where actually, the risk is still assumed by the parent car company.
+So yeah, and then, even for leases that we do ourselves, we can securitize those leases
+whenever we want, so we can take those leases, funnel them, put them into a securitization
+program or just get a warehouse loan to recover the capital. The reason we're using our existing
+capital is just basically common sense, because we've got a big bank balance that's earning like
+0.1% or basically nothing, actually minus whatever the inflation rate is. And so, it makes more
+sense for us to put that capital to work with consumer leases and earn 2% to 3%, is basically what
+it amounts to. But whenever we want to recover that capital, we can do so through warehouse
+loan or securitization. Yeah.
+Q - `Andrea Susan James, Dougherty & Co. LLC `
+Thank you for taking my questions.
+A - Elon Reeve Musk `
+(13:49) yeah. So our financials are better than they appear, not worse. This is really the key point.
+OperatorThank you. Our next question is coming from Brian Johnson with Barclays. Your line is open.
+Q - `Brian Arthur Johnson, Barclays Capital, Inc. `
+Yes. Good evening. Want to explore a bit where you see the trajectory of CapEx and OpEx. You
+gave some guidance for next year, but as we think ahead to the Gigafactory, and as we think
+ahead to the model – excuse me, the Gen III launch, how do you see those trends going over the
+next several years?
+A - Elon Reeve Musk `
+We're going to spend staggering amounts of money on CapEx. I mean, for good reason, and
+with a great ROI. And it's important to not look at the CapEx in isolation, because that CapEx
+obviously is being done for a reason, in order to capture a substantial future revenue flow. But, I
+was just thinking back-the-envelope, just – if you assume – if you make sort of assumptions, and I
+emphasize these are just certain assumptions, and I'm not saying they're true or that they will
+occur, but I bet that they do occur, personally, so it's just my personal opinion.
+And if you take this year's revenue, around $6 billion or thereabout, and if we're able to maintain
+a 50% growth rate for 10 years and achieve 10% profitability number and have a 20 P/E, our
+market cap would be basically the same as Apple's is today. Now, that's going to require a bit –
+on the order of $700 billion. Obviously, getting there will require some significant CapEx. But I'm
+hopeful that we can do this without any significant dilution to the company. So it may be minor
+dilution, but nothing serious.
+Q - `Brian Arthur Johnson, Barclays Capital, Inc. `
+And how about in terms of operating expense? And do you have a target for reported margins
+versus kind of thinking about your remarks in the second press conference (16:17), where margins
+would be if you'd stop growing? Is there a difference between the margins on a non-GAAP basis
+we'd actually see versus what they would be if you weren't making those kind of investments?
+A - Elon Reeve Musk `
+Yeah, but you mean profit margin as opposed to gross margin?
+Q - `Brian Arthur Johnson, Barclays Capital, Inc. `
+Yeah, yeah, the operating margin.
+A - Elon Reeve Musk `
+Yeah. I mean, we could easily get to 10% to 15% and probably if we push – somewhere between
+10% and 15%, because I mean, the thing about gross margin is that, that this year will be probably
+– by the end of the year be somewhere around 30%. So then if 20 of those points go to sort of
+fixed cost and R&D and what not, then at least 10 are left over for profitability. And we are
+expecting to be non-GAAP profitable.
+A - Deepak Ahuja `
+And we have been non-GAAP profitable for two years now, 2013 and 2014.
+A - Elon Reeve Musk `A - Deepak Ahuja `
+Yeah, it's difficult to parse your question, Brian, in terms of separating OpEx between a fast-
+growing company like Tesla versus steady-state. Clearly, we want to invest in the future, but we
+want to do it efficiently, and we are going to focus on being efficient with our OpEx fundamentally
+this year.
+A - Elon Reeve Musk `
+Yeah, that is a key thing. The simple math of head count requires this – I mean, we're basically a
+little over 10,000 people and heading for somewhere over 55,000 cars this year. This gets you
+0.5 million cars a year. If we do not improve our productivity per person, we would need 100,000
+people. I'm not sure where they would park. So clearly there needs to be dramatic improvements
+in productivity, which are underway.
+Q - `Brian Arthur Johnson, Barclays Capital, Inc. `
+Right. And so when you said 10%, was that 10% while still growing to the millions of cars target
+you talked about in 2025 or that's kind of 10% when you get to that millions of cars target?
+A - Elon Reeve Musk `
+Yeah, I think at some point we'll actually be able to maintain 10% profitability despite (18:47)
+growth, because you just run out of ways to spend money, kind of like Apple, just running out of
+ways to spend money. They spend money like it's water over there and they still can't spend
+enough of it.
+A - Deepak Ahuja `
+I think for us we are a single vehicle platform company at this point. Our engineering expenses
+have their ebbs and flows, so that has an impact. And as we grow, we become a portfolio of
+vehicle platforms. Even with (19:10) growth we can get to a very good operating margin.
+A - Elon Reeve Musk `
+Yeah, (19:15) we're doing this and it's mentioned in the letter, but there's massive infrastructure
+expansion going on, like really massive, like setting up service centers worldwide, creating a
+ubiquitous supercharger network worldwide, logistics across all these countries, dealing with
+customs and the unique elements for each country. We're massively increasing the sort of scope
+and scale of Tesla in order to lay a foundation for future growth.
+Q - `Brian Arthur Johnson, Barclays Capital, Inc. `
+Okay, great. And just final question more for Deepak, when does CapEx flow into depreciation in
+gross margin? What kind of time frames for the CapEx in terms of depreciable life span, are you
+assuming on things like Gigafactory, factory tooling and so forth?
+A - Deepak Ahuja `
+Yeah, so to answer your first question, when assets are put to use for production and delivery of
+cars, that's when depreciation kicks-off, so a lot of our spend this year is on production capacity
+expansion and Model X tooling. Those assets will start depreciating (20:41) starts producing. The
+Gigafactory assets clearly would be depreciated when we start producing cells that are being
+used for production in our revenue growth. And the life of – the depreciation life depends on thekind of asset. It can vary from five years for tooling to longer if it's equipment, and if it's facility
+then it could be 15 years to 30 years. We follow the generally accepted principles there in our
+expected life of use to come up with those figures (21:16).
+Q - `Brian Arthur Johnson, Barclays Capital, Inc. `
+Okay, great. Okay. Thanks.
+Operator
+Thank you. Our next question comes from Adam Jonas with Morgan Stanley. Your line is open.
+Q - `Adam Michael Jonas, Morgan Stanley & Co. LLC `
+Evening everybody. First back to China; do you have any concerns about your ability to pursue
+business in China on terms that protect your interests? What I mean is like if I look at the German
+manufacturers, they don't seem to have any problem with 50/50 JV structures or with local
+partners and not having control and selling through franchises. Are you able to – are those terms
+that you're comfortable doing business with in China?
+A - Elon Reeve Musk `
+Well, I think that we're definitely going to – want to have local manufacturing, probably some
+amount of local R&D as well in the future in China. It's not going to make a ton of sense in long-
+term to be building a huge number of cars in California and shipping them to China. But right now
+we're still at the early stages, so it's difficult to say exactly what happens in the future. I mean our
+goals in the short-term in China are just very straightforward, which is just to build out our service
+and Supercharger infrastructure, and just get the basic foundational elements there. Well, we're
+not going to dealers, as we don't go – we don't go to dealers at anywhere in the world. So our
+activities in China are currently 100% Tesla-owned, and it sort of depends on what the evolving
+landscape is in China in the long-term as to whether here and how a JV would have to be set up.
+Q - `Adam Michael Jonas, Morgan Stanley & Co. LLC `
+Okay. Elon, just on the patents; it's been eight months since you opened up the patents for
+competitors to use, any takers of any significant technology? I'm not aware of any. Are you
+surprised there hasn't been more? And is this a function of just kind of is it hubris or pride of your
+competitors or is it that they just don't have the kind of intellectual capabilities or software
+engineering depth to kind of contextualize what you have to offer?
+A - Elon Reeve Musk `
+I'm quite sure that there will be – but actually manufacturers are currently trying to use our
+patents, but just – important to remember that design cycle, from the point at which you can use
+intellectual property, (23:34) the design. That design's got to get – you've got to do detailed
+engineering in design, you've got to tool things up and then you've got to go to production. So
+it's probably the first time you see companies – anyone using our IP would be a few years after
+we announced.
+Q - `Adam Michael Jonas, Morgan Stanley & Co. LLC `
+Okay. And finally Elon, just you mentioned sort of staggering amounts or obscene amounts of
+money on CapEx. Companies that usually have those kinds of, let's say, spending ambitions at
+this point in a growth phase also have a pretty developed relationship for the capital markets tohelp fund that growth, and you yourself and your enterprise has been, I think done that quite
+successfully. Any heuristics you can kind of leave us with as people kind of contemplate more
+cash burn would be being necessary to fund great things and great projects that will ultimately
+pay-off? But any kind of rule of thumb, minimum levels of liquidity or the kind of things that you
+look at to decide whether you need to kind of refill the capital tank? Thanks.
+A - Elon Reeve Musk `
+Yeah, we don't have any plans for raising money right now. And I think we can get to that sort of
+crazy level that I described earlier with really minimal dilution. You know, it's really going to be very
+much – the overlaying amount of it would come from operating cash flow. So yeah, feels generally
+pretty good about it and but getting to that level with only minor to moderate dilution. I think the
+only reason we'll raise money is, and I'm not saying – we really don't have any plans to raise
+money, but the only reason I could imagine we'd do it earlier is just to have a bigger cash cushion,
+that would be, in case there's a big downturn in the economy or something like that.
+Q - `Adam Michael Jonas, Morgan Stanley & Co. LLC `
+Thanks very much.
+A - Elon Reeve Musk `
+Okay.
+Operator
+Thank you. Our next question comes from `John Lovallo, II, Bank of America Merrill Lynch with Bank of America. Your line is open.
+Q - `John Lovallo, II, Bank of America Merrill Lynch `
+Hey, guys. Thanks for taking the call. First question is, cash burn continues to be pretty aggressive
+here. So the question is, if demand is as strong as you guys are saying really the issue is on the
+supply side, why wouldn't you raise prices in all regions to at least offset the FX headwinds? And
+the reason I'm asking that is, if you have more demand than you can handle, this won't hurt
+deliveries. It should also clearly benefit cash flow and investors and will also support the residual
+values for your current owners. So it sounds like a win-win all around. So can you just address that
+please?
+A - Elon Reeve Musk `
+Well, I mean, actually kind of think our cars is expensive as it is and it's really is – it's not a cheap
+car. I mean for a huge number of our customers it's the most expensive car they've ever bought,
+and I don't think they'd ever buy a car that cost $100,000. So I'm reluctant to raise that price, and
+as we start running into sort of fundamental affordability limits. And I mean as it is, we are
+expecting to be significantly – have significant good positive cash flow in kind of the latter half of
+the year. So yeah, I mean there'll be a sort of a short-term dip, but it's going to be quite positive
+at the end of the year and going into 2016 even more so.
+A - Deepak Ahuja `
+And I think that's completely linked to a major product launch, especially in the automotive
+industry you have to invest in the CapEx for manufacturing capacity and then the cash flow comes
+through when you launch.A - Elon Reeve Musk `
+Right.
+Q - `John Lovallo, II, Bank of America Merrill Lynch `
+Just to be clear on that, when you say you're going to be cash flow positive by the end of the
+year, that's after CapEx?
+A - Deepak Ahuja `
+Yeah, that is our expectation and I think we've got to here focus on the long-term, right? This is a
+short-term issue in terms of timing of CapEx versus revenue.
+A - Elon Reeve Musk `
+Yeah, but to answer your question, yes, even in the face of significant CapEx we expect to be
+cash flow positive in Q4.
+Q - `John Lovallo, II, Bank of America Merrill Lynch `
+In Q4, okay.
+A - Elon Reeve Musk `
+I mean it'll happen somewhere in late Q3, but it'll be reflective most clearly in Q4.
+A - Deepak Ahuja `
+And it will include the volume production of Model X.
+A - Elon Reeve Musk `
+Yeah, exactly. We've got to get the Model X and – we had a ton of CapEx related to Model X.
+A - Deepak Ahuja `
+Exactly.
+A - Elon Reeve Musk `
+And we must have invested in a bunch of things that actually are volume numbers that are really
+better associated with Model 3, so that our $0.25 billion paint shop upgrade is intended to be
+able to handle 10,000 cars a week.
+Q - `John Lovallo, II, Bank of America Merrill Lynch `
+Okay. Thanks. And then the next question is there has been a lot of discussions about persistent
+drive train issues, I mean we've heard everything from different customers from persistent
+humming noises to complete failures. So the question is I mean how pervasive is the drive train
+issue? What is the cost to replace a drive train? And I was a little surprised to see that the
+warranty reserves would not move up quarter-over-quarter.
+A - Elon Reeve Musk `Yeah. I think there's a (28:57) that it's not quite as bad as (29:00) certainly, I mean for most
+people, they don't experience any drive train issue at all. But there was a period of time, like
+basically for like a month or two months, about a year ago where (29:24), but the application of
+grease on the spline of the motor was incorrect, and that caused the spline to wear out and strip
+the spline on the drag-in (29:38) on the motor. So then that particularly affected Sports (29:43)
+and unfortunately it happened to coincide with a whole batch of cars headed for Norway. So
+unfortunately it disproportionately affected Norwegian customers, which we've taken great pain
+to try to address. Essentially, what it amounts to fix that issue (30:04) was just to, you've got to
+pull the drive unit and then send it to get remanufactured, where we replace the rotor and
+(30:17).
+A - Jeffrey B. Straubel `
+Yeah, and maybe to the warranty – this is JB – to the warranty reserve question, we've actually
+improved quite a lot in our efficiency at repairing the drive unit. So it might be swapped for a
+given customer, but that unit doesn't get trashed, it gets repaired. The elements that need to
+get repaired are increasingly narrow....
+A - Elon Reeve Musk `
+Yeah.
+A - Jeffrey B. Straubel `
+... and we're really targeting them quite directly. Even a rotor can be repaired at this point.
+A - Elon Reeve Musk `
+Yeah. And there was a differential clunk that was causing – a differential clunk, which can actually
+be fixed with a two-part shim in the service center. So we were able to figure out a service center
+fix to address that, without even dropping drive units.
+Q - `John Lovallo, II, Bank of America Merrill Lynch `
+Okay. And then...
+A - Jeffrey B. Straubel `
+(31:02).
+Q - `John Lovallo, II, Bank of America Merrill Lynch `
+Yeah, I'm sorry, go ahead.
+A - Jeffrey B. Straubel `
+All the new units being built today, of course, get all these fixes proactively, so.
+A - Elon Reeve Musk `
+Yeah.
+A - Jeffrey B. Straubel `
+As we learn, the new product improves.Q - `John Lovallo, II, Bank of America Merrill Lynch `
+That's helpful. And then finally, Elon, I just wanted to ask you about your comment about GAAP
+profitability not being reached until 2020. And I know you guys say that the non-GAAP way is the
+way to think about it, and I'm not disagreeing with that here. But what I'm suggesting is that, if
+there's not going to be GAAP profitability until 2020 and we kind of walk down from the Street's
+consensus non-GAAP number to a GAAP number by adding back stock comp, adding back non-
+cash interest expense, and making an assumption on the leasing, my estimates would suggest
+that Street estimates are 30% to 60% too high, because the GAAP component of that non-GAAP
+number would need to be eliminated. So if you guys could just help me think about if that math is
+incorrect, and more importantly, what is the path to profitability for Tesla?
+A - Elon Reeve Musk `
+Sure. I think people read too much into that – my comment because I was asked, when do I think
+Tesla will have full year GAAP profitability, but then you get into this residual value guarantee
+question, do we continue doing that or do we not continue doing that, because half of cars are
+financed, right? So that basically chops our revenue in half in a lot of cases.
+A - Deepak Ahuja `
+And leasing as well.
+A - Elon Reeve Musk `
+And then leasing. So it's like leasing and residual value guarantee are half the cars that would
+basically naturally affect the revenue recognition. And then it is just sort of a quarter basis or is it a
+full year. So I think – that's why I said okay, well, probably 2020 for the full year and it's GAAP. What
+that actually means is that Tesla's free cash flow is incredible in 2020. It's able to overwhelm even
+the non-GAAP stuff. So, I think people didn't understand that what I said was an extremely
+optimistic, not a pessimistic, statement.
+Q - `John Lovallo, II, Bank of America Merrill Lynch `
+Okay. Thank you, guys.
+Operator
+Our next question comes from Ben Kallo with Robert W. Baird. Your line is open.
+Q - `Ben J. Kallo, Robert W. Baird & Co., Inc. (Broker) `
+Hey. Thanks for taking my question. A couple of different ones, the first, a lower level one, as far
+as the X goes in timing, could you just talk about, I know you reiterated deliveries in Q3 and just
+your confidence level around that? And then maybe, one of the questions we get a lot is, if we
+extend that to the Gen III and your 2017 timeframe, can you just talk about the work you're doing
+there and how confident you are in getting to that timeline?
+A - Elon Reeve Musk `
+Yeah. That's a fair criticism, (34:09) criticism. This feels a bit like Zeno's paradox here, we're sort
+of halfway there at any given point. But, really, the X design is done, so it's just a question of
+tooling and supply chain at this point and then making sure, as we do the ramp-up on X, that our
+quality is excellent. It doesn't do any good to – obviously, we (34:42) have a really greatexperience. We don't want to have them have any sort of issues or problems. And it's really, at
+this point, like I said, it's just tooling and supply chain, and we're trying to make that go as fast as
+possible. So we're highly confident of delivering our first customer cars this summer, and then
+spooling up to significant volume in Q4.
+Now, with respect to Model 3, we don't want the delays that affected the X to affect the Model 3.
+And we're really taking, we're being quite conscientious about this. And there are things that we
+could do with the Model 3 platform that are really adventurous, but would put the schedule at
+risk. So what we're going to do is, we're going to have something that it's going to be an
+amazing car, but it won't be the most adventurous version of the Model 3 to begin with. But we
+will then have the more sort of – the more different version of the Model 3 on the Model 3
+platform following the initial version, so that we can stay on track for Model 3. We got quite
+adventurous with the X, and we don't want to be – that would be too risky, given the Gigafactory
+and everything sort of has to happen on time. We're not going to go super crazy with the design
+of the initial version of the Model 3. So I do feel confident that we can make that happen in the
+second half of 2017.
+Q - `Ben J. Kallo, Robert W. Baird & Co., Inc. (Broker) `
+Great.
+A - Elon Reeve Musk `
+As long as we stick to those principles.
+Q - `Ben J. Kallo, Robert W. Baird & Co., Inc. (Broker) `
+Great. And a question on innovation and releasing new features; what did you learn from the
+dual-motor, as far as timing of new releases and how that impacts demand and how you do that
+going forward? I know you guys are constantly innovating on the car. But does that disrupt
+demand at all? And how do you do that, that you don't specifically do in model years, big
+advances?
+A - Elon Reeve Musk `
+Yeah. This is a problem that we struggle with. It's really tricky, because we basically have one car
+with variations. This would be much easier if we had different cars. And so, it's tough for us to
+announce, way in advance, that there's going to be some new version of the car, because then
+we're like worried about starting near-term sales while people wait to see what it is. So it's a real
+tricky thing. And then also, it's difficult to forecast the exact demand; since you haven't told
+people about the car, we really have to guess like, okay, how many people want the P85D? We
+have no idea. It turns out a lot, okay. It turns out really a lot. So then it was, oh, we have too much
+demand for the P85D and now we're going to figure out how to do that. And then like how many
+people are going to pick the next-gen seats? As it turns out, also a lot. So we couldn't make
+enough seats. So I mean, I'd love to figure out how to be less stupid about this in the future. But
+yeah.
+A - Jeffrey B. Straubel `
+I think one thing in particular that we're working toward is to be sure that we're really ready to
+meet the production demand at a much higher percentage mix as we announce something new
+or an innovative new feature and that's definitely I think a lesson we learned.A - Elon Reeve Musk `
+Yeah. Agreed.
+Q - `Ben J. Kallo, Robert W. Baird & Co., Inc. (Broker) `
+Great. And my last one is on the storage side of the business. Can you just talk about any
+developments there, we've heard some utilities looking for RFPs for utility scale projects, are you
+guys at a position where you can start bidding on those RFPs or entering those RFPs? Just give us
+an update there. Thanks, guys.
+A - Elon Reeve Musk `
+Yeah, the stationary storage?
+Q - `Ben J. Kallo, Robert W. Baird & Co., Inc. (Broker) `
+Yeah, stationary storage.
+A - Elon Reeve Musk `
+Yeah, so for basically dry battery packs, we're bidding on a lot of RFPs already. Do you want to
+elaborate on that, JB?
+A - Jeffrey B. Straubel `
+I don't want to go into a super amount of detail on this, but you're correct. Of course, there's a
+lot of interest and a lot of utilities working in this space and we're talking to almost all of them. It's
+early-stage stuff and a lot of these projects are very far out since the procurement cycle for
+utilities is so long, but this is a business that's certainly gaining an increasing amount of our
+attention.
+A - Elon Reeve Musk `
+Yeah. We're going to do really – we're going to unveil the Tesla home battery or the sort of
+consumer battery that will be for use in people's houses or businesses fairly soon. We have the
+design done and it should start going to production probably in about six months or so. We're
+trying to figure out a date to have the product unveiling, but it's probably in the next month or
+two months. And it's really great; I'm really excited about it.
+Q - `Ben J. Kallo, Robert W. Baird & Co., Inc. (Broker) `
+Thanks, guys.
+Operator
+Our next question comes from Ryan Brinkman with JPMorgan. Your line is open.
+Q - `Ryan J. Brinkman, JPMorgan Securities LLC `
+Hi. Thanks for taking my question. Can you give us a sense for what you think your gross margin
+would have been in the quarter if not for the 1,400 deliveries that were pushed into 1Q?
+A - Elon Reeve Musk `Well, actually, maybe I'd better I say this (40:59) like – there were like a bunch of things that
+coincided because we had a whole bunch of expedited shipping because even to make those
+numbers, we had massive over time, massive expedited shipping, and then the euro was also
+falling. And if those things hadn't occurred, I mean it would be somewhere in the order of 28%.
+Maybe – yeah, somewhere around there.
+Q - `Ryan J. Brinkman, JPMorgan Securities LLC `
+Okay. That's helpful. And then just last question, I'll be quick. Is there any additional color you can
+give us on just the cadence of sales and production throughout 2015, beyond. I'm curious why the
+deliveries are expected to be flat in 1Q versus 4Q given that they should benefit from the push
+out of those holiday deliveries and why production is forecast down sequentially too given that
+the full year is guided up so much. And sort of beyond 1Q, what can you tell us in terms of when
+you expect the implied inflection to occur in 2Q or 3Q? What the catalyst is for that, whether it's a
+capacity bump-up again or Model X or something like that. Thanks.
+A - Elon Reeve Musk `
+Yeah. Absolutely. And just to clarify probably about the estimated 28%, that 28% is excluding ZEV
+credits. So if you added ZEV credits on top of that , it would be around 29% or 30% or something
+like that. So yeah, in terms of production from Q4 to Q1 being relatively flat, there's a couple of
+reasons for that. There are actually two fewer weeks of production in Q1 versus Q4. One is
+because we had to give – we wanted to and certainly so, gave people the first week of January
+off because they've been working over Christmas and New Years and Thanksgiving in a lot of
+cases. So just to give people a break, we didn't operate the factory in the first week of January,
+and it also gave us time to do some equipment upgrades. And then there's also one fewer
+production week in Q1, so it's basically minus two weeks. And then in Q1 we are focused on
+productivity improvement and laying groundwork for higher volume in the remainder of the year
+but ,obviously, if you do the math, it does mean there's going to be a fairly big scale up as you
+get towards the end of the year.
+A - Deepak Ahuja `
+And we had over 10,000 orders on hand, so it's not a demand issue that we're delivering in the
+guidance number, we had a lot of cars in transit thus we are, again, adjusting our global mix for
+deliveries.
+Q - `Ryan J. Brinkman, JPMorgan Securities LLC `
+Okay.
+A - Elon Reeve Musk `
+A lot of cars in transit, it's kind of crazy.
+Q - `Ryan J. Brinkman, JPMorgan Securities LLC `
+Thank you.
+Operator
+Our next question comes from Patrick Archambault with Goldman Sachs. Your line is open.
+Q - `Patrick K. Archambault, Goldman Sachs & Co. `Thank you. Yeah. Good evening. I just wanted to follow up actually just on some of the comments
+you made about being less adventurous for the X relative -for the Model 3, excuse me relative to
+the X and playing it a little bit safer. Can you just give us a sense of what some of these
+characteristics and features are that you might have at one point been considering for the initial
+version that may be put in place for a later model upgrade?
+A - Elon Reeve Musk `
+We can't tell you that, I mean come on. But, yeah, with the X we had the falcon wing door which is
+the first sort of double-actuating gullwing door basically, or we call it falcon wing door. Getting
+that right and making sure it works really isn't a gimmick, but is a fundamental improvement in
+utility and aesthetics of the car is extremely difficult. There's a reason other people haven't done
+those. And then the second row on the Model X is – the second row seats on the Model X are a
+piece of sculptural beauty. They're amazing. They're the nicest second row seat you've ever seen
+in any car ever. That actually might have been harder than the door. And there were some other
+things about the X that people don't know about yet. But those won't be (45:26) driving
+schedule, which will be second row seats and the door.
+So then going to Model 3, we want – I think we want to have, particularly at super high volume, it's
+something that for this feature we lose a year of production. It would make more sense to just go
+with something that we know people are going to love that's going to be incredibly beautiful and
+functional and an amazing car, and then innovates in more, I don't know, avant-garde directions
+on that platform with future iterations where we can then put aside any schedule and volume
+concern.
+Q - `Patrick K. Archambault, Goldman Sachs & Co. `
+Understood. Certainly looking forward to seeing the X. Have you guys said when – is there going
+to be any sort of advanced sort of showing of it at any auto shows or anything? Some of the
+more advanced prototype ahead of the launch that we should be looking forward to?
+A - Elon Reeve Musk `
+Because there are these sort of different features that I mentioned being intentionally obtuse,
+we're not going to show it until it gets delivered.
+Q - `Patrick K. Archambault, Goldman Sachs & Co. `
+Interesting. Okay. Okay. Just switching gears a little bit back on China, just on orders. Now, I
+understand that deliveries have been significantly impacted by a number of the issues that you've
+described. But how have orders been trending in China, especially now that you've made some
+replacements on the management side? You seem to have a solution well in hand that's being
+implemented to address some of the concerns, whether they were justified or not. How have you
+seen kind of the Model S order book track, pre and sort of post those issues?
+A - Elon Reeve Musk `
+Well, Tom has only been in charge for a short period of time, but the trend is positive already. So I
+think we see it improving every week. And there's some like elementary things that we were
+missing before like maps and directions, so the car didn't have maps and directions in China
+which is kind of important. So now it has – now it does. And we don't have like the on-board music
+player working, which we will have soon. There's a lot of functionality that's just getting addedover the software upgrades that are pretty helpful. So yeah, the trend is positive. I don't have any
+significant concerns about it right now.
+Q - `Patrick K. Archambault, Goldman Sachs & Co. `
+I mean, it had been – some had reported that orders had been coming in somewhere in the
+neighborhood of 100 a day, which obviously point to a pretty good annual run rate. And is that
+sort of at least the order of magnitude that you were trending at and that you can get back to in
+the shorter term?
+A - Elon Reeve Musk `
+The problem last year was that we had a whole bunch of speculators that basically plan to buy a
+large numbers of the cars and then resell them at a higher price, which is not something we allow,
+so it gave like an inflated sense of demand in the beginning, but it wasn't real.
+A - Deepak Ahuja `
+I don't think we were at 100 a day at any time either. I mean that would sound like 50,000 plus
+car ships in China alone demand at an annualized rate. I don't know what the source is.
+Q - `Patrick K. Archambault, Goldman Sachs & Co. `
+Okay. No, that's helpful color, though. Last one for me is just more of an accounting clarification, I
+think in one of the pages you talk about direct leasing impacting – I guess reducing, sorry, both
+non-GAAP and GAAP profitability. I think we understand why it reduces GAAP profitability; we've
+actually addressed that a lot in this call, but non-GAAP I was just wondering why that would be
+impacted?
+A - Deepak Ahuja `
+Yeah. Because we still hold title to the car and we haven't collected full cash on the car. And so
+we don't recognize those direct lease cars even in our non-GAAP financials, pretty simple.
+Q - `Patrick K. Archambault, Goldman Sachs & Co. `
+Understood. Okay. Thanks a lot, guys.
+A - Elon Reeve Musk `
+Yeah, but as I mentioned that – we can always free up that cash by securitizing our internal leases
+and/or by just getting warehouse loan facility. So yeah, the important point is that our – I guess
+what I would consider our real revenue is actually higher than our non-GAAP revenue because of
+the internal leases.
+Q - `Patrick K. Archambault, Goldman Sachs & Co. `
+Got it. Okay. Great. Thanks a lot, guys.
+A - Elon Reeve Musk `
+I mean – vehicles delivered to customers is really the key metric that I focus on. We don't give
+people a car unless they pay for it. They pay for it somehow. And the average price per car is
+pretty obvious. So that's really the key number.Q - `Patrick K. Archambault, Goldman Sachs & Co. `
+All right. Thank you.
+A - Elon Reeve Musk `
+Thanks.
+Operator
+Next question comes from Rod Lache with Deutsche Bank. Your line is open.
+Q - `Rod A. Lache, Deutsche Bank Securities, Inc. `
+Hi, everybody. I apologize if this has been answered. I had some phone problems here. But I was
+hoping you might be able to help us with what you see as the run rate of sales for Model S right
+now, and that bridge to the 55,000. Should we look at the 40,000 deliveries? Or maybe it's
+46,000 if you annualize what you did and add in the delayed Model D. Is that a run rate? And
+then to get from here to 55,000, where is China now? Where does it need to be? And what
+actually are you including for the Model X this year?
+A - Elon Reeve Musk `
+Yes. So I should correct. Even if our sales in China were zero this year, zero, I'm still confident we
+can do the 55,000 cars. They won't be zero. So as far as what the mix is between S and X, it's
+really tricky. I wish I could tell you with accuracy, but it really depends on how the production ramp
+goes with the X when we start up this summer. And even small changes in that ramp can have
+quite a dramatic effect on X production.
+A - Deepak Ahuja `
+Especially for the calendar year because it's later.
+A - Elon Reeve Musk `
+Exactly.
+A - Deepak Ahuja `
+Long term makes no difference.
+A - Elon Reeve Musk `
+Yeah, exactly. And if we're producing I would say 800 Xs a week, and several weeks is like
+several thousand cars. So it's just really tricky to predict it from – like it'd be much easier to predict
+like next year. Assuming people like the car, that's where you'd start to see, I don't know, 40,000
+– 30,000 to 40,000 at least. Maybe 50,000. I don't know. Call it 30,000 to 50,000 Xs next
+year.
+Q - `Rod A. Lache, Deutsche Bank Securities, Inc. `
+Okay. And clearly up until now, as you've pointed out, you've been able to hit all these numbers
+without any advertising and marketing.
+A - Elon Reeve Musk `And no endorsements, and no discounts.
+Q - `Rod A. Lache, Deutsche Bank Securities, Inc. `
+Right. To get...
+A - Elon Reeve Musk `
+So we haven't paid anyone to pretend that they like our car.
+Q - `Rod A. Lache, Deutsche Bank Securities, Inc. `
+Right.
+A - Elon Reeve Musk `
+Which is a very important point.
+Q - `Rod A. Lache, Deutsche Bank Securities, Inc. `
+And no franchise dealers, and all these things that people had said that you might need to do,
+you've been able to do it without any of them.
+A - Elon Reeve Musk `
+Yeah.
+Q - `Rod A. Lache, Deutsche Bank Securities, Inc. `
+But I'm just curious about kind of longer term, to get to the volume objectives that you are
+looking for this year and beyond, are all of those, in your view, achievable while avoiding the
+franchise dealer model? While holding back on advertising and marketing? And while – in some
+cases even raising prices, for example, in Europe, to adjust for currency? Are any of those
+impediments to the demand objectives that you have? And would you modify the strategy in any
+way to achieve these volume numbers?
+A - Elon Reeve Musk `
+I think we're going to be okay on the demand side for this year. I mean, maybe something
+changes next year, but I think we'll be okay. And I don't think we're going to have to do a bunch of
+advertising or throw in the towel with the dealers, or anything like that, this year. And then
+discount the cars or anything like that. So in fact, I do want to emphasize that, whenever you see
+like a celebrity or some prominent person driving our car, they all paid full retail. There was no
+discount, we didn't give them the car; they're buying the car and they're driving it because they
+really believe in the car, not because someone paid them to pretend that they do. So I've already
+given (55:42) credit for the people that have bought the car. So yeah. There's – I think we – I do
+have sort of a secret weapon on the demand side that probably starts to deploy later this year,
+for demand generation. And we'll see how that goes. It isn't totally necessary, but I think it could
+be pretty interesting and a good weapon against the dealers.
+Q - `Rod A. Lache, Deutsche Bank Securities, Inc. `
+Okay. And just one last question I had, you mentioned in your letter that the margin was
+pressured half by revenue and half by cost factors. The FX part of this was pretty clear, there wasa comment in there about deferred auto pilot revenue. Can you just explain, maybe just
+elaborate a little bit on what you meant actually, in that description of the margin variance?
+A - Deepak Ahuja `
+On that particular one, Rod, we announced several features that the auto pilot functionality or
+hardware will deliver. Those features, although the hardware is in the car, some of them will get
+activated through software releases later this year. And so, based on the different (57:16) aspect
+of revenue, for accounting, we had to defer some of that revenue into 2015. And I think it's as
+simple as that, yeah.
+Q - `Rod A. Lache, Deutsche Bank Securities, Inc. `
+Okay. And that variance was versus the 28% original objective? Or is that versus – what was that
+comparison against?
+A - Deepak Ahuja `
+That was, yeah, it's part of that, because we had to figure out the accounting for it, work through
+the whole thing and, as we deferred a significant amount there, that had an impact to our
+otherwise delivered car gross margin that would have been there.
+A - Elon Reeve Musk `
+It's like in the order of 0.5% or something like that.
+A - Deepak Ahuja `
+Yeah, that's right.
+A - Elon Reeve Musk `
+Maybe 0.5% to 0.7% or something.
+A - Deepak Ahuja `
+Yeah.
+A - Elon Reeve Musk `
+But most of that deferral will be taken care of this quarter with the software release next month,
+which will add a bunch more functionality to the car. Right now, I'm really excited about the
+software release we have planned for next month. There's a bunch of features in it that are going
+to positively affect the entire fleet and then of course, would add normal autopilot capability.
+A - Deepak Ahuja `
+Yeah, to be frank.
+A - Elon Reeve Musk `
+Yeah. It's going to be just a really, really good release.
+Q - `Rod A. Lache, Deutsche Bank Securities, Inc. `
+Okay. Thank you.A - Jeffrey K. Evanson `
+Patrick, before we go to the next questioner, I just want to do a time check with you, Elon. We're
+coming up on the hour mark. We have several more questioners in the queue.
+A - Elon Reeve Musk `
+Yeah, we can keep going.
+A - Jeffrey K. Evanson `
+Okay. All right, Patrick.
+A - Elon Reeve Musk `
+My 5:30 call was canceled.
+Operator
+Our next question comes from Dan Galves with Credit Suisse. Your line is open.
+Q - `Daniel V. Galves, Credit Suisse Securities (USA) LLC (Broker) `
+Hey, thanks. Good evening. I just had a question on the delivery guidance. If you adjust that for
+additional in-transit vehicles, I'm just trying to get a sense of whether you feel like that's your best
+guess on your max production for 2015 because my sense, coming into the year around 1,000 a
+week is, you could produce a lot more than that. So I'm just getting a sense of, what part of that
+is demand-constrained and what part is production-constrained?
+A - Elon Reeve Musk `
+Well, we're all going to try to do a little better than the 55,000 number. So we're saying 55,000-
+plus, but we are going to try to do a little better than that. But it is as I mentioned, (59:58) it's just
+really dependent on how the X ramp goes, that that can have quite a – if it happens later –
+depending on how long (1:00:07) it takes to spool out, (1:00:07) that could affect the delivered
+number quite significantly. Also, where it said delivered, you've got to also factor in that there's a
+lot of cars on ships.
+A - Deepak Ahuja `
+Correct. There's a gap in production and delivery times.
+A - Elon Reeve Musk `
+Yeah.
+A - Deepak Ahuja `
+And then we need to consider, there could be disruption during launch of X and so, when you're
+looking at that broad number of 55,000 over the year, there are things we need to consider
+through the year, what happens.
+A - Elon Reeve Musk `Yeah. 55,000 is a number we're pretty comfortable with achieving on deliveries and yeah, and
+we are (1:00:47) necessarily making a conscious decision to focus on productivity this quarter, not
+just on ramping production...
+A - Deepak Ahuja `
+That's for stability, just for stability.
+A - Elon Reeve Musk `
+Yeah, production stability. In order to get that efficiency, we need to be building a firm foundation
+before future growth. And if we're just in a helter-skelter production ramp, trying to just grow
+production numbers, it really hard to get productivity and fix the foundational elements. So the
+conscious decision this quarter to say, okay, but we better improve our core productivity. And
+we're running out of parking spaces, literally, so our Fremont plant is pretty big and it's hard to
+park. So we need to get these productivity improvements in place so we can grow our production
+volume without proportionately growing head count.
+Q - `Daniel V. Galves, Credit Suisse Securities (USA) LLC (Broker) `
+Okay, that makes a lot of sense. And then, just one kind of housekeeping question on the – you
+put the chart at the beginning of the shareholder letter with a revenue guidance for 2015. Is there
+anything in there for trade-in sales, for used car sales and do you have any sort of sense of what
+type of drag on gross margin sale of trade-ins will be?
+A - Deepak Ahuja `
+There is a small amount of that and we are just getting into that business now and our goal is
+certainly not to make that same kind of money on our used cars.
+A - Elon Reeve Musk `
+But used cars also affect the capital, we don't have any capital in them really. So you have a
+turnaround capital that's all..
+A - Deepak Ahuja `
+Yeah.
+A - Elon Reeve Musk `
+So it's actually like the used car margin is actually it's on a ROI basis extremely good.
+A - Deepak Ahuja `
+Right. When the dealers do make a lot more gross margin on used cars than new cars and that's
+not our intention. But I think the ROI is really good for us.
+A - Elon Reeve Musk `
+Yeah. We're going to separate that out so we can see new car gross margin versus used cars so
+there's some other things.
+A - Deepak Ahuja `Yeah, which brings up a good point that as we said – towards the end of our shareholder letter
+starting for 2015 financials we're going to show our income statements slightly differently where
+automotive revenues and cost of goods sold is truly new car sales. And then we have services
+and other section of the income statement that has all these other things, including trade and...
+A - Elon Reeve Musk `
+So we'll break it out to you so you can see clearly like what's new Model S gross margin, what's in
+used, what's other things.
+Q - `Daniel V. Galves, Credit Suisse Securities (USA) LLC (Broker) `
+Yes. Very appreciated. Thanks.
+A - Elon Reeve Musk `
+All right.
+A - Deepak Ahuja `
+Thanks, Dan.
+Operator
+Our next question comes from Trip Chowdhry with Global Equities Research. Your line is open.
+Q - `Trip S. Chowdhry, Global Equities Research LLC `
+Thank you. Two quick questions. We see a lot of similarity between Apple and Tesla. Both
+companies go for perfection, performance and design. But we don't see Apple making a $30
+iPhone. I was just wondering. Instead of focusing on Model 3 and we just focus on same Model S
+and Model X, but make them even better and just focus on increasing the range to say 400
+miles, 450 miles. You already have the Roadster at 400 miles now. I think that will make...
+A - Elon Reeve Musk `
+Well, not quite 400 miles, Trip.
+Q - `Trip S. Chowdhry, Global Equities Research LLC `
+Tesla very differentiated.
+A - Elon Reeve Musk `
+The Roadster is sort of more like 360 miles, but close to 400 miles, yeah, with the upgrade. It's
+capable of doing LA to San Francisco, but yeah. So yeah – but I mean the goal at Tesla from the
+beginning has always been to accelerate the advent of sustainable transport and to make electric
+cars happen much faster than what always been the case. So in order to do that we have to make
+lots of cars, and we need to make them a heck of a lot more affordable than the S and X are
+today. Even with the Model 3 though, I mean it is sort of a mass market premium car. It's not a –
+it's still premium, but it's a mass market premium. I mean, at 35K, it's not – it's above average
+price.
+A - Jeffrey B. Straubel `Yeah. I think it's also not an either/or decision. We definitely will keep making the S and X better,
+and will keep improving that platform really as much as the technology will allow. So we'll go in
+both of those directions.
+Q - `Trip S. Chowdhry, Global Equities Research LLC `
+Perfect. Thank you.
+Operator
+Our next question comes from Andrew Fung with CLSA. Your line is open.
+Q - `Andrew L. Fung, CLSA Americas LLC `
+Thanks for taking my question. So the Gigafactory seems to be making some good progress in
+terms of the construction. Could you provide an update on how the development of the battery
+supply chain is progressing? And perhaps any notable challenges or perhaps positive surprises
+that have occurred with that process?
+A - Jeffrey B. Straubel `
+Sure. I can take that one. This is JB. So far we've been pretty pleased with the supply chain
+developments. We're spending a lot of time visiting more and more of the supply chain partners,
+and understanding and learning about all those different markets. That learning is progressing
+quickly and I think we're getting a much more clear picture of exactly how we will achieve the cost
+reductions we've talked about. I don't want to go into too many specifics on exactly sort of what
+we've learned in which places, but I'd say there is a lot, maybe more incremental positivity on
+some of the commodities and some of the ways that I think we can secure and procure pricing on
+some of the larger commodity prices that go into the sale (1:07:01).
+Q - `Andrew L. Fung, CLSA Americas LLC `
+Great. And any sense of when you guys may announce additional either suppliers or partners for
+the Gigafactory?
+A - Jeffrey B. Straubel `
+We want to be a little bit cautious about doing that too soon. There's obviously a lot of work
+going on in discussion with all of those partners, but I think we just – we want to be careful to
+make sure that all the agreements and decision on the – where the partnership is headed is very
+clear. So we'll wait until it's really done and ready to announce.
+Q - `Andrew L. Fung, CLSA Americas LLC `
+Great. Thank you.
+Operator
+The next question comes from Andrea James with Dougherty & Company. Your line is open.
+Q - `Andrea Susan James, Dougherty & Co. LLC `
+Thanks for taking my follow-ups. Why didn't you guys promise the Roadster 3.0 this year?
+A - Elon Reeve Musk `It's just a long-standing obligation we have, right. It's not something that economically is a win for
+us, but it's just an obligation to our early adopters of Tesla. We said we'd provide a significant
+upgrade to the Roadster, and that's what we're doing. And yeah. I think it's okay. I mean, it's not a
+big thing one way or the other. Slightly economically (1:08:30) Tesla.
+Q - `Andrea Susan James, Dougherty & Co. LLC `
+And so if I read through on the range, communication on the Roadster 3.0 and I just apply that
+sort of same range gain to the Model S, I guess I get a 350 mile to 400 mile range Model S by
+say 2017. Is that the right – I mean is that kind of – is all the gains there translatable?
+A - Elon Reeve Musk `
+Still it's difficult to put an exact time on it. Like 2017, probably not in 2017. At some point, yes. I
+don't know if that will 2017, if it's not 2017, it might be say 2019 or 2020 or something like that. But
+it's more than a good model (1:09:18). We can make the Model S go 400 miles today if we
+wanted to by just increasing the pack size. So...
+Q - `Andrea Susan James, Dougherty & Co. LLC `
+Right. I meant at the same cost, same pack cost, say give it $22,000 pack will be 400 mile range
+the next couple years, but that seems as a bit too aggressive.
+A - Elon Reeve Musk `
+Next couple of years will be too aggressive. If you go five years out that might be the case. And
+that's not a prediction that's just speculation. But I'd say it's not two years, but it might be five
+years.
+Q - `Andrea Susan James, Dougherty & Co. LLC `
+Okay. And then just I feel like we should just generally ask you your thoughts on oil; although, it's a
+pretty broad question, so maybe just general thoughts on oil, but more pointedly what it does to
+the residual value of the cars? And then also maybe the corresponding offset with lifting the value
+of the ZEV credits as more gas-guzzling cars are sold? I don't know. There you go.
+A - Elon Reeve Musk `
+Well, as far as oil is concerned I mean I'm not an expert on oil business. But obviously, fracking has
+massively increased the available oil reserves worldwide. Fracking is also more expensive than
+standard oil drilling, so there's sort of a cost of doing it that sets a floor on fracking. But man, it's
+really anyone's guess as to what happens with the oil prices long term. Demand is certainly I think
+is going to increase, sort of like how well is the supply going to match that. For sure, oil
+companies are going to be scaling back their investments in new oil fields massively with the low
+price of oil today. So expect that – I would expect that.
+Q - `Andrea Susan James, Dougherty & Co. LLC `
+But as it translates to the impact on demand for your vehicles, and then also the residual value of
+those vehicles?
+A - Elon Reeve Musk `It certainly has some effect, but I wouldn't say it's – it's not a dramatic effect. I mean, I'd call it a
+moderate effect. And I'm not – it's not changing any of my projections. Look at it that way.
+Q - `Andrea Susan James, Dougherty & Co. LLC `
+Thank you.
+A - Elon Reeve Musk `
+Okay.
+Operator
+Thank you. This ends our Q&A session today. I'll turn it back to management for closing remarks.
+A - Jeffrey K. Evanson `
+Thank you, everyone, for joining us a few hours later. Obviously, though, it was important to get
+the launch off, and so thank you and goodnight.
+Operator
+Ladies and gentlemen, thanks for participating in today's program. This concludes the program.
+You may all disconnect.

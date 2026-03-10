@@ -1,0 +1,674 @@
+Q4 2017 Earnings Call
+
+Presentation
+Operator
+Good morning. My name is Jamie, and I will be your conference operator today. At this time, I
+would like to welcome everyone to the Teradyne Fourth Quarter 2017 Earnings Conference Call.
+(Operator Instructions)
+Thank you. Mr. Blanchard, you may begin your conference.
+`Andy Blanchard, Vice President of Corporate Relations `
+Thank you, Jamie. Good morning, everyone. And welcome to our discussion of Teradyne's most
+recent financial results. I'm joined this morning by our CEO, `Mark Jagiela, President, Chief Executive Officer, Director; and CFO, Greg Beecher.
+Following our opening remarks, we'll provide details of our performance for 2017's fourth quarter
+and full year, along with outlook for the first quarter of 2018.
+The press release containing our fourth quarter results was issued last evening. We're providing
+slides on the Investor Page of the website that may be helpful to you in following the discussion.
+Replays of this call will be available via the same page after the call ends.
+The matters that we discuss today will include forward-looking statements that include risk factors
+that could cost Teradyne's results to differ materially from management's current expectations.
+We encourage you to review the safe harbor statement contained in the earnings release as well
+as our most recent SEC filings.
+Additionally, those forward-looking statements that are made as of today -- are made as of
+today, and we take no obligation to update them as a result of developments occurring after this
+call.
+During today's call, we'll make reference to non-GAAP financial measures. We've posted
+additional information concerning these non-GAAP financial measures, including reconciliation to
+the most directly comparable GAAP financial measures, were available on the Investor page ofour website. Also, between now and our next earnings call, Teradyne will be participating in
+investor conferences hosted by Goldman Sachs, Morgan Stanley, Citi and Susquehanna.
+Now let's get on with the rest of the agenda. First, Mark will comment on our recent results and
+the market conditions as we enter the new year. Greg will then offer more details on our quarterly
+and full year financial results, along with our guidance for the first quarter. We'll then answer your
+questions, and this call is scheduled for one hour. Mark?
+`Mark Jagiela, President, Chief Executive Officer, Director `
+Good morning, everyone, and thanks for joining us. In my remarks today, I'll provide a brief
+summary of 2017, share additional insights on our strategy, then describe our 2018 outlook for the
+markets we serve and close with comments on our capital allocation plans. Greg will then take us
+through the financial details.
+The fourth quarter capped off a strong year for Teradyne. Sales were up 26% compared with the
+year-ago quarter, and non-GAAP EPS was up 44%. All business segments showed double-digit
+sales growth over the fourth quarter of 2016.
+In SemiTest, our Memory Test shipment hit record levels in the quarter, which we are set to
+exceed again in Q1. SOC sales in the quarter were also strong with Eagle Test and service
+revenue up 29% and 20%, respectively.
+Universal Robots sales were up 61% compared to the year-ago quarter, as shipments to the Asia-
+Pacific region, in particular, exceeded our forecast. For the full year of 2017, Teradyne sales grew
+22%, and non-GAAP earnings per share grew 55%. A healthy growing test business, combined
+with an exciting hyper-growth collaborative robot business, resulted in Teradyne breaking the $2
+billion revenue mark and exceeding our $2 EPS target three years ahead of plan.
+Market leadership with differentiated products and a disciplined financial model have allowed us
+to grow with high leverage to the bottom line. Over the last 10 years, we've methodically grown
+our share of the combined SOC and Memory Test market from 24% to about 50% while
+improving gross margins. We've taken a disciplined approach of targeting the attractive growth,
+subsegments of the market. Focusing on technology inflections and market shifts in mobility,
+automotive and flash memory paved the way for these gains. This will continue to be our game
+plan going forward.
+The ongoing increase in device complexity from advancing transistor count, multifunction cores
+and advanced packaging, combined with shorter time to market and shorter device lifecycles,
+have been a balloon for the SOC test market. Here the diminishing value of increasing parallelism
+in test has changed the trajectory of the overall market to sustained growth. This doesn't suggest
+a smooth monotonic market growth in test. We expect it will continue to be tooling cycles yielding
+both quarterly and annual volatility. However, the overall trend line is positive.
+In addition to complexity growth, new technologies are making their way into the market that
+create additional opportunities for test. One example is millimeter-wave technologies, which are
+in development for mainstream deployment in a variety of communications applications as well
+as vehicular radar. Another example are emerging LiDAR and Time-of-Flight sensors and various
+positioning technologies. These technologies require a new class of test equipment that will
+create growth segments well into the next decade.
+In memory, on top of bit growth, we are seeing increased diversification of application-specific
+memories. This diversification tends to center around a variety of interface protocols that both upthe test intensity and provide the opportunity for Teradyne to differentiate our products. Over
+the past three years, our Magnum Memory Tester has capitalized on the shift to high-speed
+interfaces for the final testing of flash memory devices, driving us to the number one position in
+this segment.
+While we continue to ride that wave, in 2018, we are also expanding our served market by
+extending the Magnum platform to wafer test. While Teradyne's R&D teams are focused on
+creating instrumentation to test these interesting new technologies, a large part of our
+investment goes into the software for our testers. Importantly, our software focuses on reducing
+the complexity of testing these new technologies. Over time, our software gets stitched into the
+fabric of our customers' development environment to allow their design teams a seamless,
+efficient, time-to-market advantage.
+With design cycles ever shorter and ramps ever steeper, having the software toolkit to allow
+global teams to develop and release reliable test programs, is another key advantage of
+Teradyne. Like Universal Robots, we continue to expand our applications and ease-of-use
+through our open architecture, Universal Robots plus program. With over 55 certified product
+enhancements and more added every month, customers are enjoying a growing toolkit of
+options to put our UR Cobot into widening applications. At UR, we do what we do best, focused
+on creating the world's best Universal cobot army and the best intuitive user interface. We then
+open that architecture to invite the creativity of a global ecosystem of developers to create plug-
+and-play add-ons.
+Additionally, while rising labor cost and labor scarcity improve the economics of automation, the
+value proposition of collaborative robots is much more than just lowering costs. For example, in
+December, we established operations in Bangladesh, aiming to leverage the success we've seen
+in the Indian, Sri Lankan and other low-cost markets where customers value the repeatability and
+accuracy of our cobot, resulting in higher-quality manufacturing and less rework. At the other end
+of the spectrum, the value of repeatability, accuracy and speed is also evident in our project
+underway at NASA's Langley Research Center. To speed up and improve the inspection of
+aircraft composite structures, our cobot is used to create an inspection pattern that doesn't miss
+any areas. Using our UR 10 cobot with a third-party infrared inspection system and software from
+a Universal Robots plus partner, a single operator can oversee the inspection of complex,
+composite structures such as aircraft fuselages. Additionally, the UR 10's built-in safety features
+allow people to work closely alongside the cobot whilst inspecting the aircraft. That allows other
+inspections or manufacturing processes to take place during the infrared inspection, which
+improves the efficiency and saves time. Closer to home, not only are UR cobots used to make
+new UR cobots, our SemiTest contract manufacturing partner has extended that practice to some
+of the assembly tasks in building our own UltraFLEX Semiconductor Test product.
+In Wireless Test, LitePoint had a strong year in a weak production test market. We returned to
+model profitability, began early production ramp of our 802.11ax product and delivered initial
+millimeter wave and sub-6G testers for 5G cellular. While we are about a year away from the
+impact of 802.11ax and about two years away from the beginning of the 5G ramp, we've been
+active in positioning our next generation of production-focused testers for the 5G era.
+Turning to market outlook. As a baseline in 2017, we saw a combined SOC and Memory Test
+market of about 3.35 billion, up from 2.8 billion in 2016. The 2017 SOC Test market was about
+2.65 billion, and the Memory Test market was about 700 million. On top of that, we added about
+two points of share to reach 50% share of the overall market. Our view of 2018 has strengthened
+slightly since our October preview. We now see the SOC Test market in the range of 2.4 billion to
+2.8 billion and the memory market in the range of $700 million to $800 million. Additionally, theannual spring and summer ramp for mobility tooling looks to be about four weeks later than
+recent years, resulting in a shift of some revenue to later in 2018. As a result, unlike the past two
+years where the first-half sales were about 55% of annual sales, this year we expect first-half
+sales to be more like 2015 when we shipped 52% in the first half.
+At Universal Robots, our aggressive strategy has yielded accelerating annual growth, 58% in '15,
+62% in '16, 72% in '17. We are delighted in the progress we are making, and we continue to add
+staff, distributors, integrators and ecosystem partners to give us an even broader reach across
+more end markets in more regions of the world. While we'll invest more in operating expenses,
+we also expect operating profits remain in the mid-to-high teens. Our goal remains to grow at
+50% or better in 2018. In Wireless Test and System Test, we see 2018 as essentially flat with 2017.
+Finally, I'd like to give you a high-level view of our capital allocation plans for 2018. As we've said,
+we plan to maintain a balanced approach to capital allocation, consistent of dividends, buybacks
+and disciplined M&A. The strength of our test business over the past several years has enabled a
+consistent approach, and a growing industrial automation business gives us a platform for
+investment. Tax reform gives us some additional flexibility in how we deploy our capital. As a
+result, the board has authorized a $1.5 billion repurchase program of which we plan to buy back at
+least $750 million in 2018. Furthermore, a strong outlook in our core test businesses gives us the
+conviction to increase our quarterly dividend 29% to $0.09.
+Finally, we remain committed to fully exploit and expand our leadership position we have in Test
+and Industrial Automation, and our M&A pipeline is focused on that mission.
+With that, I'll turn things over to Greg for the financial details.
+`Gregory Beecher, Chief Financial Officer, Vice President, Treasurer `
+Thanks, Mark. And good morning, everyone. I'll start with the highlights of 2017 and then offer
+comments and perspective on 2018, including our capital allocation plans and the impact of the
+newly-enacted tax laws. I'll also offer perspective on our strategic position and market trends at
+the business segment level, outline our new midterm financial model enclosed with the fourth
+quarter results and first quarter outlook.
+On the financial highlights front. As Mark noted, our $2.14 billion of sales in 2017 was up 22% from
+2016, driven by a strong ATE market, SemiTest share gains and 72% sales growth at Universal
+Robots. As a result, non-GAAP EPS was $2.34 for the year, up 55% from 2016 and exceeding our
+2020 $2 EPS target three years early. In 2017, we performed quite nicely against our key
+objectives. We've gained two points of share in SemiTest, making 2017 the sixth consecutive year
+of ATE share gains. We grew Universal Robots' top line 72%, well above the 50% threshold
+target. We had model operating performance on Wireless Test, mil-aero and Production Board
+Test.
+We also bought back $200 million of our stock at an average price of $34.30. Since the beginning
+of 2014, our balance approach to capital allocation has returned $839 million to shareholders in
+buybacks and dividends and invested upwards of $350 million to acquire Universal Robots. When
+we bought Universal Robots in 2015, its sales for its most recently completed year of 2014 were
+only $39 million. Over the subsequent three years, they've grown over fourfold, inside of
+Teradyne, with sales of 170 million in 2017.
+With the new 1.5 billion share repurchase authorization, we plan to repurchase a minimum of 750
+million of our stock in 2018. Increased quarterly dividend of 29% to $0.09 a quarter is effective
+immediately, subject, of course, to ongoing board approval. Our strong operating model andbalance sheet comfortably support these moves. On the operating model, over the last three
+years, we've averaged a 23% non-GAAP operating profit and $400 million of annual free cash
+flow. Over the next few years, we plan to steadily migrate our cash and marketable security
+balance of $1.9 billion down, while at the same time maintaining dry powder for our attractive
+M&A, subject, of course, to comparison against even more aggressive buybacks. We do see a
+number of attractive candidates in automation, particularly in software aimed at (inaudible) cobots
+into new applications.
+The newly-enacted tax laws shift from the U.S. from a global tax system to a territorial tax system,
+subject to a foreign minimum tax rate of 13.2%. As our foreign rate is estimated to be just above
+this threshold, we do not expect to be subject to this new U.S. tax. With this change, our 2000
+[ph] tax rate is estimated at 15% versus our prior estimate of 19%. However, the new toll tax on
+our accumulative foreign earnings will cost $150 million payable over eight years. Due to the lower
+U.S. Federal tax rate, we also wrote down our deferred tax assets by 34 million. These two one-
+time charges are included as discrete items in our Q4 GAAP results, but not in our non-GAAP
+results.
+Now looking at the segment level, annual highlights and trends. Starting with SemiTest, we had
+another year of ATE market share gain, adding two points to bring us to an estimated 50% share
+in 2017. These gains were in SOC Test and more than offset the few points of decline in Memory
+Test share due to short-term buying shifts. We also scored the number one spot in the VLSI
+Survey for semiconductor equipment suppliers.
+Shifting to Universal Robots. We grew sales 72% from 99 million in 2016 to 170 million in 2017.
+Universal Robots also had an operating profit rate of 19% in 2017, more than double the 9% rate
+in 2016. Teradyne supply line group delivered several gross margin points of improvement, and
+we can see further improvements as we move towards our target rate of 20% or better by 2020.
+Apart from the strong financial numbers, we strengthened Universal Robots' strategic position, as
+Mark highlighted, by growing our UR+ ecosystem platform with more grippers, vision systems
+and other cobot accessories. This online platform is another key step in making it even easier to
+deploy our cobots and deliver a faster ROI. This easy access-to-proven solution reduces
+deployment time and project risk for our customers. We also opened up UR Academy, which is an
+online interactive training platform, offered in multiple languages. Training is free, and in less than
+two hours, anyone can learn to train a UR cobot. The pattern that you, no doubt, see is that we're
+making it easier and easier to deploy our cobots. We, along with third-party research firms,
+expect 50% plus robust growth in the market for years to come, as the applications being served
+by cobots today are just scratching the surface of what's possible. There are hundreds of highly-
+repetitive tasks that are not well-suited for people. For example, some repetitive tasks require
+very high precision, such as applying exact amount of glue or ergonomically challenging, such as
+driving screws with force; or simply too tedious, such as machine tending or pick-and-place
+material handling. There are also new emerging technologies that should further extend the
+cobots-served markets such as lower-cost vision systems for more advanced pick-and-place
+applications. So the picture we see is that undesirable tedious task will be increasingly
+automated, and the human workers will be performing the higher-skilled and safer tasks. And
+while we expect capable competitors to emerge, today the challenges are much more about
+building end-user awareness. To that end, we'll have more robust digital and print awareness
+pieces along with a new digital lead generation program in 2018.
+Shifting to System Test. Our Defense and Aero and Space and Production Board Test groups
+together grew 2017 sales 4% over 2016 and operated above model profitability for the second
+consecutive year. We expect similar performance in 2018 as Defense and Aero continues tobenefit from the deployment of new weapon systems and new aircraft like the F35. While in
+Production Board Test our high throughput tester designed for high panel count applications
+continues to gain traction in the growing automotive space.
+In Storage Test, we returned to model profitability in the second half of 2017 after incurring losses
+in the first half, bringing to market a new product aimed at system level test of semiconductor
+devices. Storage Test should operate at around 60 million sales and model profitability in 2018.
+Turning to Wireless Test at LitePoint. The group rebounded very nicely from 2016, with sales
+growth of 60% and above model profitability in 2017. We expect 2018 to be similar to '17, as we
+position for a near-term market uptick, driven by the new 802.11ax wireless standard in 2019 and
+5G cellular thereafter. For the full year, at the company level, non-GAAP gross margins of 57%
+were at record levels, an improvement of two points from 2016 due to higher volume and
+favorable product mix.
+Before moving to the more granular fourth quarter numbers, I will note that after this call, we plan
+to no longer provide bookings information, as the short-term timing of order placement adds
+unnecessary noise with little-added insight to our business. I also won't cover bookings in my
+prepared remarks, but the numbers can be found in the press release and investor decks.
+SemiTest sales were 317 million in the fourth quarter, with SOC making up 250 million and
+Memory Test of balance at 67 million. SemiTest service revenue totaled 70 million. Universal
+Robots had sales of 54 million, a quarterly record. Geographically, fourth quarter UR sales were
+47% in Europe, 24% in Asia, 23% in North America and 6% in the rest of the world. Our largest
+channel partner was only 3% of our total 2017 sales. So again, we have very wide diversity.
+System Test sales were $80 million, up 125% from the third quarter due to revenue recognition of
+our new system level test product. And at wireless, sales were 28 million.
+At the company level, our fourth quarter sales were 479 million. The non-GAAP operating profit
+rate was 23%, and non-GAAP EPS was $0.46. We have now 10% customer in the fourth quarter
+and one for the full year. Non-GAAP gross margins were 57% in the quarter with favorable
+product mix. This year, our non-GAAP operating expenses were down 3 million to 160 million
+compared to third quarter due to lower variable compensation accruals on lower profits.
+Regarding our earnings power. When we set our original 2020 $2 EPS target, we conservatively
+estimate that the ATE market would grow on average 1% annually from the 2014 '15 average
+market size of $2.7 billion after many years of sequential decline. Through 2017, the actual annual
+growth rate has been much stronger at 11%, and it's a key reason why we achieved our $2 EPS
+target three years early.
+With that recent history, combined with our latest outlook, we've updated the earnings model
+target to $3.50 to $4 of non-GAAP EPS by 2021, driven by some very familiar themes. First is
+strong annual growth at Universal Robots. We've used 45% to 50% for modeling through 2021,
+which will bring Universal Robots to 750 million to 860 million in sales in the midterm. Next is
+further SemiTest growth at a more modest rate than the last few years. We've modeled 3% to
+4% growth rate from 2014 average market size and a few points of share gain through 2021.
+Finally, repurchases, model performance and modest growth elsewhere will contribute to the EPS
+goal. We've detailed the new model in our investor deck.
+Looking a bit closer in at 2018, we expect gross margins to be approximately 56% to 57%. In
+OpEx, in 2017, non-GAAP operating expenses were up 49 million versus 2016, driven principally
+by distribution investments in Universal Robots and higher variable compensation tied toincreased profitability. In our test businesses, apart from normal changes in variable
+compensation tied to profit levels, our total OpEx spending in 2017 was down slightly from 2016.
+Looking ahead to 2018, we plan to keep test OpEx flat, apart from normal changes in variable
+compensation, and to increase UR OpEx from 16 million a quarter, exiting 2017, to upwards of 30
+million a quarter by the end of 2018. These investments should strengthen both distribution and
+product development and help fuel another 50% plus growth year in 2018 and beyond.
+Shifting to our outlook for the first quarter. Sales are expected to be between 460 million and
+490 million, a 4% increase at the midpoint from the year-ago first quarter sales of 457 million.
+The non-GAAP EPS range is $0.38 to $0.45 on 200 million diluted shares. Also, please note that
+while we are confident of our full year 50% plus growth plan at UR, the first quarter revenue
+growth rate, compared with last year, will likely be lower than 50% due to the pricing-related
+changes that drove very strong demand in the first quarter of 2016.
+The first quarter guidance excludes the amortization of acquired intangibles and the noncash
+imputing interest on the convertible debt. First quarter gross margins are estimated 55%, down
+two points from the fourth quarter due to product mix. The first quarter OpEx, running at 34% to
+36% of first quarter sales, is up about $5 million from the fourth quarter due to further distribution
+and product development investments at Universal Robots and some NRE project spending in
+Semi Test concentrated in the first quarter.
+The non-GAAP operating profit rate at the midpoint of our first quarter guidance is about 20%.
+The non-GAAP interest income, excluding the noncash imputed interest from the convert, is
+expected to be about 2.25 [ph] million in 2018, factoring an interest income on our cash balances,
+partially offset by the 1.25% annual coupon from the convertible debt. In 2018, we earmarked 80
+million to 100 million for CapEx.
+We start 2018 with strong -- very strong momentum after achieving our $2 2020 EPS target three
+years early and our forging a path to $3.50 to $4 of EPS by 2021. Rising device complexity, IC unit
+growth and increasing quality requirements are driving SemiTest. For Universal Robots, is
+expected to grow at 50% plus for years to come, our Wireless Test business is back to healthy
+profits and position for the next demand wave, and we expect healthy performance in System
+Test. And on top of that, increased shareholder returns with our new $1.5 billion share repurchase
+program and a 29% increase to our quarterly dividends and the future of Teradyne looks quite
+bright.
+With that, I'll turn the call back to Andy.
+`Andy Blanchard, Vice President of Corporate Relations `
+Thanks, Greg. Jamie, we'd now like to take some questions. (Operator Instructions)
+Questions And Answers
+Operator
+Thank you. (Operator Instructions) Our first question is from `Toshiya Hari, Analyst, Goldman Sachs with Goldman Sachs.
+Q - `Toshiya Hari, Analyst, Goldman Sachs `
+Mark, you made a slight change to your 2018 SemiTest market outlook. Today -- I guess, what
+were some of the developments you saw over the past three months that led to that change?
+And if you can talk a little bit about some of the subsegments within SOC, mobility, automotive,
+image sensors, et cetera, that will be helpful. Thank you.A - `Mark Jagiela, President, Chief Executive Officer, Director `
+Okay, sure. So since November, we ended up in fourth quarter of '17 above the high end of the
+guidance we had for revenues. So we've seen, throughout November, December into January, a
+steady increasing demand for SOC capacity, more so than we expected. And it's pretty broad-
+based across everything except mobility, where mobility, as I mentioned in my remarks, has
+shifted maybe four weeks further into the future. So automotive, image sensor, linear, all of these
+areas were getting pulled for reasonably quick by delivery cycles. And typically, our lead times are
+8 to 12 weeks, so we get a reasonable amount of turns within a quarter sometimes. So it's that
+sort of across-the-board demand that has brightened the outlook looking forward. And then
+within mobility itself, although there's a bit of a -- I'd say, the peak tooling installation this year
+about four weeks later than last year or the year before, the demand there also looks very
+strong. And so on the SOC side, I think it's just a broad-based rising of demand.
+But I would point out that with about an 8 to 12 week visibility, we don't get to see the back end
+of the year with any precision until we're sort of into the back end of the year. So a lot of what
+customers are talking about as a general budgetary number -- was kind of flat with 2017. On the
+memory front, just to turn to that for a minute, things are very busy and hot there. I mentioned,
+we'll exceed our Q4 shipments in Q1 in memory, similar kind of lead times. The $700 million to
+$800 million range hasn't changed since November. But if anything, there's pressure there on the
+upside. I could see that going up, especially if, in the indigenous fabs in China, we see that the
+yields get to a sufficient level that they begin to turn on production. We haven't assumed that for
+'18. We've assumed that's more of a '19 phenomena, but that could be upside on the memory
+discussion.
+Q - `Toshiya Hari, Analyst, Goldman Sachs `
+My second question is on Universal Robots. In your long-term model, you've assumed 45% to
+50% top line growth for the business. I guess, I was curious what the rationale was for that
+number? Why not 30%? Why not 70%? And then I guess related to that, if my math is correct, I
+think UR gross margins improved three maybe four percentage points in 2017 versus 2016.
+What's the path forward there as you look out to 2021? Thank you.
+A - `Gregory Beecher, Chief Financial Officer, Vice President, Treasurer `
+Okay. This is Greg. I'll start, and maybe Mark will add to it. I'll start with gross margins. A bit back
+further, when we acquired Universal Robots, the gross margins were about 51%. As we end '17,
+we're in the upper 50s. And we see a path to increase margins a few more points. Now this
+doesn't factor in what does the competitive field eventually unfold and look like. Today, as I think
+I'd mentioned in my prepared remarks, it's much more about stimulating awareness versus we're
+going up against competitors. So we do see opportunities for further margin improvement, but
+again, at some point, there'll be some competitors that we'll bump into, particularly at large
+accounts.
+On the first part of the question, why not 30%? Why not 70%? Well we've -- we look at third-party
+reports, there's a number of them out there, we speak to our distributors, our channel partner.
+We see that our existing channel partners grow their business about 50% a year, they sell 50%
+more cobots each year. And there will come a point where we'll probably slow down or stop
+adding new distributors or integrators in terms of net increases. There might always be some
+adjustments for quality.So then if I say what do existing ones sell today, it's about 50% and they were constantly
+improving in terms of some of the offerings we're giving them as well as the UR plus, what's on
+the online website, the Academy. So -- and we've seen sales grow at a higher rate each year,
+which is unusual to see the growth rate increase, increase, increase. But we all know, as numbers
+get larger, that gets harder to continue. So in the end, it's a judgment, but we come at it for many
+different perspectives. And we also look at bottoms up, the types of jobs that can be automated,
+but that leads you to very astoundingly big numbers and then we kind of back off of that because
+the numbers just look too big looking out that way. So it's judgmental, but we look at it in many
+different ways. And our track record today has been well-above 50%, but we know as numbers
+get bigger that, that will get harder to be well above 50%.
+Q - `Toshiya Hari, Analyst, Goldman Sachs `
+Thanks so much.
+Operator
+Our next question is from Media Hosseini with SIG.
+Q - `Mehdi Hosseini, Analyst, Susquehanna International Group `
+Thanks for taking the question. Just back to your ATE forecast. Is there any impact or you're
+anticipating any incremental market impact from some of the new ASC [ph] designs that are
+coming to the market. These new ASCs are designed for block-chain computing like a
+cryptocurrency. And I'm just wondering if the market is big enough for the ATE market, and
+Teradyne specifically, to see that in your forecast? And then I have a follow-up.
+A - `Mark Jagiela, President, Chief Executive Officer, Director `
+Yeah. So, I think cryptocurrency processing as a subsegment of the ATE market is really de
+minimis. It's not significant in the grand scheme of things. On a broader scale though, I think, the
+idea of a rate processing, whether it's used in a edge applications like AI for things like facial
+recognition or voice recognition, that's becoming a discernible segment and growing, I'd say,
+several $100 million of that TAM, you could attribute to the combination of all the cryptocurrency
+processing plus GPU plus AI-related processing.
+And our participation -- Teradyne's participation in that space in the traditional GPU side has been
+low, below our average market share. But in the emerging edge space of applications, whether
+that's in automotive or in cellphones or in -- infrastructure areas, is kind of right at the norm --
+right at that 50% point. So couple of hundred million in TAM growing faster than average, and we
+are participating outside of GPU.
+Q - `Mehdi Hosseini, Analyst, Susquehanna International Group `
+Is this what's driving your market share target specifically for 2021?
+A - `Mark Jagiela, President, Chief Executive Officer, Director `
+No. I think -- not specifically. I think we will grow with the market there. I think our market share
+gains for 2021 will come from the digitalization of automotive where no -- the combination of our
+strength in traditional automotive, electronics and our strength in mobility will help us in gain share
+in that area. (Multiple Speaker)
+Q - `Mehdi Hosseini, Analyst, Susquehanna International Group `Got you, and a quick --. Sure. Got it. Thank you. And a quick follow-up for Greg. I look at -- I
+appreciate for -- updating us on the longer-term earning power. It seems to me there isn't really
+much of a leverage left in the P&L. And these ranges that you're targeting, $3.50 to $4, to a large
+extent depends on your ability to execute on your share gain. And so in that context, what is it
+that gives you as a rather conservative company to step up and discuss these share gains? And
+b, what if we hit an air pocket. And whether -- what is your flexibility in managing cost given the
+fact that you are still investing in some of the growth areas?
+A - `Gregory Beecher, Chief Financial Officer, Vice President, Treasurer `
+Got it, Mehdi. The slide we've put forth, which we hope will give you a very clear path, we've put
+the assumptions on the upper half, and frankly, the biggest assumption is Universal Robots'
+growth rate, that's driving most of the sales and earnings growth. But let me go to the SemiTest
+question, our market share. We have steadily gained market share in ATE, in both SOC and
+memory, over many years. We've shown that on the slide here, the last four year period, we grew
+from 44% market share to 50% market share. And for modeling, we're using anywhere from four
+to six points. So we're modeling what we've done in the past, and we've been a bit conservative
+saying could be as low as four versus six points. If you go back further, we've gained much more
+than six points share -- six points of share.
+So we do have the ability to carefully target the right segments, grow with those waves as well as
+find areas for differentiation and not compete against capital cost. So it's a long-running formula
+that we've had at Teradyne that, I think, we -- has proven that it's sustainable. And there's always
+leverage, Mehdi, in the model, you are in here, there's a bunch of variable compensation tied to
+profits. So if the profits are lower, the variable compensation comes out. There's a lot of
+spending that goes with the growth. If we see the growth, in any business, isn't what we think it is,
+then we'll hold some of the spending back. So there certainly is flexibility.
+Q - `Mehdi Hosseini, Analyst, Susquehanna International Group `
+Got it. Thank you very much.
+Operator
+Our next question is from `Patrick Ho, Analyst, Stifel Nicolaus with Stifle Nicolas.
+Q - `Patrick Ho, Analyst, Stifel Nicolaus `
+Thank you very much. Mark, maybe first up in terms of the SemiTest market that you've talked
+about and the outlook you've provided, with some of the timing, I would say, pushouts on the
+mobility and -- what are your concerns there that -- maybe that pushes out potentially into 2019
+or so? Do you feel that it will come that four weeks later that you're talking about right now? And
+do you have that visibility. Or is it something that could potentially extend a little further?
+A - `Mark Jagiela, President, Chief Executive Officer, Director `
+Yeah, I think that's one area where you have pretty good visibility. And no, it will not extend into
+'19. What will happen is that some shipments that would normally be in second quarter will leak
+over into third and it's about that four week window is the delta. But not a lot of ambiguity in that.
+Q - `Patrick Ho, Analyst, Stifel Nicolaus `
+Great. That's helpful. And maybe, Greg, in terms of some of the commentary that you made
+about UR cost going up, it clearly makes sense because obviously you're growing it at a veryrapid rate. Can you give a little more detail? Is it going into more -- on the distribution side of
+things, in particular Asia, given the rapid growth there? Or is it mix of both, the distributors as well
+as integrators?
+A - `Gregory Beecher, Chief Financial Officer, Vice President, Treasurer `
+By far, it's distribution, and that's the single biggest item is more sales people that can then work
+with distributors and channel partners in new regions that we're not covering adequately as well
+as existing regions where there are some accounts we're just not getting to. And then the next is
+engineering to continue the innovation that we deliver to step that up even further. Those are the
+two big areas with distribution, by far, the largest.
+Q - `Patrick Ho, Analyst, Stifel Nicolaus `
+Great. Thank you very much.
+Operator
+Our next question is from the line of B.J. (sic) C.J. Muse with Evercore.
+Q - `CJ Muse, Analyst, Evercore
+Thank you for taking my question. I guess, first question, going back to some of the prior
+questions around your overall SemiTest guide. In the prepared slide that you talked about growth
+there, but in terms of your outlined expectations, you're guiding to flat. So curious how we should
+interpret that? And as part of that, how you are thinking mobility spend on the SOC side year-
+over-year? And is that sort of part of what was driving that flat guide?
+A - `Mark Jagiela, President, Chief Executive Officer, Director `
+Yeah. So one thing I'll start out with as a caution. A year ago, in this very call, we gave a guide for
+the SOC market that was in a range of 2.2 to 2.5, and we ended up at 2.65. So, with that caveat,
+we're not completely able to see what's going to happen. But in mobility, I would say year-over-
+year, our expectations is that it will be flat to very slightly up. And that market is one that typically
+comes to -- the majority of the installations come to conclusion by the end of third quarter, so we
+have a little bit more visibility there. I think what's less clear to us and what surprised us last year is
+automotive. How much longer will that have legs. It's been going now for about 1.5 years. If
+automotive continues at the rate that it did last year with or even a little bit of acceleration, that
+moves us towards the high side of the SOC market.
+And linear, industrial, linear, those are two that are very kind of quick-turn businesses that we get
+very little visibility beyond the current quarter. So mobility, everything else being equal, roughly
+flat. And then industrial, linear, automotive, the wildcard that swings the rest of it. I'll just make a
+comment about memory. Memory, as I said before, the range we gave of 700 million to 800
+million could easily have another 100 million or 200 [ph] million on top of that if the indigenous
+Chinese fabs really decide to -- or are able to code it into a production ramp. So that's something
+we've modeled into '19, but that could pull in.
+Q - `CJ Muse, Analyst, Evercore
+Very helpful. And my follow-up, as you think about UR in building out your infrastructure to support
+that, curious if you've seen sort of any momentum year-to-date related to tax reforms,
+accelerated depreciation and pending industrial accelerated spend, and whether or not that's
+changing perhaps your nearer-term outlook for perhaps faster growth in that business?A - `Mark Jagiela, President, Chief Executive Officer, Director `
+C.J., we haven't seen that yet in North America, but we will have our antenna up to see if that's
+possible. As you know, the cost is fairly low, but I certainly could see that, that might make us go
+into the ROI calculation. Most of the ROIs are very quick without a further advantage -- a tax
+advantage. And often the cobots are improving quality or doing tasks that aren't well suited for
+human. But sure, it might help a little, but we haven't seen it yet.
+Q - `CJ Muse, Analyst, Evercore
+Great. Thank you.
+Operator
+Our next question is from `Richard Eastman, Analyst, Robert W. Baird & Co., Inc. with Baird.
+Q - `Richard Eastman, Analyst, Robert W. Baird & Co., Inc. `
+Yeah. Just a quick question on UR. Could you just go back a little bit through how for '17, calendar
+'17, how UR's business model did shake out? I think you referenced high-50s gross margin kind of
+at year-end, but I'm curious, what does the model look like as we go into '18 with the growth
+here? Are we kind of expecting flattish operating margins close to 20%? Or how are we
+modeling that out for '18?
+A - `Gregory Beecher, Chief Financial Officer, Vice President, Treasurer `
+Okay, I'll start with that one. There is actually a range because the growth rates are so high, there
+is a stretch growth rate and then there's the growth rate 50% plus. So the range of scenarios we
+could be in and we try to -- we have to put some OpEx in early and then we try to meter it where
+we can. So this year, we hit 19% operating profit with end of the year was like 58% gross margin.
+We actually wanted to bring more people on quicker, frankly, to position for another wave of high
+growth. So if we end up at 19% or 20% profit, we're delighted. If we end up at 17% or 18%, that
+might be a great story too, if we've done the things strategically. So we're not driving it with a
+sharp eye on profitability. It's much more on the growth and are we getting further ahead is what
+we're monitoring and pushing hard on because the market has many years of high growth
+thereafter and we want to extend our lead through -- with the best distribution partners well
+trained, the best third-party ecosystem, accessories on our website, easy-to-do training and then
+development that makes it even easier to program. The more we can get ahead, the more the
+numbers naturally, in the subsequent years, will certainly meet our midterm model.
+Q - `Richard Eastman, Analyst, Robert W. Baird & Co., Inc. `
+Okay. Understood. And then just a question. We had spoke maybe off of the third quarter results
+as well, and we've ticked up our SemiTest market size twice now in the past whatever four, five
+months. But I'm curious, as we look into '18, given the puts and takes of Teradyne's share in
+memory versus SOC Test, would you expect to expand market share in '18? Your slide makes it
+clear that you're looking for similar share gains out to 2021. But I'm curious, how do you think the
+Teradyne share -- does it hold in '18 or does it expand in '18?
+A - `Gregory Beecher, Chief Financial Officer, Vice President, Treasurer `
+So, I think we will be delighted if we held our plans or to gain a bit of share. If you look at the two
+segments, well 50% of the overall market. But in SOC, we're more towards the mid-50s and inupside, we will participate in that. We might gain a little bit of share. But optically, when you roll
+the whole year together, it looks like the share could be flat. When that all gets said and done,
+even though we might pick up share in SOC. So, it really depends on the math around, the size of
+the memory market where our share tends to be below the combined average.
+Q - `Richard Eastman, Analyst, Robert W. Baird & Co., Inc. `
+I see. Okay, okay. Very good. Can I just ask one last question? What share count are we looking at
+for the first quarter guide from an EPS perspective?
+A - `Gregory Beecher, Chief Financial Officer, Vice President, Treasurer `
+200 shares.
+Q - `Richard Eastman, Analyst, Robert W. Baird & Co., Inc. `
+200. Okay. Thank you.
+Operator
+Our next question is from `Farhan Ahmad, Analyst, Credit Suisse LLC with Credit Suisse.
+Q - `Farhan Ahmad, Analyst, Credit Suisse LLC `
+Thanks for taking my question. My first question is just on the deceleration in growth that you're
+forecasting for March. Can you just talk about why are we seeing growth decelerating from
+something like 20% for last three quarters to like 4% in March quarter? Is there a risk that -- that
+further decelerates as we go later in the year?
+A - `Mark Jagiela, President, Chief Executive Officer, Director `
+Yeah. I think that the growth in the quarter, there's a variety of factors. One thing we've talked
+about was Universal Robots being up less in Q1 over last year's Q1 due to the price increase we
+instituted a year ago that drove an extraordinary amount of buying into the Q1, '16 period. So, UR
+will likely be up less than it's been growing at. If it's been moving at, say, last year 70%, Q1 could
+be closer to 25% kind of up numbers. So that's one factor. And I think the other thing is with
+mobility having moved out of four weeks, what you see is that even last year or the year before,
+we began shipments in Q1 for the tooling for mobility. There was less of that in this Q1 because of
+that four week shift.
+Q - `Farhan Ahmad, Analyst, Credit Suisse LLC `
+Got it. And then my second question is on SOC test market. You kind of talked about the impact
+of Memory Test becoming larger and that might weigh down on your overall share in the
+combined ATE market. I wanted to dive a little bit on the SOC test market. My understanding is
+that you don't play in the CPU, GPU and the -- in server markets, for example, where things are
+pretty strong this year. So is that going to be a headwind for your market share in SOC Test
+overall this year? Or do you think like you have some products in that area as well that will help
+you gain share?
+A - `Mark Jagiela, President, Chief Executive Officer, Director `
+Yeah, I think we have participation in segments of that, that will help us -- that market was
+relatively strong last year, but as I mentioned to an earlier question, the crypto GPUstraightforward application subsegment is sub $100 million. But when we roll GPUs together, then
+the whole thing gets a couple of 100 million. So outside of the strict GPU market, we do
+participate in some of these applications. I don't think it's of -- the market itself is of the size and
+our share position in that market will be below the 50% average. I don't think that's going to be a
+factor in moving our share up or down.
+Q - `Farhan Ahmad, Analyst, Credit Suisse LLC `
+Got it. Thank you. That's all I have.
+Operator
+Our next question is from `Atif Malik, Analyst, Citigroup with Citi.
+Q - `Atif Malik, Analyst, Citigroup `
+Hi, thanks for taking my question and congratulations in meeting your long-term EPS target three
+years earlier, and hopefully, you can get to 2021 target earlier as well. Mark, I have a question on
+System Test business. Your sales and orders grew strongly in December quarter. Can you just talk
+about what are some of the new products driving the momentum here? And how big the
+opportunity is for these new products? And then I have a follow-up for Greg.
+A - `Mark Jagiela, President, Chief Executive Officer, Director `
+Okay. Well, as I mentioned, as we went through last year, inside our System Test group, we had a
+Storage Test business that's been primarily focused on testing hard disk drives. That business has
+diminished over the years as the hard disk drive growth has slowed. And we repurposed that
+platform last year for more of a semiconductor testing application called system-level test. We
+recognized most of the revenue for that initial project with the initial customer in the fourth
+quarter. So the fourth quarter bump there that you saw was primarily getting through deliveries in
+acceptance of that first instantiation.
+And frankly, looking forward, we haven't put a lot of growth into that product in 2019. We're at the
+phase now where we can go beyond this initial customer and look for some other opportunities
+in the market. And that's what we'll be doing in the first half of this year. So, we have sort of a
+steady business now with one account, and we'll be exploring whether we can expand that over
+the next six months or sometime by the summer, we should have a verdict on whether this can
+be a growth business or not.
+Q - `Atif Malik, Analyst, Citigroup `
+Great. And then, Greg, the high accessibility to offshore cash, you touched on the M&A strategy,
+but -- you talk about software being an area of interest, but using third parties for infrared
+sensors. Is your strategy on UR fundamentally different from think robots or using sensor and AI?
+Can you just talk about or elaborate on your approach on UR?
+A - `Gregory Beecher, Chief Financial Officer, Vice President, Treasurer `
+Okay, I think Mark will pitch in on this one, too. Our approach has been to distinguish our cobot
+based upon ease-of-use. That is the very different approach we took to automation, so that a
+shop floor operator, and not an engineer, is able to train our cobot and repurpose it when
+demand changes in their factory or at a small manufacturer. And that's why somewhere about
+half of our customers are small and medium enterprises. So it's a different approach than what I
+believe others have originally taken, that -- now there maybe others trying to do what we'redoing, but it's not easy to do because you also have to build up a distribution and an integrated
+network that can be good selling one or two cobots at a time.
+And most companies we find like chasing the large -- the very large orders, which tend to be
+multi, multi, multiyear sales. So we've tended to have a different focus on a different go-to-
+market approach. So we're continuing to do things that make it easy to use the cobot. And
+there'll be new enabling technologies, I mentioned, vision modules coming down that will make
+using vision more likely for bin-picking or advanced applications where vision can help you getting
+deeper into a tray or a bin. So, I think there is a lot of innovation yet to come in areas around the
+cobot that the cobot can take advantage of.
+Q - `Atif Malik, Analyst, Citigroup `
+Thanks.
+Operator
+Our next question is from the line of `Edwin Mok, Analyst, Needham & Company with Needham.
+Q - `Edwin Mok, Analyst, Needham & Company `
+Great. Thanks for taking my question. My first question is on UR margin. I think your OpEx increase
+on face value, it's growing at a faster rate than the 50% plus top line growth. Does that mean
+that we might see some operating margin pressure this year on UR?
+A - `Gregory Beecher, Chief Financial Officer, Vice President, Treasurer `
+UR and the gross margin line you're referring to?
+Q - `Edwin Mok, Analyst, Needham & Company `
+No, on OpEx, you said that you will grow from 16 million exiting last year to $30 million exiting this
+year, right? So that's growing at a faster than 50% rate, right? Wouldn't that have some pressure
+on your operating margin this year?
+A - `Gregory Beecher, Chief Financial Officer, Vice President, Treasurer `
+It is possible that we may not end up at 19% or above where we ended up this year because, as I
+mentioned, we didn't bring on as many people as we wanted to. We actually weren't targeting
+19%. We're targeting 15%. But there's a challenge of bringing out as many people as we wanted
+to, and that got somewhat delayed. So, I don't consider it challenge. If you end up next year at
+17% versus growing at 19%, to me it's not a challenge. It depends on what we look like. If we get
+to 17% as a number, and we're growing at a healthy rate, and we see the next year is another
+strong year because we've put in the investments necessary to continue this 50% plus healthy
+growth rate, then I think we'd all be very pleased.
+So we're much more focused on maintaining the high growth because we know the opportunities
+are out there. It's a matter of stimulating the awareness, lowering the transaction cost to put a
+cobot in by making it easier to use. So that's where our overwhelming focus is. We have really no
+worries about the operating profitability. Frankly, we're way ahead of where you might expect us
+to be at 19% given the growth prospects of this business.
+Q - `Edwin Mok, Analyst, Needham & Company `Okay. Great. That's helpful. And then I have a question on the 2021 model. If I did my math
+correctly, your Other [ph] Test part, your system plus Wireless Test, you're actually modeling to
+grow around at 4.5% CAGR from '17 to 2021. What's driving that? Is it market growth like 5G
+turning on? Or is it new products? And comps [ph] specifically, on the new -- I think on the last
+question regarding system-level test. My understanding that's more for testing Semi on the
+system application, right? And historically in SemiTest, especially in mobiles Semi [ph] pretty much
+each chip maker select ATE and cost stick with them and there's -- there's a lot of stickiness and
+very hard to gain share against your competitor because customers are qualified. Is that the
+same kind of dynamics going on system-level test?
+A - `Gregory Beecher, Chief Financial Officer, Vice President, Treasurer `
+Okay. I'll take the first part of the question. The growth rate in the other test, you are correct, it's
+on 5G Wireless Test. That's the one element of those other businesses where we see credible,
+meaningful growth. The other businesses are more 2% or 3% -- GDP-type growth. 5G is 2020,
+2021, thereabouts, and we believe will be well positioned for it. We have some integrated 5G
+product that is out with a chipset company or two now, so we're in a good position, albeit it's very
+early, and 5G would be new to us because we're in 4G, but we didn't have meaningful share
+because we got to that market late. But we don't plan on getting to 5G late. As you might recall,
+we're the leaders in connectivity, but the cyber side has been more difficult for us to outbreak
+into.
+A - `Mark Jagiela, President, Chief Executive Officer, Director `
+And your other question about is it sticky system-level test? I don't see it that way. What we're
+seeing is that there may be more applications that need system-level test that didn't have it
+before. So some of these more advanced semiconductor devices may need an additional level
+test to wean out the harder-to-find faults and there may not have been any system-level test in
+the past, so it's a green field. But the challenge for us is, is it a good fit for us? Meaning, can we
+leverage our existing platform? If we can't, then it's a whole new design, and it probably isn't
+worth it to us. So that's what Mark was referring to. What we're going to look to see if there's
+other opportunities, but they have to fit with our platform.
+Q - `Edwin Mok, Analyst, Needham & Company `
+Great. That's all I have. Thank you for squeezing two in one on that one.
+A - `Mark Jagiela, President, Chief Executive Officer, Director `
+And operator, we have time for just one more quick question please.
+Operator
+Thank you. Our final question is from the line of `David Duley, Analyst, Steelhead Securities with Steelhead.
+Q - `David Duley, Analyst, Steelhead Securities `
+Thanks for slipping me in, I appreciate it. I was wondering on the robot side of things, initially, you
+talked about being able to take that into some of your larger electronics customers. And I think
+you've been highlighting on conference calls of the average sale still two or three units. Could
+you talk about what the average sale is currently per customer on the robots? And if you had
+success moving into larger electronic customers?We have a small number of customers that we call on from other divisions, LitePoint and our
+Production Board Test group. One is an automotive Tier 1 supplier we're in and another one is an
+Asian production -- PCB board supplier and they do assembly as well. So there's two that are
+over 100 cobots. There tends to be coordination that we're able to help the Universal Robots
+distribution team get to the right person, so -- but there hasn't been a list of 15 accounts that I
+could point to you and say here's the leverage. What we've given you in Universal Robot
+significant leverage, frankly, is cost down on the material pipeline, we've gotten them several
+gross margin points. We're able to help them hire people much faster around the world, open up
+new offices. So there are host of things that we're able to help them move faster, we helped
+them with engineering quality. We bring some people over there to learn best practices and pick
+and choose what fits their culture. So, we're helping them in a number of areas on the customer-
+facing, there has been some help, but there's not a list of 10 or 15 accounts that I have.
+Q - `David Duley, Analyst, Steelhead Securities `
+Okay. And one final thing for me is on the high-performance computing segment. Is there any
+sort of crossover point in complexity or speed where you might be able to insert yourself in a
+larger way in the GPU market?
+A - `Mark Jagiela, President, Chief Executive Officer, Director `
+Yeah, I think what's happening in the GPU space or the array processing space is, right now, a lot
+of diversification. There are a lot of companies that do not traditionally make silicon, developing
+custom silicon for their applications, whether these are automotive companies or consumer
+goods companies, web infrastructure companies. So, I think, like we're seeing with memory, a
+diversification of task-specific, let's say, GPUs or array processors, that's what's going on right
+now. So when we get into next year, I think, you'll see this array of suppliers doing custom ASCs
+for their own end markets. And that's, frankly, where we see the ability to participate and where
+we're focused.
+Q - `David Duley, Analyst, Steelhead Securities `
+Thank you.
+A - `Mark Jagiela, President, Chief Executive Officer, Director `
+Okay, folks, thanks so much for joining us. Sorry to be going over just a minute or two. Look
+forward to talking to you in the days and weeks ahead. Bye-bye.
+A - `Gregory Beecher, Chief Financial Officer, Vice President, Treasurer `
+Thank you.
+Operator
+Ladies and gentlemen, this concludes today's teleconference conference. You may now
+disconnect.

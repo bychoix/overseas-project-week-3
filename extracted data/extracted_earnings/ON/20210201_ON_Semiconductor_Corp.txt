@@ -1,0 +1,889 @@
+Q4 2020 Earnings Call
+
+Presentation
+Operator
+Ladies and gentlemen, thank you for standing by, and welcome to the ON Semiconductor Fourth
+Quarter 2020 Earnings Conference Call. At this time, all participants are in a listen-only mode.
+After the speakers presentation, there will be a question-and-answer session. (Operator
+Instructions) Please be advised that today's conference maybe recorded. (Operator Instructions)
+I would like to hand the conference over to one of your speakers today, `Parag Agarwal, Vice President, Corporate Development and Investor Relations, Vice
+President of Corporate Development and Investor Relations. Sir, please go ahead.
+`Parag Agarwal, Vice President, Corporate Development and Investor Relations `
+Thank you, Michelle. Good morning, and thank you for joining ON Semiconductor Corporation's
+Fourth Quarter 2020 Quarterly Results Conference Call.
+I am joined today by `Hassane El-Khoury, President, Chief Executive Officer, Director, our President and CEO; and `Bernard Gutmann, Chief Financial Officer, Executive Vice President, Treasurer, our CFO.
+This call is being webcast on the Investor Relations section of our website at, www.onsemi.com. A
+replay of this webcast, along with our 2020 fourth quarter earnings release, will be available on
+our website approximately one-hour following this conference call and the recorded webcast will
+be available for approximately 30 days following this conference call. Additional information
+related to our end markets, business segments, geographies, channels, share count, and 2021
+fiscal calendar are also posted on our website.Our earnings release and this presentation include certain non-GAAP financial measures.
+Reconciliations of these non-GAAP financial measures to the most directly comparable measures
+under GAAP are also included in our earnings release, which is posted separately on our website
+in the Investor Relations section.
+During the course of this conference call, we will make projections or other forward-looking
+statements regarding our future events or future financial performance of the company. The
+words believe, estimate, project, anticipate, intend, may, expect, will, plan, should or similar
+expressions are intended to identify forward-looking statements. We wish to caution that such
+statements are subject to risks and uncertainties that could cause actual events or results to differ
+materially from projections. Important factors which can affect our business, including factors that
+could cause actual results to differ from our forward-looking statements are described in our
+Form 10-K, Form 10-Qs and other filings with Securities and Exchange Commission.
+Additional factors are described in our earnings release for fourth quarter of 2020. Our
+estimates, or other forward-looking statements may change, and the company assumes no
+obligation to update forward-looking statements to reflect actual results, changed assumptions,
+or other events that may occur, except as required by law.
+We have changed the date for our Analyst Day. Now, we've planned to host our Analyst Day on
+August 5 of this year, instead of March 5. With the recent change in leadership of the company,
+we believe that we will need -- we will be able to provide to form a complete view of our
+updated strategy and financial targets on other shift.
+Now, let me turn it over to Hassane. Hassane?
+`Hassane El-Khoury, President, Chief Executive Officer, Director `
+Thank you, Parag, and thank you, everyone for joining us today. I want to start by expressing how
+excited I'm to be part of this historic company and its incredibly talented and motivated
+workforce. I will start by sharing with you the initial observations and updating you on the process
+we will use to evolve the future strategy and direction of the company. I will then address our
+fourth quarter 2020 results and turn the call over to Bernard to discuss financials and forward-
+looking guidance.
+I took the role as CEO because I could clearly see the tremendous potential we have even as I
+looked at it from the outside. Having been in the role for a few months now, I can see a company
+with outstanding assets, including a highly talented and motivated workforce, intellectual
+property, sales channels, products, customer relationships, brand and industry leading
+operational prowess to name a few. We are focused on the right markets, which are the fastest
+growing semiconductor end markets with solid margin potential. I'm excited about the
+opportunities we have in front of us to maximize the value for our shareholders, customers and
+employees. As I dove deeper into the company during the last eight weeks, I have been
+positively surprised and I have grown increasingly bullish about our prospects.
+The opportunities in front of us far exceed my initial expectations and I'm working with my team
+to turn these opportunities into a strategy with a credible execution plan. I'm very confident that
+we will be able to deliver the full potential of the company to our stack stakeholders. At this time,
+I don't have all the answers to what the future strategy and direction of the company will be.
+However, I will walk you through the process we will be following to get there and be able to
+share the details with you at our Analyst Day in August.It should come as no surprise that our primary value driver will come from our gross margin
+expansion initiative. At this time, we aim to maintain the over-market revenue growth in our
+strategic markets, while being opportunistic and others. We will focus on maximizing free cash
+flow to delever our balance sheet and set us up to remain a consolidator. To achieve our
+objective of maximizing shareholder value, we are ready to make substantial changes in our
+strategy, business and organization. We have begun the process of reevaluating our current
+product portfolio and our investments across the board. We will reallocate investments and
+resources to accelerate our growth in high margin businesses away from non-differentiated
+products and markets, which have had a historically low margin profile.
+We will reduce complexity, streamline the organization and improve efficiencies. After realigning
+our investments with our products and market strategy, we will double down on R&D to
+accelerate growth and margin expansion. We will rationalize our manufacturing footprint to align
+with our investment priorities and new corporate strategy. Our primary goal is to reduce volatility
+in our margins and maximize return on our manufacturing investments.
+Our product strategy will drive our manufacturing footprint and capital investments. We intend to
+transition to a lighter fab model in which our margins are not as heavily influenced by our fab
+loadings. As you can already tell, we have hit the ground running, and we are making progress in
+a short period of time. We will provide you with greater insight into our strategy and targets at
+our Analyst Day on August 5. In the meantime, we plan to continue to provide updates as we
+make progress.
+Now moving on to the fourth quarter 2020 results. Revenue for the fourth quarter of 2020 was
+$1.45 billion, an increase of 3% year-over-year. We saw a steep improvement in demand in the
+fourth quarter and the momentum has continued thus far in the current quarter. The surge in
+demand is driven by a broad-based improvement in global macroeconomic conditions and lean
+channel and end-market inventories. The automotive end market had the steepest recovery in
+the fourth quarter.
+Based on current demand trends and the global macro outlook, we expect to continue to see
+above seasonal demand trends in the near-term. On the supply side, we have been able to
+manage our customers' requirements for our products thus far. As semiconductor vendor
+increase supply and customers fulfill pent-up demand, the temporary supply demand imbalance
+should subside in a few quarters. Let me discuss a few highlights of our key strategic end
+markets, starting with automotive.
+Revenue for the automotive market in Q4 2020 was a record $491 million and represented 34%
+of our revenue and an increase of 6% from Q4 of 2019. Our 2020 automotive revenue declined
+by 7.5% year-over-year, but significantly outperformed the 2020 global automotive production
+unit, which declined by 16% over the same period. The significant outperformance was driven by
+increasing content for our products and fastest growing applications in the automotive market.
+Our design win funnel continues to expand. We won ADAS and viewing sockets on many of the
+recently announced platforms. We also secured a win for our LiDAR products with a European
+automotive OEM. We expect this win to ramp later this year. Another significant design during the
+fourth quarter was with a major Tier 1 for our sensor module, which features a lens integrated in a
+sensor package for in-vehicle experience application.
+We continue to see strong momentum for our silicon carbide and IGBT product for electric
+vehicle and expect to see strong ramp in our EV-related revenue with various models growing
+production in 2020 and 2022. The industrial end market, which includes military, aerospace and
+medical, contributed revenue of $384 million in the fourth quarter of 2020 at 24% of our revenue.Year-over-year, our fourth quarter industrial revenue increased by 2%. This increase was driven by
+broad-based pickup in global industrial activity, partially offset by geopolitical issues related to
+specific customers.
+In the industrial end market, we continue to see strong momentum for our power modules and
+alternative energy applications. Our customer base for power semiconductor and alternative
+energy has expanded by approximately 50% in 2020. We expect to see strong growth in this
+business as the new U.S. administration is focused on the reduction in global carbon emissions.
+We are seeing strong traction for machine vision factory automation applications with our XGS
+family of image sensors. In the communications end market, we expect strong growth in 2021 for
+5G related revenue driven by increased 5G capital expenditure by cap carriers.
+Now I will turn the call over to Bernard to provide additional details on our financials and guidance.
+Bernard?
+`Bernard Gutmann, Chief Financial Officer, Executive Vice President, Treasurer `
+Thank you, Hassane. During the fourth quarter of 2020, we saw continuing recovery in business
+conditions driven by robust growth in global economic activity. Order activity accelerated sharply
+across most end markets as customers are ramping production and replenishing inventories to
+meet a steep increase in end-market demand. Along with the strong broad-based recovery in
+macroeconomic conditions, secular megatrends in automotive, industrial and cloud power
+markets continue to drive our business.
+Gross margin improvement is the primary strategic priority for the company. As Hassane
+indicated in his remarks, we are going through a detailed review of our product portfolio. The
+primary objective is to reallocate our capital to drive margin expansion and growth. Our revised
+product strategy will determine our capital expenditures and investments in other resources
+needed to support the business. We will update you with our progress as we go through the
+process. We are on track with our manufacturing consolidation plans and discussions are ongoing
+with various parties regarding the previously announced intended sales of our fabs in Belgium
+and Niigata, Japan. We have closed our operations and sold the fab in (inaudible), Europe and we
+should begin to realize annual savings of $15 million, starting in the first quarter of 2021.
+Now let me provide you additional details on our results. Total revenue for the fourth quarter of
+2020 was $1.45 billion, an increase of 3% as compared to revenue of $1.40 billion in the fourth
+quarter of 2019. The year-over-year increase in revenue was driven by growth in our key strategic
+end markets. GAAP net income for the fourth quarter was $0.21 per diluted share as compared to
+a net income of $0.14 per diluted share in the fourth quarter of 2019.
+Non-GAAP net income for the fourth quarter of 2020 was $0.35 per diluted share as compared
+to $0.30 per diluted share in the fourth quarter of 2019. GAAP and non-GAAP gross margin for
+the fourth quarter of 2020 were 34.4% as compared to 34.6% in the fourth quarter of 2019. The
+year-over-year decline in gross margin was driven primarily by a weakening U.S. dollar against
+currencies in most region in which we operate our manufacturing facilities.
+Our GAAP operating margin for the fourth quarter of 2020 was 11.6% as compared to 9.9% in the
+fourth quarter of 2019. Our GAAP -- our non-GAAP operating margin for the fourth quarter of
+2020 was 14.2% as compared to 12.3% in the fourth quarter of 2019. The year-over-year increase
+in operating margin was driven largely by lower operating expenses. GAAP operating expenses
+for the fourth quarter of 2020 were $329.6 million as compared to $346.8 million in the fourth
+quarter of 2019. Non-GAAP operating expenses for the fourth quarter of 2020 were $292.4The year-over-year decrease in non-GAAP operating expenses was driven primarily by
+restructuring and cost saving measures undertaken by the company. Fourth quarter 2020 free
+cash flow was $284 million and operating cash flow was $400 million. Full year 2020 free cash
+flow increased to $501 million from $160 million in 2019 despite a 5% decline in revenue. Capital
+expenditures for the fourth quarter of 2020 were $116.4 million, which equates to a capital
+intensity of 8%.
+As indicated previously, we are directing most of our capital expenditures towards enabling our
+300 millimeter capabilities of the East Fishkill fab. Total capital expenditures for 2020 was $384
+million. We exited the fourth quarter of 2020 with cash and cash equivalents of $1.081 billion as
+compared to 1.64 -- $1.654 billion at the end of the third quarter of 2020. The decline in our cash
+balance was primarily related to the repayment of our 2020 convertible note principal at maturity
+in December 2020.
+At the end of the fourth quarter of 2020 days of inventory on hand were 120 days, down 13 days
+as compared to 133 days in the third quarter of 2020. At this time, we're comfortable with the
+level of our balance sheet inventory. In the fourth quarter of 2020, distribution inventory
+decreased marginally as sales through the distribution channels increased significantly quarter-
+over-quarter. Distribution inventories are within our target range of 11 to 30 weeks.
+Now let me provide you an update on the performance by our business units, starting with Power
+Solutions Group or PSG. Revenue for PSG for the fourth quarter was $716 million. Revenue for the
+Advanced Solutions Group or ASG for the fourth quarter was $522 million and revenue for our
+Intelligent Sensing Group or ISG was $208 million.
+Moving on to guidance, based on product booking trends, backlog levels and estimated turn
+levels, we anticipate that total ON Semiconductor revenue will be in the range of $1.41 billion to
+$1.51 billion in the first quarter of 2021. For the first quarter of 2021, we expect GAAP and non-
+GAAP gross margin between 34.1% and 36.1%. We expect total GAAP operating expenses for the
+first quarter of 2021 of $345 million to $363 million. Our GAAP operating expenses include the
+amortization of intangibles, restructuring, asset impairments and other charges, which are
+expected to be in the $32 million to $36 million range. We expect total non-GAAP operating
+expenses of $313 million to $327 million in the first quarter.
+The expected increase in our first quarter operating expenses as compared to those in the
+fourth quarter is driven by the expected accrual for variable compensation in anticipation of a
+strong financial performance in 2021 and is in line with the $25 million to $30 million increase
+foreshadowing the last quarter's earnings call's prepared remarks.
+In our 2020 operating expenses, the variable component of compensation was not significant.
+For the first quarter of 2021, we anticipate GAAP net other income and expense, including
+interest expense will be an expense of $34 million to $37 million, which includes the non-cash
+interest expense of $45 million. We anticipate our non-GAAP net other income and expenses,
+including interest expense will be an expense of $30 million to $32 million. Net cash paid for
+income taxes in the first quarter of 2021 is expected to be in the $18 million to $24 million.
+For 2021, we expect cash pay for income taxes to be in the range of $80 million to $90 million.
+We expect total capital expenditures of $90 million to $100 million in the first quarter of 2021. We
+expect share-based compensation of $15 million to $17 million in the first quarter of 2021 of which
+approximately $3 million is expected to be in cost of goods sold and the remaining amount is
+expected to be in operating expenses.This expense is included in our non-GAAP financial measures. Our GAAP diluted share count for
+the first quarter of 2021 is expected to be 438 million to 439 million shares, based on our current
+stock price. Our non-GAAP diluted share count for the first quarter of 2021 is expected to be 431
+million shares, based on our current stock price. Further details on share count and earnings per
+share calculations are provided regularly in our quarterly and annual reports on Form 10-Q and 10-
+K, respectively.
+I would like to end my comments on a personal note. As you are all aware, I have decided to
+retire after 39 years with ON Semiconductor and its predecessor company. It has truly been an
+honor to serve the company and its shareholders, employers' and customers for all these years. I
+have enjoyed interacting with all of you over the years. You have kept me on my toes and always
+helped me strive to do better at my job. ON Semiconductor has a very bright future and the
+company is well positioned to deliver significant value to its shareholders, customers and
+employees.
+With that, I would like to start the Q&A session. Thank you, and Michelle, please open the line for
+questions.
+Questions And Answers
+Operator
+Question And Answer
+Thank you. (Operator Instructions). Our first question comes from the line of `Ross Seymore, Deutsche Bank with
+Deutsche Bank. Your line is open. Please go ahead.
+Q - `Ross Seymore, Deutsche Bank `
+Hey, guys. Thanks for helping me ask the question. And first Bernard, great working with you all
+the years. Congrats on the retirement. My first question is for Hassan. You mentioned, a laundry
+list of actions were going to take structurally for the company.
+I know you're not going to go into exceedingly detailed levels before the analyst meeting in
+August, but I wondered how you're balancing the gross margin side versus the OpEx and
+operating margin side? You mentioned about doubling down on R&D. How do you balance the
+gross margin versus the operating margin priority for the company?
+A - `Hassane El-Khoury, President, Chief Executive Officer, Director `
+Sure, Ross. Let me give you kind of how the approach has been because we started doing that
+work. At a high level, you can think about it as self-funding, meaning its I don't like to dabble
+whether we say we're working on it or not, if we are creating products in low margin businesses
+or markets that are not our strategic markets, those investments are going to stop. That's going
+to release capital for us to reinvest and that's where the doubling down.
+So, in -- don't think about it as we're going to double down and OpEx is going to clip up beyond
+the level, we're going to actually reallocate OpEx. And with the simplicity and removing
+complexity on the way we run our operation here, that's going to do relieve a lot of more capital
+for us to reinvest. So I'm not worried about having enough investments that we can we allocate
+while maintaining at or below our OpEx which obviously will drive our operating margins favorably.
+Q - `Ross Seymore, Deutsche Bank `Thanks to the details on that. And I guess one for either you or Bernard, the guidance is better
+than seasonal, you said that's going to continue for a bit, was the better than seasonal comment
+just about the first quarter or was it longer than that, any color between the different segments
+to get to your guidance for the first quarter?
+A - `Hassane El-Khoury, President, Chief Executive Officer, Director `
+Yes. This is Hassane again. Our focus right now is in the first quarter. Obviously, we're coming out
+of a very lean inventory both our customers and the supply chain. So that's the rebind you're
+seeing in Q1 better than seasonal. I remain cautiously optimistic for the rest of the year, but it's
+too soon to call the rest of the year at this point in the prepared remarks.
+We talked about it may take a few quarters to kind of stabilize the supply and demand situation
+and that's when we'll get the little bit more clarity. Obviously, if you've seen the news, a lot of that
+strength is coming from automotive and we see it the same way which is a big market and a
+focus market for us. So we're watching it closely, but I remain cautiously optimistic until we get out
+of the trend of supply-demand imbalance.
+Q - `Ross Seymore, Deutsche Bank `
+Thank you.
+Operator
+Thank you. And our next question comes from the line of `Chris Danley, Citigroup with Citi. Your line is open.
+Please go ahead.
+Q - `Chris Danley, Citigroup `
+Thanks guys. Papers for, Bernard. Congratulations (Foreign language). I'm jealous. First question is
+just on OpEx. I guess what's the thought process of an upfront payment to everybody in front of
+the upturn versus afterwards? And is this -- should we consider this as a new baseline for OpEx or
+could it turn down after this?
+A - `Bernard Gutmann, Chief Financial Officer, Executive Vice President, Treasurer `
+So it is not an upfront payment, it is an accrual -- an accounting accrual as we have an annual
+planning which actually would cash wise. Next year in February, did we achieve the numbers. So
+this is just an accounting accrual comprising the liability we are creating with delivering results that
+lead to the new plan.
+A - `Hassane El-Khoury, President, Chief Executive Officer, Director `
+Yes. I mean, let me just put that stake in the ground. We are 100% focused on pay for
+performance. We have the accrual throughout the year, but pay will occur in 2022 in the first
+quarter, just like it did this time for the prior year. So it's after the fact, we don't do any advance
+planning as far as payment in any form to employees until after the performance period is done
+and validated.
+A - `Bernard Gutmann, Chief Financial Officer, Executive Vice President, Treasurer `
+Great, and then your question about the trend on OpEx, we believe we have the step function
+increase and pretty much after that it should be -- it should be a very, very steady[ph].Q - `Chris Danley, Citigroup `
+Okay. Thanks, Bernard. And for my follow-up. Hey, Hassane, you mentioned you're going to take
+a look at the product lines. I guess what sort of rough percentage of revenue are we talking
+about that's being targeted as far as these low margin product lines? And can you shed any light
+on what are these low margin product lines? Is it some MOSFETs or IGBTs or some other sort of
+like passive types of products you guys have.
+A - `Hassane El-Khoury, President, Chief Executive Officer, Director `
+Sure. It's too soon to tell as far as to give you a percent, because literally I am looking at
+everything. But the way I look at it is strategic alignment or end market strategic alignment to our
+margin target and really strategic alignment to the growth that we want to set for the company,
+both in gross margin expansion and revenue. So to put a percent on how much is that, it's hard to
+tell, but it's not going to be like you're expecting of IGBT or FET of whatever kind, because we're
+not looking at it as just a product family.
+I'll give you an example, we have IGBTs that goes into EV. I love that. That's a growth market, it's
+good margin and we have a very good position that market that's going to be, but then obviously
+a growth product and market for us, but IGBT in a low margin consumer, that is not going to be
+an investment for us. So, that's the surgical approach we are actually proceeding in order to get
+the right balance we talked about already.
+Q - `Chris Danley, Citigroup `
+Got it. That makes sense. Thanks, guys.
+A - `Hassane El-Khoury, President, Chief Executive Officer, Director `
+Thank you.
+Operator
+Thank you. And our next question comes from the line of `Toshiya Hari, Goldman Sachs with Goldman Sachs. Your
+line is open. Please go ahead.
+Q - `Toshiya Hari, Goldman Sachs `
+Good morning. Thanks very much for taking the question, and Bernard thank you for all the help.
+Hassane, you talked about you guys addressing demand so far being pretty successful in
+addressing demand so far. Can you speak to where lead times are for your business today
+versus three months ago, six months ago and sort of related to that? How is the pricing outlook
+for your business over the next 6 to 12 months in a relationship where you guys have seen over
+the past few years?
+A - `Hassane El-Khoury, President, Chief Executive Officer, Director `
+In sort of how we address the lead times, we have been inching up. We're still in the mid teens,
+but moving upwards in the action. Yes, for the pricing of the pricing environment. Obviously there
+are price increases that we have incurred from our supply chain and we are working with
+customers to pass those on, down the supply chain from where we are. There are of course with
+supply and demand. We are always reviewing our pricing posture and we're doing that as we
+speak.It's not just only, let me rest a little bit on. It's not just the supply and demand. We do have high
+value products and those high value products demand a higher margin. So I'm reviewing all our
+pricing discipline outside of just a supply and demand and that's something you should see from
+us moving forward as a structural change we're implementing in the company. Where that's going
+to get us and where it's going to land as far as tangible result that I can credibly talk to you, that's
+going to be in the August meeting because that will give me enough runway to establish that
+process and see the impact.
+Q - `Toshiya Hari, Goldman Sachs `
+Great. Thank you. And as a quick follow-up, just on sort of a long-term model again I appreciate,
+you're not going to preview your August Analyst Day. But when you look at some of the numbers
+that Keith and Bernard put up during their last -- during the last Investor Day mid-single digit
+revenue growth, 43% gross margin, 21% OpEx intensity. Given what you've seen so far Hassane,
+where do your views differ the most? Is it more on the growth side? Is it more on the margin
+side? Is it both? Any color would be super helpful. Thank you.
+A - `Hassane El-Khoury, President, Chief Executive Officer, Director `
+Look, it's not about the top line or gross margin. My focus is on the timing of it. That's kind of
+where I'm putting my energy right now. And then we will talk about what is the yield on top line
+and how quickly do we get to the -- we're going to call it the 43, because that's the only number
+that is available externally.
+A lot of people ask me what should we be looking for as far as financial model and my answer
+and I'll reiterate it here, just hold us accountable to whatever we, the company, has done already,
+even though it would not be personally until I stand in front of all of you in August and change it.
+But for now, just hold us accountable to the target and the financial model that we have made
+available already as a company.
+Q - `Toshiya Hari, Goldman Sachs `
+Thanks so much.
+Operator
+Thank you. And our next question comes from the line of Raji Gill with Needham. Your line is open.
+Please go ahead.
+Q - `Rajvindra Gill, Needham and Company `
+Yes. Thank you, and best of luck, Bernard. And congrats Hassane, on the new role. Hassane, a
+question on the 300 millimeter, the transition that's been undergoing for a couple years. Any
+thoughts on how that progress is happening? And what are your thoughts on that transition to
+300 millimeter? Other steps that you want to try to accelerate that transition and what would
+they be?
+A - `Hassane El-Khoury, President, Chief Executive Officer, Director `
+Sure. Obviously 300 millimeter transition is a transition that we need as a company. We have it
+internally and the company has already set itself on a path to have an in source fab for that.
+There's obviously, we're looking at the baseline to see if we need more how do we get it,
+doesn't necessarily mean we're going to have a multitude of fab at the 12-inch. It's going to be
+driven -- to answer your question more directly, it's going to be driven by the product portfoliothat we cannot have and we want to be investing in, over the next five years and that's part of
+the portfolio rationalization.
+I can't really address a need for a manufacturing footprint until I know exactly what we want to do,
+where the margin is going to come from and what the manufacturing footprint needed in order
+to support it inside or outside. So that's the work we're doing on right now. However, we do have
+the East Fishkill engagement. We have been making progress on it where products are taping on.
+Some products are sampling. So, technology development and product move into fab is ongoing
+and I'm happy with where we are.
+To accelerate, is going to be dependent on as I mentioned product and margin focus and that's
+going to be with the capital associated with it. That's the work-in progress we have to do with, we
+have not completed yet. But I expect it to be complete by the time I give an updated financial
+model in the August meeting, which will include capital and manufacturing footprint targets.
+Q - `Rajvindra Gill, Needham and Company `
+And for my follow-up Hassane, you talked about chronic rationalization and I think you had
+mentioned achieving that either through potentially M&A or divestments and maybe if I -- may be
+correct me if that's not the case, but wondering how you would think about product
+rationalization with respect to those two possible strategies?
+A - `Hassane El-Khoury, President, Chief Executive Officer, Director `
+Sure. But it's not -- those are obviously part of the strategy, but that's not the one that's going to
+get you the most impact. The one that's going to get you the most impact is literally defocusing
+on products that we don't see bring us any -- whether it's top-line growth or margin expansion
+and by defocusing there are multiple way you put it in harvest, you (inaudible), it's short-lived, talk
+about EOL anywhere from 6 months to 18 months, depending on engagement with the customer
+as far as when we're going to exit that business, we'll notify customers, we'll support them at a
+transition, transition to our products which are better margin structure. So we will force the
+conversion or we will just exit the business and exit that customer and the top line and we're
+looking at everything equally.
+Where is that going to be as far as divesting? If there is a business that we believe has value for
+somebody outside of ON Semiconductor, we will monetize instead of doing EOL like I
+mentioned, we will monetize it through a divesture leading up to the third tenant, which is the
+M&A.
+M&A is just going to be a complementary view of what we are able to do with our portfolio
+rationalization. Once we have a portfolio footprint that we like in the market, end market that we
+want, then M&A would be an inorganic growth within these markets. We're not going to use M&A
+to solve our internal issues, because then you're just creating chaos after chaos. We're going to
+rationalize our internal markets, our internal portfolio, then M&A will just strengthen that posture.
+Q - `Rajvindra Gill, Needham and Company `
+That makes a ton of sense. Congrats. Thank you.
+Operator
+Thank you. And our next question comes from the line of `Matt Ramsay, Cowen with Cowen. Your line is
+open. Please go ahead.Q - `Matt Ramsay, Cowen `
+Thank you very much. Good morning. Thanks, and congrats Bernard. Hassane, it's kind of an
+interesting call, right? Because you guys are clearly going to put out longer-term targets in
+August, but folks are poking and prodding you, trying to give you a little bit of hint about where
+that's going, but I might just ask a couple of questions along those lines.
+One is, you talked a little bit in your script about potentially taking the company a little bit more
+towards being fab-light and obviously the product portfolio will, I would imagine, mostly informed
+that decision, but no secret the U.S. government is thinking about incentivizing semiconductor
+manufacturing, and R&D in the state.
+So I wonder I guess the first question is how much is that going to inform your decision? And then
+the second piece is around the channel, Texan[ph] is taking an interesting strategy of going more
+direct. You guys have a pretty broad distributor footprint. How are you thinking about that in
+terms of making your decisions going forward? Thank you.
+A - `Bernard Gutmann, Chief Financial Officer, Executive Vice President, Treasurer `
+Sure. Let me tackle the fab-light comment I made. So fab-light obviously is an analog range,
+range that goes between fabulous[ph] and only internal manufacturing. So where we are, a
+lighter fab, which means we're going to be shrinking our manufacturing footprint from where we
+are today. So that's the fab light comment and that's going to be a result of what we need to
+manufacture internally versus what there are foundries that do a better job at the manufacturing,
+that we do. And that's the balance we're going to be doing and we started that effort. Obviously,
+that was a management change that did occur to start looking at that in parallel with me looking
+at the portfolio rationalization. So that's ongoing and the results and the recording I do real-time.
+From the government side of it. Listen, we're going to make the best decision for our company
+that drives shareholder value. That's the first and foremost decision-making. If at the end of that
+first tranche[ph] of decisions, there's alignment with where the administration's going or what
+state we are in, that's great. But we're not going to make a short-term decision based on the
+current politics that will hinder us from potentially achieving our maximum value creation that we
+could otherwise. So our focus is on value creation as we see it for the company, our shareholders,
+our customers, our employees. And then we'll figure out how we land in the politics at that time.
+From the distribution and other work we have been doing, is the channel rationalization just like
+the portfolio. Once you know where you want to grow and how aggressively you want to grow, in
+which market, you're going to partner with the distributors that are strong indeed, in that same
+arena you want to play in.
+And that's going to be an outcome of the portfolio. And that's why I keep going back to the
+portfolio work we're doing is going to drive a lot of those dependencies, because it's all
+interlocked, but it definitely starts with a portfolio rationalization and market and a strategy.
+Everything else is really how do you execute the strategy to the best you can.
+Q - `Matt Ramsay, Cowen `
+Thanks very much. All the best, as you put things together and excited to see what comes.
+Thanks guys.
+OperatorThank you. And our next question comes from the line of `Vijay Rakesh, Mizuho with Mizuho. Your line is
+open. Please go ahead.
+Q - `Vijay Rakesh, Mizuho `
+Yeah. Hi. Hassane and Bernard, good quarter and guidance. Bernard congratulations on a great
+career. Just a couple of questions. Just wondering on the automotive side, you mentioned sensor
+module and some pickup on the electric vehicle side. Is your guide still for longer-term 9% to 11%
+above what the automotive market growth is, or do you see upside basis on the winds that you
+have here? And then I have follow-up.
+A - `Bernard Gutmann, Chief Financial Officer, Executive Vice President, Treasurer `
+We basically think it's a high single digit above the desired levels and we actually confirmed that
+with our 2020 performance.
+Q - `Vijay Rakesh, Mizuho `
+Got it. And Hassane you made a comment on lean inventory. Can you give us some level, is that
+like two to three weeks of inventory versus normal like four to six weeks for the inventory levels
+here. Thanks.
+A - `Hassane El-Khoury, President, Chief Executive Officer, Director `
+Yes. So Vijay, I can't give you a target right now. I'm looking at it, because not all businesses
+obviously we have here are created equal. Some of them need more inventory than others, and
+there's going to be a lot of ins and outs to be fair as we figure out -- our - as I mentioned before
+EOL, some bridge build or some Fab move that we can make that's going to kind of put bumps in
+the road for our inventory and we're going to manage it as such, but there's going to be a few
+ins and outs, before we get to a model.
+So I'll be ready to give you a model where we want to end up in the August meeting. But
+between now and then, I'm really going to be opportunistic about what we need to do in order to
+quickly shift to where I want us to be as a company, whether it's portfolio or manufacturing
+footprint.
+Q - `Vijay Rakesh, Mizuho `
+Got it. Thanks.
+Operator
+Thank you. And our next question comes from the line of `Harsh Kumar, Piper Sandler with Piper Sandler. Your
+line is open. Please go ahead.
+Q - `Harsh Kumar, Piper Sandler `
+Yes. Hey, Bernard. First of all, thank you for all the help over the years we've worked together and
+we really appreciate it and enjoy your retirement. And then for my question, so everybody is
+talking about tightness in the auto industry, Hassane, you guys have plenty of capacity here at
+least available to you. Is there any opportunity for you to be able to take some incremental
+share? Or is that just not how things work in automotive, given the long design cycles?
+A - `Hassane El-Khoury, President, Chief Executive Officer, Director `Sure, Harsh. So obviously for areas where we are double source, where one of two suppliers and
+we have some of these in our product lines. If we're able to support it, we will. Of course, we're
+going to ship. We've already engaged with customers where we don't have 100% share in order
+for us to help if they needed. So, that's ongoing and that's the way we're running the business
+day-to-day.
+The challenge that we are looking at is okay, even if we do ship that product, is that customer
+getting the rest of the product from supplier number two, three and four, that's what I don't
+know. So, to be able to evaluate how much share is actually going to go into revenue, that's going
+to be call it towards the end of the quarter, when the dust settles. We're ready to help, but the
+problem is our product line is product line is not the bottleneck as far as creating the end product
+that makes sense.
+We're wanting it; we're going to go after it, because like you said if we have the capacity we're
+going to sell it. And we're going to give it to the end customer, not sit on distributor shelf or even
+on our shelves. It's going to go as quickly as we can see the demand for it.
+Q - `Vijay Rakesh, Mizuho `
+Got it. And for my follow-up Hassane, can you talk about the activity that ON Semi is seeing in the
+EV space in China, specifically to charging and chargers. This has been an area, I think that ON has
+been reactive in that particular geography. Could you just talk about what you think is your
+position there?
+A - `Hassane El-Khoury, President, Chief Executive Officer, Director `
+Yes, we're still very active in that area, obviously when you have the products that customers
+value as far as the technical prowess and the portfolio that we're able to manage. We're
+definitely always considered and more -- more often than not, we are the ones being selected,
+that has not change and our posture in China EVs specifically is strong. And we've had design
+wins in the tail -- the second half of 2020 that support that view in the market.
+Q - `Vijay Rakesh, Mizuho `
+Thank you.
+Operator
+Thank you. And our next question comes from the line of `Chris Caso, Raymond with Raymond James. Your
+line is open. Please go ahead.
+Q - `Chris Caso, Raymond `
+Yes. Thank you. Good morning, and my congratulations to Bernard as well. It's been a pleasure
+working with you. Hassane, I just want to ask a follow-up question regarding some of the
+comments about refocusing the product line and potentially consolidating the manufacturing
+footprint, like recognizing that we ask you some unfair questions, because the plan isn't always
+together -- isn't always altogether yet.
+But when I look at the gross margins, for ON now versus the prior peak, it's similar revenue levels.
+Delta is about 300 basis points and most of that is depreciation. So I guess the question is, as
+you've done the initial review of manufacturing, is there enough flex in the system potentially
+selling fabs or such that you would be able to make a meaningful dent in that depreciation if yourbusiness review would warrant that smaller footprint? Is their ability to consolidate if that's the
+decision which you want to make?
+A - `Hassane El-Khoury, President, Chief Executive Officer, Director `
+The answer is yes, there's always an opportunity. And we're looking at everything, and it's not just
+appreciation. I mean once you -- when you start consolidating, there's obviously the utilization for
+the fab, the receiving fabs. And really there's overhead simplification.
+When I say about rationalizing portfolio and manufacturing footprint, all of this is going drive costs
+out of the company. It's not going to be sucked in anywhere else, it's not going to be re-
+allocated. It's going to be managed out of the company.
+Of course, some timing is different, depending on what category of spend COGS versus OpEx,
+and where in OpEx and where in COGS. But we are tracking every dollar that is the outcome of
+every decision we make, in order to decide where it's going to end up.
+But to answer your question more generally, I am optimistic about the levers that we have to
+drive gross margin expansion since I've been here in the company. So that has not been a worry
+of mine of great now what I do. There's enough to do and my focus is putting it in an executable
+strategy that I will ask starting with our Board of Directors. But more importantly, our shareholders
+and you all outside, to all us accountable too. And that's the work we're doing right now. It's how
+do we translate that into an executable plan.
+Q - `Chris Caso, Raymond `
+That's great, thank you. As a follow-up, if I can ask a near-term question regarding production and
+if you could talk about where the utilization is now as compared to where it was last year? And
+how does that track as you go into next year or as you try to address some of the bottlenecks?
+And then finally, maybe we could talk about where the bottlenecks are, more in the front end or
+the back end or perhaps that some of the outside suppliers.
+A - `Bernard Gutmann, Chief Financial Officer, Executive Vice President, Treasurer `
+So, definitely revision last year, in the first quarter was what looks like -- but we were also affected
+at that time, i.e., especially towards the end of -- by the pandemic and the shelter-in-place
+closings we had in several of our factories in China (inaudible) Europe and Malaysia. We did see a
+little bit of increase in utilization, more towards the low 70s, about 70-75. And we expect that as
+we ramp in 2021 in the first quarter, we (technical difficulty) in the second quarter. Finally, on the
+back side, you should a little bit of improved utilization in our factories.
+A - `Hassane El-Khoury, President, Chief Executive Officer, Director `
+Yes. Most of the time again -- most of our constraint are primarily on the outside, not internally.
+And front end and the back end for us is I'll call it balance slowly, there's gives and takes
+depending on the product line. But managing the supply constraint externally is really with the
+foundry of this (technical difficulty).
+Q - `Chris Caso, Raymond `
+Alright. Thank you.
+OperatorThank you. And our next question comes from the line of `Vivek Arya, Bank of America Merrill Lynch with Bank of America. Your
+line is open. Please go ahead.
+Q - `Vivek Arya, Bank of America Merrill Lynch `
+Thanks for taking my question, and congratulations and best wishes to both Hassane and
+Bernard. Hassane for my first question, I'm curious as to your insights on the current demand
+environment. I think you mentioned auto units were down kind of in the mid teens, but just say
+they're only down 7.5% last year and in fact are at a record in Q4, and this delta between auto
+units and auto semiconductor sales is perhaps one of the widest that we have seen.
+So my question is how much are you shipping to real and demand versus customers stocking up
+when they just read about the shortages and the auto production shutdowns. How do we get the
+confidence that these above seasonal quarter that you're seeing in Q4 and Q1 will not be
+followed by some process of normalization later in the year. What is your level of insight into
+actual consumption of what you're shipping into the automotive supply chain?
+A - `Hassane El-Khoury, President, Chief Executive Officer, Director `
+Sure. So I'm going to answer direct as it relates to getting to our customers which are Tier-1 and I
+will skip any conversation about, does it go through this disti not this disti because for disti, we
+ship it to disti, if it ships out right away to an end-customer. So that's kind of how we're dealing
+with the disti, so we don't have a strand of inventory that could go to demand.
+So then to answer your question directly, how do we deal with the Tier-1. It's literally direct
+engagement. We know what the production rates are and we know what we're shipping in. And
+we know, which OEMS, we all know this -- and this side as far as what OEMs are not
+manufacturing which products.
+So we know where our product ends with which OEM, for which model year to call it 90th
+percentile. And that's how we manage it. If we know, for example, there's a shortage in an area
+or a shutdown of an OEM plant and we do have products that are targeted for that, we are going
+to redirect our products to somebody else. Sometimes that engagement is with the OEM. They
+say we're shutting down this factory, but we want our capacity to go to this other factory. We
+know it's going to a call it a vehicle versus just a Tier-1 making a box that may not end up in a
+vehicle.
+Now obviously, you're not going to get it 100%, right? But if we get 80% to 90% of it, I'll be very
+happy. And we monitor in our inventory. There is a lot of demand and like you said we're
+rationalizing all of that demand to make -- the supply to match the demand, and I use the term
+cautiously optimistic. It will take a couple of quarters, which is -- call it a full manufacturing cycle
+time from start to finish goods, to kind of get that through the system and see what the real
+demand is in that timeframe. But we're -- it's guerrilla warfare that we're doing every day. I'm
+happy with what the team's insights are for us to make decisions.
+Q - `Vivek Arya, Bank of America Merrill Lynch `
+Got it. And Hassane, as follow-up, the gross margins for Q1 guided up about 70 basis points at
+the midpoint, even though sales are kind of flattish and I heard some mention of the benefits of
+some prior closure decisions. So I was hoping if you could or Bernard could walk us through the
+gross margin improvement kind of level setters[ph] on Q1?Are we now looking at all the benefits of pricing, impact, closures and everything, until you make
+new decisions like as this Q1 gross margin the new baseline? Or are you still seeing the
+headwinds from a utilization and another perspective? Or maybe a different way to ask the same
+question. What is the incremental gross margin we should be modeling from Q2 onwards. Thank
+you.
+A - `Hassane El-Khoury, President, Chief Executive Officer, Director `
+So definitely the Q1 number includes the benefits of the closure of Rochester that's fully
+executed and we're seeing those going to our numbers, and that is having an effect on and we
+said before 15 million a year. So that's having an impact on our gross margins.
+A - `Bernard Gutmann, Chief Financial Officer, Executive Vice President, Treasurer `
+As far as moving forward and what you should expect, I will start with our Q1 guide and that's part
+of the regular updates I'll be giving you until I give you a trajectory for our gross margin, and
+Vivek, you know what trajectory and how committed I am, once I deploy a step function by the
+quarters based on my prior life[ph]. That's the one we're building right now.
+Now how much of this is in Q1 for the Rochester closure or the pricing judgment that I've talked
+about or other levers we're doing, it's actually there's a lot of line items that we have been pulling
+on. I'm not waiting obviously for August or till Q2 to start the work, we've made tremendous
+progress. You're going to see few weeks in Q1, on some items or a full month or two months in
+Q1 on others, depending on when we pull the trigger.
+My focus though is what I call structural gross margin improvement and what I mean by structural
+is gross margin improvement that we drive and it doesn't happen to us. I'll take the stuff -- the
+favorable things that happened to us, but there has to be a structural baseline, that is an out into
+the right gross margin baselines that you can hold us accountable to, and that's the plan we're
+going to be deploying.
+Q - `Vivek Arya, Bank of America Merrill Lynch `
+Got it. Thank you, and good luck.
+Operator
+Thank you. And our next question comes from the line of Christopher Rolland was Susquehanna
+International Group. Your line is open. Please go ahead.
+Q - `Chris Rolland, Susquehanna `
+Thanks for the question. And Bernard I echo my congrats, thank you for all the time we spent
+together. It was great. There's no business, like no business. Enjoy your retirement.
+All the good questions have been asked for the most part. Two quick ones. I guess first of all,
+disti revenue has traditionally been maybe in the 50s and we've had two strong quarters now in
+63, 64. Maybe talk about what you're seeing on the disti side? Are there shortages, direct and
+people are going disti at some of your competitors for example? What's driving that disti
+number, so much higher than typical?
+A - `Bernard Gutmann, Chief Financial Officer, Executive Vice President, Treasurer `The resales have been pretty strong in the channel. We are managing our inventories to be within
+our normal 11 to 13 weeks and keep being that way. So it's more just the overall strength.
+A - `Hassane El-Khoury, President, Chief Executive Officer, Director `
+Yeah, but I don't know the discrepancy that you're mentioning as far as I'm guessing the 60 and
+50 numbers or percent mix from distribution. It's been very consistent at about the 60% range.
+So, there hasn't been really a change in behavior, because direct customers are not going to
+switch to disti because they can get products from us, and that was the comment I gave to Vivek
+earlier.
+We are driving the disti inventory to be able to be a straight shot through disti to our end
+customer. There's no point on building inventory on the shelf at disti. So if the customer cannot
+get it direct from us, I can guarantee they're not going to be able to get it from the distributors
+by bypassing. That's not a driver, but it's been consistent. I don't see any change in distribution
+percentage for the company.
+Q - `Chris Rolland, Susquehanna `
+Sure. Understood. My second question on the com side. That was better than we had expected.
+Could you talk about the importance of maybe North America into this as you put handsets into
+coms versus rest of the world, China and others. Just talk about maybe where we're seeing
+outside strength and how important that North American customer is in particular.
+A - `Hassane El-Khoury, President, Chief Executive Officer, Director `
+Obviously, North American customer is important, because of the deployment and the capital
+expenditure is happening and given our position with the 5G power side of the market. We are
+very well positioned across the regions. There's a certain level of total market and as things loose
+share regionally, we will gain it somewhere else and that's the work we really monitoring on a
+global basis, regardless of where the design then happens.
+Q - `Chris Rolland, Susquehanna `
+Understood. Thank you guys. Congrats Bernard.
+Operator
+Thank you. And our next question comes from the line of `Craig Ellis, B. Riley FBR with B. Riley Securities. Your
+line is open. Please go ahead.
+Q - `Craig Ellis, B. Riley FBR `
+Yeah, thanks for taking the question, and Bernard congrats. It's been great working with you over
+the years. Hassane, I wanted to start just by following up on compute sequential strength and dig
+into the following. One, can you help us understand just the distinction between what server
+power might have done versus notebook given the strength to notebook units? And then, as you
+look that the things that distinguish where you'll want to allocate resources, any initial views on
+the ability to drive high gross margins and value out of those two different sides of the business
+going forward would be helpful.
+A - `Hassane El-Khoury, President, Chief Executive Officer, Director `Yes, so our focus in the computing space is more on the server and cloud. That's where we see
+where we have opportunities for enhanced shareholder value in the future. In the meantime,
+we're taking opportunities of the fact that the client computing has been quite strong and in that
+sense, where we will use some of it is going to be work-from home scenario, and obviously we
+are taking advantage of that, but the focus in the long run where we see better margins and also
+to enhance growth is (inaudible) percent.
+A - `Bernard Gutmann, Chief Financial Officer, Executive Vice President, Treasurer `
+Yes, and that said, it's kind of when you overlay our strategic markets, I talked about automotive
+and industrial. There are other submarkets that you're familiar with, like the server within the
+compute that is a focus market, because I look at it as an adjacent technology market.
+If we are able to create high value products in auto and industrial, those are very valuable for
+these sub markets that I'm talking about. They will drive growth and margin accretion for the
+company and those would be things. You're not going to see us invest as a point product in
+them, but we're definitely going to be addressing them as part of the adjacency we drive and
+that's effectively the OpEx efficiency metric.
+Q - `Craig Ellis, B. Riley FBR `
+Got it. And then for the follow-up, Hassane. You mentioned early in your script that since you've
+been boarded on, you've had some notable positive surprises. I was just hoping you could list
+two or three of those and talk about them and their implications as you think about driving the
+business forward and creating additional shareholder value? Thanks guys.
+A - `Hassane El-Khoury, President, Chief Executive Officer, Director `
+Sure. I'll give you -- I don't want to steal my own thunder for the August meeting, but I'll give you.
+One, that we have -- if you look at the product portfolio mapping versus gross margin profile, I
+really like the distribution. I thought the distribution is going to be more -- less leverage and much
+higher gross margin businesses than what I found.
+So we do have some very healthy gross margins and the focus for me is how do we double down
+on those and grow them in order to start effectively shifting the mix while we disposition the
+dilutive tail. There's more levers in that view of the business, than I have thought walking in and
+that gets me excited, because I don't have to wait five years to change or mix. We can actually try
+to manage a mixed shift effectively and we control it.
+Q - `Craig Ellis, B. Riley FBR `
+That's great. Thank you.
+Operator
+Thank you. And our next question comes from the line of `Kevin Cassidy, Rosenblatt Securities with Rosenblatt
+Securities. Your line is open. Please go ahead.
+Q - `Kevin Cassidy, Rosenblatt Securities `
+Yeah. Thanks for taking my question. Congratulations, Bernard. Just on the foundry, so how many
+different foundries do you use and are they all raising prices? Is this what you're talking about
+when you say the supply chain -- your supply chain is increasing prices.A - `Bernard Gutmann, Chief Financial Officer, Executive Vice President, Treasurer `
+So we use the same -- except that pretty much everybody else uses the big ones and small ones.
+We have a pretty long list of foundries and we are subject to the same pressures that all of us
+above competitors or subject.
+A - `Hassane El-Khoury, President, Chief Executive Officer, Director `
+Yes, but the comment I made about the supply chains is not really foundry versus internal, you
+need to look at it as material. There is also --- it's not really the supply shortages that everybody
+seeing, but more importantly that I look at is the materials that is required.
+So there are pockets that our suppliers have asked for and if we're able to absorb them, we are.
+If not, we usually have a dual source strategy, so we'll move somewhere else. But with a -- the
+supply constraint that everybody is seeing, some of it we just have to basically eat in order for us
+to support our customers. And in those cases, we are going to pass it down. But it's not a foundry
+versus internal cost conversation, it's more, call it raw material for our supply chain.
+Q - `Kevin Cassidy, Rosenblatt Securities `
+Okay, understood. Thanks. And maybe just a quick follow-up. Maybe in part of your strategy
+development, is there consideration for consolidating foundries or trying to get prices down by
+putting more into one foundry?
+A - `Hassane El-Khoury, President, Chief Executive Officer, Director `
+Well, obviously, if you are able to consolidate even your business on the foundry, you will get the
+volume pricing benefit versus being able to be spread across multiple. We don't always have the
+choice because of the technology footprint that you need. Our foundry just doesn't do a wide
+range of the technology we need. And -- but that's part of how we are looking at it. So when I say
+manufacturing consolidation, it's both internal and external in order to get the best pricing and
+the best posture we can, to service our end markets.
+Q - `Kevin Cassidy, Rosenblatt Securities `
+Okay. Great. Thank you.
+Operator
+Thank you. And our next question comes from the line of `David O'Connor, Exane BNP Paribas with Exane BNP
+Paribas. Your line is open. Please go ahead.
+Q - `David O'Connor, Exane BNP Paribas
+Great. Good morning. And thanks for taking my questions. Maybe one or two just follow-up some
+my sights. Hassane, you mentioned about being positively surprised when you came in and
+started to look at the business. Was there any negative surprises that kind of stood out for you?
+That's my first question.
+And then maybe as the follow-up, the industry has been caught by surprise by this solid[ph]
+tightness. How does -- how do you think that changes the relationship if at all with foundries in the
+kind of longer-term? Is there anything in terms of securing that capacity that needs to change or
+just even in the relationship? Thank you.A - `Hassane El-Khoury, President, Chief Executive Officer, Director `
+Sure. It's hard for me to answer the negative surprises, because I don't have any. My mind works
+differently. If I see something that is not what I expected, I look at it as a positive opportunity.
+So it's always positive, whether it's a surprise or an opportunity. Of course, there are a couple
+that I just didn't know. I didn't have an opinion, one way or another because their internal -- I didn't
+have the privilege of getting in and looking at non-public information before I joined that I
+discovered, but I looked at it as well. That's part of the reason I took the job is in order to be able
+to identify all of these opportunities and turn them into positive surprises for us and our
+shareholders.
+But I will tell you in general, the umbrella that I would answer is there hasn't been a day at the last
+eight weeks where I woke up thinking, what the heck did I just do. It's always been let's go at it,
+let's write more things down and let's start executing. That's been kind of the mindset I've had
+and really the response from the team has been tremendous. And that's why you see an
+energized workforce, but more importantly the results are going to start to show. So that's on this
+side.
+Now, how do we deal with the long-term kind of the industry caught by surprise and so on. It's
+really once you have a strategy and a five-year outlook with a 3-year incredible window, then you
+start having those strategic conversations with your suppliers and turning the conversation from a
+tactical to a strategic.
+Where, if you're able to commit, this is your growth and you're able to keep their factories not
+lumpy, up and down, then you have a much better relationship. I have a lot of those relationships
+personally. Wei-Chung who we brought in as the Head of Global Manufacturing and Operation
+has a lot of these relationships and we're going to strengthen those. But it's all going to start with
+we as a company, what do we want to do strategically and how can they help.
+Q - `David O'Connor, Exane BNP Paribas
+Very helpful. Thank you.
+Operator
+Thank you. And our next question comes from the line of `Harlan Sur, JP Morgan with JP Morgan. Your line is
+open. Please go ahead.
+Q - `Harlan Sur, JP Morgan `
+Good morning. Hassane, welcome to the team, and thank you to Bernard for your contributions
+and support over the past number of years. As a part of your strategy Hassane, focus on high
+margin, high growth products, and markets. The key part of that is indeed with certain leadership
+products and then drive for their dollar content attached, given the breadth of the portfolio.
+What's your assessment of the current sales and marketing organization and focus and the ability
+to cross sell and drive higher tax rates to targeted opportunities?
+A - `Hassane El-Khoury, President, Chief Executive Officer, Director `
+Yes. I think from our direct salesforce and our marketing, the mindset is there, and my drive for
+these groups is really adding the focus. If you have a salesforce and order marketing, I would call
+it sales and marketing with a very heavy bag to sell and portion of that bag is not going to drivethem to sell, still at a breadth and with material coverage. That's how I'm thinking about it. And
+that by the way is going to match our distribution.
+I answered the prior question where our portfolio rationalization is going to drive our distribution
+footprint. I'm going to be looking at distribution the same way I look at our direct sales and
+marketing. It's going to be how do we maximize the content that I want to maximize.
+Q - `Harlan Sur, JP Morgan `
+Yeah, makes sense. And then maybe, if you could just give us your thoughts on the Silicon
+Carbide product portfolio, I know the team has been talking about growing portfolio and design
+win pipeline of innovation[ph] silicon carbide based product solutions in both automotive and
+industrial, but wanted to get your views.
+A - `Hassane El-Khoury, President, Chief Executive Officer, Director `
+Sure. I would put that under one of the positive surprises that I've seen since joining. I think our
+products are very competitive. I like where we are on the technology development for that and
+really more importantly is the design wins that we've had in these -- in these markets.
+Now obviously, as far as revenue drive as we all know, the mix of IGBT versus silicon carbide,
+we're going to see that crossover probably over the next, I don't know four to five years, but
+we're here, we're playing, and we're going to start taking care, based on where our products are
+going to be. So, I see that as a positive surprise for me, and it's going to be definitely part of the
+strategic intent that we're talking about.
+Q - `Harlan Sur, JP Morgan `
+Great. Thank you.
+Operator
+Thank you. And our next question comes from the line of `John Pitzer, Credit Suisse with Credit Suisse. Your line
+is open. Please go ahead.
+Q - `John Pitzer, Credit Suisse `
+Yes. Good morning, guys. Hassane, congratulations and thanks for letting me ask the question.
+Hassane, you mentioned earlier that we're all trying to steal your thunder for the August Analyst
+Day and I apologize that this is an attempt, but you talked about the margin targets that are out
+there today, and that they wouldn't change until August.
+But in that preamble, you also talked about timing to get there was being a big focus. I'm kind of
+curious relative to the existing targets that are out there, how quickly do you think you can get
+there and if you can help me understand where the low hanging fruit is versus a stuff that's a little
+bit harder to do.
+A - `Hassane El-Khoury, President, Chief Executive Officer, Director `
+Sure. So you see already, Q1 is a move in the right direction, as far as margin. So that I'll just tell
+you that. You're not going to wait until -- we have one more quarter before the August discussion
+we will have, so you'll see more progress then.
+As far as the timing, of course, fab changes will take the longest, because it takes time to changeyou're also not going to hear me say, wait for me for three years before we unwind all of this.
+Right?
+We have and there are enough levers for us to make a positive impact on margin. What I'm
+hesitating, because I really haven't done the full scope of it is the scale of that positive impact we
+can do in the short term. And again, all I'm asking for is for August. But you're not going to see --
+yeah, we're stuck with manufacturing. So it's going to take a long time. That's not what you can
+expect. You'll expect something much more favorable.
+Q - `John Pitzer, Credit Suisse `
+That's helpful. And maybe as follow-up, just going about your M&A comments. I know you're not
+going to be too specific, but I was hoping you could give us some broad strokes of how you're
+thinking about M&A. You clearly created a lot of value at Cypress with the Broadcom IoT
+acquisition. If you look at the history with ON, there's sort of been this tension between M&A and
+profitability targets, and often times the M&A set the profitability targets back. What kind of
+principal views do you have on M&A around accretion, around the model, around what it needs to
+add the business?
+A - `Hassane El-Khoury, President, Chief Executive Officer, Director `
+Sure. There's not really one recipe for M&A. What -- parallel to what I talked about the strategy
+for the company, I do have a M&A strategy very specifically that matches up to that. And what do I
+mean? Some deal are strategic deals, where they may not be accretive right in the first year or
+when we do it or at the synergy, but they're strategic to give us a position in the market that we
+would like, a leadership position. We're going to be looking at those for example.
+There are some that are financial deals, where you do this -- you do a deal, because it
+strengthened your current markets or capability that you are growing organically where you can
+give it an adrenaline shot in the arm and accelerate the attainment versus doing it organically.
+So I look at M&A and you've seen it the way we've done it Cypress, in order to fit a certain
+purpose, and that's the thesis that I form prior to going into the M&A, because if I can't explain it
+to all of our employees, I sure as heck cannot explain it to all of you out there. So focusing on why
+we are doing it, is key.
+But we're not going to do a bad deal, just to do a bad deal. We do have the scale, we have the
+growth, we have a lot of opportunity for us to create value. So you're not going to see us rushing,
+doing something just for the sake of doing something. We're going to be very disciplined. But
+when we do something, you can expect that it's going to be to achieve a very specific thesis that
+is very well aligned with our strategy.
+Q - `John Pitzer, Credit Suisse `
+Helpful. Thank you.
+Operator
+Thank you, and our next question comes from the line of `William Stein, Truist Securities with Truist Securities. Your
+line is open. Please go ahead.
+Q - `William Stein, Truist Securities `Great. Thanks for letting me ask a question. I offer my congrats again to Bernard. So, Hassane
+probably for you. I'm hoping you can dig into the end markets a little bit more in particular. I think
+we didn't hear about consumer and compute in the quarter, maybe that's -- tell us to the
+strategic focus of those end markets. But maybe you can talk also about the Q1 outlook by end
+market a little bit? Thank you.
+A - `Hassane El-Khoury, President, Chief Executive Officer, Director `
+Sure. Your comment is very accurate. I'm starting to set the stage of where we're going to be and
+obviously the Q&A session is very, very long.
+But it's very also important to kind of set the stage of where we are. But you're going to start
+expecting these commentary in order for us as a company to start driving the narrative of where
+we are and what our strategy is. That's why you're going to see a lot of commentary on -- as far
+as some of the end markets that I'll gladly take if they support growth at the right margin profile
+that we have. But what I call they are opportunistic markets.
+I'm not going to be delving into a lot of those details moving forward, but if there's anything
+notable, we will just tell you regarding that and that includes kind of given the breakdown
+forward-looking guidance by all of these end markets. I don't think that dilutes a little bit of what
+we are doing, so I want to keep the message on point.
+Q - `William Stein, Truist Securities `
+Okay. Maybe then I can ask a little bit about the backlog. We've heard a lot about shortages that
+stimulate double ordering, because customers get nervous. It sounds like that's not so much
+happening with your business. But maybe you can give us some idea as to the size of the backlog
+now and the duration of the backlog relative to what it looks like typically?
+A - `Hassane El-Khoury, President, Chief Executive Officer, Director `
+Listen, there's always risk of double ordering and we have a lot of metrics. Our sales force and
+our operations team have way more data than I can tell you about, how we trend and make sure
+that there are inconsistencies between what we expect, what the market tells us, and what the
+orders on our books are.
+So I'll leave it at that and whatever we see risk of double ordering, we pick up the phone and
+have to engage directly. We don't depend just on the backlog to drive our inventory and our
+wafer starts. So we do that again as a day-to-day. Typically in normal times, we don't have to do
+this. But again, if it goes back to the comment I made earlier, when we get an order, I want to
+make sure to whatever confidence I can 80%, 90%, 100% confidence, that it's going to be on a
+board, at a customer that's going to shift an end consumer. That's the focus. So we're trying to
+plow through it, but there are indications of some double booking that we just ignore I guess.
+Q - `William Stein, Truist Securities `
+Thanks, Hassane. And congrats on the great results and guidance.
+A - `Hassane El-Khoury, President, Chief Executive Officer, Director `
+Thank you.
+OperatorThank you, and this does conclude today's question and answer session. And I would like to turn
+the conference back over to `Parag Agarwal, Vice President, Corporate Development and Investor Relations for any further remarks.
+A - `Parag Agarwal, Vice President, Corporate Development and Investor Relations `
+Thank you, everyone, for joining the call today. We look forward to seeing you at various
+conferences and various non (inaudible) for the quarter. Thank you and goodbye.
+Operator
+Ladies and gentlemen, this concludes today's program. You may all disconnect. Everyone, have a
+great day.

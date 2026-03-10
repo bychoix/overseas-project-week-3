@@ -1,0 +1,503 @@
+Q4 2014 Earnings Call
+
+Operator
+Ladies and gentlemen, thank you for standing by. Welcome to the Teledyne Fourth Quarter
+Earnings Call. At this time, all participants are in listen-only mode. Later, we will conduct a
+question-answer session, and instructions will be given at that time. As a reminder, this
+conference is being recorded.
+I would now like to turn the conference over to our host, Mr. Jason VanWees. Please go ahead.
+Jason VanWees `
+Thank you and good morning, everyone. This is Jason VanWees, Senior Vice President, Strategy
+and M&A at Teledyne and I'd like to welcome everyone to Teledyne's fourth quarter and full year
+2014 earnings release conference call. We released our earnings earlier this morning before the
+market open. Joining me today are Teledyne's Chairman, President and CEO, Robert Mehrabian;
+Senior Vice President and CFO, Sue Main; and Senior Vice President, General Counsel and
+Secretary, Melanie Cibik.
+After remarks by Robert and Sue, we will ask for your questions. However, before we get started,
+our attorneys have reminded me to tell you that all forward-looking statements made this
+morning are subject to various risks, assumptions and caveats as noted in the earnings release
+and, of course, our periodic SEC filings and results may differ materially. In order to avoid
+potential selective disclosures, this call is simultaneously being webcast and a replay, both via
+webcast and dial-in, will be available for approximately one month.
+Here is Robert.
+Robert Mehrabian `
+Thank you, Jason, and good morning, everyone. Record sales of $622.3 million increased 4.3%
+compared to last year, with organic growth of 2.5%, inclusive of some currency headwind. Fourth
+quarter GAAP earnings per share of $1.62 was also a record, increasing 12.5% compared to last
+year.I should note that earnings both this year and last were aided by certain tax benefits.
+Nevertheless, excluding these tax benefits and unusual charges, such as restructuring and legal
+settlement gains in 2013, earnings still increased at double-digit rate year-over-year. Operating
+margin of 12.8% increased 220 basis points and was also a record. Our results continue to
+demonstrate the successful transformation of Teledyne into higher margin industrial technology
+company committed to operational excellence.
+Overall, sales growth was driven by strong organic growth in U.S. commercial markets of just over
+5% as well as continued gains in international markets and some impact from acquisitions. Our
+U.S. government businesses, which represent approximately 25% of our total sales declined
+slightly year-over-year on a somewhat difficult comparison, but were nevertheless at the highest
+quarterly level in 2014 on an absolute basis. In our commercial businesses, we achieved growth in
+all major global market regions. Sales growth in the U.S. was largely driven by increased sales of
+instrumentation, avionics and commercial imaging systems. Commercial sales in Europe and the
+Middle East and Africa collectively also increased due, in part, to broad-based demand across our
+Instrumentation segment.
+Finally, Asia Pacific sales continued to grow with sales of nearly all of our marine, acoustic
+positioning and interconnect systems growing year-over-year. Before discussing our business
+segments in detail, I want to make some additional comments about our markets and outlook.
+Given the strength and diversity of Teledyne's businesses and our consistent focus on
+operational excellence, we were able to achieve our 13th consecutive year of GAAP earnings
+growth. We enter 2014 with headwinds in our government businesses as a result of U.S.
+government's budget cuts and austerity measures across the U.K. and Europe.
+In response, throughout 2013 and 2014, we took aggressive expense reduction actions to lower
+our cost structure and reduce our manufacturing footprint in businesses serving these markets.
+While the outlook now is more positive in these markets, we are committed to maintaining our
+current cost structure thereby generating greater margins. We entered 2015 with uncertainty in
+our marine businesses exposed to energy markets given the decline in energy prices. Revenue
+from offshore energy exploration market has begun to decline as expected and discussed
+previously. All right, offshore oil production related revenue has remained strong. In fact, during
+the fourth quarter, we had record sales and record orders and ended the year with record
+backlog in businesses primarily serving the offshore production market.
+I also want to note that our marine businesses are somewhat buffered from swings in energy
+markets since our businesses also serve markets with different economic cycles, such as ocean
+science and climatology, defense, marine survey for port construction, harbor security and search
+and rescue. In 2014, we further invested in these businesses with the acquisition of SeaBotix, a
+leading supplier of miniature remotely operated vehicles, or mini ROVs, and the acquisition of
+Oceanscience, which produces remotely operated and tethered marine surface vehicles. Each of
+these businesses largely serves markets unrelated to offshore energy.
+Finally, regarding our 2015 outlook, I want to emphasize that 2014 included a number of non-
+recurring items which contributed to earnings. For example, the cumulative effect of discrete tax
+benefit, the late 2014 federal R&D tax credit, and favorable net legal settlement was a benefit of
+approximately $0.50 to earnings in 2014.
+Furthermore, given lower discount rates and revised mortality assumptions, we expect to incur
+additional pension expense in 2015. Nevertheless, I want to remind everyone that our pension
+remains fully funded, has been closed to new hires for over a decade and only 18.4% of our
+current employees participate in it. We also continue to make structural changes, first, by freezingour non-qualified pension plan for 20 of our top executives who earned over $260,000 in salary
+and bonus combined; and second, by offering lump sum buyouts to other participants to limit
+future volatility and help ensure the health of our pension and keep promises made to retirees
+and current employees.
+I will now comment on our business segments after which Sue Main will review some of the
+financials in more detail and provide an earnings outlook for the fourth quarter and full year 2015.
+Turning to our Instrumentation segment, fourth quarter sales increased 8.6% to nearly $300
+million with organic growth of 4.8%. Sales of marine instrumentation increased 13.2% with organic
+growth of 6.6% despite the significant year-over-year decline in sales of geophysical sensors
+used for offshore energy exploration. As I mentioned previously, sales to offshore energy
+production industry remained very strong and non-energy marine businesses also contributed
+nicely. In the environmental domain, sales increased 4.8%, which was all organic. Sales of
+laboratory and field instrumentation helped offset some decline in sales of air monitoring and
+process gas analyzers. Sales of electronic test and measurement systems were flat.
+Nevertheless, margins for search (10:10) instrumentation continued to improve and were at
+record level. GAAP operating segment profit increased and operating margin improved over 170
+basis points due to higher sales and improved operating performance especially at companies
+acquired within the last two years to three years.
+Turning to Digital Imaging, this segment provides a broad portfolio of visible light, laser-based
+infrared, X-ray and ultraviolet sensors, cameras and software. Fourth quarter sales in Digital
+Imaging decreased modestly compared to last year and primarily reflected lower sales of
+especially imaging sensors, mostly offset by higher sales of LIDAR or laser-based imaging
+systems and micro electromechanical systems, or MEMS, production.
+Sales of sensors and cameras for commercial machine vision applications increased, largely
+driven by greater sales of cameras or semiconductors and electronic inspection. GAAP segment
+operating profit increased considerably and primarily reflected higher margins for LIDAR systems
+and MEMS production, as well as infrared imaging sensors.
+Turning to Aerospace and Defense Electronics segment, fourth quarter sales decreased 2.5%,
+while U.S. government sales declined. Our commercial avionics businesses continued to perform
+very well. Operating profit increased with margins increasing over 300 basis points. Even
+excluding significant charges in 2013 as a result of cost reduction action, margins still improved
+approximately 100 basis points.
+Turning to the Engineered Systems segment, fourth quarter revenue increased 8.9% and
+operating profit increased significantly with record margin, up 13.4%. Both sales and margin
+benefited from a greater mix of marine and space manufacturing program, and increased sales
+of turbine engine for the Joint Air-to-Surface Standoff Missile, or JASSM, program.
+In conclusion, 2014 was a great year. In addition to record sales, earnings and margins, cash flow
+was also outstanding. Our business is diversified and resilient to changes in specific end market.
+That said, our success depends on managing change as evidenced by how we executed as a
+company through the weakness in the defense market over the last few years. We are proud of
+our consistent record of improvement in earnings and profitability, as well as strong cash
+generation.
+Regarding capital allocation, our primary focus remains at – on acquisitions that enhance our core
+businesses. Nevertheless, we are very pleased with the current composition of our businessportfolio and we will continue to weigh share repurchases against availability and price of
+acquisitions.
+I will now turn the call over to Sue Main.
+Susan L. Main `
+Thank you, Robert, and good morning. I will first discuss some additional financials for the quarter
+not covered by Robert, and then I will discuss our first quarter and full year 2015 outlook. In the
+fourth quarter, cash flow from operating activities was $84.1 million compared with a cash flow of
+$98.5 million for the same period of 2013. The lower cash provided by operating activities in the
+fourth quarter of 2014 primarily reflected the impact of higher income tax payments, partially
+offset by higher net income and the timing of accounts receivable collections. Free cash flow, that
+is, cash from operating activities less capital expenditures was $70.3 million in the fourth quarter
+of 2014 compared with $79.9 million in 2013. For the full year 2014, adjusted free cash flow of
+$240.2 million versus $182.9 million increased 31.3% over 2013 and was an all-time record.
+Capital expenditures were $13.8 million in the fourth quarter compared to $18.6 million for the
+same period of 2013. Depreciation and amortization expense was $24.2 million in the quarter
+compared with $24 million last year. In December, we issued $125 million of senior unsecured
+notes with an average fixed rate of 2.97% and we ended the quarter with $563.7 million of net
+debt, that is, $705.1 million of debt and capital leases, less cash of $141.4 million for a net debt to
+capital ratio of 27.7%.
+Turning to pension and stock compensation expense, in the fourth quarter of 2014, gross GAAP
+pension income was $0.3 million compared with gross pension expense of $4.5 million in the
+same period of 2013. Stock option compensation expense was $3.9 million in the fourth quarter
+of 2014 compared with $3.1 million in the fourth quarter of 2013.
+Finally, turning to our outlook. Management currently believes that GAAP earnings per share from
+continuing operations in the first quarter of 2015 will be in the range of $1.16 to $1.20 per share.
+We expect full year 2015 earnings per share of approximately $5.71 to $5.76. The 2015 full year
+effective tax rate is expected to be 29.5%. For reference, excluding discrete items and fourth
+quarter R&D tax credit, the full year 2014 tax rate was 28.7%.
+I do want to emphasize a few items regarding our 2015 outlook compared to 2014. First, our
+pension assumptions included a discount rate decrease of 90 basis points and changes in
+mortality assumptions, which will increase non-cash pension expense in 2015. Second, 2014
+results benefited from net legal settlements, significant discrete tax items including $0.06 in the
+first quarter of 2014, and the 2014 R&D tax credit, which is not currently effective for 2015 as well
+as a slightly lower tax rate.
+Finally, approximately, 10% of our total sales are in foreign currencies and foreign exchange is
+likely to be a headwind of one to two percentage points to revenue in 2015.
+I will now pass the call back to Robert.
+Robert Mehrabian `
+Thank you. We would like to take your questions now. Vicky, if you are ready to proceed with
+questions and answers, please go ahead.
+Q&AOperator
+Certainly. Our first question comes from the line of `Greg Konrad, Jefferies LLC [Jefferies LLC]. Please go ahead.
+Q - `Greg Konrad, Jefferies LLC `
+Good morning. I just wanted to start, you had good cash flow in the quarter and you also
+announced an increase in the share repurchase program. You made some comments about
+balancing share repurchases and acquisitions. I was hoping you could elaborate on that. And then
+also just touch on if the lower price of oil has increased the acquisition pipeline.
+A - Robert Mehrabian `
+Thank you, Greg. First, just to emphasize that our aim always is to improve our revenue and
+increase our earnings per share as we've done in the last 13 years and part of the contribution to
+that – significant part have been the acquisition. Approximately, 65% plus of our revenue and
+more than that in income come through our acquisition. So we will continue to look at those. We
+have a reasonably good pipeline of acquisitions. Having said that, as you also indicated, because
+of the healthy cash flow and our EBITDA of total – of almost $395 million, we feel that we can do
+both opportunistically.
+If there are a lot of large acquisitions available, we may not do as much a buyback. On the other
+hand, I think the time has come for our company to look at those – both options in a more
+balanced way. Having said that, the price of oil going down has affected our pipeline, at least our
+view of our pipeline somewhat in that we probably will be a little more cautious in making
+investments in the marine instrumentation domain that are related to oil production and
+exploration. Having said that, as I said before, our marine businesses are very well balanced and
+we will look at other opportunities in the marine domain that don't serve the energy market. I
+don't think prices have changed significantly because of the change in oil, you have to obviously
+balance price of acquisitions with their earning potential. I hope that answers your question.
+Q - `Greg Konrad, Jefferies LLC `
+Yeah, that was perfect. And then just a follow-up on the Instrumentation margin, you gave a little
+bit of color on this but I remember what the segment used to do before LeCroy and the
+acquisition, and it sounds like the margin on that property has improved and that's part of the
+contribution to the 17.8% in the quarter. Can you maybe talk a little bit more about the moving
+pieces and what we can expect going forward and the ranges of the three segments?
+A - Robert Mehrabian `
+Yes, I think in the Instrumentation segment, we believe that the margins – we should be able to
+maintain those margins, I should note, Greg, that if you look at our Q1 both 2014 and 2013, Q1 is
+our weakest quarter because of the markets we serve. And so in Q1, we expect margins for
+almost all of our segments to be closer to Q1 of last year. But as the year goes on, I think the
+margins will improve as they did this year. In Instrumentation, we think if – we view Instrumentation
+in its various groupings. First, in oil and gas, our margins are very healthy and we just – our
+emphasis is to keep those margins and see if we can move the top-line up a little bit.
+In test and measurement that you mentioned primarily LeCroy, our aim is not to worry so much
+about revenue growth, so we have some potential improvement in other businesses using
+LeCroy technologies. Our aim there is to improve margins and we will do that next year. And inour environmental instrumentation, they have healthy margins and we just want to keep them and
+just move the top-line up a little bit.
+Q - `Greg Konrad, Jefferies LLC `
+Thanks for taking my question.
+A - Robert Mehrabian `
+No, that's all right. And I just want to go back to what Sue mentioned and what I said about
+pension. If we hadn't taken the actions that we took on pension, which were mitigation by
+freezing the non-qualified pension by doing one-time buys, our pension headwinds would have
+been significantly larger than it is. But nevertheless, having said all of that between pension and
+one-time taxes, we have a $0.50 headwind going into next year. Our aim is to make that up in
+2015. So that really comes from our various margin improvement programs.
+Q - `Greg Konrad, Jefferies LLC `
+Thanks for taking my questions.
+A - Robert Mehrabian `
+Sure, Greg.
+Operator
+Our next question comes from the line of Jim Ricchiuti with Needham & Company. Please go
+ahead.
+Q - `James A. Ricchiuti, Needham & Co. LLC `
+Thank you. Good morning. Robert, I wonder if you would comment just in general on the outlook
+for the four main business segments just – how you might see the year unfold from a top-line
+standpoint.
+A - Robert Mehrabian `
+Sure. Good morning, Jim. I think from a top-line standpoint, we should have about 1% or so in
+instrumentation primarily because that's organic. That's primarily because of the impact of our oil
+exploration programs which we're going to probably see 25% to 35% decline in revenue there.
+So we have to make it up somewhere else. And then there is foreign exchange headwind. In
+Digital Imaging, I think we can improve that about 3% to 4%. In Aerospace and Defense, we'll just
+be under 4%, I'll say 3.5%. And Engineered Systems, I'm talking year-over-year, Jim, I hope you're
+with me on that.
+Q - `James A. Ricchiuti, Needham & Co. LLC `
+I am. Thank you.
+A - Robert Mehrabian `
+In Engineered Systems, we'll be at – it should improve the top-line by about 4% collectively with
+taking into account with the foreign exchange and the fact that, first, as Sue said, there's 10% of
+our stuff that are produced in those markets, but the other problem that we have is we're
+competing in our instrumentation and other businesses overseas. And we have about 45% of ouroverall sales overseas. So we have to drop prices in those places in dollar denomination to
+compete. So we think revenue next year, organic revenue growth is going to be around 2%. It
+could be a little higher, but right now, that's what we see.
+Q - `James A. Ricchiuti, Needham & Co. LLC `
+That's very helpful. And I wanted to follow up on the Digital Imaging business, if I may. The growth
+there has been a little harder to come by in the last couple of years. You're assuming 3% to 4%
+or so growth in the business this year. And I wonder if you could discuss that a little bit more, the
+particular areas where we might see that business begin to gain some traction.
+A - Robert Mehrabian `
+Okay, Jim, I'll try. First, we've seen some pickup in our LIDAR-based or laser-based imaging
+business, which we own 51% of a company called Optech in Canada. They have introduced new
+products and as a consequence of that, they have gained market share and we have some nice
+backlog going into next year. Their new products are – for example, there's a high performance
+airborne LIDAR that they've introduced and a multi-color three laser wavelength LIDAR and those
+are making good inroads in the market. So, some of the growth is going to come from there. We
+also have new products that we're introducing, area scan products. We've primarily been a line
+scan camera oriented business. We are introducing area scan products with CMOS-based
+sensors.
+And last two contributions we think will come from our infrared microbolometer production and
+cameras in Canada and from our very high resolution CMOS-based X-ray. So those are – if you
+combine all of those, we think those would contribute to the revenue increase.
+Q - `James A. Ricchiuti, Needham & Co. LLC `
+Thank you. That's helpful.
+A - Robert Mehrabian `
+Thank you.
+Operator
+Our next question comes from the line of Steve Levenson with Stifel. Please go ahead.
+Q - `Stephen E. Levenson, Stifel, Nicolaus & Co., Inc. `
+Good morning, everybody.
+A - Robert Mehrabian `
+Good morning, Steve.
+Q - `Stephen E. Levenson, Stifel, Nicolaus & Co., Inc. `
+In the past – I know you've spoken about acquisitions, but in the past, you've also been able to
+boost margins by working on scrap, rework, waste and footprint. What do you think you can get
+out of that in 2015?
+A - Robert Mehrabian `I think what – wait, let me just back up a second. What we got in 2014 year-over-year was a 12.5%
+reduction in our scrap, rework and warranty across over a billion dollars of manufactured goods.
+So that helped us a lot. And over the last 10 years, the percentage of those, what we call price of
+nonconformance in our factories has gone down from 5.1% to 1.8% resulting in a net improvement
+in our earnings of about – over $60 million. Now, our aim is to do the same, Steve, every year. Our
+target for next year is around the same 10% or so. We think if we can achieve that specially where
+we have higher numbers for price of nonconformance, those would be primarily in more recent
+acquisitions and we can improve the margins. I'm going to say overall in those businesses, we can
+improve margins 20 basis points, 30 basis points, may be 40 basis points from that. But some of
+their other businesses already are that have been with us for a long time already have PONC
+numbers, percentages that are below 1, 0.6, 0.7 and improvement there, 10%, 15% improvement
+there while we will do it is not going to have a major effect in our bottom-line.
+Q - `Stephen E. Levenson, Stifel, Nicolaus & Co., Inc. `
+Okay. It sounds like a high-class problem. But thank you for the detail on that. I guess a question
+on cash deployment to – is there a debt to EBITDA target leverage ratio? Do you think you'd
+borrow more to do more buybacks if there aren't acquisitions out there that fit your criteria?
+A - Robert Mehrabian `
+Yeah. Right now, if you look at our debt to EBITDA ratio, it's about 1.7. If you look at it from a net
+debt, Sue mentioned, to EBITDA ratio is closer to 1.5. Having said that, I think we have a ceiling
+roof for our debt to EBITDA of 3, we will never get that close of 3.25 to be exact. I think we feel
+comfortable be around 2, maybe a little higher. We might go up to a 2.5, but we'll bring it down
+very fast by generating cash. But even at 1.8 to 2, we already have borrowing capacity. If we
+assume that was the ceiling of up to $650 million.
+Q - `Stephen E. Levenson, Stifel, Nicolaus & Co., Inc. `
+Thank you for the additional detail. That's great.
+A - Robert Mehrabian `
+Thank you.
+Operator
+Our next question comes from the line of Chris Quilty with Raymond James. Please go ahead.
+Q - `Chris D. Quilty, Raymond James & Associates, Inc. `
+Good morning. Congratulations. Follow up on the marine segment and specifically oil and gas; is
+there a specific price for a barrel of oil that's embedded in your revised forecast?
+A - Robert Mehrabian `
+Not specific. What we have, Chris, is we know what our large customers on the exploration side
+are telling us. They are basically delaying production of new vessels. Other companies that we
+don't do business with are retiring vessels. So there, we have a pretty good idea of what that
+market's going to be like. It could be down as much as 35% year-over-year. Remembering that it
+was $100 million in 2013 and closer to $80 million this 2014, so another 30% decline would bring it
+down to $60 million. So you are going from $100 million to $60 million over two years. The flip
+side is, as I said, our oil production so far is holding up very well and part of that, you asked aboutwhat kind of price of oil, part of that is that different sources of oil and gas recovery have
+different price breakeven points depending on whether it's shallow water, that would be the
+lowest, onshore, conventional, it could be maybe $40; deepwater probably over $60, but then
+when you get to shale oil, you're talking about $70, could be as high as $100.
+So what we're seeing is changes in the dynamics of the businesses, the shale oil businesses are
+reducing their cost very fast because that's not too hard to do. You pick up your trucks and move
+them and stop the drilling and whereas in the deepwater, the projects are planned over a 10-year
+period and the larger oil companies have seen oil prices go up and down over the last two
+decades. And they can't plan on immediate oil price reduction because they're spending huge
+amounts of money. For example, in the Kaombo offshore award that we got late in 2014, that is a
+$10 billion investment. You can't shut that spigot off or turn it on. So they have a much longer view
+of the market than we do and even as early as November, Quest Subsea Database is projecting
+significant increases in deep sea production in the next six years or seven years as much as 70%
+or more. So it's very hard to predict.
+I think in the deep sea oil production, we feel comfortable that oil prices are not going to affect
+them very quickly. Having said that, I'll repeat the remarks that I made before in the last earnings
+call, which is, it's my personal view that the per capita oil consumption is going to increase,
+especially as we see recoveries in the Far East markets because their capital consumption is
+several – four, five times less than ours or other – or developed countries. And in the long-term,
+oil prices – supplies are not going to be as abundant as they are today compared to
+consumption. So I think in the long-term, oil prices have to moderate to upwards and that's my
+perspective and I may be wrong, but I don't think so.
+Q - `Chris D. Quilty, Raymond James & Associates, Inc. `
+I would tend to agree. Can you give us a more specific guidance on the pension contribution that
+you would expect for this year?
+A - Robert Mehrabian `
+We don't. Chris, we don't expect to make a pension contribution as of the end of the year
+considering the 4.5% discount rate. Sue mentioned 90 basis points reduced from last year. It was
+5.4%. It's now 4.5% for us. Our pension is 110% funded even at that discount rate and if the
+changes were in the mortality tables that the actuaries got together and decided that people live
+longer probably true. And so, we don't need to make a contribution, but what we need to do is
+take some actions by freezing our non-qualified pension and making one-time lump sum offers to
+those people who are retiring. We've made those to people what we call vested people that are
+vested in our pension, but they are not at Teledyne anymore and haven't begun withdrawing
+pension. We have bought about over 500 of those folks out of our pension plan in the last two
+years.
+Q - `Chris D. Quilty, Raymond James & Associates, Inc. `
+Got you. And the R&D tax credits, I didn't pay attention how long are those in effect for? Is this
+the typical one year extension?
+A - Robert Mehrabian `
+Yeah. Yeah, what they did is in the last few days of the year, they passed R&D tax credit for 2014
+only. They could have passed it, they could have done it permanently. They could have passed it
+for 2014 and 2015 as they did in 2013. In 2013, at the beginning of the year, they passed it for2013 and 2012. So we don't have an R&D tax credit right now in our plan for 2015. If it comes, then
+it will bump our earnings up anywhere between $0.10 and $0.15. But I can't guide the Street to
+earnings assuming something is going to happen in Washington. You know how predictive that is.
+Q - `Chris D. Quilty, Raymond James & Associates, Inc. `
+Got you. And final question, when you look at the avionics area, which is an area where you've
+been doing quite well. How does the acquisition pipeline look in that area and are there specific
+either products or aircraft type where you think you're most interested?
+A - Robert Mehrabian `
+First, there are very few, if any, acquisitions. There's three or four big players in there. It's heavily
+consolidated market and our job there is very simple, take market share. And we've been
+relatively successful in that. First, we have this very large sole-sourced contract from Boeing for
+the next 12 years or 13 years that would address, specifically put our systems in 737, 737 MAX, 777
+and next-generation of 737, 737 MAX and 747-8 production aircraft. These are the high volume
+aircraft. The other thing is in the market share gain, we've been very fortunate to take market
+away from our competitors by having some of the larger airlines that have a lot of aircraft, take
+out competitors' product and put our data acquisition systems. For example, Northwest Airlines
+just gave us an order to add 85 of our – I'm sorry, I said Northwest, I meant Southwest, to add 85
+of our data acquisition systems over the next 18 months in that existing aircraft. So market share
+is very important there.
+Q - `Chris D. Quilty, Raymond James & Associates, Inc. `
+Got you. Thank you very much.
+A - Robert Mehrabian `
+Thanks, Chris.
+Operator
+Our next question comes from the line of Michael Ciarmoli, KeyBanc Capital Markets. Please go
+ahead.
+Q - `Michael F. Ciarmoli, KeyBanc Capital Markets, Inc. `
+Hey. Good morning, guys. Thanks for taking my questions. Robert, just to maybe dig in on the oil
+and gas. So, per the Investor Day slide deck from last year, the focus on oil and gas, you've got
+about $450 million of oil and gas revenues. Can you sort of tell us what the backlog is? How much
+visibility you have? A lot of your biggest customers there: FMC, Camerons, Schlumberger, we're
+seeing them make the CapEx cut. Is this something that as they start to cut back, does this
+become more of a 2016 issue, or just how comfortable are you in the overall stability of that
+portfolio and the level of backlog that's there?
+A - Robert Mehrabian `
+Well, I've spoken to oil exploration, so I won't go over that. On the production side, we have a
+very healthy backlog right now. I would say we have a sufficient backlog for – to be able to predict
+what's going to happen in 2015, certainly in the first nine months of 2015. And as I mentioned, we
+don't expect to be a significant change in that domain. And the flip side of that is, as I mentioned,again, there are other areas of marine that kind of make up for that, especially in defense and in
+size transportation, hydrography, et cetera.
+Q - `Michael F. Ciarmoli, KeyBanc Capital Markets, Inc. `
+Okay. You guys obviously just closed on Bolt. What are the expectations there? That's a company
+that's seen its revenues double since 2010. What's baked into the outlook, maybe even on a
+bottom line for Bolt and how do you think that business performs?
+A - Robert Mehrabian `
+We think that that business is going to do something around $50 million next year and it
+contributed about $8 million in six weeks in the end of 2014. So even if that goes down some, we
+think that $50 million is fairly reasonable for us and that business has, as I mentioned before, has
+parts of it that have more to do with search and rescue and hydrography and other businesses
+and same thing with Oceanscience, so that's where we are.
+Q - `Michael F. Ciarmoli, KeyBanc Capital Markets, Inc. `
+And have you quantified how much of accretion you'll get from that in earnings next year from
+Bolt?
+A - Robert Mehrabian `
+I think what will happen is we may get as much as $0.10, maybe $0.08. Our intangibles from that
+are going to be significant as they always are in all of our acquisitions. If we did non-GAAP
+adjusted earnings, which a lot of people you're familiar with, you cover, do, we would add
+probably $0.63 to our earnings because of our intangibles. So, once you take the intangibles out,
+maybe $0.08 to $0.10.
+Q - `Michael F. Ciarmoli, KeyBanc Capital Markets, Inc. `
+Okay. Last one for me. You talked, I guess, about some of your environmental lab and field
+instrumentation being weaker. How much indirect exposure do you guys think you have to some
+of the onshore shale where there clearly is a big focus on environmental? I mean is there any
+indirect exposure that you guys see there?
+A - Robert Mehrabian `
+No. We don't see that.
+Q - `Michael F. Ciarmoli, KeyBanc Capital Markets, Inc. `
+Okay, perfect. Thanks a lot, guys.
+A - Robert Mehrabian `
+Right. Thank you.
+Operator
+Our next question comes from the line of Robert Kirkpatrick with Cardinal Capital. Please go
+ahead.
+Q - `Robert Benjamin Kirkpatrick, Cardinal Capital Management LLC `Good morning.
+A - Robert Mehrabian `
+Good morning, Rob.
+Q - `Robert Benjamin Kirkpatrick, Cardinal Capital Management LLC `
+Could you talk about your capital expenditure program in the year that just concluded because it
+was the lowest I've seen in a couple of years? Why that was and what your expectation is going
+forward for the next couple of years, please?
+A - Robert Mehrabian `
+Hi, Rob, good question. What happened in the capital expenditure is that we spent a significant
+amount of money in 2013 especially and a little bit in early 2014 in facility consolidations and
+we've reduced our footprint across the company by 7% as part of our cost reduction. And so that
+didn't happen, then that slowed down in the end of 2014, and we ended up spending about $45
+million. We think next year, it might go up to $60 million to $65 million, which is kind of our normal
+CapEx for a company of our size and the kinds of technologies that we have to maintain.
+Q - `Robert Benjamin Kirkpatrick, Cardinal Capital Management LLC `
+Okay. And then secondly, you, I believe last year in 2013, spent $167 million on R&D and bid
+preparation. Did that go up substantially in 2014? And if so, what did it go to?
+A - Robert Mehrabian `
+That's a good number, Rob. I think as you know, we also get another $80 million to $100 million
+from outside sources. So, our total R&D is about 10% of our revenue. In 2014, it didn't change
+very much. I would say it's flat and we think it will be flat in 2015.
+Q - `Robert Benjamin Kirkpatrick, Cardinal Capital Management LLC `
+Super. Thank you so much.
+A - Robert Mehrabian `
+It's 10% of our revenue, between us, what we do and what we get from outside.
+Q - `Robert Benjamin Kirkpatrick, Cardinal Capital Management LLC `
+Great. Thank you.
+A - Robert Mehrabian `
+Thanks, Rob.
+Operator
+Our next question comes from the line of Jim Ricchiuti, Needham & Company. Please go ahead.
+Q - `James A. Ricchiuti, Needham & Co. LLC `
+Robert, I just wanted to go back to a comment you made as you were discussing the Teledyne
+LeCroy business. You talked about, I think, leveraging their technology in some other areas. Iwonder if you could maybe discuss that a little further.
+A - Robert Mehrabian `
+Sure. I'll give you specific example. For example, we have a small business that does nuclear plant
+valve testing. What they do is they have strain gauges and software and all nuclear plants have to
+test their opening and closure of their valves every so often especially after they have a fuel
+replacement cycle and that's a nice business, not big. It's maybe $10 million, but it makes great
+margins. What the LeCroy folks have been able to do is bring their expertise in digitization and
+assist that company to develop a completely new product, which would probably over the next
+couple of years double the revenue in that one small business, which has really good margins.
+So what we're trying to do with LeCroy is do that in a number of our other businesses, just about
+every instrument that we make has relevant digitization and ability to – a need to display the data
+in some form or another. They're experts at that. And especially when it comes to high definition
+data, they have, of course, their new eight-channel 12-bit scope which they just launched six
+months ago and outselling even our highest expectations. They bring those kinds of technologies
+to new product development.
+The final thing is that LeCroy has probably the best marketing and sales channels at Teledyne
+across the world and they are kind of coordinating a lot of our international sales in other
+instrumentation under that capability.
+Q - `James A. Ricchiuti, Needham & Co. LLC `
+Got it. And then just on the core LeCroy business, you talked about not being as focused on
+revenues. Is it just a flat market? It sounds like LeCroy has maintained or even possibly gained
+some market share?
+A - Robert Mehrabian `
+I think the market – when I said that is when – we obviously want to increase...
+Q - `James A. Ricchiuti, Needham & Co. LLC `
+Sure, okay. Sure.
+A - Robert Mehrabian `
+... that. But the market as a whole, that whole market is, I'm going to say, we expect in 2015 that
+market to grow about 2% across the world. In some places, it'll go faster. Perhaps in Europe,
+Middle East and Pacific, it might grow 3%, 4%. U.S. has been softer. So I think the oscilloscope
+market is relatively flat. On the other hand, we do have a protocol business, it's a software-based
+business primarily. That market's growing faster and that grows more like 8% or so.
+Q - `James A. Ricchiuti, Needham & Co. LLC `
+Thank you.
+A - Robert Mehrabian `
+Thank you.
+OperatorWe have no further questions on the phone lines.
+A - Robert Mehrabian `
+Thank you, Vicky. I will now ask Jason to conclude our conference call.
+A - Jason VanWees `
+Thanks, Robert, and again thanks, everyone, for joining us this morning. If you have any follow-up
+questions, again, please feel free to call me at the number on the earnings release, and as
+always, all news releases are available on our website, teledyne.com. Operator, if you could
+conclude the call and give the replay information, we'd appreciate it. Thank you.
+Operator
+Ladies and gentlemen, this conference will be made available for replay after 10:00 A.M. today till
+March 2, 2015 at midnight. You may access AT&T playback service anytime by dialing 1-800-475-
+6701 and entering the code 352272. International participants may dial 1-320-365-3844. Once
+again, those numbers are 1-800-475-6701 and 1-320-365-3844 with the code of 352272. That
+does conclude our conference for the day. Thank you for your participation of using AT&T. You
+may now disconnect.

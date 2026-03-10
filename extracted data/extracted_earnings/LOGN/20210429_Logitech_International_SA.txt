@@ -1,0 +1,505 @@
+Y 2021 Earnings Call
+
+Presentation
+`Ben Lu, VP of IR `
+Good morning. Welcome to Logitech's video call to discuss our Financial Results for the Fourth
+Quarter and Full Fiscal Year of 2021. Joining us today are Bracken Darrell, our President and CEO;
+and `Nathan Olmstead, CFO, our CFO. During this call, we may make forward-looking statements,
+including with respect to future operating results under the safe harbor of the Private Securities
+Litigation React of 1995. We're making these statements based on our views only as of today.
+Our actual results could differ materially. We undertake no obligation to update or revise any of
+these statements. We will also discuss non-GAAP financial results. You can find a reconciliation
+between non-GAAP and GAAP results and information about our use of non-GAAP measures and
+factors that could impact our financial results in our press release and in our filings with the SEC,
+including our most recent annual and quarterly reports and subsequent filings. These materials as
+well as our prepared remarks and slides and a webcast of this call are all available at the Investor
+Relations page of our website. We encourage you to review these materials carefully. Unless
+noted otherwise, comparisons between periods are year-over-year and in constant currency and
+sales are net sales. This call is being recorded and will be available for a replay on our website. I'll
+now turn the call over to Bracken.
+`Bracken P. Darrell, President `
+Thank you, Ben. Thanks to all of you for joining us. I want to start by saying I'm as worried about
+India as I could possibly be in a year or whatever it's been now, where this pandemic is raged on. I
+think we've had fears that have affected every person on this call and more. But in some ways, I
+was always so worried about India for all the reasons you can imagine. I'm afraid it's happening.
+But I hope and pray that they really get it back under control quickly -- and that the rest of the
+world continues to improve step-by-step and escape this pandemic.
+Well the pandemic continues to disrupt our daily lives. And as I said, in some countries it's even
+getting tragically worse. It's -- we're starting to emerge from the strict shelter in place
+requirement here where I'm sitting today in California and actually broadly in the U.S. We've been
+thinking -- that's got us thinking even more -- maybe more accurately about what a return to the
+office might look like as the pandemic subsides.Some of the behaviors that were formed during the pandemic are clearly going to endure. Video
+callings meteoric rise will not reverse. Most calls are moving permanently to video. A place in your
+house, having one for each person to work or to study or to be both, they're here to stay. We're
+all going to have places in our home. While gaming was popular long before they pandemic,
+people are using it more and more for social interaction. Many of us noticed this first during the
+Fortnite phenomenon a few years ago.
+This year, gaming took on and even -- took an even bigger step toward prominence in our
+culture. The number of podcasts, funny videos, thank God, streamers and creators continue to
+grow throughout the pandemic, emboldening more and more people to think maybe they could
+get in that streaming act and create video for other people or audio. None of that is new for our
+strategy. While our long-term strategy is unchanged, our opportunities have changed. They're
+bigger and they're broader. On top of that, we now have a bigger, more profitable base to grow
+from. Let me briefly give you a few external examples that illustrate the acceleration of the
+secular trends that affect us. These illustrations might help you see what we see, long-term
+growth. Let's start with the trend of video everywhere and working from home and office. Citi
+group announced that most of its employees will be designated as hybrid workers who will spend
+at least three days of work in the office and up to two days in home.
+That's just 1 of many companies that have announced similar plans. More and more will follow
+over the coming weeks and months. In fact, even surveys from early in the pandemics showed
+that companies are beginning to think then about hybrid. CBRE, 1 of the largest commercial real
+estate operators in the world, noted in a survey last September that 61% -- remember, this is last
+September, 61% of companies were already back then planning to offer a hybrid work
+arrangement. I suspect that number is even higher now. And 1 of the key reasons the companies
+are going to hybrid work is, well, it's obvious to all of you on the call now because we like it. We,
+who are working at home, want it. JLL, another commercial real estate operator, said in a survey
+that 72% of workers view work like ballots as their number1 priority post-COVID, ahead of a
+comfortable salary even.
+I've spoken with many executives over the past year. Since the onset of COVID, most, until
+recently, have really had no plan for how to return to work. Now plans are starting to form. Short
+term, a story that's come to everyone is a few days in the office and a few days at home. They
+need video in their offices to keep their remote, but connected teams working well. Things go
+beyond hybrid work.
+Last week, Apple was just the latest major company to identify podcasts as a growth platform
+with podcast subscriptions, which will allow creators to sell subscriptions to their podcast listeners.
+On top of that, streaming is soaring. Social audio, like Clubhouse, has suddenly taken off, and
+there are more and more creators, making it seem like a feasible and attractive thing for even
+more and more would be creators to do. The network effect is so powerful. We make the tools
+that enable existing creators to do it better and be more effective, and for new creators to try it.
+In Gaming, it's bigger than it's ever been. And as I said, it's become the place to meet for more
+and more people socially. What does all this mean for Logitech?
+More video enabled rooms, more video enabled workspaces that need to be equipped and
+upgraded with our growing portfolio of offerings, more streamers and more creators looking for
+more equipment, more gamers looking for better gear. Before I go further, let me say that you
+might never have another analyst call from Logitech without an update on either our quest to be
+environmentally sustainable are our actions in diversity, equity and inclusion. But in some cases,
+you're going to hear about both.These are so central to Logitech's purpose. This quarter, we announced the availability of the
+previously announced carbon label products we talked about. First, we know of in the tech world.
+We're 1 of very few companies in the world to commit to this on every single product in an effort
+to reduce global carbon output by setting a new industry standard, just as calorie labels have
+impacted the food industry. In the process, we developed a life cycle analysis methodology to
+measure a product's carbon impact from its raw materials to its manufacturing and transportation
+to use by the customer consumer and then, finally, to the end of life. We're sharing our learnings
+and third-party certified methodology to any company, any competitor anywhere in the world for
+no price at all for free.
+I encourage you to ask companies, as you're talking to them, if they're considering carbon
+labeling. Don't do it because we ask you to now, do it because it's part of a program that will
+enable the earth to keep the earth healthy for your Kids, and your grandkids.
+Now let's turn to our financial results. Logitech delivered the best year in our history, with fiscal
+year 2021 sales up 74% and operating income more than tripling to $1.3 billion. What drove those
+impressive results was not just 1 category or a onetime pull forward. These results were broad-
+based across virtually all our categories and regions, including countries that never fully locked
+down and those that are furthest along with their post-COVID recovery programs. Said another
+way the secular trends we keep talking about are really secular and they're still secular. They will
+keep growing.
+Our PC Peripherals categories were already growing consistently every year, but they increased
+over 50% in fiscal year 2021 to $1.9 billion. To be candid, we always felt there was potential to
+grow more in these categories than we were, but we were held back by (inaudible) awareness of
+some of our premium mice and keyboards, for example, MX masseter and anywhere, I'm using
+the MX Master right now, which participate in the premium into the category. Analysts, coders and
+creators should be using these products, but the awareness has always been limited.
+I bet many of you on this call, don't even realize how outstanding these products are. Nate and I
+were talking about this again last night. It was only when hybrid work and remote learning
+expanded, and we began to be able to invest in awareness that demand for premium price -- of
+premium mice and premium keyboards began to accelerate.
+We also have an even faster-growing alternative, ergonomic products for those who need
+comfort. WEBCAMS, needless to say have shown their highest growth -- showing the highest
+growth, more than tripling versus a year ago. While we've been supply-constrained through most
+of fiscal year 2021 and have admittedly lost some share because of it, we expect to close the
+gap between in market demand and our ability to fulfill it in fiscal 2022. But let me put this
+opportunity in perspective on WEBCAMS, CNBC WEBCAMS.
+We shipped less than 20 million units in the entire year of fiscal year 2021, the 1 we're talking
+about today against an installed base of 500 million monitors and 1.4 billion PCs. You can see that
+we still have vast opportunities ahead of us to drive greater attach rates. But what excites us
+even more is the increase in the number of workspaces as more companies shift to hybrid work.
+As we noted at our recent Analyst and Investor Day our internal survey suggests a 2x to 3x
+increase in the number of people who will work more than two days at home and the other day is
+in the office. This means more mice, keyboards, WEBCAMS, speakers, headsets, mics. You can
+expect us to continue to innovate across our product portfolio, like the MX line of mice and
+keyboards for enhanced productivity, or our mainstream license keyboards focused on lifestyle
+and design, or those ergonomic products I talked about. Combined with that, combine that withour increased investments in marketing, which you now know we're putting in to create greater
+user awareness and consideration for how something as simple as a $50 mouse or keyboard can
+drastically improve your PC experience, your workspace experience at home or in the office, or
+both.
+You could start to see why we're so excited about this category for the next several years. Now
+let me talk about another big growth category for us, video collaboration. Sales almost tripled in
+fiscal year 2021 to over $1 billion for the first time. Our Q4 VC sales were more than what we did
+in all of last fiscal year. Our growth actually accelerated through the quarters of fiscal '21 as supply
+improved and more companies started to map out their return to the work -- return to the office.
+That represents a clear trend toward turning on video to connect with friends, coworkers, clients
+and others. Triple-digit growth in this category was across both our conference room video
+products as well as our personal collaboration products, such as the enterprise 4K Brio Webcam
+or the Zoom wireless headset. We're also very excited about the opportunities for our most
+recently announced all-in-one devices, the Rally Bar and the Rally Bar Mini. They are just starting to
+roll out to great customer feedback.
+Our Gaming category also had a very strong year, with fiscal 2021 sales up 77% and sales more
+than doubling in Q4. The growth was broad-based across all our Gaming categories, including PC
+gaming, simulation, console gaming and all of our regions. Not only has the gaming market
+expanded significantly over the past year, we've also reached our highest level ever in overall
+gaming market share. I'm extremely proud of all the innovation and products that we, our teams
+have been able to introduce despite the shelter in place mandates around the world.
+Our colorful and playful G733 gaming headset, developed by Tiffany Beers and her team, has
+quickly become 1 of our best-selling gaming headsets. While our newest ProX Superlight gaming
+mice, mouse, had 1 of our fastest post-launch sales ramps since it was introduced just six months
+ago. These are just 2 of the many new products that supported our growth and share gains in
+fiscal year 2021.
+Tablet and other accessories also had a tremendous year, with sales up almost 3x, while our
+tablet keyboards for education we're up over 7x. Schools around the world have needed new
+technology tools to deliver education to students remotely. And as we noted last quarter, a large
+onetime order from a Japanese school district drove a significant part of our tablet sales for the
+year. Even excluding this, our overall tablet sales growth was up triple digits, and our traditional
+retail tablet sales were up over 50% for the fiscal year.
+Our audio and wearables sales grew 69% in fiscal 2021, led by retail headsets and blue
+microphones. And mobile speakers were down 22% for the full year, but that's in line with our
+expectations as we reallocated and prioritized our investments in other fast-growing markets.
+Now let me turn the call over to you, Nate, to walk through our key financial metrics.
+`Nathan Olmstead, CFO
+Okay. Thanks, Bracken. We finished an excellent year on a high note with our Fourth Quarter sales
+more than doubling and with broad-based growth across all our categories and geographies. As
+Bracken said, fiscal 2021 sales reached $5.3 billion, up 74%, which exceeded our recently revised
+guidance of 63% growth. This represents over $300 million of sales upside compared to that
+recent guidance. And as Bracken will cover later, we are maintaining our growth rate outlook for
+FY '22, and therefore, effectively flowing through this FY '21 revenue upside. Our non-GAAP
+operating income more than tripled to over $1.27 billion, higher than our previous outlook of $1.1Our fiscal '21 non-GAAP gross margin reached 44.8%, up over 6percentage points from last year,
+almost 5 points of that was due to lower promotional spending and lower retail point-of-sale
+activations. We do expect, however that these promotions and marketing activities will increase
+and return to more historical levels in fiscal '22, putting some downward pressure on gross
+margin in the months ahead. Product mix was favorable this year, and we expect it will remain
+favorable to margin again next year, somewhat offsetting the pressure I just mentioned. What all
+this means is that our FY '22 gross margin should land within our recently revised and increased
+target range of 39% to 44%. Our non-GAAP operating expenses increased 44% in fiscal '21 to $1.1
+billion. As our business growth solidified and accelerated, we invested across many areas,
+including hardware and software innovation, go-to-market expansion and marketing. All of these
+investments had limited FY '21 revenue impact, but prime the business for future potential
+growth. In addition to conventional capabilities, we also invested more deeply in environmental
+sustainability in our own manufacturing and with all our supply chain partners. These are all areas
+of strategic importance, and where we will continue to invest in the new fiscal year.
+Finally, you will notice that our G&A spending increased sequentially in Q4 due to a $30 million
+investment into a charitable donor advised fund to support our long-term social giving strategies
+for equality and environmental sustainability. The net result of these business dynamics and
+operating decisions was strong profit growth and operating margin expansion for both Q4 and
+fiscal '21 overall, and improved capabilities for the longer term.
+Now let me talk briefly about our cash flow. Cash flow from operations reached nearly $1.5 billion
+for the full year, up from $425 million in fiscal '20, driven by profit growth and efficient working
+capital management. We maintain a tight linkage and alignment between our business strategies,
+operational decisions and financial structure. You saw this at work in fiscal 2021 as our strong
+profitability, balance sheet and cash flow allowed us to invest aggressively in additional
+manufacturing, supply and logistics. We were able to invest at a pace and level that provided us a
+competitive advantage as demonstrated by recent share gains in several categories.
+We will continue the strategic investment approach as we head into the new fiscal year, and we
+navigate a dynamic supply environment, which may lead to higher component and logistics costs
+than we initially projected. Positively, our efforts to find second sources and increased
+manufacturing output have allowed us to begin the new year with owned and channel inventory
+at healthier levels than in recent quarters.
+Our inventory is fresh and weighted toward fast-turning product categories. At the same time,
+longer industry lead times and tightening supply for some components will likely increase our
+cash conversion cycle in FY '22, but our strong balance sheet positions us well in the face of these
+challenges. Wrapping up uses of cash, we spent $43 million in the quarter on 3 small acquisitions,
+all in the content creation category. We do not expect them to be material to our fiscal '22
+financial results, but we believe they will help us realize the growth potential of this fast-growing
+market over the longer term.
+In closing, while we do not expect this past year's record sales growth rates and margins to
+continue, we do believe our sales volume gains are sustainable and that our long-term market
+opportunities have become more attractive and we plan to invest accordingly. With that, it's a
+good time to hand things back to Bracken, who will talk about our fiscal '22 outlook and guidance.
+Bracken?
+`Bracken P. Darrell, President `
+Thank, Nate, to wake me up again. It's early here in California. As they quantified for everyonecourse we gave you back on our Analyst and Investor Day in March. With not even a month into
+the fiscal year, I don't think anyone would have felt that, at this point, if we had maintained the
+same sales dollar outlook for fiscal year 2022 that we guided just two months ago. Had we've
+done that, it would have meant that our fiscal year 2022 sales forecast today would be down 2%
+to down 11% compared to down 5% to up 5% that we guided. But we're not holding to our dollar
+outlook.
+We are passing through that sales dollar upside, and we are keeping our down 5% to up 5%
+sales growth outlook for the fiscal year 2022 unchanged, essentially raising the absolute dollar
+value of our original sales outlook by about 7%. We feel confident and equally excited about what
+the new year will bring us and even more optimistic about the longer-term growth potential
+beyond fiscal year 2022. As we hold our top line growth guidance, we're increasing our fiscal year
+2022 non-GAAP operating income guidance to $800 million to $850 million versus the prior
+outlook of $750 million to $800 million.
+Finally, we also announced that our Board approved an increase in our share buyback
+authorization from $250 million to $1 billion. The Board also proposed a 10% increase in our
+dividend, which will be voted on by shareholders in September. The bottom line is the same
+underlying trends that drove our business pre-COVID, significantly accelerated during COVID and
+have become much more pervasive and sustainable as we look to life after the shelter-at-home
+period of COVID ends. We have an exciting long-term growth potential ahead from this big base.
+With that, Nate and I are ready to take your questions. Ben, can you queue them up?
+Questions And Answers
+A - `Ben Lu, VP of IR `
+Paul from JPMorgan.
+Q - `Paul Chung, Analyst, JPMorgan Chase & Co `
+You great quarter. So on BC, you've seen this business grow annually at 40% CAGR for the past
+five years and then this year accelerate 180% in the sixth year. As we look ahead in the next five
+years, what are some of the growth levers you see today that you can pull in? And Europe was
+the standout this quarter, what's kind of driving the acceleration there? Then I have a follow-up.
+A - `Bracken P. Darrell, President `
+Yes. I would say a couple of things. So first of all, Europe, part of the reason for the delta in our
+sell-in and sell-out is part of Europe, and we were fulfilling a backlog. So we had strong sales
+there. I would say overall, I think the key drivers over the next five years are going to be the same
+drivers that have gotten us here with 1 big exception, which is, I think we took a huge step-up this
+year and the realization that video calling is just a must.
+We always said it would be video everywhere at some point, but we didn't quite realize that
+there would be this strong advertising program for video calling that would happen during the
+pandemic, and it's happened. Now it's really going to be a question of how effectively and
+efficiently can people video enable offices while they continue to be enable workspaces. I think
+that's going to happen over the next 5, 7, 10 years.
+A - `Nathan Olmstead, CFO
+I mean Paul, I think on -- I'm just adding to that a little bit. I mean I think the growth levers there.out our own portfolio, you see us investing a lot in innovation. And a lot of that is focused on just
+increasing the types of solutions, the effectiveness of the solutions that we can offer to
+customers in video as well as our own go-to-market capabilities and operational capabilities.
+These are all things that were areas of investment for us in FY '21, and as I mentioned, we will
+continue to invest in FY '22 and beyond.
+Q - `Paul Chung, Analyst, JPMorgan Chase & Co `
+Okay. Great. Then just on marketing, how are you tracking that return on that dollar spend,
+obviously besides the revenue growth you saw in the quarter? Can you provide some feedback
+on the 5 logic campaign during the Super Poly? Did you see kind of an immediate lift? Then what
+kind of marketing campaign should we expect heading into FY '22?
+A - `Bracken P. Darrell, President `
+Yes, there are different kinds of marketing. There's the kind of marketing like we did in the Super
+Bowl, which is really what they call top of funnel. That's kind of broad and general and not really
+designed to immediately sell specific product, but to create awareness and attraction for the
+brand itself and the categories that we're in. Then there's the very, very kind of search engine
+optimization, click and buy kind of marketing. So there are different kinds of metrics across those
+different areas. We look at them all. I would say overall, we feel very, very good about the de
+(inaudible) campaign. We're excited about the kind of impact it's having both -- even just
+anecdotally. I probably have had -- I can't even tell you how many people have reached out to me
+and said that they -- it really -- that they were surprised by the campaign, but somehow fell very
+consistent with what Logitech has always been, which is exactly what we wanted. So you can
+expect more of us there. And in terms of the more tactical sales oriented, we look at things like
+everyone else does, return on ad spend. And we try to make sure that we're investing where the
+returns are the highest.
+A - `Nathan Olmstead, CFO
+Paul, I would say in terms of areas of focus, it's across the board. But as Bracken mentioned, I
+think awareness is 1 that I just feel so strongly about for our categories. If you read the product
+reviews really across the lineup, great reviews. People who try the products, love the products,
+and they recognize like the enhanced experience that they provide. I'll just give you an example,
+something like our MXkey is kind of the premium keyboard that we launched this last year, which
+has done so well. It's a $100 product. If you use that over two years, you're paying about $0.15 a
+day for something that is -- you're using constantly and really improves your experience. So I think
+there's a big opportunity for us around awareness, and Bracken mentioned some of the things
+we're doing there. But I would expect to see more from us to drive the awareness of big
+categories in general.
+A - `Ben Lu, VP of IR `
+`Asiya Merchant, Analyst, Citigroup Inc..
+Q - `Asiya Merchant, Analyst, Citigroup Inc. `
+Great a congratulations on an outstanding quarter again. A couple of questions on my part.
+Visibility, I know you guys are kind of maintaining your growth expectations flat, plus or minus. But
+how much visibility now do you have into the next couple of quarters? If you can talk to it a little bit
+sequentially at least here into June and then maybe even to the September quarter? Then just
+high level new shortages that is enabling people to add on excess inventory, whether it's in thechannel, whether it's sitting on the shelves. When do you expect that sell-in, sell-through to reach
+a more balanced environment? Is that even as you look out into the next couple of quarters?
+Then one for Nate on the gross margin. You talked about the promo pricing returning to a more
+normalized level. When do you expect that? I would assume semi-shortages and other shortages
+in general would suggest that pricing remains more muted or promotional price remains more
+muted. That's it for me.
+A - `Bracken P. Darrell, President `
+Nate, why don't I jump -- I'll take the first 2, and then you can take the third 1 and I can add to what
+I'm saying. In terms of the balance of the inventory kind of balance of the channel inventory, et
+cetera, we're just about there. I mean I feel -- I think we were -- we kind of ran behind most of the
+pandemic year trying to fill the channel. This time, we got -- I think we finally started to catch up
+this last quarter. I think we're about there. We'll see. We could have a few additional spots that
+were a little weak. But generally, I think we're there. In terms of visibility, I think our -- I would say
+the visibility this quarter is good. The visibility into the next quarter, as you go further out, of
+course it gets less and less clear for us. But we're optimistic. We're -- I would say it's a little less
+visible now than it would have been in a normal year because just a particularly strong -- the real
+strength we've had in the last 3 or 4 quarters. But we feel very, very good about our own
+programs.
+We have such control over what we're doing and the timing of our product launches and things. I
+think the tricky part of -- if there is a tricky part of that, maybe the trickiest part is just availability of
+parts. We've always been able to manage component availability well, and we continue to do that
+really well, but it is not a secret that things like chipsets and things are really hand to mouth in
+some of the categories we're in and in the industry broadly. So that could always take us a little
+bit by surprise. So we've been able to manage that very, very well, historically, and I think we'll do
+it in the future. You want to add anything on any of that or on gross or on my answer the gross
+margin?
+A - `Nathan Olmstead, CFO
+Yes. I can cover gross margin. My Zoom Crash, mid-stream there, but back up. I think on gross
+margin, pricing and promotion and the retail point-of-sale marketing, those are really important
+parts to our business. Those are things that we have to do.
+We will see an increase in those activities, I believe, in FY '22. There's a lot of forces at play
+though, on margin, and bracken just alluded to some of the ones around the component
+availability, and you asked about supply chain. I think headwinds could also persist in terms of
+logistics because if materials are late arriving, and we have to rush those things, those finished
+goods to market, we could continue to see elevated logistics costs. Also, I think just component
+pricing could be a challenge in certain areas in FY '22 as well.
+So there's -- again competing forces, favorable, unfavorable product mix, I believe, will continue
+to be favorable with faster growth in places like video collaboration. But nonetheless, we think the
+gross margins will land within that new range that we provided AID, a new increased range that
+we provided at AID, but down from levels that we saw here in FY '21.
+Q - `Asiya Merchant, Analyst, Citigroup Inc. `
+Any color on sequential stuff? You typically provide some color on sequential into the June, which
+is any color there? I up mid-single digits, yes.A - `Nathan Olmstead, CFO
+Yes. I would say in general, I don't think in FY '21 sequential historical trends sort of were
+irrelevant. I think that, that could also be true here in FY '22. I just think we're in still an unusual
+environment with many economies going through transitions as hopefully, they begin to reopen
+to sort of pre covet normalcy. But the timing of those changes is very hard to predict. So I think
+our seasonality it's probably harder to predict in FY '22 as well. Certainly, I still expect the holiday
+quarter to probably be the biggest, but other than that, it's going to be probably important for us
+just to remain fast, flexible and nimble and just react to the market opportunities that we see.
+A - `Ben Lu, VP of IR `
+Michael, your line is now open.
+Q - `Unidentified Participant, Analyst, Unknown
+Two questions, actually, along the same lines, visibility. Can you just explain, I mean between
+beginning of March when you gave your guidance for Q4 and the actual result, I mean there's a
+huge discrepancy a nice one, obviously. So the question is really, could you absolutely not foresee
+that? Or did you try to stay on the cautious side? And if I look at that big discrepancy, I'm
+wondering how you can be so confident for FY '22 with your guidance, if that's the discrepancy in
+just one month? And the second question is also along the shortage situation. You talked about
+electronic components and semiconductors. My question is more on the plastic side. How do you
+make sure -- or do you see any shortages in plastics? And how do you make sure that you have
+sufficient availability there?
+A - `Bracken P. Darrell, President `
+Yes. I'll take a stab at both of those. Then, Nate, you can fill in on the plastic side, no, we don't
+have any -- at least not the LIBOR. I'm shortage is on plastics right now, but I'd say the demand
+has been very strong. It's every day is a new day when it comes to component supply over the
+last year or so. But yes, I'd say so far, we're okay on the plastic side. On the visibility side, I think
+that's a very fair criticism. Our constructive comment, I think how could we have been that far off.
+It's a good question. We're always -- we always try to make sure that what we tell you we can
+deliver, we deliver. This year was just stronger and stronger. We also had a chance to fill a backlog
+of orders, especially in video collaboration that we just -- we really couldn't completely foresee
+getting to. We're able to do it. But as you note, we're really strong across the board. I think we're
+-- our business is so strong, and our market shares continue to gain and we never completely
+assume that we're going to gain market share. So we probably did a little better from a market
+standpoint than we expected. Of course we also had a chance to refill the channel. Do you want
+to add anything to that, Nate?
+A - `Nathan Olmstead, CFO
+I think I'll still come back to the environment that we're in is fast-moving, right? And changes
+across countries, and we have lots of customers in every country. So and we're reacting with a
+very nimble supply chain, operations team, to those changes. But I think we saw -- also March was
+going to be 1 of the tougher -- 1 of the first months, but really we're looking at a tougher year-
+over-year compare, where we started to see pretty strong demand a year ago. So I think there
+was maybe a little bit of that thinking going into the outlook we provided at AID as well. We
+weren't really sure if there was some significance to that first month of a tougher year-over-year
+compare, but as Bracken said, the demand remains strong and supply also continued to improveQ - `Unidentified Participant, Analyst, Unknown
+Great. Maybe just 1 last question, if I may. The -- you mentioned that you shipped around 20
+million units of WEBCAMS into a 500 million monitor installed base. Do you have any -- could you
+give us any feel about what the actual Webcam installed basis, if you have any numbers on that ?
+A - `Bracken P. Darrell, President `
+I don't think -- I know we don't have them available right now, but I'm not sure we do have good
+numbers on that. What I would say is, I think if you took a poll of people on this call, it would
+probably surprise a few of you have WEBCAMS and should. But yes, so it's a big opportunity. Let's
+just leave it at that, and I think we're going to go after it.
+A - `Ben Lu, VP of IR `
+Serge, your line is open.
+Q - `Serge Rotzer, Analyst, Crédit Suisse AG `
+I have two questions. Look, looking at your capital allocation, what drove the increase to, let's say
+to $1 billion, so $2 billion? Or is there any cross read to be made on your M&A ambitions? Then
+yes. If things continue to go very well, what is the capacity you have in place? I mean in terms of
+theoretical sales number on group level that you would be able to generate.
+A - `Bracken P. Darrell, President `
+On the capital allocation, I wouldn't read that as any comment at all about our M&A interest or
+goals or capacity. I mean we're we I don't think like we've given up anything in terms of capacity
+to do M&A by announcing a larger buyback. We have -- we obviously have a lot of cash and a lot
+of cash generation capability going into the future. We're certainly no less ambitious on M&A.
+We're always looking at all sizes of things, and we'll continue to do that. In terms of our
+theoretical capacity, yes, we do have theoretical capacity well above where we are today. In most
+of our categories, not all, and we try to keep ourselves in that position.
+A - `Nathan Olmstead, CFO
+I don't think I have much to add to that. I mean you saw that we did 3 small deals in the quarter.
+Obviously they didn't cost us a significant amount, but we're pretty active in looking at
+opportunities. So really no change in capital allocation priorities or processes.
+A - `Ben Lu, VP of IR `
+Eric.
+Q - `Erik William Richard Woodring, Analyst, Morgan Stanley `
+Congrats on the good quarter. I just want to touch on the sell-in and sell-through dynamics here a
+little bit. Just to dig in and I try to understand it correctly. That is -- obviously we've seen that gap
+widen over the last 3 quarters. It seems predominantly focused in the Americas and EMEA. So is
+that widening because you've had an opportunity to fill the channel and you're at the point now
+where you feel like channel inventory levels are still healthy? And the kind of secondary to that,
+would that then imply that if you're expecting to be, call it, flat year-over-year next year, that sell-
+through could potentially be 15% to 20% to have the impact from this year normalized next year?
+Then I have a follow-up.A - `Bracken P. Darrell, President `
+Nate, you want to take that one? Or I'm happy to...
+A - `Nathan Olmstead, CFO
+Yes. I mean I think we started the year -- if you go all the way back to Q4 last year, inventories got
+drawn down quite low. I would say we've been on a steady path to improve inventory levels both
+within our distribution centers as well as out in the channel. That was pretty broad-based to begin
+the year for the first couple of quarters and then, again slowly over the year some categories
+have gotten healthier. I think this category -- or this quarter, exiting this quarter, but we really have
+gotten to a pretty healthy position now across the board. There's still some places where we're a
+little bit tight. But generally speaking, I think we're now -- I think we feel good about the level that
+we have and the coverage that we have.
+In terms of looking to next year, again hard to predict. We'll do things strategically where it makes
+sense just given the dynamic supply environment if we think we need to be more aggressive in
+securing components for availability, but I feel good right now about the state of the inventory.
+Q - `Erik William Richard Woodring, Analyst, Morgan Stanley `
+Okay. Super. Then kind of a related question. Your balance sheet inventory tripled year-over-year,
+days inventory 72 days, which I think is the highest in like 2.5 years. What's primarily driving that? Is
+it more finished goods versus raw materials? Are there any prepurchases to get ahead of
+component constraints? Just curious on your color there as well.
+A - `Nathan Olmstead, CFO
+Yes. I think on the days of inventory, listen, our linearity of purchases are sort of back-end
+weighted. You can see that our DPO also went up as well, sort of offsetting that. So our cash
+conversion cycle overall, which is where I usually start, was 18 days, which was down, I believe, 26
+days year-over-year, and actually, rather flat sequentially. Normally, we see an increase in our cash
+conversion cycle Q3 to Q4. We didn't see that this quarter.
+So I think cash conversion was again strong. I do think in the first half of next year, in particular, we
+could see -- probably we'll see an increase in cash conversion cycle, certainly against the very low
+levels that we were at in FY '21. We'll see that cash conversion cycle increase in the first half just
+with supply chain lead times extending a bit. And again very comfortable that the balance sheet is
+very strong. I think it's something we'll put to work so that we can enable the availability that our
+business needs to support growth and market opportunities.
+A - `Bracken P. Darrell, President `
+And to answer the question very specifically about what are we investing in? It's both. So we're
+investing in components, and we're also investing in finished goods.
+Q - `Erik William Richard Woodring, Analyst, Morgan Stanley `
+Yes. Awesome. Then maybe just one final one. It's great to see you meaningfully increase your
+buyback authorization. You clearly bought back a lot of stock in the March quarter. Should we
+interpret these dynamics as a sign that; one, you see value in your stock and buying it back today;
+and then two, that buybacks could potentially be more of a use of cash than they have been over
+the last, whatever 1, 2, 3, four years?A - `Bracken P. Darrell, President `
+I'll jump in, Nate, and then you can add. First of all, in terms of the last part of your question, I think
+it is -- this is a bigger number than we've had before. On the other hand, we're a bigger company
+than we were before, and we have more cash than we've ever had. So I think on the 1 hand, this
+is just a scale up. On the other hand, we do want to be prepared. Because we've doubled the
+value over 2.5 years. You can almost draw a line in it for the last nine years. Since last year, we
+doubled the value again. We want to be in a position where we make sure that if we see a good
+investment here, and we do, we'll keep investing. In terms of -- you want add anything else to
+that, Nate?
+A - `Nathan Olmstead, CFO
+No. Not in that. I think on the buyback versus dividend, I would just say the buyback number of $1
+billion is over three years. You probably need to take the dividend number and multiply it by 3
+and add some growth to it or something to sort of get something that's apples-to-apples. So I
+think we're still very committed, obviously to both forms of returning cash to shareholders. The
+stock has doubled in price, as Bracken just said, so it has become more expensive for us to buy
+back shares. But at the same time, our cash generation has improved a lot as well. So I think
+those are some of the factors that go into the higher authorization level. But yes, as Bracken said,
+we believe we're long-term investors in the company, and we think that we have really good
+long-term potential.
+A - `Ben Lu, VP of IR `
+Ananda?
+Q - `Ananda Prosad Baruah, Analyst, Loop Capital Markets LLC `
+And congrats on solid results and good execution. I guess just two quick ones for me, bracken. In
+video collaboration, can you just give us a little context around what you're seeing on the
+enterprise portion? How you're seeing the business sort of develop with companies right now as
+they go to well, I guess like what are you seeing with regards to sort of video enabling rooms?
+And what's your expectations over the next couple of quarters, anecdotally, not numbers, but just
+trying to get a sense of behaviorally what they're up to? Then I have a follow-up.
+A - `Bracken P. Darrell, President `
+I think it's -- in terms of -- intuitively, you would say how can we all be sitting here doing this on
+video? Then when we go back in the office, have the same kind of setup we had before where
+most people had a small fraction of rooms video enabled. So intuitively, that's what I believe I've
+all believed from the beginning of the pandemic, and I continue to believe, and I'd say we're
+starting to see some of that. We're -- there's -- but it's too early to say it's about to (inaudible)
+something, but I think that you're going to see strong growth in video enablement of rooms. It's
+just inevitable. But anecdotally, I see enough signs to say that, that's true.
+Q - `Ananda Prosad Baruah, Analyst, Loop Capital Markets LLC `
+Okay. Great. And just going back to the remarks that you guys both have made about regaining
+some Webcam share as you've gotten greater as competitive availability has come back. Can you
+just -- just sort of more fully illuminate for me, for us, why when component available, begins to
+come back for you guys, I would assume it comes back for other people. So why is it you're more
+advantage to take back share as opposed to the market?A - `Bracken P. Darrell, President `
+We have -- I mean I'll really put my neck out here and say we have better products. So we have
+better products. We're known for having really strong products and people wanted Logitech
+Webcams. Here's a case where people really looked for the brand. They're really searching for
+our product, and they couldn't find it, they often bought somebody else.
+A - `Ben Lu, VP of IR `
+Bracken and Nate, I think that concludes our call. We have no more questions.
+A - `Bracken P. Darrell, President `
+Well thank you, all. It's been -- FY '21 was a tremendous year, but as I used to say to my mom
+growing up, every day you kind of have to draw a line behind your heels and everything behind
+you is just to learn from. The whole world, the whole exciting world ahead of us is, right, from that
+line forward. I have super -- and I know Nate is, too -- we are super excited about the future.
+Thanks a lot for being along to this ride so far. I think it's going to continue to be exciting and fun.
+A - `Nathan Olmstead, CFO
+Thanks, everybody.

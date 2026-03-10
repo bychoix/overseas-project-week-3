@@ -1,0 +1,254 @@
+Q4 2019 Earnings Call
+
+Presentation
+Operator
+Ladies and gentlemen, thank you for standing by. Welcome to the Teledyne Fourth Quarter
+Earnings Release Conference Call. At this time, all participants are in a listen-only mode. Later, we
+will conduct a question-and-answer session instructions will be given at that time. (Operator
+Instructions) As a reminder this conference is being recorded.
+I'd now like to turn the conference over to your host `Jason VanWees, Executive Vice President. Please go ahead.
+`Jason VanWees, Executive Vice President `
+Thank you. Good morning, everyone. This is `Jason VanWees, Executive Vice President, Executive Vice President, and I want
+to welcome everyone to Teledyne's fourth quarter and full-year 2019 earnings release
+conference call. We released our earnings earlier this morning before the market opened.
+Joining me today are Teledyne's Executive Chairman, `Robert Mehrabian, Executive Chairman, President and CEO, Al
+Pichelli, Senior Vice President and CFO, Sue Main, and SVP General Counsel Chief Compliance
+Officer, and Secretary, Melanie Cibik. After remarks by Robert, Al and Sue, we will ask for
+questions. Of course but before we get started our attorneys have reminded me to tell you that
+all forward-looking statements made this morning are subject to various risks and caveats as
+noted in the earnings release and periodic SEC filings, and in order to avoid potential selective
+disclosures, this call is simultaneously being webcast, and a replay, both via webcast and dial in
+will be available for approximately one month. Here is Robert.
+`Robert Mehrabian, Executive Chairman `
+Thank you, Jason, and good morning, everyone. And thank you for joining our earnings calls. For
+the second consecutive quarters, we achieved all time record sales, earnings per share and free
+cash flow. Likewise, full year 2019 was by any measure record year, each of sales, earnings, GAAP
+operating margin and free cash flow were all-time records. Fourth quarter and full year sales
+increased 11.5% and 9% respectively. Organic growth for both periods also exceeded 4%,
+including some modest currency headwinds about 0.6% in Q4 and about 1% headwind for the full
+year 2019.
+In addition, for both the fourth quarter and full year, GAAP operating margin expanded just under
+120 basis points. Fourth quarter earnings were $3.06 exceeding $3 per share for the first time anincrease of 24.9%, compared to last year. While we've increased our emphasis on margin
+improvement, we are continuing our proven strategy of disciplined capital deployment for
+compound growth in earnings and cash flow.
+In 2019, we deployed $484 million on complementary acquisitions and earlier this month we
+announced the acquisition of OakGate Technology, a software and hardware company focused
+on the test, validation and operating performance of solid state electronic storage media. This is
+our third bolt-on acquisition for Teledyne LeCroy and allows Teledyne to provide a complete set
+of protocol analysis software and hardware used from the design of new data storage devices to
+the use of search devices in hyperscale cloud storage networks.
+Teledyne continues to benefit from our balanced portfolio of common technologies, serving
+different complementary markets. We began 2020 with growth in our defense businesses,
+expected to offset declines in sales of OEM avionics. Marine instrumentation continues to recover
+with growing sales, but also with orders having exceeded sales for the sixth consecutive quarter.
+In digital imaging, we expect to see continued strength in certain high-growth markets like micro
+electro-mechanical system or MEMS, and a modest recovery in certain commercial machine vision
+market such as the semiconductor industry.
+Given the short cycle nature of our environmental and electronic test and measurement
+instrumentation businesses, at this point, we're only projecting low single-digit GDP like organic
+growth.
+Finally, our balance sheet remains exceptionally strong with a quarter end leverage ratio of 1.4x
+and we're continuing to pursue acquisition opportunities. Before turning the call to Al, I want to
+emphasize that all of our financial results this morning are reported on a GAAP basis with no
+adjustments for amortization, stock compensation, acquisition charges, purchase accounting,
+restructuring or other charges.
+AI will now comment on the performance of our four business segments.
+`Aldo Al Pichelli, President and Chief Executive Officer `
+Thank you, Robert. In our instrumentation segment, overall fourth quarter sales increased 14.5%
+from last year. Sales of marine instrumentation increased 14.7% organically in the quarter and we
+also closed 2019 with the highest year-end backlog since 2014.
+In addition, operating profit improved significantly. In the environmental domain, sales increased
+31.9%, as a result of our recent acquisition of the Gas and Flame Detection business. In addition,
+greater organic sales of pollution control instrumentation were offset by lower sales of selected
+process gas analyzer and laboratory instruments. Sales of electronic test and measurement
+systems increased sequentially to the highest level of 2019 but decreased 6.8% year-over-year,
+given an especially tough comparison. For the full-year sales increased 6% organically.
+Overall instrumentation segment operating profit increased 38.4% in the quarter and margin
+increased 340 basis points with margins increasing for test and measurement and marine
+instrumentation, excluding the Gas and Flame detection acquisition and related purchase
+accounting, margins also increased within the environmental instrumentation.
+Turning to the digital imaging segment, fourth quarter sales increased 20.1%. Sales of our
+proprietary medical and dental X-ray detectors again increased significantly year-over-year. Sales
+of geospatial sensor systems and MEMS devices also grew nicely, as did sales of advancedThe strong growth in these businesses more than offset some expected declines in the portion
+of our industrial machine vision business, which serves consumer electronics and generally factory
+automation markets, especially in Asia.
+However, sales of these products did increase sequentially, given some recent recovery in the
+semiconductor related inspection systems. GAAP segment operating profit increased 29.8% and
+margin increased 131 basis points, generally as a result of the increased sales volume. In the
+aerospace and defense electronics segment fourth quarter sales increased 2.7%, primarily due to
+strong growth across majority of our Defense Electronics businesses, partially offset by lower
+sales of OEM Aerospace Electronics.
+Segment operating margin decreased 208 basis points to 19.2%. The operating margin primarily
+resulted from product mix differences in Defense Electronics and lower sales of commercial
+avionics. In the Engineered Systems segment fourth quarter revenue decreased 1.7% with greater
+sales related to space and energy programs, electronic manufacturing and turbine engines, more
+than offset by lower sales from missile defense programs and energy systems. Segment
+operating profit and margin was flat year-to-year. Before turning to Sue, I want to offer some
+additional commentary regarding our 2020 outlook.
+Given the points raised by Robert earlier, we believe that total organic revenue growth into full
+year of 2020 will be 3% to 3.5%. In addition, the full year contribution from the scientific camera,
+Gas and Flame detection, Micralyne and OakGate acquisition will add another $100 million or so
+of incremental revenue. This translates to total revenue of approximately $3.36 billion to $3.37
+billion for 2020.
+I will now turn the call over to Sue.
+`Susan L. Main, Senior Vice President and Chief Financial Officer `
+Thank you, Al. Good morning, everyone. I will first discuss some additional financials for the
+quarter not covered by Robert and Al and then I will discuss our first quarter and full year 2020
+outlook.
+In the fourth quarter record cash flow from operating activities was $167.9 million, compared with
+cash flow of $125.5 million for the same period of 2018. The cash provided by operating activities
+in the fourth quarter of 2019 reflected the impact of higher operating income, cash flow from
+recent acquisitions and improved working capital management. Free cash flow, that is cash from
+operating activities, less capital expenditures was $144 million in the fourth quarter of 2019,
+compared with $106.8 million in 2018.
+Capital expenditures were $23.9 million in the fourth quarter, compared to $18.7 million for the
+same period of 2018. Depreciation and amortization expense was $29.3 million in both the fourth
+quarters of 2019 and 2018. We ended the quarter with $651.1 million of net debt that is $850.6
+million of debt less cash of $199.5 million for a net debt to capital ratio of 19.4%. Stock option
+compensation expense was $5.7 million in the fourth quarter of 2019 compared with $4.9 million in
+the fourth quarter of 2018.
+Turning to our outlook, management currently believes that GAAP earnings per share in the first
+quarter of 2020 will be in the range of $2.25 to $2.35 per share and for the full year 2020, our
+GAAP earnings per share outlook is $11.20 to $11.30. The 2020 full year estimated tax rate,
+excluding discrete items is expected to be 22.3%, a 170 basis point increase compared to full
+year 2019 due in part to less R&D tax credits as a percentage of taxable income. In addition, we
+currently expect significantly less discrete items in 2020 compared with 2019.I will now pass the call back to Robert.
+`Robert Mehrabian, Executive Chairman `
+Thank you, Sue. We would now like to take your questions. Greg if you're ready to proceed with
+the questions-and-answers. Please go ahead.
+(Question And Answer)
+Operator
+Thank you. (Operator Instructions). Your first question comes from the line of `Andrew Buscaglia, Credit Suisse.
+Please go ahead.
+`Andrew Buscaglia, Credit Suisse `
+Hey guys, thanks for taking my question.
+`Robert Mehrabian, Executive Chairman `
+Good morning, Andrew.
+`Andrew Buscaglia, Credit Suisse `
+Good morning. I was hoping you could dig a little bit more into marine so, you're on your second
+quarter now of -- looks like at the beginning of a ramp. How sustainable is this -- is the growth into
+next year? And then, can you also talk a little bit about, I would think given you got marine finally
+rebounding here, you got potentially machine vision rebounding here. I would think that your
+organic growth rate guidance will be higher than that 3%, I believe you said 3% and 3.5%. So what
+can you talk about how that's weighing it down or what's weighing it down?
+`Robert Mehrabian, Executive Chairman `
+Sure, Andrew. Let me start with marine. So I think our orders in marine were significant this year.
+We ended the year with about 1.1 in terms of book-to-bill. It's been a good run. There are -- the oil
+prices hover between $55 and $65 for Brent and a lot of deepwater production is profitable
+below $50. So we're seeing both improvements in our seismic activities, those are activities for
+oil exploration as well as long-term oil production contracts.
+We think that in 2020, marine would have increased revenues in the range of about 6.6% versus
+4% in 2019. Now, continuing with the second part of your question which is why we have organic
+growth less than 4% or so. This year, we achieved about 4.4%. We're projecting between 3% and
+3.5% for next year, that's primarily affected by the 737 MAX, it impacts our revenues by 1%, that's
+our best guess right now, which is equivalent to about $30 million.
+We anticipated that we would have revenues of over $40 million maybe as much as $45 million.
+And because of the delays that you're very familiar with, we expect that would be down about --
+affect our revenue about 1% or $30 million.
+Having said that, I think it's important to note that with even that hit that we're taking in our
+revenue, because of our balanced portfolio, even in the aerospace and defense segment, we
+expect revenue to be flat year-over-year, because the defense businesses are going to do much
+better this year than they did last year.So, the answer to your question is primarily driven by math when it comes back into production,
+we'll pick it up again.
+`Andrew Buscaglia, Credit Suisse `
+Yeah. That's helpful. Maybe, could you just comment on the -- you said machine vision in the
+quarter seems to get a little uptick sequentially here. What's your expectation for 2020, I mean
+you got semis market moving higher or there is a good commentary out of those markets so
+what are you guys thinking?
+`Robert Mehrabian, Executive Chairman `
+Right now, we think that in the machines vision that we will get some pickup from semi, we think
+for the year, we'll probably organically grow 3% to 3.5%, but we also made a acquisition, Sci Im
+acquisition last year, as well as Micralyne et cetera. I think overall, machine vision would be over
+5%, maybe 5.1%, 5.2%.
+The digital imaging that includes machine vision is recovering modestly. Where we've done well
+really is in the healthcare, which is our X-ray business and our MEMS areas, and we think those
+areas will help us as well. We think the sales in that whole digital imaging will increase from what
+was this year about $900 million to about $990 million, I'm sorry $900 million to about $1.4 billion,
+$1.450 billion so -- I mean $1.045 billion. And so will be positive about machine vision. Of course, if
+the business picks up more, especially in the flat panel displays, then we'll do better still.
+`Andrew Buscaglia, Credit Suisse `
+Yeah. Got it. All right. Thanks for the color.
+`Robert Mehrabian, Executive Chairman `
+Thank you.
+Operator
+Your next question comes from the line of Joe Giordano. Please go ahead.
+`Joseph Giordano, Cowen and Company `
+Hey guys. Good morning.
+`Robert Mehrabian, Executive Chairman `
+Good morning, Joe.
+`Joseph Giordano, Cowen and Company `
+Hey, Robert, you answered a bunch of my questions there. But maybe can we just talk about
+margins a little bit, and how much -- how dilutive was the M&A in the quarter? And how much is --
+how dilutive do you have it into 2020 margins? And maybe we can get a little color on margins by
+segment there.
+`Robert Mehrabian, Executive Chairman `
+Yeah. I can give you margins first, if I make it by segment and related to '19. Let me start with
+instrumentation, instrumentation had full year margin of about 18.1% and that was really good,because it improves about 370 basis points over 2018.
+We think that'll go up again in 2020, perhaps as much as 70 basis points. Right now, we think it
+would end up at 18.8%. And moving to digital imaging, digital imaging margins were flat year-
+over-year at 18% -- was 17.8% '19 were 17.8%. We think we're going to get some margin
+improvement there, perhaps as much as 65 basis points.
+Aerospace and defense and engineered systems, we don't think we're going to improve
+margins, aerospace and defense primarily, because the margins are already pretty high at 20.8%.
+But also as I mentioned because of the headwinds from 737 MAX, we think even though defense
+will make up for the revenue, margins will stay flat. And then engineered systems, we think
+margins would remain about 9.7%.
+So overall in the segment, we think that the margins will increase overall about 45% or 45 basis
+points, and the company as a whole, it will be about 50 basis points. Regarding the question you
+asked about dilution -- accretion, dilution from the acquisitions, the Roper acquisition was the
+scientific cameras was non-dilutive.
+Right now, Gas and Flame, which is the business we bought from 3M and Micralyne which we
+bought, we think they will add about -- they added about 50 basis points in dilution, probably in
+Q4, and we think going forward they'll be flat. Most of our acquisitions that we make maybe
+dilutive at very early on because of the expenses we have in acquiring them but after a while,
+they were created.
+`Joseph Giordano, Cowen and Company `
+That's very helpful. Just wanted to clarify, I think you said earlier Marine up about 6.5% in 2020
+what about the oil and gas, the energy component of marine specifically, I just want to make sure
+I'm -- I wasn't confusing which things you were talking about there.
+`Robert Mehrabian, Executive Chairman `
+Yeah. Let me just point that out. I think in the oil and gas -- first let me start with a big picture, this
+year we ended marine at about $450 million which was a 3.9% improvement over '18. Our
+present plans or our present anticipation is that, that go up 6.6% to $480 million. Of that the oil
+and gas in 2019 was about $185 million. And we think that'll increase to $202 million, a healthy
+increase for us. And we think the rest of marine which is -- has to do with defense and security
+and other things that will go up from $265 million to $278 million. So to put it in a nutshell, the
+6.6% is balance between oil and gas and the other businesses, especially defense, where we do
+have really good programs, especially in the submarine area.
+`Joseph Giordano, Cowen and Company `
+So maybe last from me. On the healthcare part of digital imaging, that business has been great
+for you guys. And what's the outlook and kind of current thoughts around new customers and
+new fields like on surgery and mammography and what's the -- what's kind of the pacing and
+discussions with big customers there and what's embedded in your guidance for growth in
+healthcare in 2020?
+`Robert Mehrabian, Executive Chairman `
+We think, we're going to have a little growth in healthcare, but it's not going to be as robust as
+we had in 2020, because we had a lot of new OEM sign up in 2020 and we don't see any newWe have -- in prior years, we had really good extraoral surgery, we had good intraoral, we had
+mammography. So we think it's going to be relatively flat, maybe increase another $10 million
+year-over-year. I think last year was about $255 million, we're projecting about $265 million or so
+this year. But it's a healthy business. We're trying to also move up market with some of our
+products.
+So as the year progresses, I think we'd be able to project improvement, especially in
+mammography and other OEMs as we move closer to 2021.
+`Joseph Giordano, Cowen and Company `
+Good. Thanks very much.
+`Robert Mehrabian, Executive Chairman `
+Thank you.
+Operator
+(Operator Instructions). And at this time, there are no further questions.
+`Robert Mehrabian, Executive Chairman `
+Well, thank you very much, Greg. What I'd like to do is ask Jason to conclude the conference call.
+Thank you.
+`Jason W. Connell, Vice President, Human Resources, Associate General Counsel `
+Thanks, Robert. And again, thanks everyone for joining us this morning. If you do have follow-up
+questions, please feel free to call me at the number on the earnings release. And of course, all
+our news releases are available on our website. Greg, if you could conclude the conference call
+then please provide the replay details for the audience. We'd certainly appreciate it. Thanks
+again.
+Operator
+Thank you. Ladies and gentlemen, this conference will be available for replay after 10 a.m. Pacific
+Time today through February 22nd. You may access the AT&T executive replay system at any
+time by dialing 1866-207-1041 and entering the access code 1455431. International participants
+dial 402-970-0847. Those numbers once again are 1866-207-1041 or 402-970-0847 with the
+access code 1455431. That does conclude your conference for today.
+Thank you for your participation and for using AT&T teleconferencing. You may now disconnect.

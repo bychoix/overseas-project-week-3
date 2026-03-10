@@ -1,0 +1,519 @@
+Q4 2016 Earnings Call
+
+Operator
+Good morning, and welcome to the Bio-Techne Earnings Conference Call for the Fourth Quarter
+of Fiscal Year 2016. At this time, all participants have been placed in listen-only mode, and the call
+will be open for questions following management's prepared remarks.
+I would now like to turn the call over to Mr. Jim Hippel, Bio-Techne's Chief Financial Officer. Please
+go ahead.
+James T. Hippel `
+Good morning, and thank you for joining us. On the call with me this morning is Chuck Kummeth,
+Chief Executive Officer of Bio-Techne.
+Before we begin, let me briefly cover our Safe Harbor statement. Some of the comments made
+during this conference call may be considered forward-looking statements, including beliefs and
+expectations about the company's future results. The company's 10-K for fiscal year 2015
+identifies certain factors that could cause the company's actual results to differ materially from
+those projected in the forward-looking statements made during this call.
+The company does not undertake to update any forward-looking statements as a result of any
+new information or future events or developments. The 10-K, as well as the company's other SEC
+filings, are available on the company's website within its Investor Relations section.
+During the call, non-GAAP financial measures may be used to provide information pertinent to
+ongoing business performance. Tables reconciling these measures to most comparable GAAP
+measures are available in the company's press release issued earlier this morning on the Bio-
+Techne Corporation website at www.bio-techne.com.
+And with that, I'll turn the call over to Chuck.
+Charles R. Kummeth `
+Thanks, Jim, and good morning, everyone. Thank you for joining us for our fourth quarter
+conference call. As you saw in our press release this morning, we ended the year on a strong
+note and I'm very pleased with our fourth quarter results as well as the execution of our strategic
+plan all year.The company delivered 10% organic growth in the quarter and achieved 6% growth organically
+for all of fiscal year 2016. This is a nice improvement over the 4% organic growth we had last year.
+In each of the past three years, we have improved organic growth each year.
+The Biotech division had a great year with 6% organic growth and nice momentum at the finish
+with 8% organic growth in Q4. Margins remained strong in the low 50%s due to leverage with
+scale on a strong year for productivity programs, which largely paid for our investments to drive
+growth.
+Europe had a solid year with mid-single digit organic growth, the only issues we had with Europe
+happened in the final week with currency due to Brexit. Germany continues with a strong market,
+especially our biopharma customers. The UK finished the year with 6% growth and we see no
+changes to any of this momentum in the near term.
+Our team has now expanded under new European leadership and we have four subsidiaries in
+the UK, Germany, Scandinavia, Switzerland and Italy, with good local distributors forming in the
+Middle East, Spain and Eastern Europe. Europe now represents 22% of the total company's
+revenues and nearly 30% of the Biotech division.
+In the APAC region, we have had double-digit growth for three years in a row, with China again
+leading the way with 20% organic growth in fiscal 2016. Also unfortunately, once again Japan had
+a poor year due to research funding being delayed from government bureaucracy. With the
+addition of strong new leadership in our APAC region, we have made further investments into
+building our businesses in countries outside of Japan and China. We now have great partners in
+Korea, Australia, India and Singapore. Our head count and critical mass continues to increase, with
+this region now representing 4% of our global sales in the Biotech division.
+Back in the U.S. where we achieved high-single digit growth for the year in the Biotech division,
+we believe the biggest contributor to growth has been our new website. Last summer, we
+launched the complete overhaul of our main R&D systems website complete with 30-plus active
+pathways that are interactive with researchers to allow them to select the reagents they are
+looking for to advance their science.
+Thousands of products can be selected from our website. Search engine optimization, known as
+SEO, has also greatly improved its speed to order. We have double-digit increases in traffic and
+purchases. This key difference, combined with our partnership with Fisher, has allowed us to
+return to solid growth in the academic sector of the market. Our Pharma and Biotech business
+remained strong, largely driven by the web experience.
+Another large contributor to growth is new product vitality. Last year, I spoke about our increased
+vitality in the Biotech division, with the first year sales nearing $6 million. This year, we exceeded
+this number dramatically and topped $12 million in sales of products sold in the first year. This is
+just our reagents. It does not include our instruments, which adds significantly to the overall
+number. This is an improvement of 500% from three years ago. Innovation is the lifeblood of a
+science company and we strive to deliver to our goals of 10% vitality in hundreds of patents.
+Speaking of instruments, Protein Platform division had a good year with 14% organic growth.
+We've spent the first half of the fiscal year redesigning the marketing and commercial approach
+for the business. As a result of these changes, ProteinSimple experienced 25%-plus organic
+growth in the two final quarters of the fiscal year. We still feel strong that this business will
+become a $200 million business built on three important platforms: Western Blot, Biologics and
+the Simple Plex multiplex platforms. All three, you're seeing double-digit growth as they haveLastly, the Chemical Controls division achieved over $100 million in revenue in fiscal 2016. Margins
+remained strong at around 30%, and the integration of four businesses into a cohesive division
+that can leverage each other with OEM customers is working. Cliniqa, our latest acquisition for this
+division had an incredible year with double-digit growth. This division makes us number one in this
+market, and we have solutions for virtually every installation in this (05:29) space.
+Our next expansion in this division is in core diagnostics applications, which can be leveraged with
+our leading content portfolio. Following the acquisition of Cliniqa and the integration of our
+BiosPacific business into this segment in early 2016, diagnostic immunoassays as well as bulk and
+customer reagent for the diagnostics industry have become increasingly more important revenue
+stream in this segment. Thus beginning in fiscal year 2017, our Clinical Controls segment will be
+referred to as the Diagnostics division. Given the broader focus on diagnostics products other
+than controls and calibrators, we believe Diagnostics division more accurately captures the future
+direction of this segment.
+As I mentioned in my opening remarks, fiscal year 2016 was a strong year and is executing our
+strategic plan and our best year in three years for growth, especially organic growth. With nearly
+$500 million in revenue puts us halfway to our strategic target of $1 billion. It will take a
+combination of more acquisitions as well as strong organic growth to reach this goal, but we do
+see a vision on how to get there. The team has never been more energized and our results this
+year have invigorated the entire company.
+As in the past three years, much of our strategic plan is based on acquisitions. And we did
+complete Zephyrus in March and Advanced Cell Diagnostics, or ACD, in August. Both are strong
+additions to the portfolio. Zephyrus is an instrument company, which has just launched a new
+platform branded as Milo that performs single-cell Western blot. It is based on a single-cell
+electrophoresis process so it fits perfectly into the ProteinSimple line of instruments.
+Our latest acquisition, which closed just a couple of weeks ago, is ACD. ACD marks Bio-Techne's
+entry into the genomics field and market. Second and more importantly, its innovative and
+versatile technology have the potential to change pathology practices.
+RNA-ISH is a transformative technology facilitating and improving the monitoring of gene
+expression patterns at the single-cell level, while retaining the morphological context of the tissue
+being analyzed. ACD's technology serves both research and diagnostics markets, expanding Bio-
+Techne's presence in the clinical lab setting. These last two acquisitions take our total to nine in
+the past three years, since this team has come together as Bio-Techne. All but ACD are nearly
+fully integrated and we are proud of the way the employees from all the sites have worked
+together to build a new and exciting innovative culture here.
+Commercial synergies are our priority and we now have a sales force that has expertise in both
+instruments and consumables, which together provide our customers with world-class solutions
+and science. Progress has also been exceptional with our CyVek, PrimeGene and Novus
+acquisitions. Novus has had a stellar year, with growth now running at near 10%. CyVek, or Simple
+Plex as it's now called, is scaling as a business, coming off some key peer-reviewed papers just
+released. We still see huge potential of this business. Roche, as an example, is using this
+technology in three clinical studies and has offered support for technology by hosting webinars
+with our staff.
+PrimeGene completed a new state-of-the-art factory in Shanghai dedicated to the development
+and production of GMP proteins. With the help of PrimeGene, our China for China business has
+experienced strong double-digit growth. Following the ACD acquisition, our pipeline of potentialM&A targets remains strong. And importantly, our strong balance sheet and cash flow leaves
+plenty of dry powder for the ongoing execution of our disciplined M&A strategy. We plan to
+continue to augment our organic business with acquisitions that strengthen our position in
+existing businesses and geographies or leverage our reagent expertise in adjacent markets.
+In closing, our leadership team has spent a lot of time this year reviewing and thinking about our
+strategy and strategic plan. We are three years into the five-year plan we initiated in 2014 and we
+have stayed very true through the course of it. Nine acquisitions later, 230% growth in head
+count, 22 sites versus seven, 100 people in China instead of 12, a subsidiary model with three well
+designed divisions in three regions are all a testament to the significant progress we have made.
+And the growth isn't bad either, the $304 million in revenue in 2013 versus nearly $500 million this
+year in 2016.
+This is all great, but we want to become $1 billion-plus business with continued strong profitability.
+Towards this goal, our strategic plan pillars have remained the same: enable and sponsor
+innovation in the core product lines, geographic expansion, commercial execution, operational
+excellence and talent recruitment and retention. We have tactical plans for all of these strategies
+and the resources and the people to achieve them. I'm very proud of our teams and the
+progress to-date. The company is coming to a true inflection point of growth as we integrate the
+strategic acquisitions to-date, as well as improve internal operations for growth. Fiscal 2017 will be
+a great year.
+And I look forward to having our leadership team share more details about our strategic plan at
+our inaugural Bio-Techne Investor Day in New York City on September 15. Hope to see you all
+there.
+With that, I'll pass the call over to Jim for a more detailed review of the fourth quarter financials
+before we open the line for Q&A. Jim?
+James T. Hippel `
+Thank you, Chuck. As on our prior earnings calls, I will provide an overview of our Q4 financial
+performance for the total company, and then provide some color on each of our three segments.
+Starting with the overall fourth quarter financial performance, adjusted earnings increased 3%
+year-over-year to $34.5 million, while adjusted EPS was $0.92 a share versus $0.90 in the prior
+year. The impact of foreign exchange fluctuations represented a large headwind to EPS,
+approximately $0.06. The more pronounced foreign exchange impact to our adjust EPS results is
+due primarily to the British pound volatility related to the Brexit outcome at the end of the
+quarter. As a reminder, our European headquarters is in the UK, making the British pound our
+functional currency in Europe, which unfavorably impacted our European transactional assets in
+the quarter.
+GAAP EPS for the quarter was $0.69 compared to the $0.71 in the prior year. Q4 reported
+revenue was $134.8 million, an increase of 15% year-over-year with organic revenue increasing
+10%. Fourth quarter reported sales include a 6% growth contribution from acquisitions, partially
+offset by a 1% unfavorable foreign exchange headwind.
+Moving on to the details of the P&L. Total company adjusted gross margin was 70.1% in Q4,
+decreasing 70 basis points from the prior year. Strong volume leverage and productivity gains
+were more than offset by the lower margin Cliniqa acquisition and an unfavorable FX impact.
+Excluding the impact of acquisitions and FX, core gross margins improved 70 basis points year-
+over-year in the fourth quarter.Adjusted SG&A in Q4 was 22.5% of revenue, 160 basis points higher than last year. The SG&A
+increase was driven by the acquisitions made since the beginning of the fourth quarter of last
+year, investments made in China and Chinese corporate related expenses.
+R&D expenses in Q4 was 8.6% of revenue, 60 basis points lower than last year, reflecting the
+volume leverage achieved from our Protein Platforms and Biotech divisions. The resulting
+adjusted operating margin for Q4 was 39.1%, a decrease of 170 basis points in the prior period.
+Looking at our numbers below operating income, net interest expense in Q4 was $0.4 million
+compared to $0.3 million of net interest expense last year due to higher draws on our line of
+credit, which partially funded our Cliniqa acquisition last July. Other non-operating expense for the
+quarter was $1.9 million compared to $0.9 million of non-operating income in the prior year
+quarter, with unfavorable transactional FX explaining the year-over-year variance.
+Our adjusted effective tax rate in Q4 was 31.6%, an increase of 40 basis points in the fourth
+quarter of last year due to a greater percentage of taxable income being generated in the U.S.,
+driven in part by the Cliniqa acquisition. In terms of returning capital, we continue to pay our
+dividend and paid out $11.9 million in the quarter. Average diluted shares were relatively flat over
+the year-ago period at 37.4 million shares outstanding.
+Turning to cash flow and the balance sheet. $36.3 million of cash was generated from operations
+in the fourth quarter, and our investment in capital expenditures was $3 million. We ended the
+quarter with $95.8 million of cash and short-term available for sale investments. Our long-term
+debt obligations at the end of Q4 stood at $126.5 million, a decrease of $31.3 million from the
+end of Q3. Going forward, our capital deployment priorities remain opportunistic M&A or
+dividend and debt pay-down.
+Now I'll discuss the performance of our three business segments, starting with the Biotechnology
+segment. Q4 reported sales were $84.4 million with organic growth of 8%. Foreign exchange
+negatively impacted reported results growth by approximately 1%. By geography, the U.S. grew in
+the high-single digits, with upper single-digit biopharma sales growth and mid-single digit
+academia results.
+Europe increased approximately 10% organically with biopharma and academia sales in this
+region growing in line with the overall geography. As we discussed in the third quarter earnings
+call, timing of the Easter holiday impacted our European results, representing a favorable 5%
+impact to growth in this geography.
+China experienced organic growth in the mid-teens during the fourth quarter and delivered 20%
+organic revenue growth for the fiscal year 2016. Excluding Japan and China, the rest of APAC
+grew 20% organically in the fourth quarter. Japan continued to be a drag on growth given the
+challenging government funding conditions there.
+Adjusted operating income for the Biotech segment increased 5% in Q4 compared to the prior
+year and adjusted operating margin was 52.4%, a decrease of 100 basis points year-over-year
+due to timing of website enhancements and certain commercial investments, particularly in China,
+partially offset by volume leverage and productivity initiatives. As we look ahead to fiscal year
+2017, our latest acquisition, Advanced Cell Diagnostics, or ACD, will be included in our
+Biotechnology segment beginning the first quarter.
+Turning now to Clinical Controls. Segment sales in Q4 were $28.5 million, with reported growth of
+33% over last year. The acquisition of Cliniqa contributed 30% to growth while organic revenue
+increased 3%. Strong growth in the Hematology Controls business was partially offset by thetimings of new OEM projects in our blood glucose business. Separately, beginning Q1 of fiscal
+year 2017, we have annualized the Cliniqa acquisition and this business would be included in our
+organic growth going forward.
+Clinical Controls adjusted operating income increased 36% in Q4 and adjusted operating margin
+was 31.4%, an increase of 80 basis points from the prior year. The higher adjusted operating
+margin was primarily attributable to productivity initiative, partially offset by the mix of a lower
+margin Cliniqa acquisition.
+Moving on to our Protein Platforms segment, net sales in Q4 were $22 million, an organic increase
+of 29% from the prior year period, with unfavorable currency translation impacting revenues by
+approximately 1%. Growth for this segment was broad based, with most major regions and
+product lines growing by solid double digits and also include a stable contribution from the first
+full quarter of sales from our next generation iCE instrument, Maurice.
+Adjusted operating income in Q4 for the Protein Platforms segment was $1.6 million, representing
+operating margin of 7.5% compared to approximately breakeven operating income one year ago.
+Strong volume leverage drove the year-over-year improvement, partially offset by the operating
+costs associated with the Zephyrus acquisition.
+We continue to expect additional improvement in Protein Platforms' profitability as top line
+growth and productivity gains drive operating leverage next year and beyond. In summary, Q4
+was a strong quarter for Bio-Techne, with solid commercial and operational executions driving the
+best organic growth performance in many years. This capped up a solid full year with 6% organic
+growth in fiscal year 2016.
+Looking ahead of fiscal year 2017, we expect overall company organic growth to be similar.
+Additionally, the acquisitions made in fiscal year 2016 and with past July should add another $35
+million of revenue to the top line in fiscal year 2017.
+Foreign exchange, however, will continue to be a revenue headwind of approximately 1% if rates
+stay where they're at today. We are very pleased to include ACD and the other recent
+acquisitions in our upcoming fiscal year results. Although I would advise that collectively, these
+businesses are currently projected to be dilutive to our operating income in the coming year.
+Overall, we anticipate adjusted total company operating margin for fiscal 2017 to be in the mid-
+30%s, with this metric improving throughout the year as we realize volume leverage from the
+acquisition. I'd also like to remind everyone that Bio-Techne assumed an additional $250 million in
+debt to fund the ACD acquisition. With the associated interest expense expected to also impact
+our bottom line results for the year.
+That concludes my prepared comments. And with that, I'll turn the call back over to Rochelle
+to open the line for some questions.
+Q&A
+Operator
+Thank you. And our first question we'll hear from Amanda Murphy with William Blair.
+Q - `Amanda L. Murphy, William Blair & Co. LLC `
+Hi, good morning.A - Charles R. Kummeth `
+Hi, Amanda.
+Q - `Amanda L. Murphy, William Blair & Co. LLC `
+I just have two actually. One is on ProteinSimple. So obviously, that business line in general has
+been doing quite well and you had mentioned a few quarters ago that you had some sales force
+turnover. I just was wondering if you could give a little more context around how you guys have
+worked to turn that business around in quite a rapid fashion, just looking for a little more context
+on performance there.
+A - Charles R. Kummeth `
+Sure, Amanda. Well, we were very transparent starting about a year ago and we saw some
+growth rates pretty slipping dramatically. When you do an acquisition in Silicon Valley, the common
+rule of thumb is expect about a quarter of the people to kind of leave and head on to that next
+lottery ticket. And we did see a lot of impact. Four of the top five in the management team
+moved on and we expected that. We kept who (19:55) the key guy was, the head of R&D and
+Development and he's run the business for us and he's done a great job.
+The commercial team, however, was definitely a little more lacking than we thought, and we had
+to make additional changes quite early. And you guys know all about that. So overall, we turned
+over roughly 60% of commercial organization, including marketing, in those early first couple of
+quarters, which obviously is going to take, call it, the big hit to the business in the top line.
+But those changes are made, I think, very well and very soundly and with great new people, a
+great new head of marketing. We've changed the whole way we go to market. We've changed
+the way we address the customer. We've changed the collateral. We've changed the way we
+address customers at the trade shows. And most importantly, we've done a lot of synergy work
+with the Biotech division and the instruments, mainly reagents and we did this acquisition because
+there's a lot of synergies with reagents of R&D Systems' branded products.
+And they've been working together quite strong, quite well. Our head of our commercial
+organization in North America and in Europe in the reagents side. BioTech-ne has worked closely
+with the organization there in Protein Platforms, and that also has paid off in spades. We actually
+have a new organization to work together on leads, drive the leads both reagents side and the
+hardware side. And so we get new customers from both sides of it, which is working, which we
+thought it would work. I guess that's really what we can say right now. The marketing looks solid.
+Our lead generation is up dramatically over a year ago, and we're making progress.
+Now, we were 25% last quarter, 29% this quarter; also the first two quarters last year about flat or
+negative. We're not going to sit here and say we're going to be 30%-plus going forward, but I do
+think double-digit growth going forward is what we've been telling people and we expect that.
+And if we don't get that, we'll make more changes.
+And it's not a one-trick pony anymore. It's not just the Western blot platform, as we mentioned.
+We've got three solid platforms in this division, all driving growth, all working at double digit
+growth right now. So that provides more safety as well. It should get near to $100 million business
+this year. And we hope – as we mentioned, we think it's got legs to get to $100 million or higher
+this year position in Western blot and below (22:12) is still in the low single-digits here so we've
+got a lot of room.And the Biologics side is a nice surprise. It's growing. It's also a decent market. And there are new
+applications coming out all the time, new papers coming out. We've been very thrilled with the
+acceptance we've seen and we're hoping we're actually crossing an inflection point with the
+continuous strong growth we're seeing but we'll see.
+Q - `Amanda L. Murphy, William Blair & Co. LLC `
+And I think you've said in the past that you think you can get to roughly $750 million revenue with
+the businesses you have now incorporating synergies. Is that still a fair assessment?
+A - Charles R. Kummeth `
+I think with ACD in the mix, that's probably a decent number. We were saying more like $650
+million, $700 million with all the currency hits before that but it's in that range. We cannot get to $1
+billion without further acquisitions, but I think if you run the math, you run the models, you run our
+growth rate at 8% or so growth going forward, we should be close to that. We also want to keep
+these margins strong as well, so it pulls together.
+Q - `Amanda L. Murphy, William Blair & Co. LLC `
+Yeah, that was going to be my next question on the margin side. So obviously, you've had some
+underlying margin expansion but then offset by currency and transaction, so maybe just give a
+little perspective on what you're doing just from an underlying perspective. And then when you
+think about margin, I think you've been pretty disciplined about the platforms you're bringing
+online and where they fit from a margin perspective in your business, but just kind of remind us
+what your target margins might look like?
+A - Charles R. Kummeth `
+Yeah. Well, no one was more disappointed than us, just seeing the last week of the quarter, the
+Brexit hit and the toll we took with that, because we're a UK-based and we were (23:52) U.S.-
+based business here. So it is what it is there. We'll dig out of that pretty quickly, we think. Last
+quarter, we beat pretty soundly at 42.5% op margins. This quarter, we're closer to plan at 39% or
+at around that range. And as Jim mentioned, with the dilution that's coming here with ACD and
+then Zephyrus and what we're doing, mid-30%s is a safe number and we'll be clawing back to
+that 40% with productivity, with synergies and then doing what we've done already a couple of
+times. We've been in this high 30%s before and clawed our way back to 40%, and we've
+mentioned that and we'll drive that.
+So productivity is going to be key. We will not overinvest. We're going to try to invest in systems
+and people and things that create synergies and can create value. And we've got a pretty good
+team with a lot of experience from a lot of big companies that know how to do this. And we
+actually have more opportunities, more things to prioritize than we can even do. So the list of
+things we'd like to do is a pretty long list.
+So you've mentioned, we're disciplined, we think, we are very disciplined and we understand how
+important it is to keep the margin and focus. And I think we've done a really good job with that
+the last two years in doing that, so.
+Q - `Amanda L. Murphy, William Blair & Co. LLC `
+So are you thinking you can be back to 40% within, that's coming out of next year?That's hard to say. I doubt it. ACD was in the press release, we bought them, the trailing 12
+months, they're over a 50% grower. If they can keep that going, then who knows, it's a business
+kind of like our business. They make reagents, put them in little tubes, stick them in a box, and
+some with kits with very, very high gross margins. We like that kind of business. And if that growth
+rate continues, it's going to claw into profitability range very quickly. And then we have not
+discussed where the synergy is commercially. We did invest in it as a company commercially and
+that's why they're at where they're at and we have to wait out an 18-month – they're not (25:46)
+but there is a lot of synergies. For sure China and Europe, they're a little (25:51) leverage the
+reach we have. So we'll see how fast they can dig into the land of profitability. But to say that
+they're going to give us 3 points, 4 points, 5 points of margins for the company, that's probably a
+reach. But we'll see.
+Q - `Amanda L. Murphy, William Blair & Co. LLC `
+Okay. Thanks very much.
+Operator
+And next we'll move to Catherine Ramsey with Robert W. Baird.
+Q - `Catherine W. Ramsey, Robert W. Baird & Co., Inc. (Broker) `
+Good morning, guys. Congrats on a great quarter. You had pretty impressive growth in the
+Biotechnology segment over the last few quarters. What do you think has been the biggest
+factor in that and how sustainable is the mid- to high-single digit piece going forward?
+A - Charles R. Kummeth `
+Well, if you back up a year or two, we talked about when we annualized these acquisitions that
+we're strong growers, we should be in that 8% to 12% range, which is a pretty big band, I
+understand that. And then we're kind of there now and it really comes down to – if ProteinSimple
+stays in that 20% region or better, we're going to be – should be better. The better question is
+why is Biotech division doing so well? And it's continued to do well five to six quarters in a row. We
+had an 8% quarter. This is really sound. And it's just not one reason to think on to that. The
+website has been an amazing success. Academia, which is still a big portion of our business, it's
+something like $800,000 that we report to and I believe that our average order size, remember
+it's still like $900 or something like that.
+So you have to deal with this model growth through the web. You can't touch all these people
+with sales. You have to have a model that has a really nice quick sharp type web engine and the
+SEO engines and then delivery mechanism and we overhauled ours and it's working well. With
+more online activity and more touches in our website you get more orders, that's one piece.
+Fisher started out slow last year for us but ended pretty well. Things were improving. I think they
+have their own growing and bandwidth pains with absorbing Life Tech. And movement internally
+with their TfRs, which we're constantly re-training now and stuff. Well, that's improving as well.
+We're depending on Fisher still, I mean it's helping.
+And then Biotech/Pharma has been strong and remains strong and it's even getting better. And
+we're doing a lot more we'll call it custom work. We're developing – we're getting more known in
+the industry and we're being approached more and more for very, very difficult assignments.
+We're developing reagents, proteins, antibodies, et cetera, for these customers and being paid
+an amazing nice premium for. And there's a nice re-order pathways as well. Roughly about half ofthat work is going in our catalog and so we like it. And that's why we see the 500% increase in
+our vitality, to be honest.
+As long as those three things will stay in place, then I think you're going to see Biotech division in
+the mid-single-digit to better growth region and that's what we expect. That was the plan and
+we're executing to that plan, so.
+Q - `Catherine W. Ramsey, Robert W. Baird & Co., Inc. (Broker) `
+Okay, that's helpful. And then, on your last earnings call, you mentioned starting phase one of
+your ERP system in July. Any color on how that's progressing?
+A - Charles R. Kummeth `
+Say it again? Oh ERP. Yeah. Well, I've been involved in five of them. None of them I've ever started
+flawless. We've all heard horror stories with some of our peers are really suffering. I come from a
+very, very large company that actually had operations shut down for a week. We've seen none of
+that, but we are definitely seeing the pain in the first month of implementing an ERP. We are
+ready for it. We have temps in place. We are working through, digging it out. We expect to be
+kind of in decent shape end of the quarter. And it's usual stuff. You've got backwaters filling. Why?
+You dig in, you find out their orders are held up because one stock number was screwed up, it
+wasn't right and it's holding up the order. We have the usual percentage of customer information
+is inaccurate so it's not going out and it held up the order so you've got to claw through all that
+stuff.
+And we're not making airplanes here, right? So it's a complex business. There's a lot of products,
+a lot of orders, a lot of SKUs, which is the lifeblood of what ERP is supposed to handle with all that
+complexity. So even though we're just a $500 million business, we have the complexity of
+something much larger. So overall, I'm actually pretty impressed. This is by far one of the better
+ERP implementations we've done, but we've definitely got some work to do to claim victory and
+say we're really humming along here like we are, say, with the website design. So it will take a
+quarter or two, I think, to work out all the kinks. But it is what it is, it's ERP.
+Q - `Catherine W. Ramsey, Robert W. Baird & Co., Inc. (Broker) `
+Okay, great. Thank you.
+Operator
+Next we'll move to Paul Knight with Janney Montgomery Scott.
+Q - `Carolina Ibanez-Ventoso, Janney Montgomery Scott LLC
+Hello, good morning and this is actually `Carolina Ibanez-Ventoso, Janney Montgomery Scott LLC on for Paul Knight. What are the
+end markets driving the strong growth that you are seeing in China? And also, what are the
+segments or line of products that are finding more momentum there?
+A - Charles R. Kummeth `
+It's a good question. I'm actually not that happy with China this last quarter. It's actually our worse
+quarter in years here with mid-teens growth and the reason for that is this (31:08) scandal that's
+happened. We saw a lot of products into what we call the academic therapeutics where we had
+institutions working on therapies without re-approval of the CFDA. So the CFDA now has their
+hooks in others. (31:18) And the government's kind of shut down a lot of what's going on inacademia. And you've got to realize that academia in China is a lot of bigger percentage of the
+overall market than it is anywhere else because China funds academia very well, as you know.
+And we're talking about hundreds of institutions.
+So we took a bit of a hit there, but for the year it was 20% growth, which to the point of your
+question, is a very good number. I think the last year like 25% as well. We see that continuing even
+as we scale. We're still not that big in China. I think when you add all our businesses together, with
+PPD as well, I think we're roughly a $40 million business. It was $12 million three years ago so
+we've come a long way, but there's a long way we have to go.
+The key to China is customers, customers, customers. It's a direct model, where you keep adding
+sales people, where you cover it province, city-by-city. You have to have strong leaders. We've
+had almost zero attrition, which is remarkable. And the leadership we have in China, as well as
+overall Asia, is wonderful. And we did a good job with our people. We hired great people. We
+constantly have really good people trying to get to us. R&D Systems' Brand is really well known in
+China.
+As you know, many of the leaders of the institutions in China running things academia-wise are
+Chinese but they're U.S Chinese. They're more predominant than the U.S. citizens. (32:32) Their
+people who have gone back, they call them sea turtles. So we have a large amount of
+researchers in China that actually were educated in the U.S. They know our brand. They know our
+company.
+So we really carry the same weight there as we do here in the U.S., known for our premium
+brand, our quality, our service, et cetera. So that is the key to it. And we hope to leverage that
+across the new businesses, ACD in particular, as well as PPD and instruments. (32:55) Now we've
+not seen that chapter hit yet. That chapter is still yet to come. When that takes off, it'll get even
+better.
+Q - `Carolina Ibanez-Ventoso, Janney Montgomery Scott LLC
+Okay, great. And then outside China, have you started seeing a pickup in academic spending and
+in particular in the U.S.?
+A - Charles R. Kummeth `
+Oh, academic – you're asking is there an academic increase?
+Q - `Carolina Ibanez-Ventoso, Janney Montgomery Scott LLC
+Yes. Yes.
+A - Charles R. Kummeth `
+We did see an academic increase this quarter. We did pretty well. I mean, in China, I would say it's
+about like the same thing I mentioned. I think it's mostly academic anyway. I mean, we would still
+put the business we had supporting therapeutics there with academia, and that took a bit of a hit
+this quarter. We think it'll take about a year to work through that. It's not going to be as near, as
+tough as the last couple of years as they went through their corruption scandal policies, et cetera.
+So we'll see.
+Q - `Carolina Ibanez-Ventoso, Janney Montgomery Scott LLC
+Thank you.A - Charles R. Kummeth `
+We enjoy a wonderful KOL network in China. The team there are doctors and scientists
+themselves. They know each other pretty well. I'm very, very pleased with our KOL network and
+the visibility we get. The tradeshows we drive, there's literally dozens. We run a good operation
+for selling mostly just reagents. Our focus going forward now is really getting the instruments,
+realigning and synergistic with the core business, just like we've done here and it's working well
+here in the U.S. so (34:28).
+Q - `Carolina Ibanez-Ventoso, Janney Montgomery Scott LLC
+Thank you. Thank you very much.
+Operator
+And next we move on to Matt Hewitt with Craig-Hallum Capital Group.
+Q - `Matthew G. Hewitt, Craig-Hallum Capital Group LLC `
+Good morning, gentlemen. Congratulations on a strong quarter.
+A - Charles R. Kummeth `
+Thanks.
+Q - `Matthew G. Hewitt, Craig-Hallum Capital Group LLC `
+A couple questions from me. First, regarding the academic market here domestically, NIH
+funding, I think with the 6% increase this year, I think there was a lot of expectations that it was
+going to take a year before you really started to see the benefit from that increase, paying salary
+increases and all that. But it appears that you're actually starting to see some benefit already. Is
+that the case and what does that mean or imply for next year with the additional increase?
+A - Charles R. Kummeth `
+Well, we went through the math in this a few quarters ago, what we're going to get from this.
+And we came to a conclusion, we thought we'd see about a 1% gain, of a tailwind from the NIH
+funding. The amounts that trickle down to us (35:20) that actually hit the reagents budgets, okay?
+So I think there is some help. You've heard a lot of our peers have talked about they think the
+second half of this calendar year is going to see more of a funding hit. I think in the reagents side,
+we're seeing some now. There's no doubt. I mean, I kind of tease my commercial folks. They've
+got their chests puffed out pretty hard this last quarters with such strong growth. They're getting
+some help for sure. They're probably at least in that 1% range is probably NIH funding and just a
+better attitude. We're going in the other direction. They're not cutting anymore, they're starting
+to figure out where to add, right, so.
+Q - `Matthew G. Hewitt, Craig-Hallum Capital Group LLC `
+Okay, great. And then...
+A - Charles R. Kummeth `
+That helped, right?Q - `Matthew G. Hewitt, Craig-Hallum Capital Group LLC `
+Yeah. Maybe a little bit of a strategic question, but with the acquisition of Advanced Cell
+Diagnostics, this is your first move into genomics. Do you envision essentially building out a fourth
+reporting segment, where this will be kind of the building block of that division, or was this just an
+opportunity to kind of expand a little bit more for that existing segment?
+A - Charles R. Kummeth `
+Well, a couple things. First of all, when you think of our core business, we really are a picks-and-
+shovels provider to areas like cancer research, stem cell, and we're known for quality so we're
+the selection of choice by especially biotech pharma and coming back hard on the academics
+side. We see ACD as the same thing. To say that we're right in the sweet spot of genomics with
+ACD is probably a reach. It's really a picks-and-shovels company as well in genomics, certainly
+gene editing, 9,000 probes, these products. But we like it because it's reagents, it's a kit
+business, it's just like our business. And it gets us into that area where we can – where we know
+how to provide picks-and-shovels.
+On the Clinical Control side, same thing, diagnostics. We're not a full-fledged diagnostics
+company, but we supply the upstream reagents, chemistries, kits to the big guys, every one of
+the big guys that make true diagnostics that they go through the pain and the agony of the
+qualifications and regulatory, and we haven't had to do that. We're drifting that direction. We've
+been very clear, we'd like to get in some of that, maybe in China and some things. And we're
+opportunistic but we're not going to go full into it. You look at last quarter on diagnostics, there's
+not many doing so well in diagnostics. It's been a rough quarter. It's an area that you've got to be
+careful, we think. Same thing for genomics. We like the reagents, the support upside of this
+business to start with, then we'll see.
+Now, with that business growth beyond $100 million or so, I've been very clear we'd like to
+continue to build out our regional subsidiary model. We have three divisions today, we work on
+three regions. Five or six divisions will be great, and it could be diagnostics. It could be genomics,
+could be media. These are all areas that are very strong adjacencies to what we do today. And as
+we build critical mass, we'll make new divisions in the reporting segments.
+To start with, we won't be doing that with ACD. They have an 18-month earn-out. We'll provide
+upside help but they have to be a little bit autonomous for 18 months and then we'll see how
+they do. If they get big enough maybe, more likely initially, they'll be part of Biotech division, but
+it's too early to call that one, to be honest.
+Q - `Matthew G. Hewitt, Craig-Hallum Capital Group LLC `
+All right, great. Thank you.
+A - Charles R. Kummeth `
+It's research only, right? So that's the thing right now.
+Operator
+And there are no further questions at this time. I would like to turn the call back over to Chuck
+Kummeth for any additional or closing remarks.
+A - Charles R. Kummeth `All right. Well, our strongest quarter and year, we've certainly enjoyed seeing 10%. We're
+definitely focused on our margins and we're focused on synergies. We've got more to bake in
+here, we're working hard on it so you can be sure of that. Thanks all for joining the call and we'll
+see you hopefully soon, if not in New York, okay? Bye.
+Operator
+And that will conclude today's call. We thank you for your participation.

@@ -1,0 +1,936 @@
+Q4 2017 Earnings Call
+
+Operator
+Good morning. My name is Jaime, and I'll be your conference facilitator. At this time, I would like
+to welcome everyone to the Aptiv Q4 2017 Earnings Conference Call. All lines have been placed
+on mute to prevent any background noise. After the speakers' remarks, there will be a question-
+and-answer session.
+I would now like to turn the call over to Elena Rosman, Vice President of Investor Relations at
+Aptiv. Elena, you may now begin your conference.
+`Elena D. Rosman, Vice President, Investor Relations `
+Thank you. Good morning, Jamie, and thank you for everyone for joining Aptiv's fourth quarter
+2017 earnings conference call.
+To follow along with today's presentation, our slides can be found at ir.aptive.com. And consistent
+with prior calls, today's review of our actual and forecasted financials exclude restructuring and
+other special items, and will address the continuing operations of Aptiv. The reconciliation
+between GAAP and non-GAAP measures is included in the back of today's presentation and the
+press release.
+And in addition, the appendix also includes a number of supplemental tables which provide the
+historical financials for Aptiv.
+Please see slide two for a disclosure on forward-looking statements, which reflects Aptiv's
+current view of future financial performance, which may be materially different from our actual
+performance for reasons that we cite in our Form 10-K and other SEC filings.Joining us today will be Kevin Clark, Aptiv's President and CEO; and Joe Massaro, CFO and
+Senior Vice President. As seen on slide three, Kevin will provide a strategic update for the
+business, and then Joe will cover the financial results and our outlook for 2018 in more detail.
+With that, I'd like to turn the call over to Kevin Clark.
+`Kevin P. Clark, President, Chief Executive Officer & Director `
+Great. Thank you, Elena. Good morning everyone, thanks for joining us. This is our first quarterly
+earnings call at Aptiv, and I'm excited to report a very strong finish to 2017. Highlights for the year
+included: we exceeded our financial commitments; 2017 revenue, operating profit and earnings
+per share all finished above the guidance we provided at our Investor Day.
+We completed the spin-off of Delphi Technologies ahead of schedule, and received strong
+customer endorsement of our more focused portfolio of advanced technologies, reflected by
+the record bookings of $19.3 billion. We made significant progress positioning the company for
+the future through the acquisitions of Movimento and nuTonomy, organic and inorganic
+investments, and the expansion of our automated driving pilots around the globe.
+In summary, our 2017 performance reflected very strong execution by the entire team. We'll dive
+a little deeper on a number of the key milestones on slide four. 2017 marked another year
+successfully executing our strategy. We continue to strengthen our operating capabilities, which
+translated into accelerated revenue and earnings growth, and exceeding our commitments to
+shareholders.
+Sales increased 5%, that's four points over market; operating income increased 7%, excluding
+investments in mobility and services. We acquired Movimento and nuTonomy, and made organic
+investments in our mobility and services businesses that strengthened our competitive position.
+In addition, minority investments in otonomo, Valens, Leddar Tech and Innoviz enhance our
+technology portfolio, and help to unlock new commercial opportunities. This past year's success
+is in large part the result of the strong foundation that we built, with leadership positions in fast-
+growing technology areas, including active safety, where bookings totaled $3.7 billion, that's 2.5
+times greater than 2016 bookings of $1.4 billion, supporting greater than 40% forecasted revenue
+growth in the years to come.
+2017 active safety revenues actually increased 66% to $600 million. Infotainment and user
+experience bookings totaled $1.5 billion, reflecting the timing of lumpy customer awards, and
+revenues increased 15%, reaching $1.6 billion. Our strong backlog of infotainment and user
+experience awards, totaling over $6.5 billion over the last three years, gives us confidence that
+the pace of revenue growth will continue at roughly 50% over the next several years. High
+voltage electrification bookings increased 12%, totaling $1.4 billion, and 2017 revenues increased
+50% to roughly $300 million, and are expected to nearly double in 2018 to over $550 million.
+In summary, our strong 2017 operating and financial performance gives us further confidence in
+our outlook for 2018 and beyond. The core competencies that are necessary to succeed today
+are the building blocks required to solve mobility's toughest challenges in the future. And we
+believe we have all the necessary competencies.
+Turning to slide five. As I mentioned, Aptiv has been built on a strong foundation of consistently
+delivering automotive grade advanced technologies. As vehicles increasingly become a software-
+defined platform, we've adapted our portfolio of technologies and capabilities to meet the
+demand for more complex software development and systems integration expertise. And as aresult, Aptiv is uniquely positioned to provide the end-to-end solutions required to
+commercializing mobility.
+We have over 6,000 engineers focused on software development, shipping over 40 billion lines
+of code daily, increasing to over 150 billion lines of code in 2020. Vehicles need more computing
+power than ever before to enable advanced vehicle features, including increased levels of active
+safety and connectivity. And this increased need for high-speed computing platforms sits right in
+our sweet spot, allowing Aptiv to leverage its signal and power solutions that enable more
+connected vehicle content.
+Managing complexity and optimizing vehicle architecture to increase efficiency and maximize
+performance is where we integrate systems and we enable new mobility. And lastly, vehicle
+connectivity and data are driving a significant change in the automotive industry. And Aptiv's
+solutions combine edge computing, over the year analytics, cyber security and a data
+marketplace to fully integrate a vehicle into the ecosystem, unlocking the cost reduction
+opportunities and new revenue models for both our customers and for Aptiv.
+All this requires tremendous execution capabilities, and this is where we excel. Aptiv is uniquely
+positioned as a bridge, connecting our customers to more advanced technologies. Coupled with
+our systems integration expertise, we're making the future of mobility real.
+Turning to the next slide, just as we rebranded the company under Aptiv, a name that represents
+our knowledge, adaptiveness and drive, we've chosen new segment names that better reflect
+our capabilities and the role each has to play in the future of mobility. These new segment names
+do not change the overall operating or financial composition of the segments themselves.
+Starting with Advanced Safety and User Experience on the left, formerly Electronics & Safety, we
+sometimes refer to the technologies and solutions in this segment as the brain of the vehicle.
+We're focusing our deep systems expertise in software and central compute platforms to deliver
+advanced safety, user experience and automated driving systems, enabling more connected
+content in the vehicle.
+This segment includes our active safety, infotainment and user experience, body and security,
+and connected services product lines. Going forward, the Mobility and Services Group, which is
+being led by Glen De Vos, includes our automating driving software businesses, Ottomatika and
+nuTonomy, as well as our data services businesses, Control-Tec and Movimento.
+Moving to the right side of the chart, the Signal and Power Solutions, formerly Electrical and
+Electronic Architecture, we sometimes refer to the technologies and solutions in this segment as
+the nervous system of the vehicle. These segment solutions reflect the increasing significance of
+next-gen architectures, requiring high-speed data and high-power electrical distribution to enable
+the necessary technologies for the future of mobility.
+This segment continues to include our Electrical Distribution business, along with our Engineered
+Components business, which includes connectors and cable management products, and has
+approximately $1 billion of non-automotive-related revenues. Again, no change in the composition
+at the segment level. However, as Aptiv is evolved, the rebranding of our segments more
+accurately reflect the role each plays in solving mobility's toughest challenges.
+Moving to slide seven. We've amassed some of the most experienced engineering talent in the
+world, and as a result, we sit at the forefront of new opportunities to enable and monetize future
+mobility.Starting with automated driving, as we look forward, we have a significant opportunity to
+monetize our system and technology capabilities, providing mobility players with an advanced
+Level 4, Level 5 system like those who are currently operating in every major region of the world.
+The development work we're doing with several customers in smart cities will result in more then
+150 cars on the road by the end of this year, accumulating almost 2 million miles of experience.
+And the work we're doing today on Level 4 and Level 5 systems for mobility providers is being
+leveraged in the Level 2 and Level 3 solutions for our traditional OEM customers. And that fact
+reflected in the $3.7 billion of active safety bookings last year.
+Further, we've made significant progress in the connected services market with our acquisitions
+of Control-Tec and Movimento. And by deploying connectivity solutions at all our relevant
+products by 2020, we see significant data monetization opportunities ahead as the capabilities
+get the right data, effectively analyze it, and translate that data into valuable information for our
+customers increases.
+Joe will cover in more detail how we're funding a portion of these investments for ongoing
+productivity gains in our base business. And as I mentioned, our advanced technology
+development work continues to drive new conquest wins today as we help solve some of our
+customers' biggest challenges.
+Turning to slide eight. In 2017, Aptiv booked a record $19.3 billion in new business awards,
+reflecting $7 billion of bookings in the fourth quarter. And you can see on the right side of the
+chart, we had significant wins in each business and region, including a conquest infotainment
+award with a Chinese multinational customer; a conquest active safety award with an OEM
+alliance, another example of a high volume customer award enhancing our overall market
+position; a high-voltage mobile charger award from a leading North American electric vehicle
+manufacturer; and an architectural award for BYD's high-volume SUV platform in China. Together,
+these wins reinforce Aptiv's leadership position in enabling next-generation vehicle features and
+functionality, and is further evidenced by our strategic wins with BMW in the quarter, highlighted
+on slide nine.
+Building on our strategic relationship, as well as the automated driving partnership formed last
+year, the teams have been working closely to enhance BMW's functionality, leveraging Aptiv's
+leading portfolio of advanced safety and user experience technologies. As a result, BMW
+selected our next-gen radar and high-end vision sensor suite, powered by our ADAS multi-
+domain controller, the most advanced centralized supercompute platform in production. In
+addition, we were selected to provide our patented multilayer display technology, which we
+acquired with the PureDepth acquisition just two years ago, becoming the industry's first high-
+definition, reconfigurable 3D display in production, transforming the overall in-vehicle experience.
+These technologies were all on display at CES, and as evidenced here, are in high demand.
+Moving to slide 10. This was our absolute best year at CES yet. As the only company offering
+automated rides on the streets of Las Vegas to the general public, we conducted over 400 rides,
+leveraging the Lyft Mobility on Demand network, marking our first real-life application of
+technology that we've been demonstrating at CES for several years. Feedback was
+overwhelmingly positive as we operated 99% of the time in autonomous mode, while the
+general public rated the experience a near perfect score.
+Customer and government interest reflected a meaningful shift in tone and pace of technology
+deployment. Conversations with customers underscored the importance of an integrated and an
+optimized approach to vehicle architecture, consistent with what I talked about earlier. These
+same conversations reinforce the increasing importance of the fully connected user experience ina more automated vehicle, underscoring the fact that in addition to the development of the
+automated driving software stack, that an integrated and optimized architecture, and enhanced
+user experience are critical to the successful commercialization of Level 4 and Level 5 automated
+vehicles. And we've positioned Aptiv as the only end-to-end system provider of the integrated
+brain and nervous system.
+So with that, I'll now turn it over to Joe to walk through the financials and our outlook for 2018,
+before summarizing at the end and opening it up for Q&A. Joe?
+`Joseph R. Massaro, Senior Vice President and Chief Financial Officer `
+Great. Thanks, Kevin. Morning, everyone. Starting with a recap of the full year financials on slide 11.
+Results were ahead of the guidance we provided at Investor Day. With revenue of $12.9 billion, up
+5%, with less than 1% market growth, we delivered on our commitment of mid-single-digit growth
+above market.
+Operating income was $1.6 billion with operating margins of 12.4%, consistent with what we
+shared with you at our September Investor Day, when you take into account the lower flow-
+through from a stronger euro in the quarter. Earnings per share of $4.64 were up over 10%, and
+operating cash flow of $1.1 billion, which included the $310 million unsecured credit resettlement
+and approximately $80 million of spin-related costs. Excluding these items, operating cash flow
+grew faster than operating income, primarily driven by improvements in working capital.
+Turning to slide 12. The fourth quarter was incredibly busy as we successfully executed the spin of
+the Powertrain segment, had near record launch activity in new bookings, and delivered ahead of
+expectations on revenue and operating income. Aptiv revenues of $3.4 billion, up 4%, were
+above our implied outlook as favorable FX and stronger growth in Europe and China more than
+offset North American passenger car weakness, which was down 17% in the quarter. And
+underlying global vehicle production was up 0.5%, slightly better than expected. We had good
+volume growth year-over-year driven by double-digit gains at Advanced Safety and User
+Experience despite the unusually strong fourth quarter in China in 2016.
+Slide 13 walks our operating income and EPS performance in the quarter, adjusted for the sale of
+Mechatronics. Again, these numbers reflect the continuing operations of Aptiv following the spin,
+and are better than we anticipated back in September, when we provided the standalone pro
+forma financials.
+Operating income was $450 million, up 3% as revenue growth and operational performance
+more than offset unfavorable price and the impact of higher mobility investment spending, which
+we had indicated would ramp over the course of the year. Earnings per share were $1.28, and
+reflect an $0.11 headwind year-over-year on tax as last year's rate reflected the tax benefit of
+restructuring actions in the prior-year quarter. Neutralized for tax, earnings per share growth
+would have been in line with operating income.
+Let's move into the segments. Advanced Safety and User Experience revenues grew 19% in the
+quarter, consistent with the full year, driven by active safety growth of 69%, reflecting continued
+new launches and increased penetration. Infotainment and user experience revenues were up
+8% in the quarter, even while lapping strong prior-year revenue growth and launch activity. Both
+active safety and infotainment are expected to continue their strong pace of double-digit growth
+in 2018.
+Operating margins expanded 290 basis points in the quarter, excluding the impact of our mobility
+investments, driven by strong volume growth and the lapping of last year's warrantee item.Including these mobility investments, margins were down 20 basis points versus Q4 2016. Our
+planned increase in mobility investments totaled approximately $30 million in the quarter and $50
+million for the year.
+Going forward, we will provide this level of detail to better reflect the improving margin profile of
+the underlying business, showing performance both with and without the impact of these
+investments. And as a reminder, we remain on track with our plan to spend approximately $140
+million in mobility and services in 2018, including the addition of nuTonomy and consistent with
+what we guided late last year. In summary, the Advanced Safety and User Experience segment is
+well positioned for continued strong growth and operating leverage in 2018 and beyond.
+Turning to Signal and Power Solutions on the next slide. Revenues were down 1% in the quarter
+and roughly flat for the year, driven by the decrease in North American passenger car production,
+which, as I mentioned, was 17% in the quarter, 14% down for the year, consistent with our outlook.
+It's important to note, the slowdown in North American passenger car sales, including last year's
+cancellation by FCA of several passenger car platforms, primarily impacted our Signal and Power
+Solutions segment.
+Operating margins were down 70 basis points in the quarter as strong operational performance
+was offset by last year's exceptionally strong fourth quarter performance in China. Full year
+margins were up 10 basis points, a testament to how our operating model supports margin
+expansion even in the face of lower North American pass car volumes and the unfavorable year-
+over-year China comps.
+Heading into 2018, we expect mid-single-digit revenue growth, driven by new launches and high-
+voltage sales growth, yielding stronger operating performance and higher margins.
+Slide 16, turning to our expectations for 2018. No change from what we shared at our investor
+conference in September. For the year, we expect revenues to be up 5% to 6%, with production
+expected to be flat to up 1%, in line with our financial framework of mid-single-digit growth over
+market. From a segment perspective, we expect approximately 10% growth in Advanced Safety
+and User Experience, and mid-single-digit growth in Signal and Power Solutions.
+Operating margins are expected to be in the range of 12.6% to 12.8%, up 20 basis points to 40
+basis points, while also investing an incremental $80 million in mobility as we remain relentless on
+operating performance and improving our cost structure. Excluding mobility investments, both
+segments will expand margins in 2018. This is expected to result in earnings per share in the
+range of $5 to $5.20 per share, up 10% at the midpoint, with share count flat year-over-year. And
+operating cash flow is expected to be at approximately $1.6 billion, up double-digits over 2017
+when normalized for the unsecured credit resettlement. CapEx will be roughly $750 million for the
+year.
+For the first quarter, revenues are expected to be up 3% at the midpoint or four points above
+market on production declines of roughly 1%. We expect 70 basis points to 90 basis points of
+operating margin expansion in the first quarter, reflecting improved operating performance, as
+well as having lapped higher warrantee expense last year. And EPS is expected in the range of
+$1.17 to $1.22, up 10% at the midpoint despite a headwind from a more normalized tax rate of 15%
+to 16%.
+Turning to the next slide. As always, our team remains laser-focused on improving our cost
+structure, both as a means to fund incremental growth investments, and continue our strong track
+record of margin expansion and earnings growth. What we've shown here in the left is a walkback in September, with stronger operating performance despite the margin dilutive impact of a
+stronger euro.
+Moving to the middle, you see the margin walk for 2018, with 20 basis points to 40 basis points
+expansion, consistent with our long-term outlook, and benefits from productivity initiatives and
+operating performance are partially offset by our mobility investments.
+Finally, moving to the right, we expect 100 basis points of margin expansion between 2017 and
+2020, and the stranded costs will be substantially eliminated by the end of 2019. And the
+adoption of key growth technologies drives faster growth and greater operating margin
+expansion out to 2022, leveraging the benefits of our industry-leading footprint, lower corporate
+overheads, and a more efficient operation overall.
+Turning to the next slide, our business model is enabling us to convert more income to cash. And
+as cash flow compounds double-digits, there is no shortage of attractive deployment
+opportunities. I want to reiterate, Aptiv will continue to have a disciplined and well-balanced
+approach to capital allocation, similar to what you saw from Delphi. We are focused on reinvesting
+in our business, both organically and inorganically, while maintaining our investment-grade rating.
+Paying a competitive dividend, on M&A, we remain focused on accretive bolts-on similar to
+HellermannTyton, which provided attractive end market diversification and technology
+acquisitions focused on our Mobility and Services Group, where we have the opportunity to
+significantly accelerate the commercialization of new technologies.
+In both cases, the pipeline remains full, and we hope to share more with you over the course of
+the year. And to the extent we have excess cash, we will be opportunistic in returning it to
+shareholders. In summary, we believe effective capital deployment is a major differentiator for
+Aptiv, and an important part of our overall investment thesis.
+I'd like to turn the call back to Kevin for his closing remarks.
+`Kevin P. Clark, President, Chief Executive Officer & Director `
+Thanks, Joe. We'll wrap up on slide 19. 2017 was another outstanding year. We exceeded our
+financial commitments, and executed the spin-off of our Powertrain segment flawlessly and
+ahead of schedule, all while enhancing our portfolio of advanced technologies with the
+acquisitions of Movimento and nuTonomy, and investments in Valens, otonomo, Innoviz and
+Leddar Tech; all which will serve to enhance our competitive position as the demand for ADAS
+and automated mobility solutions ramps up.
+Looking ahead to 2018, as Joe just mentioned, our outlook includes mid-single-digit revenue
+growth above market, reflecting the strength of our technology portfolio and execution
+capabilities, and margin expansion, in line with the long-term framework we provided back in
+September, with 20 basis points to 40 basis points expansion while continuing to invest for future
+growth; all which results in double-digit earnings and cash flow growth, and the ability to sustain
+long-term shareholder value creation through efficient and disciplined capital deployment.
+So, with that, we'll open up the lines for questions, operator. Thank you.
+Q&A
+Operator
+Our first question comes from the line of Brian Johnson with Barclays. Your line is open.Q - `Brian A. Johnson, Analyst, Barclays Capital, Inc. `
+Yeah. Good morning.
+A - `Kevin P. Clark, President, Chief Executive Officer & Director `
+Good morning, Brian.
+A - `Joseph R. Massaro, Senior Vice President and Chief Financial Officer `
+Hey, Brian.
+Q - `Brian A. Johnson, Analyst, Barclays Capital, Inc. `
+Just a couple of questions. First, in what we used to call EEA and updated to Signal, can you
+maybe – and talk about the new bookings and also just a revenue outlook, talk about the different
+trends within which one might call traditional wiring harness and connector business, where you
+had maybe a new launch, but the platforms aren't radically different, versus some of the more
+advanced data-intensive. And in particular, is the core traditional wiring harness business, are you
+booking less there when you got like the price or the commodity pass-throughs or other
+commercial terms?
+A - `Kevin P. Clark, President, Chief Executive Officer & Director `
+Yeah, Brian. It's Kevin. I'll start and that then Joe will follow up. So a couple trends that relates to
+Electrical Architecture. As it relates to the transition to what we sometimes refer to as a more
+sophisticated or smarter architecture, obviously, more business booked, more business being
+done with the traditional automotive OEs that have a, let's call it, a higher component of
+technology in their overall portfolio. So, who are pushing at the furthest ends of ADAS today, so
+whether it be advanced Level 2, approaching Level 3, advanced infotainment or user experience
+systems, and increased vehicle connectivity. Most of that activity, quite frankly, is in Europe.
+Second and along similar lines, but consistently happening both in the North American market and
+the European market, and beginning in the Asian market, is more KSK harnesses, which are
+customized harnesses, which are effectively built to match the VIN number and the specific
+outfitting of the vehicle, which is a much more complex architecture and an even more complex
+supply chain, as you can imagine.
+The third piece, I would say, there are a few of the, what I would call, the newer OEs that we've
+been deeply engaged and more active as it relates to clean sheet of paper architecture. And
+discussions about how we optimize that and how you bring that into production sooner rather
+than later.
+And then lastly, apologize for rambling, there are a number of other OEs that, I think, is
+approaching close to double-digit, where we're spending time talking about that clean sheet re-
+architecture of the vehicle, but doing it over a longer period of time, a lengthier period of time.
+So, Joe, you should...
+A - `Joseph R. Massaro, Senior Vice President and Chief Financial Officer `
+Yeah, Brian, within that business...
+Q - `Brian A. Johnson, Analyst, Barclays Capital, Inc. `Thank you.
+A - `Joseph R. Massaro, Senior Vice President and Chief Financial Officer `
+...I think a couple things to note with that business. One, we obviously, and we've talked a lot
+about it this year, I think the business did a really good job of weathering the North American pass
+car downturn while expanding margins.
+We see that flipping next year, so that business returns to probably mid-single-digit growth.
+Within there, we also continue to see strong growth in HellermannTyton, both on their industrial
+business, as well as their auto, we'd expect them to continue with double-digits.
+They've been between 10% or 11% growth per year since we bought them, and we see that
+continuing. So, really, I think the story of next year is really just lapsing that passenger car volume
+in North America, and you'll see it return to mid-single digits.
+Q - `Brian A. Johnson, Analyst, Barclays Capital, Inc. `
+Okay. Second question is more kind of longer-term strategic. Looks like great progress, at least
+around the ADAS and kind of advanced electronic side with BMW. Can you maybe help us,
+especially in light of all the acquisitions you've put in to your effort, kind of where the Intel-
+Mobileye partnership you have is, how it relates to what you're doing with autonomy, and what
+we saw in automatic and what we saw in Vegas, and then BMW's own joint venture with Intel-
+Mobileye, where, of course, Fiat Chrysler has become one of their partners? So, like just are
+those kind of moving on parallel tracks, separate but related, sort of the same thing or how
+should we think about that?
+A - `Kevin P. Clark, President, Chief Executive Officer & Director `
+There's obviously a lot of activity in and around autonomous driving. So let me start with, we
+continue to progress with our partners Mobileye and Intel in the development of the CSLP
+platform that will be commercially available in 2019. So, let's start with that.
+Where we are having discussions with other OEs, whether it's their interest in the CSLP platform
+or it's their interest in doing some portions of that activity on their own, like the BMW partnership,
+we're doing all we can, as you can imagine, from a financial standpoint, not to re-create, but to
+reuse the technology and the capabilities that we've established. I can't get into specifics at this
+point in time.
+So, some OEs want more of that, some want less of that. I think there's a direct correlation
+between their level of internal technical capabilities, what they've had historically, and how
+strategic they view that automated driving stack to be.
+Q - `Brian A. Johnson, Analyst, Barclays Capital, Inc. `
+Okay. Thanks.
+Operator
+Your next question comes from `Chris McNally, Analyst, Evercore ISI with Evercore ISI. Your line is open.
+Q - `Chris McNally, Analyst, Evercore ISI `
+Good morning, team, and congrats on a successful spin. Just two follow-up questions forLyft was a big positive. And you mentioned 2019 is a commercial test deployment in a city. That
+seems pretty significant given that Aptiv will add a lot more automotive great experience to what
+nuTonomy could do by themselves. Could you just elaborate and give a little bit more details?
+How many vehicles? Is this highway travel? Will Lyft be contributing significant R&D? Anything that
+you can add around some of that – the details around the 2019 program.
+A - `Kevin P. Clark, President, Chief Executive Officer & Director `
+Yeah. Well, listen, the 2019 program relates to Aptiv. And we're in discussions with multiple
+players in the mobility-on-demand space, as well as cities, with respect to deploying vehicles at
+Level 4 levels, initially in late 2018, early 2019. By the end of this year, we'll have roughly 150
+vehicles-plus on the road. I think I mentioned traveling roughly 2 million miles during the year. And
+we'll be doing that through multiple partnerships, whether they be mobility-on-demand players or
+they be direct agreements with cities.
+Now, one thing it's important, I think, to underscore, and you've heard Joe and myself say this
+several time, we're not in the fleet management business. We're not a mobility provider. So it's
+our objective to partner with others who are. At the same time, it's really important to advance
+the technology and, quite frankly, to monetize the capabilities to get as many vehicles out on the
+road as we can nearer-term, whether those are vehicles we're paying for or partners paying for,
+to enhance our capabilities and prove out the capabilities.
+Q - `Chris McNally, Analyst, Evercore ISI `
+That's great. And just a quick follow-up to Brian's question on the production car side. I think
+previously, when you first sort of launched CSLP, you mentioned that if an OEM wants to sign up
+to the program in somewhat of a turn-key solution, it would aid them in getting to market with an
+L4 type car and maybe L3, as I think you talk about 2019 as the first year. Is it fair to say that some
+of those discussions have happened, you just can't really announce formal awards? I just think,
+because the investment community sort of was prepped for some sort of big award
+announcements over the last year, and that just may not be the case, it may be discussions that
+are going behind the scenes. I just wanted to get a little bit more color on the award process.
+A - `Kevin P. Clark, President, Chief Executive Officer & Director `
+Sure. So, several of those conversations have happened and are happening. As you can imagine,
+from an OE standpoint, there's a strategic aspect to this. There's a risk aspect to this. There's a
+product portfolio aspect to this. Then, in reality, it's pretty complex, and there's a business model
+aspect. So, we continue to be engaged with a number of OEs about both the entire CSLP
+platform, as well as portions of the CSLP platform. We've always said, we are about giving our
+customers what they want. And the benefit of having the platform is for those who don't have the
+capabilities and want to move more quickly, we can provide a more full turnkey solution.
+On the flipside, for those that want a portion, having the ability or the understanding of the full
+systems allows us to enhance the parts. So, actually, that's one.
+I think the second thing, Chris, I'd underscore, one of the things that we've concluded, and it's for
+obvious reasons, that you're going to see the acceleration of autonomous driving with the
+mobility-on-demand players, quite frankly, sooner than you're going to see it with the traditional
+OEs, and that's purely economic. The cost of an automated driving system is, today, relatively
+expensive, and the economics are justified by the mobility players to the extent they can either
+get the driver out of the car or they can have the driver doing things other than just transporting
+passengers or goods.A - `Joseph R. Massaro, Senior Vice President and Chief Financial Officer `
+Yeah, Chris, it's Joe. The one other thing I'd add and we've talked about this before, particularly
+on the OE side, as the conversations have evolved, the other thing which we think is very positive
+from our perspective is they're now becoming discussions around how to move from active
+safety, Level 2 into Level 3, into Level 4. So they're becoming sort of technology roadmap
+discussions, which given by 2020, we'll have over 20 or just about 20 active safety customers
+providing Level 2, and have the capabilities to do Level 3 and level 4, we certainly think sort of the
+technology continuum discussions are going to accrue to our benefit as well.
+Q - `Chris McNally, Analyst, Evercore ISI `
+That's great. And it allows for a sticky customer as well. Appreciate the color, guys.
+A - `Joseph R. Massaro, Senior Vice President and Chief Financial Officer `
+Yeah.
+A - `Kevin P. Clark, President, Chief Executive Officer & Director `
+Yeah. Thank you.
+Operator
+Your next question comes from `David Leiker, Analyst, Robert W. Baird & Co., Inc. with Baird. Your line is open.
+Q - `David Leiker, Analyst, Robert W. Baird & Co., Inc. `
+Hey. Good morning, everyone.
+A - `Kevin P. Clark, President, Chief Executive Officer & Director `
+Good morning, David.
+A - `Joseph R. Massaro, Senior Vice President and Chief Financial Officer `
+Morning, David.
+Q - `David Leiker, Analyst, Robert W. Baird & Co., Inc. `
+I just want to follow up on the conversation you were just having. As you look at – once upon a
+time, there was a view of you go from Level 1 to 2 to 3 to 4 to 5, and then all of a sudden,
+everybody jumped to Level 4 and 5, and now, it seems that Level 3 is becoming more prominent.
+How internally do you manage that technology roadmap? Are those separate businesses? Are
+they parallel past this – how do you manage that?
+A - `Kevin P. Clark, President, Chief Executive Officer & Director `
+The answer is a little bit of both. So our approach is the Level 4, Level 5 is actually separate, that
+sits in that Mobility Group with Glen De Vos, and with our autonomous driving team from
+Ottomatika and NuTonomy. And they're focused on really Level 4, Level 5 solutions. That's where
+all their focus is. However, we have a system set up where they're able to effectively share their
+advancements in algorithm and technologies with our traditional ADAS business that resides in
+our Advanced Safety and User Experience segment today, that is having discussions withtraditional OE customers, principally around Level 2, Level 3, and some around Level 4. But
+they're separate organizations with the ability to share technology.
+And the reason they're separate is, one, to make sure that we are focused on advancing that
+Level 4, Level 5 capabilities. And then, two, as I mentioned, David, the mobility-on-demand
+players today are moving much faster. And we want to make sure that we have an organization
+that's effectively focusing on delivering that technology to that customer group.
+Q - `David Leiker, Analyst, Robert W. Baird & Co., Inc. `
+Yeah. That's two different customer bases there. As we look out – I don't know that 2020 is a
+timeframe, but if you – what would be your guess in 2025 of that mix for you in terms of revenue
+contribution between the Level 3, 3-plus like the ADAS, safety types, incremental approach
+versus the mobility-on-demand Level 4, 5?
+A - `Joseph R. Massaro, Senior Vice President and Chief Financial Officer `
+Yeah, David, what we're seeing – so we've been out with – our target is $1 billion in revenue
+related to automated driving/mobility, right, the services that come around automated driving.
+That number is $1 billion. The way we see it plotting out right now, it's about 50-50. So 50% of
+that coming from Level 3 as we migrate our Level 2 plus business into Level 3 opportunities with
+OEs, and then targeting $500 million of revenue coming out of mobility-on-demand group.
+A - `Kevin P. Clark, President, Chief Executive Officer & Director `
+And then active safety underneath that, Level 1, 2.
+A - `Joseph R. Massaro, Senior Vice President and Chief Financial Officer `
+Active safety by then will be well north of $2 billion, probably close to $2.5 billion-plus of business.
+Q - `David Leiker, Analyst, Robert W. Baird & Co., Inc. `
+And that's just Level 1 and 2 or does that include 3?
+A - `Joseph R. Massaro, Senior Vice President and Chief Financial Officer `
+That's just Levels up 1 and 2, that's the existing business.
+Q - `David Leiker, Analyst, Robert W. Baird & Co., Inc. `
+Okay. And then, just one small item here. As we look at user experience on the infotainment side,
+strong bookings there, strong performance there. If you look at what bookings are being done
+today within that space, what do you think your market share is in that today versus what it is
+relative to the business that's being delivered today?
+A - `Kevin P. Clark, President, Chief Executive Officer & Director `
+What's our market share today relative to what it will be in the future?
+A - `Elena D. Rosman, Vice President, Investor Relations `
+Bookings...
+Q - `David Leiker, Analyst, Robert W. Baird & Co., Inc. `No, no. What it is currently, your credit revenue base, your share there versus the share on what
+your bookings are.
+A - `Joseph R. Massaro, Senior Vice President and Chief Financial Officer `
+Yeah. David, that's a hard one. Part of the challenge for that space is you've got some of the
+captives in there with low-end audio. I think if you racked it all up and included low-end audio,
+we're a top probably seven. I think as you start to focus on the really relevant technologies and
+where this is going, low-end audio displays going away. We think the mid systems are going to
+push their way down. We clearly see ourselves moving in organically into a top-five position over
+the next couple years.
+I mean, this MLD booking for us, it's hundreds of millions of dollars of bookings from an
+acquisition we did in 2016 for $50 million. The technology is just phenomenal.
+Q - `David Leiker, Analyst, Robert W. Baird & Co., Inc. `
+Okay.
+A - `Joseph R. Massaro, Senior Vice President and Chief Financial Officer `
+So again, it's a little bit how you're racking up that market, but if you put the audio in there, we're
+probably further down. But where we want to play, clearly, targeting a top-five to top-three
+position.
+Q - `David Leiker, Analyst, Robert W. Baird & Co., Inc. `
+Okay, great. Thank you very much. Take care.
+A - `Kevin P. Clark, President, Chief Executive Officer & Director `
+Thanks.
+Operator
+Your next question comes from `Joseph Spak, Analyst, RBC Capital Markets LLC with RBC Capital Markets. Your line is open.
+Q - `Joseph Spak, Analyst, RBC Capital Markets LLC `
+Thanks. Good morning, everyone.
+A - `Kevin P. Clark, President, Chief Executive Officer & Director `
+Morning, Joe.
+Q - `Joseph Spak, Analyst, RBC Capital Markets LLC `
+First question, just a little bit more sort of on 2018. So the 20 bps to 40 bps of margin expansion,
+in line with what you talked about previously, but it does show a big sequential improvement from
+the first quarter guide. So, I think some of that is the subsiding of the stranded cost, but I was
+wondering if you could talk about any of the other sort of puts and takes through the years, and
+maybe what your commodity outlook is as well.
+A - `Joseph R. Massaro, Senior Vice President and Chief Financial Officer `Yeah. So there's – Joe, we've got stranded costs; we're going to lap some warranty in Q1, so
+that's going to help the Q1 number. But our mission here is to get stranded costs out for all
+intents and purposes by the end of 2019. So, it's a fairly deliberate march. We're starting the year
+with about a $90 million, as we talked about in September, about $80 million to $90 million of
+stranded costs to get out of the system. So that's where a lot of that comes from. However, we
+continue to do a really good job on the manufacturing in the material performance side as it
+relates to continued savings.
+And as we've talked about, one of the benefits we're getting here are these product lines
+coming to scale. Things like active safety getting to $600 million of revenue and it's going to
+continue to grow at 40%. That adds efficiencies into the manufacturing plants, adds efficiencies
+into the material buy. Very similar with high voltage electrification. We've got that business
+growing in $300 million of revenue; it's going to grow well above 50% next year. We've already
+booked about $1.4 billion this year. So very strong bookings to revenues. So those product lines
+coming to scale help while we continue to bang away at our overall cost footprint, if you will.
+And again, doing this in light of investing and being able to fund those additional mobility
+investments. Commodities are pretty straightforward. The 2018 guide adds no real significant
+changes in there. Copper is the biggest one, but again, that's mostly pass-through. To the extent
+we don't pass through copper, we hedge. So that plays around a bit with the topline, but doesn't
+really impact performance.
+And then I think from a currency perspective, the thing we're obviously watching, the guide has
+got a 1.15 euro in there, which was about our average for 2017. Obviously, that looks conservative
+relative to where we are today, but that's been bouncing around a bit, so we'll continue to watch
+that. But at this point, with where the business is post-spin, the really only focus commodity is
+copper. Mindful of resin pricing, but – from an oil perspective, but don't see any challenges there.
+Q - `Joseph Spak, Analyst, RBC Capital Markets LLC `
+That's helpful. And then just back on the autonomous discussion. You guys have talked about a
+couple times now, some nontraditional customers potentially rising up. And you reiterated today
+you don't want to be sort of the mobility provider; you want to work with them. But what does
+that really look like from, I guess, from the actual vehicles perspective? Is it something like you
+showed at CES where you're retrofitting vehicles or is it working with someone else to design
+and build those vehicles?
+A - `Kevin P. Clark, President, Chief Executive Officer & Director `
+Joe, it's effectively both. I think it's an optimized vehicle. It's both an optimized OE vehicle set up
+for Level 4, Level 5 autonomous driving, and then it's a, what I'd call, a custom bespoke vehicle
+that can transport more passengers and has a more fully integrated architecture – ADAS stack or
+automated driving stack, as well as user experience capability. So, we're actually working on both.
+Q - `Joseph Spak, Analyst, RBC Capital Markets LLC `
+Okay. Thank you.
+Operator
+Your next question comes from `Rod Lache, Analyst, Deutsche Bank Securities, Inc. with Deutsche Bank. Your line is open.
+Q - `Rod Lache, Analyst, Deutsche Bank Securities, Inc. `Good morning, everybody.
+A - `Joseph R. Massaro, Senior Vice President and Chief Financial Officer `
+Good morning, Rod.
+A - `Kevin P. Clark, President, Chief Executive Officer & Director `
+Hey, Rod.
+Q - `Rod Lache, Analyst, Deutsche Bank Securities, Inc. `
+I'll ask a couple of things, one is, obviously, you ended 2017 with a very strong cash position, $1.6
+billion, and you alluded to a pretty solid pipeline of M&A opportunities. Can you just remind us, at
+a very high level, how should we be thinking about what your cash target is? So, if we are thinking
+out a year or so, what are you kind of managing that down to between the various uses of cash?
+A - `Joseph R. Massaro, Senior Vice President and Chief Financial Officer `
+Rod, to run the business, call it, $300 million to $400 million of cash, right? So clearly, the cash
+balance is strong. As I mentioned in my prepared comments, capital allocation philosophy at Aptiv
+hasn't changed. We are – we do have a good-looking deal funnel at the moment, there's a lot of
+things on both the Signal and Power Solutions side that we're looking at, and I think – as well as on
+the technology side. Those will really unfold over the next couple of quarters.
+And again, I think there'll be transactions like HellermannTyton, bolt-on type transactions that both
+deepen the capabilities of the Signal and Power Business within auto, but also look at some
+adjacent market opportunities. Things like PureDepth, as we mentioned, that's going to complete
+homerun as it relates to the bookings with BMW on that technology, so things like that.
+And to the extent we get to the point where later in the year, those haven't materialized, the
+target control timing, we understand the importance of returning cash to shareholders. The guide
+only includes, at this point, keeping share count flat. So we'll – we won't allow creep, obviously, so
+we'll be repurchasing to avoid creep. And anything incremental will really be based on, as we get
+further through the year, what we see from – actually materializing from of a funnel perspective.
+Q - `Rod Lache, Analyst, Deutsche Bank Securities, Inc. `
+So, just to clarify, you would think or suggest to us that we should be thinking you exit the year at
+$300 million to $400 million, so you have the $1.6 billion plus the free cash flow that you generate
+this year to deploy between M&A and share repurchases or – and that kind of thing? Is that
+correct?
+A - `Joseph R. Massaro, Senior Vice President and Chief Financial Officer `
+Yeah. Yeah, listen, I think – I don't want to call a number that specific. The deals – the types of
+transactions we look at take time, particularly on electric architecture space. We're looking at a lot
+of what I'll call midsize bolt-ons, they're typically family-owned businesses. They take some time
+to cultivate.
+So, I wouldn't want to be on record and saying, we're going to have it all buttoned up by
+12/31/2018. But as you think about Aptiv, capital deployment hasn't changed from Delphi. Long-
+term, we need – on average, we need $300 million to $400 million of cash, and we're going to
+work really hard to try to find smart uses for that cash.Q - `Rod Lache, Analyst, Deutsche Bank Securities, Inc. `
+Okay. Thanks. And just switching gears. The shift from passenger car has actually been a tailwind
+for the industry broadly, just given richer mix but a bit of a headwind for you, guys, just in part
+because of the Fiat Chrysler situation. Can you give us a sense of what your North American
+passenger car exposure is now kind of on a run-rate basis? And is that still something that you
+would put in the risk bucket?
+A - `Joseph R. Massaro, Senior Vice President and Chief Financial Officer `
+Listen, it was – FCA, we knew about going into the year, GM took a lot out of pass car, that was
+really what we were working through during the year. That business continues to be or looks to
+be about 65% SUV and truck in North America, about 35% pass car. As we book business, as we
+bid on business, we're very mindful of what pass car platforms, if any, quite honestly, we want to
+be on.
+So we'd look to continue to pivot – that, certainly, there are some that distinguish themselves
+from others, but it's certainly something we watch carefully and are managing through. I think
+given what happened last year, at this point, do we have a big risk associated with it. Next year,
+no, we really see ourselves lapping that. But it's something we'll continue to manage through,
+and quite honestly, it's – again, that business, North American pass car probably took 30 basis
+points to 40 basis points of margin out of Signal and Power Distribution in 2017. And the team was
+on it, that business was able to expand margins 10 basis points even with that headwind. So
+we're laser-focused on it, and we'll continue to manage the business to the extent it comes up
+short. Kevin, I don't know if...
+A - `Kevin P. Clark, President, Chief Executive Officer & Director `
+No, you covered it all, Joe.
+Q - `Rod Lache, Analyst, Deutsche Bank Securities, Inc. `
+Great. And just lastly, could you just talk to us about how you're thinking about conversion on
+volume going forward as you're currently configured? The 21% that you did in the quarter, it's a
+little bit lower than what the prior configuration was. And for the full year, how should we be
+thinking about the cost items and savings items like performance and depreciation versus your
+pro forma 2017?
+A - `Joseph R. Massaro, Senior Vice President and Chief Financial Officer `
+Yeah. Listen, I think – we used to always talk about volume flow at an 18% to 22% at Delphi
+HoldCo. I think it's fair, as Aptiv, we're in the higher end of that range, so call it, 20% to 22%. As
+we see volume flow, I think the one other comment I'll make is we're running this business for flat
+to up slight production volumes. So when we see things like we did in China in Q4 2016, we'll flow
+higher. And our goal is when we see things like North American pass car, is to be able to continue
+to expand margins. But I – as a rule of thumb, I'd go to the higher end of the Delphi Holdco range
+and call it 20% to 22%.
+Q - `Rod Lache, Analyst, Deutsche Bank Securities, Inc. `
+Okay. And performance and cost items like depreciation versus the pro forma, is the run rate that
+we're observing here something that would be sustained into 2018?A - `Joseph R. Massaro, Senior Vice President and Chief Financial Officer `
+Yeah. To some extent, as we talked about, it's going to accelerate a bit just given we lapsed
+some of the warranty and get the stranded costs out. And Elena can certainly take you through
+the detail there, but I'd be focused – I think you got to be mindful just how you think through
+stranded, and she can certainly take you through that.
+Q - `Rod Lache, Analyst, Deutsche Bank Securities, Inc. `
+Right. Okay, got it. Thank you.
+A - `Joseph R. Massaro, Senior Vice President and Chief Financial Officer `
+Yeah.
+Operator
+Your next question comes from `John Murphy, Analyst, Bank of America Merrill Lynch with Bank of America Merrill Lynch. Your line is open.
+Q - `John Murphy, Analyst, Bank of America Merrill Lynch `
+Good morning, guys.
+A - `Kevin P. Clark, President, Chief Executive Officer & Director `
+Good morning, John.
+Q - `John Murphy, Analyst, Bank of America Merrill Lynch `
+If I could – I just have a sort of slightly longer term question, and it's a little bit theoretical, but I
+mean Glen and you guys have been talking about as we see more L4 and L5 autonomous drive
+vehicles being developed, that you're going to need all new architecture. I'm just curious, if you
+think it's sort of the brains and veins and everything that you guys supply to the automakers, what
+sort of the magnitude of the increase in potential content per vehicle there could be? I mean, is it
+kind of like a 50% number or is this the kind of thing where it could to be a factor of two times to
+three times higher potential content for you, guys?
+A - `Kevin P. Clark, President, Chief Executive Officer & Director `
+Yes. I don't know if I've thought about it from a content – an exact number of content per vehicle
+standpoint. I guess, the way we would look at it, and I think it's reflected in the longer term
+guidance that Joe talked about at our Investor Day, is accelerated growth and growth over
+market. And it's being driven by more software, more data, and solid growth within the vehicle
+architecture space.
+So, I don't have a content per vehicle factor number to give you. Maybe a way to think about it,
+and not quite backing into it, but when you think about active safety and you think about our kind
+of Level 4, Level 5, I think Joe and I and the team would tell you, we're seeing a factor change in
+active safety revenues and active safety bookings.
+So we think you'll continue, for the next several years, see a run rate from a bookings standpoint
+that's in the range of, call it, $300 billion-plus, that's in the range that we booked this year in
+active safety. We talked about infotainment, it's been a bit lumpy, so we're actually down year-
+over-year on the infotainment bookings, but up on revenue. You'll see strong revenue growththere as well. And then I think the smart architecture, the vehicle architecture overlay, we'll see
+how that plays out.
+A - `Joseph R. Massaro, Senior Vice President and Chief Financial Officer `
+Yeah, John. If you go back to – and we'll have it revisited you with it offline, if you think about the
+architecture business, our view between sort of now and, call it, 2030, is for every $3 of content
+that goes into the architecture, we lose about $1 from optimization.
+And that's – so we're not exactly on content per vehicle 10 years out. But as we look at the
+trends, vehicle architecture has a positive mix that would be higher-end connection systems,
+more complicated materials going in for the Level 3. Mass coming out is the one decrement.
+And then to Kevin's point, we're going to see additional content from the higher end compute
+platforms as well, the integrated content controllers, the multi-domain controllers. But that's – on
+the architecture side itself, there is an optimization decrement, but we see the increase of the
+different materials and technology far exceeding that, yeah.
+A - `Kevin P. Clark, President, Chief Executive Officer & Director `
+So every one of our major product lines or segments are growing over market, growing over
+vehicle production.
+Q - `John Murphy, Analyst, Bank of America Merrill Lynch `
+Okay. And then maybe just a follow-up to that. I mean, I understand you guys are incredibly
+financially disciplined on margins and returns, and great stewards of shareholder capital, but
+there is also sort of a view in the market right now for particularly future car technologies that
+significant growth, regardless of exact profitability or returns, is being rewarded with high
+multiples, whether it be in the private market, as you can see some early-stage companies or
+some stuff even in the public markets.
+Is there any potential that you might drift away from sort of that returning margin target to get
+greater growth, which might reward you with a higher stock price, which might reduce your cost
+of capital, and then sort of be somewhat of a – (58:06) circle? Because there's some
+consternation in the market right now just in – a barbell of where you guys are valued and where
+some slightly high flyers at higher multiples are valued right now.
+A - `Kevin P. Clark, President, Chief Executive Officer & Director `
+Listen, I would tell you, there is zero possibility that happens. And that's for multiple reasons,
+including experience, and seeing over the long term, companies who pursue growth for growth's
+sake and what ultimately happens. I'd say the second and maybe more aligned – directly aligned
+with shareholders near-term, from a management team standpoint, over or roughly half our
+compensation is tied to expanding return on capital. So there is a direct correlation that affects
+myself, my direct reports, their management team, and it's pushed on down, tied to our long-
+term incentive plan that really drive the mindset, where it's about increasing and enhancing return
+on capital.
+And consistent with what Joe has mentioned earlier about us being maniacally focused on our
+cost structure and our cash flow generation, all these programs, all these major programs, sized
+strategic, we take a look at and we review with the management team before they bid on. And
+we give them specific guardrails and guidelines with respect to where they can go. And thediscussion about return on capital, quite frankly, is one of the biggest discussions, and we spend
+more time on that, quite frankly, than we even do on the margin expansion discussion, so.
+Q - `John Murphy, Analyst, Bank of America Merrill Lynch `
+That's very good to hear. And maybe just one last real quick housekeeping, and I apologize if I
+missed this, Joe. I mean, on raw mat headwinds for 2018 and what you're seeing in sort of the
+relationship with the automakers on ability and the index pass-through, and all that kind of stuff
+with – particularly around copper or other raws that you might be facing some inflation with?
+A - `Joseph R. Massaro, Senior Vice President and Chief Financial Officer `
+Yeah. No change here, John. I mean, our copper is – the pass-throughs are contractual for copper.
+So those, again, they – in fact, it can move revenue depending on how fast copper moves. There
+are sometimes a little bit of a lag, call it, a quarter and a half to get the inventories for the system.
+But beyond that, we're not anticipating any headwinds and have seen no contractual changes,
+certainly. And then we're really bound to – again, we watch resin, but that's a distant derivative of
+oil, so we were able to manage that, we think, fairly effectively. We've obviously got a big resin
+buy, so we buy fairly efficiently. So not a lot of commodity headwinds or risk from anything we
+see.
+Q - `John Murphy, Analyst, Bank of America Merrill Lynch `
+Great. Thank you very much.
+A - `Kevin P. Clark, President, Chief Executive Officer & Director `
+Thanks.
+Operator
+Your next question comes from `David Tamberrino, Analyst, Goldman Sachs & Co. LLC with Goldman Sachs. Your line is open.
+Q - `David Tamberrino, Analyst, Goldman Sachs & Co. LLC `
+Thanks. At your safety bookings, looks like they significantly accelerated in the fourth quarter from
+the $2 billion year-to-date at 3Q. Can you kind of talk about this state of the environment with
+quoting activity and kind of what your percentage share of wins of businesses you're looking at
+is?
+A - `Kevin P. Clark, President, Chief Executive Officer & Director `
+Yeah. Listen, I don't have – this is Kevin. I don't have an exact percent share of wins. We tend to
+be focused on the higher end – medium to high-end vision, radar and other solutions. Active
+safety activity across the customer base, from an opportunity standpoint, has picked up as active
+safety penetration rates have increased. I think, as Joe mentioned, a year or so ago, we were at
+five customers, I think we're at 10 or more...
+A - `Joseph Spak, Analyst, RBC Capital Markets LLC `
+12 then.
+A - `Kevin P. Clark, President, Chief Executive Officer & Director `...yeah, in 2017. So we're seeing a significant ramp-up, both with existing customers, as well as
+new customers. As I mentioned, I think you'll see a factor change in our bookings on the active
+safety space on a going-forward basis. You're going to see a significant increase relative to our
+historical average.
+A - `Joseph R. Massaro, Senior Vice President and Chief Financial Officer `
+Yeah, David, our win rate – I mean, it's a little bit like my infotainment response to `David Leiker, Analyst, Robert W. Baird & Co., Inc.. It
+depends on what you're scoring. We don't – low-end cameras, those types of things, we really
+don't participate in. So if you're in there, the share would be lower. I mean, our teams have been
+seeing 90% win rates in the work that we're going after. And we've had a, as you mentioned, a
+very strong Q4 and see, I would call it, plus $3 billion booking levels in 2018 and 2019 as – we've
+got line of sight to those at this point, so we're feeling very good about that active safety
+business. And as I mentioned earlier, a lot of those conversations did bleed into Level 3 plus
+autonomous driving.
+Q - `David Tamberrino, Analyst, Goldman Sachs & Co. LLC `
+Got it. And then as we think about what you've booked so far, almost $10 billion cumulatively, I
+think, on our count, how much of that is more software-related revenue versus hardware?
+Understanding it's a package together, but just trying to see how much embedded software
+from Aptiv is in that new business bookings for active safety versus software that might come
+from a Tier 2, Tier 3.
+A - `Joseph R. Massaro, Senior Vice President and Chief Financial Officer `
+Yeah. It's hard, David. For active safety, I would – it's sort of Ragu, it's all in there. I would tell you,
+our view is the software capabilities around things like sensor fusion and such are what's helping
+us drive the business. But on the active safety side of the business, it truly is sort of firmware. It's
+embedded in there, and it's in the price. So it'd be very hard to split out revenues.
+Q - `David Tamberrino, Analyst, Goldman Sachs & Co. LLC `
+Got it. But thinking about from a margin uplift perspective, is it – you're mentioning hardware
+vision and multi-domain controllers. How much of those componentries has embedded software
+that's coming from your software engineers versus a third party?
+A - `Joseph R. Massaro, Senior Vice President and Chief Financial Officer `
+Yeah, listen, I mean, all of it had some of our software. What we incorporate from a customer or a
+customer's third – another third party from a customer is platform dependent, but if you look at
+(01:04:26), that's a lot of our software. Audi put some software in there, there's actually some
+software from two other – (01:04:35) with someone else, I believe, the TT (01:04:36). So, it's
+usually a mix, but in terms of – all of our products have some of our software on them. And we're
+the integrator of the other software components. So we tend to be sitting on top and making
+sure the software all works together within that control unit.
+Q - `David Tamberrino, Analyst, Goldman Sachs & Co. LLC `
+Understood. Thank you.
+A - `Joseph R. Massaro, Senior Vice President and Chief Financial Officer `
+Thanks, David.Operator
+Your next question comes from David Lim with Wells Fargo. Your line is open.
+Q - `David H. Lim, Analyst, Wells Fargo Securities LLC `
+Hi, good morning, guys. Just quickly, on the backlog, it looks like where the win rate – it looks like
+it declined a little bit for your EA or what you called the EA division in the past. I'm thinking maybe
+it's something to do with passenger cars, but can you guys elaborate on that?
+A - `Kevin P. Clark, President, Chief Executive Officer & Director `
+Yeah, I think year-to-year, David, you got to be – as we've said in the past, there's lumpiness as it
+relates to bookings. So I wouldn't read a trend into year-over-year small changes. I'd also
+underscore, last year, we had a couple very big bookings, including the GM T1XX program that
+obviously had a positive effect in 2016 that didn't reoccur in 2017.
+Q - `David H. Lim, Analyst, Wells Fargo Securities LLC `
+Got you. So, yeah, that's what I was thinking was episodic. And finally, can you give us some color
+on the situation with NAFTA and how that would impact you? I know that there's a lot of moving
+parts, but some additional color would be very helpful. Thank you.
+A - `Joseph R. Massaro, Senior Vice President and Chief Financial Officer `
+Yeah. A lot of moving parts on NAFTA, David. So, I would tell you, less concerning and less
+significant than, call it, border adjustment tax laws if you go six to nine months back. Right now, on
+the – there's really two things we're watching on NAFTA. It's that sort of regional value content
+and what they do with those percentages. They're talking about bumping it up to maybe as much
+as 85%. That is in the ballpark of, what I'd call, additional duties of, call it, maybe $20 million a
+year. So, we're watching that, but again, these are what I would call manageable amounts.
+The other is the domestic content requirement, if they put one in. What does it mean? That's a
+little bit hard to calculate at the moment because unlike the RBC, you can sort of adjust the
+percentages and calculate the number. The domestic content is still wide open. I will tell you
+though that to the extent which they're talking about, to the extent they include intellectual
+property in the domestic content number, it should really not be a big deal for us because that
+will allow us to count the value of the software and the sort of the intellectual property we put
+into the products that are manufactured in Mexico.
+So again, we're way off where we were from a impact of something like a border adjustment tax,
+so this is manageable. And if NAFTA was to go poof tomorrow, it's probably nine – which it can,
+six months. But if it was to leave, it would probably be, call it, on a full year basis, maybe up to
+$100 million of additional duty we'd have to work through.
+Q - `David H. Lim, Analyst, Wells Fargo Securities LLC `
+Got you. Thank you so much.
+A - `Joseph R. Massaro, Senior Vice President and Chief Financial Officer `
+Thanks.
+OperatorYour next question comes from `Itay Michaeli, Analyst, Citigroup Global Markets, Inc. with Citi. Your line is open.
+Q - `Itay Michaeli, Analyst, Citigroup Global Markets, Inc. `
+Hi, great. Thanks, good morning. So, I just want to go back to the...
+A - `Joseph R. Massaro, Senior Vice President and Chief Financial Officer `
+Morning.
+Q - `Itay Michaeli, Analyst, Citigroup Global Markets, Inc. `
+Good morning. Mobility-on-demand and Robo-Taxi discussions. So, understanding that you don't
+want to be kind of a fleet manager or mobility provider. As we think about the race we're seeing
+by different players to deploy these vehicles relatively quickly, to the extent that Aptiv's
+technology enables one of your partners or customers to get into this race fairly quickly, for
+example, like next year, when you planned on deploying, how should we think about the
+economics to Aptiv ultimately in these businesses? Is it still limited to the content per vehicle or
+could there be other software, other data-related revenue that would maybe be part of the
+growth of that network?
+A - `Kevin P. Clark, President, Chief Executive Officer & Director `
+Yeah, I think the answer to that is depending on the customer relationship or the nature of the
+customer agreement, Itay. Our target would be for a customer to use both our AD stack, as well
+as our mobility cloud, right, which allows both that customer as well as Aptiv to monetize data,
+whether it's on-vehicle data or it's off-vehicle data, whether it's data used by the OE or fleet
+manager to optimize fleet performance, or it's data basically bundled and sold to outside third
+parties. So our objective would be to target each one of those. That would be the biggest
+opportunity.
+Q - `Itay Michaeli, Analyst, Citigroup Global Markets, Inc. `
+Great. That's helpful. And then just quickly on the 2018 outlook, and I apologize if I missed this.
+Joe, did you provide any kind of directional margin commentary for the segments themselves,
+some of the puts and takes?
+A - `Joseph R. Massaro, Senior Vice President and Chief Financial Officer `
+Yeah. No, we didn't give specific guidance. Both will be up, excluding that mobility investment in
+the active safety and user experience business, and that spend will be about $140 million next
+year.
+Q - `Itay Michaeli, Analyst, Citigroup Global Markets, Inc. `
+Okay, got it. Thanks so much.
+Operator
+Your next question comes from `Emmanuel Rosner, Analyst, Guggenheim Securities LLC with Guggenheim. Your line is open.
+Q - `Emmanuel Rosner, Analyst, Guggenheim Securities LLC `
+Hi. Good morning, everybody.A - `Joseph R. Massaro, Senior Vice President and Chief Financial Officer `
+Good morning, Emmanuel.
+Q - `Emmanuel Rosner, Analyst, Guggenheim Securities LLC `
+Just two quick follow-ups for me, the first one is on your bookings, and it's a follow-up to a
+previous question. I'm looking at slide eight. Can you maybe just go over again how you think of
+that metric and how it relates to future organic growth? I think under the old combined Delphi,
+the old rule of thumb was, look, it's growing at a 10% CAGR, therefore, we have high confidence
+we keep growing revenues at 5%. Like is it the same way to think about it at Aptiv?
+A - `Kevin P. Clark, President, Chief Executive Officer & Director `
+Yes. Yeah. Listen, these are programs with lifetime revenues. Programs typically start at Aptiv, call
+it, two to three years out versus at Delphi with the Powertrain business, it would be three to four
+years out. We would assume if you can consistently grow 10%, there's the possibility that there's
+some leakage in those bookings or adjustments to FX or shifts in program, that it gives us
+confidence that we can grow at roughly five points over market.
+A - `Joseph R. Massaro, Senior Vice President and Chief Financial Officer `
+Yeah. Emmanuel, the only thing I'd add to that is that's a CAGR over time, right? So I wouldn't
+react to necessarily one year, we grow bookings 12%, the next year, we grow bookings 7%. That's
+over – we did that analysis, you're right, a couple years ago, and that was over time. So it's not a –
+this year, that changes over time. So, we're – and again, bookings are very lumpy for us. So it's a
+good metric as a CAGR over – 10% is a good CAGR over a 5-year plus sort of period.
+Q - `Emmanuel Rosner, Analyst, Guggenheim Securities LLC `
+Understood. And then just one additional follow-up. You're expecting some pretty decent growth
+acceleration in the, I guess, electrical business. Can you talk about the cadence of that in 2018?
+Are we going to see it already straight in Q1?
+A - `Kevin P. Clark, President, Chief Executive Officer & Director `
+Yeah. It will be lower in Q1 and ramping up throughout the year. I think it's actually Q1 flat to slightly
+down, quite frankly, and then ramping up to the kind of mid-single-digit growth level for the full
+year.
+A - `Joseph R. Massaro, Senior Vice President and Chief Financial Officer `
+(01:12:25) the way to think about is just – it's how we cover the pass car comp. And that
+accelerated towards the back half of 2017, so that's sort of where you see the delta coming.
+Q - `Emmanuel Rosner, Analyst, Guggenheim Securities LLC `
+Great. Thanks for the color.
+A - `Kevin P. Clark, President, Chief Executive Officer & Director `
+Thanks, Emmanuel.
+OperatorYour next question comes from `Steven Fox, Analyst, Cross Research LLC with Cross Research. Your line is open.
+Q - `Steven Fox, Analyst, Cross Research LLC `
+Hi. Good morning. Just one question for me, please. Could you – it's good to hear that you're
+staying disciplined to your profit targets that you laid out in the fall. One of the things that seems
+to have changed in the last, I don't know, even just the last month or so, has been the ramp-up in
+expectations for vehicle miles for – autonomous vehicle miles from limo and Uber that are going
+to be driven this year. You guys are talking about $2 million on 150 vehicles by the end of the year.
+Can you just talk about how you manage that profit expectation versus what seems to be sort of
+the bigger entrées around getting autonomous vehicle data from road tests as we go through
+2018 and into 2019?
+A - `Kevin P. Clark, President, Chief Executive Officer & Director `
+Yeah. Listen, – yes. No, listen, that's a great question, it's a very fair question. We have a specific
+business plan tied to our Mobility group, tied to our autonomous driving activity. And that ties to
+the resources, whether it be people, vehicles and activities that we're willing to commit to. And
+based on those dollars spent, there are key milestones that need to be delivered as it relates to
+advancement in technology and customer interactions. So we are very, very focused on, as Joe
+mentioned early, managing our cost structure, using as much of the internal funding as we can
+through cost reductions to support investment in future growth opportunities. And then taking
+those future growth opportunities where we can and apply those newer technologies to near-
+term commercial opportunities like active safety. So it's just a very disciplined approach. We
+manage it just like we manage any other business. We know we have financial commitments, we
+have margin targets, we have a return on capital targets, and we operate to those.
+Q - `Steven Fox, Analyst, Cross Research LLC `
+So is there possibilities that, say, there was pressure on you to gather more data more quickly,
+that you could reach some kind of financial partnerships or would it totally be related to Aptiv's
+spend in the near term?
+A - `Kevin P. Clark, President, Chief Executive Officer & Director `
+Listen, we're focused on how do we maximize return on capital and shareholder value. So to the
+extent opportunities like that need financial funds, those are certainly things that we'd evaluate.
+Q - `Steven Fox, Analyst, Cross Research LLC `
+Fair enough. Thank you so much.
+A - `Joseph R. Massaro, Senior Vice President and Chief Financial Officer `
+Thanks.
+Operator
+Your next question comes from `Colin Langan, Analyst, UBS Securities LLC with UBS. Your line is open.
+Q - `Colin Langan, Analyst, UBS Securities LLC `
+Thanks for taking my question.A - `Joseph R. Massaro, Senior Vice President and Chief Financial Officer `
+Hey, Colin.
+Q - `Colin Langan, Analyst, UBS Securities LLC `
+I just have a couple quick ones. Any guidance on the $140 million in mobility investment post
+2018? Is that a good run rate or does it continue to expand from there?
+A - `Joseph R. Massaro, Senior Vice President and Chief Financial Officer `
+Yeah. It will expand – it won't expand at the percentage that it did between 2017 and 2018, but
+we'd expect that to grow. But again, to Kevin's comment, it will grow within that financial
+framework of the 20 basis points to 40 basis points margin expansion, so.
+Q - `Colin Langan, Analyst, UBS Securities LLC `
+Got it. And then, just lastly, I know you've already indicated there's no change from the U.S. tax
+reform to your tax rate. Is there any long-term impact? Does this help you at all? Would your rate
+have gone up in the future or essentially, there's really no long-term impact either? Just trying to
+think about if there actually would've been a help if that got through.
+A - `Joseph R. Massaro, Senior Vice President and Chief Financial Officer `
+Yeah. There's always gives and takes in taxes. U.S. tax rate – lower U.S. tax rate's helpful, but
+we're not – just given the way we're set up, we're not a big U.S. tax payer. So it just doesn't move
+it significantly. And I think the way we're focused at the moment is how to make sure that 15% to
+16% stays sustainable. And for us, we treat tax like we treat every other cost in the place. We're
+trying to figure out how to manage it, and we think we got better uses for cash. So we're always
+working it, so there's a lot of ins and outs there.
+Q - `Colin Langan, Analyst, UBS Securities LLC `
+Okay. All right. Thanks for taking my question.
+Operator
+There are no further questions at this time. I will turn the call back over to the presenters for any
+closing comments.
+A - `Kevin P. Clark, President, Chief Executive Officer & Director `
+Okay. Well, listen, thank you, everybody, for your time. We greatly appreciate it, and have a great
+day.
+Operator
+That concludes the Aptiv Q4 2017 earnings conference call. Thank you for joining. You may now
+disconnect.

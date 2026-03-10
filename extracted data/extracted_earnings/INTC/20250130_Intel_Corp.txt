@@ -1,0 +1,695 @@
+Q4 2024 Earnings Call
+
+Presentation
+Operator
+Thank you for standing by, and welcome to Intel Corporation's Fourth Quarter 2024 Earnings
+Conference Call. At this time, all participants are in listen-only mode. After the speakers'
+presentation, there will be a question-and-answer session. (Operator Instructions) As a reminder,
+today's program is being recorded.
+And now I'd like to introduce your host for today's program, Mr. `John Pitzer, Corporate Vice President, Investor Relations, Corporate Vice
+President, Investor Relations. Please go ahead.
+`John Pitzer, Corporate Vice President, Investor Relations `
+Thank you, Jonathan, and good afternoon to everyone joining us today. By now, you should have
+received a copy of the Q4 earnings release and earnings presentation, both of which are
+available on our Investor Relations website, intc.com. For those joining us online today, the
+earnings presentation is also available in our webcast window.
+I'm joined today by our Interim Co-CEOs, `Michelle Johnston Holthaus, Interim Co-Chief Executive Officer, Chief Executive Officer of and Dave Zinsner. As you
+know, Michelle is also CEO of Intel Products and Dave continues to serve as Intel CFO. In a few
+moments, Michelle will open up with some summary comments before providing more detail on
+Intel Products. Dave will then discuss Intel Foundry and the overall financials, including our Q1
+guidance.
+Before we begin, please note that today's discussion contains forward-looking statements based
+on the environment as we currently see it and as such are subject to various risks and
+uncertainties. It also contains references to non-GAAP financial measures that we believe provide
+useful information to our investors. Our earnings release, most recent Annual Report on Form 10-
+K, and other filings with the SEC provide more information on specific risk factors that could causeon our non-GAAP financial measures, including reconciliations where appropriate to our
+corresponding GAAP financial measures.
+With that, let me turn things over to Michelle.
+`Michelle Johnston Holthaus, Interim Co-Chief Executive Officer, Chief Executive Officer of `
+Thank you, John, and let me add my welcome. It's been roughly two months since Dave and I
+stepped into our roles as Interim Co-CEOs. From day one, we have been working closely
+together alongside the Board to drive better execution of our strategy. There are no quick fixes,
+and we are committed to improving our performance and rebuilding our credibility through
+persistent hard work that delivers tangible results. As part of this, we are driving more focused
+investments across the business. We cannot be all things to all people and we are prioritizing
+areas where we can drive differentiated value. We are also continuing to simplify our business
+and become a leaner, more efficient company, and most of all, we are doing a better job of
+listening to our customers to ensure we meet their needs.
+Q4 was a step in the right direction. We delivered revenue, gross margin, and EPS above our
+guide. Intel Products executed to drive revenue in the quarter even as PC inventory continued to
+normalize. And Intel Foundry drove incremental operating efficiencies while achieving key grant-
+related milestones, which supported solid upside to gross margins. As Co-CEOs, you can expect
+us to be very straightforward and direct. We only make commitments we are confident we can
+deliver. We firmly believe that what we say is not nearly as important as what we do and
+everything we do must be in service of our customers. Innovating to solve their most pressing
+challenges is the surest [ph] path to creating shareholder value. This is the mindset I have
+brought to my position as the CEO of Intel Products.
+This is a great business with great people, partners, and IP to design world-class products from
+edge to cloud. I take nothing for granted, but I firmly believe that the core x86 architecture and
+the ecosystems we have built and invested in over the decades create a solid foundation for
+success. Our customers share this view, but they need us to improve our execution and hit our
+commitments. I am setting clear priorities and directions in each business to drive better
+outcomes. I think about Intel Products in three buckets. First, client edge; second, traditional data
+center; and third, the AI data center. Let me spend a few moments on each.
+In client, Intel CPUs power roughly 7 out of every 10 PCs. This is a strong position that gives us
+advantages in the market. That said, the market is becoming more competitive, especially as we
+see new entrants trying to participate in the AIPC category. Personally, I thrive on competition. It
+drives a healthy paranoia across everything we do and we're using it as motivation to up our
+game even more. The success of Core Ultra across Meteor [ph] Lake, Arrow Lake, and Lunar
+Lake has established Intel as the market leader in AIPC CPUs, and we remain on track to ship
+more than 100 million cumulative systems by the end of 2025.
+We are innovating at scale unlike any of our competitors. This was on display earlier this month at
+CES, where we launched the enterprise versions of our AI CPUs with compelling new features to
+Intel vPro. This is a testament to the strong ecosystem we have built with IT departments around
+manageability, security, trust, and brand, and we expect these investments to position us well as
+corporations begin their migration to Windows 11. Alongside our investments in enterprise, our
+ecosystem reach also positions us well in the AIPC consumer markets.
+We are working with more than 200 ISVs across more than 400 features to optimize their
+software on our silicon. I'm excited about the new applications I'm seeing in the pipeline that willposition as the preferred CPU of choice. Looking ahead to the rest of the year, we will strengthen
+our client roadmap with the launch of Panther Lake, our lead product on Intel 18A in the second
+half of 2025. As the first volume customer of Intel 18A, I see the progress that Intel Foundry is
+making on performance and yields, and I look forward to being in production in the second half as
+we demonstrate the benefits of our world-class design and process technology capabilities.
+2026 is even more exciting from a client perspective as Panther Lake achieves meaningful
+volumes and we introduced our next-generation client family code named Nova Lake. Both will
+provide strong performance across the entire PC stack with significantly better costs and margins
+for us, enhancing our competitive position and reinforcing our value proposition to our partners
+and customers. Let me now turn to our traditional Data Center business. The team has made
+good progress towards strengthening our offerings and driving better, more predictable
+execution. This year is all about improving Xeon's competitive position as we fight harder to close
+the gap to competition.
+The ramp of Granite Rapids has been a good first step. We are also making good progress on
+Clearwater Forest, our first Intel 18A server product that we plan to launch in the first half of next
+year. All of this provides a strong foundation on which to build as we execute. The world's data
+center workloads still primarily run on Intel Silicon, and we have a strong ecosystem, especially
+within enterprise. We are going to leverage these strengths as we work to stabilize our market
+share in 2025.
+One of the ways we'll do this is by re-engaging the x86 ecosystem. We have seen a positive
+response from the x86 ecosystem advisory group we formed last fall, and we are encouraged by
+the enthusiasm for building both semi-custom and custom products. This is a big area of
+opportunity for the business and we look forward to talking more about this as we have news to
+share. Turning to the AI data center, I will start by saying that this is an attractive market for us
+over time, but I am not happy with where we are today.
+On the one hand, we have a leading position as the host CPU for AI servers and we continue to
+see a significant opportunity for CPU-based inference on-prem and at the edge as AI-infused
+applications proliferate. On the other hand, we're not yet participating in the cloud-based AI data
+center market in a meaningful way. We have learned a lot as we have ramped Gaudi and we are
+applying those learnings going forward. One of the immediate actions I have taken is to simplify
+our roadmap and concentrate our resources. Many of you heard me temper expectations on
+Falcon Shores last month. Based on industry feedback, we plan to leverage Falcon Shores as an
+internal test chip only without bringing it to market. This will support our efforts to develop a
+system level solution at rack scale with Jaguar Shores to address the AI data center.
+More broadly, as I think about our AI opportunity, my focus is on the problems our customers are
+trying to solve, most notably, the need to lower the cost and increase the efficiency of compute.
+AI is not a market in the traditional sense. It's an enabling application that needs to span across
+the compute continuum from data center to the edge. As such, a one-size-fits-all approach will
+not work and I can see clear opportunities to leverage our core assets in new ways to drive the
+most compelling total cost of ownership across the continuum.
+Before I turn the call over to Dave, let me close by speaking as Intel Foundry's largest wafer
+customer. I have a pretty simple approach. When we are able to combine world-class products
+with world-class process technology, we win. As CEO of Intel Products, I will always make process
+technology decisions based on what is best for my customers, and Intel Foundry will need to earn
+my business every day just as I need to earn the business of my customers. Having said that, I'm
+confident in Intel Foundry's team ability to support my current and future product roadmap andI'm excited to do more business with them as their process technology continues to advance. A
+stronger Intel Products combined with a more competitive Intel Foundry is a recipe for success for
+Intel overall.
+Dave, over to you.
+`David Zinsner, Interim Co-Chief Executive Officer, Executive Vice President and Chief Financial `
+Thanks, Michelle. Let me add my welcome. I'm going to address three topics today, update on
+Intel Foundry; second, Q4 and full year financials; and third, our Q1 guidance. Starting with Intel
+Foundry. I've had an opportunity to meet with a number of our partners and potential customers
+for Intel Foundry over the last couple of months. I come away from those meetings encouraged
+by the opportunity we have in front of us and I've received clear feedback on what our customers
+need from us to succeed. This starts with our execution on Intel 18A. This has been an area of
+good progress. Like any new process, there have been puts and takes along the way, but overall,
+we're confident that we are delivering a competitive process.
+We're excited by the launch of Panther Lake this year and the internal ramp of Intel 18A in the
+second half that will support increased volumes and improved profitability in 2026. From the
+perspective of external customers, Intel 18A is a very competitive offering that gives each of
+them a reason to engage with us. However, foundry wins are about more than just technology.
+Trust is also a significant factor. Customers must believe you can execute consistently and be
+willing to invest in IP to port a design to a new foundry. That's why past transitions in the industry
+have generally started with customers giving new foundry partners smaller volumes, then
+gradually increasing as trust grows.
+We've made good progress, but to accelerate this, I'm asking the team to redouble their efforts
+on ease of porting, IP availability, and best-known foundry methods. I'm particularly pleased by
+the willingness of our suppliers and partners to engage with us, augmenting our expertise and
+hard work with theirs. Job number one is earning the customers' trust. The Intel 18A design wins
+to date provide good validation of the strategy and we continue to have a healthy RFQ pipeline
+of potential customers. But we won't win every deal out of the gates. We'll be selective and focus
+on areas where we are confident that we can be a meaningful contributor to the success of our
+customer and we look forward to updating you as RFQs become wins.
+In addition, we continue to have good momentum in advanced packaging and in our collaboration
+with Tower Semiconductor and UMC. All three are critical to utilize our assets longer for higher
+rates of return. This is a good segue into my other key areas of focus for Intel Foundry, improving
+our financials and making sure that we're deploying our capital appropriately. At roughly $18 billion
+in revenue, Intel Foundry today is larger than all but one external foundry. That's clearly not
+reflected on our P&L with negative gross margins and a greater than $13 billion operating loss in
+2024.
+We're going to systematically attack our costs and remain highly focused on our goal of delivering
+breakeven operating income for Intel Foundry by the end of 2027 and we expect to demonstrate
+improvements this year. The financial benefits of shifting our wafer volume from Intel 7 to Intel
+18A, along with learning to run our fabs more efficiently and our process nodes longer, will be
+important drivers of improving our financials. Beyond 2027, we need to drive to cash flow from
+operations that supports our capital spending needs and ultimately generate a great return on
+your capital.
+I remain very optimistic on our opportunity at Intel Foundry. The pervasive growth of AI is drivinggreater choice in overall manufacturing capacity in the industry today. TSMC is a valued supplier to
+Intel products, an important partner to IMS and they've established a very high standard for what
+it takes to be a world-class foundry. But the market overall needs multiple players and as we
+execute, Intel Foundry has a very important role to play globally and especially here in the US,
+where we continue to invest in leading-edge R&D and manufacturing capacity.
+We're also pleased to sign with the US Department of Commerce a definitive agreement
+awarding us up to $7.86 billion in grants. As you know, these grants are milestone-based and we
+have already received $1.1 billion in Q4 and have received an additional $1.1 billion in January of Q1.
+In addition, we continue to make good progress building out our Secure Enclave in partnership
+with the Department of Defense. We look forward to continued engagement with the Trump
+administration as we advance this work and support their efforts to strengthen US technology and
+manufacturing leadership.
+Finally, as you will recall, we announced our intention to establish an independent subsidiary
+structure for Intel Foundry to provide clear governance and operational separation. This structure
+also enables us to seek additional funding options from both strategic and financial partners,
+which we are now actively beginning to explore.
+Let me now turn to our consolidated financial results and Q1 guidance. (technical difficulty) $14.3
+billion, up 7% sequentially and at the high end of the range we provided in October as a result of
+solid growth in CCG, equipment sales at IMS, and the Edge business of NEX. Non-GAAP gross
+margin came in at 42.1%, 260 basis points ahead of guidance on higher revenue, better costs and
+the receipt of our first chips grant, offset partially by inventory reserves related to Gaudi.
+We delivered fourth quarter earnings per share of $0.13 versus our guidance of $0.12. Higher
+revenue, stronger gross margin, and improved operating leverage was offset by lower interest
+and other income, which includes an accrual related to our second skip agreement of roughly
+$750 million, reflecting an adjustment in our planned capacity ramp in Ireland.
+In Q2, we began the process of resizing our expense structure to support more modest long-
+term growth, including adjusting our capacity plans to more conservative levels, driving
+impairments in Q3 and this accrual in Q4. Q4 operating cash flow was positive $3.2 billion, down
+approximately $900 million sequentially due to the cash outlays associated with our Q3
+restructuring charges. We had gross CapEx of $6.3 billion with offsets of $1.6 billion in the quarter,
+resulting in an adjusted free cash flow of negative $1.5 billion. As I mentioned earlier, we also
+received a portion of the chips grants this quarter.
+For the full year, revenue was $53.1 billion, down 2.1% year-over-year. Modest year-over-year
+growth in Intel Products was more than offset by lower revenue at Mobileye and Altera, as well as
+the forecasted decline in foundry services due to the end of life on traditional packaging revenue.
+Full year gross margin was 36% and down 760 basis points due to Q3 impairments, lower
+revenue, and inventory impacts. Full year EPS was minus $0.13 and down $1.18 on lower revenue,
+lower gross margin, and higher period charges.
+We generated $8.3 billion in cash from operations, made $24 billion of gross capital investments,
+and generated capital offsets of approximately $13.4 billion from skip [ph] partner contributions
+and government grants and incentives. As a result, adjusted free cash flow was minus $2.2 billion
+and we ended the year with $22.1 billion of cash and short-term investments.
+Moving to segment results for Q4, Intel Products revenue was $13 billion, up 7% sequentially. CCG
+revenue was up 9% quarter-over-quarter as the rate at which our customers digested inventoryupside with due to customers hedging against potential tariffs. DCAI revenue was up slightly
+sequentially, off a better-than-expected Q3 as demand for traditional servers remained stable.
+Revenue for NEX was up 7.5% sequentially and is now up more than 20% from Q2 lows as
+customers are returning to more normal buying patterns, especially in our Edge business.
+Operating profit for Intel Products was $3.6 billion, 28% of revenue and up $300 million quarter-
+over-quarter on higher revenue and reduced operating expenses. Intel Foundry delivered
+revenue of $4.5 billion, up 3% sequentially on increased EUV wafer mix and higher equipment
+sales by IMS. EUV wafer revenue grew from 1% of total revenue in 2023 to greater than 5% in
+2024.
+Intel Foundry operating loss in Q4 of $2.3 billion improved meaningfully sequentially as Q3 was
+impacted by $3.1 billion of impairments. Excluding impairments, operating loss would have been
+roughly flat quarter-on-quarter. Turning to all other, Mobileye reported revenue of $490 million,
+up 1% sequentially with operating profit of $103 million and earlier today guided for full year 2025
+increases to both revenue and operating income.
+Altera delivered revenue of $429 million, up 4% sequentially. Operating margin was 21% versus
+2% in Q3 on better gross margins and operating leverage. For Q1, we expect Altera revenue to
+be down sequentially less than overall Intel consolidated. We continue to make good progress on
+the stake sale of Altera and see a path for an IPO in the coming years.
+Now turning to guidance. Q1 has historically been our seasonally weakest quarter of the year,
+down high single to low double-digits percentage sequentially on average. In addition, we see
+added pressure coming from macro uncertainty, especially around tariffs, balancing of PC
+inventory, and increasing competition. These mitigating factors support a more tempered
+revenue outlook as we come into the New Year, as a result, we're forecasting a revenue range of
+$11.7 billion to $12.7 billion in the first quarter of 2025, down between 11% to 18% sequentially.
+Within Intel Products, we expect revenue to decline across all three of our segments at roughly
+similar rates. We expect Intel Foundry revenue roughly flat to down modestly quarter-over-
+quarter, helped by continued mix shift to EUV wafers, Intel 18A samples, and advanced packaging.
+At the midpoint of $12.2 billion, we expect gross margin of approximately 36% with a tax rate of
+12% and breakeven EPS, all on a non-GAAP basis.
+Let me take a few moments to provide some commentary that may be helpful for your full year
+2025 modeling. At the consolidated level, we expect gross margin to improve from Q1. Intel
+Products' gross margin was 51% in 2024 and is expected to decline this year due to product mix
+in both CCG and DCAI. Intel Foundry gross margin will improve on EUV mix shift and growth in
+advanced packaging despite expected depreciation growth in 2025 of roughly 10%. We continue
+to target 2025 OpEx of $17.5 billion with further reductions in 2026. We expect non-controlled
+income or NCI to net to roughly zero in Q1 and be in the range of $500 million to $700 million
+impact this year on a GAAP basis.
+NCI is expected to grow in fiscal year 2026 to a range of $1.2 billion to $1.4 billion on a GAAP basis
+and increase further in future years as we increase wafer outs [ph] at our fabs where we have
+agreements with skip partners. We anticipate that our 2025 gross capital investments will be
+approximately $20 billion at the low end of our previous guide of $20 billion to $23 billion,
+reflecting further capacity adjustments to Ohio and Ireland, as well as better utilization of what we
+call our construction in progress.
+Specifically, we invested ahead of demand over the past few years and these capital investmentsefficiently deploy our capital. We expect 2025 net CapEx of $8 billion to $11 billion with roughly half
+of the offsets expected to come from government incentives and tax credits and half from
+partner contributions. Delevering in 2025 remains a top priority for us on lower CapEx, increased
+cash from operations, and value unlock across our non-core assets.
+Finally, I will remind you that we will provide new segment reporting in conjunction with our Q1
+earnings. We expect to make further changes to our segments, including moving the edge
+portion of NEX into CCG and our Auto business from all other into CCG. In addition, we expect to
+move the networking portion of NEX, which includes Xeon sales into DCAI, and the IMS
+Equipment business out of Intel Foundry into all other. I'll wrap up by saying that Q4 was a solid
+quarter to close out a challenging year.
+With that said, our profitability is below where it needs to be and we must enhance our
+competitive position in the market. Michelle and I will continue taking actions to improve the
+operational and financial trajectory of the business. We'll remain focused on building a stronger
+Intel Products business and becoming a more efficient Intel Foundry. And by driving continued
+progress in these areas, we're confident in our ability to unlock value for our stakeholders.
+Before we open the line to questions, it's worth mentioning that the Board remains intensely
+focused on the search for a permanent CEO. The search is progressing, but we have nothing
+new to report and won't be able to add additional information on this topic today.
+With that, I'll turn it over to John to start the Q&A.
+Questions And Answers
+A - `John Pitzer, Corporate Vice President, Investor Relations `
+Thank you, Dave. We will now transition to the Q&A portion of our call. (Operator Instructions)
+With that, Jonathan, can we take the first question, please?
+Operator
+Certainly. And our first question for today comes from the line of `Ross Seymore, Analyst, Deutsche Bank from Deutsche
+Bank. Your question, please.
+Q - `Ross Seymore, Analyst, Deutsche Bank `
+Hi, guys. Thanks for letting me ask a question. I guess the first one would be for MJ. You talked
+about no quick fixes, but a lot of things to improve the roadmap, specifically on the DCAI side of
+things, can you talk about how much you think Granite is closing the gap? It sounds like
+Clearwater Forest is not mentioned nearly as much as far as a 2025 event, neither from a launch
+or from a revenue perspective, so if there's any updates on that? And then just overall, what it's
+going to take and when do you think we will be able to externally see that gap close versus
+competitors?
+A - `Michelle Johnston Holthaus, Interim Co-Chief Executive Officer, Chief Executive Officer of `
+Sure. Thanks for the question, Ross. I look at it this way. So when I talk about no quick fixes, I think
+it's going to be one to two years of consistent execution and continuing to see better products
+each year really to bring our customers back to the table and be excited about Intel's roadmap.
+Granite Rapids is a good first step in doing that. It does close the gap. Our customers are excited
+about it and we are starting to see the competitiveness of that product materialize in volume. ButI'm also very clear-eyed about where we stand, and so we've just got to see that continued
+throughout '26 when we get to Diamond Rapids, et cetera.
+So you also asked me about Clearwater Forest. So I really look at the data center market in kind
+of two buckets. We have our P-core [ph] products, which you know is Granite Rapids and then we
+have our E-core products, which equates to Clearwater Forest, and what we've seen is that's
+more of a niche market and we haven't seen volume materialize there as fast as we expected,
+but as we look at Clearwater Forest, we expect that to come to market in the first half of 2026.
+18A is doing just fine on its performance and yields for Granite Rapids, but it does have some
+complicated packaging expectations that move it to 2026, but we expect that to be a good
+product and continue to close the gap as well. But this is going to be a journey and it's not a
+destination.
+A - `John Pitzer, Corporate Vice President, Investor Relations `
+Ross, do you have a follow-up question?
+Q - `Ross Seymore, Analyst, Deutsche Bank `
+Yeah. Switching over to Dave on the profitability side. Can you just walk us through some of the
+puts and takes on the gross margin sequentially in the first quarter, obviously, revenues are down,
+but anything else? And then you mentioned that it would be the low point of the year, the gross
+margin in the first quarter, but what would be the headwinds and tailwinds as you think through
+2025 as a whole on that metric? Thank you.
+A - `David Zinsner, Interim Co-Chief Executive Officer, Executive Vice President and Chief Financial `
+Yeah, thanks, Ross. Okay. So for the first quarter, the biggest obvious contributor to gross
+margins sequentially is the revenue decline. At the midpoint, we're declining a little over $2 billion
+and so that obviously, on a mostly fixed-cost business, that does affect it. We also did have a
+couple of Bluebirds in Q4. One was the revenue beat and so that actually elevated the revenue a
+bit. But the other was, when we signed the chips agreement, we were able to take some of the
+grant and accrue it as kind of a benefit to cost of sales because it offset period expenses we had
+spent before.
+So I -- we weren't sure we were going to sign it in the fourth quarter, which is why I didn't guide
+that in the guidance from last quarter, but obviously materialized and that pushed the gross
+margins up for the fourth quarter. In the first quarter, I think what -- and we've kind of telegraphed
+this now for several quarters, Intel Products' gross margins are going to be under pressure this
+year. Some of the parts have a higher cost, in particular, Lunar Lake, has a higher cost, as you
+know, because it's got the memory and package, and so we're basically buying that memory and
+turning around and selling it at the same price. That's really weighing the margins down on Lunar
+Lake.
+So margins for products are going to be under pressure pretty much throughout this year. Then
+as Panther Lake comes in volume next year more materially and in addition the products beyond
+that, we'll start to see some improvement in margins on Intel Products. Now that was always to
+be offset in a lot of ways by the margins of Intel Foundry. We see more of a mix of EUV wafers,
+they have better pricing with a better cost, and so we'll see a mix improvement throughout the
+year. We're also reducing our spending there in period expenses as part of our kind of overall $10
+billion-plus cost spending reduction. But it doesn't really show up in the first quarter. It's not until
+we get into the second and third quarter that we start to see that improvement show up.So those are really the bigger drivers of margins on the first quarter. It is a low point as we talked
+about. The benefits are going to be really around margins improving on Intel Foundry as the mix
+of EUV wafers increases throughout the year, in particular, as we get Panther Lake in there in the
+back half of the year and we're selling 18A wafers at a higher margin. And then next year, we
+have Panther Lake with more volume and all those wafers start to come back and that becomes a
+really big benefit to Intel overall.
+A - `John Pitzer, Corporate Vice President, Investor Relations `
+Thank you, Ross. Jonathan, can we have the next question, please?
+Operator
+Certainly. And our next question comes from the line of `Stacy Rasgon, Analyst, Bernstein Research from Bernstein Research.
+Your question, please.
+Q - `Stacy Rasgon, Analyst, Bernstein Research `
+Hi, guys. Thanks for taking my question. First question just on the segment guide for next quarter.
+Why are all three product segments down equally when it sounds like you've got more
+headwinds just on the surface of PC's inventory digestion and maybe the roll-off of some of that
+tariff pull forward? What's going on in the data center and the NEX businesses that makes them
+as bad as a client into Q1?
+A - `David Zinsner, Interim Co-Chief Executive Officer, Executive Vice President and Chief Financial `
+Well, broadly across all markets and we didn't necessarily telegraph every market in terms of
+where we think, but I'd say broadly, we're a little bit cautious on the macro and that affects all
+markets. In addition, seasonality does play in most of the markets and that does impact the first
+quarter as well. So I would say a combination of just macro uncertainty combined with a kind of
+typical seasonality across all the businesses.
+A - `John Pitzer, Corporate Vice President, Investor Relations `
+Stacy, do you have a follow-up question?
+Q - `Stacy Rasgon, Analyst, Bernstein Research `
+Yeah, I do. Thank you. So you also talked about increased competitiveness weighing on margins
+at least into Q1, so -- again, I presume that's a question on pricing, I guess, is that right? Do you
+expect that to persist through the year? And how do you think about that competitiveness
+potentially weighing on pricing across client and especially in the data center?
+A - `David Zinsner, Interim Co-Chief Executive Officer, Executive Vice President and Chief Financial `
+Yeah. Okay. So the Co-CEO is trying to figure out who should answer. Okay, go ahead, Michelle.
+A - `Michelle Johnston Holthaus, Interim Co-Chief Executive Officer, Chief Executive Officer of `
+Thank you. I think (multiple speakers) to take it. Yeah. The way I look at that is we do have
+increased competition as we see new market entrants, particularly come into CCG. We've got a
+very good product in Lunar Lake there, but as Dave talked about, the margins on that product are
+more pressured based on the cost of the product, but we are going to stem the marketsegment share decline in client and we're going to go after winning every socket. That mirrors
+itself when you think about the data center market as well.
+As I said, Granite Rapids is a very positive step in a competitive direction, but we have to stem
+the tide of share loss in data center and so we will be fighting for every socket in that business.
+And the way I look at it is, we need to be aggressive, we need to win share and we need to show
+our customers that they can win with us.
+A - `John Pitzer, Corporate Vice President, Investor Relations `
+Thank you, Stacy. Jonathan, can we have the next question, please?
+Operator
+Certainly. And our next question comes from the line of `C.J. Muse, Analyst, Cantor Fitzgerald from Cantor Fitzgerald. Your
+question, please.
+Q - `C.J. Muse, Analyst, Cantor Fitzgerald `
+Yeah, good afternoon. Thank you for taking the question. I guess first question under your new
+co-leadership, would be curious to hear how your strategy has potentially evolved specifically for
+IFS.
+A - `David Zinsner, Interim Co-Chief Executive Officer, Executive Vice President and Chief Financial `
+I mean, I think -- and we've talked about this over the last couple of quarters. I mean, one, we are
+not looking to spend ahead of success and so -- you saw our CapEx guide come down from the
+20% to 23% range down to 20%, that's in support of that strategy. We want to absolutely wow
+the customers, but to do that, we've got to be very careful around what we're promising them as
+well. So I think what you'll see a lot of is a little bit more conservatism around how we deploy
+capital, how we engage with customers. We want to be doing more than what we promise to
+every turn -- to every stakeholder, including investors, including customers, including suppliers, so
+what have you. That's pretty much the strategy.
+The main goal of building a world-class foundry that's still in place. We feel that there absolutely is
+a need for another player in the leading-edge semiconductor manufacturing space, in particular,
+in the US, it aligns with the government, the US government's interest as well. So we're absolutely
+committed to that. It's now about being very cautious and careful around generating the best
+ROIC for the shareholders.
+A - `John Pitzer, Corporate Vice President, Investor Relations `
+CJ, do you have a follow-up question?
+Q - `C.J. Muse, Analyst, Cantor Fitzgerald `
+I do. Thanks. I guess, Dave, another question for you. I believe that three months ago, the stated
+goal for 2025 was to be free cash flow positive, I guess given kind of the weakness we're seeing
+in Q1 and the uncertainty, can you kind of walk through how you're thinking about the path to
+turning free cash flow positive?
+A - `David Zinsner, Interim Co-Chief Executive Officer, Executive Vice President and Chief Financial `
+Yeah. So we're not obviously guiding beyond the first quarter, but I would just say we -- we did aworking capital improvements and we adjusted CapEx accordingly and that helped stem the tide.
+So while we were negative in '24, we were closer to zero than we should have been based on
+the top-line results. I'd say it's more about the same in '25. We're going to be acutely focused on
+cash flow from operations, really managing working capital effectively. We adjusted the CapEx
+down as I talked about in relationship to a different outlook.
+We do expect some pretty significant offsets as well, more than $10 billion of offsets, which will
+also help. I won't throw out a number yet for adjusted free cash flow for the year, but I would just
+say that it's a focus that where we want to improve. I would say in addition to that, we have these
+non-core businesses and we see opportunity to monetize there, that will help us delever
+because that's a focus of us -- focus of ours in 2025. We are far along on the process of Altera. I
+suspect that by the time we get to earnings next quarter, we'll have something to say there that
+will help generate some cash that we can use to delever.
+A - `John Pitzer, Corporate Vice President, Investor Relations `
+Thanks, CJ. Jonathan, can we have the next question, please?
+Operator
+Certainly. And our next question comes from the line of Joe Moore from Morgan Stanley. Your
+question, please.
+Q - `Joseph Moore, Analyst, Morgan Stanley `
+Great. Thank you. In the prepared remarks, you made reference to the sort of tempering of
+expectations of Falcon Shores, can you talk about the -- what was behind that and kind of what
+does it take for you to get competitive in that space?
+A - `Michelle Johnston Holthaus, Interim Co-Chief Executive Officer, Chief Executive Officer of `
+Yeah, of course, I can, Joe. I think it really comes down to taking the time over the last six weeks
+to actively engage with the teams, look at our roadmaps, look at where we are from a
+competitive perspective and from an execution perspective, and that really resulted in that
+decision. A lot of conversations with my customers as well in regards to what do they see is
+needed to be competitive and to deliver the right product.
+And so when I looked at that, obviously, we have our Gaudi product, we're learning a lot from
+that. But one of the things that we've learned from Gaudi is it's not enough to just deliver the
+silicon. We need to be able to deliver a complete rack scale solution and that's what we're going
+to be able to do with Falcon -- excuse me, with Jaguar Shores. Falcon Shores will help us in that
+process of working on the system, networking, memory, all those component [ph] functions of
+that, but what customers really want is that full-scale rack solution, and so we're able to get to
+that with Jaguar Shores.
+I think we've also seen a lot this week with DeepSeek and a lot of the excitement around not one
+size fits all, and so I'm also trying to look at the roadmap to say, there's a lot of IP and assets that
+we have as Intel Product Co that we can leverage to address this market. We've got great CPUs,
+GPUs, A6, FPGAs, and we need to figure out how we harnessed those because if we've seen
+anything this week, when there are constraints put on customers, they figure out different ways
+to deploy technology. And so that's also a great opportunity and something that I'm looking at.
+I'm looking at if there's ways that we can be disruptive there.A - `John Pitzer, Corporate Vice President, Investor Relations `
+Joe, do you have a follow-up question?
+Q - `Joseph Moore, Analyst, Morgan Stanley `
+I do. And thank you for your candor [ph] about all of that. I think separately, you mentioned in the
+prepared remarks about potentially seeing tariffs driving some pull forward, can you just talk
+about how pervasive that might be? Is that conservatism that that might be happening? Are you
+seeing evidence that that's happening? Just some color on where that's coming from?
+A - `David Zinsner, Interim Co-Chief Executive Officer, Executive Vice President and Chief Financial `
+Yeah. I mean -- we obviously have a fairly good sense of what customers need from quarter-to-
+quarter, and in a couple of instances, customers ordered more than we think they were digesting,
+and so it was really just the analytics that gave us insight into -- they're doing that for a reason
+and we know tariffs are a big subject of a lot of our customers.
+It was in the region you might expect, in the Asian region, that we saw this. It's hard for me to
+extrapolate this beyond this quarter. A lot's not known yet around what might be the plans on
+tariffs. I just thought it was a little bit of hedging going on by customers that pulled revenue into
+the fourth quarter and away from the first quarter.
+A - `John Pitzer, Corporate Vice President, Investor Relations `
+Thank you, Joe. Jonathan, can we have the next question, please?
+Operator
+Certainly. And our next question comes from the line of `Timothy Arcuri, Analyst, UBS from UBS. Your question,
+please.
+Q - `Timothy Arcuri, Analyst, UBS `
+Thanks a lot. Dave, I also wanted to ask about gross margin. I think the message you were saying
+is that it's kind of 60% incremental and that was kind of off of the 39.5% that you guided for Q4,
+but obviously, you came in and you had these one-timers and now we're down in March, so can
+you just sort of like level-set us for kind of how to think of the incrementals from here?
+A - `David Zinsner, Interim Co-Chief Executive Officer, Executive Vice President and Chief Financial `
+Incrementals from Q1 -- in other words, into Q2, Q3, and Q4, is that what you're saying?
+Q - `Timothy Arcuri, Analyst, UBS `
+Yeah, just kind of like -- is it off of 39.5% (multiple speakers)
+A - `David Zinsner, Interim Co-Chief Executive Officer, Executive Vice President and Chief Financial `
+Yeah. The rule of thumb has generally been 60% in this period of what I call catch-up. Obviously,
+we think we can do better fall through as we get more stabilized. The one dynamic in '25 is this
+kind of margin pressure around product like Lunar Lake that probably pulls the range down to
+probably something more like in the 40% to 60% fall through is probably the right way to think
+about it just for that dynamic. Now we get into '26 and you start to see a lot more AT&A volumeA - `John Pitzer, Corporate Vice President, Investor Relations `
+Tim, do you have a follow-on question?
+Q - `Timothy Arcuri, Analyst, UBS `
+I do. Yeah, Dave, also, so you took the CapEx to the low end, but there's a $1.2 billion outflow
+that's in the financing section of the cash flow statement, what is that? I guess, I'm trying to figure
+out just on an apples-to-apples basis is, like CapEx really coming down this year and is that line
+item in the financing session, is that going to keep getting bigger this year? Thanks.
+A - `David Zinsner, Interim Co-Chief Executive Officer, Executive Vice President and Chief Financial `
+Yeah. No, the -- let's see, let me go back in the CapEx. If you look at CapEx for Q -- for '25, the
+$20 billion forecast, what's driving that lower is really a function of better utilizing assets under
+construction. So our philosophy had been to invest kind of ahead of what was required and we
+built up a pretty significant balance in assets under construction, I mean, to the tune of greater
+than $50 billion. So we actually have a lot of capital on the balance sheet that really hasn't been
+deployed. And so what we pushed the teams to do in an effort to drive better ROA and return on
+invested capital is to have them digest as much as possible and limit the amount of purchases
+that we make externally, and that's going to allow us to get down to the $20 billion range.
+I would be -- we're not doing any funky financing around this, but I would be -- in the spirit of
+transparency say that CapEx is two things, right? It's what you place in terms of orders on
+equipment and it's when you give them the cash, and so for sure, we are working the payment
+terms of suppliers to improve our CapEx, lower our CapEx that is pushing our spend out even as
+we're getting the assets in. But quite honestly, by the time we've actually deployed it and it's
+depreciating, we've actually, in all cases, I think, spent the money because it goes on to assets
+under construction and probably hangs in there for like nine months before it's ever deployed.
+A - `John Pitzer, Corporate Vice President, Investor Relations `
+Thank you, Tim. Jonathan, can we have the next question?
+Operator
+Certainly. Our next question comes from the line of `Vivek Arya, Analyst, Bank of America from Bank of America Securities.
+Your question, please.
+Q - `Vivek Arya, Analyst, Bank of America `
+Thanks for taking my question. First kind of related questions are on the data center server on
+CPU market. I'm curious, when you look at Intel versus your x86 competitor, do you think their
+share gains are because of better design or access to better manufacturing? And so what can be
+fixed and what will take time to fix if you were to outsource more, right, to external foundry, does
+that help you regain share, and I imagine that applies more to cloud? And then on the enterprise
+side, have you seen any share shift at all over the last few years?
+A - `Michelle Johnston Holthaus, Interim Co-Chief Executive Officer, Chief Executive Officer of `
+Thanks, Vivek. Well, as we look at data center and the competitiveness, as I said or stated earlier,
+Granite Rapids did a good job of making a good first step in closing the gap versus competition,
+but we still have a gap, and so we've got to be laser-focused next on delivering Diamond RapidsWhen it comes to external manufacturing, I've been pretty transparent about this and the way I
+think about it in my philosophy. The way I look at it is you have to have the right product, the right
+process, and you have to deliver that within the right market window. If you look at Intel as overall
+today, we do about 30% of our manufacturing externally across a variety of partners, that's
+probably the high for where we are today, but it will never be 0%.
+What I can tell you is 18A is going well. They earned my business obviously both for Panther Lake
+and for Clearwater Forest. But as I think about being more competitive in data center moving
+forward and I look at future designs, I will ask myself that question every time as we look at the
+roadmap. So I think it would not be unfathomable that I would put a data center product outside if
+that meant that I hit the right product, the right market window, as well as the right performance
+for my customers.
+A - `John Pitzer, Corporate Vice President, Investor Relations `
+Vivek, do you have a follow-up question?
+Q - `Vivek Arya, Analyst, Bank of America `
+Yes. Thank you, John. So maybe one for Dave on this non-controlling interest. I think, Dave, you
+said $500 million to $700 million for this year, so a little bit lower than, I think, the $700 million you
+had before, but then it starts to grow to $1.2 billion or $1.4 billion, is this always going to keep on
+increasing, right, like what is the right way for us to model it? Because the less you outsource, I
+guess the more you in-source, the more you give to Intel Foundry, the more reversals, right, you
+have to do on this NCI part, I would imagine. So is there a reasonable way to model how much of
+a headwind this is to your reported EPS?
+A - `David Zinsner, Interim Co-Chief Executive Officer, Executive Vice President and Chief Financial `
+Yeah. It's a good question. I mean -- to break it all out, it's more than just the skips. Skip 1 and 2
+are obviously in there, but also Mobileye shows up in non-controlling interest and as we sell down
+stakes in companies like Mobileye and Altera, it actually exacerbates that NCI. So Altera doesn't
+have any NCI, but as soon as we sell a stake, it is going to have NCI. So there are a number of
+things that go into it, which makes it a little bit difficult to forecast because you have to kind of
+know what -- you have to know two things with certainty. One, exactly what share of every asset
+you have, and two, what your production is going to look like in the fabs that you have these
+skips. So what we felt comfortable was guiding '25 and giving you an indication for '26, it's likely
+to go up in '27, but I think it's probably too soon to actually identify what the exact number will
+look like.
+A - `John Pitzer, Corporate Vice President, Investor Relations `
+Thanks, Vivek. Jonathan, can we have the next question, please?
+Operator
+Certainly. Our next question comes from the line of `Ben Reitzes, Analyst, Melius Research from Melius. Your question,
+please.
+Q - `Ben Reitzes, Analyst, Melius Research `
+Hey, guys. Thanks a lot for the question. Dave and MJ, I wanted to -- I know in your prepared
+remarks, you said you look forward to working with the Trump administration. I was wondering if
+you could just give a little more detail about your initial talks with them, have they reached outand who's like leading the discussions from your side? And any color on what you're exactly
+talking about and what they're particularly interested in? I mean Howard Lutnick, obviously, he
+sounds like this is very near and dear to him during his confirmation hearings and would love to
+just kind of get a little bit more color on where you -- what you have done so far and where you
+think it's going. And then I'll have a follow-up. Thanks so much, guys.
+A - `David Zinsner, Interim Co-Chief Executive Officer, Executive Vice President and Chief Financial `
+Yeah. Okay. Thanks, Ben. Maybe I'll take that as the Co-CEO, how's that?.
+A - `Michelle Johnston Holthaus, Interim Co-Chief Executive Officer, Chief Executive Officer of `
+That's fine [ph].
+A - `David Zinsner, Interim Co-Chief Executive Officer, Executive Vice President and Chief Financial `
+Yeah, we have good engagement with them. We've really been engaged since the election with
+the team at various levels. Obviously, at the CEO level, but also we have a strong government
+affairs team that engages with them every day. I feel really good about their outlook on bringing
+semiconductor manufacturing back to the US. I think this is a very positive sign, obviously for us,
+quite honestly, we never left the US so we're in a kind of a pole position in that regard. And I think
+they understand the value of doing R&D in the US for advanced semiconductor manufacturing,
+which also is positive.
+They want to see more jobs coming back to the US. We pay high-wage, high-tech jobs, so that's
+obviously positive for them. But more importantly, this is about security, both in terms of just the
+supply chain, but also in kind of secure manufacturing for the Department of Defense, which
+we're obviously in a position to do for them. I imagine that as we progress, we'll be more
+engaged with them to make this a reality, and both Michelle and I will be meeting fairly regularly
+with the Trump administration officials to go make their goals a reality for the US.
+A - `John Pitzer, Corporate Vice President, Investor Relations `
+Ben, you said you had a follow-up.
+Q - `Ben Reitzes, Analyst, Melius Research `
+Yeah, thanks. I wanted to double-click on a prior question on gross margins and ask it a little bit
+more in caveman terms rather than incrementals. You talked about 1Q being the bottom, I'm
+trying to figure out how high it goes sequentially as we go throughout the year given it sounds
+like you're going to be a lot more price aggressive in server CPUs and client CPUs from what I
+heard. So in addition to -- I'm trying to balance that with the thought of outsourcing more to
+TSMC for the year, et cetera, so if that's the low point, I guess what I'm trying to say, can you be
+more prescriptive in light of that pricing comment I made and if it's right, then just give us a little
+more color on where we go from the 1Q, that'd be great. Thanks.
+A - `David Zinsner, Interim Co-Chief Executive Officer, Executive Vice President and Chief Financial `
+Yeah. I mean, we intend to be competitive in the product space, and also, as I mentioned, the
+cost structure is under some pressure, in particular because of Lunar Lake. So that absolutely will
+impact the gross margins on products. There won't be a lot of lift in that business unit through the
+year, and it's really not until Panther Lake comes that they, I think, start to see some better cost
+structure and have a part that's very competitive that I think allows us to perhaps even relax some
+of that pressure in a competitive market.That said, the foundry business will see improvements. Over the course of the year, more wafers
+will be coming back with Panther Lake. It becomes even better in the following year. We are
+improving the cost structure of the Foundry business as part of our overall spending reduction
+plan. So that will also help. And then just keep in mind, these wafers that we're producing at Intel
+3 and 18A have much better cost structure and margin structure relative -- I should say, relative to
+the price structure than their predecessors and that will be beneficial on the foundry side.
+So in the caveman macro sense, I think the best thing to do is probably take this like somewhere
+in the 40% to 60% fall through and that's probably the right rough order math to get you to
+where the margins will go in any quarter based on what you're projecting the revenue to be in
+that quarter.
+A - `John Pitzer, Corporate Vice President, Investor Relations `
+Thanks, Ben. Jonathan, can we have the next question, please?
+Operator
+Certainly. Our next question comes from the line of `Aaron Rakers, Analyst, Wells Fargo from Wells Fargo. Your
+question, please.
+Q - `Aaron Rakers, Analyst, Wells Fargo `
+Yeah, thanks for taking the question. I want to build off of that last question a little bit. During the
+prepared remarks, you had mentioned 1% in 2023 was EUV wafer mix and that progressed to
+north of 5% this year, can you give us a framework of how you would define success looking
+through 2025, maybe exiting the year as far as EUV wafer mix? And remind us again what the
+delta is in terms of cost structure, the margin dynamics of an EUV wafer?
+A - `David Zinsner, Interim Co-Chief Executive Officer, Executive Vice President and Chief Financial `
+Yeah. Well, I'll say on the second part, maybe I'll answer that one first. I would say, the price on
+those wafers goes up at 3x the cost of those -- of those wafer -- sorry, maybe say it this way. The
+blended ASP and cost goes up 3x as you go to 18A versus the cost. So it's a pretty dramatic
+improvement in gross margins as you move into 18A versus pre-UV wafers.
+I probably -- it would be tough for me to hazard a guess on exactly how we'll exit the year in
+terms of our percentage of EUV, it's definitely going to go up. Granite is on Intel 3. Panther Lake is
+on -- Meteor Lake is on Intel 3 or 4, call it, the 4 and 3 wait node. Panther Lake is on 18A this year.
+So we'll see a pretty meaningful jump in the percentage of wafers that will be EUV as we exit '25.
+A - `John Pitzer, Corporate Vice President, Investor Relations `
+Aaron, do you have a follow-up question?
+Q - `Aaron Rakers, Analyst, Wells Fargo `
+I do. And it's probably a dumb question, but I'm just going to ask it because I'm just a little
+confused that the skip impact, this $500 million to $700 million going to $1.2 billion, just remind us
+again, so we're all clear that when you report EPS on a non-GAAP basis, that's in that EPS number
+just so we -- I'm modeling it correctly, I'm sure my peers are already, but I want to make sure I've
+got that all clear in my head.
+A - `David Zinsner, Interim Co-Chief Executive Officer, Executive Vice President and Chief Financial `Yeah. I just want to make it clear. It's not just skip, I mean that includes the Mobileye income and
+will include the Altera income to some extent. But yeah, all of that in the NCI, we do take it
+against our non-GAAP number to get our fully diluted non-GAAP EPS number.
+A - `John Pitzer, Corporate Vice President, Investor Relations `
+Aaron, thank you. Jonathan, we have time for one more question?
+Operator
+Certainly. And our final question for today comes from the line of `Srini Pajjuri, Analyst, Raymond James from Raymond
+James. Your question, please.
+Q - `Srini Pajjuri, Analyst, Raymond James `
+Thank you. Thanks for squeezing me in. Dave, on the foundry breakeven, I guess, target for 2027,
+maybe can you talk about what are the assumptions behind that? I mean, do you think you can
+get there with mostly internal wafers or do you need external customers as well? If so, what sort
+of revenue do we need from external customers to, I guess, achieve that breakeven?
+A - `David Zinsner, Interim Co-Chief Executive Officer, Executive Vice President and Chief Financial `
+Yeah. So we're still aiming to get to breakeven in '27, as you pointed out. It's really on the back of
+internal wafers or wafers from Intel products, I should say. And it's obviously a lot based on EUV
+wafers, which carry a better margin, and as that mix improves, that significantly improves the
+margins. But more importantly, I think the original premise by creating this different P&L structure
+was to drive the Foundry business, really at that point, was just a function. Manufacturing to be
+more focused on efficiency to squeeze out more from the existing footprint to be more sensitive
+to capital and ultimately just think about ROIC and everything they do, and I think that has worked
+actually. I mean, I hear it all the time. It's amazing the transformation we've seen in staff meetings
+Michelle and I attend that how they're -- they completely pivoted to how to make money in that
+business.
+And so I think it's working. I think we'll see significantly more efficiency as we go into -- work
+through '25 and into '26. So I feel good about our ability to get to breakeven. Obviously, we want
+to have external customers and so we have some very small amount that we've assumed for '27,
+but if 18A looks like it's something that hunts based on feedback from customers and I feel like
+we will probably outperform in that regard in terms of the mix of external customers versus
+internal customers. So those are all the factors that I think will drive '27 to profitability and
+ultimately, obviously, we want to get to breakeven and ultimately want to get the business to a
+profitable level that's consistent with what the foundry industry gets.
+Q - `Srini Pajjuri, Analyst, Raymond James `
+Srini, do you have a quick follow-on? Yeah. A quick one. So on the AT&A Panther Lake, I think in the
+past, I think, Dave, the comment was that you expect to bring roughly 70% of the die in-house, is
+that still the plan? And then is that pretty set in stone that you're bringing it back for sure or do
+you have any flexibility whether to bring back more of the die or less of the die if you need to? So
+just trying to understand.
+A - `David Zinsner, Interim Co-Chief Executive Officer, Executive Vice President and Chief Financial `
+Yeah. I'm going to let Michelle answer that because it really is her decision on how she builds her
+products.A - `Michelle Johnston Holthaus, Interim Co-Chief Executive Officer, Chief Executive Officer of `
+Yeah. So we did move Panther Lake inside and it's an 18A design win. But as I stated before, we
+look at each generation of product based on what's the right product, what's the right process,
+what's the right market window, and what allows our customers to win. So for Panther Lake, that
+was 18A. And as I said, we're very happy with where we are from a performance and yield
+perspective at this point in the process. So that will stay on 18A.
+Then as you look forward to our next-generation product for client after that, Novo Lake will
+actually have die both inside and outside for that process. So you'll actually see compute tiles
+inside and outside. Again, it's about optimizing to what allows us to win in the market, what allows
+us to win with our customers, and optimizing the overall product portfolio. Because at the end of
+the day, if our customers are successful, we win. That drives more wafers and Intel Foundry and
+that allows us to win, but I'll continue to have a balance. And as I said, we'll be doing the same
+look across our data center portfolio as well.
+A - `John Pitzer, Corporate Vice President, Investor Relations `
+Thank you.
+A - `David Zinsner, Interim Co-Chief Executive Officer, Executive Vice President and Chief Financial `
+All right. Thanks, Michelle. So with that, let me wrap up by saying thank you as always for joining
+the call. MJ and I appreciate the opportunity to discuss our progress and the actions we've taken.
+Q4 was a good step forward, obviously, but we have a lot of hard work ahead of us and we're
+looking forward to updating you as we go along.
+We hope to see many of you in person at the Investors' Conferences we will be attending in Q1.
+And I'd also like to highlight that the Intel Foundry team will be hosting their second annual Direct
+Connect user event on April 29th in San Jose, and we hope many of you will join that in person.
+So thank you and good night.
+A - `Michelle Johnston Holthaus, Interim Co-Chief Executive Officer, Chief Executive Officer of `
+Thank you.
+A - `David Zinsner, Interim Co-Chief Executive Officer, Executive Vice President and Chief Financial `
+Thank you, ladies and gentlemen, for your participation in today's conference. This does conclude
+the program. You may now disconnect. Good day.

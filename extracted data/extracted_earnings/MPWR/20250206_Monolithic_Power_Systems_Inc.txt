@@ -1,0 +1,527 @@
+Q4 2024 Earnings Call
+
+Presentation
+`Genevieve Cunningham, Senior Manager, Marketing Communications
+Welcome everyone to the MPS Fourth Quarter 2024 Earnings Webinar. My name is Genevieve
+Cunningham, and I will be the moderator for this webinar. Joining me today are Michael Hsing,
+CEO and Founder of MPS; `Bernie Blegen, Executive Vice President and Chief Financial Officer, EVP and CFO; and `Tony Balow, Vice President of Finance, Vice President of
+Finance. Earlier today, along with our earnings announcement, MPS released a written
+commentary on the results of our operations. Both documents can be found on our website.
+Before we begin, I would like to remind everyone that in the course of today's presentation, we
+may make forward-looking statements and projections within the meaning of the Private
+Securities Litigation Reform Act of 1995. That involves risk and uncertainty. Risks, uncertainties,
+and other factors that could cause actual results to differ from these forward-looking statements
+are identified in the safe harbor statements contained in the Q4 2024 earnings release and in our
+SEC filings, including our Form 10-K, which can be found on our website. Our statements are
+made as of today and we assume no obligation to update this information.
+Now, I'd like to turn the call over to `Bernie Blegen, Executive Vice President and Chief Financial Officer.
+`Bernie Blegen, Executive Vice President and Chief Financial Officer `
+Thanks, Gen. Good afternoon, and welcome to our Q4 2024 earnings call. In 2024, MPS posted
+its thirteenth consecutive year of growth with full year revenue of $2.2 billion, up 21% from 2023.
+For Q4 2024, we had record quarterly revenue of $621.7 million, above Q3 2024, and 37% higher
+than the fourth quarter of 2023. This performance reflected the strength of our diversified
+market strategy, consistent execution, continued innovation, and strong customer focus.
+Let me call out a few highlights from 2024. We introduced a silicon carbide inverter for highcarbide-based applications are expected to be introduced in multiple geographies during both
+2025 and 2026. We developed a family of high-quality, cost-effective automotive audio products
+utilizing DSP technology from our 2024 Axign acquisition powered by MPS Solutions. For
+enterprise notebooks, we launched a battery management solution and are sampling a new mini-
+phase power stage. These products enable faster charge time and significantly improve
+notebook battery life.
+Building on our first analog to digital converter design win in 2024, we are developing new high-
+accuracy 24-bit converters which are expected to ramp in the second half of 2025. MPS continues
+to focus on innovation, solving our customers' most challenging problems, and maintaining the
+highest level of quality. We continue to invest in new technology, expand into new markets, and to
+diversify our end-market applications and global supply chain. This will allow us to capture future
+growth opportunities, maintain supply chain stability, and swiftly adapt to market changes as they
+occur.
+Finally, I'm pleased to announce our quarterly dividend will increase 25% to $1.56 per share. And
+during Q4 2024, we completed share repurchases under a 2023 $640 million authorization. This
+week, our Board of Directors authorized a new $500 million three-year share repurchase
+program. For the three years ending December 2024, MPS has returned 86% of its free cash flow
+to shareholders through share repurchases and dividends paid. Our proven, long-term growth
+strategy remains intact as we continue our transformation from being a chip-only, semiconductor
+supplier to a full-service silicon-based solutions provider.
+I'll now open the webinar up for questions.
+Questions And Answers
+A - `Genevieve Cunningham, Senior Manager, Marketing Communications
+(Question And Answer)
+Thank you, Bernie. Analysts, I would now like to begin our Q&A session. As a reminder, if you
+would like to ask a question, please click on the Participants icon on the menu bar, and then click
+the Raise Hand button. Our first question is from `Tore Svanberg, Stifel Nicolaus & Co. of Stifel. Tore, your line is now
+open.
+Q - `Tore Svanberg, Stifel Nicolaus & Co. `
+Yes, thank you, and congratulations on the solid results. Either Michael or Bernie, could you talk a
+little bit about the dynamics here in the March quarter, especially by segment? Obviously we
+know so many markets are still soft, yet others are actually quite healthy. So any more color on
+how you see the various segments in the March quarter would be really helpful.
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+Sure. As far as our Q1 outlook, I think we need to take the perspective that relative to the size of
+the market, we're a fairly small player. But we have a lot of greenfield design wins, which have
+been previously delayed, that are now starting to ramp as we enter 2025. So when we look at
+two of the areas that are going to drive most of the growth in the quarter, automotive is
+continuing to grow, and communications, where we launched some new products in Q3, are
+bouncing back from Q4 and will continue strong.
+Memories demand profile is also very good, and notebooks look to be having a Q1 uplift. Wemarket. On industrial consumer, we have a lot of new product ramps, but those are likely to start
+to contribute at the end of 2025. And on the enterprise data, we'll be down.
+Q - `Tore Svanberg, Stifel Nicolaus & Co. `
+Very good. And as my follow-up on enterprise data, how should we think about that business
+model throughout calendar '25? Again, obviously a lot of different dynamics, different players, the
+growth trajectory for that business throughout calendar '25. Any color you can share with us
+there?
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Yes. We don't talk about it in the near terms in specific customers as we always do. So, again, I
+mean, the near term is that we can't control our customers' buying pattern, their allocations. And
+this year -- but overall, this is a multibillion dollars market segment. We are getting ready for
+these next few years in the growth. And it's clearly -- it's a multibillion-dollar opportunities. But for
+us, in near terms, this year could be even or maybe slightly up, okay, this is our best guess.
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+Yes, just to add a little bit of color to how we see the year rolling out, we believe that we will be
+off to a slower start in the first half of the year. But as the year develops, the customer base is
+expected to broaden as hyperscalers launch their new products. So we have multiple product
+ramps with both existing customers as well as with these new hyperscalers. So as Michael just
+said, we believe it's likely to be a flattish year, but we believe that from a quality and supply
+availability perspective, we're in very good shape.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Could be up too, we don't know.
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+Yes. Yes, exactly.
+Q - `Tore Svanberg, Stifel Nicolaus & Co. `
+That's fair. Congrats again on the results.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Thank you.
+A - `Genevieve Cunningham, Senior Manager, Marketing Communications
+Our next question is from `Rick Schafer, Oppenheimer & Co. of Oppenheimer. Rick, your line is now open.
+Q - `Rick Schafer, Oppenheimer & Co. `
+Yes. Thanks, guys. I'll add my congratulations. And if I could maybe tack on to the back of Tore's
+question, I was wondering if you could update us maybe just to give us a sense of the number of
+accelerated projects that you expect to ramp this year and into 2026, just to kind of get a sense. I
+heard you loud and clear, Michael, that this is a billion-dollar plus TAM. I'm just trying to get a
+sense of how many?A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+It's a multiple billion dollar.
+Q - `Rick Schafer, Oppenheimer & Co. `
+Multiple billion.
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+Don't be shy about that.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+We're not shy on that. We don't want to lose that, okay?
+A - `Tony Balow, Vice President of Finance `
+Hey, Rick, this is Tony. I'll jump in. I think what we want to say is we're engaged across all the
+hyperscalers. But what you heard Michael say was that the exact timing of the ramp is very difficult
+for us to call. So I don't think we want to put a specific number of customers in our exact ramp
+times out there, other than saying that we're engaged broadly across them. As Bernie said, we
+believe that's going to scale through the second half.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+I can give you examples. And we foresee that these projects are going to ramp. In 2022 to 2023,
+you look at the automotive side. We said that we have a lot of design wins. And we said all these
+are going to ramp up, but we have a lot of inventories. And 2023 is kind of a flattish year. Our
+customer delayed their launch, so the '23 affected us. But I keep saying we don't really care. As
+long as we have a product and designing, and designing their new product, especially and we're
+turning to a revenue plus, minus 12 months, 18 months.
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+And if I could just add to Michael's comments there, when you look at automotive, it was delayed
+not just in 23, but also in the first half of '24 against what we had built inventory and against our
+expectations. But now, as you can see, it's very solidly on track with two consecutive quarters of
+growth. And likewise, you could apply that same formula to what we're seeing in the
+communications with the release of the fiber optics in the data center. So we have the
+technology, but where it intersects and ramps in the market, a lot of that's a little bit out of our
+control.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Well, even the directly AI powers, and again, we have so many projects working with multiple
+hyperscale companies. And so we cannot tell which one is well ramping first. And okay, I know
+what the magnitude of ramping. Just we are get the supply chain ready, get our quality testing
+facility ready to get these -- to receive these revenues, okay, turn it into these revenues. And so
+the timing, we care less.
+Q - `Rick Schafer, Oppenheimer & Co. `Thanks for all that color, Michael. It's funny you're talking about auto because that's my second
+question, if I could. The EV conversion to 48-volt power and to 800-volt batteries is sort of set to
+ramp this year, I believe. And I know you mentioned in the prepared remarks, Bernie, that you're
+going to be shipping power isolation content second half, I think I heard you say. And I believe EV
+is about three quarters of your auto business. So I just wondered if you could talk us through sort
+of what your potential content, given all those changes, right? All these additional drivers, what
+your content looked like last year or potential content per vehicle versus what it looks like in 2025
+with all these new jump balls. Thanks.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+That's very good questions. And we mentioned about 48-volt system many, many years ago,
+okay? And particularly for auto, now it became a hot topics. And we have all these product ready
+with designing those new vehicles. And these have a base on 48 volts systems. We can capture a
+lot. And in an -- once their products -- once their vehicles are ramping up on the market, and
+initially will be another dominant players.
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+And I think that this is -- the rollout in automotive starts with EV, which is quicker to adapt new
+technologies onto their platform. But we expect it to continue for a multiyear period.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Yes. Again, NPS, again, we provide a 48-volt integrated solutions. And all of these high-power
+modules are based on the NPS silicon solutions. And those were significantly changed. All these
+are discrete way of doing it, accrues together the 48-volt solutions. So that definitely sets NPS
+apart from the rest of a competitor.
+A - `Tony Balow, Vice President of Finance `
+And Rick, beyond just pure 48-volt, remember what you saw beginning Q3 was designs outside
+of ADAS start to hit the market. And we saw more broad-based growth in the auto segment. And
+we'd expect that to continue as additional sockets come to market. So I think that's the other
+dynamic that's happening as well.
+Q - `Rick Schafer, Oppenheimer & Co. `
+Great. Thanks, you guys.
+A - `Genevieve Cunningham, Senior Manager, Marketing Communications
+Our next question is from `Ross Seymore, Deutsche Bank of Deutsche Bank. Ross, your line is now open.
+Q - `Ross Seymore, Deutsche Bank `
+Can you hear me now?
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+Yes.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Hi, Ross.Q - `Ross Seymore, Deutsche Bank `
+Perfect. Hi, there. Just want to revisit the enterprise data side of things. And not to overplay that,
+but the market share gains and dynamics in the server CPU side of things, has that changed at
+all? I think everybody knows what's going on with one key customer and the diversification market
+share shifts and those sorts of things. But you guys have other things that are happening as we
+speak as well. So I really wanted to focus on the dynamics outside of those, not just with the ASIC
+providers and other GPU providers, but also with the CPU market share and servers. So any
+update on that would be helpful.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Ross, let me say something else first. Our inventory low and the channel inventory is low. We're
+going to ramping up. Okay. And the rest of us, Bernie, you want to?
+Q - `Ross Seymore, Deutsche Bank `
+I don't know, if I had a follow up on that.
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+It's a very good question. And let me just give you a little bit of what we're seeing. It's a fast
+changing landscape. And what I mean by that, it's difficult to offer commentary on enterprise data
+in these different components. The lines between CPU and GPU are becoming blurry. And in
+support of both lines of business, we have a lot of standard products. So while we've historically
+had better visibility in the separation and could track them a little more easily, it's hard for us to
+make more than just a generalized comment about what direction either market segment is
+going in.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Yes, let me add. Okay, we have -- we're getting significant shares about on the server side. And
+once you see the server markets start ramping up, well, the MPS revenue will ramp with it.
+Q - `Ross Seymore, Deutsche Bank `
+Great. I guess as my non-inventory follow-up, on the communication side, you guys did well on
+that in the second half of the year. It's a little bit choppy still, but can you just give us an idea of
+the profile of that business? How much is kind of the old comms versus the new comms? And
+give us a little bit more color on what the growth driver is that gives you the confidence for the
+year. And I assume it's on the optical side of things, but just a little more details on that would be
+helpful.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+We're all laughing. And would you say the beginning of the question, okay?
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+It was comms, right, Ross?
+Q - `Ross Seymore, Deutsche Bank `Yes, and the communication side. It's just, you guys have been talking about that growing for
+many, many years, and it finally did last year. But I know there's some legacy pieces and some
+new pieces. And so I just wanted to try to get some color on the difference between them.
+A - `Tony Balow, Vice President of Finance `
+Yes, Ross, I think you kind of hit it when you were asking the question, right? If you could com us
+going forward, the area of strength that we've really been calling out is an optical, and we'd
+expect that to continue as part of the overall data center opportunity that you heard Michael talk
+about. So I think that's probably the biggest inflection point that you've seen over the past couple
+of quarters versus a legacy business.
+Q - `Ross Seymore, Deutsche Bank `
+Got it. Thank you.
+A - `Genevieve Cunningham, Senior Manager, Marketing Communications
+Our next question is from `Gary Mobley, Loop Capital of Loop Capital. Gary, your line is now open.
+Q - `Gary Mobley, Loop Capital `
+Hey, guys. Let me extend my congratulations as well. I wanted to start out with a housekeeping
+question. Were there any greater than 10% customers in fiscal year '24, and if you can't name the
+customer, can you at least give us a sense of how big that customer was in the year?
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+Certainly. For the three quarters, Q1, Q2, Q3, in our 10-Q, we said that we had two direct
+customers, which are distributors that were greater than 10%, and one indirect customer that was
+greater than 10%. And that carries through for the full year as well.
+Q - `Gary Mobley, Loop Capital `
+Okay. But you can't give us a number that we'll publish in the 10-K in terms of the percentage of
+revenue from that direct customer?
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+Not at this time.
+Q - `Gary Mobley, Loop Capital `
+Okay. I tried. All right. I wanted to ask about revenue diversification outside of your traditional
+power management market. And if I count correctly, there's maybe four shots on goal, and you
+highlighted some of those in your press release. And that would be data converters, silicon
+carbide, DSP audio, and battery management systems. So my question is how big in revenue
+terms can that be in the fiscal year '26 timeframe? Or said differently, how much of a growth
+catalyst can be on top of what you're producing in traditional power management?
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Traditional power management, they're talking about -- these are low-voltage things, if it's what
+you mean. The silicon carbide is, of course, to me is also in the power management. And -- but
+these are much higher powers, very high power management. And we don't want to put on thenumbers, but these are, again, it's a couple billion dollar opportunity for all of them, for NPS. I
+don't want to put a timeline on it, okay?
+A - `Tony Balow, Vice President of Finance `
+And the only thing is -- we picked a couple for the script, but we only could put a few in for time,
+but I think our strategy continues to be plant a lot of seeds in a lot of different areas that can turn
+into revenue as the market decides what to prioritize.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+That's a good point. We -- on March 20th, so we have Analyst Day, and this time you come over,
+you will see a lot of showcase on NPS new technologies, and these all will contribute in the next
+few years of growth, okay? And if you want to pin down what is the numbers, I would say that,
+okay, if you look at the past for NPS, what the model is, we will -- I don't see anything, any reason
+we should change, okay, should we go faster or slower.
+Q - `Gary Mobley, Loop Capital `
+Thanks, guys.
+A - `Genevieve Cunningham, Senior Manager, Marketing Communications
+Our next question is from `Quinn Bolton, Needham & Company of Needham. Quinn. Your line is now open.
+Q - `Quinn Bolton, Needham & Company `
+Hey, guys. I'll offer my congratulations as well. I guess, Bernie, Michael, obviously, a very strong
+start to the year in the March quarter. Your comments about enterprise data certainly sound like
+that business might be more second half weighted. And so I guess I'm just trying to think what
+sort of revenue pattern would you expect through 2025? Is the first half slower, the second half
+materially stronger? Do you think that you have some puts and takes, and so it's a kind of more
+linear ramp through the year? Just any sort of thoughts on the shape of revenue through '25
+would be helpful.
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+Yes. So the comment that we made as far as the outlook for the year really looks at the design
+wins we've secured and an expectation of what is going to be ramping. Keep in mind, though,
+that particularly in the AI side of enterprise data, that has tended to be very volatile and that we
+have relatively short lead times as far as when we get hard information or POs for actual delivery.
+So I think that within the context of what we believe is most likely to happen, we're very secure by
+saying a flattish year that's weighted to the back half, but how that curve actually plays out over
+the quarters is to be determined.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Yes, let me add, okay. Bernie said volatile means that this industry, this applications, if you will, and
+very -- is at the initial ramp. And so you're only involved with -- we have a few customers. Now, we
+talked about it before, so we have multiple customers. And they start to ramp. So it's very good
+for MPS, very -- we focus on the diversifications and even within a single segment.
+Q - `Quinn Bolton, Needham & Company `I guess that was going to be my sort of second question, just thinking about the enterprise data
+segment. Can you just give us a sense what you're seeing in terms of, one, like-for-like pricing
+pressure? And then, two, I think some of the newer designs really move away from a silicon-only
+solution to much more of a module solution. And I assume that those carry, much higher dollar
+content for you. And so do you see, as you mix the customer, you ramp some of the new
+hyperscaler designs? Do you think the blended ASP trends in that business, even if you see some
+like-for-like pricing, can that go higher through the year as these new platforms ramp?
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Well, MPS are going to stick with our models and margin models -- gross margin model. We
+provide performance, and if it doesn't fit the MPS business model, we don't take those
+businesses. And so far, we're the leading suppliers in silicon as well as power modules. And so
+this is the reason we, in a very short times in the last 12, 24 months, we have engaged with all
+these hyperscales, we have all these projects designed away -- designed in it. And also, we have
+future products, we have many future products in the development.
+Q - `Quinn Bolton, Needham & Company `
+Got it. Thank you, Michael.
+A - `Genevieve Cunningham, Senior Manager, Marketing Communications
+Our next question is from `Chris Caso, Wolfe Research of Wolfe. Chris, your line is now open.
+Q - `Chris Caso, Wolfe Research `
+Yes, thanks. I guess just to start, I just want to make sure I understood correctly some of the
+comments. So when you talk about the enterprise data flatters for the year weighted to the back
+half, and I'm assuming that's the entirety of the enterprise data segment, not just that associated
+with AI. And maybe you could talk about how -- you talked about some of the hyperscalers, some
+of the custom ramps happen in the second half of the year. Is that what's driving that strength in
+the back half of the year? What's kind of driving that back half weighting?
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+Chris, that's an accurate observation. It's as we look at the ramps for both the SOCs and some of
+the tensor processor products that are expected to come out, we've been prototyping those,
+but the revenue ramps are really weighted to the second half. And in addition, some of our
+existing customers in the AI business in particular have multiple new products that they're
+ramping, and those will have different demand profiles as well. And then that's just within the
+enterprise data. I think another important ingredient is what we've referred to as the trickle-down
+effect. As we see the other applications that are allied to enterprise data or AI specifically in
+memory, optical, and networking, and all three of those are areas for growth as well during 2025.
+Q - `Chris Caso, Wolfe Research `
+Right. And I guess, as you look at the full year, obviously, from what you guys are seeing, and the
+better than the seasonal Q1, I'd -- safe to say you're starting out a little better than some of the
+others in this space. What's your thought as you go through the year? I mean is there any
+lumpiness with regard to some of the opportunities that are ramping early in the year that we
+should consider as we go through the year? Or is -- excluding the enterprise data business, do
+you see revenue kind of on a fairly stable upslope trajectory as you go through the year?A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Yes. I can tell you something. It's very difficult to say. Surely, you go by year-by-year, we don't go
+by year-by-year, but although we have to report it year-by-year. And I'll give you examples. Our
+large customers start to push out some product, pulling a lot of other ones. So we can't really tell.
+And like, I mean, other customers, other hyperscales start to ramp, okay, start -- they telling us
+we're going to keep on ramp. Whether the ramp have an effective and remove our revenue
+needles in the Q4 of this year or Q1 of the next year, we can't tell.
+A - `Tony Balow, Vice President of Finance `
+Yes, maybe the only thing I'd add on Michael and it just comes back to the focus on what you can
+control, right? And you have the organization looking at providing the best products with the best
+quality and that's what we can do right now and as the market then plays through, that will turn
+into revenue. So I don't think we're trying to get into a quarter-by-quarter debate here, Chris. I
+think that's how we've more landed kind of in a first half, second half dynamic at this point.
+Q - `Chris Caso, Wolfe Research `
+Thank you.
+A - `Genevieve Cunningham, Senior Manager, Marketing Communications
+Our next question is from `Joshua Buchalter, Cowen and Co. of Cowen. Joshua, your line is now open.
+Q - `Joshua Buchalter, Cowen and Co. `
+Yes, thank you for taking my question. A couple of times you've talked about the hyperscale
+program sort of driving growth more so in the back half of the year. I guess if we compare these
+sockets to what you've already done in AI and the accelerator side, there's a lot of companies in
+the analog space that are saying that they have power engagements with ASIC vendors as well.
+Would you expect the majority of these merchant -- the ASIC programs to be dual sourced? And I
+know you're not going to necessarily quantify share but I'd just be curious to hear how you're
+seeing the competitive environment in these sockets. Thank you.
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+Sure. Let me take the first opportunity there. If you look at our most recent track record in the
+new, and I say new, relatively new AI business, the reason we were able to secure a lead position
+initially is because of our ability to innovate and -- our time to market along with our overall
+performance characteristics. So to the extent that, that is valued in these product launches, those
+are the qualities that give us an opportunity to have a first mover advantage. But as we've said a
+couple of times on this call that when we look at our customers, we don't necessarily control what
+their decision process is or why. And so, again, we lead with our strengths and believe that we're
+well-positioned and then we'll see how the numbers turn out towards the end of the year here.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Yes. You mentioned the second half, you pinned it down as on the second half of the ramp. What
+we mean is in the very near futures.
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+Yes.A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+It could be Q1 of next year's or could be Q3 of this year or even overlaps in Q2? And a lot of
+things, as I said earlier, and our large customers, some of them push out, other ones are pulling, I
+mean very urgently. So we cannot tell.
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+I guess to put a punctuation statement, we remain cautiously optimistic, but our momentum is
+certainly in the right direction.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+That's the professional way to say it.
+Q - `Joshua Buchalter, Cowen and Co. `
+We always get the more professional answers from Bernie. Okay, no, thank you both for the color
+there. As my follow-up, I guess, you're kind enough to give sort of a rough outlook for enterprise
+data growth for 2025. Any more clues you can give us on how you're expecting either at the
+company level 2025 growth to shake out and any sort of which segments you would expect to be
+the biggest contributors to growth? Thank you.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Biggest ones? We're thinking multiple of them. Yes, and whether multiple of them will ramp in a
+different -- many different segments. And we -- sometimes we pick the numbers and okay, it was
+wrong, okay? And the other ones are coming up and we focus on the diversified growth. That is
+the key strategy. So we've been playing the same principles for the last 25 years. And if this thing
+doesn't work and then other things will work, because okay, that's always our strengths. And as
+long as we bring up the best performance, highest performance product in the market, we will, if
+this segment slows down for whatever the reasons, other segments will pick up.
+Q - `Joshua Buchalter, Cowen and Co. `
+Thank you both and congrats on the results.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Thank you.
+A - `Genevieve Cunningham, Senior Manager, Marketing Communications
+Our next question is from Will Stein of Truist. Will, your line is now open.
+Q - `William Stein, Truist Financial `
+Great. Thanks for taking my question. Let me start with what everyone has been asking about is
+enterprise data. I think you highlighted, Bernie, that it's going to be down sequentially. Can you
+give us a little help on the modeling, because down could be down like 3% or like 30%. Maybe
+just dimensionalize it a little bit to give us some context, please?
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `Yes. I think that it'd be really hard. Again, what Michael just said is that the strength of our model is
+the diversification. And I would probably point to the outlook that we've given in total for Q1 as
+being a risk profile that we believe we can deliver comfortably against based on what we can see
+in our backlog and the continuing -- the ongoing ordering patterns. But again, trying to actually
+stratify with a level of precision on the end market at this point might be difficult.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Yes, you may looking for positions, and the reality is in the business we go for long terms and we
+go for long term. It doesn't mean near term will not have uplifting, okay, in our revenues.
+Q - `William Stein, Truist Financial `
+Yes, clearly my ability to model the near term is problematic. A follow-up if I can. Maybe let me
+switch gears a little bit. Michael, I think in the past, you talked about having some capability in
+microcontrollers. Historically, I know that it's not like a focus or it's not a meaningful part of your
+revenue as well as I understand. Should we expect that to change there's so many new products,
+you talk about silicon carbide power and converters now and DSPs even, should we expect
+microcontrollers or another, any other digital sort of logic technology to become a bigger part of
+your revenue over time?
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Very good questions. And we don't list them out a microcontroller as a standalone standard
+product that we sell. As a matter of fact, okay, we -- as we have a many -- we sell many
+microcontrollers now, okay? And as I recall in my mind can come up 12, 13 microcontroller projects
+is ongoing, some of the stuff is shipping.
+But what we sell microcontroller is on the system level. And as Bernie earlier said, in a last field
+conference, so this MPS is evolving to a silicon-based solution company. Microcontrollers plays a
+key role. And all these powers, all these other lighting, all these other audios and including power
+supply, including AIs, they all have microcontrollers in it. And we don't list separate other items
+and the standard microcontroller part, but a lot of -- and clearly -- or also a lot of a microcontroller
+were integrated and that's the reason we don't list it apart. This is a separate, okay?
+Q - `William Stein, Truist Financial `
+Thank you.
+A - `Genevieve Cunningham, Senior Manager, Marketing Communications
+Our next question is from `William Kerwin, Morningstar of Morningstar. William, your line is now open.
+Q - `William Kerwin, Morningstar `
+Hey, everyone. Thanks for letting us get a question in here. A lot of good questions so far, so I'll
+try not to beat any dead horses. But maybe it sounds like at least in the March quarter,
+automotive, communications seem to be driving some of the growth. So I'm wondering if you
+could just give a broader view into the demand for those markets for 2025 and your
+opportunities for share gains in those two.
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `Sure. Well, good to hear you in the Q&A, by the way. When you look at the end markets, most of
+the ones that we have are long-design cycles. And automotive probably lends itself to being the
+most predictive because we secure a design win two to three years for an EV in advance of when
+it gets launched, or as many as four to five years for a traditional internal combustion engine.
+Now, having said that, the timing of those ramps, when the design win comes to market, still
+remains a question mark. But within the context of six to nine months, we can be reasonably
+predictive.
+So in automotive, we see a continuation of what's been driving our last two quarters of growth as
+far as EVs in China. And those will be supplemented in the second half of the year, more likely by
+a European OEM that is going to be bringing up an autonomous driving ADAS solution, as well as
+additional content opportunities in the North American EV companies. And then when you look at
+the communication side, I think that is we're very early stages of being able to ramp the revenue
+opportunities, particularly in fiber optics. We started out with two primary customers, but that --
+we expect that customer base to diversify over the year.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+As always the pattern.
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+Yes.
+Q - `William Kerwin, Morningstar `
+That's excellent. And then maybe one just on some of the new products that were introduced at
+the start of the call, really just which one of these maybe excite you the most? And what are the
+new markets that you might be able to enter with these that are the most attractive, do you think,
+from a growth perspective? Thanks.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+The most exciting product we haven't announced it yet. Come to our Analyst Day.
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+March 20th.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+March 20th. And these are equal babies, okay. They all grow, should be very same, same rate.
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+Yes. We picked four, but there's many more behind that. So it's hard to pick just one. Actually, we
+wanted to have a teaser to make sure we had the best turnout for the Investor Day.
+Q - `William Kerwin, Morningstar `
+Okay, excellent. Well, we'll wait for more detail in March. Thanks, guys.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+All right. Okay.A - `Genevieve Cunningham, Senior Manager, Marketing Communications
+Our next question is from Hans Mosesman of Rosenblatt. Hans, your line is now open.
+Q - `Hans Mosesmann, Rosenblatt Securities `
+Thanks, congrats, guys. I'll be quick. What is the split for your enterprise data between AI and
+non-AI, if that's possible? And I have a follow-up.
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+Yes, again, I think we already answered that question by saying that those lines are getting blurry.
+So we really don't have a meaningful way to make that divide.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+And our customers -- and we're not appreciated where we disclose those numbers. And our
+customers made it very clear.
+Q - `Hans Mosesmann, Rosenblatt Securities `
+Is non-AI considered memory and optical, historically? Just out of curiosity.
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+Those are in different market segments.
+A - `Tony Balow, Vice President of Finance `
+Opticals and communication, memories and storage.
+Q - `Hans Mosesmann, Rosenblatt Securities `
+Fine. Okay, at the risk of upsetting your customers if you answer, what is the share between your
+historical AI customer for this year versus accelerator customers? What's the split? Is it 10/90 or
+50/50?
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+For this year, and at the end of the year, we probably will have a more -- in the near term, we
+have more clear pictures, but now, we don't. Frankly, it's not clear where as Bernie said, we're not
+in a position to answer that game. And also, either by product, they share the same product. And
+also, our customers doesn't want us to release these informations.
+Q - `Hans Mosesmann, Rosenblatt Securities `
+Okay. Thank you very much.
+A - `Genevieve Cunningham, Senior Manager, Marketing Communications
+Our last question is from `Joe Quatrochi, Wells Fargo from Wells Fargo. Joe, your line is now open.
+Q - `Joe Quatrochi, Wells Fargo `
+Yes, thanks for taking the questions. Just curious on the notebook strength that you guys arestarting to see pull-through for AI PCs or is that channel refill? Just trying to understand some of
+those dynamics.
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+That's a great question. In fact, we believe that a lot of the design wins that we've had in
+notebooks more recently are tied into new AI product demand. But as I said, it's a little bit of an
+atypical ramp for Q1. So we really don't have a definitive answer on the why behind it.
+Q - `Joe Quatrochi, Wells Fargo `
+Got it. And then just trying to think about the new projects that are ramping in the second half for
+enterprise data, any help that you can provide and just try to think about like the architectures of
+those solutions that you're shipping to your customers. Are you still largely seeing those as being
+lateral power opportunities or are they starting to move to more vertical solutions?
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+Yes. I think you heard us talk a couple of times that we're not going to talk specifically to any
+customer or their particular architectural solution. I think for us, what you see us getting folks in is
+providing a portfolio of products with the best quality, the best performance, and then the
+customers can choose what works for them. And going back to Michael's earlier comment as far
+as basically the value proposition of the principles we operate under, what we're most interested
+in doing and continuing to do is winning sockets.
+A - `Michael R. Hsing, Chairman of the Board, President and Chief Executive Officer `
+Yes. Our customers have picked particularly, does it not want us to reveal the lateral power or
+vertical power.
+Q - `Joe Quatrochi, Wells Fargo `
+Got it, that's helpful. Thank you.
+A - `Genevieve Cunningham, Senior Manager, Marketing Communications
+This concludes our Q&A session. I would now like to turn the webinar back over to Bernie.
+A - `Bernie Blegen, Executive Vice President and Chief Financial Officer `
+I'd like to thank you all for joining us for this conference call. As a quick reminder, we'll be hosting
+our Investor Day on March 20th, 2025. Michael and other MPS executives will showcase our vision
+for innovation and outline key elements of the company's long-term growth strategy. The event
+will be held at our San Jose offices and will include live presentations, a Q&A session, and demos
+of our latest solutions for a number of applications and a number of other markets.
+If you haven't done so already, please email your RSVP to
+MPSInvestor.Relations@monolithicpower.com. You can also access a live stream of the event on
+our Investor Relations website. Separately, I look forward to talking to you again during our first
+quarter 2025 conference call, which will likely be held in May. Thank you and have a nice day.

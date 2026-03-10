@@ -1,0 +1,613 @@
+Q4 2015 Earnings Call
+
+Operator
+Good day, ladies and gentlemen, and welcome to the ON Semiconductor Quarter Four Earnings
+Call. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-
+answer session, and instructions will be given at that time. As a reminder, this conference is being
+recorded.
+I would now like to introduce your host for today's conference Mr. Parag Agarwal, Vice President
+of Investor Relations and Corporate Development. Sir, you may begin.
+Parag Agarwal `
+Thank you, Chelsea. Good morning and thank you for joining ON Semiconductor Corporation's
+fourth quarter 2015 quarterly results conference call. I apologize for the confusion this morning
+regarding the call. The delay was due to an issue with our provider, and I can assure you that that
+was the only reason for the delay. I am joined today by Keith Jackson, our President and CEO;
+and Bernard Gutmann, our CFO.
+This call is being webcast on the Investors section of our website at www.onsemi.com. A replay
+will be available on our website approximately one hour following this live broadcast and will
+continue to be available for approximately 30 days following this conference call, along with our
+earnings release for the fourth quarter of 2015. The script for today's call is posted on our
+website. Additional information related to our end markets, business segments, geographies,
+channels, and share count is also posted on our website.Our earnings release and this presentation include certain non-GAAP financial measures.
+Reconciliation of these non-GAAP financial measures to the most directly comparable measures
+under GAAP are in our earnings release, which is posted separately on our website in the
+Investors section.
+During the course of this conference call, we will make projections and other forward-looking
+statements regarding future events or future financial performance of the company. The words
+believe, estimate, project, anticipate, intend, may, expect, will, plan, should, or similar expressions
+are intended to identify forward-looking statements. We wish to caution that such statements are
+subject to risks and uncertainties that could cause actual events or results to differ materially from
+the projections. Important factors, which can affect our business including factors that could cause
+actual results to differ from the forward-looking statements, are described in our Form 10-Ks,
+Form 10-Qs, and other filings with the Securities and Exchange Commission.
+Additional factors are described in our earnings release for the fourth quarter of 2015. Our
+estimates may change, and the company assumes no obligation to update forward-looking
+statements to reflect actual results, changed assumptions, or other factors except as required by
+the law.
+During the first quarter, we will be attending the Susquehanna Semi, Storage & Tech Summit on
+March 10 in New York City.
+Now, let me turn it over to Bernard Gutmann, who will provide an overview of fourth quarter 2015
+results. Bernard?
+Bernard Gutmann `
+Thank you, Parag, and thank you, everyone, for joining us today. Let me start by providing an
+update on overall business results. As evident from the recent results of many semiconductor
+companies, the macroeconomic environment continues to be challenging and demand trends are
+sub-seasonal. However, the healthy supply side dynamics with low channel inventories and
+reduced utilization are helping to mitigate the impact of soft demand. We have noticed a steady
+improvement in booking trends in the current order, although the macroeconomic picture hasn't
+changed much.
+Despite the challenging macro conditions, our performance in the fourth quarter was strong.
+Although we slightly missed the midpoint of our revenue guidance, we over-delivered on factors
+that are well within our control. Our operating expenses for the fourth quarter were well below
+our guidance and we were able to deliver strong EPS performance under the circumstances.
+We're fully committed to delivering a strong economic performance – operating performance,
+even if macroeconomic conditions remain challenging.
+In 2016, we intend to accelerate our progress towards our target financial model, which we
+provided to the investment community at our 2015 Analyst Day. During the year, we plan to take
+measures to improve our cost structure and position the company to deliver higher margins on a
+sustainable basis. Keith will touch upon the topic later in his prepared remarks.
+Now let me provide you an update on our fourth quarter 2015 results. ON Semiconductor today
+announced that total revenue for the fourth quarter of 2015 was approximately $840 million, a
+decrease of approximately 7% as compared to the third quarter of 2015.
+GAAP net income for the fourth quarter was $0.13 per diluted share. Excluding the impact of
+amortization of intangibles and restructuring and other special items, non-GAAP net income forthe fourth quarter was $0.19 per diluted share.
+GAAP gross margin for the fourth quarter was 33.3% as compared to 34.1% in the third quarter of
+2015. Non-GAAP gross margin for the fourth quarter was 33.2% as compared to 34.1% in the third
+quarter of 2015. The 90 basis points of sequential decline was largely driven by lower utilization in
+the fourth quarter as compared to the third quarter. As we have planned, we reduced utilization
+of our factories in the fourth quarter to manage internal and distribution channel inventory levels.
+Average selling prices for the fourth quarter decreased by approximately 2% as compared to the
+third quarter.
+GAAP operating margin for the fourth quarter of 2015 was approximately 6.6% as compared to
+approximately 7.7% in the prior quarter. Our non-GAAP operating margin for the fourth quarter
+was 11.1%, down approximately 70 basis points as compared to the third quarter of 2015 primarily
+due to lower gross margin in the fourth quarter. The impact of lower gross margin on operating
+margin was offset by strong expense control in the fourth quarter.
+GAAP operating expenses for the fourth quarter were approximately $224 million as compared
+to approximately $239 million in the third quarter of 2015. Non-GAAP operating expenses for the
+fourth quarter were approximately $186 million, down approximately $16 million as compared to
+the third quarter of 2015. The decline in operating expenses was driven by solid execution on
+cost and expense controls in times of heightened macroeconomic uncertainty.
+We exited the fourth quarter of 2015 with cash, cash equivalents, and short-term investments of
+approximately $618 million, an increase of approximately $61 million from the third quarter.
+Operating cash flow for the fourth quarter was approximately $157 million as compared to
+approximately $128 million in the third quarter. We spent approximately $66 million of cash for the
+purchase of capital equipment.
+During the fourth quarter, we used approximately $22 million for the repayment of long-term
+debt and capital leases, and we used approximately $20 million to repurchase approximately 2
+million shares of our common stock at an average price of $10.46. At the end of the fourth
+quarter, approximately $628 million remained of the total authorized amount of $1 billion under
+the current stock repurchase program, which was announced on December 1, 2014.
+At the end of the fourth quarter of 2015, ON Semiconductor days of inventory on hand were 122
+days, up approximately 6 days from the prior quarter. In the fourth quarter of 2015, distribution
+inventory decreased by approximately $21 million quarter-over-quarter, and distributor re-sales
+decreased by approximately 6% quarter-over-quarter.
+For the fourth quarter of 2015, our lead times were up slightly as compared to the third quarter.
+Our global factory utilization for the fourth quarter was down as compared to the third quarter. As
+we had indicated in our third quarter earnings conference call, we reduced factory loadings in the
+fourth quarter to manage inventory levels.
+Now, let me provide you an update on performance by our business units, starting with the Image
+Sensor Group. Revenue for the Image Sensor Group was approximately $184 million, down
+approximately 3% as compared to the third quarter. Revenue for Standard Products Group for the
+fourth quarter of 2015 was approximately $293 million, down approximately 6% quarter-over-
+quarter. Revenue for the Application Products Group was approximately $253 million, down
+approximately 8% over the third quarter.
+Revenue for the fourth quarter of 2015 for the System Solutions Group was approximately $110
+million as compared to $128 million in the third quarter. A steep decline in appliances-relatedrevenue in China, broad-based weakness in Japan, and well-publicized weakness in the premium
+segment of smartphone market contributed to weaker than expected revenue for our System
+Solutions Group.
+Now, I would like to turn the call over to Keith Jackson for additional comments on the business
+environment. Keith?
+Keith D. Jackson `
+Thanks, Bernard. Let me start with laying out our priorities for 2016 and then I will reflect on our
+accomplishments for 2015. Lastly, I'll address the overall business environment and trends in
+various end markets.
+For 2016, there are three main objectives for us. First, implement cost control measures that will
+accelerate our moves towards our target model. Second, meet the integration targets for our
+pending Fairchild acquisition and position the acquisition to deliver targeted synergies. And third,
+continue to build on our momentum in strategic growth markets of automotive, wireless devices
+and select areas of industrial.
+Now, let me expand on each of these objectives, starting from implementing measures to
+achieve our target model. During the year, we intend to make structural changes in our
+manufacturing network to reduce our fixed cost footprint in order to drive gross margin
+expansion. Additional cost reduction on the manufacturing front will include reduction in overhead
+and in variable costs. Furthermore, during the year, we plan to improve our operating expense
+efficiency, independent of synergies from our pending acquisition of Fairchild. We will be sharing
+additional details with you as specific measures are implemented during the course of the year.
+Moving on, I want to ensure that we are able to deliver the targeted synergies from our pending
+Fairchild acquisition in a timely manner. We remain on track to close the acquisition in the second
+quarter of 2016. The integration teams from both companies are working closely, and early
+indications point toward a smooth integration in a timely manner. The two companies have similar
+operations and organizational structures, and we are well positioned to realize targeted
+synergies in a timely manner after closing the transaction.
+Let me also comment on the status of our Fairchild acquisition. We have a fully executed merger
+agreement with Fairchild and are very confident of our position despite the presence of a
+competing bid. We've always exercised discipline in deploying our capital and if a competitive
+situation arises, we will exercise the same discipline.
+Lastly, let me discuss our continuing momentum in the automotive, industrial and wireless end
+markets. We have been outgrowing the industry in these markets and we expect that our success
+in these markets will continue in 2016, driven by design wins with new products. Though Aptina
+has been a key driver of our growth, especially in the automotive market, our performance on an
+organic basis exceeded that of the industry in 2015. I believe that 2016 will be a pivotal year for
+ON Semiconductor as we close the pending Fairchild transaction and make strong progress
+towards our target financial model.
+Now, let me briefly address our achievements of the past year. Although much of 2015 was
+clouded by macroeconomic uncertainty, we delivered strong operational and financial
+performance. We successfully integrated Aptina, and results from Aptina far exceeded our
+expectations and the guidance we provided to the investment community.We believe that we are in early stages of realizing full potential of our acquisition of Aptina. With
+Aptina, we believe that ON Semiconductor is among the best-positioned companies to benefit
+from steep adoption of ADAS in automobiles. As I noted earlier, we outgrew the semiconductor
+industry on an organic basis in 2015. We exceeded our annual commitment of capital returned to
+shareholders and we repurchased approximately $348 million of our stock. Lastly, we announced
+the acquisition of Fairchild in November of 2015.
+Now, let me comment on the business trends in the fourth quarter. During the fourth quarter, the
+pace of bookings was subdued through much of the quarter. From a revenue perspective, we
+saw weakness in Japan and China.
+As Bernard indicated in his prepared remarks, the global macroeconomic environment remains
+challenging, which we believe is impacting the overall semiconductor industry. However, we are
+not seeing a noticeable change in the underlying fundamentals of our business, and our design
+win momentum remains strong. We have noticed a significant improvement in bookings in the
+current quarter, but given the recent history of false starts and prevailing macroeconomic
+overhang, we remain cautious. However, we remain confident in our ability to outgrow the
+semiconductor industry, driven by the strength of our design wins in the automotive, industrial
+and smartphone end markets.
+Now, I'll provide some details of the progress in our various end markets. The automotive end
+market represented approximately 36% of our revenue in the fourth quarter and was up
+approximately 6% quarter-over-quarter. Fourth quarter revenue for automotive was driven by
+strong regional performance in China, Japan, South Korea and the Americas. Revenue from key
+application areas including active safety and body and lighting grew strongly quarter-over-quarter
+in the fourth quarter.
+Our momentum in CMOS image sensors for automotive applications remained intact, driven by
+steep adoption of ADAS and viewing cameras. We are leveraging our leadership in automotive
+image sensors to expand into additional areas such as power management for ADAS systems.
+Our design win pipeline for automotive continues to grow as we target new applications in fast-
+growing segments of the market. We also continue to grow our presence with a broad range of
+automakers through share gains in existing products and applications. Revenue in the first quarter
+for automotive end market is expected to be up quarter-over-quarter.
+The communications end market, which includes both networking and wireless, represented
+approximately 18% of our revenue in the fourth quarter and was down approximately 6% quarter-
+over -quarter, primarily driven by weakness in the premium segment of the smartphone market.
+Our design win momentum in the smartphone market remains intact, and our design wins
+continue to drive increased content in new generations of smartphones. We are winning sockets
+with our optical image stabilization functions, ESD protection, EMI filter, LDOs, E2PROMs, small
+signal diodes and MOSFETs. Revenues in the first quarter for the communications end market are
+expected to be down quarter-over-quarter due to normal seasonality.
+The consumer end market represented approximately 12% of our revenue in the fourth quarter
+and was down approximately 26% quarter-over-quarter. The decline in consumer was driven by
+weakness in the white goods, action sports camera, and gaming markets. During 2015, we
+benefited from our presence in new categories such as action sports camera and wearables. We
+also secured a win on a virtual reality platform, which should drive revenue in the current year.
+Revenue for the first quarter for consumer end market is expected to be down quarter-over-Industrial end market, which includes military, aerospace and medical, represented approximately
+23% of our revenue in the fourth quarter and was down approximately 10% quarter-over-quarter.
+In addition to seasonality, global macroeconomic weakness contributed to the revenue decline.
+We saw a significant weakness in our major industrial customers with exposure to manufacturing.
+Also, our security-related revenue was down significantly due to macroeconomic slowdown in
+China. In 2015, we significantly improved our market position in security-related imaging markets
+with year-over-year revenue growth of 15%.
+Revenue for our medical business was approximately flat quarter-over-quarter. During the
+quarter, we launched a few key ASSPs for the hearing aid market. These products have received
+a strong customer reception, and these products should cement our position as the leading
+silicon supplier for the hearing aid market. Our medical-related revenue posted a healthy growth
+in 2015.
+Our military and aerospace-related revenue posted strong growth in the fourth quarter. During
+the fourth quarter, we saw a strong traction for RF products for industrial IoT applications from
+our recently closed acquisition of AXSEM. Revenue for the first quarter for industrial end market is
+expected to be flat to down quarter-over-quarter.
+Computing end market represented approximately 12% of our revenue in the fourth quarter and
+was down approximately 12% compared to the third quarter. Our Skylake-related revenue grew
+strongly quarter-over-quarter, but we did experience weakness in the other parts of the market,
+such as hard disk drives and power supplies. Furthermore, we made a decision to shift some of
+the computing-related production capacity to drive our growth in automotive.
+Revenue for the first quarter for computing end market is expected to be flat quarter-over-
+quarter. We expect to see a strong ramp for Skylake-related computing revenue throughout the
+current year.
+Now, I'd like to turn it back over to Bernard for other comments and our other forward-looking
+guidance. Bernard?
+Bernard Gutmann `
+Thank you, Keith. Now, for first quarter of 2016 outlook. Before I get into the details of the
+guidance, let me state that we are cognizant of the prevailing macroeconomic condition, and our
+guidance reflects our caution regarding macroeconomic factors.
+Based on product booking trends, backlog levels and estimated turn levels, we anticipate that
+total ON Semiconductor revenues will be approximately $800 million to $840 million in the first
+quarter of 2016. Backlog levels for the first quarter of 2016 represent approximately 80% to 85%
+of our anticipated first quarter revenues. We expect inventory at distributors to be flat quarter-
+over-quarter on a dollar basis. We expect our total capital expenditures of approximately $60
+million to $70 million in the first quarter of 2016.
+For the first quarter of 2016, we expect GAAP and non-GAAP gross margin of approximately
+31.8% to 33.8%. Factory utilization in the first quarter is likely to be flat as compared to the fourth
+quarter. We expect total GAAP operating expenses of approximately $221 million to $233 million.
+Our GAAP operating expenses include the amortization of intangible, restructuring, asset
+impairments and other charges, which are expected to be approximately $35 million to $37
+million. We expect our total non-GAAP operating expenses of approximately $186 million to $196
+million.We anticipate GAAP net interest expense and other expenses will be approximately $13 million to
+$16 million for the first quarter of 2016, which include non-cash interest expense of approximately
+$6 million. We anticipate our non-GAAP net interest expense and other expenses will be
+approximately $7 million to $10 million.
+GAAP taxes are expected to be approximately $2 million to $6 million, and cash taxes are
+expected to be approximately $5 million to $10 million. We also expect share-based
+compensation of approximately $11 million to $13 million in the first quarter of 2016, of which
+approximately $2 million is expected to be in cost of goods sold, and the remaining amount is
+expected to be in operating expenses. This expense is included in our non-GAAP financial
+measures.
+Our diluted share count for the first quarter of 2016 is expected to be approximately 417 million
+shares based on the current stock price. Further details on share count and earnings per share
+calculations are provided regularly in our quarterly and annual reports on Forms 10-Q and 10-K.
+With that, I would like to start the Q&A session. Thank you, and Chelsea, please open up the line
+for questions.
+Q&A
+Operator
+Thank you. And our first question comes from the line of Ross Seymore with Deutsche Bank. Your
+line is now open.
+Q - `Ross C. Seymore, Deutsche Bank Securities, Inc. `
+Thanks for letting me ask a question. I guess, Keith, the first one for you is, if you could give any
+color on the bookings trends. I know you've mentioned repeatedly that macro is weak, but you
+also said that bookings are strong. Any more color on what those bookings are doing by either
+end market or geography would be helpful.
+A - Keith D. Jackson `
+Sure. So as we entered January, we did see a noticeable pickup in bookings. This was not
+atypical, but this is much stronger than normal that we saw. It is pretty broad based and the only
+areas that might be perhaps a little less than normal seasonality would be the industrial market,
+and everything else is looking a little stronger than we would expect going into January.
+Q - `Ross C. Seymore, Deutsche Bank Securities, Inc. `
+And I guess following up on that industrial point, you guided your industrial business to be down
+sequentially in the first quarter. What's driving – I guess flat to down specifically, but what's driving
+that? I thought seasonally that would be an area that could actually improve?
+A - Keith D. Jackson `
+Yeah, normally it is, but we're still seeing inventory burn-off in China specifically and rather muted
+growth in Europe and North America. So we normally do expect Q1 to be up more than what
+we're seeing in the industrial.
+Q - `Ross C. Seymore, Deutsche Bank Securities, Inc. `Operator
+Thank you. And our next question comes from the line of John Pitzer with Credit Suisse. Your line
+is now open. Go ahead.
+Q - `John William Pitzer, Credit Suisse Securities (USA) LLC (Broker) `
+Yeah, good morning, guys. Thanks for letting me ask the question. Keith, I just want to go back to
+the operational side of the business. I mean last year at the Analyst Day, you guys threw out a
+gross margin target of about 40% longer term and if you look over the last several quarters,
+we've seen gross margins come down by 300 basis points to 400 basis points. To what extent is
+this sort of just the new mix of the business than we have to live with lower gross margins? To
+what extent do you think you can tackle this operationally? I know we're still longer term on target
+to get to that 40% gross margin?
+A - Keith D. Jackson `
+Sure. So a couple comments there. One, as we mentioned multiple times, we get about a 50%
+fall-through on revenue and as we entered the second half of last year, we saw the inventory
+corrections taking place and the revenues decline, so there is a pretty much direct hit there.
+Utilization, a big factor as you also know. In order to keep inventories in check we were taking
+additional actions there, giving us even lower utilization.
+From a actual mix perspective, rather than hurting us, it actually is helping us. We're seeing the
+gains in the mix side. They're just not big enough to offset the underutilization of the factories or
+the lower revenues right now. So I think the story is still intact as we see the revenues come back.
+As we go through 2016, I think you'll see not only the 300 basis points or 400 basis points that
+you saw go away, but a couple of hundred basis points more as we continue to reduce our fixed
+cost structure, as I mentioned in my opening remarks, and we get some of those revenues back.
+Q - `John William Pitzer, Credit Suisse Securities (USA) LLC (Broker) `
+That's helpful, Keith. And then on the ASP front, the last couple of quarters, you've been at sort
+of the lower range of that down 1% to 2%. Anything going on there? And I guess longer term, as
+China seems to be intent to kind of get into the semi market and enter through – either Fairchild,
+if not Fairchild, another company who does standard products. How should we think about sort of
+pricing pressure longer term, especially if the Chinese get a foothold here in the business?
+A - Keith D. Jackson `
+Well, we've been operating as you mentioned closer to that 2% mark, which is higher than a
+normal year. And I think it's reflective frankly of companies adapting to the weaker than expected
+markets in the second half. We're not seeing any signs of increased pricing pressures. So we think
+that there is not an increasing issue going on, but it has lasted for more quarters at these levels
+than we're used to. I think the China piece of the equation, yet to be seen. This is really all the
+pricing we're seeing right now still coming from western companies, and again, I guess we'll have
+to wait and see how that plays out.
+Q - `John William Pitzer, Credit Suisse Securities (USA) LLC (Broker) `
+Thanks guys.
+OperatorThank you. And our next question comes from the line of Chris Danely with Citigroup. Your line is
+now open.
+Q - `Christopher B. Danely, Citigroup Global Markets, Inc. (Broker) `
+Hey. Thanks guys. Keith, can you talk about, to the extent you can, any impact to timing of the
+cost reductions that you mentioned in the script today?
+A - Keith D. Jackson `
+Yeah. They are going to be going on throughout the year. So you will hear us announce new
+specifics on each of our calls, but beyond that, I am really not able to give you more than that.
+Most of these involve changes in factories and so you'll hear us announce them, and then the
+actual impact will occur several quarters later.
+Q - `Christopher B. Danely, Citigroup Global Markets, Inc. (Broker) `
+Okay. And then one more question on the competitive bid from Fairchild. Is there any
+circumstance or anything that you could foresee that would cause you to raise your bid, or is your
+bid pretty much $20 and whatever happens happens?
+A - Keith D. Jackson `
+Well, at this point, we don't see any reason to raise it. And as I said, we'll act prudently and
+appropriately, is about all I can share with you.
+Q - `Christopher B. Danely, Citigroup Global Markets, Inc. (Broker) `
+That's fine. Thanks guys.
+Operator
+Thank you. And our next question comes from the line of `Chris Caso, Susquehanna Financial Group LLLP with Susquehanna Financial.
+Your line is now open.
+Q - `Chris Caso, Susquehanna Financial Group LLLP `
+Yes. Thank you, good morning. A question regarding utilization and what you're doing with the
+fabs right now. I know you had plans to take down the utilization last quarter. It sounds like you're
+continuing that into the first quarter. Perhaps you could talk about the impact of that on channel
+inventory as you go into the first quarter and on your own internal inventory, and when you think
+that inventory drain might be complete? Obviously in the channel, I think we're coming into the
+quarter with some pretty low inventory levels to start with.
+A - Keith D. Jackson `
+We're actually, we believe, quite lean in the channel itself and I am expecting that there is going
+to be some impact as we get into Q2 from the bookings acceleration that I mentioned earlier
+that will cause them to have to do some restocking. Internally, we will probably not take that
+number down in Q1 because we are preparing for higher sales in the second quarter. So we're
+looking for fairly flattish internal performance on the inventories for the company.
+Q - `Chris Caso, Susquehanna Financial Group LLLP `Okay. And as a follow-up to that, as you mentioned bookings looking better as you're going into
+Q2, could you remind us what you consider to be normal seasonality as you go into the second
+quarter?
+A - Keith D. Jackson `
+Second quarter tends to be kind of 4% to 6% range, up from Q1.
+Q - `Chris Caso, Susquehanna Financial Group LLLP `
+And the areas that typically are stronger or weaker seasonally as you go into the second quarter?
+A - Keith D. Jackson `
+Pretty much everything is stronger in the second quarter. There are no segments that are
+normally down.
+Q - `Chris Caso, Susquehanna Financial Group LLLP `
+Got it. Thank you.
+Operator
+Thank you. And our next question comes from the line of Craig Ellis with B. Riley. Your line is now
+open.
+Q - `Craig A. Ellis, B. Riley & Co. LLC `
+Thanks for taking the question. Keith, I wanted to follow up on the manufacturing efficiencies. Can
+you talk about what the implications are for your capital spending this year and what's the good
+number to look at for capital intensity for 2016 front?
+A - Bernard Gutmann `
+This is Bernard. We still are on the model of 7%. We're a little bit higher; it was a little bit lumpy in
+2015, but in 2016, we expect to be in that 7% mode.
+Q - `Craig A. Ellis, B. Riley & Co. LLC `
+Okay. And then the follow-up is related to the target financial model. John asked about the gross
+margin target of 40%. You also have an 18% operating margin target. Can you talk about your
+confidence in getting to both the 40% and 18% targets next year? Do you have greater
+confidence in one versus the other? And what demand backdrop do you need to get to those
+two targets?
+A - Bernard Gutmann `
+Well, we based our model on a $4 billion revenue and obviously the challenge is the back half of
+2015 and at least what we're seeing so far and as we start 2016, we'd point to potentially a lower
+revenue and that will definitely affect the timing of the achievement of the target model, but we
+still think at that revenue level, it is our target and we are moving towards that.
+Q - `Craig A. Ellis, B. Riley & Co. LLC `Can you clarify that, Bernard? Do you think that the savings that you have lined up for this year
+which will directly impact COGS and indirectly it sounds like impact overhead? Do those keep the
+business model even in a difficult demand environment or are those margin expansive in the kind
+of demand environment we're looking at this year?
+A - Bernard Gutmann `
+Well, I expect there will be a margin enhancement.
+Q - `Craig A. Ellis, B. Riley & Co. LLC `
+Thanks guys.
+Operator
+Thank you. And our next question comes from the line of `Tristan Gerra, Robert W. Baird & Co., Inc. (Broker) with Baird. Your line is now
+open.
+Q - `Tristan Gerra, Robert W. Baird & Co., Inc. (Broker) `
+Hi, good morning. You've talked about orders picking up for Q2, yet industrial is still weak. Are you
+still looking at a inventory normalization for white goods appliance in the industrial by Q2 which I
+think was your commentary from the quarter ago?
+A - Keith D. Jackson `
+Yeah. So we put white goods in the consumer sector as we report, and we are expecting that
+inventory correction to continue in Q1, but it'd be largely complete at that time.
+Q - `Tristan Gerra, Robert W. Baird & Co., Inc. (Broker) `
+Okay. And then any quick estimate in terms of what you think the mix of Skylake will be in Q1?
+A - Keith D. Jackson `
+So we think our overall computing as I mentioned will be roughly flat. Skylake should increase in
+double digits, but we think that the hard drive and peripherals markets will continue to be a little
+bit soft in Q1.
+Q - `Tristan Gerra, Robert W. Baird & Co., Inc. (Broker) `
+Great. Thank you.
+Operator
+Thank you. And your next question comes from the line of Steve Smigie with Raymond James.
+Your line is now open.
+Q - `Vincent Celentano, Raymond James & Associates, Inc. `
+Thanks. This is Vince Celentano in for Steve. I was hoping if you could talk about any new
+smartphone wireless charging design wins you may have done during the quarter? And when you
+expect the ones that you currently have not around?
+A - Keith D. Jackson `So there are some ramping now from Korea handset makers. And as we understand it, there will
+be more around the June timeframe, yeah, other customers.
+Q - `Vincent Celentano, Raymond James & Associates, Inc. `
+Okay. Thanks. And do you think 2016 is a year where we can see revenue from wireless charging
+from wearable or PC application?
+A - Keith D. Jackson `
+Most likely not. We're still working design wins there. I think that wearables specifically will most
+likely be next year.
+Q - `Vincent Celentano, Raymond James & Associates, Inc. `
+Okay, great. Thank you.
+Operator
+Thank you. And our next question comes from the line of Ian Ing with MKM Partners. Your line is
+now open.
+Q - `Ian L. Ing, MKM Partners LLC `
+Yes. Thank you. You talked about reducing the fixed portion of your manufacturing footprint. Do
+you have a sense of the new quarterly revenue run rates to get to fully utilize manufacturing? And
+I seemed to recall in the past the argument against reducing capacity was you couldn't really
+monetize the equipment and that this limits servicing higher revenues, so just a sense of what's
+changed since then?
+A - Keith D. Jackson `
+Really, there is a couple of things going on. You've heard us mention our agreement with Fujitsu
+on a joint venture. That opens up significant capacity to us, adds some very attractive costs. And
+so we're actually not limiting or reducing our dollar volume capabilities with these footprint
+changes. So, that piece of the equation is a little different than you described. So we're expecting
+to be able to continue to increase our capability to generate revenue while shrinking our
+footprint.
+Relative to revenues, we mentioned before we like to aim at around 85% utilization as kind of a
+normal run rate, gives us the ability to swing up if the market warrants it, and doesn't require a lot
+of work on the downside. And those numbers are reachable at revenue level similar to the last
+time we were there, which would have been the second quarter of last year.
+Q - `Ian L. Ing, MKM Partners LLC `
+Thanks for clarifying. And in your prepared remarks, you talked about being in the early stages of
+achieving the – obtain a potential on ADAS, so just what are the catalysts for ADAS this year, is it
+really propagation of this feature across the automotive tiers, is it adoption of autonomous
+driving at some point, is it certain suppliers like FireEye win or not, just get a sense of the
+catalysts there?
+A - Keith D. Jackson `Yeah, no, the catalysts are really more models adopting – well, all models adopting the rear
+cameras and then more models adopting ADAS just an expansion. Autonomous driving is not a
+factor at this point and we do work with several partners in the field. So we're not dependent on
+any one partner from a success perspective.
+Q - `Ian L. Ing, MKM Partners LLC `
+Great. Thank you, Keith.
+Operator
+Thank you. And our next question comes from the line of Rajvindra Gill with Needham &
+Company. Your line is now open.
+Q - `Joshua Buchalter, Needham & Co. LLC `
+Hi. This is Josh Buchalter on behalf of Raji. Thank you for taking my questions. I was hoping you
+could provide a little more granularity on what led specifically to the OpEx decline on a dollar
+basis in Q4 and how should we kind of think about a run rate going forward? Presumably (38:16)
+more tied to revenue, or is there a specific dollar target? Thank you.
+A - Bernard Gutmann `
+So, this is Bernard. Remember in our third quarter earnings call, we announced that we were
+taking both temporary and permanent reductions, and that's what you see in the fourth quarter
+results. Actually we were even favorable to those numbers. In the first quarter, we expect some
+of those to come back. The temporary nature of some of our savings will come back, so we
+expect to still be better by the permanent reductions. So our midpoint of our guidance is $191
+million, so that's at least for short term that's what we expect our OpEx to be. Beyond that, we
+don't expect to have any major changes except just for inflationary-based increases.
+Q - `Joshua Buchalter, Needham & Co. LLC `
+Okay. Thank you. That's helpful. And then given the step-down in revenue in the first quarter and
+your commentary about bookings increasing so far in January, I know you don't guide beyond the
+first quarter, but can we start to think about maybe an above seasonal second quarter given that
+qualitative commentary?
+A - Keith D. Jackson `
+Yeah, I think it's really too early to prognosticate there till after Chinese New Year this week.
+Q - `Joshua Buchalter, Needham & Co. LLC `
+Okay. That was worth a try. Thank you, guys.
+Operator
+Thank you. And our next question comes from the line of `Harlan Sur, JPMorgan Securities LLC with JPMorgan. Your line is
+now open.
+Q - `Harlan Sur, JPMorgan Securities LLC `
+Good morning. Thanks for taking my question. On the move to a more low-cost and variable-
+based COGS structure with more outsourcing, I think you had previously mentioned, talking aboutkind of mid-teens as a percent of your production output this year to be outsourced relative to, I
+think, kind of the 5% that you did last year. Do you now have a higher target mix in mind or are
+you just accelerating that move to kind of the 15% range?
+A - Bernard Gutmann `
+No. Actually our outsourcing model is, has been and will continue to be approximately 20%
+outsourced, 80% in-sourced. We think that's a great flex point for us and allows us to be most
+effective with our capital. These are really a shift inside of network that we're discussing, not a
+shift outside of network.
+Q - `Harlan Sur, JPMorgan Securities LLC `
+Got it. Okay. And then on the disty inventories, on a dollar basis, they were down. Can you just
+help us quantify days of inventory in distys in Q4 and help us understand whether they declined in
+days Q3 to Q4? I believe you guys were sitting at around nine and a half weeks exiting the
+September quarter?
+A - Bernard Gutmann `
+They're pretty flat in terms of weeks.
+Q - `Harlan Sur, JPMorgan Securities LLC `
+Okay. Thank you.
+A - Bernard Gutmann `
+Welcome.
+Operator
+Thank you. And our next question comes from the line of `Betsy Van Hees, Wedbush Securities, Inc. with Wedbush
+Securities. Your line is now open.
+Q - `Betsy Van Hees, Wedbush Securities, Inc. `
+Good morning. Thanks so much for taking my questions. Thanks, Keith, very much for the
+clarification on the inventory work still (41:27) in China on white goods in your consumer bucket.
+But with regard to industrial being flat to down quarter-on-quarter, I believe that you said that
+you're still seeing inventory also in China specifically that needed to be burnt off. What products
+need to be worked through and how long is this going to take, is this a one-quarter to two-
+quarter issue?
+A - Keith D. Jackson `
+Yeah, we actually think Q1 will see the majority of that, and it's really all building-related sales. So it
+shows up in equipment, it shows up in power supplies, it shows up in a broad sector of things that
+buildings require.
+Q - `Betsy Van Hees, Wedbush Securities, Inc. `
+Thanks, that was very helpful. And then my follow-up question is that, in 2015, you guys bought
+back $372 million of your $1 billion stock buyback. So with the stock hitting a 52-week low today,how should we be thinking about the strength of your buyback in light of the pending acquisition
+of Fairchild and a challenging macro backdrop?
+A - Bernard Gutmann `
+Yeah. So, right now, obviously with the impending acquisition of Fairchild, we are kind of on the
+wait-and-see mode, and after that, we'll be discussing it again.
+Q - `Betsy Van Hees, Wedbush Securities, Inc. `
+All right. Thanks very much.
+Operator
+Thank you. And our next question comes from the line of Craig Hettenbach with Morgan Stanley.
+Your line is now open.
+Q - `Vinayak Rao, Morgan Stanley & Co. LLC `
+Hi, this is Vinay calling in for Craig. Thanks for taking my question. I had a follow-up on
+communication. You're seeing weakness in the high-end, similar to a lot of your peers Just
+wanted to touch upon like what are the trends you are seeing at China OEMs and what kind of
+visibility do you have for the business for this year?
+A - Keith D. Jackson `
+So, China OEMs, there definitely seems to be some share consolidation to a small subset of the
+suppliers there. Overall, we're actually not seeing a big weakness, but we're certainly seeing
+more growth in that kind of mid-tier than we are at the high end. So our expectations for China-
+based handset companies is to grow this year, probably in the mid-to-high-single digits.
+Q - `Vinayak Rao, Morgan Stanley & Co. LLC `
+Got it. That's really helpful. For my follow-up, can you just talk about like the image sensor
+business, like post Aptina, you talked about improving gross margins of the business within the
+next couple of years. Can you just talk about any gross margin initiative, specifically apart from
+just mix, and how is that playing out and what should we expect this year?
+A - Keith D. Jackson `
+Well, we do have several manufacturing in-sourcing and cost reduction efforts underway, and
+those are not maybe as big as some of the mix changes, but they're certainly in the tens of bps
+for impact in 2016.
+Q - `Vinayak Rao, Morgan Stanley & Co. LLC `
+Got it. Thank you.
+Operator
+And our next question comes from the line of Shawn Harrison with Longbow Research. Your line is
+now open.
+Q - `Shawn M. Harrison, Longbow Research LLC `Hi. Good morning. I apologize if some of these are duplicative, I got on late. But I thought I heard
+a comment earlier about potential restocking activity necessary in the second quarter, and I was
+wondering if that view was more just based upon what you're seeing in bookings rates versus
+inventory in the channel, or are you actually hearing anecdotal commentary from distributors? And
+if so, was it the western distributors or particularly within China where you think these restocking
+events should occur?
+A - Keith D. Jackson `
+Yeah, we have a lot of data points that we use. We look at the orders on us from our distributors,
+we look at the orders on them from their customers and we also look in general at what's going
+on with our OEM and when we look at that, in essence we're seeing more orders from the OEMs
+and on our distributors' customers for them than we are orders on us from our distributors. So
+that's how we get there with that conclusion.
+Q - `Shawn M. Harrison, Longbow Research LLC `
+Okay. Is this globally focused or is there a regional dynamic at play?
+A - Keith D. Jackson `
+It's primarily Asia.
+Q - `Shawn M. Harrison, Longbow Research LLC `
+Okay. And then as my follow-up, as I said, I'm sorry if I missed this. But SANYO did that breakeven
+in the December quarter, as it's been doing for the past couple of quarters.
+A - Keith D. Jackson `
+No. Slightly negative. We had very significant headwinds revenue there on the consumer piece of
+that business in the fourth quarter as we announced. We don't expect that's a lasting thing, but it
+certainly was a big impact in Q4.
+Q - `Shawn M. Harrison, Longbow Research LLC `
+Okay. Thank you, Keith.
+Operator
+Thank you. And our next question comes from the line of Chris Rolland with FBR & Company. Your
+line is now open.
+Q - `Christopher Adam Jackson Rolland, FBR Capital Markets & Co. `
+Hey, guys. Thanks for the question. Just a follow-up there on SANYO. So you said it was slightly
+negative. Maybe if you guys could give us a new kind of breakeven quarterly run rate and then
+also kind of how we should think about a more sustainable run rate for these guys going forward?
+A - Keith D. Jackson `
+Yeah, the third quarter rates are what we expect to be more sustainable. We will continue to
+bring down our breakevens on that business, because we are not aiming for breakeven, we want
+profit and we'll be able to discuss that as part of our overall company cost improvements that I
+mentioned at the beginning of my remarks. So as we go through the year, we'll get the specificson that, but you can expect the breakeven to continue to come down for that business, and we
+should see that business operating back up in the $120 millions (47:20) very shortly.
+Q - `Christopher Adam Jackson Rolland, FBR Capital Markets & Co. `
+Okay, great. And then also perhaps you guys can talk about maybe some maximum debt metrics
+that you guys might take on for the company, is there anything that we can think about in terms of
+a max range for, let's say, like EBITDA, the debt or – sorry, EBITDA, the debt interest expense or
+just total debt-to-EBITDA?
+A - Bernard Gutmann `
+So I don't want to get into too much specifics, but pretty much we think that what we have out
+there right now to do the Fairchild's acquisition is appropriate in terms of leverage capability.
+Q - `Christopher Adam Jackson Rolland, FBR Capital Markets & Co. `
+And if you could just remind us, what kind of interest rate do you think you might be able to get
+to finance the Fairchild deal?
+A - Bernard Gutmann `
+So the indicative terms that we obtained on the commitment papers when we did the
+announcement in November was LIBOR plus 350 basis points on a term loan B with a LIBOR floor
+of 0.75%. The trade markets have tightened a bit since then, so it overall will be a little bit higher.
+Q - `Christopher Adam Jackson Rolland, FBR Capital Markets & Co. `
+Great. Thank you so much, guys.
+Operator
+Thank you. And I am not showing any further questions at this time. I would now like to turn the
+call back to Mr. Parag Agarwal for closing remarks.
+A - Parag Agarwal `
+Thank you, everyone, for joining the call today. We look forward to seeing you at various
+conferences during the quarter. Thank you and bye-bye.
+Operator
+Ladies and gentlemen, thank you for participating in today's conference. This does conclude the
+program and you may all disconnect. Everyone, have a great day.

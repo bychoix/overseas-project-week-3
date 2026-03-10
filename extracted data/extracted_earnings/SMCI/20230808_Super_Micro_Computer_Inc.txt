@@ -1,0 +1,484 @@
+Q4 2023 Earnings Call
+
+Presentation
+Operator
+Thank you for standing by. My name is Anna, and I will be your conference operator today. At this
+time, I would like to welcome everyone to the Super Micro Computer Fiscal Fourth Quarter 2023
+Results Conference.
+With us today `Charles Liang, Chief Executive Officer, Founder, President and Chief Executive Officer; `David Weigand, Chief Financial Officer,
+CFO; and Mike Staiger, Vice President of Corporate Development. All lines have been placed on
+mute to prevent any background noise. After the speakers' remarks, there will be a question and
+answer session. (Operator Instructions). Thank you.
+`Michael Staiger, Vice President, you may begin your conference.
+`Michael Staiger, Vice President `
+Good afternoon, and thank you for attending Supermicro's call to discuss Financial Results for the
+Fourth Quarter and Full Fiscal Year which ended June 30, 2023. With me today are `Charles Liang, Chief Executive Officer,
+Founder, Chairman and Chief Executive Officer; and `David Weigand, Chief Financial Officer, Chief Financial Officer.
+By now, you should have received a copy of the news release from the company that was
+distributed at the close of regular trading and is available on the company's website. As a
+reminder, during today's call, the company will refer to a presentation that is available to
+participants in the Investor Relations section of the company's website under the Events
+Presentations tab. We have also published management's scripted commentary on our website.
+Please note that some of the information you'll hear during our discussion today will consist of
+forward-looking statements, including without limitation those regarding revenue, gross margin,
+operating expenses and other income and expenses, taxes, capital allocation and future business
+outlook, including guidance for the first quarter of fiscal year 2024 and the full fiscal year 2024.
+There are a number of risk factors that could cause Supermicro's future results to differ materially
+from our expectations. You can learn more about these risks in the press release we issued
+earlier this afternoon, our most recent 10-K filing for fiscal 2022 and other SEC filings.All these documents are available on the Investor Relations page of Supermicro's website. We
+assume no obligation to update any forward-looking statements. Most of today's presentation
+will refer to non-GAAP financial results and business outlook. For an explanation of our non-GAAP
+financial measures, please refer to the accompanying presentation or to our press release
+published earlier today. In addition, a reconciliation of GAAP to non-GAAP results is contained in
+today's press release and in the supplemental information attached to today's presentation. At
+the end of today's prepared remarks, we will have a Q&A session for sell-side analysts to ask
+questions.
+I will now turn the call over to Charles.
+`Charles Liang, Chief Executive Officer `
+Thank you, Michael, and good afternoon, everyone. Today, I am pleased to announce a new
+record fiscal result of $7.12 billion annualr evenue, a 37% year-over-year growth rate. We have also
+achieved our first landmark $2.18 billion quarter, which is 34% growth year-over-year and 70%
+quarter-on-quarter.
+We are continuing to exceed both top and bottom-line results and performing well beyond our
+previously guided ranges. It's no secret that our strong growth has been driven by the demand
+for our leading AI platforms in plug-and-play rack-scale, especially for the large language model
+optimized NVIDIA HGX-based Delta Next solution.
+Our engineering capability enabled us to deliver optimized, first-to-market AI products and
+solutions to our customers, distinguishing us from the competition and empowering us to take
+market share.
+I am also proud of our logistics and production teams' execution to maintain our time to market
+advantage and deliver our total solution to our key partners much sooner than competition. Our
+investment of 4,000 racks-per-month state-of-the-art validation and production facility in Silicon
+Valley is one of the major factors in delivering high-performance AI racks quickly with both air-
+cooled and liquid-cooled options.
+Let's go over some key financial highlights. First, we enter fiscal year '24 with record-high
+backorders, many more new design wins and new customers. Again, our first -- our fiscal year
+2023 net revenue totaled $7.12 billion, up 37% year-on-year, above our mid-point guidance range
+of $6.7 billion. Fiscal year 2023 non-GAAP earnings per share grew 109% year-over-year to $11.81,
+compared to $5.65 a year ago, exceeding the higher end of our revised guidance range of
+$10.50 to $11.00.
+Fiscal Q4 net revenue totaled $2.18 billion, up 34% year-on-year and up 70% quarter-on-quarter
+above our guidance range of $1.7 billion to $1.9 billion. Fiscal Q4 non-GAAP earnings of $3.51 per
+share grew 34% year-over-year compared to $2.62 a year ago, and it was well above the high
+end of our guidance range of $2.21 to $2.71, demonstrating strong operating leverage and
+continued customer preference towards our rackscale Total IT Solutions.
+For 30 years, we have been diligently building our company strength and foundation. As the only
+US-based scale AI platform designer and manufacturer, we have been shipping our winning
+products in volume to our partners for more than a quarter. Couple of months ago, I was honored
+to have my close friend, NVIDIA's CEO Jensen Huang, join me on stage at Computex to highlight
+our optimized new generation GPU solutions for this AI era.We are deploying not just systems, but complete rack-scale total solutions to large generative AI
+innovators. Supporting HGX H100 Delta-Next, H100 PCIe GPUs, and the just-announced L40S
+GPUs. Our Delta-Next, Redstone-Next, and 8-GPU OVX systems have become the benchmarks
+of excellence for the industry. We are also getting good traction on Intel's Gaudi 2 and PVC, as
+well as AMD's MI-250 accelerator solutions.
+The demand for artificial intelligence infrastructure is perfectly addressed by our building block
+server architecture. And due to our building block solution, we have the best and broadest
+application-optimized GPU solutions on the market. We plan to extend this leadership with the
+upcoming MGX platforms that we announced at Computex, bringing modular flexibility on
+acceleration with X86,
+Grace (C2), and Grace-Hopper (CG1) Superchip.
+The MGX platform is a shared vision of AI computing between NVIDIA and Supermicro, designed
+to be open, flexible and future proof for multiple generations of GPUs, CPUs, and DPUs. We
+already have many customers engaged with these new MGX platforms as we speak, and soon
+they will be in volume production.
+With nearly half of our revenues this quarter based on AI-related designs, I expect this AI growth
+momentum to continue expanding our TAM across all customer types from major AI innovators,
+super large CSPs, Tier 1 data centers, Tier 2 cloud, and to the general enterprise market. As the
+performance of GPU, CPU, DPU and memory technologies increase, enhanced storage
+performance is also necessary to feed massive data sets to the applications without becoming a
+bottleneck that slows the entire system down.
+Supermicro's new PCIe Gen 5 based E1.S and E3.S Petascale All-Flash storage servers offer
+industry-leading storage performance and
+Capacity. Together, with our U.2 NVMe, top-loaded scale-out and traditional storage platforms,
+we are fulfilling customers' AI, compute, and storage needs with a one-stop total solution
+Shopping experience, with the best optimization in performance, time-to-online, and cost.
+With accelerated computing and storage, the power consumption and thermal challenges of
+these new technologies have risen dramatically. 40 kilo watt or even 100 kilo watt rack solution
+demand is rapidly expanding and required for compute-intensive data center, CSP, and other
+verticals. Having high power efficiency, free-air and liquid cooling expertise has become one of
+our key differentiators of success.
+We have made major investments across a variety of technologies to drive adoption of direct
+liquid cooling in datacenters to address the thermal challenges. In addition to increasing
+computing density and reducing TCO, liquid cooling reduces the environmental impact of
+datacenters dramatically, aligning with our green computing mission. Similarly, our liquid
+immersion solution is making good progress, and we will be happy to provide that option to
+interested partners soon.
+The reality is that data center infrastructure is getting more complex, especially with the
+unprecedented demand for AI. The design complexity and integration skills, along with the
+requirement to deploy in a timely fashion are heavy burdens to many end customers. Supermicro
+Total IT Solutions approach saves them from the complications of design, validation, sourcing,
+and integration. It also streamlines network switching, firmware and software management indatacenter scale. Customers' peace of mind is topped off by the value of our 24/7 Global Service
+tiers.
+Given the current infrastructure demand, we have been continuing to evaluate our footprint
+beyond our recently announced Malaysia expansion. We have recently added another new
+building close to our Silicon Valley headquarter and are aiming to further increase our current
+4000 rack per month capacity in this fiscal year.
+To further support demand from key domestic partners, we are also planning to build another
+manufacturing campus in North America. At this moment, our US HQ and Taiwan facility can
+support at least $15 billion in revenue while the new Malaysia facility will further increase our total
+revenue capability by serving largest scale (inaudible) customer on a reduced cost structure in the
+coming few quarter.
+In closing, Supermicro is in a great position to continue our growth momentum with our leading AI
+portfolio, our infrastructure readiness, and our ability to deliver products in a timely manner. Due
+to the current key components supply shortages, we forecast revenue in the range of $1.9 billion
+to $2.2 billion for the September quarter. However, given the record high backlog, we see fiscal
+year 2024 revenue between $9.5 billion to $10.5 billion with room to deliver more depending on
+availability of supply.
+Our role as the leader of rack-scale Total AI and IT Solutions has only just begun. We are ready to
+deliver optimized AI infrastructures to existing and emerging markets, along with our value-added
+software and services. To say it plainly, our foundation and capacity are fully ready, and our
+demand is growing strongly. With LLM, Large Language Model, and other AI applications
+booming, I now expect the $20 billion annual revenue target to be just a couple of years away.
+Before passing the call to `David Weigand, Chief Financial Officer, our Chief Financial Officer, I want to say thank you to
+our partners, customers, Supermicro employees and our shareholders for your continued
+support. Thank you. David?
+`David Weigand, Chief Financial Officer `
+Thank you, Charles. Fiscal fourth quarter revenues were $2.18 billion, up 34% year-over-year and
+up 70% quarter-over-quarter. Q4 revenues exceeded initial guidance range of $1.7 billion to $1.9
+billion and were at the high end of the recently updated range of $2.15 billion to $2.18 billion. For
+Fiscal 2023, we reported revenues of $7.12 billion, representing 37% growth over fiscal year '22
+revenues of $5.2 billion.
+Next generation CPU and AI platforms continue to drive record levels of design wins and orders.
+Exiting fiscal year 2023 with a record backlog, we are well positioned for fiscal year '24 with an
+outlook for continued revenue growth and profitability. We expect diversified growth driven by
+top-tier datacenters, emerging CSPs, enterprise AI build-outs, CPU upgrades, and
+edge/IOT/telco markets. We are also targeting new opportunities in adjacent markets such as
+Storage, Switches, Software and Services. We note that our shipments against a record backlog
+may continue to be constrained by supply chain bottlenecks for key new components for our
+advanced AI server platforms.
+Q4 results were driven by our high-growth AI/GPU and rack-scale solutions which represented
+52% of our total revenues. We had two 10% customers for Q4 and did not have any 10%
+customers for FY23. During Q4, we recorded $976 million in the Enterprise and Channel vertical,
+representing 45% of revenues versus 50% last quarter, this was up 19% year-over-year and up
+51% quarter-over-quarter as we ramped several key enterprise programs.The OEM appliance and large datacenter vertical achieved $1.17 billion in revenues, representing
+53% of Q4 revenues versus 47% last quarter, up 59% year-over-year and up 94% quarter-over-
+quarter as we gained momentum with existing and new datacenter, CSP, and OEM cloud
+appliance customers. Our emerging 5G, Telco, Edge and IoT segment achieved $43 million in
+revenues, representing 2% of Q4 revenues versus 3% last quarter.
+For the fiscal year 2023, Organic Enterprise and Channel and AI ML revenues grew 10% to
+represent 48% of total revenues. The OEM appliance and large datacenter segment grew 102%
+and represented 49% of total revenues. The emerging 5G, Telco, Edge, IOT segment decreased
+36% and represented 3% of total revenues. The mix of complete systems and rack-scale Total IT
+Solutions has increased over the last two years. Server and Storage Systems comprised 93% of
+Q4 revenue and Subsystems and Accessories represented 7%.
+ASPs continued to increase on a quarter-over-quarter and year-over-year basis driven by the
+value and complexity of our rack-scale Total IT Solutions. By geography, US represented 76% of
+Q4 revenues, Asia 11%, Europe 10%, and Rest of World 3%. On a year-over-year basis, US
+revenues increased 55%. Asia decreased 17%, and Europe increased 1%, and Rest of World
+increased 12%. On a quarter-over-quarter basis, US revenues increased 112%, Asia increased 10%,
+Europe decreased 1%, and Rest of World increased 11%.
+The Q4 non-GAAP gross margin was 17.1%, down quarter-over-quarter from 17.7% in Q3 as we
+focused on winning strategic new designs and market share. For fiscal year '23, the non-GAAP
+gross margin of 18.1% versus 15.4% for fiscal year 2022 was driven by an increased rack-scale
+production and customer mix and higher manufacturing efficiencies.
+Turning to operating expenses, Q4 OpEx on a GAAP basis increased by 14% quarter-over-quarter
+and 19% year-over-year to $145 million driven by headcount and related expenses. On a non-
+GAAP basis, operating expenses increased 14% quarter-over-quarter and 17% year-over-year to
+$133 million. Our non-GAAP operating margin increased significantly to 11% for Q4 versus 8.7% last
+quarter due to operating leverage driven by higher revenues that outpaced increases in
+operating expenses.
+For fiscal year '23, we achieved a non-GAAP operating margin of 11.4% versus 7.2% in fiscal year
+'23 due to higher gross margins and operating leverage from higher revenues and expense
+controls. Other Income and Expense for Q4 was an expense of approximately $1.5 million
+consisting of $3.5 million in interest expense offset primarily by a net foreign-exchange gain of
+$2.0 million. Our interest expense increased sequentially as we utilized our short-term credit lines
+for working capital requirements along with higher short-term interest rates on our borrowings.
+The tax provision for Q4 was $31.3 million on a GAAP basis and $36.6 million on a non-GAAP
+basis. The GAAP tax rate for Q4 was 13.9% and the non-GAAP tax rate was 15.4%. The GAAP tax
+rate was 14.7% for fiscal year '23 versus 15.7% in fiscal year '22 and the non-GAAP tax rate was
+15.9% versus 17.7% in fiscal year '22.
+We delivered strong Q4 non-GAAP diluted earnings per share of $3.51 which exceeded the high
+end of the original guidance range of $2.21 to $2.71 and the recently updated range of $3.35 to
+$3.45. The increase in Q4 EPS was due to a combination of higher revenues and operating
+leverage. For the full fiscal 2023, we reported non-GAAP diluted EPS of $11.81, up 109% year-over-
+year versus fiscal 2022 non-GAAP diluted EPS of $5.65 and higher than the fiscal year '23
+guidance of $10.50 to $11.00.
+Cash flow used in operations for Q4 was $9 million compared to cash flow generated byhigher accounts payable from backend loaded shipments in the quarter due to supply constraints.
+CapEx was $8 million for Q4 resulting in negative free cash flow of $17 million versus positive free
+cash flow of $190 million last quarter.
+For fiscal year '23, we had free cash flow from operations of $664 million, CapEx of $37 million
+resulting in free cash flow of $627 million. We have $50 million remaining under the authorized
+share buyback program which expires on January 31, 2024. The closing balance sheet cash
+position was $440 million, whilst bank debt was $290 million resulting in a net cash position of
+$150 million down from net cash position of $176 million last quarter as we utilized our bank lines
+of credit to support higher revenues and accounts
+Receivable as we ramped up production of new AI/GPU design wins.
+Turning to the balance sheet and working capital metrics compared to last quarter, the Q4 cash
+conversion cycle improved to 77 days versus 126 days in Q3. Days of Inventory was 75,
+representing a decrease of 51 days versus the prior quarter of 126 days. Days Sales Outstanding
+was down 13 days quarter-over-quarter to 38 days while Days Payables Outstanding came down
+by 15 days to 36 days. Faster inventory turns contributed to the improvement in our cash
+conversion cycle.
+Now turning to the outlook. We remain enthusiastic about our diversified business model covering
+a wide range of AI, core computing, storage, 5G telco/edge and IOT applications. Design wins
+span across enterprise channel, large datacenter and emerging AI CSP, and Telco and OEM
+customers. We are carefully observing the global macro-economic situation and continuing
+supply-chain constraints especially for leading AI platforms.
+For the first quarter of fiscal 2024 ending September 30, 2023, we expect net sales in the range
+of $1.9 billion to $2.2 billion, GAAP diluted net income per share of $2.02 to $2.80 and non-GAAP
+diluted net income per share of $2.75 to $3.50. We expect gross margins to be similar to Q4
+levels. GAAP operating expenses are expected to be approximately $185 million and include $48
+million in stock-based compensation and other expenses that are not included in non-GAAP
+operating expenses. GAAP and non-GAAP operating expenses are expected to increase due to
+continued investments in R&D and higher personnel costs adding to our great engineering
+teams.
+The outlook for Q1 of fiscal year 2024 fully diluted GAAP EPS includes approximately $44 million in
+expected stock-based compensation and other expenses, net of tax effects of $9 million, which
+are excluded from non-GAAP diluted net income per common share. We expect other income
+and expense, including interest expense, to be a net expense of approximately $1.5 million.
+The company's projections for GAAP and non-GAAP diluted net income per common share
+assume a GAAP tax rate of 14.7%, a non-GAAP tax rate of 15.4%, and a fully diluted share count of
+56 million for GAAP and 57 million shares for non-GAAP. We expect CapEx for the fiscal first
+quarter of 2024 to be in the range of $10 million to $12 million. For the fiscal year 2024, which
+ends June 30, 2024, we are giving guidance -- sorry, the first fiscal year 2024, which ends June
+30, 2024, we are giving guidance for revenues in the range $9.5 billion to $10.5 billion.
+Okay, Michael, we're now ready for Q&A.
+`Michael Staiger, Vice President `
+Operator?Operator
+(Operator Instructions) Now, we have the first question, comes from the line of Neil Koski [ph]
+from Northland Capital Markets. Your line is open.
+Q - Unidentified Participant
+Thank you. And congratulations on an amazing quarter and an amazing fiscal year 2024 revenue
+guidance of $9.5 billion definitely want to dig into that. First off, Charles, I think you said you had
+50% of revenue exposure AI for the June quarter. That's an incredible mix very strong statement
+that Supermicro indeed the leader in AI systems. What do you think is a sustainable differentiation
+that you guys are well being with rack-scale AI systems that's driving that incredibly fast increase
+in revenue exposure AI systems?
+A - `Charles Liang, Chief Executive Officer `
+Yeah. Thank you for your question. AI had been our major focus it seems [ph] a few years ago
+and we're working with AI chip company kind of NVIDIA very closely. And we call the lots of
+platform including our NGX -- now coming NGX as you know who support our C2 and CG1. So our
+AI solution with rack-scale, cloud scale, cost of scale solution, that make our customers deploy
+even much easier. And full (inaudible), AI solution will energy close to the savings will time to
+online. So I believe, our AI about $9 billion. We are currently on the growth in the near maybe a
+continue to be a more than 50% of our revenue.
+Operator
+Next question comes from the line of `Mehdi Hosseini, Analyst, Susquehanna International Group from Susquehanna International Group.
+Your line is open.
+Q - `Mehdi Hosseini, Analyst, Susquehanna International Group `
+Yes, sir. Thanks for taking my question. It ensures, I think it would be very helpful if you could
+(Technical Difficulty) $10 billion of revenue and perhaps any clear color on, as we increase
+doubling capture your increased content would give us an insight unless you have other ways of
+explaining to get to $10 billion.
+A - Unidentified Speaker
+We continue to gain lots of new customer. All partner will continue to like our solution and we can
+be under gaining new customers. We sell rack-scale, cloud scale, total solution, including air cool
+and liquid cool, right. So, we see a very strong demand and growing very fast echoed, so $10
+billion should be kind of total target for sure.
+Q - `Mehdi Hosseini, Analyst, Susquehanna International Group `
+The question, your competitors also argue for an innovative cooling and they also argue for share
+gain. Is there something with your cooling technology that is better -- offers better cost
+performance compared to some of the emerging cooling that you're competitors are marketing
+or talk about.
+A - `Charles Liang, Chief Executive Officer `
+Yeah, indeed, our engineering team is strong and dedicated. Everyone can design in system, lot
+whole system seem pretty better than others, not just better in quality performance also, earliercome to-market, and together with the service, sort of (inaudible) management. So it's a total
+submission in-service.
+So, we feel pretty confident that we will continue to gain market share.
+Q - `Mehdi Hosseini, Analyst, Susquehanna International Group `
+Okay. Maybe the cost of AI becoming more than 50% of your revenue. How is your pipeline as
+you look into second half of calendar year? Do you already have a pipeline that gives you
+confidence, you're going to hit that 50% plus AI as the mix of revenue or you still have to go and
+qualify and win the business to hit that target?
+A - `Charles Liang, Chief Executive Officer `
+Indeed, in our pipeline have been very strong. And that is moment, the visibility is very clear. So,
+we are very confident. It's basically another game in customer too.
+Operator
+Your next question comes from the line of Jon from Tanwanteng. Your line is open.
+Q - `Jon Tanwanteng, Analyst, CJS Securities `
+Hi, good afternoon, thank you for taking my questions and congrats on a really strong quarter
+outlook again. My first one is, I just wanted to dig into your confidence for the outlook. Can you
+just -- in various parts, maybe talk about your confidence in supply-chain, being able to supply that
+maybe 40% growth guidance at the midpoint. Maybe talk about your ability to get allocations
+from key suppliers.
+And then within your order book and backlog, what is your assurance or how can you identify if
+there's double or triple ordering and how do you protect yourself against that if they do exist?
+A - `Charles Liang, Chief Executive Officer `
+Yeah, it's a complicated question. We have a very good product, many product line for data mix,
+for (inaudible) and other solutions. So, including the (inaudible). So, the solution is really strong
+and supply chain, we won't go with our vendor really closely every day. And so, hopefully that
+situation will be consistently improve, but it's not 100% controlled by our sales. So overall, we
+have a good partnership. We spend with customer. So we looked at it very, very closely. And
+situation, we have been continuing improving I believe.
+Q - `Jon Tanwanteng, Analyst, CJS Securities `
+And on the order side?
+Operator
+Your next question... Are we ready for the next question?
+A - `Charles Liang, Chief Executive Officer `
+No. Jon, did you have follow...
+Q - `Jon Tanwanteng, Analyst, CJS Securities `In order side, protection gets double and triple.
+A - `Charles Liang, Chief Executive Officer `
+Yeah. And see the order side, I mean, the back order have been continue growing strongly. Every
+month I see the order growth.
+A - `David Weigand, Chief Financial Officer `
+Also, Jon, we have a lot of -- NCRO orders as well, that protects against double and triple
+booking.
+Operator
+Okay. Your next question comes from the line of `Ananda Baruah, Analyst, Loop Capital from Loop Capital. Your line is
+open.
+Q - `Ananda Baruah, Analyst, Loop Capital `
+Yeah, good afternoon guys and thanks for taking the question. Yeah, congrats on the strong
+results. In the ongoing momentum, I have a couple if I could. Charles, you've talked in the
+prepared remarks about the unprecedented demand you're seeing. And you guys have talked
+about, actually, adding new customers, including top-tier data center customers, I think you
+mentioned. And some of these Gen AI server forecasts for 2024 calendar are really, really strong.
+You also talking about gaining share, et cetera, et cetera.
+And so, I guess the first question is, what's the opportunity we see to maybe even do achieve
+stronger than the 25 -- fiscal '24 guidance. I guess, what would be the puts and takes there. And
+if you were to be able to exceed the 2024 guidance, what would be some of the things you think
+would need to occur? And then I have a quick follow-up. Thanks.
+A - `Charles Liang, Chief Executive Officer `
+Yeah, thank you, very good question. Again, we continue to gain generative AI innovator, and we
+have a very good partnership. We started shipping them some (inaudible) And for sure, they
+need a 10 time -- 20-time more system and we just can actually bear this moment because of the
+supply chain. And at the same time, we also continue to engage with largest CSP and large data
+center. So we continue to gain more customers from, I would say IoT vertical.
+So, yes, had to work hard with supply chain. So, this invention [ph] allows for prior all customer in
+our sale and not have been our major focus now. Although, we continue to improve our solo AI,
+total data centers that we change, included in TARC[ph], direct, deep cooling and deeply
+immersive solution. So, I mean, we are on right track. Yes, expecting a supply chain can improve,
+so that we can grow our revenue.
+Q - `Ananda Baruah, Analyst, Loop Capital `
+That's really helpful. And so, Charles, just to make sure that I understood that accurately. Just to
+say, yes, if the supply chain -- So if you can get more from the supply chain. Well, actually say this
+way, you have order visibility such that, if you can procure more, you would have the ability to
+share gains, see exceed the fiscal '24 range that you provided is really a supply-chain issue. I
+guess what I'm asking, did I hear that accurately?
+A - `Charles Liang, Chief Executive Officer `Yeah, absolutely. I mean, we continue to prove to our customers and our vendor. They have -- we
+have a business solution. So, look we say, that's the way we went for everyone.
+Q - `Ananda Baruah, Analyst, Loop Capital `
+I got it. And then let me just ask a quick follow-up to that one. Is there anyway you guys could
+provide any context for us around? I guess how constrained you're, like what might the demand
+outlook sort of look like if you were not constrained? So it's not like guidance, right, obviously
+bigger guidance suggests context for us to really get a sense of what the structural positioning of
+the company is, if there were --
+A - `Charles Liang, Chief Executive Officer `
+Yeah, I think we have the benefit of all that and we have a very good customer and we pushed
+our vendor. And we know our vendor (inaudible) that will support us at the same time as well. So
+we just hadn't (inaudible).
+Q - `Ananda Baruah, Analyst, Loop Capital `
+All right, Charles. I have one more quick one. I'll move away from demand, I appreciate it. It
+sounds like the gross margin guidance for the September quarter is a pretty solid most attractive
+guide. For fiscal '24, should we assume that 17% gross margin range or what's the right way to
+think about that? And that's it for me. Thanks.
+A - `David Weigand, Chief Financial Officer `
+Sure. This is David. So we're targeting to hold our margins. And that's all the guidance that we'll
+give right now.
+Operator
+Your next question comes from the line of `Aaron Rakers, Analyst, Wells Fargo from Wells Fargo. Your line is open.
+Q - `Aaron Rakers, Analyst, Wells Fargo `
+Yeah, thanks for taking the questions. And also congrats on the results. So I -- first of all I just
+wanted to clarify, I want to make sure I heard the number right. Is it 50% or 52% of the revenue
+that was from your AI rack-scale solutions this last quarter?
+A - `David Weigand, Chief Financial Officer `
+Yeah, Aaron, Charles in his script said approximately 50% and I clarified 52%.
+Q - `Aaron Rakers, Analyst, Wells Fargo `
+Okay. And so I guess the question underneath that is that -- one of the questions I get asked a lot
+about is the spend around AI being so strong and it sounds like, obviously you're carrying a pretty
+good backlog looking out over the next several quarters, given the supply dynamics. But if I take
+that number and I say that non-AI business, how has that trended or basically are you reallocating
+capacity away from more of the non are traditional compute side to satisfy demand on the AI
+side? Or have you seen spending slowdown outside of these AI investments that you're clearly
+benefiting from?
+A - `Charles Liang, Chief Executive Officer `Yeah. AI servers (inaudible) IOT takeaway. We keep a level and it'll be flat, understand the
+industry and it will be declining. We are rolling out the Canadian above fed and we try to grow as
+well and that's why we are growing in a minute direction kind of manufacturing in Taiwan, Malaysia
+and we may have another medical campus. So that's all to increase our capacity. So that we can
+grow traditional data center (inaudible) instead of walking you folks on a growing AI.
+Q - `Aaron Rakers, Analyst, Wells Fargo `
+Okay. So just to be clear. I mean, so you're limiting -- you're limited on your supply on the
+traditional compute side because of the AI demand that you're seeing, is that fair?
+A - `Charles Liang, Chief Executive Officer `
+Not exactly. Impacted by Executive [ph] indeed. As you know, the traditional server -- traditional
+data center business and it'll be flat from the demand side. So we're quite into similar experience
+as well, but not declining.
+Q - `Aaron Rakers, Analyst, Wells Fargo `
+Yeah, okay. And then the final question from me is just thinking about the AI opportunity and I
+think you alluded to this a little bit in your prepared comments. You mentioned positioning around
+I think it was the Intel chip and then also I think another vendor coming to market the DMI 300
+from AMD. How do you see that playing out for your opportunity? Does it help satisfy demand?
+Are you seeing indicators that this AI opportunity is going to be much more diversified here as we
+move into 2024 versus what you've seen on the NVIDIA side at this point. Just curious how you're
+seeing kind of the competitive landscape or maybe opportunity set expand for you guys with
+those newer -- other solutions coming to market?
+A - `Charles Liang, Chief Executive Officer `
+Yeah, NVIDIA solution and people already working for NVIDIA more supply. And others solution
+from India, from AMD because outbidding bulk solution. We have a solution ready for all over
+them. So that's the advantage we have. So yes, waiting for them, a solution to be available in
+(inaudible)
+Q - `Aaron Rakers, Analyst, Wells Fargo `
+Yeah. Thank you very much, guys.
+A - `Charles Liang, Chief Executive Officer `
+Thank you.
+Operator
+Your next question comes from the line of Jon from [ph] Tanwanteng. Your line is open.
+Q - `Jon Tanwanteng, Analyst, CJS Securities `
+Hi, thanks for the follow-up. Dave, I was wondering if you could talk about your working capital
+needs in this sort of environment. Can you generate positive cash flow going forward or are you
+going to be using cash as you try to fulfill the supply demand?
+A - `David Weigand, Chief Financial Officer `Yeah, Jon, we see the business generating good cash flows as it has historically. And we think
+that the -- especially in this constrained supply market, where we could deliver more if we had
+more supply, but really the constrained supply ends up moderating the working capital. And so
+we grew our business last quarter quite a bit through our AR. So that utilized a lot of working
+capital, but we have no concerns about working capital.
+Q - `Jon Tanwanteng, Analyst, CJS Securities `
+Okay, great. And then, could you guys give a little bit more detail on the capacity expansion and
+when those various facilities come online? And what exactly the AI?
+A - `David Weigand, Chief Financial Officer `
+Sure. We have Malaysia, which is expected to come online in around 12 to 15 months. And that's
+going to -- that will eventually double our capacity and we also have additional capacity coming
+online and are building '23 here in our Silicon Valley campus. And we've also added, as Charles
+mentioned, another site in San Jose with intentions to add another site in the Americas.
+Q - `Jon Tanwanteng, Analyst, CJS Securities `
+Got it. And then last one from me, maybe a more detailed question. What percentage of your AI
+sales right now are liquid cooling base? And do you expect that percentage to increase as we go
+forward?
+A - `Charles Liang, Chief Executive Officer `
+This is a very new question. So we had a very good -- direct I think we could lead solution ready to
+go now. And it all depends on the customer demand. And at the same time, the deep emotion
+solution also getting ready. So we have all that we should and depends on customer demand.
+And this remains for sure, air cool still a majority as you know.
+Q - `Jon Tanwanteng, Analyst, CJS Securities `
+Okay, great. Thanks, Charles.
+A - `Charles Liang, Chief Executive Officer `
+Thank you.
+Operator
+Your next question comes from the line of Neil Koski [ph] from Northland Capital Markets. Your
+line is open.
+Q - Unidentified Participant
+Yeah, thank you for the follow-up question. So NVIDIA successfully guided their July quarter data
+center revenue to execute in Q2. What does that mean for Supermicro in terms of GPU systems,
+especially what I'm trying to drive is that is there a lag between when NVIDIA gets a recognized
+revenue and when the rest of OEMs gets recognized revenue?
+A - `Charles Liang, Chief Executive Officer `
+We believe their capacity are growing and that's why we talk to them every day, asking for more.
+So hopefully we can gather more support from them. And hopefully their capacity can growsmoothly, quickly. So that's all I can say now.
+Q - Unidentified Participant
+Okay. Do you have a guess on what is your AI-related market share during the June quarter? And
+why they're -- that was not up Q-o-Q?
+A - `David Weigand, Chief Financial Officer `
+We don't have -- we're not going to offer a market share for the June quarter, you can make
+some assumptions by looking at the results of others. But we have -- we sell different GPUs as
+Charles mentioned. So it varies a -- it's not a direct correlation.
+A - `Charles Liang, Chief Executive Officer `
+Yeah, basically we have a strong order -- back order and we still have lots of capacity. We're also
+waiting for more AI. That's our situation.
+Q - Unidentified Participant
+Yeah, understood. And how should we think about distributing the remaining $8 billion across the
+final three quarters here?
+A - `David Weigand, Chief Financial Officer `
+We -- we're not going to announce quarter-by-quarter our guidance. But we're expecting this to
+be a robust year. And as tempered by the Natural Supply constraints because of the popularity of
+these new platforms.
+A - `Charles Liang, Chief Executive Officer `
+Yeah, basically NVIDIA, we are at a more capacity for sure. And we're really happy to wait over
+there. And besides, other than data mix, our (inaudible) mix is a company that is ready and our
+CET1 solution is pretty much ready as well. So we believe we can ship much more in that situation.
+So in next four quarter, I believe we will continue to grow quarter after quarter.
+Q - Unidentified Participant
+Thank you very much.
+A - `Charles Liang, Chief Executive Officer `
+And your supply commission, I believe we can surpass $10.5 billion which you are [ph] EGD.
+Operator
+Thank you everyone for joining. We have no time for questions at this time. And this will conclude
+today's conference call. You may now disconnect.

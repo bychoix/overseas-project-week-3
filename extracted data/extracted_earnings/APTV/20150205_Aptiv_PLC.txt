@@ -1,0 +1,726 @@
+Q4 2014 Earnings Call
+
+Operator
+Good morning. My name is Crystal and I will be your conference facilitator today. At this time, I
+would like to welcome everyone to Delphi's Fourth Quarter 2014 Earnings Conference Call. All
+lines have been placed on mute to prevent any background noise. After the speakers' remarks,
+there will be a question-and-answer session.
+I would now like to turn the call over to Jessica Holscott, Delphi's Vice President of Investor
+Relations. Jessica, you may begin your conference.
+`Jessica L. Holscott, Vice President-Investor Relations `
+Thank you, Crystal, and thanks for joining our Fourth Quarter Earnings Call. To follow along with
+today's presentation, our slides can be found at delphi.com under the Investor section of the
+website. Please see slide two for a disclosure on forward-looking statements, which we will be
+making on today's call. It only reflects Delphi's current view of future financial performance, which
+may be materially different from our actual performance.
+Joining us today will be `Rodney O'Neal, Chief Executive Officer and President, Delphi's CEO and President, our Chief Operating Officer
+Kevin Clark, as well as Mark Murphy, our CFO.
+As seen on slide three, Rod will begin with an overview of the quarter, followed by Kevin who will
+discuss the company strategy, and then Mark will cover the financial results and the 2015 outlook
+in more detail.
+With that, I'd like to turn it over to Rod.
+`Rodney O'Neal, Chief Executive Officer and PresidentThank you, Jessica. Good morning, everyone. Deeply appreciate you joining us today.
+Before we get into the presentation, I just want to spend a few moments with some words that
+I'd like to share with you. In my 43-year career, I've pretty much seen it all, and never have I had
+more confidence in a management team than the Delphi's management team. I think our track
+record since the IPO, it speaks for itself, and I truly believe that this company is well positioned for
+the future. And as you will see today, we have delivered another great year in 2014, and you
+should have tremendous confidence that 2015 and beyond will be even better.
+I want to thank you all personally for your support of me and of this company. It's been an honor,
+and it's been an absolute privilege to have served you as Delphi's CEO.
+Now let's turn our focus to the results, moving to slide five. We ended 2014 with a record fourth
+quarter. Revenue was up 3%, (02:37) up 10%, margins expanded 120 basis points and EPS, up
+18%. And for the year, Delphi's revenues were $17 billion, up 4%, and our earnings per share
+increased 16%.
+So in summary, as I said, 2014 was a great year, and we are confident in Delphi and our earnings
+outlook for 2015. And as we've told you in the past, we've built an operating model that allows us
+to flex our cost structure to deliver our margin, cash flow and earnings per share commitments.
+We will also continue to maintain our focus on capital allocation. We returned over $1.3 billion to
+the shareholders in 2014, and our board recently approved a $1.5 billion share repurchase plan.
+So in summary, I am confident that we will continue to deliver on the strategic imperatives that
+drive shareholder value.
+So Delphi has a lot to be excited about, and I'm extremely proud of our continued strong results;
+it's a testament to the focus that Delphi has on technologies that our customers want and that
+the markets are demanding.
+And with that, I'll turn the call over to Kevin.
+`Kevin P. Clark, Chief Operating Officer `
+Well, thank you, Rod. Good morning, everyone.
+Let me start by thanking Rod for his dedication and commitment to Delphi. Rod has led the
+company through a successful transformation, and has really positioned the company as an
+industry leader. Under his leadership, Delphi has established a track record of strong execution
+for our customers and tremendous value creation for our shareholders.
+We're confident we have the right strategy, the right management team and the right execution
+formula to build on our accomplishments and drive continued success. We've been very fortunate
+to have such a great leader, and I'm honored to succeed Rod as Delphi's next CEO.
+So as you can see on slide seven, our priorities for this year remain unchanged. Our first is
+disciplined revenue growth with a focus on continuing to diversify our mix of customers and
+regional revenues. Our second is to expand margins. The optimization of our operating footprint
+has resulted in the industry's absolute best cost structure, which translates into significant
+operating leverage and very strong margin expansion.
+Our third priority is to increase returns. We have a track record of deploying capital in a very
+disciplined manner. As Rod just mentioned, we returned over $1.3 billion of capital to shareholders
+in 2014 through both dividend and share repurchases. And our board recently authorized a new$1.5 billion share repurchase program. During the same period, we also closed two acquisitions. In
+summary, we remain intensely focused on the priorities that will continue to drive increased
+shareholder value.
+Now turning to slide eight. We booked $7.5 billion of new business in the fourth quarter, bringing
+the year-to-date total to over $25 billion. In January this year, we experienced very strong
+bookings totaling almost $3 billion, reflecting slippage of select bookings out of the fourth
+quarter into the first quarter of this year.
+Awards during the fourth quarter included Toyota ECU award within the Powertrain segment, a
+Conquest Daimler wiring award as well as an active safety award, including a domain controller
+with a large European OEM, to name just a few. We also had a very balanced mix of regional
+bookings supporting our revenue diversification goals.
+Slide nine provides a snapshot of our fourth quarter results. As Rod mentioned, revenue was up
+approximately 3%, two points over market. Operating margins expanded 120 basis points to a
+record 12.5%, representing 16% EBITDA margins and earnings per share increased almost 18% to
+$1.32.
+Slide 10 covers our full year results. Revenues increased roughly 4% to over $17 billion. Operating
+margins expanded 70 basis points to 11.9% bringing EBITDA margins to 15.3% for the full year.
+Earnings per share increased 16% to $5.09, and operating cash flow totaled over $2.1 billion.
+Moving to slide 11. As we've discussed many times before, the leverage in our operating model
+efficiently converts earnings into cash flow that can be deployed to drive shareholder value. For
+example, we used a $2.1 billion in operating cash flow we generated during 2014 as well as
+balance sheet cash to fund just over $850 million of CapEx, paid over $300 million in dividends,
+repurchased more than $1 billion of stock and fund two acquisitions with purchase prices totaling
+roughly $350 million. We remain committed to executing a very disciplined and balanced capital
+allocation plan that continues to drive shareholder value.
+So with that, I'll turn the call over to Mark to cover the numbers in more detail.
+Mark?
+`Mark J. Murphy, Chief Financial Officer & Executive Vice President `
+Thanks, Kevin, and good morning, everyone. I will cover the fourth quarter and full year in greater
+detail, then provide our view on 2015. Consistent with prior calls, today's review of our actual and
+forecasted financials excludes restructuring and special items. The reconciliation between GAAP
+and non-GAAP is included at the back of this presentation and the press release.
+Slide 13 walks our fourth quarter revenue. Revenue is $4.2 billion with volume growth offset by
+price and currency effects. In Europe, strong Powertrain volume growth was more than offset by
+the timing of the roll-off and roll-on of programs in our Electrical Architecture business. North
+America adjusted revenue increased roughly 7% due principally to Electrical Architecture and
+Thermal growth.
+Growth in Asia remained strong at over 10%, driven by China and share gains across all
+segments. South America revenue declined on continued economic weakness in the region.
+Despite some regional headwinds, Delphi's growth over market accelerated through the year to
+2% above market in the fourth quarter.Slide 14 walks the year-over-year increase of 10% in operating income. Operating income margins
+expanded 120 basis points to a record 12.5% on strong performance and flow-through on
+volume, partially offset by price.
+Slide 15 covers our segments. As forecasted, Electrical Architecture's adjusted revenue increased
+1.3% with strong growth in North America and Asia. Powertrain launches of new diesel and GDi
+programs drove nearly 6% above-market growth. Electronics & Safety was down slightly, with
+strong asset safety growth more than offset by the previously discussed rationalization of
+receptions, systems and mechatronics.
+Thermal grew 6% with above-market growth in all regions. All segments expanded margins in the
+quarter. Powertrain margins expanded 220 basis points on strong performance and volume
+leverage. E&S margins expanded 260 basis points on improved performance and thermal
+margins increased 130 basis points.
+Turning to slide 16, earnings per share increased 18% due to strong operating earnings growth
+and, to a lesser extent, share repurchases. The tax rate for the quarter was approximately 15%.
+Slide 17 walks our full year revenue. In 2014, adjusted revenue increased 4% on volume growth of
+5%, partially offset by price reductions. Growth accelerated through the year to approximately 2%
+over market in the second half. Regionally, revenues in North America and Asia remain strong and
+grew at 7% and 11% respectively. Europe revenues were flat reflecting weak underlying vehicle
+production and program timing.
+Slide 18 walks the year-over-year increase of over 9% in operating income. OI margins expanded
+70 basis points to a record 11.9% on strong performance and flow through on volume growth.
+Slide 19 shows our full year segment results. Electrical Architecture and Thermal segments
+delivered the strongest growth and exceeded market growth by 2% and 4% respectively.
+Powertrain grew 2.5%, and growth accelerated through the year to 5% over market in the second
+half on new product launches
+Electronics and Safety revenue was up 1% with strong growth in active safety in Asia offset by
+previously mentioned product rationalizations. As with the quarter, operating margins expanded
+across all segments. E/EA margins increased 50 basis points, Powertrain, 80 basis points and E&S
+and Thermal, 90 basis points.
+Turning to slide 20, earnings per share increased 16% due primarily to strong operating margins
+growth – operating earnings growth and share repurchases.
+Slide 21 provides our full year guidance assumptions. We expect global vehicle production growth
+of 1% to 2%. By region, we assume 3% growth in North America. We expect vehicle production in
+Europe to be flat to 1%. In China, we expect 7%, and in South America, we're forecasting
+production to be flat. Our guidance assumes a €1.20 rate. In light of euro volatility, and as a
+reminder, for every penny change we estimate, around $50 million annualized revenue impact,
+which would flow to OI at 10% to 12%. We expect lower commodity prices to offset euro
+headwinds at today's rate.
+Our full year 2015 guidance is on slide 22. On the right, we have our 2015 guidance at projected
+foreign exchange rates including the €1.20. We expect revenues of $17.1 billion to $17.5 billion, a 6%
+adjusted growth rate and 4% over market. We forecast growth to accelerate through the year on
+higher industry growth and new product launches.We project growth to increase from 3% over market in the first quarter to almost 6% over market
+in the fourth quarter. We expect OI growth of 11% ex-currency and a 12.4% margin at midpoint,
+unchanged from previous guidance. We increased our EPS outlook to $5.35 to $5.65 due to our
+lower share account, which is growth of 14% ex-currency to midpoint.
+On slide 23, we have first quarter 2015 guidance. On the right, we have our guidance of
+projected currency rates including €1.20. We expect first quarter revenues of $4.15 billion to $4.25
+billion, adjusted growth of 4% or 3% over market. We expect operating income between $470
+million to $500 million and 30-basis-point margin expansion at midpoint. We project EPS to be in
+the range of $1.15 to $1.30, a growth rate of 8% excluding currency.
+So wrapping up, it was a record quarter and year for Delphi, and we expect to see continued
+acceleration of growth over market through calendar year 2015.
+Crystal, at this time, we would like to open up the call to questions.
+Q&A
+Operator
+Thank you. Your first question comes from the line of Rod Lache with Deutsche Bank.
+Q - `Rod A. Lache, Analyst, Deutsche Bank Securities, Inc. `
+Hello?
+A - `Kevin P. Clark, Chief Operating Officer `
+Good morning, Rod.
+A - `Rodney O'Neal, Chief Executive Officer and President
+Good morning, Rod.
+Q - `Rod A. Lache, Analyst, Deutsche Bank Securities, Inc. `
+Good morning. A couple questions. One is could you maybe comment on what the pace of
+bookings would have been on a constant currency basis and any thoughts on what that might
+imply for the pace of growth for each of the divisions going forward?
+A - `Rodney O'Neal, Chief Executive Officer and President
+Yeah. I think, Rod, on an absolute basis, I don't have it on a division by division. But year-over-year,
+you look at what we booked in 2014, there's roughly a half – $500 million headwind as it relates
+to currency in year-over-year comparison.
+Q - `Rod A. Lache, Analyst, Deutsche Bank Securities, Inc. `
+Okay. And in terms of your margin targets, it looks like you had a big uptick in profitability in a few
+places. E&S actually did a 16.9% EBITDA margin in the fourth quarter and your target was 16% by
+2016. Powertrain was 17.8% EBITDA, and I think, also, you had a target of 16% by 2016. I'm just
+wondering if you can just give us some color on whether there is anything unusual in any of these
+divisions and whether we should be thinking that the incrementals start to slow at some point
+here for these businesses.A - `Kevin P. Clark, Chief Operating Officer `
+No. Listen, it's Kevin and, Mark, you can certainly comment. There's nothing unusual with respect
+to the operating margins in any of the segments. I think it's a result of solid revenue growth and
+strong operating performance. I think as we look forward, we more than likely have to revisit our
+operating margin targets in some of those select divisions and evaluate whether we need to
+move them up.
+Q - `Rod A. Lache, Analyst, Deutsche Bank Securities, Inc. `
+Okay. And just lastly, I was hoping you could give us some color on cash inflows and outflows,
+non-operating ones for 2015. It looks like your – the pace of buyback has accelerated. Should we
+be extrapolating from that? And any updated thoughts on the sale of Thermal in terms of range
+of valuations or timing?
+A - `Mark J. Murphy, Chief Financial Officer & Executive Vice President `
+With respect to capital allocation, listen, we'll continue to be opportunistic as it relates to share
+repurchases. There were some times during the fourth quarter where we did see weakness in
+stock price, and we used that as an opportunity to repurchase incremental shares.
+As we said before, our priority to the extent we can find value-accretive M&A opportunities is to
+acquire strong businesses in the Electrical Architecture, Powertrain and E&S space. We have a
+fairly strong backlog and a lot of opportunities that we're currently evaluating that could affect
+somewhat the pace of share repurchases in 2015. But we'll see how that plays out.
+As it relates to your last question about Thermal, again, we're not going to comment on market
+rumors about any of our businesses.
+Q - `Rod A. Lache, Analyst, Deutsche Bank Securities, Inc. `
+Okay. All right. Thank you.
+Operator
+Your next question comes from the line of Brian Johnson with Barclays.
+A - `Rodney O'Neal, Chief Executive Officer and President
+Good morning, Brian.
+Q - `Brian Arthur Johnson, Analyst, Barclays Capital, Inc. `
+Two questions, one around cadence and the other around kind of E/EA midterm. Around the
+cadence, you talked about the 3% over organic first quarter and then accelerating through the
+year. Could you give us a sense of how that plays out across the business units and, in particular,
+are there program launches or regulatory timelines we should keep focused on to get some – to
+see if that second half inflection is on track.
+A - `Mark J. Murphy, Chief Financial Officer & Executive Vice President `
+Yeah, Brian. For the business in total, this is Mark. As mentioned, we're going to be about 3% over
+market in the first quarter. We expect to be about double that relative to market in the fourthquarter. You'll see very strong growth through the year relative to market in Powertrain where it
+goes from roughly 5%, again, to roughly double that by the end of the year.
+And at E&S, where it goes from roughly at market to high-single digits by the end of the year
+relative to market. E/EA, which has a large program rolling off at the end of this year and the
+beginning – or the end of the 2014 and beginning of 2015, it picks back up relative to market, 2%
+to 3% over market through the rest of the year. Those are the big moves.
+A - `Kevin P. Clark, Chief Operating Officer `
+Yeah. So I can augment that. So you'll see stable growth in E/EA roughly at market for the first
+couple quarters accelerating a couple of points over market in the back half. On specific
+programs, you'll see a strong ramp up in E&S beginning in Q3 related to continued growth in
+active safety. Our outlook for the year is roughly 50% year-over-year growth in the active safety
+business, so we're seeing tremendous acceleration there as well as the roll-on of some
+infotainment programs with VW, Chrysler.
+On the Powertrain side, that growth is primarily going to be driven by the roll-on of some light-
+duty diesel programs with our continued ramp-up of light duty-diesel programs with VW as well
+as the launch of some GDi programs.
+Q - `Brian Arthur Johnson, Analyst, Barclays Capital, Inc. `
+Okay. And then, E/EA, it looks like about 2% organic growth. To what extent is that driven by the
+roll-offs you talked about, and is that mechatronic or is that wiring businesses you might have...
+A - `Kevin P. Clark, Chief Operating Officer `
+No...
+Q - `Brian Arthur Johnson, Analyst, Barclays Capital, Inc. `
+And then secondly, how does that play out over time?
+A - `Kevin P. Clark, Chief Operating Officer `
+Yeah. The E/EA business, as you know, historically, over the last couple years, it's been a very
+strong growth platform over the last couple of quarters and into the first two quarters of 2015.
+We're effectively seeing slower growth as a result of the roll-off of programs in Europe, principally
+price-related and margin-related, so improving, quite frankly, program mix. You'll see the
+acceleration of growth, as Mark said, in the back half of the year.
+And longer term, as you see more vehicle electrification, we expect this to be a business that
+grows a solid two, three, four points over market. The mechatronics business that you're
+referring to is in our E&S segment, the Electronics & Safety segment.
+Q - `Brian Arthur Johnson, Analyst, Barclays Capital, Inc. `
+Okay.
+A - `Kevin P. Clark, Chief Operating Officer `
+As Mark mentioned, that was a headwind during calendar year 2014 and will be a bit of a
+headwind during the calendar year 2015. But we're still projecting very strong growth in E&S,Q - `Brian Arthur Johnson, Analyst, Barclays Capital, Inc. `
+Okay. Thank you.
+Operator
+Your next question comes from the line of John Murphy with Bank of America Merrill Lynch.
+Q - `John J. Murphy, Analyst, Bank of America Merrill Lynch `
+Congratulations on an unbelievably fantastic run. Just a first question here on the Powertrain and
+E&S segments. It sounds like there's a real step function improvement in the margins and your
+expectation going forward. I mean, what changed there? I understand there's execution, but this
+is kind of a big step forward and it sounds like you're thinking about them differently going
+forward. I mean, what's changed?
+A - `Kevin P. Clark, Chief Operating Officer `
+Well, it's Kevin. And, Rod, you should chime in. On the E&S side, we've talked about the
+transitioning of that business from a hardware business to a software business. As a result,
+volume flow-through is very, very strong. Our margin on volume flow-through is very, very strong,
+and return on capital in that business is very strong.
+As it relates to Powertrain, it's really the benefit of two things. As you know, we've been focused
+on our cost structure and restructuring and repositioning our footprint in that business as well as
+getting the benefit of volume growth on that lower cost structure.
+A - `Rodney O'Neal, Chief Executive Officer and President
+Yeah. Nothing's really changed. It's just playing out exactly the way we said it would. I mean, if you
+think about the E&S rotation, the revenue's been flat the past four quarters, six quarters. But we
+told you we were reshaping the DNA of the business moving to more software, moving away
+from being a high-capital kind of utilization asset where it's more intellectual, more engineering.
+And I've said it before, and I'll say it again, that the return on invested capital in that business will
+be breathtaking. And you've just seen it play out. So nothing's new other than the traction of the
+plan that we've put in place and that the team is executing flawlessly.
+Q - `John J. Murphy, Analyst, Bank of America Merrill Lynch `
+So as we think about those margins going forward, though, I mean, the standard ceilings that we
+might think about in the automotive business, I mean, are you guys are going to be breaking
+through those product limits? I mean, could this be something that has even more significant
+margin expansion and great – and much, much greater returns than the mid-20% that we've been
+thinking about?
+A - `Rodney O'Neal, Chief Executive Officer and President
+Well, I'll tell you one thing, and I'll leave this with you, and this team is focused on it, is that we're
+never satisfied with where we are. And we've been quite clear from the day that we set sail with
+the IPO on what our margin expansion would be. We are ahead of schedule or slightly ahead of
+schedule, to say the least, and I guess we'll tell you more about maybe where the, what I call, the
+height of these margins would be. I don't think we're there yet, but what I'm more excited about
+is the return on invested capital. I think that is the metric we're extremely focused and not theObviously, you get great explosion, you get margin expansion as well as EBITDA or OI expansion
+and then, ultimately, your return on invested capital explodes. But Kevin's been pretty good at
+making these predictions at the investor show every year. So I'm going to look forward to, as a
+retiree, tuning into that one and see what he says in a couple of months.
+A - `Kevin P. Clark, Chief Operating Officer `
+Well, I think what Rod has done a great job with the team is having us focused on developing
+products that our customers really need and want. So having a great value proposition to our
+customer, and at the same time, working day to day to execute and reduce our overall cost
+structures so balancing the strategic with the tactical. And in that sort of scenario, I'm not sure
+that there is an absolute cap on what margins can or can't be.
+Q - `John J. Murphy, Analyst, Bank of America Merrill Lynch `
+Okay. That's actually very exciting and interesting. Just a second question. I know you can't
+comment on asset sales or any specific that had been reported in the press, but if we think about
+the proceeds that you could potentially get from any asset sale, whatever it might be, how do we
+think about the funnel for those proceeds running through your capital allocation strategy? Could
+they be more directly funneled into share buybacks or will they just run through the similar steps
+of the funnel?
+A - `Kevin P. Clark, Chief Operating Officer `
+Listen, I think the answer to that is it all depends. As we said, from a priority standpoint, ideally,
+we'd like to find value-accretive transactions. So that would be the primary focus area to the
+extent we can tell. As we've said in the past, we'd return that incremental cash to shareholders
+just as we've done historically.
+Q - `John J. Murphy, Analyst, Bank of America Merrill Lynch `
+Okay. And then just on the raw material benefits offsetting the Forex headwinds, it's curious
+because we've heard this from a couple other suppliers as well. But we thought that a lot of the
+raw material fluctuations have been worked out with the automakers to be either stair-stepped in
+or indexed or pass-throughs and just curious, where you're seeing the real benefit from raw
+material costs? Is this on copper? I'm just trying to understand there.
+A - `Mark J. Murphy, Chief Financial Officer & Executive Vice President `
+Hey, John. This is Mark Murphy. You're correct. Most of our copper doesn't affect our OI and then
+it's escalated with customers by contract. There is a portion, small portion. That we hedge. But as
+we work through the year, it will provide some cost benefit.
+In addition, we do expect oil, both through transportation costs and through resin costs, to
+provide us some benefit. So right now, we see that benefit being about what the current euro
+rate headwinds are relative to our guidance.
+Q - `John J. Murphy, Analyst, Bank of America Merrill Lynch `
+Okay. And then just lastly, just one point of clarification. I think you mentioned that you said active
+safety would be up 50% year-over-year. Just want to make sure I heard that correctly and off of
+what base in 2014?
+A - `Mark J. Murphy, Chief Financial Officer & Executive Vice President `Yeah. No, active safety, our outlook for active safety would be growth of roughly 50%, and I think
+that's off of a baseline. We did roughly $160 million in revenues in 2014.
+Q - `John J. Murphy, Analyst, Bank of America Merrill Lynch `
+Okay. Great. Thank you very much.
+Operator
+Your next question comes from the line of Patrick Archambault with Goldman Sachs.
+A - `Rodney O'Neal, Chief Executive Officer and President
+Good morning, Pat.
+Q - `Patrick K. Archambault, Analyst, Goldman Sachs & Co. `
+Good morning, and, yeah, I do also want to congratulate Rod on what's been probably one of the
+most amazing corporate transitions we've, at least, had the privilege of following. So thanks for
+that.
+A - `Rodney O'Neal, Chief Executive Officer and President
+Thank you, Patrick.
+Q - `Patrick K. Archambault, Analyst, Goldman Sachs & Co. `
+Actually, I wanted to follow up just on that last question, not to kind of overdo it on $160 million in
+sales in active safety. But I am kind of curious if we could just talk a little bit about the products
+that you're seeing the highest take rate on in the shorter term. And if you want to add a little bit
+of color of how that changes over the next year or two as we look out on that $1.6 billion of
+backlog, that would be helpful as well.
+A - `Kevin P. Clark, Chief Operating Officer `
+Yeah. Listen. For us, when we talk about active safety product areas, the primary area for us are
+things like visioning and radar algorithms. That's the primary product area. That's where we'll
+continue to see tremendous growth. In addition, we're seeing a fair amount of activity and have,
+in fact, booked some business, I mentioned in my prepared comments, with respect to multi-
+domain controllers, which is the real enabler to have increased levels of active safety in
+automated driving. So those would be the three primary product areas driving growth.
+Q - `Patrick K. Archambault, Analyst, Goldman Sachs & Co. `
+Very interesting stuff. And just on the M&A piece, I know this is something you talk about
+periodically. But can you give us a sense of what the market is like and just remind us of the asset
+priorities in terms of what you guys are thinking about? Thanks.
+A - `Kevin P. Clark, Chief Operating Officer `
+Well, there's a lot of – there is – consistent with what we saw late last year, there's a fair amount
+of activity. It ranges from relatively small technology investments that are primarily in and around
+software, in and around our E&S and Powertrain divisions, to opportunities that are more
+traditional M&A opportunities that augment or strengthen the existing product portfolios that we
+have in E/EA and Powertrain and in E&S.Q - `Patrick K. Archambault, Analyst, Goldman Sachs & Co. `
+Okay. And then one final one from me. Just on the slippage of the backlog, you mentioned that
+there were a couple of items that you originally anticipated following into 2014 that got booked in
+that very large number in the first quarter. Is this something that is just maybe specific to you
+guys, or is there kind of – I know at various times, right, we've seen OEMs push back on programs
+and delay certain things. So is this just kind of a just minor shift or is this symptomatic of delays or
+anything more important?
+A - `Rodney O'Neal, Chief Executive Officer and President
+Yeah. I would not read anything into it other than just a natural ebb and flow of the things.
+Sometimes, particularly at the end of the year, it's just hard to get some of the things closed off
+during the final throes of negotiations or specification understandings, et cetera, and sometimes,
+things move around. So I wouldn't read anything into it other than it was just one of those months
+and years where things went from quarter to another quarter, and that's about it.
+Q - `Patrick K. Archambault, Analyst, Goldman Sachs & Co. `
+All right. Thanks a lot for taking...
+A - `Rodney O'Neal, Chief Executive Officer and President
+(34:29)
+Q - `Patrick K. Archambault, Analyst, Goldman Sachs & Co. `
+All right. Thanks for taking my questions, guys.
+A - `Rodney O'Neal, Chief Executive Officer and President
+(34:33)
+Operator
+Your next question comes from the line of Ryan Brinkman with JPMorgan.
+Hi. This is (34:39) on behalf of Ryan. So just, first of all, I wanted to get your thoughts on the
+industry. I mean, looking at slide 21 where you lay out your industry growth assumptions for next
+year, I just wanted to get your thoughts on what are the upside and the downside risk you see in
+the industry. And we've been hearing from a few suppliers about the potential of Europe cranking
+back up as registrations are up like 5% already this year. So maybe just give us your thoughts on
+where do you see the biggest risk there.
+A - `Kevin P. Clark, Chief Operating Officer `
+Well, listen, it's early February, so I'd say that it's probably too early to call. We feel confident with
+respect to our macro and industry assumptions that we've laid out now. Listen, there's a
+possibility that you see a stronger Europe. But with what's going on in Eastern Europe right now, I
+would probably handicap that as low probability. South America continues to be very weak. We
+expect it to continue to be very weak. At some point, it needs to hit bottom and improve but,
+based on what we're looking at today, we don't see that happening.I guess if you were to look at potential upside and it's, I guess, corollary to what Mark was talking
+about in terms of the price of oil and the impact on raw material prices, it's potentially mixed in
+North America, more SUVs, more trucks as a percent of total vehicle production, which we have
+higher vehicle content on. So that would drive incremental revenue growth if we saw that mix
+improve.
+Q - Operator
+Great. Great. That's helpful. And then, your 2014 operating margins came in at 11.9%, and when I
+go back and look at what you were guiding to at the same time last year, I think the range was
+11.3% to 11.6%. So you clearly outperformed even the high end of that guidance. So maybe what
+really drove that upside? And when I look at 2015 guidance on margins, what is the potential
+there to outperform that range as well?
+A - `Kevin P. Clark, Chief Operating Officer `
+We delivered on all of our performance initiatives had strong, very solid execution and the benefit
+of that solid execution as well as the benefit of some historical restructuring program. I think to
+the extent there's upside in the 2015 guidance, it would be driven by potentially volume to the
+extent we see it, volume and mix, as well as continued solid execution.
+Q - Operator
+Okay. Great. And lastly, just more on the housekeeping side. Given that you have a low-cost
+footprint, is there any transaction currency exposure to keep in mind given what's happened to
+currencies in the last quarter?
+A - `Mark J. Murphy, Chief Financial Officer & Executive Vice President `
+Yeah. We generally – we hedge our transactional exposures to the extent they're material, and
+that's – right now, we're not accounting for any upside or downside relative to our guidance on
+that.
+Q - Operator
+Okay. Great. Thanks for taking my question.
+A - `Kevin P. Clark, Chief Operating Officer `
+And there shouldn't be a big impact on that. There shouldn't be an impact one way or the other.
+Q - Operator
+Okay. Great. Great. Thank you.
+Your next question comes from the line of David Lim with Wells Fargo Securities.
+Q - `David H. Lim, Analyst, Wells Fargo Securities LLC `
+Good morning, everyone.
+A - `Rodney O'Neal, Chief Executive Officer and President
+Good morning, David.Q - `David H. Lim, Analyst, Wells Fargo Securities LLC `
+Hi. So I don't mean to beat a dead horse here, but obviously E&S and Powertrain margins are
+really impressive. I was just wondering, can you provide additional color? Was that driven by some
+product mix, some obviously volume and restructuring? I was just wondering if you could box that
+a little more for us.
+A - `Kevin P. Clark, Chief Operating Officer `
+It's really across both those divisions. I'll give you big buckets. It really wasn't product mix as much
+as it was strong material performance...
+Q - `David H. Lim, Analyst, Wells Fargo Securities LLC `
+Okay.
+A - `Kevin P. Clark, Chief Operating Officer `
+...as well as very strong manufacturing performance. So those were the two big buckets for each.
+Q - `David H. Lim, Analyst, Wells Fargo Securities LLC `
+Got you. And then when we look at active safety and infotainment, have you guys realized any
+kind of unexpected increase in take rates in the quarter?
+A - `Kevin P. Clark, Chief Operating Officer `
+Have we seen an increase in take rates during the quarter?
+Q - `David H. Lim, Analyst, Wells Fargo Securities LLC `
+Yeah, like, unexpected.
+A - `Kevin P. Clark, Chief Operating Officer `
+I'm not sure if it's unexpected, but we have seen – again, we have seen an acceleration in growth
+rate with respect to active safety revenues.
+Q - `David H. Lim, Analyst, Wells Fargo Securities LLC `
+Got you.
+A - `Kevin P. Clark, Chief Operating Officer `
+So part of that would be driven by take rates.
+Q - `David H. Lim, Analyst, Wells Fargo Securities LLC `
+Got it. And then finally on the euro 1.20, it is trending lower. What was the thought process there
+of maintaining that guide versus maybe going to maybe a 1.15 or a 1.10?
+A - `Kevin P. Clark, Chief Operating Officer `
+There's been a lot of volatility with respect to FX rates. We've seen a lot of movement over a
+very short period of time. We gave guidance at 1.20 a couple of weeks ago when the euro was at1.20. We thought it would be the least confusing and most clear to keep the assumption at that
+rate and make sure that we continue to communicate to people the impact of any sort of change.
+Q - `David H. Lim, Analyst, Wells Fargo Securities LLC `
+Great. Thank you very much. Appreciate it.
+Operator
+Your next question comes from the line of `Ravi Shanker, Analyst, Morgan Stanley & Co. LLC with Morgan Stanley.
+Q - `Ravi Shanker, Analyst, Morgan Stanley & Co. LLC `
+Thanks. Good morning, everyone.
+A - `Kevin P. Clark, Chief Operating Officer `
+Hey, Ravi.
+A - `Rodney O'Neal, Chief Executive Officer and President
+Good morning, Ravi.
+Q - `Ravi Shanker, Analyst, Morgan Stanley & Co. LLC `
+Hey, just a follow-up on Powertrain. You said that growth is going to accelerate about 5% now to
+about 10% by the end of this year. Which of those two numbers is more reflective of what the
+medium- to long-term growth rate would be like for the segment?
+A - `Kevin P. Clark, Chief Operating Officer `
+Powertrain's a business that when you look at content for vehicle growth given the demand for
+fuel efficiency and CO2 emissions, should be higher growth. As we said last year at Investor Day,
+our outlook for Powertrain is it's a business that grows – should grow over the long term, four,
+five, six points over underlying vehicle production.
+Q - `Ravi Shanker, Analyst, Morgan Stanley & Co. LLC `
+Okay.
+A - `Kevin P. Clark, Chief Operating Officer `
+Our view's not changed.
+Q - `Ravi Shanker, Analyst, Morgan Stanley & Co. LLC `
+Got it. And just switching to something that you've discussed before, but if you look at your very
+strong margin traction and also your net business booking is kind of, I think, topping off or
+plateauing at a certain level the last two or three years, can you remind us again on any updated
+thoughts on growth versus margins and any potential trade-offs maybe that you're thinking of for
+those two things?
+A - `Kevin P. Clark, Chief Operating Officer `
+Yeah. Listen, as Rod mentioned, our primary focus is return on capital. So we're constantly
+evaluating the trade-off between revenue growth and margin and capital we need to deploy toget that growth in margin dollar. So that is our primary – the primary metric that we use, Ravi. In
+each unique situation, we evaluate it. Our primary objective is to drive increased return on capital.
+A - `Rodney O'Neal, Chief Executive Officer and President
+And, Ravi, I don't think you have to make those trade-offs, okay? I think you can have them both,
+and we've proven that and we're going to continue to prove it.
+Q - `Ravi Shanker, Analyst, Morgan Stanley & Co. LLC `
+Got it. That will be perfect. And if I can just follow-up on one thing you said in response to the last
+question. On euro, if that goes from 1.20 to 1.15, do you expect that to hit the bottom line, or do
+you see offsets, either from transaction or commodity, that will be incremental and maybe
+cushion some of that blow?
+A - `Mark J. Murphy, Chief Financial Officer & Executive Vice President `
+Right now, Ravi, we see offsets to that and through commodities.
+Q - `Ravi Shanker, Analyst, Morgan Stanley & Co. LLC `
+Understood. Understood. And finally, Rod, it's hard to imagine you as a retiree, but good luck on
+your retirement...
+A - `Rodney O'Neal, Chief Executive Officer and President
+Thank you, Ravi. You can come rock in the chair with me sometime, okay?
+Q - `Ravi Shanker, Analyst, Morgan Stanley & Co. LLC `
+We'll do that.
+Operator
+Your next question comes from the line of `David Leiker, Analyst, Robert W. Baird & Co., Inc. (Broker) with Baird.
+A - `Kevin P. Clark, Chief Operating Officer `
+Good morning, David.
+Q - `David Leiker, Analyst, Robert W. Baird & Co., Inc. (Broker) `
+Hey. I guess two things I wanted to walk through. First of all, on the active safety side, when does
+that become large enough that, from a margin perspective, it starts to move the needle either
+up or down?
+A - `Kevin P. Clark, Chief Operating Officer `
+Listen. As we said, today, we're investing in it, and $160 million in revenue is actually a drag on
+margins. Our guidance has been, effectively, once that business doubles, which it will do in a short
+period of time, we're effectively margin-neutral. And then I think out beyond that, you reach a
+point where if growth continues, it'll be a big contributor to overall margin within the E&S division.
+I think also important to say at E&S, beginning in Q3 of this year, we're going to see a significant
+ramp-up in infotainment revenues. Over the last three years, we've booked north of $2 billion ininfotainment bookings, and that is going to begin to roll on. And that will be a significant
+contributor of revenue growth as well as margin expansion.
+Q - `David Leiker, Analyst, Robert W. Baird & Co., Inc. (Broker) `
+Okay. Great. And then as we look at what your bidding activity of what you're pursuing today, is
+there any characterization you can give in terms of the number of opportunities, the size of
+opportunities when you look at what might be launched in two or three years from now? Is it a
+richer environment than what we've come out of?
+A - `Kevin P. Clark, Chief Operating Officer `
+Yeah. The overall pool or funnel is bigger this year than what it was last year, and our
+expectations heading into 2015 is that bookings would be roughly $27 billion. Now that can be
+affected by FX rates and timing, as Rod talked about earlier, but our outlook is more optimistic
+this year than what it was last year.
+Q - `David Leiker, Analyst, Robert W. Baird & Co., Inc. (Broker) `
+Okay. Great. And then, Rodney, great work. I'm with you. I know we'll talk.
+A - `Rodney O'Neal, Chief Executive Officer and President
+Absolutely, David. Be good.
+Q - `David Leiker, Analyst, Robert W. Baird & Co., Inc. (Broker) `
+Take care.
+A - `Rodney O'Neal, Chief Executive Officer and President
+Thank you, man.
+Operator
+Your next question comes from the line of `Itay Michaeli, Analyst, Citigroup Global Markets Inc. (Broker) with Citi.
+Q - `Itay Michaeli, Analyst, Citigroup Global Markets Inc. (Broker) `
+Great. Thanks. Good morning, everyone.
+A - `Kevin P. Clark, Chief Operating Officer `
+Good morning.
+A - `Rodney O'Neal, Chief Executive Officer and President
+Good morning.
+Q - `Itay Michaeli, Analyst, Citigroup Global Markets Inc. (Broker) `
+Just on the bookings, are you prepared to update us on the three-year backlog? Not sure if you
+have those in front just versus what you had a year ago.
+A - `Kevin P. Clark, Chief Operating Officer `Yeah. Listen, we'll do that at Investor Day.
+Q - `Itay Michaeli, Analyst, Citigroup Global Markets Inc. (Broker) `
+Okay. Okay. Great. And then on margins, if I look at just the gross incremental margin in 2014, I
+think it's, once again, about 33%. In 2015, you have a lot of new business. Does that mean we
+should expect a bit of a lower incremental, or do you think you can kind of maintain that 30%-plus
+gross incremental in 2015?
+A - `Mark J. Murphy, Chief Financial Officer & Executive Vice President `
+Yeah. Itay, I think you can assume similar rates to what we've been seeing, between 20% and
+30%.
+Q - `Itay Michaeli, Analyst, Citigroup Global Markets Inc. (Broker) `
+20% and 30%. Great. Thanks, Mark. And then I noticed, too, that the net performance other of
+$61 million in the quarter was a nice acceleration for you, I think, from the highest quarter of the
+year. Any seasonality there or is there a good number for us to work with in 2015 as you deliver
+additional efficiencies?
+A - `Kevin P. Clark, Chief Operating Officer `
+Yeah. I think you've got to keep in mind, in the fourth quarter, we tend to have more engineering
+rebuilds. So from a calendarization standpoint, as you look at it, fourth quarter relative to other
+quarters during a given year, we tend to have a higher mix of engineering rebuilds. But other than
+that, on a year-over-year basis, as we said, it's volume and solid operating performance.
+Q - `Itay Michaeli, Analyst, Citigroup Global Markets Inc. (Broker) `
+Great. And just lastly, on the commodity cost, I think you mentioned before, oil is giving you a bit
+of a tailwind. Anyway to do the sensitivity roughly for 5% or 10%. I think in my numbers it may have
+maybe $20 million for every 10% after that sort of a ballpark if you think about the earnings
+impact from the change in oil as we model some of the FX winds out there.
+A - `Mark J. Murphy, Chief Financial Officer & Executive Vice President `
+For oil, we're looking at roughly $3 or $5 or so per $10 of barrel of oil change. So ballpark, that's
+about it.
+A - `Kevin P. Clark, Chief Operating Officer `
+So about $5 million of earnings on each $10 up or down.
+A - `Mark J. Murphy, Chief Financial Officer & Executive Vice President `
+Yeah.
+Q - `Itay Michaeli, Analyst, Citigroup Global Markets Inc. (Broker) `
+Great. That's very helpful. Thanks so much. And, Rod, congratulations on all your
+accomplishments. It's been a pleasure working with you, and I look forward to staying in touch.
+A - `Rodney O'Neal, Chief Executive Officer and PresidentThank you. Be good.
+Operator
+Your next question comes from the line of Dan Galves with Credit Suisse.
+Q - `Daniel V. Galves, Analyst, Credit Suisse Securities (USA) LLC (Broker) `
+Good morning. Thanks. And thanks for the color on the January bookings. That was really helpful.
+Was interested in your comments that you won a Toyota Powertrain contract in January. Could
+you just remind us of your historical relationship with Toyota; any color on what region this was in
+and does this represent any kind of a breakthrough with this customer?
+A - `Kevin P. Clark, Chief Operating Officer `
+Well the Toyota, and I'll let Rod comment on the history. The Toyota award was actually in the
+fourth quarter to make sure I clarify things. Those were fourth quarter awards that we...
+Q - `Daniel V. Galves, Analyst, Credit Suisse Securities (USA) LLC (Broker) `
+Okay, got it.
+A - `Rodney O'Neal, Chief Executive Officer and President
+Yeah. Our relationship with Toyota, which actually is our largest Japanese OE, is primarily focused
+here in North America. It's been a great relationship. However, I've been pretty clear in the past, I
+mean, when you look at our penetration with the Japanese OEs, I don't know, somewhere
+probably in the $500 million to $700 million range of our total revenue per year.
+So it's quite small when you consider the amount of cars that they build. But obviously, they've
+got a fleet of suppliers who do very similar things to us and they've got ownership with those
+suppliers and we haven't had a lot of opportunity.
+That being said, there's been more technical discussions over the past year, year-and-a-half. I
+wouldn't exactly call it super traction but I would call it encouraging. And there's nothing in our
+forecast that would predict a radical change where we would begin to book more. But I would say
+that the environment's better for us than it's ever been and we'll see how it plays itself out.
+Q - `Daniel V. Galves, Analyst, Credit Suisse Securities (USA) LLC (Broker) `
+Okay. Great. Thanks for that. And just on the cash return side, you returned well over 100% of
+free cash flow in 2014. Can you just remind us of where you are versus your leveraged targets
+and whether there's potential to continue to return more than 100%?
+A - `Mark J. Murphy, Chief Financial Officer & Executive Vice President `
+Yeah. We're under one on a debt-to-EBITDA. We're at about 0.6 net debt-to-EBITDA, and we do
+have additional capacity. As you know, we just recently were upgraded to BBB last quarter. So we
+have capacity for additional leverage.
+Q - `Daniel V. Galves, Analyst, Credit Suisse Securities (USA) LLC (Broker) `
+Okay. Got it. So one time is your target or your – where you feel comfortable?
+A - `Kevin P. Clark, Chief Operating Officer `Yeah. I think what we said in the past is kind of 1.5 times debt-to-EBITDA. There'll be points in time
+where it gets below and moves up, and we balance the opportunity set for M&A with share
+repurchase.
+Q - `Daniel V. Galves, Analyst, Credit Suisse Securities (USA) LLC (Broker) `
+Okay. Great. That's all I have. Thank you.
+Operator
+Your next question comes from the line of Joe Spak with RBC Capital Markets.
+Q - `Joseph R. Spak, Analyst, RBC Capital Markets LLC `
+Hi. Thanks for taking the question. Just maybe one bigger-picture question. I mean, you talked a
+little bit about the move from hardware to software, and it seems like a lot of suppliers are
+increasingly talking about that and mostly building up an army of engineers as software becomes
+more important and making it a competitive selling point. So I guess I just wanted to get your
+view broadly on how the industry is evolving there, particularly as it pertains to the segments you
+participate in and, also, how you think you are positioned on that engineering front and whether
+you need to make incremental investment there. Thanks.
+A - `Rodney O'Neal, Chief Executive Officer and President
+Yeah. Do you want me...I mean, the industry continues to evolve in terms of sophistication of
+automobile, particularly in the space that we staked out, which is safe, green and connected. And
+so I guess, in my mind, and in the way we've outlined to you guys our journey and our story and
+our value prop, there is nothing new here.
+And so in all three spaces, the whole focus is to get the vehicle cleaner in terms of an
+environmental impact, get the vehicle safer, and then in doing that, that the visioning and sensing
+systems that we've always had. As you remember, Delphi, at one point in time, was in bag down
+(52:42) safety products like airbags and belts and, et cetera, and we exited those and we stayed
+focused on visioning and sensing systems because we felt that was the future.
+And so from an investment perspective, we've been pretty clear that our investment, both
+technically from an engineering base, is somewhere in the, I don't know, 7%, 8% range per year
+and capital is in the, I don't know, 3.5% to 4.5% range. And so your question about do we see us
+having to invest more, no, it's been a steady cadence and that's what we're going to continue to
+do. And so it's actually – I'm quite proud that it's played out exactly the way we've called it, and
+we're perfectly positioned to capture this next wave of technology advancement in the vehicle in
+safe, green connectivities. It's great. We're perfectly positioned for it.
+Q - `Joseph R. Spak, Analyst, RBC Capital Markets LLC `
+Okay. Thanks. And then one, maybe just quick one. You talked on – more housekeeping. You
+talked a little bit about some of the cross rates. Should we not expect a benefit from your
+Mexican manufacturing footprint?
+A - `Mark J. Murphy, Chief Financial Officer & Executive Vice President `
+Yeah, Joe. There may be a small benefit on that through the year. A good part of that is hedged,
+so as those hedges are reset and we work through the year, that could be additional benefit.Q - `Joseph R. Spak, Analyst, RBC Capital Markets LLC `
+Okay. Great. Thanks a lot, and congrats again, Rodney.
+A - `Rodney O'Neal, Chief Executive Officer and President
+Thank you.
+Operator
+We do have some time for one final question. Your last question comes from the line of
+`Emmanuel Rosner, Analyst, CLSA Americas LLC with CLSA.
+Q - `Emmanuel Rosner, Analyst, CLSA Americas LLC `
+Hi. Good morning, everybody, and thanks for squeezing me in.
+A - `Kevin P. Clark, Chief Operating Officer `
+Hi, Emmanuel.
+Q - `Emmanuel Rosner, Analyst, CLSA Americas LLC `
+I wanted to ask you, just trying to put a final point on Europe gross. So this quarter, we saw, again,
+Europe declined a little bit more than the production. Part of it, you mentioned, was roll-off of
+some E/EA business. In which quarter or at what point in time can we expect Delphi revenues to
+grow in line to faster than the industry specifically in Europe.
+A - `Mark J. Murphy, Chief Financial Officer & Executive Vice President `
+On E/EA, we grew faster than the market in fourth (55:23) so we did not grow faster than the
+market in Europe with E/EA. We have some programs rolling on in the wire harness business and
+expect to pick up and grow faster than market in the back half of the year in E/EA in Europe.
+A - `Kevin P. Clark, Chief Operating Officer `
+And I think with respect – if I can chime in, I think with respect to the total Delphi when you look at
+it during calendar year 2015, growth versus market will effectively be in line with market in Q1, and
+you'll see an acceleration of growth versus market through Q3 and Q4.
+Q - `Emmanuel Rosner, Analyst, CLSA Americas LLC `
+And that includes in Europe as well?
+A - `Mark J. Murphy, Chief Financial Officer & Executive Vice President `
+That's right.
+A - `Kevin P. Clark, Chief Operating Officer `
+That is Europe specifically.
+Q - `Emmanuel Rosner, Analyst, CLSA Americas LLC `
+That was Europe specifically?A - `Kevin P. Clark, Chief Operating Officer `
+Your question about Europe.
+Q - `Emmanuel Rosner, Analyst, CLSA Americas LLC `
+Okay, perfect. And then just one point about China. I think that, obviously, a very strong part of
+your story, your presence there. Can you just give us an update or size up your revenue there in
+2014 and the growth rate that you expect this year in China specifically?
+A - `Kevin P. Clark, Chief Operating Officer `
+Well, our China business is well over $3 billion. And from an overall growth rate, as we look at
+2015, overall growth rate is going to continue to be in the double-digit range.
+Q - `Emmanuel Rosner, Analyst, CLSA Americas LLC `
+Okay. That's great. And then one final point, if I may. Back to the Thermal business, I completely
+appreciate on the sense, no comments on asset sales. Just what is your official stance on your
+Thermal business right now? Is it officially, you're evaluating alternatives strategically, or is it core?
+Like, how do you think about the business?
+A - `Kevin P. Clark, Chief Operating Officer `
+No. As we've said in the past, it's an important business. It's a business that we've seen very solid
+revenue growth during calendar year 2014. We'll continue to see it in 2015. We've seen margin
+expansion on a year-over-year basis, and we're focused on continuing to improve it. We'll achieve
+10% EBITDA margins in 2015, and you'll continue to see expansion in margins during 2015. So
+that's our official stance, which is no different than what we said previously.
+Q - `Emmanuel Rosner, Analyst, CLSA Americas LLC `
+Perfect. Thank you very much.
+A - `Jessica L. Holscott, Vice President-Investor Relations `
+Great. Thank you for participating in today's call. We also wanted to mention our Delphi Investor
+Day, which will be held on April 2 in the afternoon in New York City. We hope you can join us. As
+always, we'll be available for any additional questions you may have after the call today. Thank
+you.
+Operator
+That does conclude today's Delphi Fourth Quarter 2014 Earnings Release Conference Call. Thank
+you for joining. You may now disconnect.

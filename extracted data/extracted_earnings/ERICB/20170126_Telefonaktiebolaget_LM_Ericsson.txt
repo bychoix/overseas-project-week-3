@@ -1,0 +1,621 @@
+Q4 2016 Earnings Call
+
+Operator
+Welcome to the Ericsson's Analyst and Media Conference Call for the Fourth Quarter Report. To
+view visual aids for this call, please log on to www.ericsson.com/press or
+www.ericsson.com/investors. As a reminder, replay will be available one hour after today's
+conference.
+`Peter Nyquist, Vice President-Investor Relations will now open up the call.
+`Peter Nyquist, Vice President-Investor Relations `
+Thank you, operator, and hello, everybody, and welcome to this afternoon call today. With me
+here today I have our President and CEO, Börje Ekholm; our CFO, `Carl Mellander, Chief Financial Officer; and our
+Executive Vice President, Jan Frykhammar.
+During the call today, we will be making forward-looking statements. These statements are
+based on our current expectations and certain planning assumptions which are subject to risk and
+uncertainties. The actual results may differ materially due to factors mentioned in today's press
+release and discussed in this conference call. We encourage you to read about these risks and
+uncertainties in our earnings support, as well as in our Annual Report.
+With that said, I would like to hand it over to you, Börje, please.
+`Erik Börje Ekholm, President, CEO & Independent Director `
+Thank you, and welcome, everyone, to this call covering the Q4 and full year 2016. So if we start
+with the business environment for 2016, we can see that the tough market continued in the fourth
+quarter along the same lines as earlier in 2016. Operators have been cautious on making new
+investments. We also see that the emerging markets have impacted investment levels
+throughout. We see continued convergence across telecom, IT, and media sectors going on in
+the market, most notably with some big transactions also happening.We also see that customers are increasingly focusing on transforming their business into
+becoming more digitalized and that is also starting to be a trend that, we believe, will continue
+for the future. And this market or this macro environment, of course, impacted us and we saw
+that sales and gross margin declined primarily linked here to the mobile broadband business.
+The IPR market continues to shift and we see the future growth potential to be in emerging
+markets and emerging device vendors and as well as new licensing platforms. Professional
+Services margins was negatively impacted by a number of major IT projects that are in start-up
+phase and digital transformation projects in start-up phase.
+Sales in targeted areas were flat. But most importantly, the cost and efficiency program we have
+launched in 2014 is tracking on target. We saw some higher restructuring costs during Q4 as
+we've been able to take out costs faster than we earlier anticipated.
+If we then look at the financial statement, and we'll go into more details here. I want to just say
+sales were down by 10% for the full year. But most importantly, we had a very good operating
+cash flow, generated SEK 14 billion for the full year, of which almost SEK 20 billion – a little less
+than SEK 20 billion came in Q4. And of course that puts the company in a very good financial
+position after a tough first three quarters of the year. And so, a great job done by the company
+and all employees here focusing on driving down working capital in the company.
+We then look at the proposed dividend. The board is proposing SEK 1 per share which is lower
+than last year. And the reason why the board has arrived at this is, of course, the earnings 2016,
+but it's also the market outlook we see as well as factoring in strengthening the balance sheet in
+order to have capital available for future investments. And then the board arrived at the
+conclusion of SEK 1 per share. The ambition is, of course, that with this new level we can also see
+growth of future dividends which I think is important for the shareholders.
+With that, I'm going to give the word over to Jan to go through 2016 performance.
+`Jan Magnus Frykhammar, Executive Vice President `
+Okay, and thank you, Börje. I'll talk a little bit about fourth quarter and we ended then on the sales
+number of SEK 65 billion, a little more than SEK 65 billion compared to approximately SEK 74
+billion then in 2015, the big – that was, if I look at isolating Q4 number for 2016, that was obviously
+a bit higher than what we anticipated when we had the Q3 earnings call at the end of October.
+Of course, we got helped by FX in the quarter but we also had some hardware deliveries in
+some specific countries that customers really wanted us to deliver and also pay for in the fourth
+quarter, and also previously planned for Q1. We didn't really dare to bet on that we could do
+those deliveries when we met in October, so those were the two main reasons for slightly higher
+top-line than what we thought in October.
+So on the gross margin then, excluding – and I think also that it's important that we have disclosed
+here a number that is called, we call it FX an IPR adjusted sales. And that is of course because we
+had this big IPR revenue in fourth quarter of 2015 linked mainly to the Apple deal. So to create
+some better comparability and for you also to model in a better way, we have adjusted for that in
+the comparison here. So looking at gross margin then, Carl will come back and talk about the
+gross margin in detail, so I'm not going to destroy his presentation, so it's for you to explain later
+on.
+I think the other thing that we felt was good, as Börje said, was the operating cash flow and that
+was the key priority for the quarter. Still, obviously, we feel that we have too much volatility in the
+cash flows between the quarters. But we have had that situation for quite many years. It's still apriority to try to balance it in a better way going forward. But still, net-net, good performance on
+the fourth quarter.
+If you look at the regional sales then, looking at then the growth rates compared to the fourth
+quarter of 2015 compared to the fourth quarter 2016, you can look at this PowerPoint and say that
+it's been mostly red throughout this year. And there's been one region that has been on green
+for all quarters this year and that's South East Asia and Oceania, driven by, of course, Indonesia
+and 4G deployments in Indonesia, but also continued high activity in Thailand.
+Now in fourth quarter, we also saw some increased sales in Vietnam. But it's also good actually to
+see that it's not only one region that is on green, it's actually three in this quarter. So at least
+some more green. As I say, not being too much analytical on that, but I think it's good to see
+North East Asia coming back a bit and also Middle East.
+Another reflection you can do, of course, on this slide, is to see Latin America 19% down. When
+we started 2016, we felt that Latin America – we knew that it was going to be challenging market,
+especially in Brazil and so forth, but we believed that Mexico could offset that if you look at the
+full-year picture. That did not become the case. And that's the way we look at it Mexico now, we
+feel it's more uncertainty in Mexico as well. So Latin America has a challenging 2016 and we think
+also has a challenging 2017. I think that's what I want to say there.
+And then if you look at the quarter-over-quarter regional sales split. Yes, we have seasonality in
+this business. We all know that. So here all regions are on green. But I want to highlight, obviously,
+the ones that have the most growth between the quarters, and it's North East Asia. That's not the
+only seasonality. It's also the fact that we have a strengthened position in Japan, and that's
+something that we have managed to achieve a few years ago, but now we start to see
+deployments and also radio deployments towards the Japanese market. So I think that's good.
+China, basically if you look at 4G, it's been pretty stable across the quarters. And compared to
+last year we have seen declines on 3G investments. And we have also one of our customers
+there that has been reducing CapEx a lot. Still, North East Asia, driven then by Japan in fourth
+quarter, fairly stable business in China and also good performance in Taiwan, managed to deliver
+a very strong Q4.
+Middle East came back, not so much driven by mobile broadband. There were some mobile
+broadband investments into Iran, but mainly actually project completions in certain markets such
+as Ethiopia and Saudi there. So that was driving that business.
+Mediterranean typically has a big seasonality in the fourth quarter. And overall, if you looked at
+the year there, it's quite challenging year in Mediterranean. So I think that's kind of the quarter-
+over-quarter split.
+If you take the segment summary, Networks. Here we then disclose both Networks and Support
+Solutions sales adjusted for FX and IPR to make it easier for you to model. And you see the
+reasons there. I'm not going to go through them in more detail than that. I think it's good to see
+that Networks, excluding restructuring charges, is back at 10% in the quarter after a very weak Q3.
+Now, it's obviously a key priority to make sure that we stay on those levels going forward and
+even improve from that, but we will see. We'll take it quarter-by-quarter. At least it's good to be
+back at 10% for Q4.
+Also important to note the Ericsson Radio System, we use the abbreviation ERS for that. We like
+abbreviations in this company. But it's been 15% of total radio unit volumes of the year has been
+ERS and with a good progress both in Q3, but especially so in Q4. For next year, we estimate thatthe full-year radio volumes, 50% of those will be Ericsson Radio System and it's going to be a
+gradual improvement through the quarter and I think that's a very important product substitution
+that is ongoing in the company.
+Global Services, also a recovery between the third quarter and the fourth quarter, still not
+reaching the same excellent profitability that the unit had in fourth quarter of 2015 but still
+improving compared to Q3. We had some lower Managed Services sales that we knew and you
+knew it as well because we were clear on that in October. It's this re-scoped managed service
+contract in North America that has now full effect in Q4.
+We have a Professional Services operating margin excluding restructuring charges that is on 10%.
+We still continue to strive to get back to this range between 12% and 15%. We think it's doable. It
+will take a couple of quarters but we have obviously had a year where we have had a lot of big
+system integration projects in start-up phase but also some CDMA support revenue that has
+been reduced, so we will work hard on that. And then Network Rollout still not profitable.
+Support Solutions, it is as we know a top-line challenge in that business. It's a lot of legacy
+softwares, both on TV & Media as well as OSS, BSS, that is going to be replaced by more cloud-
+based software deliveries and that transformation has not yet offset the reduction in the legacy
+sales. Fourth quarter of 2015, we had TV & Media software volumes towards one particular
+customer in North America, but still, net-net, the bottom line is, obviously, not good in this area.
+I think, by that, I hand over to Carl.
+`Carl Mellander, Chief Financial Officer `
+Thank you, Jan. So if we move to the next picture here talking about the operating income.
+Development and excluding restructuring, first of all, again, let's remember then the significant
+IPR and licensing revenue that we had in Q4 2015 which is distorting the picture a little bit when
+we look at 2016, but if we normalize from that, you can see in the bridge, we go from an
+operating margin from 10% down to 7%.
+And good news is that the cost and efficiency program is on track and delivering results, but
+unfortunately not really enough to offset then the negatives here which come with a lower
+volume and also a gross margin decline which I'll come back to on the next page here as well. But
+all in all, operating income then of SEK 4.4 billion in the quarter, which is 7% and this is excluding
+restructuring charges which were SEK 4.6 billion in the quarter, a little bit more than anticipated
+for the reasons that we mentioned earlier here that we actually accelerated the cost savings
+program.
+We go to the next one then and look at gross margin specifically and you all know this how the
+gross margin has developed over the last eight quarters. Very clear that we have seen a
+downward pressure and a downward trend during this time due to the weakness, of course, of
+the mobile broadband market in general but also lower IPR licensing revenue and an unfavorable
+mix you can say between coverage and capacity and the services share being higher than earlier.
+What's important to note as well is that gross margin stayed flat between the quarters, so
+sequentially from Q3 to Q4 we remained at 29.4% and this is in line with the planning
+assumptions that we discussed when we presented the Q3 report; we ended up more or less in
+line with expectations from that point of view.
+Clearly, we are very unhappy with this profitability level as Börje already said. This is a reason why
+we're working so hard on trying to control what we can control and one important part of that is,of course, to make sure that we deliver on the cost efficiency program, which I can talk about on
+the next picture here.
+So cost savings, of course, goes both in the direction of cost of sales and OpEx. You see the
+graph here illustrating the OpEx development excluding restructuring then. So, SEK 5 billion less
+of OpEx in 2016 compared with 2015. This is the result so far then of the cost savings program on
+the OpEx side and we are on target now to reach the SEK 53 billion that we have communicated
+multiple times before.
+When it comes to cost of sales then a lot of actions ongoing. Jan talked about the Ericsson Radio
+System being one of the big enablers here, but we're also talking about actions within the supply
+chain and in service delivery to improve the gross margin by becoming more efficient and taking
+out costs.
+As already mentioned then, the execution pace was faster than expected when it comes to the
+programs in several countries. Both North America, Latin America, and the Mediterranean region
+to mention a few, where we have had ongoing restructuring programs and they actually
+exceeded our expectation when it comes to speed, which is a good thing, of course. And that
+enabled us to actually take more of restructuring charge into Q4 than we had anticipated, but we
+think this is a very good thing because we are executing faster on the cost savings.
+We are thereby not saying that the cost overall will increase for the savings program, opposite to
+that, we're saying that we maintained the overall cost picture and, therefore, we're also then
+reducing the restructuring charge expectation for 2017 now down to approximately SEK 1 billion.
+This is, of course, with the current plans that we have and the current visibility.
+Next picture talks about the cash flow situation and I can just join Börje and Jan thanking everyone
+internally and letting you know externally how happy we are with this result that we finally actually
+recovered pretty well in the fourth quarter improving our net cash position then of almost SEK 15
+billion in the fourth quarter. So as already mentioned, it puts us in a much stronger position than
+we were, for example, at the Investor Update in New York when we looked at the challenging
+first nine months that we have had and the challenge in reaching the cash conversion target, et
+cetera, but we actually made that. So that's quite good.
+We can move on then just to reiterate that from 1st of January we are implementing our new
+structure for external reporting. As you all know, we will be reporting in the three segments,
+Networks, IT & Cloud, and Media. And to enable further analyses and so on, we will issue
+restatements according to this new structure then in March and there you will get 2015 full-year,
+but 2016 also by quarter, to enable comparison over time.
+Okay? And then finally from me, we have a number of planning assumptions that we would like to
+share with you. So first of all, we are saying that the industry trend and the business mix in mobile
+broadband are likely to prevail during 2017 as well, so the tough market continues. What Jan
+mentioned around hardware deliveries coming into Q4, which were originally planned for Q1, we
+need to consider that as well then when we model Q1 and that's around SEK 2.5 billion of sales.
+We said in New York in the Investor Update that we expect the RAN equipment market in dollars
+to decline by minus 2% to minus 6% and we maintain that. That's still the range that we see
+coming for the markets as a whole.
+We also have the managed services contract in North America that we had talked about several
+times and this will impact then sales when we compare Q1 2016 and Q1 2017. So that should also
+be taken into consideration. And then finally, on business, we talked in the report of today aboutour IPR business and we established the baseline based on the current contract portfolio at SEK 7
+billion on an annual basis.
+This is not a forecast of revenue for 2017; it's a number intended to guide a little bit to talk about
+the existing portfolio, the existing contracts that we have in licensing, which amounts then to SEK
+7 billion. And then we repeat on the cost and efficiency what we have said before. The ambition
+to improve gross margin in the second half of 2017 with the actions we're taking and the SEK 53
+billion OpEx run rate. Finally, the SEK 3 billion restructuring charge for 2017 I've already mentioned.
+So all these planning assumptions are there to make it easier to model, of course, based on the
+visibility we have today.
+With that, thank you and back to Börje.
+`Erik Börje Ekholm, President, CEO & Independent Director `
+Thanks, Carl. Before we enter into Q&A, let me just finalize with one slide on the path forward.
+We're working on a couple of different things, one being reviewing our priorities to set the future
+direction for Ericsson. This, of course, includes refining our current strategy to focus our
+investments on areas where we both can and must win. I want to take the time to do this
+thoroughly. We want to involve the team at Ericsson for a couple of reasons, but two being we
+need to do that to ensure the quality in the decision-making.
+Ultimately, we need to arrive at the right decision and maybe more importantly, I believe it's
+critical that we cast out a strategy for Ericsson as a company that we're all aligned behind and can
+execute as quickly as possible, and to do that we need to take the time to form that view along
+the leadership team. We also need to increase our focus to get back on the strong profitability
+level. It is unsatisfactory as it looks today. That means we will prioritize profitability over growth,
+but it also means that we will review our efficiency and effectiveness across our different parts of
+the operation.
+And lastly, we are spending. We are in a technology industry. We need to be technology leaders
+and stay at the forefront of the technology development. And here, Ericsson has a unique set of
+assets with our products, but we also have services and solutions. And that package creates a
+unique position for us to compete in the market. And that's something we need to leverage, but
+it's also something we continuously need to invest in and develop.
+So with that, I want to leave you with a notion that we are working on our priorities going forward.
+We have a strong financial position to start from. And this is something we will come back to you
+in due course.
+`Peter Nyquist, Vice President-Investor Relations `
+Okay. Thank you, Börje. Now, operator, we are ready for the Q&A. But before you start, I would
+actually urge you to limit yourself to one question at a time so we can have an efficient Q&A for
+the further half an hour that we have here.
+So please, operator, you can open up for the Q&A.
+Q&A
+Operator
+Ladies and gentlemen, at this time we will begin the question-and-answer session. As always,
+please limit yourself to one question at a time and please keep your questions at a broad level.Detailed information is provided in the report and Ericsson's Investor Relations and Media
+Relations team will be happy to take additional questions and discuss further details with you
+after the call. We have a question registered from the line of Alex Duval from Goldman Sachs.
+Please go ahead. Your line is open.
+Q - `Alexander Duval, Analyst, Goldman Sachs International `
+Yes. Hello, everyone. Many thanks for the question. I just wanted to ask if you could just clarify
+again on the quantum of revenues that got pulled forward in total in the fourth quarter from the
+first quarter. So basically hardware as well as any associated other types of revenue we should
+take into account. And then related to that, what the precise EBIT pull forward into the quarter
+was at a group level. That would be my first question. I've got a quick follow up.
+A - `Carl Mellander, Chief Financial Officer `
+So, Carl here. The amount pulled forward was SEK 2.5 billion for hardware. We haven't specified
+the specific EBIT related to that. But the top-line number to model with for Q1 is SEK 2.5 billion.
+Q - `Alexander Duval, Analyst, Goldman Sachs International `
+That's very clear. And then on the SEK 7 billion patents flow you've identified for 2017. That's
+obviously around SEK 3 billion lower than you reported in 2016. So I wondered if you could just
+clarify a little, given that's a very high-margin revenue stream, why the run rate seems to be so
+much lower. I appreciate obviously there were some one-offs in 2016.
+But could you help us understand is that about market share shifts with the existing customers? Is
+that to do with new terms for renegotiated deals? Is it ASP pressure in smartphones? Just to
+really understand the extent to which those different things could be drivers. And then I assume
+that any change in revenue that one should model would be dropping through roughly at 100%
+profit drop through to bottom line.
+A - `Jan Magnus Frykhammar, Executive Vice President `
+Okay, Alex. Jan here. No, I think the reason that we really want to disclose this baseline number is,
+of course, that we've seen we have not been, I think, clear enough on what is the underlying
+baseline number on all the contracts we have. So I think the way to look at this is, of course, that
+this is a number that reflects the contracts we have, but also with the given volumes and mix we
+have in the end of the year.
+And in reality then, our view is that we should look at this as some kind of baseline number and
+then on top of that there might be new contracts coming in, new signed contracts, which we all
+know is an ambition we have to make sure that all handset manufacturers are licensed to start
+with.
+I think the other aspect is that there is always deals going on. We could be selling patents, we can
+be settle these. There could be deals that have an element of forward-looking running royalties,
+but also settlements, going backwards and so forth. And if we look back a few years, that has
+been the case. But I think view this more as a baseline number.
+And then, obviously, from there we can then also discuss with you in a better way on a quarterly
+basis. Now we deviate from the baseline because of XYZ, something like that. So that's how I
+want you to or how we want you to think about this number. So nothing has really happened in
+the market around price reductions or structural changes. It's just a way for us to try to be betterQ - `Alexander Duval, Analyst, Goldman Sachs International `
+That's very clear. So should one assume that forward that it's prudent to assume somewhere
+between the SEK 7 billion and the SEK 10 billion we saw in 2016 more towards the midpoint? Or is
+there any kind of color you can give on that?
+A - `Jan Magnus Frykhammar, Executive Vice President `
+Alex, you are one of the most brightest individuals I know, so I'm sure you will figure something
+good out.
+A - `Peter Nyquist, Vice President-Investor Relations `
+(31:44), Alex?
+Q - `Alexander Duval, Analyst, Goldman Sachs International `
+Many thanks. Appreciate it.
+A - `Peter Nyquist, Vice President-Investor Relations `
+Thanks, Alex. We're open for the next question, please, operator.
+Operator
+Our next question comes from the line of `Kai Korschelt, Analyst, Bank of America Merrill Lynch from Bank of America Merrill Lynch. Please
+go ahead. Your line is open.
+A - `Peter Nyquist, Vice President-Investor Relations `
+Hi, Kai.
+Q - `Kai Korschelt, Analyst, Bank of America Merrill Lynch `
+Yeah, hello, gents. Thanks for taking my question. I just had a quick one on demand in emerging
+markets. And I appreciate at the moment things are still quite weak, but it looks like the economy
+is, particularly Brazil, Middle East, maybe Africa, are stabilizing and usually with some sort of lag
+that feeds through to the telco spending. So I'm just wondering at this point in terms of maybe
+forward-looking discussions with your clients in these regions, are there any signs yet of maybe
+the intention to potentially spend more because it is a big part of your revenue?
+And then the second one was just a quick follow up, Börje. I appreciate you need some time to
+formulate a new strategy, but I'm just wondering roughly what sort of timeline should we think
+about when you might communicate any updates to the market? Thank you.
+A - `Jan Magnus Frykhammar, Executive Vice President `
+Okay. So, Kai, it's Jan here. I start with your first question. I think the way to think about the fact
+that there is, obviously, uncertainties as well as opportunities in certain countries. I think the way to
+think about this is really that we still believe that the forward (33:18) costs that we talked about in
+November when we met in New York that is for between minus 2% to minus 6% in U.S. dollar is
+still valid. I think that's the best way to explain that. I think at least that's how we think about it. So if
+we feel that we need to update that, we'll do that once we have sufficient information. But I think
+for now, we believe that that is still the valid range. Börje?A - `Erik Börje Ekholm, President, CEO & Independent Director `
+On the last one, Kai, I think the way to think about this is not that we're making a statue that's
+going to sit and we will unveil on a specific date, but you will gradually see us instead implement
+and focus our efforts as we move forward and this is a gradual event, therefore and something is
+going to happen continuously. So I think you should more see what we do over time and see it
+from there. But it is important to take the time now to get a shared view internally and that will
+take some time before you really see the actions.
+Q - `Kai Korschelt, Analyst, Bank of America Merrill Lynch `
+Okay. Thank you.
+A - `Peter Nyquist, Vice President-Investor Relations `
+Thank you, Kai. And we're ready for the next question, please, operator.
+Operator
+Our next question comes from the line of `Gareth Jenkins, Analyst, UBS Ltd. from UBS. Please go ahead. Your line is
+open.
+A - `Peter Nyquist, Vice President-Investor Relations `
+Hi, Gareth.
+Q - `Gareth Jenkins, Analyst, UBS Ltd. `
+Thanks. I have one follow up and one question. The follow up was just on that last question for
+Börje. It was more what your initial impressions coming into Ericsson from the outside are in
+regard to cultural changes that need to be made. Is it speed of decision-making process or things
+that you've been impressed with or maybe less impressed with in terms of business processes
+relative to some of your other investments historically? And then I have a question. Thank you.
+A - `Erik Börje Ekholm, President, CEO & Independent Director `
+Thank you for the question. Yes, we – coming into the company, I've been associated with
+Ericsson for a long time and I think the really positive thing is the level of competence we have in
+the company. We have great capabilities in our members of the team Ericsson and actually there
+is something that's even more important, it's called passion. If it's possible to have blue blood
+flooding in your veins, that's what you feel when you get into this company and that makes me
+really happy and proud. So that is the foundation of what we can build on going forward.
+What you can say that I think we need to be better at, there are a couple of things. You indicated
+one. I think agility, speed or flexibility is important. We are too slow. We can change there. We
+need to be having more accountability, clearer accountability internally. That is something that can
+change. So there are a number of tweaks we can do in the way we operate and the way we work
+that will make us more competitive and that's something that we, of course, will start
+implementing as soon as possible. And then if you look – and there is not a coincidence we talk
+about profitability before growth, we may have been too geared on the top line and we want to
+shift our focus a little further down the P&L statement.
+Q - `Gareth Jenkins, Analyst, UBS Ltd. `That's great. Thank you. Can I ask one financial question, which is I think your provisions were
+quite high in the quarter. Can I assume that that's all restructuring and that there's nothing in
+there for any bribery and corruption provisioning at this stage? Thank you.
+A - `Erik Börje Ekholm, President, CEO & Independent Director `
+Yes, you are correct in your assumptions.
+Q - `Gareth Jenkins, Analyst, UBS Ltd. `
+Thank you.
+A - `Peter Nyquist, Vice President-Investor Relations `
+Thank you, Gareth. We're open for the next question, please, operator.
+Operator
+Our next question comes from the line of Sandeep Deshpande from JPMorgan. Please go ahead.
+Your line is open.
+Q - `Sandeep Sudhir Deshpande, Analyst, JPMorgan Securities Plc `
+Yes. Thank you very much for letting me on. I actually have one question for Börje. I mean, when
+we look at Ericsson today versus – I mean, you've been with the company for a while on the
+board of directors, I mean, what has really changed? I mean, in terms of the restructuring, which
+has already been announced, I mean, our restructuring costs – the operating expenses are going
+to go down to SEK 53 billion, which, I mean, is in line with what you had in operating expenses
+2009, 2010 time horizon.
+But your gross margin is substantially lower and so I mean, given that a lot of the cuts have
+already happened, how will the mix be changed? I mean, what are your initial thoughts on
+changing the mix to take that gross margin up? Because Ericsson doesn't have a lot of
+manufacturing facilities to shutdown or any of those easy fixes to change the mix.
+And then I have a follow-on question for Jan. Jan, do you think that Japan has – we've seen some
+improvements there. Do you think that their spending cycle is starting there and when does the
+5G spending cycle start in Japan based on what your conversations with customers are? Thanks.
+A - `Erik Börje Ekholm, President, CEO & Independent Director `
+Oh, I should start? Thank you for the question. No, this is why we need to look at prioritized our
+investments going forward. We're right-sizing the company size now. We're getting into an
+efficiency situation. You've also seen that we talk about improving gross margins. We're taking all
+of those steps and that's something we will continue to do. Of course, we're reviewing other
+further opportunities for efficiency improvements, but I do believe we're going to have a good
+size. But as every company, we need to just look and review that we're doing enough and that
+we cannot do more.
+But the real benefit or the real gain come out of prioritizing our investments going forward by
+investing in areas where we can win and where we can see attractive margins for the future. That
+will gradually change the mix. So it's right, as you say, that's really where the change of the game
+can come from, not from cutting yourself to success. I don't believe so.Q - `Sandeep Sudhir Deshpande, Analyst, JPMorgan Securities Plc `
+Thank you.
+A - `Jan Magnus Frykhammar, Executive Vice President `
+Okay. Sandeep, on Japan, I think when we I think – we have had as an industry, I think, a CapEx
+level in Japan that's been on the almost minus 40%, minus 45% on a yearly basis for the last, let's
+say, two years. So it's been a challenging market where CapEx has really been reduced. We are
+not betting on any significant increases from the levels we have today but we think that the
+CapEx has stabilized. That's not the same thing as saying that the investments on 5G RAN has
+commenced.
+I think that's probably an 2018 event or so. But I think what is important is that when you think
+about the wider 5G market that involves very much core and virtualization of applications and so
+forth, that has commenced. So we are running projects with all of our customers around
+virtualization of applications and so forth. And in that context, they are preparing themselves for,
+obviously, for 5G ready core if one may say that.
+Q - `Sandeep Sudhir Deshpande, Analyst, JPMorgan Securities Plc `
+Thank you.
+A - `Peter Nyquist, Vice President-Investor Relations `
+Are you happy with that, Sandeep?
+Q - `Sandeep Sudhir Deshpande, Analyst, JPMorgan Securities Plc `
+Yes. Thank you.
+A - `Peter Nyquist, Vice President-Investor Relations `
+Thank you, Sandeep. Next question, please, operator.
+Operator
+Our next question comes from the line of `Jess Lubert, Analyst, Wells Fargo Securities LLC from Wells Fargo Securities. Please go
+ahead. Your line is open.
+A - `Peter Nyquist, Vice President-Investor Relations `
+Hi, Jess.
+Q - `Jess Lubert, Analyst, Wells Fargo Securities LLC `
+Hi. Good morning. Two questions. First, I was hoping you could help us understand how much
+currency positively impacted the Q4 results and if current exchange rates were to prevail, to what
+extent should we expect your business to outperform the industry growth rates presented at the
+Analyst Day?
+A - `Jan Magnus Frykhammar, Executive Vice President `
+Okay. Jess, it's Jan here. If you look at the top-line impact – I mean, the major currency in terms of
+FX we have is U.S. dollars or U.S. dollar-linked currencies, you could say, and typically top-line in agiven quarter is between 40% and 45% U.S. dollar. And we also do – we do our monthly closings
+we always do on the FX the month before the closing rate. So in this particular case, we obviously
+had the P&L FX on the closing rate at the end of November. Those rates are disclosed on a
+monthly basis at the IR webpage. We had approximately SEK 2.5 billion of FX year-over-year
+quarterly impact.
+The big impacts on bottom-line from an FX point of view, you can say that the big impact – the
+impact you can say is on transaction exposure, meaning exports from Sweden then, which then
+impacts margin in a positive way, that's mainly U.S. dollars where we are long in U.S. dollars. Euro
+doesn't really matter because we are basically having transaction exposure there. And all of
+those things are actually disclosed in the Annual Report every year. And I think it's good to look
+back to those when you make those assessments. But at the moment, obviously FX has been
+impacted mainly by the U.S. dollar development against SEK and then it's transaction exposure
+that has the big impact especially towards U.S. dollar you can say. The rest read in the Annual
+Report, please.
+Q - `Jess Lubert, Analyst, Wells Fargo Securities LLC `
+And then...
+A - `Peter Nyquist, Vice President-Investor Relations `
+You had a second question I think.
+Q - `Jess Lubert, Analyst, Wells Fargo Securities LLC `
+Yes. So the second question, I was hoping you could update us on the Cisco partnership, how
+that's performing from an engagement and/or revenue perspective and how you're feeling
+about the ability to achieve the billion dollars in incremental sales over the next few years.
+A - `Erik Börje Ekholm, President, CEO & Independent Director `
+Yes, we can – this is Börje here. We've entered into this partnership a little bit more than a year
+ago and you can – we have made progress. We see the number of, is it called – what is it called?
+Service engineers, right? Service engineers. Certified engineers being 2,500, up from about
+below hundred at least when we started. So that is a major progress. We're also seeing that we
+take orders and we have won a couple of fairly sizable projects together. So there are positive
+momentum in the partnership. At the same time, as always the case, I think now we've been
+there for a year, we always need to assess how can we make it stronger and more successful
+and that's something we will of course continuously do.
+A - `Jan Magnus Frykhammar, Executive Vice President `
+And I think also the other comment I can make on the SEK 1 billion ambition then, that was really a
+business-driven ambition that we set together with Cisco in order to create business momentum
+and I think it has served the purpose to create business momentum. Then let's see if we deliver
+SEK 1 billion or not in 2018 or 2019, but the main purpose is again to get business momentum
+going.
+A - `Peter Nyquist, Vice President-Investor Relations `
+Okay, Jess?
+Q - `Jess Lubert, Analyst, Wells Fargo Securities LLC `Thanks, guys.
+A - `Peter Nyquist, Vice President-Investor Relations `
+Okay. Open for next question, please.
+Operator
+Our next question comes from the line of `Edward Snyder, Analyst, Charter Equity Research from Charter Equity Research. Please
+go ahead. Your line is open.
+A - `Peter Nyquist, Vice President-Investor Relations `
+Hi, Ed.
+Q - `Edward Snyder, Analyst, Charter Equity Research `
+Thanks a lot. You had pulled forward from Q1, like you mentioned, SEK 2.5 billion, into Q4. Is that
+going to be replaced in Q1? Do those customers still pulling in orders from, say, the second
+quarter, or is it pretty much the end of the year and we can expect it to be removed from what
+normally would be seasonality in Q1?
+And then in general, what is the impact – you've mentioned you have about 15% of your own
+radio networks in the Radio Systems going to hopefully 50% in 2017. In general, what's the impact
+of that on the margin profile, specifically gross margins of the Network business? Thanks.
+A - `Carl Mellander, Chief Financial Officer `
+Carl here. No, the SEK 2.5 billion basically we can see has gone from Q1. That's how we see it. So
+they were pulled into the fourth quarter. And basically, if you look back over a five-year period,
+the normal typical seasonality is minus 22% from Q4 to Q1 in top line. And from that then you
+should also consider this SEK 2.5 billion as a negative.
+A - `Jan Magnus Frykhammar, Executive Vice President `
+I think on the margin impact on the Ericsson Radio System, I think that I'm not going to give you
+the details, Ed, on that. But I think the first important thing with Ericsson Radio System is obviously
+that it brings a significant reduction on total cost of ownership towards our customers, which
+makes the platform together with the related services more competitive. And it's also a platform
+that is prepared then for 5G high band radios that will come later. And so it is from that point of
+view a very important product substitution.
+It also brings with it a possibility for us to design to cost and design to service. And that is
+obviously why we say that this is one of the key important projects. We are trying to make sure
+that this also means that we have an improved gross margin from the business. And we see
+some early signs of that in the business. But I think we want to deliver consistently before we start
+to talk about that as a positive. I think that's wise to do. But we have that ambition.
+A - `Peter Nyquist, Vice President-Investor Relations `
+Thank you, Jan. Thank you, Ed.
+Q - `Edward Snyder, Analyst, Charter Equity Research `Yeah, thank you. But one more question. If I could touch on 5G for a moment. It looks like a lot of
+the preliminary work Verizon and a few of the carriers have done, especially in the higher
+frequencies, have got them convinced that this isn't really going to work well, if at all, for a mobile
+system for all the reasons I'm sure you're aware of in the smart antenna aspect of it. And it looks
+like a lot of the initial work is being done now on fixed broadband access to the home, some of
+the trials, et cetera.
+Does that change your calculus, especially given the radio aspect of it in terms of the total
+volumes available or even needed if you switch the topology from more of a cellular mobile
+application to a fixed broadband application? It has to impact, I would think, your view long-term
+what 5G would do for your radio networks revenue line. Have you had discussions with them?
+What's your impression of this? Is it too early to really tell just yet? Or are there other
+developments going on that could change that calculus? Thanks.
+A - `Jan Magnus Frykhammar, Executive Vice President `
+I think that the use case that is mostly discussed at the moment, especially in North America, is
+exactly what you referred to. So to replace fiber-to-the-home with a wireless use case. And that
+will mean that there will be also lower band solutions and more small cells and so forth. And I
+think what is important is that when we talk about Ericsson Radio System, that's a new hardware
+platform with both baseband and radios. It will be run on the same software, both for 4G and 5G.
+That's important.
+And I think that what we are doing now together with customers around the world, we are really
+taking their use cases down to real business cases. And some of these use cases will require
+different building block and so forth, right? So I think that's really what we are doing. And for us
+and also our customers it's important to take a few bets on a few business cases and then start
+to build the relevant solutions on those.
+And some of the use cases will require perhaps more small cells, some of the use cases will
+require only a mega radio on high band and so forth. So it depends a little bit on the use case. So
+from that point of view, I think it's a little bit too early. But that's also why we have more than 25
+different MOUs working with customers on different use cases and trials, to learn.
+Q - `Edward Snyder, Analyst, Charter Equity Research `
+If I could, I apologize, maybe slip one more in real quick. You mentioned small cells. I don't know if
+it may be a little bit early. Maybe you're not involved with it just yet. But if you saw in December,
+Globalstar got authorization from the FCC to convert their 2.4 gigahertz spend, or a section of it,
+to terrestrial cellular. And given the power levels, they're looking at a small cell. I know that there's
+been a lot of talk about small cells over the years. It really hasn't panned out, but it would seem
+to be a lot of that has to do with the technology issue on where you're trying to put it and not
+having a clear band and I'm sure you guys are intimately aware of all that.
+It sounds like from the first blush that this might in fact be an area where small cells could flourish,
+given they have license to this, not just in the U.S., but internationally. Have you looked at that yet?
+Does that change the calculus for the small cell, especially regard to 5G because you don't have
+the frequency problem and it sounds like it would work well?
+A - `Jan Magnus Frykhammar, Executive Vice President `
+No, I agree with you that we have been talking about small cells for many years. But we have also
+been a company that has been quite realistic around the potential for small cells, as youremember, Ed. I think the approach that we take, just to be clear, is that we want to make sure
+that we have radios across all relevant frequencies, but also make sure that we run those radios
+on the same softwares for spectrum efficiency and so forth.
+And some of the use cases will be requiring smaller radios and also the small cells the way we
+have defined it, which means that you have a capacity booster as part of a macro stand. So I think
+that 5G, depending on the use cases, may mean certain different building blocks and I think that's
+also why eventually we can actually get a good return on the small cell portfolio we have. But
+again, this is too early to speculating I think, but we have the portfolios. Anyone that wants to buy
+small cells, please, we have a great portfolio today.
+Q - `Edward Snyder, Analyst, Charter Equity Research `
+Thank you.
+A - `Peter Nyquist, Vice President-Investor Relations `
+Thank you, Ed. We have to continue this. And I think we have opened up for the last question for
+this session, so please.
+Operator
+Our last question for today comes from the line of `Achal Sultania, Analyst, Credit Suisse Securities (Europe) Ltd. from Credit Suisse. Please go
+ahead, sir. Your line is open.
+A - `Peter Nyquist, Vice President-Investor Relations `
+Hello, Achal.
+Q - `Achal Sultania, Analyst, Credit Suisse Securities (Europe) Ltd. `
+Hi. Hi, Peter. Hi, guys. Two questions, if I may. First on the services side. So I think this was always
+considered to be a much more resilient business and I think we've seen three years in a row that
+business services revenue in organic terms is now down year-on-year, and you've obviously
+understand Sprint contract has been scoped down. I think there was some press around some
+contract in Italy, which has also gone to competition. Like, what exactly are the trends that you're
+seeing in services? Like, there is a more pressure from your customers around renegotiation of
+some of these large five-year, seven-year contracts or the scope of those contracts are changing
+a lot as we move towards 5G? Just trying to understand what exactly is changing in the services
+business.
+A - `Jan Magnus Frykhammar, Executive Vice President `
+Yeah, I think, Achal, you're being a little bit unfair to the business that has been delivering, at least
+on Professional Services, very good incomes for many years. I think that – but also at the same
+time, I agree with you that the top-line in organic terms have been coming down and that's mainly
+related to the Network Rollout business that was really big a few years ago at the back end of
+modernization projects in Europe, big 4G deployments in North America and so forth.
+But I think also what is important is, is of course that when you signup a customer for five-year or
+seven-year managed service contract or a five-year, seven-year IT transformation contract and so
+forth, I mean, these are long-term undertakings and, of course, at some point sometimes
+customers decide for different business strategy and that's perfectly fine.But you also have to all the time make sure that you stay relevant and I think we have invested for
+staying relevant. This particular year we have had some challenges obviously with the start-up of
+some of these big IT transformation projects. I think the main focus going forward is obviously to
+make sure that those projects from a services point of view becomes better from an earnings
+point of view. And also when it comes to managed services, that we take the next step in the
+evolution in managed services. So we go from one to many service delivery models to
+automation models. And that is obviously one of the key investment areas that we are making.
+So that hasn't happened so much in the market. It's obviously so that some of the big contracts
+or the contract you referred to has obviously – it is a big contract, so it has impact. Other than
+that, there are no major structural changes.
+Q - `Achal Sultania, Analyst, Credit Suisse Securities (Europe) Ltd. `
+Okay. That's helpful. And maybe a second question on the gross margin structure. I think just
+coming back to the same point I think this was asked previously. Like, your guidance is that
+second half gross margins this year would be better than the full year 2016 and now obviously
+that means slightly better than 30%.
+I'm just trying to understand there's still a big gap between what the gross margins that the
+competition does, be it Nokia or Huawei. So what are the things beyond the current cost-cutting
+plan that is under your control that will allow gross margins to expand? I understand maybe mix
+can improve, maybe top-line trends can improve, but I think those are some of the things which
+are hundred-percent not in your control. So just curious what are the things under your control
+beyond the current cost-cutting plan that could help gross margins go up?
+A - `Jan Magnus Frykhammar, Executive Vice President `
+Okay. Well, I think we can make the list like 25 items, that' why we are excited about the
+opportunities. But I think one of the key things that we always have to work on is, of course, to be
+at the forefront of technological development, linking that to services and products because then
+you can be early out and be first in some of the advanced markets. I think that's one key aspect
+of what you're asking. The second aspect is, of course, that you have to make sure that you bring
+value also in these complex transformations. They are multi-year but the good thing with multi-
+year transformations, whether it's on managed services or on IT, is that you actually have time to
+improve also on the learning curve over time.
+So there are several aspects beyond pure cost-cutting. I think that we will spend a lot of time to
+continue to focus on differentiation for relevance. And so, a margin improvement plan is not only
+about cost-cutting, it's equally much about being first when technologies changing but also being
+very innovative when it comes to new service delivery models and so forth. And those are just
+some aspects. I think when we communicate externally, of course we tend to talk about OpEx
+and cost of sales and pure cost-cuts, but internally our focus is broader than that I would say.
+A - `Peter Nyquist, Vice President-Investor Relations `
+Hey, thanks, Achal. Before handing it over for a closing remark from Börje, I would like to invite
+you all to Mobile World Congress in Barcelona between the 27 of February and 2 of March, to our
+booth. And we will have a program for the sell side and the buy side during those days.
+So please, Börje.
+A - `Erik Börje Ekholm, President, CEO & Independent Director `Thank you. And then I just wanted to end with the notion that we are working on prioritizing our
+investments going forward into areas where we see the greatest potential for us to strengthen
+our company. In the near-term, we will focus on improving our profitability to get stable
+development in the company and from there on we can invest in growth.
+With that, thank you everyone for participating.
+A - `Peter Nyquist, Vice President-Investor Relations `
+Thank you.
+.

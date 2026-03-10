@@ -1,0 +1,724 @@
+Q4 2018 Earnings Call
+
+Operator
+Good afternoon. My name is Lance and I will be your conference operator today. At this time, I'd
+like to welcome everyone to the KLA-Tencor Corporation Fourth Quarter Fiscal Year 2018
+Earnings Conference Call. All lines have been placed on mute to prevent any background noise.
+After the speakers' remarks, there will be a question-and-answer session. Thank you.
+Mr. `Ed Lockwood, Senior Director-Investor Relations of KLA-Tencor Investor Relations, you may begin your conference.
+`Ed Lockwood, Senior Director-Investor Relations `
+Thank you, Lance. Good afternoon, everyone, and welcome to our conference call. Joining me on
+our call today are Rick Wallace, our President and Chief Executive Officer; and Bren Higgins, our
+Chief Financial Officer. We're here today to discuss quarterly results for the period ended June
+30, 2018. We released these results this afternoon at 1:15 Pacific Time. If you haven't seen the
+release, you can find it on our website.
+Today's discussion of our financial results will be presented on a non-GAAP financial basis unless
+otherwise specified. A detailed reconciliation of GAAP to non-GAAP results can be found in
+today's earnings press release and in the investor presentation on KLA-Tencor's Investor
+Relations website. There you'll also find a calendar of future investor events, presentations and
+conferences, as well as links to KLA-Tencor's SEC filings, including our Annual Report on Form 10-
+K for the year ended June 30, 2017.
+In those filings, you'll also find descriptions of risk factors that could impact our future results. As
+you know, our future results are subject to risks. Any forward-looking statements, including those
+we make on the call today, are subject to those risks, and KLA-Tencor cannot guarantee thoseforward-looking statements will come true. Our actual results may differ significantly from those
+projected in our forward-looking statements.
+With that, I'll turn the call over to Rick.
+`Richard P. Wallace, President, Chief Executive Officer & Director `
+Thanks, Ed. We're very pleased to report another strong quarter for KLA-Tencor with shipments
+revenue and non-GAAP diluted earnings per share each finishing at the upper end of guidance.
+KLA-Tencor delivered the second highest quarterly booking results in our history in the June
+quarter, while setting all-time records in quarterly shipments, revenue, GAAP and non-GAAP
+diluted earnings per share.
+I'm also pleased to report that we ended the June quarter with a positive book-to-bill and with
+record total backlog of almost $2 billion. Also we are pleased to note our continued progress on
+our timeline for closing the Orbotech acquisition in the fourth quarter of this calendar year.
+On July 12, the Orbotech shareholders approved the merger and to-date we have received all
+the necessary regulatory approvals with the exception of Korea and China, which we expect to
+obtain in due course.
+The record results and strong momentum KLA-Tencor is delivering today demonstrates the value
+of our market leadership and the critical nature of process control. We also highlight our market
+diversification and the benefits of our exposure to growth markets such as EUV lithography, the
+early ramp of 7 nanometer devices in foundry, growth in the bare wafer market to address
+capacity growth in memory and China to highlight a few.
+The overall WFE industry environment continues to perform at a high level and we are excited
+about the prospects for continued strength in industry demand as we begin the second half of
+2018 and look ahead to 2019.
+Our view is for WFE levels to grow in the mid-single-digit range in 2018 aligned with the current
+consensus growth forecast for the year. Against this industry backdrop, our view for KLA-Tencor
+revenue growth is in the low double digits for the calendar year.
+Now let's discuss some of the unique dynamics that are fueling our market leadership and
+diversified growth. First, we are experiencing near record levels of demand in mask inspection
+and registration, fueled by customer's investments in EUV lithography and by continued strength
+in multi-patterning optical lithography supporting 10 and 7-nanometer design tape-outs. KLA-
+Tencor is working with each of our major customers to accelerate EUV mask development and
+yield learning, providing a complete portfolio of advanced mask inspection solutions.
+EUV promises to be a positive catalyst for future growth for process control, as it continues to
+enable linear scaling and presents market opportunities that we believe KLA-Tencor is uniquely
+positioned to address as the market leader in mask and wafer inspection, as well as in films, CD
+and overlay metrology.
+Another example is in how over the past several quarters we've seen exceptional growth in
+demand for bare wafer inspection and metrology solutions, driven by the expansion of bare
+wafer supply associated with the strong memory market as well as more stringent cleanliness
+and flatness requirements for bare wafers. In addition, IC memory and logic customers are also
+experienced – increased their investment in process tool qualification to limit yield excursions and
+to meet aggressive yield and capacity ramp goals.A third example of how KLA-Tencor is benefiting from our market diversification and technology
+leadership is seen in our strong results in China. Investment in China is the next major market
+inflection at WFE, and as the market leader in process control, KLA-Tencor is helping to enable
+development and growth of the China semiconductor industry. Our customers in China are
+investing with us at a high level to accelerate early process development and yield learning.
+With our broad portfolio of advanced process control solutions and our demonstrated ability to
+meet aggressive ramp schedules, KLA-Tencor's business in China is operating at a high level and
+we expect it to remain strong for the foreseeable future. And finally, KLA-Tencor service business
+continues to be a highlight.
+Service is approaching $1 billion in annual revenue today and is expected to continue to deliver
+consistent, high single digit annual revenue growth over the next several years. I'll note that
+greater than 75% of service revenue is from service contracts to enable needed uptime of our
+systems, demonstrating the value of the insight and technology, these systems provide to enable
+customer success. Long term growth in services is tied to growth in the installed base as well as
+from expanding investment in trailing edge fabs, which are running at full utilization and creating
+new opportunities for product enhancements and upgrades.
+To sum up today's results before I turn the call over to Bren, June was another record setting
+quarter for KLA-Tencor, demonstrating the company's strong execution and fast growing industry
+environment. Given our market diversification and the record levels of demand we are
+experiencing in the marketplace, 2018 is shaping up to be an outstanding year for KLA-Tencor.
+And we are encouraged by the early signs of continuing momentum we are seeing for 2019.
+I'll now turn the call over to Bren for his comments. Bren?
+`Bren D. Higgins, Chief Financial Officer `
+Thanks, Rick, and good afternoon everyone. As Rick highlighted in his opening remarks, the June
+quarter delivered excellent financial results for the company. Shipments, revenue, GAAP and non-
+GAAP diluted earnings per share all came in at the upper end of the range of guidance in the
+quarter with revenue, shipments and earnings per share once again achieving record levels.
+These results were driven by strong demand across our major product markets as well as a solid
+execution of our strategic objectives. Revenue was $1.070 billion in the June quarter, GAAP and
+non-GAAP diluted earnings per share were both $2.22.
+In our press release, you'll find a reconciliation of GAAP to non-GAAP diluted earnings per share.
+As a reminder, unless I explicitly refer to GAAP results, my commentary will be solely focused on
+the non-GAAP results, which exclude the adjustments covered in the press release.
+Now turning to highlights of the June demand environment in terms of shipments. Total
+shipments were $1.07 billion, about $20 million above the midpoint of guidance and finishing at
+the top end of the guided range for the quarter driven by strength in memory.
+Looking forward, we are modeling September quarter shipments to be down almost 10% at the
+midpoint and be in a range of $935 million to $1.015 billion. Our current expectation is for
+shipment growth in the second half of calendar 2018 to be flat to up low-single-digits compared
+with the first half with sequential quarterly growth resuming in the December quarter. While
+second half shipments will be stronger than the first half, this half-to-half growth expectation is
+modestly lower than our expectations from three months ago, given the widely reported
+memory push-outs and slowing logic investment.Our shipment mix in the second half features continued strong customer pull from our memory
+customers, including those in China, ramping their wafer products and an expected pickup in
+foundry logic shipments in the second half of the year. Memory was 69% of shipments and in line
+with our original forecast for the quarter. DRAM accounted for 28% of total system shipments in
+the period.
+For September, we expect memory shipments to be approximately 59% of the total. Foundry
+was 22% of shipments in the June quarter and foundry is forecasted to be about 36% of
+shipments in Q3 driven by increases in EUV investment and 7-nanometer design starts. Logic was
+9% of shipments and our current outlook is for logic to be approximately 5% of total system
+shipments this quarter.
+In terms of the approximate distribution of shipments by product group, wafer inspection was
+47% of shipments, patterning was 29%. Patterning includes shipments for our metrology
+businesses and for reticle inspection. Service was 21%, and non-semi was approximately 3%.
+Revenue was a record $1.070 billion in June, finishing at the upper end of the range of guidance.
+We expect September revenue to be flat at the midpoint and be in the range of $1.030 billion to
+$1.110 billion for the quarter.
+Revenue in the second half of calendar 2018 is expected to grow in the mid-single-digits
+compared with the first half, aligned with our current outlook for revenue growth in the low-
+double-digits in the calendar year.
+Gross margins were 64.8% at the upper end of guidance for the quarter. The factors driving our
+strong gross margin performance in June were consistent with recent margin trends, with the
+upside largely driven by product mix.
+Looking forward to September, we expect gross margins to again be in the range of 64% to 65%
+as improving service margins offset slightly weaker product system mix. Total operating expenses
+were $265 million in June and operating margin was 40%. We continue to see many opportunities
+for top-line growth in our core business and plan to maintain our investment posture with new
+programs, including those supporting e-beam, EUV and advanced memory applications, to name
+three important examples.
+For the September quarter, we expect operating expenses to be approximately $270 million, with
+variability around this operating expense level driven principally by the timing of non-head count
+engineering program development costs.
+For the full year in calendar 2018, we expect operating margins to be in the 39% range, solidly
+above the targeted 38% plus margin level in our published business model for these revenue
+levels and demonstrating KLA-Tencor's leading market position and business execution.
+Free cash flow margin is currently forecasted to be in the upper 20th percentile in 2018, ranking
+KLA-Tencor among the top tier companies in our industry. The effective tax rate was 15% in the
+quarter, in line with our guidance and our long-term tax planning rate. Finally, net income for the
+June quarter was a record $348 million and we had 156.8 million fully diluted shares outstanding.
+Turning briefly to highlights of the June quarter balance sheet and cash flow statement. Cash and
+investments ended the quarter at almost $2.9 billion. Cash from operations was strong at $374
+million and free cash flow was $351 million. In the quarter, we retired $225 million of outstanding
+debt on our revolving credit facility, paid an aggregate of $117 million in regular quarterly dividendsand dividend equivalents for fully vested restricted stock units and repurchased $38 million of
+common stock pursuant to our share repurchase program.
+At the end of the June quarter, we had just under $1 billion authorized under our share
+repurchase program. Legal restrictions related to the timing of shareholder approval of the
+Orbotech transaction limited our repurchase activity in Q2, but we plan to resume repurchases in
+the September quarter targeting quarterly repurchase volumes consistent with our previously
+articulated approach and expect a 12- to 18-month timeframe subject to market conditions. We
+have an additional $1 billion share repurchase authorized upon completion of the Orbotech
+acquisition.
+Finally, I'll note that we will adopt the new revenue recognition standard ASC 606 starting in the
+September quarter to coincide with the start of our 2019 fiscal year. We're adopting ASC 606
+using the modified retrospective method in which we will report financial results prospectively
+under the new standard, but will not restate historical results.
+Also throughout FY 2019, which ends on June 30, 2019, we will provide a quarterly reconciliation
+of reported revenue as well as what revenue would have been under the old reporting standard
+in order to help investors quantify the impact of differences in revenue recognition under the old
+and new standards. We do not foresee any impact to cash flows or business operations from the
+adoption of ASC 606.
+However, adoption of ASC 606 will impact reported revenue. Here is a summary in two primary
+changes revenue recognition resulting from the adoption of ASC 606. First, instead of accruing
+the cost of one year warranties for systems that we sell to our customers, we will allocate
+revenue to the warranty element of each transaction and recognize the revenue over the
+warranty period since we will provide preventative maintenance as well as repair services during
+the warranty period in a manner consistent with our normal service contracts.
+Second, we will continue to recognize systems revenue at the point of time where we have
+satisfied our performance obligations and transferred control of the product to a customer. The
+determination of satisfaction of performance obligations is based on several factors including the
+transfer of title, physical possession of the tool by the customer, customer acceptance of the
+product and whether customer acceptance is considered a formality based on history of
+acceptance of similar products.
+We expect that the new standard will generally allow for earlier timing of revenue recognition and
+circumstances where we deem as (15:39) sufficient performance indicators have been satisfied to
+conclude that control has been transferred to the customer.
+We are still assessing the overall impact to revenue from adoption of the new standard. As I
+mentioned, a detailed reconciliation of the differences in revenue recognition between the old
+and new standards will be provided on a quarterly basis, beginning with the reporting of the
+results of the September quarter.
+Going forward, quarterly guidance including the guidance for the September quarter will only be
+provided based on the new rules. We will report actual revenue under both sets of rules for every
+quarter of fiscal 2019 and our Form 10-Q. Although there are future factors in terms of shipment
+timing and customer acceptance of products including net (16:36) results under both standards,
+based on current shipment and revenue forecast, we expect the difference in reported revenue
+under the new standard to be favorable in calendar 2018 and in the range of 1% plus or minus 50
+basis points higher when compared with the old standard.In conclusion, the results demonstrated by KLA-Tencor in the June quarter reflect the company's
+technology leadership, the critical nature of process control on our customers' growth strategies
+and the value of our industry leading business model. The semiconductor and semi-equipment
+industry environment today is strong, healthy and performing at a high level, with multiple paths
+of growth fueled by demand for exciting new applications such as artificial intelligence, big data,
+increasing semiconductor automotive content and the Internet of Things layered on top of
+investment in China and the traditional computing and mobility markets.
+As the market leader in process control and with our revenue diversification within wafer fab
+equipment market coupled with the new opportunities for growth and market expansion
+presented by the pending Orbotech acquisition, we believe the company is uniquely positioned
+to benefit from this industry growth and we continue to deliver long-term value to our
+shareholders.
+Looking forward to the second half of 2018 and beyond fueled by record total backlog at the end
+of the June quarter and with growth in revenue in the second half of the year, we are positioned
+for another year of solid growth in 2018 and look forward to more of the same in 2019.
+With that, our guidance for the September quarter is shipments in the range of $935 million to
+$1.015 billion, revenue between $1.030 billion and $1.110 billion and GAAP diluted EPS of $2 to $2.32
+per share as well as non-GAAP diluted EPS of $2.04 to $2.36 per share.
+With that, I'll now turn the call back over to Ed to begin the Q& A.
+`Ed Lockwood, Senior Director-Investor Relations `
+Okay. Thank you, Bren. At this point, we'd like to open-up the call for questions. And we once
+again request that you limit yourself to one question with one follow-up given some limited time
+we have for today's call. Please feel free to re-queue for any additional questions you may have,
+and we will do our best to give everyone a chance for follow-ups in today's call as time permits.
+All right. Lance, we're ready for the first question.
+Q&A
+Operator
+The first question comes from the line of Mr. `Timothy Arcuri, Analyst, UBS Securities LLC from UBS. Your line is now open.
+Q - `Timothy Arcuri, Analyst, UBS Securities LLC `
+Thank you very much. Bren, I guess the first question is it looks like you lost maybe $50 million in
+shipments for the entirety of the second half, almost all of which was in the third calendar quarter.
+So, I guess, my question is, was this all memory, and the inevitable question is going to be why
+should everyone trust that September quarter is going to be the bottom? What do you see to
+basically catalyze Q4 being better? And I had a follow-up. Thanks.
+A - `Bren D. Higgins, Chief Financial Officer `
+Yes, Tim. So it's been pretty well chronicled about some of the push-outs that we've seen over
+the next month or so, and that's an industry statement. Yes, it was mostly memory. There was
+some impact in some other segments as well, but most of it was memory. Based on what we see
+in our build plans, we see a pretty strong snap back into the December quarter, and all indications
+here at this point given our conversations with customers, with all customers is that that's thecase. So we're pretty confident about it. I think it's our customers behaving rationally in terms of
+how they're managing capacity and we would expect it to come back in Q4.
+Q - `Timothy Arcuri, Analyst, UBS Securities LLC `
+Awesome, thanks. And then just is my follow-up question. You guys almost always are at/or
+above the high end of the earnings range. So if I assume that that's going to happen again in the
+third quarter that would put you at basically 9.50 to 9.60 (20:43) in annualized earnings. So the
+stock would be trading at roughly 10.5 to 11 times earnings. So I would think that you're chomping
+at the bit (20:52) to basically buy back your stock at these levels, so can you talk a little bit about
+what the plan is for repo and what the cadence might be once you're able to do that? Thanks.
+A - `Bren D. Higgins, Chief Financial Officer `
+So we authorized a $1 billion which – so I covered this in the prepared remarks. We authorized $1
+billion and then another $1 billion contingent on the closing of the Orbotech acquisition and the
+timeframe for execution over the next 12 to 18 months. So we were able to do that for legal
+reasons in the June quarter and we would expect that we plan to begin doing that in a much
+more aggressive way beginning this quarter.
+So we tend to be very principle focused in terms of how we think about the execution of this, in
+the principle that ultimately drive how we think about deploying the cash flows of the company.
+So we plan to do that in a systematic way. Although we do have flexibility to be opportunistic as
+we move over the next 12 months. But we expect to step up our posture and we'll increase it
+even further after we close the Orbotech acquisition.
+Q - `Timothy Arcuri, Analyst, UBS Securities LLC `
+Awesome Bren. Thanks so much.
+Operator
+The next question comes from the line of `Harlan Sur, Analyst, JPMorgan Securities LLC from JPMorgan. Your line is now open.
+Q - `Harlan Sur, Analyst, JPMorgan Securities LLC `
+Good afternoon and solid job on the quarterly execution guys. On the significantly better
+sustainability of your business relative to others in the equipment market, you guys have always
+talked about your business as being more tied to the rate of new technology migration versus
+capacity addition. I think your EUV and mask inspection platform is a good example of that. Gen 5
+is a good example of that. And it seems that technology migration cadence continues to be
+strong across all segments of the market. Is that at a high level? How we should think about the
+sustainability of your business here in the second half relative to what your peers are seeing out
+there that are probably more, a little bit more capacity focused?
+A - `Richard P. Wallace, President, Chief Executive Officer & Director `
+Hey, Harlan, it's Rick. I think that's right. There's a couple of factors. One, we do have a more
+diversified set of customers as opposed to being pure-play, and so we've got a number of
+elements. If you think about mask manufacturing, but also wafer manufacturing has been an
+important segment for us. And that has capacity and technology built into it as customers push
+the sensitivity requirements and flatness requirements of our wafer manufacturers that drives the
+business cycle there.Reticles for new tape-outs for EUV, you talked about Gen 5, it's also true in metrology products.
+So it's a broad base of customers all advancing technologies both memory and logic, and we also
+have, of course, the activities that are going on in China, so pretty broad and we feel good about
+the diversification of the customer base at this point.
+Q - `Harlan Sur, Analyst, JPMorgan Securities LLC `
+Thanks for the insights there. And the other thing that you guys have talked about and I'm
+wondering again how much of this add to a pretty strong second half demand profile, is that you
+guys have talked about strong new product pipeline, right, which in some cases is expanding your
+SAM opportunity, like the Voyager platform right, that you guys just recent introduced for post
+reticle develop (24:03) inspection. You also introduced your Surfscan SP7 tool, here you guys got
+90% market share. Like how is the new product cadence and in some cases the SAM expansion
+helping the momentum here in the second half and into next year?
+A - `Richard P. Wallace, President, Chief Executive Officer & Director `
+Well, we've always been a product company, Harlan, so we do need this innovation, and it does
+two things. One it enables our customers to move their technology forward. It also makes it very
+challenging from a competitive standpoint for people to keep up with us given the rate of
+introduction and investment in new capability. And as you point out, we are bringing out new
+platforms that will have a new addressable markets in addition to the ones that you mentioned
+with Voyager and SP7, there are other products in the pipeline. So it gives us a lot of confidence
+as we finish-off calendar 2018 and go into 2019 and beyond that we're well positioned not just to
+continue to perform across all sectors, but also drive additional growth through the additional
+expansion of our available markets.
+A - `Bren D. Higgins, Chief Financial Officer `
+Hey, Harlan. It's Bren. The other thing, I would add is it helps offset some of the impact of reuse.
+When you bring new capability to market, customers want to try to use that capability, and so
+there – that becomes pretty attractive to them. It also brings favorable economics with each
+generation. So even if they don't need the capability, there's a cost of ownership improvement
+that comes with new generations of products. So even if they don't need the capability they tend
+to – there's an economic motive as well. So to Rick's point it's important for our competitive
+positioning to maintain a cadence that's far ahead of what our competitors are doing, but also
+provides an opportunity for customers to leverage the capability and for us to offset the impact
+of some of those kinds of things.
+Q - `Harlan Sur, Analyst, JPMorgan Securities LLC `
+Great. Thank you.
+Operator
+Your next question comes from the line of `C. J. Muse, Analyst, Evercore Group LLC from Evercore. Your line is now open.
+Q - `C. J. Muse, Analyst, Evercore Group LLC `
+Yeah. Good afternoon. Thank you for taking my question. I guess, first question, with the adoption
+of ASC 606, can you still manage your business to a six-month backlog that's always been a core
+part of offering great visibility et cetera? So curious, what the ramifications are of this change in
+accounting standard?A - `Bren D. Higgins, Chief Financial Officer `
+Yeah. It's a good question C. J. I think around the six month backlog in terms of orders to
+shipment, you'll see us continue to manage within that window. I'd ideally like to have that down
+closer to five versus six months. Where we will see the impact of ASC 606 is that, you will see
+revenue come to the P&L sooner, the standards around qualifying for revenue from a shipment
+perspective you'll have more shipments that effectively becoming revenue sooner.
+So where we will have – with a consolidated customer base, you have more – potentially more
+volatility in the revenue number. We increased the range a little bit as a result of potentially that
+factor, because it does reduce the daylight between shipments and revenue. But for our
+business, it should stay relatively consistent. I talked to some of the principal changes in the
+prepared remarks. But in terms of how we manage lead times to – from order to shipment that
+part of our business won't change.
+Q - `C. J. Muse, Analyst, Evercore Group LLC `
+Very helpful. And I guess as a follow-up. Typically, I guess in terms of new capacity adds you guys
+outperformed. And so as we look at your second half outperformance per the guide, is that
+indicative of capacity adds that we should start to see layering in starting Q4, Q1, Q2? Is that a
+majority of it? Or is it more leveraged to mask and wafer inspection where the full industry won't
+benefit from that? Any way to sort of help us understand the moving parts there?
+A - `Bren D. Higgins, Chief Financial Officer `
+Yes. So there are a lot of moving parts. I mean you're right, I mean reticle and wafer will have –
+those businesses are ramping and so that will have an impact into the first part of the year. The
+shipments into China, I don't expect that to abate. That's been fairly consistent. Obviously big
+projects, we've seen like over the course of this year, we've had a project a quarter pretty much.
+So we'll see how that plays out as you move into the next phases there.
+We're seeing foundry logic start to come back in the second half profile, and that – and if you look
+at the order mix that I think it's a pretty good harbinger for what we expect to see into the first
+part of next year in terms of the bigger contribution from those segments. So I wish I could give
+you more but it is a bit of an all of the above answer. But clearly there are aspects to Rick's point
+earlier of the ramp around wafer and mask that it's a bit unique to KT.
+Q - `C. J. Muse, Analyst, Evercore Group LLC `
+Very helpful. Thank you.
+Operator
+Your next question comes from the line of `Krish Sankar, Analyst, Cowen & Co. LLC from Cowen & Co. your line is now open.
+Q - `Krish Sankar, Analyst, Cowen & Co. LLC `
+Hi, thanks for taking my question and, Bren, thanks for the color on the September shipments. I
+just had a question. It looks like your memory numbers in calendar Q3 are in line with your peers.
+You're seeing a nice snapback in foundry. Can you just tell us – give us some color on what's
+driving those foundry shipments? Is it one customer or is it across multiple customers? And along
+the same path in December, the snapback you're seeing in memory, is it driven by DRAM or
+NAND? And I just had a follow-up after that.A - `Bren D. Higgins, Chief Financial Officer `
+So on the foundry side it's – I mean, we're seeing foundry logic both come back, and so you've
+got multiple customers investing there, but certainly on the foundry side one customer is
+investing more than others. On the – I'm just taking a quick look here. So in September, we would
+expect it to be slightly weighted to DRAM of the memory mix.
+Q - `Krish Sankar, Analyst, Cowen & Co. LLC `
+Got it. And then as a follow-up question, I just wanted to find out, is there a way – can you guys
+say how much of your total sales is exposed to EUV at this point? Is there a way to quantify that?
+And also the bare wafer inspection business has been pretty strong for a couple of quarters, how
+sustainable do you think this is? Thank you.
+A - `Richard P. Wallace, President, Chief Executive Officer & Director `
+We don't really quantify it around the EUV participation, but I would say it's on the order of 5% to
+10% depending on how you look at it. And certainly there's development work that's going on.
+That will scale. We do think the process control intensity around the EUV is similar to what the
+process control intensity is for non-EUV, which means as EUV cost go up for scanners, the process
+control will scale with that. So that is definitely consistent trend.
+A - `Bren D. Higgins, Chief Financial Officer `
+And, Krish, what was the second part of your question?
+Q - `Krish Sankar, Analyst, Cowen & Co. LLC `
+The sustainability of the bare wafer inspection business?
+A - `Bren D. Higgins, Chief Financial Officer `
+To the Rick's comments in the prepared remarks, I mean, we're seeing significant investments
+there both being driven by the strong memory environment. You've got increasing flatness specs
+(31:15). You've got cleanliness specs that are driving investments from the IC manufacturers. To
+support all that you have the wafer manufacturers also investing. So they have to deliver wafers.
+They have underinvested for a number of years and so you're seeing new investment there
+against new specs. So I would expect those numbers to continue to be strong as we move
+certainty through this year and through next year as well, and as long as there's significant
+investment in memory, from a WFE perspective, we're going to continue to see that business
+participate pretty strongly.
+Q - `Krish Sankar, Analyst, Cowen & Co. LLC `
+Thanks, Rick. Thanks, Bren.
+A - `Bren D. Higgins, Chief Financial Officer `
+Thank you.
+Operator
+Your next question comes from the line of `Toshiya Hari, Analyst, Goldman Sachs & Co. LLC from Goldman Sachs. Your line is now
+open.Q - `Toshiya Hari, Analyst, Goldman Sachs & Co. LLC `
+Yeah, great. Thank you so much. The fundamentals in the flat panel display industry have sort of
+deteriorated since you announced the Orbotech deal. So Rick I wanted to ask, if your view on that
+part of the industry has changed long term?
+A - `Richard P. Wallace, President, Chief Executive Officer & Director `
+Well, we always had a through cycle mentality looking at the businesses that Orbotech was in that
+hasn't changed and we're not really in a position to talk about their business yet. But in terms of
+the strategic nature of that deal, we feel very good about the original thesis and all the
+subsequent work we've done so far with that team we're very excited about putting the two
+together. And obviously, we'll have a lot more to say once we finish the regulatory process.
+Q - `Toshiya Hari, Analyst, Goldman Sachs & Co. LLC `
+Understood. And then secondly, Bren you talked a little bit about service margins improving in the
+September quarter and that to some extent offsetting the decline in margins on the product
+front. Can you elaborate on that point and talk to the sustainability in service margins? Thank you.
+A - `Bren D. Higgins, Chief Financial Officer `
+Sure. Sure. I mean, there were minor changes there. I mean one of the good things we're seeing
+in service now is that we've invested pretty significantly in China to add resources to support all
+of that business, both to be able to ramp those fabs and then support them over time. And as
+you know, they're geographically pretty dispersed.
+So between the field resources but also infrastructure to support all that activity, we've been
+investing pretty significantly over the last 12 to 18 months.
+We're now slowly completing that, and so we're starting to see the incremental margins flow
+through on service. So I would expect, one good thing about the consolidated customer base is
+we're able to get to leverage service infrastructure, certainly in certain places like in China, or not
+– well maybe investments in China, but in Korea or in Taiwan, we're able to try to leverage those
+resources.
+So it's a good story. And I would expect to see service continue to be well. Obviously, it's dilutive
+to our overall gross margins, but the incremental offset some of that ongoing dilution. But we
+believe the operating margin profile of the business is certainly strong and accretive to the
+overall company.
+Q - `Toshiya Hari, Analyst, Goldman Sachs & Co. LLC `
+Thanks so much.
+Operator
+Your next question comes from the line of `Mehdi Hosseini, Analyst, Susquehanna Financial Group LLLP from SIG. Your line is now open.
+Q - `Mehdi Hosseini, Analyst, Susquehanna Financial Group LLLP `
+Yes. Thanks for taking my question. Just looking at your shipment by geography, Korea was really
+strong this past fiscal year. I'm just trying to better understand, would you be able to qualitatively
+help me understand the mix maybe perhaps between memory and bare wafer?A - `Bren D. Higgins, Chief Financial Officer `
+Most of it is memory.
+Q - `Mehdi Hosseini, Analyst, Susquehanna Financial Group LLLP `
+Okay.
+A - `Bren D. Higgins, Chief Financial Officer `
+In Korea, I mean, there is a little bare wafer, but most of it is memory.
+Q - `Mehdi Hosseini, Analyst, Susquehanna Financial Group LLLP `
+Okay, helpful. And then looking forward, there are a couple of new fabs coming online, greenfield
+fabs, and I'm trying to assess how I should think about your new product and scaling. Should we
+expect your revenue to – or a percentage of your system revenue as a percentage of WFE finally
+to hit 10% plus as your design wins or scale especially for 3D NAND and two of these new fabs or
+for 90 plus (35:38) layer 3D NAND manufacturing and would that give you opportunity to see a
+material increase in memory especially NAND?
+A - `Bren D. Higgins, Chief Financial Officer `
+Well, so, we've been pretty pleased with the process control intensity improvement that we've
+seen in flash. And so it's been a good sign. I would expect that the new products if we can
+continue to solve customer problems, we'll continue to see some momentum there. It's still –
+about half that of what we see in foundry logic, so the intensity for lots of reasons is lower, but
+we are seeing incremental improvement, we've seen more metrology, we have new metrology
+products specifically targeted at that space that should help with fab. So as we move forward
+with increasing foundry logic mix, we would expect into next year, really kind of an all-time low this
+year, we would also expect that to implement the overall process control intensity as a percent of
+wafer fab. But we're encouraged by what we're seeing in 3D NAND, and if we can continue to
+execute, hopefully there's more there for us.
+A - `Richard P. Wallace, President, Chief Executive Officer & Director `
+So Mehdi just to build on that, challenge has not been available problems to solve, the challenge
+has been solutions which solve those problems, and it's not a competitive challenge for us, it's
+just a feasibility. So it's taken some time to work and collaborate with those customers to get new
+technologies to market really to address the verticalization of NAND and we have very strong
+products in the pipeline addressing that. So we think calendar 2019 we'll see continued success
+with those initial penetration and that will be the basis for driving additional percent of WFE out of
+memory.
+Q - `Mehdi Hosseini, Analyst, Susquehanna Financial Group LLLP `
+Okay. So one way or another it should move higher? Right now it's like 7% to 8% of WFE it should
+move higher as...?
+A - `Richard P. Wallace, President, Chief Executive Officer & Director `
+Correct.
+Q - `Mehdi Hosseini, Analyst, Susquehanna Financial Group LLLP `Okay. Got it. Thank you.
+A - `Richard P. Wallace, President, Chief Executive Officer & Director `
+Yeah.
+Operator
+Your next question comes from the line of `Atif Malik, Analyst, Citigroup Global Markets, Inc. from Citigroup. Your line is now open.
+Q - `Atif Malik, Analyst, Citigroup Global Markets, Inc. `
+Hi. Thanks for taking my question. And good job on the guiding in tough environment. Two
+questions in China, Rick, my understanding is that the three key domestic Chinese product lines
+are almost done this year and the emphasis is to improve the yields. Given your position in
+inspection market, can you just update us where the yield stand with those domestic projects?
+And then what your expectations are for the volume business to come from those projects? And
+then as a follow-up, if you can also talk about tariffs and implications from tariffs on your supply
+chain or your business?
+A - `Richard P. Wallace, President, Chief Executive Officer & Director `
+Sure. The exciting thing is we have great partnerships with our customers in China looking at
+ramping greenfield facilities. And as you might imagine, there's a lot of interest in our expertise
+and capability there. So we're partnered very closely and we've had a lot of executive exchanges
+as well as others. So we feel very good about our ability to support their new fabs and their ramp.
+I won't get into specific of the yields, but they are making progress. We are seeing the promise
+of additional investment based on the initial success that they're seeing and we feel very good
+about our position in enabling that as they go forward. And of course, in this case it's really across
+the product portfolio. In terms of the implications of tariffs, our supply chain isn't based in China,
+so from a standpoint of our key components, we're not really subject to that. Obviously, we have
+an eye out for other changes that could be coming, but as of this point, it has not had any impact
+on our business.
+A - `Bren D. Higgins, Chief Financial Officer `
+And then Atif, just in terms of the investment profile, I mean, as we – and just thinking about from
+an order perspective and there's a little bit more lead time to these orders, because in a lot of
+cases they're building new facilities. But we've seen remarkable stability if you just go back over
+the last couple of years even as we look forward of the business levels we're seeing in China. So
+this year, we should book somewhere in the neighborhood, and I've said this before, somewhere
+in the neighborhood of about $600 million, or so from indigenous China. And I would expect that
+level of investment to continue. And we'll see as we start gauging – we're a little ways away
+(40:04) from what things will look like as we move into 2019. But all indications at this point give
+me confidence that we're going to continue to see this level of investment from these players as
+we move forward.
+Q - `Atif Malik, Analyst, Citigroup Global Markets, Inc. `
+Thank you.
+OperatorYour next question comes from the line of Mr. John Pitzer from Credit Suisse. Your now is now
+open.
+Q - `John William Pitzer, Analyst, Credit Suisse Securities (USA) LLC `
+Good afternoon, Rick. Thanks for letting me ask some questions. Congratulations on the solid
+results. I think you guys talked about in your prepared comments, the September shipments from
+logic being down around 5%, which I think is the second lowest in kind of our data set at least. I'm
+kind of curious, as you think about the December recovery is logic kind of helping bolster that
+view of a recovery in December or is it still just mostly memory?
+A - `Richard P. Wallace, President, Chief Executive Officer & Director `
+Hey, John, Bren here (40:57)
+A - `Bren D. Higgins, Chief Financial Officer `
+Yeah, so John, you're right. I mean, September is fairly weak. So we do see some bounce back in
+that segment. We also see bounce back in foundry. So we do see the shift in profile of 40-ish-
+percent or so of the shipment mix going to foundry logic into the second half of the year. So
+yeah, it looks like it's going to bounce back, it looks like there's some sustainability to it into the
+first part of next year.
+Q - `John William Pitzer, Analyst, Credit Suisse Securities (USA) LLC `
+That's helpful. And then Rick it's nice to see that despite the fact that WFE is mixing slightly more
+towards memory this year than last year, but you guys are still significantly outgrowing WFE. I'm
+curious to what extent do think that's just better leverage to memory versus kind of EUV playing
+out this year? And you talked about kind of the process intensity of NAND, how should we think
+about 1Y and 1Z on the DRAM front?
+A - `Richard P. Wallace, President, Chief Executive Officer & Director `
+So I think the part that's maybe a little misunderstood and we need to do a better job explaining
+it, is things like the wafer manufacturers there is high capital intensity of inspection and metrology
+for those, and they're really feeding the memory guys. So it's probably the case that our intensity
+around memory is higher than the way it's traditionally thought of. So we're seeing a lot of benefit
+in the demands that are placed on wafers as they move to new technologies in memory because
+of the cleanliness and also the flatness. So that's actually been a boost. And then as you point
+out, John, the EUV factor is still there. And then lastly, we'd say the process control intensity in
+China has been supportive of the overall business environment for us as we have great positions
+there and they are in their early stages of trying to ramp new facilities. So I think all those factors
+have come together to give us a very nice 2018 and what looks like a very strong 2019.
+Q - `John William Pitzer, Analyst, Credit Suisse Securities (USA) LLC `
+Perfect. Thank you very much.
+Operator
+Your next question comes from the line of Mr. Edwin Mok from Needham. Your line is now open.
+Q - `Y. Edwin Mok, Analyst, Needham & Co. LLC `Great job guys. Thanks for taking my questions. First question on the foundry side, you
+mentioned that there is improvement on foundry shipment from September to December, did I
+calculate correctly second half actually really strong versus first half, is it all driven by 7-
+nanometer? Or are you seeing trailing edge demand of 5-nanometer? And then just kind of tied
+to 5-nanometer, should we expect a much higher level of Gen 5 adoption of 5 nanometer versus
+7 nanometer, can you talk about Gen 5 progress there?
+A - `Richard P. Wallace, President, Chief Executive Officer & Director `
+I think there's a couple of ways to think about it. It's early for five, but EUV activity drives a lot of
+the business in the mask shop and so we're seeing a benefit from that in terms of our business in
+mask is doing quite well. Also wafer manufacturers, they are very supportive of bringing in new
+capability, so we're seeing that as a driver. And then you do see Gen 5 and you see actually some
+of the metrology tools too in support of the new nodes. So I think it's really a combination of
+those factors that gives us the diversification of reach across the customers, and is really driving
+the general outperform.
+A - `Bren D. Higgins, Chief Financial Officer `
+Yes. I think the other thing that's happening is you are seeing an increase in 7-nanometer tape-
+outs moving through the foundries. And so, A, that's driving certain reticle capabilities not just
+riders, (44:20) but then inspectors from us, but we would expect some follow-on capacity
+additions to support that business. As we move into 2019, you start to see some of that
+investment around 5-nanometer development. Certainly Gen 5 plays a bigger role in that. I would
+expect that business to grow next year versus this year just driven by some of these dynamics.
+Q - `Y. Edwin Mok, Analyst, Needham & Co. LLC `
+Great. That was extremely helpful. And then just a question on the core OpEx, and I guess
+operating leverage on the model, Bren do you think you can sustain OpEx at this level, seems like
+December you're going to grow quite a bit and sounds like (45:00) at least in the first half of
+2019. Do you think you can maintain OpEx at this level or just grow OpEx modestly, can you talk
+about that?
+A - `Bren D. Higgins, Chief Financial Officer `
+Yes, we think that OpEx is going to trend in line with the model that we published. So we're
+operating about 50 to 100 basis points above that model for these revenue levels given the
+commentary we provided around next year sort of fits within that. So I would see the OpEx
+scaling a little bit in line with the models we published. We try to drive incremental margins
+certainly greater than 40%, target 40% to 50% on our incremental margins. So there's a number
+of new programs we're investing in, new platform supporting EUV, supporting (45:41) metrology.
+So in addition to a couple of things that we just recently announced and there's follow-on activity
+around those. So I would expect this to continue to invest, we're going to deliver to the model
+we've been public with and we're going to continue to try to drive leverage through. But given
+the level of business we're seeing, I feel pretty good about the sustainability of our investment
+profile.
+Q - `Y. Edwin Mok, Analyst, Needham & Co. LLC `
+Great, extremely helpful. Thank you.A - `Bren D. Higgins, Chief Financial Officer `
+Thank you.
+Operator
+Your next question comes from the line of Mr. Patrick Ho from Stifel. Your line is now open.
+Q - `Patrick J Ho, Analyst, Stifel, Nicolaus & Co., Inc. `
+Thank you very much, and Rick, appreciate the color you have given on some of the increasing
+capital intensity trends on the memory side. Maybe as a follow-up to John's question earlier
+about DRAM and the 1X and 1Y, you talked about the cleanliness and some of the issues there. As
+the DRAM industry moves to 1Y and you see a lot more of these multi patterning steps and even
+some of the process change where they become I guess more logic like, is that also helping to
+increase the process control intensity given that they are more logic like, and obviously those –
+that's been your key bread and butter for years?
+A - `Richard P. Wallace, President, Chief Executive Officer & Director `
+Well, certainly, we are seeing interest in some adoption of Gen 5 and the DRAM guys as they
+look at 1Y. And so absolutely we're seeing that. And that wasn't necessarily originally anticipated
+the degree with which we've seen that strength, but it just – it kind of goes to the point of the
+desire to get more capability in there, and the fact that the coverage matters quite a bit. So
+we've displaced some interest that people had had at e-beam for those applications with Gen 5.
+So we feel very good about that and we're definitely getting indications that there's more to
+come there. It's just not that. It's also registration. So if you think about DRAM and the challenges
+it has for registration we see more adoption there as well. So we feel very good about the trends
+that we're seeing in memory as well.
+A - `Bren D. Higgins, Chief Financial Officer `
+So, Patrick, we're encouraged. We're trying to be a little more conservative in terms of how we
+model it just given the historic behavior from these customers, but we deliver – believe that we
+can deliver unique capability here around some of these problems that that's an opportunity for
+us.
+Most of the context that provide around performance in intensity levels is based on little
+improvement there. So if we can drive improvement in process control intensity then that's an
+opportunity for us to deliver incremental upside sort of the base model about how we're running
+the business over the next few years.
+Q - `Patrick J Ho, Analyst, Stifel, Nicolaus & Co., Inc. `
+Great. And, Bren, maybe my follow-up question in terms of services, you talked about 75% of
+your revenues are coming from, I guess, the service contracts today. But unlike process tools
+which in many cases can eat themselves off, and it just becomes a kind of recurring revenue
+stream of replacing parts. Can you give a little color on the type of value-added solution or some
+of the product enhancement that process control can offer and how that can grow?
+A - `Bren D. Higgins, Chief Financial Officer `
+Well, I mean, certainly the contract profile you've got it pretty well, where there's a limitedstructure to ensure that the uptime and availability is there. And so the 75% level of contract as a
+percent of the total has been fairly consistent at that level.
+So we feel very good about the sustainability of that over time as they stretch the installed base.
+We're continuing to look for opportunities to sell incremental enhancements to the installed base.
+As you know that there's a lot of trailing edge activity that's happening to support automotive
+and IoT, they're running those older fabs in the installed base much harder. So there's
+incremental demand for those customers to not only keep drive higher uptime for their tools,
+which is driving the business, but also to buy enhancements to the current installed base.
+And those fabs are full. So (49:54) like in some cases you can move in extra tools, you're going to
+add incremental capabilities to the existing tool whether it's speed or increased sensitivity. So
+we're pursuing and look at those opportunities, and given the stratification of demand for semi, it
+creates an interesting opportunity for us going forward.
+A - `Richard P. Wallace, President, Chief Executive Officer & Director `
+And maybe a very significant difference between process control, service business and process
+business is the availability of alternative suppliers for consumables. So if you're in a process
+company you have that threat of outside sources providing consumables. Process control, we
+have a very strong position to enable and make this equipment continue to perform as it's
+designed and that's really a big part of the value proposition. So they are different businesses.
+Q - `Patrick J Ho, Analyst, Stifel, Nicolaus & Co., Inc. `
+Thank you.
+A - `Ed Lockwood, Senior Director-Investor Relations `
+Thank you.
+Operator
+Your next question comes from the line of `Sidney Ho, Analyst, Deutsche Bank Securities, Inc. from Deutsche Bank. Your line is now open.
+Q - `Sidney Ho, Analyst, Deutsche Bank Securities, Inc. `
+Thanks for taking my question. Your largest foundry customer in Taiwan talked about improving
+manufacturing efficiencies. From your experience with them, do their CapEx cut impacting all the
+equipment types equally, or do you think that will impact you guys less because process control is
+more front-end loaded? And clearly your guidance for September quarter is very good, do you
+think it is more than offset by their spending on 7-nanometers and EUV?
+A - `Richard P. Wallace, President, Chief Executive Officer & Director `
+Well, I think there's two sides of it. One, we like to believe we enable better capital efficiency by
+helping customers get more value out of the rest of their tools. On the other hand, of course,
+every customer is trying to manage all their costs and to work across the products to extend and
+reuse. And as Bren said, one of the keys to our success is to continually bring out new products
+and new capabilities as a counter.
+What you've clearly got to show is continued improvement and cost of ownership performance,
+which means more capability. So I think the answer is kind of both. I think you definitely see a pushfrom all of our customers to enhance their sustainability of their investment and by doing that
+drive efficiency. And we enable that and we also try to support it by driving new capabilities.
+Q - `Sidney Ho, Analyst, Deutsche Bank Securities, Inc. `
+Okay, great. My follow-up question is related to China. You talked about your shipment strength
+in China this quarter, this June quarter. About a year ago, you talked about China as a region, has
+a potential SAM for process control for about $5 billion between 2017 and 2020. Given your
+comment that Chinese manufacturers seems to have higher process control intensity, do you
+think that estimate is higher, lower or just about the same?
+A - `Richard P. Wallace, President, Chief Executive Officer & Director `
+I think it's too early to say. I mean, we've seen, in the same time, we've seen some softening in
+the forecast for the total wafer outs in China, so I don't know that we could speculate on that. We
+are pleased with the production, the support and the business that we've got in China, but I
+would say if they meet their published goals, then we'll exceed that target. However, I think
+there's some definite challenges that they've got in terms of scaling those factories over time in
+the next couple of years.
+Q - `Sidney Ho, Analyst, Deutsche Bank Securities, Inc. `
+All right. Thank you.
+Operator
+Your next question comes from the line of `Vivek Arya, Analyst, Bank of America Merrill Lynch from Bank of America Merrill Lynch. Your line
+is now open.
+Q - `Vivek Arya, Analyst, Bank of America Merrill Lynch `
+Thanks for taking my question. One more on China. So shipments there were 32% of total versus
+19%, 18% kind of level, were there any one-offs? And I think somewhere during the prepared
+remarks, you mentioned that you expect China to stay around the $600 million contribution level
+next year, so kind of flat. I just wanted to confirm I heard that right.
+A - `Bren D. Higgins, Chief Financial Officer `
+You did. I mean that's an order level, and so what actually – how much actually ships and revenues
+may deviate a bit, although we've been – things have been pretty consistent in and around that
+level, so that's a reasonable number to use as you think moving forward. And if you look last
+quarter there were significant vertical NAND project that we shipped to this quarter, there's a
+significant DRAM project, it's not all the business but certainly a big part of it.
+Q - `Vivek Arya, Analyst, Bank of America Merrill Lynch `
+Got it. And then on the services side, is there a backlog number we should keep in mind or I
+guess asked in a different way, if we assume that WFE is conceptually flat next year, can you still
+grow your services business at a double digit rate?
+A - `Bren D. Higgins, Chief Financial Officer `
+I mean the way the service business generally works is you have book and ship in the same
+quarter. There's some extended warranty backlog, but it's pretty minor. So there isn't a backlognumber, but it continuous in terms of the contracts that we signed and then we get the POs
+(54:49) that are consistent with those contracts.
+A - `Richard P. Wallace, President, Chief Executive Officer & Director `
+But the other thing that contributes to it, if you think about the installed base and how long it last,
+one of the things driving, if you will, IoT or automotive is fabs being utilized longer, customers
+wanting more capability, wanting both enhancements and also those tools around (55:06) longer.
+So the decay rate of what we would have originally modeled the tools coming-off contract is
+slower and that's how you can drive growth even in a flat systems shipment business, which we
+don't think ours will be flat by the way even if WFE is flat, we're going to grow this year. So we
+think there's still a lot of energy left in the sustainability of the growth in services.
+Q - `Vivek Arya, Analyst, Bank of America Merrill Lynch `
+All right. Thank you.
+A - `Ed Lockwood, Senior Director-Investor Relations `
+Thank you.
+Operator
+Your next question comes from the line of `Harlan Sur, Analyst, JPMorgan Securities LLC from JPMorgan. Your line is now open.
+Q - `Harlan Sur, Analyst, JPMorgan Securities LLC `
+Yeah. Thanks for the follow-up. Given how far behind China is in terms of mainstream technology
+adoption, given that they do have a track record of higher process control intensity, have you
+guys seen any Gen 5 pull-ins from China which may help them to accelerate the yield learning.
+And then just a quick follow-up in terms of keeping the product pipeline healthy, can you just give
+us an update on the multi-column e-beam, EUV, reticle inspection platform, is that still on track for
+introduction next year?
+A - `Richard P. Wallace, President, Chief Executive Officer & Director `
+Boy, those are two very different questions, Harlan. So in terms of the indigenous China projects,
+we have not seen demand yet for Gen 5 for those projects. We think that's down the road for the
+guys that are doing memory. That's something that's certainly we could envision down the road
+once as you say. Right now, that's not really their focus nor at this point is it their need we can
+satisfy with a number of the products that we already have.
+In terms of the multi-beam product, we continue to make investment, we continue to work
+through some of the technical hurdles and we have a lot of close engagements with our
+customers on that, and there's clearly a lot of customer interest, but I won't go beyond that at
+this point.
+Q - `Harlan Sur, Analyst, JPMorgan Securities LLC `
+Great. Thank you.
+Operator
+There are no further questions. Presenters, I'll turn the call over back to you.A - `Ed Lockwood, Senior Director-Investor Relations `
+Thank you, Lance. And thank you all for joining us today, and your ongoing interest and ownership
+of KLA-Tencor. Enjoy the rest of your day.
+Operator
+This concludes this conference. You may now disconnect.

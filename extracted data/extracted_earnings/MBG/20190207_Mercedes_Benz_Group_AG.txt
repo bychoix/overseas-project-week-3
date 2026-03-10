@@ -1,0 +1,697 @@
+Q4 2018 Earnings Call
+Company Participants
+Björn Scheib, Head, Investor Relations
+Bodo K. Uebber, Member, Board of Management, Finance & Controlling, Daimler Financial
+Services
+Dieter Zetsche, Chairman, Board of Management; Head of Mercedes-Benz Cars
+Martin Daum, Member, Board of Management; Head of Daimler Trucks & Buses
+Other Participants
+Adam Hull, Analyst, MainFirst Bank AG (UK)
+Angus Tweedie, Analyst, Citigroup Global Markets Ltd.
+Arndt Ellinghorst, Analyst, Evercore ISI
+Horst Schneider, Analyst, HSBC Trinkaus & Burkhardt AG
+José M. Asumendi, Analyst, JPMorgan Securities Plc
+Patrick Hummel, Analyst, UBS AG
+Philippe Jean Houchois, Analyst, Jefferies International Ltd.
+Stephen Reitman, Analyst, Société Générale SA (UK)
+Tim Rokossa, Analyst, Deutsche Bank AG
+MANAGEMENT DISCUSSION SECTION
+Björn Scheib
+Good morning, ladies and gentlemen. This is Björn Scheib speaking. On behalf of Daimler, I would
+like to welcome you all here in Stuttgart, as well as on the Internet.
+Today, we've got our full year 2018's Investors and Analyst Conference. And we are very happy
+to have you with us today, Dr. Dieter Zetsche, Chairman of the Board of Management and Head
+of the Mercedes Benz Passenger Cars, our CFO, Bodo Uebber, member of the Board of
+Management, responsible for Finance & Controlling and the Daimler Financial Services; and as
+well, Martin Daum, member of the Board of Management responsible for the Daimler Trucks &
+Buses.
+Yesterday, at the annual press conference, Dieter and Bodo presented our financial figures for
+the fiscal year 2018, as well as the strategy in details. All relevant materials and respective
+presentations can be found on the Daimler Investor Relations website.
+In order to give you today maximum time for your questions on the conference, Dieter will begin
+with a short introduction, directly followed by Q&A, where Bodo and Martin will be also available
+to answer your relevant questions.
+Having said this, I would like to remind you that this investors' conference is governed by the Safe
+Harbor wording that you can find on our published documents. Please note that all our
+presentations contain forward-looking statements that reflect management's current view with
+respect to future events. Such statements are subject to many risks and uncertainties. If the
+assumptions underlying any of these statements prove incorrect, the actual result may be
+materially different from those expressed or implied by such statements.
+Forward-looking statements speak only to the date on which they are being made. Please beour Daimler Investor Relations website. Last but not least, please switch off your mobile phones.
+And with this, thank you very much, and I would love now to pass over to Dieter.
+Dieter Zetsche `
+Good morning, ladies and gentlemen, and welcome to our analyst and investor conference.
+Yesterday, we presented our numbers for 2018. They reflect that it was a year with strong
+headwinds from the ongoing diesel discussion and the transition to the new WLTP test procedure
+to global trade disputes. At the same time, we have made substantial progress in the fields that
+are key to our future. That's in large part thanks to our strong core business.
+I know you've already gone through our numbers in detail. So, to start off, I'll only review the
+essentials. In 2018, Mercedes-Benz sold 2.3 million cars, an increase of another 1% over the
+strong prior year. With this, we notched our eighth record sales year in a row. We, thereby,
+continue to be the leading premium brand. In China, we've once again gained momentum with
+the sales increase of nearly 11%, even though the overall market was declining. On a global scale,
+our main sales drivers where the E-Class and the GLC. The S-Class and its Maybach versions also
+performed very well. We further strengthened our portfolio across the entire range. As already
+announced smart will become an all-electric brand by 2020. Last year, sales of our e-smart
+models more than doubled.
+To sum it up, the demand for our cars continues to be very high. However, the general conditions
+for our business were anything but easy in 2018. During the transition to WLTP, some deliveries to
+our dealers are subject to delays. Therefore, we temporarily had significantly higher vehicle
+inventory. In the meantime, it's largely returned to normal levels. Beyond that, in Germany in
+particular, there has been much discussion about air quality. Daimler stands by its responsibility.
+We've initiated comprehensive measures ranging from software updates and an exchange
+program for older diesel models to financial support for hardware retrofits by third parties.
+Most importantly, as of today, 90% of the Mercedes-Benz portfolio in Europe has already been
+certified according to 6d or 6d-TEMP. But, of course, this is also reflected in our earnings. Besides
+the expenses in connection with ongoing government proceedings and measures relating to
+diesel vehicles, our EBIT was affected by expenditures for new technologies and future products,
+exchange rate effects, weaker net pricing, and higher raw material costs.
+As a consequence, EBIT at Mercedes-Benz Cars was ultimately well below the previous year's
+level, it came in at €7.2 billion. Return on sales was 7.8%. But Mercedes-Benz Vans which had
+another sales record last year and exceeded prior year by 5%. However, at €312 million, EBIT was
+significantly below the previous year's level. Return on sales fell to 2.3%. The reason for the
+decline were quite similar to those affecting our car divisions. In addition, the Sprinter model
+change had a negative effect on our earnings.
+Daimler Trucks reached the highest sales levels in its history and clearly surpassed that 500,000-
+unit mark. Worldwide, we achieved 10% growth in sales. The product highlight of the year was the
+world premiere of the new Actros. With that, we are now the first manufacturer to have semi-
+automated trucks in series production.
+Our EBIT at Trucks grew even stronger, up by 16% to €2.75 billion. Return on sales was 7.2%. Main
+drivers of this increase were higher unit sales, especially in the NAFTA region and efficiency
+enhancements. At Daimler Buses, the sales curve also showed a clear upward trend last year. In
+total, we sold 8% more than in 2017. However, Daimler Buses' EBIT came in at €265 million, 6%
+lower than the previous year. Return on sales was 5.9%.Daimler Financial Services had another good year. New business rose slightly. Contract volume
+rose significantly. Financial Services' earnings came in at €1.38 billion and, thereby, significantly
+below the previous year's level. Return on equity was 11.1%. Main reasons for the decline in
+earnings were the settlement of the Toll Collect arbitration proceedings, a higher interest rate
+level and cost of risk situation in some markets.
+This year, Financial Services will be renamed Daimler Mobility AG. This reflects the development
+that has been ongoing for more than a decade now. We are turning into a mobility service
+provider. 31 million people already use car2go, mytaxi & Co. That's over 13 million more
+customers than a year ago. Now, we are joining forces with BMW in the field of mobility services.
+Together, we will strengthen our global market position and of our customers and even more
+comprehensive portfolio.
+This brings me to the key figures of the financial year for Daimler. In total, we sold 3.4 million
+vehicles, 2% more than the prior year. Revenue also increased by 2% to €167.4 billion. Despite
+difficult conditions, group EBIT reached €11.1 billion. It was affected by expenses of €800 million on
+corporate level. The main drivers are the development of our new corporate structure, legal
+proceedings, but also revaluation of our equity stake in BAIC Motor Corporation.
+Net profits came to €7.6 billion or €6.78 per share. Free cash flow of our industrial business
+increased to €2.9 billion. However, the 2017 figure was reduced by the extraordinary allocation of
+€3 billion to the German pension fund. Free cash flow in 2018 was adversely affected by an
+increase in working capital, which was partially caused by higher inventories. In addition, our high
+unit sales in the last weeks of the year are not fully reflected in last year's liquidity.
+At the end of 2018, net liquidity stood at €16.3 billion and thus remained at a very good level. At
+our Annual General Meeting, we will propose a dividend of €3.25 per share. It's the second
+highest dividend in our company's history. In total, we're going to distribute €3.5 billion to our
+shareholders. That's in line with our target to distribute approximately 40% of the net profit
+attributable to Daimler shareholders. For the past five years, we've been distributed a total of €17
+billion. At the same time, we further increased our R&D investments. In 2018, they amounted to
+€9.1 billion and our capital expenditures to €7.5 billion. Looking ahead, we will keep our R&D
+expenses in 2019 at the high level of the previous year.
+And that brings me straight to our outlook. How good the teams can best be shown in difficult
+times, and last year, the Daimler team had enough opportunity to make this proof, and they have
+done very well. That will serve us well for this year. Of course, the environment remains extremely
+challenging. Therefore, we will continue to intensively work on our efficiency with
+countermeasures in our automotive divisions. At the same time, we will push ahead with the four
+key topics, future topics of our industry, connectivity, autonomous driving, sharing, and e-mobility.
+So, what are our next steps? In the area of connectivity there's enormous future potential ahead.
+And with MBUX, we have an excellent foundation to fully exploit it. Since its introduction one year
+ago, we have continuously improved and further developed our MBUX system. We will make new
+features directly available to our customers over there. We've also developed a good foundation
+for autonomous driving. This year, we are putting a pilot of the first fully automated shuttle
+service on the road in San José, California. Together with Bosch, we are developing automated
+driving and technology at Levels 4 and 5.
+For commercial vehicle customers, the technology also offers real economic gains. Within the
+next decade, we aim to put highly automated trucks on the road. In sharing, we continue to gainmomentum. With its closing last week, the merger of Daimler and BMW Mobility Services is
+completed. The new company will be based in Berlin.
+And on the topic of e-mobility, we have totally gone on the offensive. In just a few weeks the EQC
+will drive off the line in Bremen. In the course of this year, series production of the EQC will also
+launch in Beijing. By 2022, we will electrify our complete range of passenger cars. In total, we'll
+offer more than 130 electrified vehicles.
+Our commercial vehicles electric product range already stands alone in the industry. And
+Mercedes-Benz eActros and the first electric vehicles from our Freightliner brand are currently in
+testing with customers in their day-to-day work. We aim to start series production of these trucks
+in two years' time.
+All our commercial vans will also be available with electric drive in the future. As for our buses, the
+eCitaro is already in series production. The basis for our EV ramp up in all vehicle segments is
+access to state-of-the-art battery cells in large quantities, and we have our supplies secured until
+2030. We are buying battery cells for a total sum of more than €20 billion. Meanwhile, we
+continue to expand our own battery production. In the future, we'll manufacture them in nine
+factories on three continents.
+Our ambition in all case areas is clear. We aim to be on the forefront of our industry's
+technological change. At the same time, we will strengthen our efforts on efficiency despite the
+many risks in the global economy continue to work to make our business as flexible as possible.
+Our new corporate structure will support us in this effort as well. In this new structure, our
+business areas are given more entrepreneurial freedom, can become even more market and
+customer-oriented and are able to enter into partnerships both easier and faster.
+Our preparations are well on schedule. At our Annual General Meeting on May 22, the new
+structure will be put forward for the required approval of our shareholders. Thereafter it will be
+implemented by Daimler. We will invest €400 million into the new structure in 2019.
+So much for our outlook. Now, what does all of this mean for our expectation and guidance for
+the year 2019? There are a number of geopolitical risks this year. Overall, the global economy is
+likely to develop noticeably more slowly in 2019 with growth of just under 3%, but nevertheless
+remains solid. We expect global demand for passenger cars at the prior-year level. Demand for
+medium and heavy trucks is likely to differ by region. Overall, however, we expect favorable
+market conditions. What are our expectations for sales in 2019? At passenger cars, we aim to
+slightly increase sales. We're also expecting a slight increase in sales of trucks. At vans and buses,
+we expect significantly higher sales in 2019. Financial Services is also aiming for further growth.
+Coming to our earnings forecast, we expect to achieve group EBIT slightly above prior-year level.
+In total, we anticipate negative currency effects on earnings of our automotive business at around
+€1 billion compared to 2018, mainly driven by the relative weakness against the euro of some key
+currencies. With further rising commodity prices, material costs are expected to increase by
+approximately €500 million in 2019. We assume that our free cash flow of the industrial business
+will be slightly above previous-year level.
+For our business units starting with our guidance for 2019, we will provide profitability targets for
+the current year instead of goals for the EBIT. We'll provide ranges of our expected return on
+sales and return on equity. This establishes a stronger link between our forecast for the current
+fiscal year and our strategic targets. For 2019, we expect the following profitability levels. At cars,
+we aim to achieve a return on sales in the range of 6% to 8%. Due to the launch of the GLE andrange. Of course, we are not totally satisfied with this level as it's below our strategic level and,
+therefore, we are in the process of launching a program which should take us back to our
+strategic range of 8% to 10% by 2021.
+For trucks, we assume a range for 2019 of 7% to 9%. Here again by further intensifying the
+programs we already have started. We intend to come to a level through the cycle of above 8%.
+And in Financial Services, we aim for a return on equity in the range of 17% to 19%. At vans and
+buses, we are planning on a range of 5% to 7%.
+With this forecast for cars and vans, we are below our long-term target. We cannot and will not
+be satisfied with this. And, therefore, as I just mentioned, we are going for these programs on
+the car side and on the truck and bus side to systematically achieve our strategic targets we have
+defined. One thing applies to all divisions: profitable business is a prerequisite for continuing to
+invest in new technologies and products in the future.
+Ladies and gentlemen, the groundwork for a successful future is always created in the present.
+And right now, we are setting our course for the next decade. For Daimler, 2019 will be a year of
+big change. We're structuring our company anew, we're accelerating into the new era of electric
+mobility, we're driving connectivity, autonomous driving and mobility services to new levels. Each
+of these topics open-up enormous potential for Daimler to shape the future.
+And with that, I welcome your questions. Thank you.
+Björn Scheib
+Thank you so much Dieter for this introduction. Before we start with the Q&A session, a few
+practical points. Please identify yourself with your name and the name of the organization that
+you're representing. Given, please ask your question in English. And as a matter of fairness,
+please limit the amount of questions that you are about to raise to a maximum of today, two, and
+give everybody in this conference the chance and opportunity to ask your question.
+With this, ladies and gentlemen, we will start, and we'll start with Patrick, then we've got Arndt
+and then Tim.
+Q&A
+Q - Patrick Hummel `
+Okay. Good morning. It's Patrick Hummel, UBS. Then I'll make use of the two-question rule today.
+My first one would go to Bodo. Regarding the CO2 compliance impact on earnings, can you give
+us a feel to which extent the 2020-2021 CO2 compliance costs are already included in the 2019
+guidance or what we should expect as an additional burden to earnings over the years 2020 to
+2021? Just in terms of the EBIT bridge, what is year-two compliance going to be as a headwind
+beyond 2019?
+And my second question, I actually asked this, Markus Schäfer, also yesterday evening, but I'm
+interested in your view obviously, Mr. Zetsche. It seems that Mercedes has gone a route of
+offering a very wide range of powertrain variants. You hold onto diesel, you have gasoline, you
+have 48-volt plug-in hybrids, fuel cell battery-electric even though everybody seems to agree
+that the medium term route to go is battery-electric. And I'm wondering haven't you accumulated
+too much complexity with all these different powertrain variants and wouldn't now be the time to
+focus your bets a bit and maybe just stick with battery-electric and gasoline with 48-volt or
+whatever the solution is rather than just going into everything?A - Bodo K. Uebber `
+Just as a beginning and then I hand over to Dieter. Of course, if we give a target range from the
+profitability for 2020, 2021, all is included. It depends, of course, on the current assumptions of
+markets from as of today, so that might change over time. But that is a current – that is the
+message we are applying. That holds true for trucks and for cars.
+A - Dieter Zetsche `
+And with our cycle times, our development times in the automotive business, of course, when
+we're talking about 2020, 2021 business tomorrow, so basically, all the initiatives which will take us
+into the CO2 range of compliance have been started and are very well planned in execution.
+And, therefore, of course, they are included in our plan, which then leads to the statement Bodo
+just made.
+To your second point, I think fuel-cell it's true that we just launched GLC with fuel-cell. And, with
+that, I've proven that we are at the cutting edge of this technology with our capabilities. We will
+not spend significant money in that technology at that point of time because, clearly, I agree with
+you, at that point of time, there is one road to go which is electric. Within that, we will have
+combustion engines for quite a number of years to come and they definitely will have to be
+improved in their efficiency by 48 electric mild hybrids if you want and we are not the only one to
+see that way. And so, and of course we need plug-in hybrids and of course we need full battery
+electric vehicles.
+So, if you want the only question which could remain would be the one between diesel and
+gasoline, we do believe – and of course we are having this discussion and of course we have
+made decisions, we do believe that streamlining the reduction of complexity is mainly in the
+reduction of the variance within these different segments and a very modular approach rather
+than taking now for instance diesel totally out of the picture, which we do believe has at least no
+rational background. Yes, in the lower segments where from economical point of view, diesel is
+not effective anymore like in the B segment, but from a environmental point of view, clearly in the
+upper segments up to for instance, big SUVs, the diesel is ongoing, the most efficient
+combustion engine variation with new modern diesel, a very good emission level.
+Q - Tim Rokossa `
+Tim Rokossa, Deutsche Bank. Thank you. One question around your margin development. Mr.
+Zetsche, you and your team, you really turned around this company. You have an amazing
+product in the market and we learned last night also that you are the most large luxury car maker
+in the world. You have the highest selling price.
+A - Dieter Zetsche `
+I hope you didn't learn that last night.
+Q - Tim Rokossa `
+Yeah. We just saw the numbers again. We were reminded that's probably the better way to say.
+You have the highest selling prices also. Why shouldn't you have the highest returns within
+Mercedes of the overall industry? And specific to the Mercedes target of 6% to 8% in September
+2017 we were sitting here you were already talking about 15% to 25% BEV target, you were
+already talking of becoming a mobility services provider. And now, a year-and-a-half later, thecorridor is 200 basis points lower. Can you please explain what happened in the meantime on
+that side? Thank you.
+A - Dieter Zetsche `
+This is certainly a very valid question. And certainly, there are effects which, for instance, there is
+the currency development which further deteriorated. We have some, even though it's not all
+clear, assumptions about trade restrictions and impacts from that side. And at the same time, we
+saw, in this timespan, a shift away from diesel in the take rates plus WLTP regulation which
+ultimately turned out to basically be like a change from Fahrenheit to centigrade. So, we get for
+the same emission, CO2 emission level, the different number, but the regulation stays the same.
+And this is just an additional ambition level, which is not much discussed, but it's – which is for the
+manufacturers, slightly different from one to the other, but in the low-double-digit percentage
+range. So, this is additional effort we have to put in basically by additional content into our
+vehicles or by higher rates of electric vehicles to achieve these same numbers, minus 30%, plus
+this change of the scale of measurement.
+Having said all of that, all what you said before is true. And, therefore, of course our ambition has
+to be at better profitability levels or margins than our main competitors. And that's why I said
+before that we have to deal even more than we do continuously with our cost basis which,
+obviously, is in this overall equation, the only variable which explains the question you have raised,
+okay.
+Q - Arndt Ellinghorst `
+Yeah. Okay. Thanks, Björn. Arndt Ellinghorst from Evercore. Good morning. Dr. Zetsche, when you
+look at your company today, I think it's really fair to say – and it's very, very important you have a
+very happy customer base. You've changed the culture within the company, you have happy
+employees, you're winning Formula One. So, many, many stakeholders are really, really satisfied.
+The only group, and you know what's coming now, that's a problem, our shareholders. So, you
+look back at your total shareholder return over the years, you're really quite running behind other
+carmakers, the market. So, two questions, if I may? If you look back, what do you think the
+company or yourself, you could have done differently that that might have not happened? And
+then also as a recommendation for Ola and the new management team that's coming in, what
+they might really do fundamentally different to create a very happy shareholder base and to lead
+to really sustainable outperformance? Thank you.
+A - Dieter Zetsche `
+I think first question, looking back is included when I give you an answer about looking forward,
+which anyway the share price is the only content, which is in the market capitalization, their
+expectation for the future. So, certainly you can look at that number anyway you want and you can
+refer to the total industry or whatever. But definitely the development is not satisfying, and
+definitely the market is right. So, when you, again, from whatever perspective, look at the
+numbers, you could assume based on current earning levels that the value basically describes our
+future earnings within the next 10 years, and there is no value put to the turmoil return at all,
+which if you want to make it brutal, I would say the capital market expects the company not to
+exist after 10 years anymore. That's one perspective. We have to accept that.
+On the other hand, you look to Waymo, €170 billion, whatever. You look to Tesla, $70 billion. You
+look to Uber, €60 billion, whatever you want. In all of these fields, we have a very significant
+position. Waymo is ahead in autonomous. Uber has a bigger ride-hailing business. Tesla at thatpoint of time doesn't have a bigger sales figure, but is very strong in electric. But in all these
+positions, we are, within the automotive industry, a very strong player.
+First of all, we have to develop that in leading positions and we are not far away from that. And,
+secondly, we have to sell that. We have to explain that this is the future of this company as. And,
+this, we have not accomplished so far, quite obviously when you make the calculation. So, I think
+this is really the task ahead and this is by understanding the tremendous opportunity ahead, if
+only a fraction of the future fantasy which the market has for these new companies is based on
+the facts we have developed with a lot of money and a lot of investment which, of course,
+constantly reduces our current results, for instance, just with Mercedes from – within the last four
+years, we have increased our CapEx and R&D from €8 billion to €14 billion, so €6 billion addition
+on our profits, which you look for your analysis. And all of that has gone into these fields or the
+vast majority of that has gone into these fields or the vast majority of that has gone. Perhaps we
+have wasted all this money, nothing will result, that's not my opinion. That's not my conviction.
+And that's why I think Ola has tremendous opportunity, first of all, to continue with that certainly
+do what we just mentioned before, of course, to further increase productivity again of the
+company, but most of all, to explain in a credible way that we are a part of Waymo, a part of
+Uber, a part of, Tesla, all combined with then, of course, in combination leads to even further
+opportunities. That's my answer to that question.
+Q - Arndt Ellinghorst `
+Yeah. If I may just on that, how do you think the industry will then shape out? You have one group
+of OEMs that is spending a lot of money on future technologies and all the things you mentioned
+and others which are not. So, do you think we will increasingly get it big? And the ones that are
+spending the money today are trading on a discount to those that are not spending the money.
+So, the market has a particular view. Do you think we will get a sort of a two-class society where
+some companies will just make it and they have tremendous pricing power and others will be
+completely commoditized?
+A - Dieter Zetsche `
+I think the recent years' discussion had a high level of agreement then this industry is in
+transformation and I don't think that there are many members who do believe that in 10 and 20
+years they are having the same technologies and same capabilities as today will give you a future.
+So, I think that mostly answers your question.
+If I do not have the resources or, if you want, the guts to invest into this future and to develop
+these capabilities, which will be required in the years to come, then I think the future really is
+bleak. But of course, this burdens the current performance. And when you look at this current
+performance as your yardstick for the market capitalization, then there is no fantasy included and
+then, you are where we are. So, again I'm repeating myself, our task is clearly to continue this
+effort but, at the same time, to get it across and to explain we are way more and Tesla and Uber
+combined. Not to the same extent yet, I don't claim that we are leading these fields.
+Q - José M. Asumendi
+Thank you. José, JPMorgan. A couple of items, please. Martin, can you talk a bit about the truck
+supply chain? I mean you have a very strong order book. You're delivering an improvement in
+earnings. Where are we in terms of supplying the components across different regions? How do
+you keep a balance to make sure that trucks come out of the door, you're able to invoice and the
+earnings momentum continues as well in 2019? If you could comment on that, please.Second, obviously for Dieter, you have two, I think, very interesting expansion projects, one in
+Mexico, the second one in China. I think you're doubling capacity in China. I think you are doing
+one of the quickest ramp-ups I've seen at least at Daimler in China. You're retooling a plant within
+12 months. You have an SOP this year. So, I think there's this some really interesting stuff going on
+in China. So, if you could because speak on the Mexican side, what's going on with Infiniti, with
+Nissan, and also on China, which products are coming out of this plant? What are the capacity
+numbers? Any color on that because I think that's one of the key elements of growth going
+forward? Thank you.
+A - Martin Daum `
+When it comes to supply chain constraints, which certainly was the biggest negative surprise for
+us last year. That has, in my opinion, two reasons. A, we have across the world in a lot of the
+markets, very, very strong markets. So, normally, you shifted from one region to the other, your
+excess capacity, and that's not just us, but the suppliers as well. But meanwhile, you need them
+nearly everywhere in the world. And, here, the suppliers especially struggle who were going to
+predict capital-intensive products, while on the assembly side, you always can increase the line
+speed or add a third shift. A lot of the lately very optimized production capacities when machinery
+was involved was already running 24/7. And that is pretty difficult to increase 24/7, then you need
+more other than put other additional machinery into the production chain, which always takes
+time.
+That was just – this was one thing. The other thing, which in my opinion, harmed us even more
+was a shortage of labor in North America, and that includes Mexico and the U.S. So, a lot of
+suppliers, they weren't able to ramp up when it comes to their labor workforce. And that gave us
+then shortage of parts, and that means delays, that means express shipments that means
+rework, because we have to run our lines always at full speed, but then we had the truck sitting in
+offline and then have to do the rework. And then we have delayed deliveries even at year-end. I
+will see here the relief only if one or the other market takes a break, which we don't hope
+because that has other negative impact. So, we have to live for some time with it.
+A - Dieter Zetsche `
+China, I think we have seen quite a remarkable first catch-up and now defending a very strong
+position in China in our sales development, our market share development. And even though of
+course the overall economic growth is somewhat slowing down in China while 6-plus-percent is
+not really a bad number, we definitely see further opportunities for growth in this market.
+Under these circumstances it was very fortunate that for certain reasons, we were able to
+develop a new capacity which is for electric but for combustion engine vehicles as well, while their
+Chinese government has decided not provide licenses for additional combustion engine capacity
+anymore. So, we were kind of an exception. And this gives us further opportunity not to run into a
+situation Martin was just in a different framework describing for the truck side. I think I don't have
+to say more about China, the (00:36:28) plant is highly welcome and will go online very soon.
+In Mexico, we have developed a plant together with Nissan, which as you know, originally was
+supposed to host somewhat common products basis with different expressions. This project did
+not materialize, but we stayed with the common development of the plant, which of course is
+sharing funding, et cetera, a good thing to do. Their plant, which is basically run and developed by
+Nissan, has not shown the ramp up quality potential, which we're looking for. So, we definitely in
+all our production starts are quality driven, and only with reaching their satisfying numbers for our
+customers, we ramp up. So, we are in the progress, but still phase of getting this plant to its fullpotential. But we have a higher share in this plant than originally foreseen, as our partner has less
+demand there.
+And this, of course, is another opportunity for relatively low-cost capacity addition, which we need
+with our compact cars where we are very bullish about their market potential. And so in spite of
+these little bumps in the road at the start, which will not help us in the first quarter, we are very
+happy about this additional capacity we have in our hands in Mexico very soon.
+Q - Stephen Reitman `
+Thank you. Stephen Reitman, Société Générale in London. Turning to industrial free cash flow,
+clearly, there was a miss in the fourth quarter. You came in just over €1 billion less than the
+guidance that you'd been aiming for given at the third quarter stage. I think the guidance for this
+year is up to 25% improvement in the absolute cash flow – industrial free cash flow figure. So I'd
+like to maybe ask what had been the factors really behind the shortfall and your degree of
+confidence that you can make up and then exceed the figure in 2019.
+And a second question is also about China, again about the shareholding in the joint venture, and
+obviously BMW has already made a very clear statement about its intention to increase its stake
+in its partner, 75%. Can you give us an idea if – any stage of negotiations that you're in with Beijing
+Benz? Thank you.
+A - Bodo K. Uebber `
+Stephen, with regard to the cash flow, of course, we have seen that we had a huge impact in Q4
+from the sales perspective; we had this huge swing Q3, Q4. And Dieter pointed out in his speech
+also that – and I did that yesterday, that not everything went into cash. A lot of stuff we kept into
+receivables. And that is of course, when you look at the working capital, we have to €2.8 billion
+increased working capital. And when you compare this to 2017, where we had around €1 billion
+increase, you see where we can unlock some potential for 2019. And that of course will shift over
+to 2019. And therefore, our cash flow guidance is that we are slightly better than in 2018. And of
+course, it's a start of the year. But as always, I do think it's good to give a guidance where we
+need to be seeing what kind of potential we do have during the course of the year 2019.
+A - Dieter Zetsche `
+The effect was, to quite some extent on the passenger car side, but there was an effect on the
+truck side as well, basically with almost the same rationale. So, in January, we can get this proof
+you were asking for between the two years. The Chinese situation, everybody knows that
+according to Xi Jinping, their boundary conditions, their regulations for joint ventures will change,
+has not changed in steps between electric vehicles and trucks and passenger cars. So, passenger
+cars is 2022; plenty of time. And the wait proceed in this regard is to ask yourself, do you want to
+try to use that leeway or not. And if you want to, you talk with your partner and your co-
+shareholder, what their perspective on that one is. And then if these elements are aligned, you'll
+discuss about potential conditions of any potential change. And before you come to some
+conclusion in all of these steps, it's not helpful if you would publicly discuss that. There's plenty of
+time. We have seen BMW and we will tell you our ways when we're ready.
+Q - Angus Tweedie `
+Angus Tweedie, Citigroup. On the first question, you've mentioned and it's been mentioned last
+night as well that there seems to be a bit of a nascent recovery in diesel volumes in Europe. I
+mean, do you think that's actually underlying or do you think that's just scrappage incentivescoming through and how do you think about that market? And then secondly, on just a couple of
+modeling questions. Could you quantify the EBIT impact of WLTP in 2018 and what factored in for
+tariffs in terms of EBIT impact in your guidance for 2019?
+A - Dieter Zetsche `
+To your first question, when I'm talking about us and not about the industry, then we have seen
+and you have seen as well that the impact on reduction of take rates for diesels was almost, at all
+times, lower for us than for our direct competitors. We had an impact, but it was less pronounced.
+The same is true for residual values. And we have perhaps seen a similar shape of the curve,
+including the stabilization and meanwhile kind of recovery in recent times. This whole dynamic is
+very much driven from Germany – the discussion in Germany where it's difficult to forecast what
+new thing somebody has to contribute the next day.
+But for us certainly, to your specific question, call it the scrapping fee or their support for
+replacing older diesel with new diesels has a very limited impact as we are capacity constrained.
+And, therefore, we have no chance with as interesting discounts whatsoever or support to
+significantly change the number, including the fact that, for us, private customers typically buy
+used cars in Germany. So, we can't produce used cars. We can only produce them by selling new
+cars to feed customers which then will take their second. So, we think the effect we are seeing
+now is genuine but, of course, subject to what will happen tomorrow when we talk about trends
+or forecasts.
+WLTP, I think the question is difficult to answer for the simple reason that you hardly can really
+precisely define what was WLTP, WLTP in the first place was a necessity to have all vehicles
+certified by the new regulations to a certain point of time and some – which was when the
+regulation was passed clearly stated by the industry an mission impossible, just by the sheer
+capacity and volume needs to make that happen, independent of their additional emission
+standards which were to be accomplished technically, but just the administration of X times their
+certification effort by now not some models representing many others, but almost every model
+to be certified itself had a huge demand on the capacity with the manufacturers and with their
+government agencies who had to hand out these certifications.
+Now, we, for instance, basically got it done not the least because our cut date was July. So, when
+the regulation came in in September, we were done, but that mean, in many cases, at the last
+day and then you can have your planned planning and all of that, or you produce vehicles which
+are not the ones the customers want, but the ones you have certification for. It is huge turmoil in
+the overall logistics system, and it didn't end there. But to focus there to get it done to this date,
+of course, you postpone all the other stuff. And then you have, first of all, regulations which are
+related to WLTP and then you have regulation, which are nothing to do with WLTP, but you didn't
+have the capacity to receive them. So, you get delays in the overall system. It was a huge blowup
+to this overall logistics system which still has its aftermath and its consequences by today. And
+therefore, it's very difficult to define what is WLTP and what is all these problems with these very,
+very refined logistical systems with such a negative impact.
+And perhaps I should mention Bodo is pointing to that. One thing is that we didn't have cars to
+satisfy the demand of our customers. The good thing is that on an ongoing basis, and this was
+mentioned before, customers love our products, and they want to have more than we can
+provide. And this time, the capacity was significantly constrained, and there were other diesel
+effects which came on top of that. To some extent, then we had cars certified, but the customers
+were asking for different cars. So, you try to convince the customer to buy not the car he or she
+wants and how do you do that, typically by incentivizing him with money. So, this had, of course,an impact on pricing as well. And, therefore, again it's very difficult to exactly define the root
+cause and the consequence.
+A - Björn Scheib
+Next one is Horst, and after this then Adam and then Mike.
+Q - Horst Schneider `
+Yeah. It's Horst from HSBC. My questions are, first of all, on the importance of scale. What we're
+hearing at the moment, I mean if even Volkswagen thinks about cooperation with Ford and says
+it's 10 million units is not enough to cover the challenges for the future, I ask myself how a small
+manufacturer like Daimler can achieve that and, at the same time, even increase the margin? So,
+what is your thought about scale? What are you seeing how important that is when we heard
+some news flow that you want to combine autonomous driving research with some other
+carmakers, all these cooperations are already included in your plans to get back to the 8% to 10%
+margin? Then, the second question is more modeling related for Mercedes. I know you talked
+already about it, but can you again confirm what is your plans for other cost changes at Mercedes
+cars and trucks in 2019 and also prices, particularly at trucks?
+A - Dieter Zetsche `
+Scale, of course, is an important element in our industry, no doubt. And you have two effects.
+One is that you can potentially share development costs. And secondly then, of course, you have
+better lever on the procurement side when you're talking about bigger numbers. The latter one
+occurs, which very much go into kind of saturation. So, when we have a significant impact of
+volume with lower volumes, the impact gets smaller and smaller when you come to even higher
+volumes. And I would claim if you go with whatever, €1 million, €2 million to supplier or with €3
+million or €4 million doesn't make much of a difference anymore including most in this case then
+you have to split, if you go to two suppliers which then for the supplier doesn't provide any real
+cost advantage anymore.
+On the other hand, the best thing to go for scale is, first of all, to modularize to go for very
+limited number of architectures within your own volume, to have the best scale within your own
+volume. The moment you do that with others together, there are opportunities, but contra – in
+the opposite direction, you have complexity which typically is not irrelevant to get to agreements,
+how do you standardize, how do you think together or are you in agreement with the next step
+and so on and so on. So, we all have experience in that area and we all know that it's not easy.
+But what this represent is that all of us who care about their future and who see the necessity to
+heavily invest into this future and squeeze and have to see how can we share the financing, the
+startups, new companies do it with PE, with financing coming from their capital market. The
+traditional car manufacturers do it with their own cash flow and there are limitations and you, for
+good reasons then ask where is the cash flow for my dividend and for potentially additional free
+cash flow, totally understandable. And this squeeze, we are looking for solutions and again,
+partnering is one element of that. And, yes, we have some agreements and some
+understandings, but there are certainly potential and certainly we do not follow the stories of any
+magazines in this regard, but we have our own ideas and we see what makes sense or what
+might make less sense. And in the end, of course, it always takes at least two to tango. But that is
+certainly one lever to get to better margins into the future in this transformation period.
+Cost change, I have said what I want to say as far as Mercedes is concerned. And I think that
+makes sense because we are in the middle of defining. The scope is very much defined by theneed, by the way to get to the scope and we should not talk about that before we have our own
+plan or not. Trucks?
+A - Martin Daum `
+Yeah. And if we come to trucks, certainly that is daily life. We have a pretty rigorous regimen when
+it comes to cost and we always try to eliminate the market influence, which out of it and what we
+call normal year. And here, we have to have year-over-year, our opposition has to be better than
+the previous year. And we certainly have for 2019 a lot of good things in store. We have a feeling
+that we get a better hand on the constraint cost despite high markets, our fixed cost initiatives,
+which we started two years ago in Germany come for the first full year, in fact, in 2019 which will
+give us a nice boost.
+We still see on the other side raw material being – even if there's a full-year impact in 2019
+headwind, but then comes on the other side the pricing targets of competitive market. You
+normally beat pricing, so an absolutely attractive product where I think we have in all our core
+regions really industry-leading product, pretty fresh product, new Cascadia, new Actros, new
+Super Great in Japan. And so, I have a good feeling that we can use our pricing power through
+the exciting product. And then, on top of that, that we enlarge the content and that especially on
+the safety technology, which makes our trucks more valuable and has more content and that
+could give us another boost. So I'm really positive about 2019.
+Q - Horst Schneider `
+Sorry. For other cost changes in trucks, so it's a low-three-digit-million-euro amount we should
+think about in terms of...
+A - Martin Daum `
+It's very well-phrased, yes, a low-three-digit million amount.
+A - Björn Scheib
+So, next one will be Adam, then Mike, and then Philippe.
+Q - Adam Hull `
+Hi. It's Adam Hull from MainFirst. Thank you. Two questions, firstly, on mid-term free cash flow, I
+see 2019 cash flow might be up to €3.6 billion. I think you say that your ratio – sorry your
+absolutely spending on investments in R&D will actually be slightly down in 2019 versus 2018.
+That's encouraging to hear. But that free cash flow is still only 2% of revenue. As we look forward
+two, three, four, five years, can we really expect the total investment to be coming down
+significantly? I mean there is exiting of old technologies, we don't really have a sort of firm
+guidance on that, but maybe you could help us a bit on that. Secondly, trucks on the margin, 7% to
+9%, that's a big range. Maybe you could give us some quantification of these logistic costs, the
+hits you're taking at the moment. I think your shipping – are you flying 400 tons or something a
+week from Germany to the U.S.? And could you give us some indication of the 2019 savings
+compared to the 2018? How much of those savings did you already get and how much is extra in
+2019 versus 2018? Thanks.
+A - Bodo K. Uebber `
+So, your question was with regard to cash flow. Of course, it's quite clear. First of all, if we like to
+come back to the range of 8% to 10% of car growth which should have an effect on the cash flow,so one statement. Second one is that in tendency, of course, we expect that the total funding will
+go down over a couple of years. But that also has an EBIT impact finally and, therefore, also a
+cash flow impact. But we can't give you now the specific number, but it should improve.
+A - Martin Daum `
+For truck for me, it's difficult because I didn't see the question exactly. Yes, we work on
+constrained costs and are going to manage them better. We still see constrained cost going to at
+least for the first half of 2019 due to extremely good markets, continuous good markets in
+Europe, North America and a pretty value-recovering market in Brazil. So, yes, business, it's a
+tough business, but business is normal.
+Q - Adam Hull `
+Maybe for the...
+A - Dieter Zetsche `
+It's about the best problem to have that the market is so strong that we have problems to satisfy
+it.
+A - Bodo K. Uebber `
+Indication for 2018, of course, the number was between €200 million and €300 million impact in
+2018, of course, and Martin is working on, in 2019 that this number goes down. But, of course, it's
+a lot of – it needs a lot of management attention. And, of course, we need also to work together
+with the suppliers, of course.
+Q - Björn Scheib
+Good morning. It's Mike (00:57:06) from  Intelligence. Visiting CES and Detroit last
+month, it appears that autonomous driving is less of a priority for the traditional automakers. Can
+you just update us on your ambition for Level 4, Level 5 in terms of commercial production?
+Thank you.
+A - Dieter Zetsche `
+Certainly, all of us learn that the effort to cover with autonomous driving Level 4, Level 5 more
+than a limited guided area is higher than all of us thought before. So, a lot of funding is needed
+there. On the other hand, there's of course no provable business model at that point of time for
+a platform with autonomous cars. We all have assumption how much this will drive our cost and
+how much will this technology cost, what's the development cost, and so on and so on. But
+there's no clear cut business model, where you can say, okay, in four years, I get X-percent of
+return on that business.
+This is, on the one hand, the driver, why all participants are thinking about potential alliances,
+coalitions, how to deal with that issue because, on the other hand, of course, there's still
+potentially a very attractive situation in the financial market obviously. I was talking about Waymo
+looks at it that way. On the other hand, the situation is somewhat different on the truck side,
+where it's easier to imagine use case, which could be financially very attractive. And at the same
+time, the challenge there, at least in the beginning, might be less demanding to have a technical
+solution about this kind of use case. And that's why autonomous driving continues to be an
+important area to pursue, with use cases to remain be seen in the years to come.A - Björn Scheib
+Next one is Philippe and then it's Ralph (00:59:31).
+Q - Philippe Jean Houchois `
+Yeah. Good morning, Philippe Houchois, Jefferies. I have two questions, one on dividend and on
+head count. So, yesterday you, I would say, trimmed the dividend, rather than cut. I think if I look at
+your cash flow, the coverage of – or your dividend by the cash flow, for me, has been insufficient
+for a number of years. So, I would have expected a bigger cut. Moving on from that, I'm looking
+at, in financial services, which typically consume cash as they grow, in 2018, you had further
+growth in (01:00:02-01:00:06) and your return on assets, if we exclude the charge on Toll
+Collect, went down slightly. I'm just trying to understand, are we getting soon at a point where
+asset growth will stop and the finco (01:00:20) can become a source of cash, which you can use
+to support the dividend, which is basically the message we're getting out of Ford and GM right
+now, and because it should logically be less of a drain on your cash resources. I'd love to have
+your view on this one.
+And then maybe for Dr. Zetsche, on head count, so you're growing relatively small rate of growth
+last year, but you added almost 10,000 people to your head count. And I'm just trying to
+understand what is driving that now? Is it electrification where you add competence? Is it your
+gains on productivity are not what they should be maybe or is it more engineers in terms now of
+the mobility services? And you comment as well on the difficulty of hiring top quality software
+engineers which is something we hear about in the industry, if you feel that is also a struggle for
+Daimler.
+A - Bodo K. Uebber `
+Philippe, to your first question. Even in 2018 we had a positive contribution due to financial
+services from a net income point of view, so the dividend we got out of financial services and the
+capital increase we did, so, the net number was – you think €100 million, and that was a year
+where we did a lot of capital increase. So, in normal years we should expect that to be a couple
+of hundred millions. So, even when we grow fast, so, I don't see any constraints. I see a positive
+impact from financial services on the net liquidity strengths of the industry. But of course, we have
+sometimes situation in risk development, we have a quite good risk situation is at quite normal
+level
+A - Dieter Zetsche `
+Bodo, but of course he's right. When we would not grow, of course the provision of return from
+the financial service side could be higher, but it's not necessarily good news for the cars, for the
+vehicle business to resume that stagnating business.
+A - Bodo K. Uebber `
+Of course, we need to support and there's a support function from financial services and not only
+support, but also loyalty. As we know then we do high penetration rates on a certain level so
+loyalty of customers is higher. And therefore, of course, if we would slow down we would do
+negative things to the industry and to the whole company. So all-in-all, a positive situation in
+financial services.
+A - Dieter Zetsche `On the head count side, we had now many years and this of course has to be the fact where our
+revenue growth was significantly higher than our percentage head count growth. We have some
+areas where we have seen typically reducing your vertical integration is the way to go on the
+industrial side. We have seen areas where the opposite direction might make sense. That is, for
+instance, very much true on the IT side, where just managing the IT production from outside
+companies is neither, as far as speed is concerned nor as far as cost is concerned, the most
+efficient way. So, we have built up pretty significant numbers of really line coding people in our
+company; that's one of element. All together in R&D, we had further increase of our head count,
+to some extent related to some labor laws in Germany, where it's more and more difficult to
+work with third parties. But all together, clearly when we're looking forward, that is one area we
+have to focus very much that the revenue per head count will further increase.
+A - Martin Daum `
+Maybe as a bit of transparency, in Germany we had an increase of 2,500 people roughly from
+this overall 10,000 increase, so that means the other increase was outside Germany. And also
+maybe related to trucks, yeah, 3,000 people in trucks in Germany is stable. Into the car group,
+the same applies. We have an increase in financial services, which is mainly regarded to mobility
+service, 1,000 people, so that is a rough distribution of this number.
+A - Björn Scheib
+So, the last question, as far as I see, is with Ralph (01:04:52) or are there any questions left open?
+I've only got one topic. I'm interested in your CO2 fleet emissions last year. Could you give us
+that number and the year-on-year trend? And most interestingly, what was it under WLTP and
+what was it under the old norm so that we have an idea of the difference?
+A - Dieter Zetsche `
+I mean, we have not finalized and, therefore, not published the 2018 number. But it's fair to
+accept that 2018-2019 is an increase which, on the one hand, makes the gap towards 2020, 2021
+even bigger. And as I said before, one element is that the same fleet produces higher numbers
+with the new WLTP certification process, which doesn't give us any benefit from any other side.
+We just have to compensate for that with additional measures. So expect the development in
+2018 and 2019 to go into the wrong direction, and then a relatively steep development to 2020,
+2021 as needed as per regulation and that explains to some extent all the additional content, and
+there is the strong drive to electrification, which we will see in these years.
+A - Björn Scheib
+So the very last one now will be Tim.
+Q - Tim Rokossa `
+Yeah. Thank you. Tim from Deutsche Bank again. Mr. Zetsche, you touched so many times on
+alliances and possible cooperations and everything. And I think this is absolutely key in the
+industry. You have this role model internally with Renault, for example, where you saw some
+engines you partly had a joint platform. Can you perhaps just tell us where you think which areas
+of the car you need to have full control over internally, or where you think it makes just simply
+sense to really combine forces and work with other guys? Thank you.
+A - Dieter Zetsche `I'm not sure that there is a very clear black and white differentiation between areas where you
+build your brand and areas where you just have to provide a function no matter how. But
+directionally, I would say that the latter part increases. I mean, when several years ago, there are
+many car owners at least in Germany would have said that the engine is absolute no go,
+meanwhile very few people really consider that as decisive and we had much more success over
+the engines we developed based on Renault engines and we have our expected and planned for
+ourselves.
+Definitely from the mechanical side, things like there are, the MBUX for instance, there are much
+more important to customers today than they used to be – rather it didn't exist at that time other
+than you were turning the knob at your radio. So obviously there is a huge change and this will
+continue to change. But directionally, whether the axle is vertical or horizontal, the car has to have
+a good behavior and an AMG car even more so, but it is not that relevant anymore. There is lot of
+leeway for collaboration and from this angle – and it's growing.
+A - Björn Scheib
+So, thank you very much. After there had been no single question about Project Future, let me
+just add, Project Future is fully on track and is on execution about the timeline. Just to get this
+clear to everybody again. On the 22nd of May, we're going to have our Annual Meeting with the
+shareholder resolution on Project Future. Thereafter is the approval by the employees in order to
+be moved on to the legally separate entities. And last but not least, the new legally separate
+entities are going to be registered with the Stuttgart Court in November. This is the timeline for
+Project Future, just to illustrate to everybody here in the room and on the Internet, how are we
+going to proceed in the course of the year.
+With this, ladies and gentlemen, thank you so much about your questions and being with us
+today. For the ones listening on the Internet, thank you very much for joining in. Big thank you to
+the Daimler management team for answering all your questions.
+And now, investor relations remains at your disposal to answer any open questions that you may
+have. Otherwise, we're going to look forward to see you soon at any of our events in the course
+of the year. Have a nice day, nice afternoon or nice morning wherever you listen in. Thanks and
+goodbye.

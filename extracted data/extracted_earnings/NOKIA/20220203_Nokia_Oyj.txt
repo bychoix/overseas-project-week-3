@@ -1,0 +1,601 @@
+Y 2021 Earnings Call
+
+Presentation
+`David Mulholland, Head of Nokia, Investor Relations `
+Good morning, ladies and gentlemen, and welcome to Nokia's Fourth Quarter 2021 Results Call.
+I'm `David Mulholland, Head of Nokia, Investor Relations, Head of Nokia Investor Relations, and today with me is Pekka Lundmark, our
+President and CEO, along with `Marco Wiren, Chief Financial Officer, Member of the Group Leadership Team, our CFO. Before we get started, a quick disclaimer.
+During this call, we'll be making forward-looking statements regarding our future business and
+financial performance and these statements are predictions that involve risks and uncertainties,
+actual results may therefore differ materially from the results we currently expect. Factors that
+could cause such differences can be both external as well as internal operating factors. We have
+identified such risks in the risk factors section of our Annual Report on Form 20-F, which is
+available on our Investor Relations website.
+Within today's presentation, references to growth rates will mostly be in a constant currency
+growth rate basis and margins will be on our comparable reporting. Please note that our Q4
+report and this presentation are published on our website on both reported and comparable
+results and reconciliation between the two are available there.
+In terms of the agenda for today, Pekka will give a quick overview of our financial and strategic
+progress throughout 2021 before explaining the new long-term targets that we've introduced.
+Marco will then go into a bit more detail of some of the key factors impacting our financial and
+cash flow performance before explaining how we see the business outlook for 2022 and then
+we'll go to Q&A. With that, let me hand over to Pekka.
+`Pekka Ilmari Lundmark, President, Chief Executive Officer `Thank you very much, David. Hello, everyone, and thank you for joining the call today. Q4 ended a
+year which was truly transformational for Nokia in many ways. I would like to start with growth. As
+you remember, we have said throughout the year that this year would be different in terms of
+seasonality and that's exactly what happened.
+We had 3% top-line growth overall in the year, EUR22.2 billion sales. Q4 pretty much, as
+expected, was 5% down year-on-year, EUR6.4 billion, because we had this year in a way much
+more balanced seasonality compared to where we have typically been. Q4 top-line highlight was
+clearly network infrastructure, 10% of growth. So overall, good year from a top line point of view,
+pretty much as we expected when it comes to seasonality.
+So now, let's look at operating margin. We had a strong Q4, 14.2% comparable operating margin
+but, again, because we had more stable seasonality this year, it was 190 basis points lower than
+the extremely high and strong Q4 that we had last year.
+But overall for the full year, 12.5% comparable operating margin, it's a 300 basis point
+improvement over 2020. I'm extremely happy and proud of this achievement that our team has
+delivered. Why do I say that it was a transformational year? Well, this graph helps me to explain
+that. Here you see, first of all, net sales constant currency growth each quarter. This was 2020
+growth in each quarter. And here you can see the corresponding growth in 2021, very different
+picture between those two years, but yes, different seasonality, Q4 being relatively weaker as
+expected. And then, here you see the significant margin improvement that we delivered. Here is
+12 month rolling comparable operating margins starting from Q1 2020 and then developing all the
+way to the Q4 and to the 12.5 margin that we had.
+So overall, great performance in margin execution and this has now, together with very good
+working capital efficiency, helped us to deliver a strong cash flow, EUR2.4 billion, free cash flow for
+the year, which means that we now have, at the end of the year, a EUR4.6 billion net cash position
+on our balance sheet. And, in simple terms, this means that we now have a possibility to the
+shareholder distributions, Board is proposing to shareholder meeting, Annual Shareholder
+Meeting, that we will start dividend payments and Board is also initiating a share buyback
+program and Marco will actually talk more about this in his part. But now, I would like to move on
+and make a few comments on each of our businesses.
+And I start with Mobile Networks, which had, if I say for the fourth -- for the growth that we had a
+transformational year that definitely applies to Mobile Networks, EUR9.7 billion sales. That's down
+5% year-over-year, pretty much as we expected, because of lower market share in North
+America because of the decisions our customers made in 2020. But what is remarkable is that
+despite this 5% decline in sales in constant currency, we had -- through our improved technology
+position, we had 150 basis points improvement in gross margin and we had stable comparable
+operating margin. That's really a strong execution from mobile networks. That is further
+confirmed by the KPI development. Here you see the KPI that we've been reporting for quite
+some time, which is the ReefShark share of all deliveries in Q4, 68%, and in December, already
+76%. So this is pretty much or actually even slightly higher than what we told that we would be at
+the end of the year, I think our guidance for 70% for the end of the year.
+So we're strongly on track to meet the target to have pretty much all our deliveries in ReefShark
+based by the end of this year. And then the other important indicator that we've been reporting
+is our combined 4G, 5G market share outside of China. No sorry, not market share, that we are
+also reporting that was 26% but this graph here is talking about conversion rate, 4G, 5G
+conversion rate, which has now stabilized on about 90% level, and now when we have, in a way,
+stabilized the situation in Mobile Networks, now, of course, the only acceptable go going forwardis to then start gaining market share. And I think we have every possibility to do that because we
+have so much stronger technology position now compared to where we were about a year ago.
+In the middle of this year, we launched the new generation of AirScale products both baseband
+and new massive MIMO radios. Largely, we can now say, and this has been confirmed by multiple
+customers, that we have closed the gap to competition in 5G.
+We are already shipping the new AirScale baseband. We have already shipments to over 150
+customers with excellent feedback. One extremely important feature of the new generational
+product is 75% improvement in baseband energy efficiency. And one additional highlight that I
+would like to mention, which we achieved recently was a new benchmark of almost 3 gigabits per
+second radio performance in 5G standalone downlink throughput using carrier aggregation with
+AirScale on a live CSP network, 3 gigabits per second.
+Then onto network infrastructure, a real stellar year and here you can see, first of all, how the top
+line development in the four divisions inside Network Infrastructure. As you can see, all
+businesses had top-line growth, but of course, two really, really fantastic divisions, Fixed
+Networks, 35% growth in the year, and then Submarine Networks, 33% growth. We have clearly
+taken market share in this business, service provider routing. This is actually market share
+development all the way -- going all the way to the third quarter 2017, and this is third quarter
+2021 on a rolling 12-month basis, which is the last available market share from Dell'Oro at the
+moment, 26% is the latest figure that we have in a service provider routing. And then, the most
+important focus segment for us in fixed Networks, this is not the only business, of course, we also
+have copper and we have optical network terminals and fixed wireless access. But if I focus on
+OLTs, optical line terminals, which is the most important stronghold that we have in this business,
+we have there now a growing market share and a very high market share of 41% and when you
+look at the market development forecasts for this business going forward, it's actually pretty
+promising when you look at what the market research agencies are expecting about the
+continuous fiber rollout. There are still several countries, for example, in Europe, large countries
+where the fiber penetration or actually homes passed by fiber has not even reached 50% yet.
+Optical Network market share has been fairly stable, 16%, here, we have very important new
+product generation now in early deliveries. We are strengthening our position in this business as
+well. So overall, we continue to have great momentum to build on our technology leadership in
+Network Infrastructure.
+Then, onto Cloud and Network Services. As you may remember, we've been talking about re-
+balancing of the product portfolio, because there is a very, very right -- wide range of products
+available in that business. We have decided to focus on six segments, 5G Core, Analytics and AI,
+Private Wireless, Digital Operations, Monetization and Security. We believe that these are those
+sweet spot in the CNS business where the best growth and the best profitability can be achieved
+going forward, and I'm pleased to report that if we take those six focus areas that I just
+mentioned, our year-on-year growth was 13%, overall CNS was 1%, but growth in these focus
+areas was 13%. And then in other than these growth -- focus areas, the top-line development was
+minus 8%. So this just seems to confirm that we have made the right choices when deciding on
+the focus areas. Then, Nokia Technologies delivered another strong year, 8% top-line growth,
+excellent profitability, continued and of course, patent portfolio development being an extremely
+important KPI of the outlook of this business. During the year, we reached the very important
+milestone of 4,000 patent families declared as essential for 5G standard. So overall, strong
+execution including and this is important, including new engagements in automotive and
+consumer electronics as we do want to grow into new areas in this business.Then, couple of comments on Enterprise, which is not of course not a business group of its own.
+These numbers are embedded in the numbers of several businesses, but we are tracking them
+separately because we have a very strong ambition to grow beyond our traditional customer
+base of service providers and we do believe that Enterprise business offer a significant growth
+opportunities going forward. The 1% net sales growth that we had in 2021 did not meet our
+expectations. That's the bad news. But the good news is that we had extremely strong order
+intake, especially in the second half of the year. That means that we now have a strong
+foundation for growth for this business for 2022.
+One important, not the only one, but one important focus area in our Enterprise business is
+private wireless, and as you can see this development continues in a very promising manner. We
+currently have 420 private wireless customers. Private wireless has two sub-segments. One is
+wide area networks, for example, for authorities and railways and utilities. But the other one which
+will be a fast growth segment going forward is campus wireless, 14 million industrial campuses in
+the world. Significant part of them will, one way or another, invest in new generation of
+networking in the coming years. We have decided to double down our investment in campus
+wireless. We are expanding and increasing our R&D investment in campus wireless to build on
+top of the already strong initial position that we have in that, and then of course, very importantly,
+the sales and distribution at the partner, Network -- distribution partner, network that is needed to
+reach out to those 14 million campuses is another significant part of the investment.
+And then, one additional important thing in the Enterprise businesses is increasing engagements
+with webscalers who of course can be extremely important partners in many parts of that
+business. So as you remember, when we presented at our Capital Market Day, we, in a way,
+launched a three-step concept in our strategy execution, reset, accelerate and scale. And now,
+I'm pleased to confirm that we have completed our reset phase.
+First of all, strategy, we refocused on R&D to make sure that we go for -- go -- strive for -- drive
+for technology leadership in all the segments where we compete. We changed our focus from
+end-to-end to best-of-breed. Definitely we are delivering complete Networks also and engaging
+in network architecture discussions with customers, but we do not want to mix that with the
+extreme importance of each business group had being responsible for achieving technology
+leadership in their own segment. Then, on the product side, as I already mentioned, Mobile
+Networks secured full portfolio competitiveness largely caught up competition in 5G. We have
+stepped up R&D while improving gross margin as I already earlier said, [ph]550 basis points.
+Profitability, yes, 300 basis points improvement in comparable operating margin. One driver
+behind it is that we streamlined SG&A to be able to fund R&D. We had significant increase in our
+R&D spending and despite that increase in R&D spending, we had 300 percentage -- 300 basis
+points expansion in our comparable operating margin.
+Then leadership structure and the way how we operate -- new operating model for BGS, we've
+removed the matrix in our P&L management, new members in Group Leadership Team much
+more straightforward, easier to understand, simple, down to the earth model that maximizes the
+accountability within the management team.
+And then last, but definitely not least, people. We renewed our purpose during the year and we
+renewed our ways of work and we launched new cultural essentials, open, fearless and
+empowered which is our guiding star in how we continue to develop our corporate culture.
+So with the reset now behind us, it's time to accelerate and what does accelerate and then after
+accelerate, scale, what is actually mean? It's actually very simple accelerate -- accelerate meansexactly what it is, accelerate, grow and expand margins. We want to now deliver growth across
+our businesses, and we want to continue to expand our margins. We have renewed Mobile
+Networks portfolio, Strong Network Infrastructure technology leadership, growth in CNS focus
+areas. We have strong momentum in enterprise, Grow, that's what we want to do. We will
+continue to invest. We want to prioritize R&D investments into our core areas to further
+strengthen technology leadership including, and this is just two highlights now which we have
+perhaps not talked that much about. I already mentioned doubling down in our investments in
+campus wireless to maintain and extend our lead, but then I would also like to highlight Optical
+Networks.
+We are now delivering our next generation product, PSE-V generation. We are capitalizing
+momentum created by it and this is now a good place to increase ambition level in technology
+leadership also in the optical business. We continue to optimize how we operate, continuous
+review of business returns to optimize portfolio. There is still a possibility to improve further R&D
+efficiency, continue to refocus R&D especially in CNS towards the growth areas, and very
+importantly, we continue to invest in the digitalization of our own operations. There is still some
+old tools that we are using in different parts of the company and we target additional productivity
+improvements through digitalization investments.
+And then the last point, definitely not the least important one, which is innovation going forward.
+We are building new business models like as-a-service, CNS has already launched the first as-a-
+service offerings and this is something that we will expand on, we will expand on enterprise. As I
+said, we continued to build strategic partnerships including with webscalers, and then we want to
+utilize long term innovation capacity including Nokia Bell Labs, the fantastic research organization
+that we have there. We believe that there is a case for speeding up the commercialization of the
+innovation that takes place in Bell Labs and then NGP, Nokia Growth Partners, the venture capital
+arm that we have excellent results in 2021. We have just announced their next fund, which Marco
+will talk more about. So in short, grow, invest, optimize and innovate.
+And then to finish, let's take a look at our long-term targets, which we have published today. First
+of all, given the pace of our strategy execution, we feel that now is the time -- right time to
+introduce new long-term markets, and of course, we aim to deliver continuous improvement
+each year. First of all, we want to grow faster than the market, then we target to reach at least
+14% comparable operating margin in the next three to five years, and we are targeting 50% to
+85% cash conversion from the comparable operating margin.
+So overall, ladies and gentlemen, we have every reason to be optimistic about the future. I'm so
+proud of this team who delivered such a transformational year and with that, I would like to hand
+over to Marco.
+`Marco Wiren, Chief Financial Officer, Member of the Group Leadership Team `
+Thank you Pekka, and hello, from my side as well. If we now just look shortly the financials and
+deliberate deeper also when it comes to our 2022 guidance, we start with the top line and how
+that was developed during the Q4. If we look here, we can see that our sales declined by 5% in
+constant currencies and we have communicated throughout the year as well that we will see a
+different seasonality that we've seen in the previous years.
+And also, if you look at different regions, you can see quite different development starting with
+Europe. We're very happy to see that we have a good growth in Europe, and thanks those wins
+that we have made in this area, mainly in MN and 5G deployments. Then if you to go to Asia-
+Pacific, you can see that we have a decline about 13% and this is mainly driven by the Southdecline that we have there. And then of course, I have mentioned North American market as well.
+As you know, we've been communicating about the negotiations that happened in Mobile
+Networks side in North American market in 2020 and of course they had a impact on our net
+sales here in Q4.
+I just want to mention also that in NI, Network Infrastructure side, we actually had a good growth
+in North America in quarter four, but that could offset the whole decline that we saw on a mobile
+network side. But worth mentioning also that in North America full year, we still saw about 4%
+growth. And then if we look what comes to operating margin development and if we start from
+'19 and 2020 and we had a 9.5% operating margin and we had -- the headwinds that we've been
+communicating as well just I mentioned on North American market, those actually played out
+exactly as expected. Then these were offset by a strong underlying demand especially in NI and
+mobile networks and also in the mobile networks side, we had a very good progress on our
+product cost side. And thanks to these good market wins that we had and then own progress on
+product cost side, we had a good development throughout the year and also the external market
+analyst firms upgraded the market expectations couple of times throughout the year. And with
+together, the one-offs that we had, we landed at 12.5. So very proud of this progress that we've
+seen throughout the year.
+And then when comes to cash performance, we had a good cash performance throughout the
+year and also in the Q4 and cross cash landed at EUR9.3 billion and the net cash at EUR4.6 billion.
+So within the quarter, we actually had a very good profit generation and that was off taken down
+actually by - mainly by the net working capital development where we saw receivables increasing
+slightly offset by inventories which were a little bit down.
+So, all in all, EUR300 million increase in our net cash during the quarter. What comes to free cash
+flow that landed at about EUR400 billion -- EUR100 million in the quarter and the full year was
+about EUR2.4 billion, and at the same time as we were actually continuing the reducing the level
+of receivables.
+And then what comes to how we using the cash, I think we have a quite clear capital allocation
+policy. Our first priority is investing in R&D and we believe that this would give good returns to
+shareholders. And the second priority is shareholder distributions. And if we look the R&D
+investments, why do we do with that, just securing that we have a technology leadership not only
+today but also longer term, why we invest more in Bell Labs, and also the MGP, our venture fund
+that Pekka just mentioned. And in both of these areas, we also have a business innovations. What
+comes to NGP, we just announced today a new fund, Fund V, and that's about a USD400 million
+fund that we will invest in the next coming years in areas that are strategically relevant to Nokia,
+and if you look the track record of NGP it's being very good. So far, they have had about 15% to
+20% IRR at maturity.
+In addition of that, of course, the good financial position that we have, we have to secure that we
+can fulfill those commitments we have towards our customers and that's why we will intelligently
+think how to increase the inventory levels that we have, especially in these situations where se
+see that there is a supply chain constraints.
+And if you look our working capital rotation days, we've seen a pretty good development in the
+past two years' time and also the inventory rotation days have been declining in a nice way and
+I'm not worried about is, if we increase inventories, inventory levels at such because that will
+definitely benefit our top line and margins. You see a slight increase in accounts receivables
+towards the end of the year and I would say that this is mainly because of we reduced the sale of
+receivables. So the underlying development is very good.And what comes to the distribution to our shareholders, thanks to the strong liquidity position
+that we have, actually, the board of directors have today proposed to the AGM at EUR0.08 of
+dividend for results of 2021 and this will be paid on a quarterly basis.
+Also to manage our capital structure and excess cash, the Board of Directors will initiate now a
+share buyback program, with the intention of repurchasing up to EUR600 million over the next
+coming two years.
+And let's go over to -- turning to outlook. And giving some more details of each of these three
+different areas, and just stating the outlook itself on the net sales side, EUR22.6 billion to EUR23.8
+billion and the comparable operating margin between 11% and 13.5%.
+Free cash flow, we actually have changed how we guided that in the future. So now it's a
+conversion from comparable operating profit to cash flow, and we believe that in 2022 that would
+be between 25% to 55%, and let's look into each of these little bit more detail. What is the
+background and support for these. Starting with the top line. If we look the operating -- the
+addressable market, we see that it's growing about 3% on constant currencies and we see
+growth across all businesses. In Mobile Networks, the driver is 5G deployments, in Network
+Infrastructure, it is connectivity, investments in national broadband initiatives and also the fixed
+wireless. And what comes to Cloud and Network Services, we see continued growth in enterprise
+sector, especially in private wireless but also web-scale like Edge compute and regionally, I would
+say that we see growth in all regions, especially in North America, Europe and Asia Pacific.
+And of course, without the constraints that we see in the supply chain, I think we would see higher
+growth on this as well. Just a couple of words about Mobile Networks as well. This is now
+excluding China and Network Infrastructure is excluding the submarine business and Mobile
+Networks growth of 3%, I would say that if we compare with external analyst firms like Dell'Oro,
+this is pretty much aligned with their expectations as well. This is now in constant currencies in
+euros, while they usually have USD and also the perimeter is a little bit different. They only look
+the RAN while we have a little bit wider perimeter.
+And if you look operating margin, we can see that starting from '21 and excluding the one-offs,
+about 150 basis points we land at 11 and we see that sales growth and operational improvements
+will be the main driver of the margin improvements during this year, of course tempered by the
+impact from supply chain costs, general cost inflation and also on investments for the future. So
+2022 will be a continuation of the path towards our long-term target.
+And then finally, what comes to our cash flow guidance, in 2021, we had a very strong cash
+conversion, almost 90%, and in 2022, most of these factors will be similar to '21, but we assume
+increased outflow of networking capital as we build more inventory and I believe also, we will
+have more normal customer payments. What comes to Nokia tech, we can have about EUR450
+million impact from the prepayments that we have received in earlier years and these together
+will lead to cash conversion between 25% to 55%, and the long term, when we see more normal
+networking capital development, we believe that cash conversion should be between 55% and
+85% but also, if you take 2021 and 2022 together, we will actually be already around that area
+that we see in a longer term. So, thank you from my side and back to you, David.
+`David Mulholland, Head of Nokia, Investor Relations `
+Thank you, Marco, and thank you, Pekka, for the presentations. Before we move to the Q&A
+session, I just wanted to give you all a date for your diaries, and following on from the Mobile
+Networks progress update that we did back in December, our next event for progress updateswill be on our Network Infrastructure business and that session will be held on Thursday, 17 March.
+We'll send the details out to you shortly.
+With that, over to the Q&A. As a courtesy to others in the queue, could you please limit yourself
+to one question. Rachel, could you please give the instructions.
+Questions And Answers
+Operator
+Thank you. We will now begin the question-and-answer session. If you are also watching the video
+webcast, please remember to mute the audio on your computer before asking your question as
+there is a 30-second delay.
+(Operator Instructions) I will now hand the call back to Mr. `David Mulholland, Head of Nokia, Investor Relations.
+A - `David Mulholland, Head of Nokia, Investor Relations `
+(Technical Difficulty) Rachel. Our first question comes from `Andrew Gardiner, Analyst, Citi of Citi. Andrew.
+Please go ahead.
+Q - `Andrew Gardiner, Analyst, Citi `
+Thank you, David. Good morning, guys. I appreciate you taking the question. I had one on the
+revised long-term margin target, please. You spoke, Pekka, about the phases of the strategy, you
+just completed the reset phase and are now embarking on accelerate and scale. Under the reset
+phase you'd already shown nicely expanding margins to about 1.5 percentage points on an
+underlying basis last year, excluding those one-offs and you're calling for similar kinds of
+expansion, 1 to 1.5 percentage points this year. If you are now moving into the accelerate phase
+and like you described focusing on growth, both at the top and the bottom line, why is it going to
+take longer to expand margins to the north of 14% than it has been during the reset phase. Thank
+you.
+A - `Pekka Ilmari Lundmark, President, Chief Executive Officer `
+Yes, thank you. That's, of course, so highly relevant question. We have a stronger technology
+position now than we had a year -- year and a half ago. The market continues strong carrier
+CapEx plans at least what we have seen now in North America for this year, for example, they all
+look strong. Then there are also continuous uncertainties on the component side, inflation,
+uncertainties which I simply don't want to get ahead of ourselves. We want to make sure that we
+have continuous improvement year-over-year and we felt that if we take the underlying
+profitability of 11%, excluding the one-offs last year, we felt that 14% is the right level for the three-
+to five-year target, of course three to five years is a fairly wide range.
+We do see improvement potential in Mobile Networks, in Network Infrastructure, in Cloud and
+Network Services and I was talking about the levers that we've seen -- supporting the growth and
+market, margin expansion and business in those businesses earlier.
+A - `David Mulholland, Head of Nokia, Investor Relations `
+Thank you, Andrew. Our next question will come from `Simon Leopold, Analyst, Raymond James from Raymond James.
+Simon, please go ahead.
+Q - `Simon Leopold, Analyst, Raymond James `Thanks for taking the question. You didn't talk too much about supply chain constraints, which I'm
+interpreting as probably good news, but if you could update us because you certainly did indicate
+that there were some headwinds. So I'd like to get an update in terms of some quantification of
+what the impact was in terms of the quarter, how it's evolved over the last 90 days.
+And what are you assuming in terms of improvement in any supply chain constraints for your 2022
+outlook. Thank you.
+A - `Pekka Ilmari Lundmark, President, Chief Executive Officer `
+Yes, thanks. If my memory serves me right, I said in, was it in Q3 report, I'm not 100%, but
+somewhere, I said that it could get worse before it gets better. And now, we did not say that, but
+it would -- it does not mean that the situation would be over. It has stabilized, that is fair to say,
+but it continues tight.
+There are still going to be, at least in the first half of this year, situations where people live more
+or less hand to mouth. We had 3% top-line growth last year and that growth could have been a
+bit higher, had there been more component semiconductors especially available. So there was a
+revenue shift from especially in the second half of the year including Q4 to 2022, and again, we
+are not out of the woods yet. We have managed this very challenging situation very well, without
+any major casualties or any major customer losses but the situation continues and calls for
+continuous day-to-day management. Then, when it comes to the economic impact of this in 2022
+numbers, we have, of course, incorporated that in our guidance and that is one of the reasons
+why, as you could see, the 2.5 percentage point guidance range is still quite wide at this time.
+A - `David Mulholland, Head of Nokia, Investor Relations `
+Thank you, Simon. The next question comes from `Frank Maao, Analyst, DNB at DNB.
+Q - `Frank Maao, Analyst, DNB `
+Yes, hi and good morning, everyone. So my question pertains to the Cloud and Network Services
+business. What are the main challenges you see there with regards to margin progress building in
+2022, but also the longer term, do you see potentially contributing positively being accretive or
+diluting potential, so to the long-term Group margin, how do you see it longer term. Thank you.
+A - `Pekka Ilmari Lundmark, President, Chief Executive Officer `
+Well, the Cloud and Network Services being more software-centric than the other businesses. Of
+course, that means that if and hopefully when we get the volumes up really up in the new focus
+segments, there should be a lot of additional margin potential yet. Right now, we are still doing a
+lot of portfolio cleaning, there are a lot of old products that are getting to the end of their
+economic life. There are also some non-performing units, non-performing products that we are
+cleaning up and then we are increasing our focus and investment in the focus areas that I was
+talking about and I believe that, that has a possibility to deliver good growth going forward.
+On top of all this, and I did talk about campus wireless also quite a lot, and then there is the
+strategic structural development that would start taking speed gradually, which is the
+development towards various as-a-service models where you actually want to offer certain
+functionality, for example, in network security, network quality management and anomaly
+detection as-a-service.
+These are some of the initial services that we have just recently launched. And then one thingwant to hide the enormous network complexity from developers and offer a simple set of APIs
+through which networking functionality, for example, industrial vertical applications can be offered
+to users and that way engaging the developer community in a much more simple and
+straightforward way than what has traditionally been the case in this type of networking
+applications and communications networks in general.
+A - `David Mulholland, Head of Nokia, Investor Relations `
+Thank you, Frank. We'll now take the next question from Alex Duval of Goldman Sachs.
+Q - `Alexander Duval, Analyst,, Goldman Sachs `
+Yes. Hi. Thanks for the question. I had a quick one on the US market in wireless and Nokia's
+position there. I wanted to firstly, if you could talk a bit about what you see in terms of market
+demand both this year and next year for that particular market on the wireless side. And
+secondly, related to that, there have obviously been some historic share losses. I wonder to what
+extent you feel given what you're saying today about an improved wireless offering that you
+could potentially regain some share and how much progress we could expect from that. Many
+thanks.
+A - `Pekka Ilmari Lundmark, President, Chief Executive Officer `
+Of course it goes without saying that the 16% decline in net sales of mobile networks in the
+quarter is not a good achievement. But the point here is that it -- that this is something that we
+had been trying to say throughout the year, that the seasonality would be different. And this again
+-- this go back to decisions that customers made earlier in the year 2020.
+Now, the good news is that after those decisions in typically mid -- around mid-2020, we have not
+lost any more market share in North America. We have had some smaller wins with some smaller
+operators. We, of course, then also secured a five-year 5G deal with both T-Mobile and AT&T.
+So in the big picture, I would put it this way that we have now established a new baseline for our
+North American business, and that's not a bad baseline, on top of the mobile network position
+we have strong position in Network Infrastructure and Cloud and Network Services, which we're
+quite a lot. Actually, we're able to compensate for what Mobile Networks launched in Q4 in North
+America. Now, listening to the CapEx plans of the key customers in America, that is of course a
+reason for optimization. We see continued strong market demand there. And now, very
+importantly, when we have a completely different product competitiveness than we had a year or
+even two years ago.
+We have every reason to be hopeful and optimistic. And I don't think that when we are talking
+about targets to, in general, not only North America, but in general, to now start to go after
+increasing market share, I do not see that as an unrealistic target.
+A - `David Mulholland, Head of Nokia, Investor Relations `
+Thank you, Alex. We'll now take our next question from `Peter Nielsen, Analyst, ABG at ABG. Peter, please go
+ahead.
+Q - `Peter Nielsen, Analyst, ABG `
+Thank you very much, David. And good morning, gentlemen. Can I just follow up on that, Pekka,
+please and preceding question. The margin guidance you've given for Mobile Networks is a fairly
+broad one. Could you discuss a little bit what will be the determining factors where they end upwithin the upper end of the range. Is it primarily a question of top line leverage. Thank you very
+much.
+A - `Pekka Ilmari Lundmark, President, Chief Executive Officer `
+Yes. If you -- I mean, top-line leverage is of course extremely important in Mobile Networks, but
+there is also the gross margin expansion that we saw in the year. We had 7.9% comparable
+operating margin in 2021 and if you take away some of the effects of the one-offs, 7% roughly
+would be a good comparable starting point for this year and we are saying that our assumption is
+between 6.5% to 9.5% and of course, we have incorporated into this, everything we are seeing
+on the market.
+On the positive side, stronger product position demand that continued strong. Then on the other
+side of the equation, inflationary development and we are playing all this against each other.
+You may call it boiled, that's of course your call. But we are just trying to give you as realistic and
+as honest and as transparent picture as to where we believe that this year would land.
+A - `David Mulholland, Head of Nokia, Investor Relations `
+Thank you, Peter. We'll take the next question from `Francois Bouvignies, Analyst, UBS from UBS. Francois,
+please go ahead.
+Q - `Francois Bouvignies, Analyst, UBS
+Hi, thank you very much. My question is we get the top line for 2020. So if you look at your
+guidance, and I just did focus on currency, you are barely growing in your top line in 2022, if my
+math is correct, and you showed some addressable market growing 3% at constant currency.
+If we look at your comments, a strong backlog, a positive momentum in operator's CapEx, which
+is well above, I mean, 3% with no market share loss. Europe, you're gaining some market share
+because of the swap out. So I'm trying to reconcile all these comments and the market dynamic
+with your guidance for the top line. Is there anything we should be aware that would justify a
+lower growth and market growth. I'm just trying to understand if I'm missing something. Thank
+you.
+A - `Marco Wiren, Chief Financial Officer, Member of the Group Leadership Team `
+Yes. Thank you so much. As we stated that, we believe that market, in general, would grow about
+3% and there's a little bit differences in Mobile Networks market, which is 3% growth. And as I
+said, this is pretty much according to same principle and the same levels as Dell'Oro. If you look
+the same perimeter and the same currency. So currencies play a big role here also. And in
+Network Infrastructure, the market is growing about 3%, as well was CNS, we see about 5%
+growth, and if you look our guidance today and would be half of this year, it is going from EUR22.2
+billion to EUR22.6 billion to EUR23.8 billion. So I would say that we are -- our ambition is to grow
+faster than market and and this is something that how we are definitely working on.
+A - `David Mulholland, Head of Nokia, Investor Relations `
+Thank you, Francois. We'll now take the next question from `Artem Beletski, Analyst, SEB at SEB. Artem, please
+go ahead.
+Q - `Artem Beletski, Analyst, SEB `Yes, hi. And thank you for taking my question. I would like to pick your thoughts what comes to
+inflation situation and what type of impacts you're basically baking and what comes to your top-
+line guidance for this year. So could you maybe comment about the pricing picture, what comes
+to products and services for this year compared to some of the normal years what you have seen
+previously.
+A - `Pekka Ilmari Lundmark, President, Chief Executive Officer `
+Marco may have a general inflation comment and the related to guidance, but I just say maybe
+one thought in the beginning that of course, the inflationary development is pretty much near to
+our industrial component costs are increasing and of course it goes without saying that in all new
+contracts that we make with our customers we take all this into account. It is of course much more
+straightforward in new contracts than in existing contracts. That of course goes without saying,
+but we are basically mitigating the inflationary effects, both with our suppliers and customers,
+pretty much every day.
+A - `Marco Wiren, Chief Financial Officer, Member of the Group Leadership Team `
+Yes, and just building out what Pekka said, I would say that if you look our guidance at the interval
+that we have given as well, that depends quite a lot about how the inflation is broking but also
+market demand itself and also the supply chain situation and these, altogether, of course, with
+our own performance is depending or factor where we land in those intervals.
+A - `David Mulholland, Head of Nokia, Investor Relations `
+Thank you, Artem. We'll now take the next question from `Alex Peterc, Analyst, Societe Generale from Societe Generale.
+Alex, please go ahead.
+Q - `Alex Peterc, Analyst, Societe Generale `
+Yes, good morning, and thank you for taking my question. I just like to understand again
+pertaining to your long-term guidance, we had a pretty good track records in recent periods of
+landing at the higher end of your guidance range. So, if in a hypothetical situation where your '22
+clean comparable operating margin lands towards the higher end of your 11% to 13.5% range,
+would you then say that your 14% plus three to five year out target will look too conservative
+either in scale or in terms of timing. Thanks.
+A - `Pekka Ilmari Lundmark, President, Chief Executive Officer `
+Well, without getting into too much speculation on this, I guess everybody understands that the
+higher on this year's range we would land this year, the more likely it is that we would achieve the
+14% target earlier, but more than that, I would not like to speculate. Our target is continuous
+improvement in all our businesses and I -- as I said in my presentation, we believe that when we
+look at Mobile Networks, Network Infrastructure, CNS, we are in a good position to continuously
+improve in all those businesses and hopefully we would reach that 14% as quickly as possible.
+A - `David Mulholland, Head of Nokia, Investor Relations `
+Thank you, Alex. We'll take the next question from `Rob Sanders, Analyst, Deutsche Bank from Deutsche Bank. Rob, please
+go ahead.
+Q - `Rob Sanders, Analyst, Deutsche Bank `Yes, hi, good morning. I just had a question on RAN share, your 4G, 5G share ex-China, I think, fell
+to 26% in 2021. I was just wondering in which regions do you think there is the best opportunity to
+get back to 30% which I think under the previous management was a target. Thanks.
+A - `Pekka Ilmari Lundmark, President, Chief Executive Officer `
+We have not published a particular target. We, of course, note that the market share has now
+stabilized and our target is to increase it from 26% but we have not given as to how far we would
+like it to go and how quickly. I would say that there is potential in all markets. There are several
+markets in the world who haven't actually yet even started 5G, Latin America is very early stage
+still, India has not even started.
+So there is still yet a lot of business to gain in many parts of the world, but I would not like to
+highlight specifically any particular regions where the margin share gain possibility would be
+highest.
+A - `David Mulholland, Head of Nokia, Investor Relations `
+Thank you, Rob. We'll now take the next question from `Sami Sarkamies, Analyst, Nordea Markets from Nordea Markets.
+Sami, please go ahead.
+Q - `Sami Sarkamies, Analyst, Nordea Markets `
+Thanks. I would still like to go back to the free cash flow guidance that is looking surprisingly weak
+as you're indicating a bit more than EUR1 billion of free cash flow this year, that's about half the
+level of last year. Could you still -- please explain why it is looking like a difficult year for you
+thinking of free cash flow generation.
+A - `Marco Wiren, Chief Financial Officer, Member of the Group Leadership Team `
+Yes. Thank you, Sami. As we had a exceptional cash flow generation in 2021 and we might have a
+big swings in the cash flow, just like we saw in '21 and many of those payments that we received
+towards the end of year could have actually rolled over to '22 and that's why I also mentioned
+that if you look these two years together, we are in a very good position when it comes to free
+cash flow generation. We believe that this year, we will have a little bit more buildup of
+networking capital, two main reasons, one is of course the inventory. We believe that we could
+increase our inventories a little bit on areas where we believe are important and secure that we
+can supply and deliver those commitments to our customers that we have, and the other one is
+that we believe that we will have increase in trade receivables as well.
+But if you look the trend and over time and a longer term as well, we believe that we will have a
+good cash flow generation.
+A - `David Mulholland, Head of Nokia, Investor Relations `
+Thank you, Sami. We'll now take the next question from `Sandeep Deshpande, Analyst, JP Morgan from JP Morgan.
+Sandeep, please go ahead.
+Q - `Sandeep Deshpande, Analyst, JP Morgan `
+Yes. Hi. Thanks for letting me on. My question is, I mean, when we look at where the margin of
+your competitor who had these structured for many years is today, and they look at your long-
+term 14% plus guidance, the 14% plus guidance looks -- doesn't look very aggressive at this point
+given where they have been able to take their margins too. Why does Nokia not think that theycan also reach that sort of margin in the wireless networks business unless, of course, your view
+on the market share is different.
+A - `Pekka Ilmari Lundmark, President, Chief Executive Officer `
+Yes. Thank you, Sandeep. I mean, the -- it is a fact that, of course, the business portfolios are
+different between different actors and we have businesses that some other companies do not
+have. But if we talk specifically about Mobile Networks, it is of course a business which has very
+high R&D investment and that automatically means that volume and top line is extremely
+important.
+And going forward, just for the sake of argument, if we had similar top line and similarly
+geographic -- geographical mix as probably the competitor you are referring to, I see no reason
+why we would not have similar margins. This goes back to the product fundamental product
+competitiveness, which now starts to be in a pretty good shape. And that's why this next step in
+our strategy, which is called accelerate and then scale, is so enormously important.
+Now, fortunately, in our case, we have other businesses which are very good in terms of margin.
+And when we look at this year's target 11% to 13.5% compared to where we believe that we
+would be just a couple of years ago, I think that's good development. But again, we are now
+focusing on that 14% and hopefully, we will get there as soon as possible. It's very much a volume
+game from now and in Mobile Networks.
+A - `David Mulholland, Head of Nokia, Investor Relations `
+Thank you, Sandeep. We'll now take our next question from `Richard Kramer, Analyst, Arete Research from Arete. Richard,
+please go ahead.
+Q - `Richard Kramer, Analyst, Arete Research `
+Thanks very much. Many of your competitors are also targeting this enterprise space, Pekka, and
+talking about exposing APIs in the hopes of getting some development of 5G network
+applications. And you mentioned the order growth, but can you talk a little bit more about two
+specific things, one, your go-to-market and the cost of that and the sales cycle but also long-
+term, do you expect enterprise to be higher margin than your current carrier business. Thanks
+very much.
+A - `Pekka Ilmari Lundmark, President, Chief Executive Officer `
+Yes. The go-to-market, obviously, if you want to reach those EUR14 million industrial campuses
+that I was talking about, it has to be fundamentally different and that's what we are building at the
+moment. You need a strong partner network, you need system integration partners, you need
+partnerships with the different types of cloud service providers, webscalers and so on and so on.
+There is -- I mean, from cost point of view, it would be a hopeless case to try to scale your own
+sales force to reach the EUR14 million industrial campuses, then of course on the product side
+also, you need to make sure that your product is as scalable as packageable as possible and
+that's why the general development towards APIs and creating a platform for developers and
+offering the whole thing as-a-service as the NDAC business is evolving to, that's really, really
+important.
+And to that, your second question, yes, once we increase the annual recurring revenue as-a-
+service business model, absolutely, that model has a higher margin potential going forward, but
+of course, that will be evolutionary development over the coming years.A - `David Mulholland, Head of Nokia, Investor Relations `
+Thank you, Richard. We'll now take our last question from `Fredrik Lithell, Analyst, Handelsbanken from Handelsbanken.
+Fredrik, please go ahead.
+Q - `Fredrik Lithell, Analyst, Handelsbanken `
+Thank you very much. Thank you for taking my question. I would like to tap your brain a little bit on
+the enterprise 5G again, and maybe single out the wrong market aspect of enterprise 5G for the
+coming years. And if you could, for us, sort of frame a little bit about the potential in terms of
+wrong market growth is coming from sort of new segments if you'd like, Fixed wireless access, I
+mean, we've been talking about FWA for several years now, but it's still to show in how it
+contributes to RAN or to Mobile Networks' revenue generation coming year. So could you sort of
+talk a little bit about the potential when it comes to enterprise 5G and how that sort of check us
+down into the wrong market value, if you like. Thank you.
+A - `Pekka Ilmari Lundmark, President, Chief Executive Officer `
+We are first of all strong believers in the potential of the enterprise and campus wireless. It's a
+market that we have noted that is extremely hard to estimate on the date it leveled at how fast
+that growth will be because it could swing a lot between the extremes. The only thing that is
+certain that it will grow substantially faster than the carrier grand market, it starts from a low level.
+So we will certainly see years where the market can grow at least 30%, 35%, if not more while
+the carrier market most likely, over time, is in the low single digits. You mentioned fixed wireless
+access, that is actually a market that now, driven by the new 5G-based systems is driving a lot of
+growth and that is in addition to passive optical networks is one key reason why our Fixed
+Networks business is growing so fast.
+Remember in our model fixed wireless access is in Network Infrastructure, in Fixed Networks
+business, it's not in Mobile Networks even though technically, of course, we are delivering radios
+there. So, we are bullish about the market potential, but unfortunately, I mean, I'm not able to and
+I don't think anyone is able to detail that, how much exactly the growth will be over the coming
+years.
+A - `David Mulholland, Head of Nokia, Investor Relations `
+Thank you, Fredrik. Ladies and gentlemen, this concludes today's call. If you have any outstanding
+questions please do feel free to reach out to the Investor Relations team. I'd like to remind you
+that during the call today, we've made a number of forward-looking statements that involve risks
+and uncertainties. Actual results may therefore differ materially from the results currently
+expected. Factors that could cause such differences can be both external as well as internal
+operating factors. We have identified such risks in the risk factor section of our Annual Report on
+Form 20-F, which is available on our Investor Relations website.
+With that, thank you very much.
+Operator
+Thank you. The conference is now concluded. Thank you for attending today's presentation. You
+may now disconnect.

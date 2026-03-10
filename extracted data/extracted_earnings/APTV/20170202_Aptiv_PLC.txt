@@ -1,0 +1,708 @@
+Q4 2016 Earnings Call
+
+Operator
+Good morning. My name is Kayla, and I will be your conference facilitator. At this time I would like
+to welcome everyone to Delphi Q4 2016 Earnings Conference Call. All lines have been placed on
+mute to prevent any background noise. After the speakers' remarks, there will be a question-
+and-answer session.
+I would now like to turn the call over to Elena Rosman, Delphi's Vice President of Investor
+Relations. Elena, you may now begin your conference.
+`Elena Dom Rosman, Vice President-Investor Relations `
+Thank you. Good morning, Kayla, and thank you for everyone for joining today's call. To follow
+along with today's presentation, our slides can be found at delphi.com under the Investors
+section of the website. And consistent with prior calls, today's review of our actual and forecasted
+financials excludes the structuring and other special items and will address the continuing
+operations of Delphi.
+The reconciliation between GAAP and non-GAAP measures is included in the back of today's
+presentation and in our press release. Please see slide 2 for a disclosure on forward-looking
+statements, which reflect Delphi's current view of future financial performance, which may be
+materially different from our actual performance.
+Joining us today will be Kevin Clark, Delphi's President and CEO; and Joe Massaro, CFO and
+Senior Vice President. As seen on slide 3, Kevin will provide an overview of operations in the
+quarter. And then Joe will cover the financial results and our outlook for 2017 in more detail.
+With that I would like to turn it over to Kevin Clark.
+`Kevin P. Clark, President, CEO, Chief Operating Officer & Director `Thanks, Elena. Good morning, evening. Thanks for joining us. Before Joe gets into our financial
+results, let me provide some context on the fourth quarter and 2016 full year.
+Beginning with the highlights on slide 5, we had a record quarter delivering revenue and earnings
+growth above the top end of our guidance range. Joe will take you through the details in a
+minute, but revenue increased 10% in the quarter and 8% for the full year. Operating income
+increased 20% in the quarter and 13% for the full year, with margin expansion and double-digit
+earnings growth in every quarter.
+And we continue to convert more income to cash, allowing us to reinvest in our business and
+return cash to shareholders, which totaled almost $1 billion in 2016 between dividends and share
+repurchases.
+We expect more of the same in 2017, with strong growth in sales, earnings, and cash flow,
+reinforcing the fact that our business model is working. Our portfolio of market-relevant
+technologies is driving revenue growth in every business. And we continue to optimize our cost
+structure. And as a result, we believe we're well positioned for the long term.
+Turning to slide 6. Last month we made our 21st appearance at the Consumer Electronics Show in
+Las Vegas, where the automotive industry has become a prominent focus. We hosted roughly
+3,000 visitors, including customers, investors, media, and government officials at our pavilion. We
+conducted well over 200 ride and drives in several vehicles, including our 48-volt platform, a V-
+DAX (3:31) demonstration, and our automated vehicles featured the CSLP platform in
+development with our partner, Mobileye.
+We received positive feedback from participants on how intuitively the automated vehicles
+performed, which is a testament to Mobileye's vision processing and automatic as enhanced
+vehicle control algorithms. Importantly, customer interest in the CSLP platform continues to grow,
+and discussions are underway with several OEMs.
+Turning to slide 7. Delphi continues to build out its data analytics capabilities by leveraging our
+2015 acquisition of Control-Tec. As many of you saw at CES, Control-Tec demonstrated real-time
+data streaming, which collected, aggregated, and analyzed data from our demonstration
+vehicles, including the average speed, drive time cycles, and overall vehicle performance. Data
+collect over those seven days confirmed our ability to consistently navigate the streets of Las
+Vegas under complete autonomous control 99% of the time, with most trips completed with zero
+human intervention of any kind. Additionally, the data validated that automated vehicles perform
+with better fuel economy and lower vehicle emissions through optimized shifting and smoother
+drive control. Our experience was consistent with studies estimating roughly a 10% improvement
+in fuel economy.
+The team also collected and analyzed real-time data on energy storage and usage on the 48-volt
+vehicles, validating a significant improvement in fuel economy. And in the near future a feedback
+loop powered by our over-the-air update technology provided by our new acquisition,
+Movimento, will enhance our end-to-end connected car services. This is the same technology
+supporting our mobility cloud solution in the Singapore LTA automated vehicle demonstration
+program.
+Our growing position in data management and analytics provides new monetization opportunities
+for both Delphi and our OEM customers, further strengthening our capability in the rapidly
+emerging connected car business.In fact, Ford just announced the introduction of a Delphi-developed connected car device that will
+provide full app control to 2010 to 2016 model year vehicles over Verizon's cellular network.
+There's much more to come from Delphi in the area of data collection, management and
+analytics.
+Slide 8 covers 2000 (sic) [2016] (6:14) bookings in more detail, which totaled a record $9 billion in
+the fourth quarter, bringing us to $26 billion for the full year. As we highlighted at the Detroit Auto
+Show, adjusting for FX, commodities, and our portfolio modifications, bookings have increased at
+a very strong compounded 10% rate since 2011, supporting our continued revenue growth.
+On the right side of the chart are both the 2016 calendar year and 2011 through 2016 cumulative
+bookings for some of our fastest-growing Safe, Green, and Connected technologies. As
+examples, in 2016 we booked over $1.4 billion in Active Safety business; almost $3 billion in
+Infotainment & User Experience; over $2 billion in Electrification wins; and almost $2 billion in Gas-
+Direct Injection and Variable Valve Train awards. On a cumulative basis these bookings total $30
+billion and have grown at an average rate of 30% per year since 2011.
+So in summary, another great year of new business wins for Delphi, giving us confidence in our
+underlying growth outlook.
+Slide 9 highlights a few of these customer bookings, including a significant Electrical Architecture
+award with a large North American OEM; a conquest Infotainment win with Audi in Europe: this
+one includes our Integrated Cockpit Controller, reflecting the third major award for this industry-
+leading technology, with more in the works; and a GDi program for gas and hybrid powertrains
+with SAICBW (7:51), the highest volume GDi engine family in China.
+Given our track record of innovation, our portfolio of Safe, Green, and Connected technology
+solutions, and our focus on flawless execution, we're confident in our ability to satisfy the
+increasingly complex needs of our customers.
+Turning to slide 10. Our record bookings and conquest wins are a direct result of our technology
+leadership, which is a key differentiator with our customers. Recent examples of significant
+industry firsts that are providing technology leadership include centralized computing platforms,
+such as the Integrated Cockpit Controller recently launched on the 2016 Ferrari GTC4Lusso; which
+will launch on several mobile products in 2018, including the 40, 60, and 90 Series platforms; and
+then with Audi in 2019. As well as a Multi-Domain Controller for Active Safety, which we launch
+next quarter with Audi. We're working with several other customers on advanced development
+programs, so there are more awards to come with this new technology.
+Both of these high-speed computing platforms are a huge competitive advantage for Delphi,
+linking our Electrical Architecture and Electronics & Safety capabilities, enabling more connected
+vehicle content, reducing both mass and cost, while providing scalability for the OE, and
+positioning Delphi as the integrator of choice for many of our customers.
+As I mentioned, our autonomous driving capabilities continue to garner strong customer interest.
+When you combine Mobileye's Vision and Road Experience Management systems with Delphi's
+best-in-class sensor suite, automated driving software from Ottomatika, and our multi-domain
+controller, no other entity comes close to matching the quality or the capability of our CSLP
+automated driving platform. We believe no other system will be faster to market. And as we've
+heard from our customers, no other company is in as strong a position as Delphi.
+We're also providing OEMs with the best value solutions for vehicle electrification. Our 48-volt
+model hybrid system and components offer about a 10% to 15% fuel economy improvement atroughly one-third of the cost of a full hybrid, while also providing more engine power and torque,
+resulting in a better driving experience.
+Taken together, we're confident we have the right portfolio of advanced technologies to deliver
+value to our OEM customers.
+So as we – so moving slide 11. As we reflect on what we've accomplished in 2016, we believe
+we're well positioned for the long term, with an even stronger, more focused portfolio of
+technologies, a leaner cost structure, and more flexible business model. Making smart
+acquisitions like PureDepth and Movimento, exiting slow-growth businesses like Mechatronics,
+increasing advanced engineering spend, advancing our automated driving partnerships, and
+growing our software capabilities further positions us for future profitable growth.
+Now, we would not have as much flexibility to make these investments if we were not relentless
+about managing our cost structure. We continue to streamline overhead, rotate our Western
+European footprint, and enhance the flexibility of our business model. We are confident that our
+operating discipline will yield more revenue growth, margin expansion, earnings, and cash flow
+generation, all of which will deliver long-term shareholder value.
+So with that I'll hand the call over to Joe.
+`Joseph R. Massaro, Chief Financial Officer & Senior Vice President `
+Thanks, Kevin, and good morning, everyone. I will review our fourth quarter and full-year 2016
+performance before discussing our guidance for 2017.
+Beginning on slide 13 with a summary of our fourth quarter financial performance. As Kevin
+referenced, we are very pleased with our strong finish to the year. Adjusted revenue grew
+double digits, up 10%, driven by growth in all three segments as well as strong growth in China.
+Our EBITDA margins expanded 150 basis points to 18%. And operating margins expanded 110
+basis points to 14.1%. Earnings per share grew 32%, driven primarily by operating income growth
+as well as a lower year-over-year tax rate. And we generated operating cash flow of $683 million.
+Slide 14 provides greater detail on revenue in the quarter. Sales growth outpaced expectations
+with stronger than expected performance. Beginning with the walk on the left, FX and
+commodities were a headwind in the quarter, largely driven by the weakening euro and Chinese
+RMB, and price downs were 1.5%. These were offset by more than 10% organic sales growth in
+the quarter. Finally, the net M&A, primarily HellermannTyton, contributed $190 million of revenue.
+Moving to the right. We saw strong growth in all regions. In particular, Asia was up 16% on an
+adjusted basis, driven by 19% growth in China. China accounted for approximately $100 million of
+the revenue upside in the quarter. North America saw 9% adjusted growth with strength in both
+Powertrain and Electronics & Safety. And South America saw its first increase in over three years,
+although that remains a very challenging market.
+Turning to operating income, slide 15 walks the year-over-year change for the fourth quarter.
+Overall, operating margins were 14.1%, up over 100 basis points, driven by strong flow thorough
+on volume as well as the benefit of a favorable year-over-year comparison, resulting from weaker
+manufacturing performance in China in the fourth quarter of 2015.
+Turning to slide 16, EPS grew 32% versus the prior year. Versus the midpoint of our guidance
+range, EPS was $0.23 higher. $0.17 from volume and operating performance and another $0.06
+driven by a lower effective tax rate, primarily a result of the positive impact of our restructuringTurning to our performance by segment, Electrical Architecture grew 7% in the fourth quarter.
+E/EA margins expanded 280 basis points, with approximately half of the benefit driven by
+favorable comparisons to 2015, which included certain production inefficiencies in China. Margins
+also benefited from stronger volumes as well as improved manufacturing performance.
+Powertrain had 6% organic growth with double digit gains in Power Electronics, Gas-Direct
+Injection, and Variable Valve Train. Powertrain margins in the quarter were negatively affected by a
+warranty settlement. The settlement impacted margins by approximately 210 basis points.
+Absent this, Powertrain margins would have expanded approximately 50 basis points.
+Electronics & Safety adjusted growth accelerated to a record 23% in the fourth quarter. New
+program launches and strong take rates, particularly in Active Safety and Infotainment, continue
+to drive double digit growth. Once again, we exited our low-end switch business, Mechatronics,
+which was a drag on E&S revenue growth, and have reflected both the reported and pro forma
+revenue figures on the chart. As a reminder, Mechatronics represented approximately $30 million
+(sic) [$300 million] (15:53) of revenue and $90 million of OI in 2016 that, going forward, will be
+excluded from the 2016 pro forma baseline.
+Finally, E&S margins were also negatively impacted by an increase in warranty expense during the
+quarter. Operating margins excluding the changes to warranty reserves were approximately 14%
+for the quarter, reflecting both strong volumes and operating performance. It is also important to
+note that the underlying profitability for E&S continues to improve, driven by strong volume
+growth as well as improved performance, allowing us to continue to invest in key growth
+technologies.
+You can see a recap of the full-year segment financials on slide 18. All three businesses saw good
+growth in the year. And Electrical Architecture and Electronics & Safety performance outpaced
+expectations, up 8% and 6% respectively. Active Safety and Infotainment were up 45% and 22%
+respectively. And Vehicle Electrification, primarily high-voltage electric systems, grew over 50%.
+Powertrain, up 5% organic growth for the year, saw growth in gas systems and Power Electronics,
+more than offsetting a roughly 10% decline in commercial vehicle diesel.
+Our GDi business was up over 50%, Valve Train over 30%, and Power Electronics effectively
+tripled in the year, with revenues exceeding $100 million. Operating performance improved
+across all segments, helped in part by our continued focus on our cost structure and overhead
+reduction initiatives. Adjusting for the warranty items previously discussed, margins expanded in
+all segments.
+Slide 19 provides a summary of our 2016 full-year financial performance. For the year our 8%
+organic growth included 3 points from global vehicle production, yielding 2016 sales of $16.7
+billion. Our EBITDA margins expanded 90 basis points to 17.4%. And operating margins expanded
+30 basis points to 13.3%.
+We finished the year with an effective tax rate of approximately 16% and earnings per share grew
+20%. Importantly, we generated more cash, driven by higher operating earnings. And our capital
+allocation priorities remain unchanged. We will continue to have a disciplined and balanced
+approach to capital allocation, focused first on investing in our business organically through
+growth investments in engineering and CapEx, then inorganically through accretive M&A.
+We have established a track record of consistently returning excess cash to shareholders. And as
+Kevin mentioned, we returned almost $1 billion of cash to shareholders in 2016 in the form of
+dividends and share repurchases.Turning to slide 20, you will find our outlook for full year 2017 and the first quarter. And in an effort
+to simplify, we've included the pro forma 2016 baseline excluding Mechatronics.
+Let me first start by saying our view of the market and performance expectations have not
+changed. We believe global vehicle production for passenger and commercial vehicles will be flat
+to 2016 levels, with North America and Europe expected to be flat, China production up 1%, and
+we expect South America to stabilize, effectively flat for the year. However, with our strong
+portfolio of relevant technologies, Delphi will grow mid-single digit organic, driven by our faster
+growing product lines.
+Electronics & Safety is expected to have another year of robust growth in 2017, driven by double
+digit growth in Active Safety and Infotainment. We are expecting more of the same at Powertrain,
+up mid-single digit, as double digit growth in GDi and Power Electronics more than offset a low
+single digit light duty diesel decline. While Electrical Architecture growth will slow to low single
+digits in 2017, mainly reflecting program and platform cancellations.
+In total, 2017 revenue guidance is $16.5 billion to $16.9 billion, including approximately $400 million
+of net FX and commodity headwinds, including the euro at $1.05 versus an average of $1.11 in
+2016. While operating income is expected to be between $2.2 billion and $2.3 billion with margins
+between 13.3% and 13.5%. Earnings are expected to be in the range of $6.40 to $6.70, up 7% to
+11% over 2016, including the benefit from $600 million of share repurchases in 2017, which we are
+using for planning purposes. Our guidance assumes a 16% effective tax rate for the year. And we
+expect to generate over $2 billion of operating cash flow.
+Moving to our first quarter outlook. Revenue is expected to be $4.1 billion at the midpoint, up 6%
+organic on 1% vehicle production growth. Margins are expected to expand 10 basis points year
+over year at the midpoint of guidance, adjusted for the divestiture of Mechatronics, which
+contributed approximately $75 million of revenue and $23 million of operating income in Q1 last
+year. Earnings are expected to be in the range of $1.40 to $1.50, up 12% at the midpoint.
+With that I'll turn it over to Kevin for some closing remarks before we open it up to questions.
+`Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Thanks, Joe. Wrapping up on slide 21. We delivered terrific performance in 2016, once again
+demonstrating our ability to execute even against the backdrop of a more dynamic
+macroenvironment. We made portfolio modifications that enhanced our position to leverage
+secular growth trends in 2017 and beyond.
+Looking ahead, we're confident in our 2017 outlook, which includes mid-single digit organic
+growth, roughly 40 basis points of operating margin expansion, and high single, low double digit
+earnings per share growth. And our ability to effectively deploy capital provides additional
+leverage to drive shareholder value in the years to come. So with that we'll now open up the line
+for questions, Operator. Thank you.
+`Elena Dom Rosman, Vice President-Investor Relations `
+Kayla, we'll take our first question.
+Q&A
+Operator
+And our first question comes from the line of `Rod Lache, Analyst, Deutsche Bank Securities, Inc. with Deutsche Bank.Q - `Rod Lache, Analyst, Deutsche Bank Securities, Inc. `
+Good morning, everybody.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Morning, Rod.
+Q - `Rod Lache, Analyst, Deutsche Bank Securities, Inc. `
+Congratulations on these results. I had a couple things. First, just a clarification. Did you say that
+the overall company operating margin would've been 14% ex the warranty reserve? Can you just
+break out what that number was? Is that in E&S? And just what is the actual – the recall or the
+warranty and unusual numbers that you had both in E&S and Powertrain?
+A - `Joseph R. Massaro, Chief Financial Officer & Senior Vice President `
+Yeah. Rod, it's Joe. Good morning. In total, think of it as about $50 million in the fourth quarter
+spread across E&S and Powertrain. We're not going speak specifically to which customers it is, but
+it was matters – sort of evenly split across those two segments, about $50 million in the quarter.
+Q - `Rod Lache, Analyst, Deutsche Bank Securities, Inc. `
+Okay. And in Powertrain, just thinking about the outlook for 2017 and beyond, I assume you're
+thinking 3% to 4% declines in the light vehicle diesel business, which is like $1 billion a year, so
+that's $30 million to $40 million negative. And then you've got some pretty significant growth in
+GDi and Valve Train. Do you think that we should assume historical EBIT conversion rates in that
+business? Or are these declines sort of a bigger drag on the decremental margin being greater
+than the incrementals?
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+So, Rod, I'll start in general, and Joe certainly can follow up with more specifics. Our outlook for
+our revenues in the light duty diesel space out 2017 and beyond is kind of low single digit declines
+in revenues, more than offset by growth in GDi, Variable Valve Train, Power Electronics, and some
+other products. I would say with respect to where we are now from a product portfolio standpoint
+and volume standpoint, I would expect incremental margins to be roughly the same going
+forward as they've been historically.
+Q - `Rod Lache, Analyst, Deutsche Bank Securities, Inc. `
+Okay. Great. And there's two last ones. One is just your expectations for FX and commodities for
+2017. And then lastly, your bookings have been growing at 10% per year. You're talking about 4%
+to 6% organic growth, obviously in a – kind of a weaker year for light vehicle production. But just
+help us reconcile the bookings trajectory versus the organic growth expectations that you've put
+out there.
+A - `Joseph R. Massaro, Chief Financial Officer & Senior Vice President `
+Do you want to answer the...
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `Why don't I start with the second – with your last question, Rod. Listen, I – our – as we sit here and
+we look at long term revenue outlook from a Delphi standpoint and look at 2017, we tell you that
+we're very confident in our ability to grow roughly 5 points over market. I think your point with
+respect to bookings growth and revenue growth with respect to bookings should translate into
+revenue growth that is in excess of that.
+However, given what we ran into in 2016 and quite frankly even 2015 with respect to changes in
+schedules with respect to OEs, cancellations of certain programs as well as other things, we just
+felt it most prudent from a planning standpoint, from a guidance standpoint to give a revenue
+outlook that accounted for virtually everything that we can contemplate happening out there that
+we don't have control of. I don't know, Joe, if you want to add to that.
+A - `Joseph R. Massaro, Chief Financial Officer & Senior Vice President `
+No. And I think we discussed this earlier in January. I think from a market flat perspective,
+confidence in that mid-single digit growth number. And certainly to the extent markets are
+stronger, to the extent we don't see – necessarily see some of the headwinds that we've talked
+about, possible for upside. But I think from a conservative perspective, that's where we're very
+comfortable with the 5%.
+On the FX side we factored in – our two big FX commodities are really the euro and copper. We
+used $1.05 for the euro. We've used $2.50 a pound for copper. That's baked into the
+assumptions. Chinese RMB, obviously the weakening of that currency has impacted us in 2016.
+And we're currently assuming a RMB 6.90 [per $1] for the Chinese RMB, Rod.
+Q - `Rod Lache, Analyst, Deutsche Bank Securities, Inc. `
+Right. So on that – if we think about high level, the bridge for 2017, the EBIT effect of – I assume
+the peso might be a little bit of a tailwind. But just overall when we think about that FX and
+commodities line, do you have a rough ballpark for how you're thinking about it?
+A - `Joseph R. Massaro, Chief Financial Officer & Senior Vice President `
+Yeah, it's about – yeah. On a full year it's about $400 million of revenue impact. It's small on OI.
+There's a lot of offsets. It's about $15 million, round numbers.
+Q - `Rod Lache, Analyst, Deutsche Bank Securities, Inc. `
+Okay.
+A - `Joseph R. Massaro, Chief Financial Officer & Senior Vice President `
+The one interesting thing in – and you notice Q1 margin expansion's about 10 basis points. The OI
+impact of FX and commodity in Q1 is actually a little heavier. It's worth probably about 10 basis
+points in the quarter. And that's just really the timing of when the macros changed over the
+course of last year when you do the comps. So we absorb a little bit more of that headwind in Q1.
+On a full-year basis from an OI perspective it's really not significant though. It's about $15 million
+on a full year.
+Q - `Rod Lache, Analyst, Deutsche Bank Securities, Inc. `
+Great. Thank you.
+A - `Joseph R. Massaro, Chief Financial Officer & Senior Vice President `Can I just make one point? I think I may have misspoke during my script. I referred to
+Mechatronics revenue at $30 million, it's obviously $300 million for 2016. And I apologize for that.
+Operator
+Our next question comes from the line of Brian Johnson from Barclays.
+Q - `Brian A. Johnson, Analyst, Barclays Capital, Inc. `
+Yes. Good morning. Just a couple things. First, want to understand a bit, a little bit of
+housekeeping around EA but also perhaps strategic. 40% incremental margins in E/EA. Can you
+just – is that going to continue? Was there a one off there?
+And then just the more strategic is, as you think about the various components of E/EA, wiring
+harnesses, connectors, power electronics, and other categories, how do you think about – should
+we be thinking about the margins across those? And then how those chunks of content move as
+we move towards 48-volt and eventual full electrification?
+A - `Joseph R. Massaro, Chief Financial Officer & Senior Vice President `
+Yeah, let me take the first part and then – on the E/EA margin. So there are a couple things going
+on in the fourth quarter. As you may recall Q4 2015 we got sort of whipsawed by Chinese
+production. We had taken down particularly head count in China in the E/EA business. Had to
+ramp that back up quickly. And as we talked last year that probably cost us about $25 million of
+efficiency in Q4 of 2015. So a negative. We obviously didn't have that this year. So that's about
+half of the margin expansion you're seeing.
+The other half is they had – just had a really strong quarter. We were staffed correctly. Volume
+flowed fairly strongly in the quarter for E/EA. And they did make some progress. We had talked
+during the course of 2016 on operating inefficiencies in Mexico in particular and the business has
+done a good job of making some progress on that. We're not completely out of the woods on
+that yet. Certainly expect that to abate in the first half of 2017. But progress was made in Q4.
+So a couple of things going on there. But I think the one to focus on is just really the year-over-
+year comps, about half of the benefit.
+Q - `Brian A. Johnson, Analyst, Barclays Capital, Inc. `
+Okay.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+And why don't I touch on the – what we would call the Engineered Products portion of that
+Electrical Architecture segment, which for us I think as most of you know, the margin profile on
+connectors and on cable management products is roughly twice what the average is for the
+segment.
+So as you can imagine and I think we have a track record of doing this, it's clearly a focus area for
+growth. It's clearly an area where we're putting incremental investment dollars for organic growth
+opportunities, as well as Joe and his M&A team are very active with respect to pursuing M&A
+opportunities to further round out the portfolio.
+Q - `Brian A. Johnson, Analyst, Barclays Capital, Inc. `Okay. And just related to that, we've discussed this a few different times in the Q&As, but any
+sort of preliminary discussions maybe just using E/EA, since it's mostly done in low-cost countries,
+with customers on how either footprints or pricing or burden sharing might evolve with whatever
+might come out of Washington around border taxes, tariffs, NAFTA, et cetera, et cetera?
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Well, it's a – right. That's a great question. I think it's really – it's tough to have detailed discussions
+with customers without a detailed proposal or specifics with respect to what could be happening
+out of Washington. Listen, when you look at the wire harness space with respect to Delphi and
+quite frankly I think all of our competitors, the reality is that is a product line, that is a supply chain
+that has been in Mexico for instance for quite a long time.
+A - `Joseph R. Massaro, Chief Financial Officer & Senior Vice President `
+Since the 1980s now.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+So that supply chain has developed and has been optimized to serve our customers exactly
+where they want to be served. Because as we've talked about in the past, that is a product that
+shows up literally hours before it's put into a car in the assembly line. So years and years, to Joe's
+point, that production moved to Mexico back in the 1980s. It's been optimized. And any disruption
+to that quite frankly is going to add significant cost.
+I would tell you as I look at products and manufacturing process, that is not a product line that I
+see actually being able to move to the United States for a number of reasons; again, supply
+chain, cost, others.
+Q - `Brian A. Johnson, Analyst, Barclays Capital, Inc. `
+Okay. Thanks.
+Operator
+Our next question comes from the line of `Itay Michaeli, Analyst, Citigroup Global Markets, Inc. from Citi.
+Q - `Itay Michaeli, Analyst, Citigroup Global Markets, Inc. `
+Great. Thank you. Good morning, everyone. Just firstly on the quarter itself, Joe, maybe can you
+just like kind of dimension for us where the upside came from relative to your guidance you
+provided back in November for the quarter?
+A - `Joseph R. Massaro, Chief Financial Officer & Senior Vice President `
+Yeah. About half the revenue upside – about half of it, Itay, came from China. Particularly late in
+the quarter we saw very strong demand in China. I think China totals up about 19% in the quarter.
+The rest was spread sort of evenly between Europe and North America. And again, we saw it
+flow strongly from an OI perspective, from a performance perspective. So it sort of mirrored that
+volume flow.
+Q - `Itay Michaeli, Analyst, Citigroup Global Markets, Inc. `
+Great. That's helpful. And then maybe strategically, maybe for Kevin on the CSLP, you mentionedweek on Uber kind of opening up their platform to automakers. And one of them kind of signed
+up. I mean do you think something like that could have the effect of accelerating automaker
+interests in kind of the CSLP to get up and running in 2019? Maybe to the extent there's now a
+ride share network that's more open to allowing the automakers in? And maybe you should talk a
+little bit about the interest level that you're seeing there?
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Listen, I would tell you I think the interest level is extremely high. I don't think that the action from
+Google, quite frankly, will have any effect. I think you have a series of OEs who are doing work
+internally and with partners who are moving as quickly as they can to have solutions on the road
+as quickly as they can. You have OEs working with players like Delphi and Mobileye and Intel that
+are looking for the full suite of solution, the CSLP platform.
+And the biggest push is how far along is your technology and how quickly can you get it to a point
+where you can launch a program in 2019, 2020? So the level of dialogue – I would tell you over
+the last – actually since CES, but quite frankly, even before that when we made the
+announcement with Mobileye has been through the roof.
+Q - `Itay Michaeli, Analyst, Citigroup Global Markets, Inc. `
+Great. And just lastly related to that, can you just talk about your ADAS booking share in 2016
+relative to prior years? Do you think you're gaining share? And do you think that the CSLP, the
+acceleration of momentum there, can actually also help in terms of ADAS bookings going
+forward?
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Yeah, listen, I think at the end of the day to be viable in automated driving, autonomous driving,
+you need to have strong capabilities quite frankly in ADAS. Very strong footprint in ADAS, given
+the reliance on technologies, from a know-how standpoint and quite frankly from a cost
+standpoint. Otherwise, if it's not a business you're in, the cost would be prohibitive.
+I think the second piece that we bring a competitive advantage on and it's the controllers that we
+talked about. Whether they're multi-domain controllers that you need for ADAS or ultimately
+automated driving or integrated cockpit controllers is having the Electrical Architecture
+capabilities, I think brings you another – puts another arrow in your quiver and gives you another
+capability that you can further leverage.
+So I think both of those are very, very important. But being in ADAS is critical.
+Absolutely the work we're doing in automated driving today has both near term and long term
+benefits as it relates to the development of Active Safety solutions. Itay, as you've heard us say,
+you get through level 2 autonomous driving, you can reduce 80% of the accidents that are out
+there. And we've always talked about autonomous driving as being on the spectrum of Active
+Safety. And our objective is obviously to give our customers what they want, a big piece of which
+is making driving more safe.
+With respect to bookings, another year of over $1.4 billion. I think it was slightly below a record
+year we had two years ago of – and I'm talking maybe $2 million or $3 million below. I think it's the
+fifth or sixth straight year of over $1 billion. Clearly based on our bookings growth and our revenue
+growth, I mean we're well over three times overall market growth rate on Active Safety. So...Q - `Itay Michaeli, Analyst, Citigroup Global Markets, Inc. `
+That's very helpful. Thanks so much and congrats.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Yeah.
+Operator
+Our next question comes from the line of `Joseph Spak, Analyst, RBC Capital Markets LLC from RBC.
+Q - `Joseph Spak, Analyst, RBC Capital Markets LLC `
+Thanks very much.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Morning, Joe.
+Q - `Joseph Spak, Analyst, RBC Capital Markets LLC `
+Kevin, I just wanted to follow up on that last point. So given 80% of the safety at level 2, 20% of
+the costs that you mentioned, and the great reception to the autonomous efforts you guys are
+doing. I mean especially considering it seems like the autonomous is almost built off the ADAS, I
+mean are you securing more ADAS wins? Or do you expect to be able to secure more in the
+near term?
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Yeah. Listen, I think the autonomous driving conversations and relationships that we're developing
+with OEs fosters a more strategic relationship, which is a positive. Increases customer intimacy
+and provides them with better visibility into what your capabilities are.
+So I can't quantify it precisely for you, Joe, but I think it translates into more commercial
+opportunities and a greater likelihood of winning those commercial opportunities. And I think one
+of the reasons we had such a strong bookings year this year, and I would expect to have a very
+strong bookings year next year, is because of the dialogues that we're having both from an
+Active Safety standpoint as well as an automated driving standpoint with OEs.
+Q - `Joseph Spak, Analyst, RBC Capital Markets LLC `
+Okay. Great. And then just on M&A, which I think you touched on a little bit earlier. It sounds like
+you thought maybe there was still some opportunity in that Electrical Architecture business. I was
+wondering if you could sort of point out like what the pipeline looks at? Or where you may still
+have some holes? And then there's also reports that a turbo charger business is up for sale. I
+mean I'm just curious your level of interest in going more into the Powertrain side there?
+A - `Joseph R. Massaro, Chief Financial Officer & Senior Vice President `
+Sure. Joe, it's Joe. Let me take the Electrical Architecture question first. So I'd start with – there's
+nothing from a sort of whole perspective. There's nothing we need to go out to buy to fill gaps.
+We're very comfortable with our existing product portfolio and the ability of that portfolio to sort
+of meet or exceed our commitments here.But what we do like and we've demonstrated a couple of times now between the MVL acquisition
+going back a few years, but most recently HellermannTyton that had fantastic year, plus 10%
+growth, is the ability to take what I'll call sort of components businesses, whether it's connectors,
+cable management type products, and integrate those with our broader Electrical Architecture
+business. And we get both – we get cost synergies, a lot of efficiencies on the material side. But
+over time we're able to engineer those products that are then owned by Delphi into our Electrical
+Architecture systems, which provide effectively a nice channel for those businesses into our
+markets. And given the size and scale of the Electrical Architecture business there's just a huge
+opportunity there.
+So we'll look for those businesses. We like them. We know what to look for. And we think there
+are opportunities really globally for those types of acquisitions. They'll tend to be smaller outside
+the HellermannTyton, but those are nice bolt-on deals. And we're very good at integrating those
+and moving forward on them quickly.
+As it relates to M&A, whether it's in other parts of the business including Powertrain, we'll certainly
+take a look at things that make sense. We don't rule things out. I am familiar with that asset that
+you're referring to. Have not heard much more than that initial announcement on it though. But
+don't necessarily rule anything out from an M&A perspective. Kevin, I don't know...
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Yeah. Listen, Joe, where at the end of the day, it's about how do we create significant synergies,
+a better competitive position, and drive shareholder value? I think – and there are opportunities
+across each of our segments. To be specific to that particular opportunity, to be honest with you,
+we were in the Thermal business that didn't have great market structure, right? I think given some
+of the players in that business who've been in it a long time, being a newer smaller entrant is a
+real challenge. And the cost of capital that those two owners currently have relative to the cost of
+capital that a public company like Delphi has, I think would make that a challenge. If it didn't work
+for them, it'd probably be tough for it to work for us.
+Q - `Joseph Spak, Analyst, RBC Capital Markets LLC `
+Yeah. That's helpful. Thanks. Congrats, guys.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Sure.
+Operator
+Our next question comes from the line of John Murphy from Bank of America.
+Q - `John J. Murphy, Analyst, Bank of America Merrill Lynch `
+Good morning, guys.
+A - `Joseph R. Massaro, Chief Financial Officer & Senior Vice President `
+Morning, John.
+Q - `John J. Murphy, Analyst, Bank of America Merrill Lynch `
+Just a first question here. I mean portfolio actions are obviously becoming a big part of the story,selling the light duty diesel business? Or is there a market for that, that you – would sort of be an
+avenue to exit that business? Or is that something you view as core, even though it's coming
+under pressure?
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Yeah, listen, our Powertrain business is a great business. It's growing mid-single digits and has
+16% EBITDA margins. So it's a business that's doing well.
+You're right. Light duty diesel is certainly a space that over the longer term is not a growth space.
+Our management team within that segment has done a terrific job quite frankly optimizing and
+reducing costs and leveraging diesel capabilities within our gas business. So it's something that's
+operating well.
+Having said that, John – and this isn't about – this quite frankly isn't about light duty diesel or
+about Powertrain. Our objective is to increase shareholder value. So as we look at our portfolio, all
+of our products, all the spaces we sit in, to the extent that there are better alternatives that drive
+long-term shareholder value, those are things that we would consider and evaluate. So I hope
+that answers your question.
+Q - `John J. Murphy, Analyst, Bank of America Merrill Lynch `
+Yeah. No, that's very helpful. And then just a second question, just broadly on Mexico. And I know
+this is tough to answer questions with certainty right now, just given the uncertainty in the
+proposals or proposed proposals at this point.
+What are you seeing in the workforce productivity in Mexico? I mean obviously you guys have
+historically done very well down there. But there's a lot of unrest and a lot of unhappy people. I
+mean as far as managing the workforce, are there any short-term issues that you see? And then
+also as you look at that business, I mean, Kevin, you were kind of alluding to the fact that you just
+don't think wiring harnesses could move. But are there any pieces of the business that you're
+doing in Mexico that you could potentially move to the U.S. in a cost-effective manner?
+A - `Joseph R. Massaro, Chief Financial Officer & Senior Vice President `
+Yeah. John, it's Joe. Let me start, then Kevin can – at this point, no short term labor disruptions. I
+mean we had challenges this year from an operating performance perspective in Mexico. Quite
+honestly that was dealing in part with just the amount of launch activity and the growth we had
+down there.
+But that's a great workforce for us. They do a good job. And we're certainly not seeing any short-
+term disruptions.
+The whole discussion around border tax, it's actually broader than Mexico at this point, right?
+When they talk about import value, they're talking effectively globally. So it's clearly Mexico is a
+big piece of it, but it is hard to speak to specifics.
+As it relates to businesses or types of operations down there, there are certainly more
+automated-type manufacturing processes down there, which you could conceivably see coming
+back to the – or coming to the U.S. Some of these were never in the U.S. We've grown them in
+Mexico or started them in Mexico. And we'll look at that depending on where the rules go. But it
+would have to be much more of the – sort of the automated-type manufacturing operations, just
+given the difference – the labor differential there.Q - `John J. Murphy, Analyst, Bank of America Merrill Lynch `
+Great. And then just lastly on the CSLP. I mean which automakers – or generally, if you can kind of
+classify some of the automakers that are expressing real interest in the near term? Because
+some of them – some of the larger guys like Ford have kind of given some indications that they're
+skeptical about buying systems. But it looks like a lot of the other automakers are fairly receptive.
+I'm just curious if you have any you could rattle off or generally kind of classify the interest there.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Yeah. I'm not going to give names, but I would characterize it in kind of two or three buckets.
+Those that are interested in the CSLP light, so it's not all of what the platform has to offer. But
+certain portions of software and systems integration.
+And then others who I think have the view and have had the view historically that technology like
+this is not core from a capability standpoint. It's costly. So they're better off partnering and
+bringing that technology in from the outside. And that tends to be CSLP heavy, which is, here's
+the whole plug and play solution.
+And then there are players that are – that quite frankly are in between those two.
+Q - `John J. Murphy, Analyst, Bank of America Merrill Lynch `
+Okay. That's helpful. Thank you.
+Operator
+Our next question comes from the line of David Leiker from Baird.
+Q - `Joe D. Vruwink, Analyst, Robert W. Baird & Co., Inc. `
+Hi. This is Joe Vruwink for David.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Hey, Joe. How are you?
+A - `Joseph R. Massaro, Chief Financial Officer & Senior Vice President `
+Hey, Joe.
+Q - `Joe D. Vruwink, Analyst, Robert W. Baird & Co., Inc. `
+Hey, I wanted to discuss the competitive environment and Infotainment. And not to say its share
+gains for Delphi are unusual, but when I think about the magnitude of competitive wins coming to
+Delphi over the past year, there's Audi, there was Fiat Chrysler on the Uconnect, there was Volvo.
+It just seems like the magnitude is maybe unusually high. Is that a fair characterization of Delphi
+winning an abnormal amount of share relative to your other product lines?
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Well, listen, I think obviously gaining share based on the size of the wins. I mean it's clearly it's a
+high growth space within automotive – obviously gaining share. I think though the nature of the
+space quite frankly has changed Joe. I think it's now in addition to Infotainment, it's aboutleveraging Infotainment in clusters. It's about computing power. It's about leveraging computing
+power. It's about taking out mass and cost. It's about scalability. And it's about signal distribution.
+So again I come back to the traditional capabilities within our E&S business and the fact that we've
+been in the Infotainment business for quite a while is certainly a value add and allows us to win
+business. I think when you couple that with our Electrical Architecture business, and you're able to
+develop really efficient controllers that can be scalable, I think that's the biggest driver for some
+of our more recent wins. I think it's a much more sophisticated solution than what OEs were
+asking for three, four, five years ago.
+Q - `Joe D. Vruwink, Analyst, Robert W. Baird & Co., Inc. `
+And then one of the remarkable things is there's not only a lot of growth, but as I look at the
+margin profile just in this quarter, so it sounds like I can add back maybe $25 million in warranty.
+And then if I think about D&A, that segment is doing a high-teens EBITDA margin; typically
+Infotainment guys are doing 10%, low teens type numbers. Do you think you can keep that
+growth rate or realize what you've booked at the current level of margin for the business?
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Yeah. Absolutely. Absolutely. Absolutely. And the other great thing about the business – and, Joe,
+you can give some specifics on it. The other great thing about the E&S segment is when you look
+at it from a return on capital standpoint, it's very low CapEx, right? So the reality is from an ROIC
+standpoint, it's actually our highest return product in the Delphi portfolio.
+A - `Joseph R. Massaro, Chief Financial Officer & Senior Vice President `
+Yeah, that's in part driven – obviously we've got high software content in there. So you've got the
+benefit of not having a lot of capital spend related to that. But that business has also done a very
+good job of leveraging their footprint. Globally, we do not have a lot of E&S manufacturing
+facilities. We've got concentration in good best-cost markets. And they're really able to leverage
+those facilities across all of E&S, not just within Infotainment or Active Safety, which helps
+contribute to that margin profile.
+Q - `Joe D. Vruwink, Analyst, Robert W. Baird & Co., Inc. `
+That's great. Thank you very much.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Thanks.
+Operator
+Our next question comes from the line of Adam Jonas from Morgan Stanley.
+Q - `Adam Michael Jonas, Analyst, Morgan Stanley & Co. LLC `
+Hi, everybody. Thanks. Just a couple questions on the M&A theme. Would a battery or electric
+motor or an adjacent battery or electric motor acquisition be considered a hole in your portfolio,
+or is that – or is it something you can kind of keep working around and adding value outside?
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `Yeah, I – Adam, it's Kevin. Listen our view on – that's something that we've spent a lot of time in.
+As you know at one point in time Delphi was in the battery business. We've concluded those are
+spaces where others have strong position and strong capabilities. And as we're marketing our
+48-volt system principally in China today, we're talking to some European OEs as well, we're
+relying on partners on both.
+Q - `Adam Michael Jonas, Analyst, Morgan Stanley & Co. LLC `
+Okay.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+For both.
+Q - `Adam Michael Jonas, Analyst, Morgan Stanley & Co. LLC `
+Thank you for clarifying. And just to your kind of quote, we would explore anything that could
+enhance shareholder value. I think that was in response to the light duty diesel kind of future
+within the company. Just to kind of let the record straight on maybe more broader portfolio. I
+think there's been a theme in this call that you feel there's a lot of advantage of having all three
+business units together; that progress in one can enhance new wins and technical opportunities
+and skill sets in others. And so is that message correct, that you would also say that shareholder
+value is enhanced by having Powertrain, E&S, and E/EA together, rather than apart?
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Yeah, listen, I think both financially as well as – kind of quantitatively as well as qualitatively, there's
+benefits of having the three within the product portfolio. Right? Powertrain electrification –
+obviously we have a Power Electronics business that sits in Powertrain. But the reality is, Adam, we
+have an Electrical Architecture business that benefits as much or more from Powertrain
+electrification as the Powertrain business does. So there are – again, there are areas of leverage
+and areas of cross opportunities.
+The comment and maybe carve out (54:11) with respect to would consider – listen, we're
+evaluating our portfolio all the time.
+Q - `Adam Michael Jonas, Analyst, Morgan Stanley & Co. LLC `
+Yeah.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Since I've been here we've sold three businesses. We bought a number of businesses. So we're
+always working on optimizing the portfolio and identifying areas where we think we can drive
+shareholder value. So that's something that we're regularly – quite frankly regularly doing.
+Q - `Adam Michael Jonas, Analyst, Morgan Stanley & Co. LLC `
+Okay. Thanks, Kevin. And just a final one. I know you provided disclosure in the past of
+percentage of workers in low cost countries and geographically. I don't know if you're able to
+either refresh where you stand there, if there's any significant change? I suspect there's not. But
+maybe holistically, given this debate of border tax, what portion of your, say, total value added
+would you say is – and this is a round number question. I'm not suspect – I don't suspect you havea – can be so precise, but what portion of your value added is imported versus made in America
+today? Thanks.
+A - `Joseph R. Massaro, Chief Financial Officer & Senior Vice President `
+Yeah, Adam, it's Joe. There's been no real change in the workforce. I think we've been out
+before that about 90% of our hourly workforce is best-cost countries. And there's been no
+material changes in that over the last year or so.
+Listen, and I'll give out some numbers. I'm happy to discuss numbers. But as Kevin mentioned,
+this border tax adjustment is really not known at this point. I think there's sort of three sentences
+in a 13-page document that is what a lot of people are keying off of. But round numbers, our cost
+of sales value for imported materials into the U.S. is about $4 billion. The majority of that is out of
+Mexico, about $3.5 billion, and we've talked about that back a couple of months ago when tariffs
+were sort of the topic of the day. But think about total imported content, material content into the
+U.S. is about $4 billion.
+Q - `Adam Michael Jonas, Analyst, Morgan Stanley & Co. LLC `
+All right. That's very helpful, thanks. Thank you.
+A - `Joseph R. Massaro, Chief Financial Officer & Senior Vice President `
+The other – again and I...
+Q - `Adam Michael Jonas, Analyst, Morgan Stanley & Co. LLC `
+Yeah.
+A - `Joseph R. Massaro, Chief Financial Officer & Senior Vice President `
+Not to answer a question you didn't ask, but I – just anticipating. One other – we often get the
+question. When we're asked that question, how much is the content, we're then asked, how
+much is the export content? Because there's this notion out there that you'd receive some
+offsets. The export content is about $1.5 billion.
+Q - `Adam Michael Jonas, Analyst, Morgan Stanley & Co. LLC `
+Appreciate that. Thank you.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Thank you.
+A - `Elena Dom Rosman, Vice President-Investor Relations `
+We have time for just one more question, Kayla.
+Operator
+Our next question comes from the line of Ryan Brinkman from JPMorgan.
+Q - `Samik X. Chatterjee, Analyst, JPMorgan Securities LLC `
+Hi. Good morning. This is Samik on behalf of Ryan Brinkman. I did want to ask on commercialindustry? What are you guys aiming for commercial vehicles? And what are your thoughts about
+any potential upside in maybe the back half from all the discussion about pro-growth policies and
+higher infrastructure spending in the U.S.?
+A - `Joseph R. Massaro, Chief Financial Officer & Senior Vice President `
+Yeah, that's – we're not necessarily reflecting any new expectations from changes out of DC at
+this point. Obviously there is a lot of talk at the moment. CV, we're at 3% growth in the guidance
+that we've provided.
+Q - `Samik X. Chatterjee, Analyst, JPMorgan Securities LLC `
+Okay. Good. And just quickly last question, I know you don't disclose your R&D expenses on an
+on-going basis, but where did you sort of end in 2016? And how do you compare relative to
+maybe some of the benchmarks in the industry that you use there, with your closest comps
+there? And what is the likely trajectory of that given the investments that are needed on new
+technologies?
+A - `Joseph R. Massaro, Chief Financial Officer & Senior Vice President `
+Yeah, no changes there overall. I'm not going to go into industry benchmarks. We're very
+comfortable with our spend. We spend about 7% or a little bit more – 7% of sales on engineering,
+which encompasses all of our R&D. We've talked about before, there's no change there. We're
+comfortable we can do what we need to do within that number.
+One of the things we've been very good at over the last few years is reducing engineering
+expense in sort of the later stages and the manufacturing support stages. And being able to
+move those dollars to the advanced front end. So we're actually spending more in advanced,
+while not necessarily increasing the overall spend. And that – we're confident that'll remain within
+that range.
+Q - `Samik X. Chatterjee, Analyst, JPMorgan Securities LLC `
+Okay. Got it. No. That's very helpful. Thank you.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Thanks.
+A - `Joseph R. Massaro, Chief Financial Officer & Senior Vice President `
+Thank you.
+A - `Elena Dom Rosman, Vice President-Investor Relations `
+All right. That concludes today's call. As always I'm available for your questions and follow-ups
+throughout today. Thank you.
+A - `Kevin P. Clark, President, CEO, Chief Operating Officer & Director `
+Thanks, everyone.
+A - `Joseph R. Massaro, Chief Financial Officer & Senior Vice President `
+Thank you, guys.Operator
+That concludes the Delphi Q4 2016 Earnings Conference Call. Thank you for joining. You may now
+disconnect.

@@ -1,0 +1,870 @@
+Y 2020 Earnings Call
+
+Presentation
+Operator
+Good morning, welcome to Logitech's a First Video Call to discuss our Financial Results for the
+Fourth Quarter and Full Year 2020. Joining us today and sheltering in place, as everyone else, are
+`Bracken Darrell, Chief Executive Officer, our President and CEO; and `Nate Olmstead, Chief Financial Officer, our CFO.
+During this call we may make forward-looking statements, including with respect to future
+operating results under the Safe Harbor of the Securities Litigation Reform Act of 1995. We're
+making these statements based on our views as of today, May 12, 2020. Our actual results could
+differ materially and we undertake no obligation to update or revise any of these statements.
+During today's call, we will discuss non-GAAP financial results. You can find a reconciliation
+between non-GAAP and GAAP measures, as well as more information about our use of non-
+GAAP measures and factors that could impact our financial results in our press release and our
+filings with the SEC including our most recent annual report and subsequent filings.
+These materials as well as the prepared remarks and slides and a webcast of this call will be
+available at the Investor Relations page of our website ir.logitech.com. We encourage you to
+review these materials carefully. Unless noted otherwise, comparisons between periods are year-
+over-year and in constant currency. This call is being recorded and will be available for replay on
+our website.
+I will now turn the call over to Bracken. Bracken, your line is now open. Line is muted.
+`Bracken Darrell, Chief Executive Officer `
+Okay. There we go. Yeah. Thank you, Ben. And thanks all of you for joining us in the first video call
+we've had. Afters eight years at Logitech, this is my 33rd analyst call, but given the exceptional
+moment, I'm going to start this a little different from the other 32.On behalf of all of us at Logitech, I want to recognize several groups who deserve our attention
+in any discussion during this COVID-19 period. The medical professionals in the middle of this
+pandemic go to work every day, knowing they have a much higher probability of contracting the
+deadly disease than we do.
+Banksy, the mysterious and famous graffiti artist in the UK, some of you might know, recently
+painted a young boy who put down Batman and Superman toys and was holding a nurse up in the
+air as his new super hero. A friend of mine is a nurse who has been on the front line for months
+managing the nursing staff and performing as a nurse herself, she's experienced constant stress
+that one of her team might contract the disease and the fear of contracting it herself. Now, three
+of her staff are sick, she is sick too, all diagnosed with COVID-19, and their primary goal is to get
+through their days of being sick to get back into the hospital because there aren't enough nurses
+available. Real courage is putting yourself in harm's way for the sake of others. These medical
+professionals are courageous and are indeed heroes.
+Teachers around the world changed their approach literally over a weekend. I came for a family of
+educators, including my mother who taught first grade, which is six and seven year olds for 35
+years. So I have understanding of what it's like to be a teacher, at least to be around a one a lot.
+And I can't even imagine how one can connect with and teach 37 year old's or eight year old's, or
+teenagers over a computer screen.
+Teachers didn't choose a profession that's remote. Teachers aren't adequately trained for
+remote teaching. The tools haven't been developed with them in mind. Distance teaching came
+as not invited guest and it's completely changed educators jobs. Yet, teachers around the world
+are evolving their approaches, experimenting and starting to make it work. My mom would be
+very proud of her peers.
+So many parents suddenly find themselves working at the kitchen table, that's half school room
+and half home office. I had a video call with a fellow CEO who has two very children. She was
+exhausted as she and her husband shoulder not only new work from home realities, but also
+teach at home realities simultaneously. Parents aren't trained for this. There are no rules for this,
+but she and 1 billion people around the world are learning to make it work.
+I could go on and on about the heroic efforts of medical professionals, teachers, distribution
+center and manufacturing workers, grocery store clerks, delivery drivers and so many other
+essential workers who are risking their lives to keep our's more normal. And there's a lot more to
+say about the challenges so many people, including many of you have.
+While many of you, like my CEO friend, are also driving their remote work reality with children at
+home. Others are overseeing aging parents at your home or worse far away, where you can'y
+visit them in person. Many are sheltering at home completely alone and perhaps not on this call,
+too many are now living with the anxiety of unemployment. Even if you feel frustrated, challenged
+and even if you feel like you're failing at times, you're making it work. In these times, that's heroic
+too.
+So what can Logitech do to help with these new realities, even if it's just in our own little way? A
+lot. In this unprecedented, unpredictable, and uncertain moment, Logitech, our little Company,
+you're little Company, has never been more relevant.
+Before I get into what we do though, let me start with who is doing it. Our people, the most
+important thing in our business. Our people are healthy. The health and safety of our people has
+always been our top priority and continues to be and everyone is healthy right now.Our supply chain is also getting healthy. In January and February, as many of you know, our
+manufacturing sites, as well as those of our suppliers, came to a complete standstill, like so many
+others. Thanks to outstanding leadership and the dedication of our local teams, we've recovered
+very quickly from the shutdown of three straight weeks. It took us through the end of the quarter
+to get almost back to our old production levels and now, we're back at full throttle.
+We're in catch up on some characteristics that sold out during the late March time frame, but our
+supply chain is working well now. Our people are working pretty well from home too. Of course,
+like everyone else, most of our office workers suddenly began working full-time from home in the
+second week in March.
+Our own culture is one based on intensive video calling and we began three or four years ago, to
+sponsor work from anywhere a week. First a day and then a week to encourage companies like
+us to let their people start to work from home, or at least try it. This has made the transition much
+easy for our people on the work front and for many other companies. Of course, it still isn't
+perfect, but there are aspects that are actually better. The environmental impact for example,
+and there are things we all miss, but our people are making it work.
+Our products have never been so relevant. Logitech's contribution -- just one second. In these
+difficult times, is that many of our products play a small but essential role in helping everyone stay
+engaged and connected, whether that's coworkers collaborating from home or teachers
+providing remote instruction to students, or kids playing and watching games with little physical
+contact.
+The long-term secular trends that will drive sustainable growth in our three large businesses
+continue. While other companies are suffering drops in interest in their categories, this global
+crisis may have accelerated the trends underlying our big businesses. Companies are moving
+faster to adopt video centered cultures, e-sports and gaming are becoming an even bigger part
+of our lives and working from home, including creating and streaming content for many of us is
+settling into stay.
+Companies are setting up business continuity plans that involve a more distributed workforce and
+they need a desktop setup, including a mouse and keyboard and more. Independent of the
+companies, employees are increasingly setting up their own personal home office, whether that's
+in a dedicated work space or at their kitchen counter. A growing number of companies and
+employees are realizing that working from home can work, so to speak, and they will duplicate
+their office and then upgrade it as time goes on. We will see less business travel, more video and
+more virtual collaboration.
+E-sports, whether it's Fortnite or e-racing tournaments, had record viewership as real life sports
+have been replaced by virtual sports for now. So it's just NASCAR turning to virtual e-racing. Twitch
+set record highs in viewership, while Microsoft saw all-time record engagements for Xbox Live.
+Traditional sports will return, but the rise of e-sports will continue to happen, perhaps even faster
+than I originally envisioned.
+Streaming broadcast and content creation are increasingly becoming not only a form of
+entertainment, but also a source of income for more and more people. You must see this
+happening real time on you're Instagram, LinkedIn, YouTube and Facebook feeds.
+And of course, this global crisis has led an even greater focus on remote work and learning.
+Home offices are doubling as schools and things more pop back to the old way when this is over.
+Much of this is the new normal. More home offices to create and upgrade, more videoeverywhere, more gaming and more broadcasting, those are exactly the secular trends we've
+built our future round.
+Logitech delivered another great year, with fiscal year 2020 sales up 9%, and operating income
+up 10%. We almost grew double-digits again, in spite of all the China tariff headwinds, in spite of
+the negative currency and in spite of the most recently the COVID-9 supply constraints.
+Of course, as the shelter at home policies went into place, we saw a rare event, acceleration
+immediately. One of the biggest beneficiaries that we've seen in the recent acceleration in work
+from home is our PC peripherals category, which grew 6% in fiscal year 2022, to an all-time high.
+In Q4, PC peripherals achieved double-digit growth. On top of that, our sell-through in the
+quarter was even stronger. Our highest growth product in PC peripherals this past quarter was
+our web cams, which were up 34%, with double-digit growth in all three regions.
+It shouldn't be a surprise that video is an essential part of many home office and remote learning
+set ups, and with our lion's share of the web cam industry, we experienced a sudden spike in
+demand starting in March, that led to supply constraints that we are working hard to alleviate this
+quarter. We haven't caught up yet.
+Will we see growth in the future for PC peripherals at the double-digit sell-out rates we saw for
+Q4? Most likely not at double digits, but at the same time, the momentum toward remote work
+and distance learning will continue as we emerge from this crisis. More and more people will work
+permanently from home and an even larger percentage have found that they're comfortable
+working at home at least part of the time. That's a lot of home offices to establish, and as I said, a
+lot of them to upgrade later. Companies are already getting on this bandwagon of more work
+from home when it's over.
+Our video collaboration category also benefited from the same work-from-home trend, with
+fiscal 2020 sales up 43% and with an acceleration in both sales and sell-through in Q4 to up to
+60%. As the world is transitioning to remote learning and work, we've seen a clear trend toward
+turning on video to connect to friends, coworkers, teachers, students, doctors and patients, as
+we all adapt to social distancing. Video for work became essential, video for social became a
+surprisingly good experience for a lot of people.
+While our gaming sales grew 8% in fiscal 2020, sell-through grew in the 15% to 20% range. The
+gap was driven by supply constraints. Our gaming sell-through growth was further accelerated in
+the month of April, as gaming provided many families a sense of the escape and a way to
+connect with friends. Even the World Health Organization teamed up with the gaming industry to
+recommend people #playaparttogether.
+Tablet and other accessories grew for a third straight year, up 7%. As Apple launched their latest
+iPadOS that brought trackpad support to the iPad, we saw strong initial sales of our Combo
+Touch, a keyboard case with an integrated touch pad, as well as our newest Slim Folio Pro for the
+11-inch and 13-inch iPad Pro.
+In addition, we delivered a second consecutive year of robust iPad keyboard sales into the
+education channel. I'm really excited about the potential for education, particularly as each child
+needs a computing device now.
+Mobile speakers were down 2% for the full year, in line with our expectations and slightly
+outperforming the broader market. The mobile speaker market has experienced a significant
+impact from COVID-19 as retailers' brick and mortar stores around the world closed. The marketitself fell strong double digits in the month of March, and we expect further deterioration in the
+Bluetooth speaker market near term.
+We've always thought it's important to adjust with flexibility and speed to new market
+opportunities and away from markets no longer look promising. So we've reallocated some
+resources from Bluetooth speakers to several growth initiatives to accelerate their performance.
+Two other products that saw a major uptick in sell-through in March were headsets and Blue
+Microphones. Headset sell-through increased over 50%, while Blue more than doubled, with
+Blue's growth further accelerating in the month of April. As concerts, tours, music performance
+canceled, many musicians started to live stream their performances online and often times with a
+Blue Yeti Mic. The Blue is also the voice of video bloggers, which were also on the rise.
+The bottom line is that the long-term trends that favor 85% or more of our business accelerated
+in March.
+Now, let me turn the call over to Nate to walk you through our key financial metrics in the past
+year.
+`Nate Olmstead, Chief Financial Officer `
+Thanks. Bracken. We finished a very good year with a very strong fourth quarter and we head into
+our next fiscal year excited about the growth potential, but at the same time, realistic about the
+macro challenges we face.
+Our focus on operational execution and financial discipline remains constant and critical during
+these unusual times. This consistency was on display throughout fiscal ' '20 and we executed
+well, although, I believe we can do even better.
+The short period between our Analyst and Investor Day on March 3 and the end of our quarter
+was particularly volatile, with significant new global challenges as we closed out the quarter. Retail
+partners closed stores, logistics connections were disrupted and run rate processes needed to
+be quickly adapted to manage large swings in demand.
+And despite all of these challenges, we closed out another year of strong financial performance.
+As Bracken said, fiscal year 2020 sales were just shy of $3 billion, up 9% in constant currency, at
+the very high end of our guidance. That's our fifth year in a row of nearly double-digit growth.
+We also delivered non-GAAP operating profit growth of 10% to $387 million, higher than the
+revised guidance that we provided at our March Analyst Day, and in fact, we also exceeded our
+original guidance of $375 million to $385 million.
+Our fiscal '20 gross margin reached a record 38.4%, up 60 basis points, in spite of roughly 200
+basis points of China tariff and currency headwinds. We're driving cost savings and efficiency
+improvements across all parts of our business, from our own manufacturing plant to our global
+supply chain and logistics network, and in our go-to-market strategies.
+You've heard us talk about our transition to a more demand-pull and marketing-led business
+model. And this was particularly evident during Q4, where we reduced our price promotions and
+invested more into our marketing OpEx spend. You can expect us to continue this transition from
+push to pull demand generation over the next several years.
+On top of this, our gross margins also benefited from better product mix, led by PC peripherals,
+video collaboration and gaming, as well as profit improvement initiatives across several othercategories.
+Our non-GAAP operating expenses increased 8% in fiscal '20 to $755 million, or up 7% excluding
+Streamlabs. This demonstrates our continued discipline in driving operating leverage by balancing
+our spend with both top-line growth and gross margin expansion, while continuing to invest to
+capture our most attractive growth opportunities.
+Our sales and marketing and R&D spend were up 8% and 9%, respectively, to support strong top
+line growth this year and in the future, while we keep our G&A spending flat for the year at a
+record low 2.7% of sales. In Q4, specifically we reinvested the strong sales and gross profit dollar
+growth into various marketing initiatives into our video collaboration sales force and into multiple
+R&D projects to support future product introductions and innovations. The net result of these
+business dynamics and operating decisions was strong profit growth and operating margin
+expansion for both Q4 and fiscal ' 20.
+Now, let me briefly talk about our cash flow. We delivered an all-time record cash flow from
+operations of $425 million for the full year, up significantly from $305 million in fiscal ' 19. In
+addition to strong earnings growth, our cash flow was helped by a 13-day decrease in our Q4
+cash conversion cycle versus the prior year. The main drivers of this improvement were faster
+inventory turns and better collections performance.
+Working capital management is an emphasis across our Company, and I'm pleased that we were
+able to achieve these strong results even while transforming our operations and supply chain to
+offset cost pressures from China tariffs.
+Looking forward, I would like to remind everyone that the first half is typically our lowest cash flow
+period of the year as we build inventory for the holiday season, and this upcoming first half will be
+further impacted by our need to replenish distribution center stock following the demand surge
+and supply constraints in Q4. Therefore, while I still expect our full year cash flow to
+approximately equal our full-year non-GAAP operating income, our first half cash flow may be
+weaker than our normal seasonality.
+Before I make my final comments, I want to highlight three material, but non-cash and one-time
+items that impacted our GAAP results in Q4 and created a wider than normal spread between
+our GAAP and non-GAAP earnings. I won't go into each one in detail now, but we have more
+information about each item in our press release.
+First, we booked a $23 million GAAP expense as an estimate of the Streamlabs earn out and
+reflecting good growth in this business. This expense unfavorably impacted GAAP operating
+profit. Second, we recognized a $40 million gain in other income and expense due to the sale of
+our minority stake in Lifesize, a company we divested in 2016, but in which we retained a small
+investment. This gain increased the GAAP net income.
+Finally, we recognized a $152 million income tax benefit related to the Q4 enactment of the Swiss
+tax reform. This also increased our GAAP net income. Now, I realize some of you may find these
+three items confusing, but let me just reiterate that they are all one-time and non-cash events.
+In summary, we closed out a very good fiscal year in spite of the various cost headwinds and
+macro challenges that we had not anticipated when we started the year. Looking forward, our
+upcoming fiscal year has many unknowns as well, particularly around the depth of COVID related
+macroeconomic declines and the pace of any recovery, as well as logistics disruptions and cost
+increases or potential changes in customer purchasing behaviors.As one example, the cost of the incremental air freight we will use in our first quarter of fiscal
+year 2021 to fulfill sell out demand and replenish stock will negatively impact our Q1 gross and
+operating margins by 2 points to 3 points versus the prior year. In fact, we have already spent
+nearly as much on air freight in Q1 as we normally do in a full year and we have factored this
+incremental cost into our profit guidance.
+But even though our margins maybe temporarily pressured by logistics cost increases and we
+cannot be certain if the recent pace of sales growth will continue, we feel confident that our
+products and offerings, as Bracken said, are becoming even more relevant and we believe this
+positions us well to deliver against both our FY'21 targets and longer term objectives.
+With that, let me pass it back to Bracken.
+`Bracken Darrell, Chief Executive Officer `
+Thank you, Nate. We just gave our outlook for fiscal year 2021 in March. And today, we're
+confirming sales growth of mid single-digits in constant currency and maintaining our non-GAAP
+operating income of $380 million to $400 million. No doubt, this is more stretching to guide
+today than it was a month ago, but we feel, as Nate said, that the strength of the trends in our
+favor should enable us to still deliver our original guidance.
+And with that, Nate and I are ready to take your questions.
+Questions And Answers
+Operator
+Great. Thank you guys. Let me queue up the questions. Alex, you are now open.
+A - `Bracken Darrell, Chief Executive Officer `
+Hi, Alex.
+Q - `Alex Duval, Analyst, Goldman Sachs `
+Yeah. Hello. Hi there and congrats on the strong quarter. Couple of real quick ones from me. First
+of all, just given that various countries and regions are coming out lock downs at varying rates, I
+wondered if you could share any color about what you've seen in the last two or three weeks?
+Any key learnings would be appreciated as we start to compare places like China versus other
+Asian economies and for example, Europe and the US.
+And then, secondly, obviously, video conferencing is going very strongly, and you've talked about
+the momentum that you see there. The investors in some cases are asking about the extent to
+which you could see new competition maybe from start-ups or from larger tech companies. So I
+wondered to what extent you are seeing new entrants coming in there, to what extent you can
+protect your position, and how you're factoring that into your guidance for this year and future
+years?
+A - `Bracken Darrell, Chief Executive Officer `
+So let me start with your second question, Alex. I think, I've said this, I think, every time I get a
+question, our competition have always had the same reaction and I have that to your question
+right now. I think we're in competitive markets all the time and with growth comes more
+competition, the stronger the growth the more interest in the category. And I think growth makestime in all of our categories. So if we have and surely we will have more competition in some of
+our video categories, it will require us to step it up in both innovation and go to market and cost,
+and we're certainly planning as if we're going to have that. But the most important thing for us is
+focus on the customer. And the better we do a job of understanding inside and out what makes
+the customer more effective, more efficient, more engaged, the better off we're going to be
+and that's where we're putting 95% of our effort. So look I'm optimistic in any scenario that we're
+going to have a great video collaboration business.
+In terms of the question you asked about how the world is opening up in different places, it's a
+little too early to say what there is to learn from that. I think we're all sort of experiencing this one
+small step at a time and China certainly opened up fastest. Within that part of the world, Taiwan
+never closed. And I think we've learned a lot from our Hsinchu office, where we never closed the
+office. We never sheltered in place. Within a few days of realizing what was happening, we pulled
+chairs out between people, we started taking temperature as our people walked in the door
+temperature -- checking temperatures as people walk in the door. And we realized that this is a
+kind of a petridish for us to reapply in the rest of the world. I think, as China started to open up,
+we're seeing things return somewhat back to a more normalized level and I expect that's going
+to happen now in Switzerland and parts of Europe and later in the US and the rest of Asia. So I'd
+say, too early to say exactly what we can learn, but I'm an optimist, but I am practical. I think it's
+going to take time and as these things slowly open up,we will re-apply learnings from the
+different parts of the world to make sure that every successive step is more effective for us.
+A - `Nate Olmstead, Chief Financial Officer `
+I'd maybe add to that, Alex. It's really about adapting things. That we're doing in our own lives,
+we're also doing in the Company. As I mentioned, run rate processes having to adapt within our
+Company, we've had to meet more frequently in some cases. It's about sharing those learnings
+and those insights. And many times the countries are different for reasons that may have
+different go-to-market models, more online versus offline, different logistics situations. So as
+Bracken said, it's a little bit early to make generalizations, but I think the key point is that, we have
+to adapt and continue to learn and communicate internally about what we are seeing.
+Q - `Alex Duval, Analyst, Goldman Sachs `
+Thanks.
+A - `Bracken Darrell, Chief Executive Officer `
+Thanks, Alex.
+Operator
+Okay. Tom, your line is now open.
+A - `Bracken Darrell, Chief Executive Officer `
+Hi, Tom
+Q - `Tom Forte, Analyst, DA Davidson `
+Great. Hope everyone is staying well and thanks for taking my question.
+Q - `Alex Duval, Analyst, Goldman Sachs `Thanks, Tom.
+Q - `Tom Forte, Analyst, DA Davidson `
+I wanted to take the opportunity to ask the question I get most often from investors and that
+question is, when we think about your efforts in video collaboration and gaming, what gives you
+confidence that we're not seeing a pull forward in demand or a one-time surge versus
+sustainability in both of those categories?
+A - `Bracken Darrell, Chief Executive Officer `
+Yeah. I guess it's a couple of things. One is that the long-term secular trends that are really
+happening have been happening in both gaming and video collaboration, are consistent and
+measured and you could look them two years ago and three years ago, and last year and two
+months ago. This sudden hit that came in the month of March feels very very dramatic, but the
+truth is, underneath that, the same set of decisions and interest that people have are what's
+driving that.
+Now, if you step into each one of those categories, it's really interesting. So if you look into video
+and you say, gosh, you know we had a big surge in demand and so many people bought our web
+cams or tried to buy our web cams, but they couldn't. But if you do the math on how many
+people are now working from home and how many of those will continue to work from home on
+some level, either full time or part of the time, it's a really a small fraction of the number of
+people that have actually adopted a web cam from us or mouse or keyboard within the last
+month. So could there be some pull forward? Absolutely. Will it be a long-term trend to continue
+to bring those in and then to upgrade the ones they have? I really believe that. It remains to be
+seen how much of each of those is the case.
+On the gaming front, I think, gaming is just a freight train that won't stop. And I don't think we will
+see a really significant change in the gaming business until it's biggest conventional sports and I
+think we'll have varying growth rates, sometimes it will be stronger and sometimes weaker, but
+gaming is here to stay and the growth is too.
+Q - `Tom Forte, Analyst, DA Davidson `
+Thank you, Bracken.
+A - `Bracken Darrell, Chief Executive Officer `
+Thanks, Tom.
+Q - `Tom Forte, Analyst, DA Davidson `
+Stay well.
+A - `Bracken Darrell, Chief Executive Officer `
+Okay.
+A - `Nate Olmstead, Chief Financial Officer `
+Thanks, Tom.
+OperatorPaul, your line is now open.
+A - `Bracken Darrell, Chief Executive Officer `
+All right. Paul?
+Q - `Paul Chung, Analyst, JPMorgan `
+Hey. Thanks for taking my questions. So in VC you mentioned telemedicine, teachers, workers
+kind of setting up home offices in your prepared remarks. So it's kind of nice drivers, but can you
+help us better understand the decision to buy a VC solution relative to a PC webcam for the
+home, is that decision being made at the enterprise level and distributed to employees? Are
+consumers buying the products themselves? And then how do you see the VC versus webcam
+purchase evolve over the course of the year, as it looks like work from home is here to stay for a
+while?
+A - `Bracken Darrell, Chief Executive Officer `
+Yeah. Thanks, Paul. Firstly, I think the decision to buy a webcam for your home, whether it's done
+by the individual or done by the companies is all over the place. I think we have companies that
+are ordering in bulk. We have individuals that are buying through all the different ways you can get
+equipment today, including calling -- reaching out to me personally, where they couldn't find one.
+So I think you've got a whole range of those things happening. And I guess you're going to have
+more and more people -- companies buying webcams to distribute to their workforce. There is
+many of the banks that are on this call who have done that actually or are working on that right
+now.
+Iin terms of -- you mentioned, it is a webcam versus VC. I don't think that's really what's
+happening. I think it's really webcams and VC equipment. The offices around the world are going
+to continue to video enabled, if fact I suspect that while we may have a lull in the action of
+installing equipment into offices just because people can't get in there, or because they are
+preoccupied with all their team that's working from home, the truth is, once you get into this
+video world, you don't go back. So all those enclosed spaces that aren't enabled are going to
+need to be just like they were before. So I don't think it will be a choice of either or I think can be
+and.
+Q - `Paul Chung, Analyst, JPMorgan `
+Okay. And then my follow-up is, we're starting to see some firms change channel strategy,
+reducing retail footprint and then pushing more products to online channels, particularly on
+company websites. So I assume your online mix from both the website and e-commerce is
+probably up considerably. Is there any change in future strategy to possibly capture more gross
+margin upside on more shift to online sales over time? Thank you.
+A - `Bracken Darrell, Chief Executive Officer `
+Thanks, Paul. Yeah. Our online sales are relatively -- or actually quite a small percentage of our
+total sales. And we did see a significant increase as the last six weeks, eight weeks have
+transpired. And I suspect, that's going to stay higher. We really want to make sure that consumers
+can buy their products anywhere they want to, including directly from us. We don't like the idea of
+competing with our own channels, but we certainly want to make sure that our products are
+available, and we can offer sometimes a wider variety of products than some of our partners, or
+our e-tail and retail partners are. So we're going to keep investing in our website just to makesure that people can do the right research and then if they want to buy directly from us, they can.
+And like our margin targets are achievable, and we're going to stay after them no matter where
+they're sold. I do think you're going to see a permanent increase in e-tail now. That's probably no
+surprise to anybody. How big that is, what percent of it is, I don't know yet, but it's certainly
+increased a lot over the last six weeks.
+Operator
+Thanks. Michael, your line is now open.
+A - `Bracken Darrell, Chief Executive Officer `
+Hey, Michael.
+Q - `Michael Foeth, Analyst, Vontobel
+Yeah. Hi, everyone. Good to see you live. I have actually three short questions. The first one is,
+you talked about penetration of video equipment in meeting rooms and also at desks in general.
+My question is, how have your expectations as to how this penetration is going to develop in the
+next two to three years, how have those expectations changed over the last two months? I
+mean, by how much is it accelerating, if you have any way of sharing your thoughts on this?
+The second question will be--
+A - `Bracken Darrell, Chief Executive Officer `
+Hi, Mike. Let me stop you after that question. Let me answer one at a time -- or Nate and I will
+answer one at time. How have our expectation changed? Let me start with what hasn't changed.
+What hasn't changed is our belief that video, video rooms, the video enablement will happen
+across almost all, if not all, enclosed spaces around the world over time over the next two to
+three years. I think that that's still going to happen in a very fast rate. So the video equipment in
+the office side hasn't changed. You could have a low on the action here as people are not in
+offices as much, but I imagine those video enablement of enclosed spaces inside of companies is
+going to continue at much the same rate as it was.
+What has changed is, I think, more people are going to have video equipment at home and so
+that's an added plus. I think that was happening in anyway, but I think it's become -- because of
+the -- what I mentioned in my opening, the kind of explosion of requirement of doing video to
+stay connected to your team mates and in your social life has pushed everyone forward in terms
+of getting on video. I mean we this call for example is video today and it wasn't last quarter. I think
+that's accelerating the need to have video equipment at home. And I think that is a change.
+Q - `Michael Foeth, Analyst, Vontobel
+Okay. Thank you. And then the other question was for Nate maybe regarding the mix effect on
+the gross margin. Can you quantify how much uplift you got from mix in the quarter to the gross
+margin?
+A - `Nate Olmstead, Chief Financial Officer `
+It was the most powerful benefit we got in the quarter, Michael. As you saw, the growth was
+particularly strong in some of our higher margin categories like video collaboration, like PC
+peripherals. That and just the incremental volume we were driving, which, of course, gave us alittle bit of operating leverage on some fixed costs that are up in manufacturing and places and
+logistics and things like that. But mix was very powerful and positive for us in the quarter.
+It's actually been a nice story for us all year. You've seen how we've been able to manage
+through some of the currency and tariff headwinds and one of the big factors there has been mix
+as well for the whole year.
+Q - `Michael Foeth, Analyst, Vontobel
+So it's probably more than 300 basis points, 400 basis points?
+A - `Nate Olmstead, Chief Financial Officer `
+No, it wasn't that big. There are several factors in there, but mix in Q4, in particular, was the most
+positive one.
+Operator
+Okay. Thanks a lot. I will leave it at those two. Thank you.
+A - `Bracken Darrell, Chief Executive Officer `
+Okay. Thanks, Michael
+Q - Unidentified Participant
+Yes. Hi. Here is Surge [ph] speaking from Credit Suisse. I will have two or three questions. The
+first one is on
+A - `Bracken Darrell, Chief Executive Officer `
+Let's take it one at a time.
+Q - Unidentified Participant
+Yes. I think it is better.
+A - `Bracken Darrell, Chief Executive Officer `
+Okay.
+Q - Unidentified Participant
+On the guidance, you are for mid-single digit guidance and Nate mentioned that you will have or
+will see much less promotion, this has been deductible so far from the top line. So I'm wondering
+how much of this less promotion is in this mid-single digit guidance so that the organic growth, if
+you would like, is then only 1% to 2% or how should I understand this?
+A - `Nate Olmstead, Chief Financial Officer `
+That's a good question Surge, but I don't think that's the level of detail we probably need to get
+into when we think about the guidance. I mean, I would just say overall that's what we're driving
+our top line to grow at and we have a number of levers on that, shipment volume, promotion,
+many, many things that would go into it. I think in general, we have been working towards being
+less aggressive on promotion and investing more in OpEx for some time and we're going toterm strength of our brand through marketing investments and again, one of the levers for
+funding that is reduced promotions in our gross sales.
+Q - Unidentified Participant
+Okay. Got it. And the next one is, probably -- you mentioned that some of the products has been
+sold out, first. And secondly, we have seen high sell-through. So I'm wondering whether you will
+see a pent-up demand in Q1 still or even in Q2, how do you see that for this?
+A - `Bracken Darrell, Chief Executive Officer `
+Yeah. First of all, yeah, we do have some products, and webcams in particular that's sold out and
+we're playing catch up. What we're shipping in is selling right out. Is there a pent-up demand?
+Well, we did a reduction in channel inventories in several places and question is -- and I am not
+sure that we're going to let the channel inventories go back to where they were entirely. We're
+going to keep an eye on that. As we move more online, we may be able to reduce our channel
+inventories a little bit, or where we may need to and maybe it's a prudent thing to do. We're
+going to keep an eye on that and see. I'm sure there is some pent-up demand that you're going
+to see in the early part and we've seen in the early part of Q1, but how long that keeps playing
+out, we'll have to keep an eye on.
+Q - Unidentified Participant
+Okay. Then probably the next one on net working capital. Why are the DSO still at such a high
+level? When I compare it to the past, it was on the half the size or half the days it's still today and
+the same is true then for the DPOs, they are in a very low level. Why are these DPOs not higher
+that you collect cash from your payables?
+A - `Nate Olmstead, Chief Financial Officer `
+Yeah. Let me take each of those. So on the DSO, you really should just compare it to last year,
+because in the prior years, we had different accounting treatment for how we accounted for
+accounts receivable and some of the rebates that go into accounts receivable. So really it's only a
+clean compare year-over-year. This was related to the 606 accounting changes that we
+implemented in FY'19. So actually DSO came down 5 days Q4 to Q4 here in FY'20. We did a nice
+job on collections in Q4, which was one of the drivers of our strong operating cash flow for the
+year.
+On DPO, this is really just the math. I mean you know how DPO is calculated. You've got a
+numerator and denominator. We had strong sales. So the denominator increased, cost of goods
+increased and because of the supply constraints as well as just efforts to reduce our inventory
+levels, we were not able to replenish and make those purchases, which would have offset. So
+some of the reduction -- there is no change in our payment terms and things like that. This was all
+just the math and the linearity of the quarter.
+Q - Unidentified Participant
+But you agree that you still have a potential or huge potential to improve?
+A - `Nate Olmstead, Chief Financial Officer `
+I think it's important to look at all three of those metrics together and really focus on cash
+conversion cycle because depending on how your quarter shakes out in terms of, you have
+strong sales out of the -- or strong sales at the end of the quarter versus the beginning of thequarter, you can see movements in each one of those metrics. But if you focus on cash
+conversion cycle, a lot of those timing differences will offset each other.
+Q - Unidentified Participant
+Okay. And probably last one. Given the circumstances, how is your shortlist look like for M&A, can
+you give us some flavor here?
+A - `Bracken Darrell, Chief Executive Officer `
+We never really share too much of our M&A targets, but there are always targets out there.
+We're looking at things all the time and we're looking at things now. And it's an interesting time to
+be doing it. Well, as I said in my opening, we have a lot of cash -- I didn't say, actually, I will now,
+we have a lot of cash, we have no debt, we are a great cash generator and our top priorities for
+cash is to look for smart accelerants or replace few things we're doing internally in terms of M&A.
+So we're looking.
+Q - Unidentified Participant
+But let me, as you that, is that --
+A - `Bracken Darrell, Chief Executive Officer `
+Understood. You doesn't request.
+Q - Unidentified Participant
+No. But I can imagine that some of the companies running out of cash and so they're happy that
+they get the new model or the new cash.
+A - `Bracken Darrell, Chief Executive Officer `
+No problem
+Q - Unidentified Participant
+Okay. Thank you so much.
+A - `Bracken Darrell, Chief Executive Officer `
+Yes. Thank you.
+Operator
+Thanks. Ananda, your line is now open.
+A - `Bracken Darrell, Chief Executive Officer `
+Hi, Ananda. I just sent you a private message that wasn't intended for you, Ananda, but don't --
+but luckily it wasn't anything personal.
+Operator
+Ananda, you're still on mute.
+A - `Bracken Darrell, Chief Executive Officer `Ananda, you're still on mute here. Go somewhere else and come back to Ananda.
+A - `Nate Olmstead, Chief Financial Officer `
+Yeah. When we come back to him.
+Operator
+Okay. Andreas, your line is now open.
+A - `Bracken Darrell, Chief Executive Officer `
+Hi, Andreas. We're learning, aren't we.
+A - `Nate Olmstead, Chief Financial Officer `
+Yeah.
+Q - `Andreas Mueller, Analyst, ZKB `
+Hello.
+A - `Bracken Darrell, Chief Executive Officer `
+Hi, Andreas.
+Q - `Andreas Mueller, Analyst, ZKB `
+Again my quest -- my question. Hi, everybody. On the collection performance which was good.
+Going forward, do you envisage problems with some of your clients basically being cash-
+constrained and how do you protect and basically your accounts receivable, are there special
+measures in place for that?
+A - `Nate Olmstead, Chief Financial Officer `
+Yeah. We want to have very closely in all environments and I think even more so today. This is
+around having good relationships with those customers as well and being in frequent
+communication with them. So as I mentioned, again, earlier some of our processes, we need to
+adapt a little bit. I mean this is one where we have a strong process in place. But I think now the
+frequency with which we will review things and that we reach out to customers just accelerates a
+little bit, just to make sure that really on top of it. But thus far we have not experienced any issues
+and like I said I expect us to manage that well.
+Q - `Andreas Mueller, Analyst, ZKB `
+Okay. Cool. Then on the air freight and general all this additional cost you've got to get the
+product out of China. I mean, when do you think will that be normalized if these type of problems.
+Are you seeing already that the shipments by shapes and so forth going normal or would you
+expect for a couple of months these higher costs going on?
+A - `Nate Olmstead, Chief Financial Officer `
+No. We're looking at all forms of logistics. I think what you're really seeing here is, of course, we
+had the three-week kind of closure of our factory and of our partners' factories, and so we knew
+that we were going to be having to chase supply and replenishment with some air freight in Q1,but even since then the rates have increased as well as you probably know across the industry for
+air cargo. So we're looking at all forms of transportation. I certainly see this lasting through Q1.
+We'll probably see some of this cost pressure into Q2 as well and that's one of the things we
+factored into our profit outlook for the year.
+A - `Bracken Darrell, Chief Executive Officer `
+Yeah. Remember the other side of air freight is -- they -- basically when it comes to air freight the
+product goes underneath and the passengers are on the plane more of the time. If there are no
+passengers on the plane then the fleet is not flying you have low capacity. So -- and so to get that
+air freight you have to pay more. I think, you can imagine that air freight in the state is pretty high,
+I mean, for a while. I think it will come down over time, but it probably will come down for a while.
+A - `Nate Olmstead, Chief Financial Officer `
+I mean, it kind of like the challenges that we've had in the past around tariffs and things, we're
+looking at a number of actions we can take to try to offset this, whether it's increasing capacity for
+certain products in the factories, so that we can buildup supply, many, many measures that we will
+take a look at.
+Q - `Andreas Mueller, Analyst, ZKB `
+Okay. And then maybe my last question then on the inventory level which is low and you said they
+are some constraints for certain products but are you confident that these inventory synergies
+are really filled then for the strong quarters going forward?
+A - `Bracken Darrell, Chief Executive Officer `
+Yeah. So the answer is yes. I'm confident that we're going to be okay from an inventory
+standpoint, I think we're going to have to watch demand and our job is to match demand and
+supply. Right now the supply has been tricky to costs and demand has been to deliver. And the
+good news is now the demand isn't distributed deliver because we're back in full production in all
+of our factories and all of our supply chains are working well. So that side it's fixed. Now the
+demand side and that -- we're fulfilling the demand that -- for some of these products that really
+was super, super strong. As we get more predictability around that I think we'll be able to -- both
+this year we have the right inventory and also dropped the amount of express or air freight and
+fast growth that we're using now and bring that cost back down. So I think this will moderate over
+the next quarter and two or three, probably, over the next quarter, but let's see.
+Q - `Andreas Mueller, Analyst, ZKB `
+Okay. Thank you very much.
+A - `Bracken Darrell, Chief Executive Officer `
+Okay.
+A - `Nate Olmstead, Chief Financial Officer `
+Thanks, Andreas.
+A - `Bracken Darrell, Chief Executive Officer `
+Thanks, Andreas.Operator
+Thanks. Ananda, your line --
+A - `Bracken Darrell, Chief Executive Officer `
+Anybody noticed my Blue microphone, are you impressed. It's actually in. I'll let you all. Everybody
+who wants we will take orders after the call.
+Operator
+All right. All right. Ananda, let's see if it's --
+A - `Bracken Darrell, Chief Executive Officer `
+All right. Ananda.
+Operator
+Your line is open.
+A - `Bracken Darrell, Chief Executive Officer `
+Ananda.
+Operator
+Ananda, we still, unfortunately, can't hear you.
+A - `Bracken Darrell, Chief Executive Officer `
+You can also right your message chat maybe Ananda and we'll go to someone else.
+Operator
+All right. `Asiya Merchant, Analyst, Citigroup, your line is now open.
+A - `Bracken Darrell, Chief Executive Officer `
+Hello.
+A - `Nate Olmstead, Chief Financial Officer `
+Hey, Asiya.
+Q - `Asiya Merchant, Analyst, Citigroup `
+Hey. Hey. Good morning, everyone.
+A - `Bracken Darrell, Chief Executive Officer `
+How are you?
+Q - `Asiya Merchant, Analyst, Citigroup `
+Thank you for taking the -- taking my questions. A couple of ones maybe Bracken or Nate,conviction in, I know there is a secular trends you talked about, Bracken, that's impacting
+everything, but just even in the near-term, meaning a couple of quarters out what products do
+you have a lot of conviction in, in terms of getting to your mid single-digit growth rates for fiscal
+'21?
+And then on I can take my -- if you can take my next question to gaming, it kind of deceleration
+on a year-on-year growth rate into this quarter versus a prior quarter. I know in the past there
+were the tough compares with Fortnite, et cetera, but then as we head into now fiscal '21. What
+are some of the drivers that we should be looking at, especially with the new consoles coming
+on, and I think, they're backward compatible? And then I have a question for, Nate, just on the use
+of cash? Thank you,
+A - `Nate Olmstead, Chief Financial Officer `
+Okay.
+A - `Bracken Darrell, Chief Executive Officer `
+Okay. Let's jump on the -- on that visibility first. I don't want to be too boring here, I'm going to
+repeat myself. I think in terms of what in quotation marks visibility. I would say, really these secular
+trends that are happening, don't look like they're going away, whether it's gaming video or
+streaming or just having your own desktops.
+So we feel like we have a pretty good view that all those secular trends are going to continue.
+Exactly how they're going to continue beyond the next month or two, depends, I mean, there's
+going be a range around it. But when you look out over a full year, we feel like those trends are
+strong, they are going to continue even in a recession or a deeply recessionary environment
+we're going to have a lot of drive into those -- all those categories. So that's why we feel
+confident confirming our guidance.
+In terms of the gaming space, I think, the -- as you looked underneath us, the real sell on gaming
+continue to be strong double-digit, 15%, 20%. So we still -- things still look very good. If you talked
+about the console refresh cycle that's coming and forward compatibility, so if I brought a product
+today it is going to be -- it is going to work on the new consoles. It looks like they will, but that
+may not be totally reflected in the console market right now and probably it will take time for
+awareness to build and confidence to build among consumers.
+So I think that's -- but one of the drivers, why headsets still haven't quite sold as much as we
+would have thought, we would have liked. But after the Fortnite effect was over, I think, there is a
+still pause going on. The next reason which is that we want the new consoles are coming [ph],
+these are really going to work there. I think that will get cured over time. There's never been
+forward compatibility before as far as I know. So there may be a little bit of a credibility question
+until it -- we will get a little closer into it and there's more press around it. So we'll see. But I think
+overall the gaming business continues to be a good strong driver for us and will be in the
+quarters and the year ahead.
+Q - `Asiya Merchant, Analyst, Citigroup `
+Okay.
+A - `Nate Olmstead, Chief Financial Officer `
+So let me just jump in. I don't think I've heard Bracken called self boring, he is called me boring allA - `Bracken Darrell, Chief Executive Officer `
+Only when you miss the largest, by the way, I think [ph].
+A - `Nate Olmstead, Chief Financial Officer `
+I think -- I mean, I think, just to really reiterate what Bracken said, Asiya, when I look at
+investments, I'm looking for long-term trends. I'm looking for things that I have confidence that
+are going to provide a long-term return and haven't changed my philosophy around any of those
+investment areas over the last couple of months and like Bracken said, if anything, they've only
+strengthened. So, obviously, we're always - I'm always focus on efficiency, always focused on cost
+and reinvesting our efficiency for growth and I think in this environment those bets have almost
+become clearer for me into where we need to drive our investments and drive the company. So
+really no change. That sounds a lot more exciting than boring.
+Q - `Asiya Merchant, Analyst, Citigroup `
+If I can -- can I throw in one more exciting question and that's on --
+A - `Bracken Darrell, Chief Executive Officer `
+Of course.
+A - `Nate Olmstead, Chief Financial Officer `
+Yeah.
+Q - `Asiya Merchant, Analyst, Citigroup `
+-- 5G AR/VR, obviously these are some underlying trends that are 5G may be more near-term as
+it comes through mobile devices AR/VR maybe a couple of years out or maybe a year out,
+especially given the new iPad launch by Apple that had some more interesting camera
+functionality. How are you guys thinking about that in terms of drivers for your own product
+portfolio? Thank you.
+A - `Bracken Darrell, Chief Executive Officer `
+Yeah. 5G is really a difficult one to answer. I think 5G will probably be an accelerant for gaming as
+it becomes --
+Q - `Asiya Merchant, Analyst, Citigroup `
+Right.
+A - `Bracken Darrell, Chief Executive Officer `
+-- an alternative to WiFi. It will -- this will give you shorter lag times and require you to have less
+equipment then. So I think that's a really interesting and you still need the equipment we make. In
+terms of the VR and AR, we've been investing in the AR and VR on the right kind of level for the
+last four years and we want to be there in the early days of exploring how AR especially is going
+to develop in -- with interfaces and the tools you use to manipulate the things you're using or
+you're building or you're creating or playing less in AR. We've had -- I have said, we have learned
+so much over the last few years with all the different approaches that are happening in -- and I'm
+quite optimistic about it, but I don't think it's going to happen overnight. So I wouldn't put it intoyour -- I wouldn't put it is aligned in the spreadsheet for part of our growth for the next year or
+two. But it's going to come eventually, and I think, when it does, it will be -- we will be there, we
+will absolutely be there.
+Q - `Asiya Merchant, Analyst, Citigroup `
+Okay. Thank you.
+A - `Bracken Darrell, Chief Executive Officer `
+Thank you.
+A - `Nate Olmstead, Chief Financial Officer `
+Thank you.
+Operator
+Hi, Jurgen. Your line is now open.
+A - `Bracken Darrell, Chief Executive Officer `
+Hi, Jurgen.
+Q - `Jurgen Wagner, Analyst, Mainfirst Bank
+Yeah. Thank you. And actually you mentioned that certain products were sold out and what
+impact did that have on pricing last quarter or is that to come now this quarter or next or this
+year? And then you mentioned the earn-out for Streamlabs, how significant is that business or
+was it in Q4 and what should we look at for this year? Thank you.
+A - `Bracken Darrell, Chief Executive Officer `
+So two interesting questions. I'll take them and then, Nate, you could add --
+A - `Nate Olmstead, Chief Financial Officer `
+Yeah. Sure.
+A - `Bracken Darrell, Chief Executive Officer `
+--- to that as well. I'd say in terms of impact on pricing, we would probably be a little less
+promotion than we normally would have, which is good. We don't really like to promote that
+much. As Nate indicated in his opening, we're shifting ourselves to a much -- to -- we're working
+on the shift to a more pull-oriented marketing approach, which is healthier long-term, but those
+things don't happen overnight and that's going to happen over the long-term. It did -- we did
+have less promotion in especially in Q4 and I hope we can sustain that as we go forward. It's
+really the goal, but we will reinvest that back in the market, you really build the brand and build
+demand. Do you want to take the second question, Nate?
+A - `Nate Olmstead, Chief Financial Officer `
+Yeah. On Streamlabs, so I think, Bracken alluded to this. We've seen some nice increase in the
+demand for streaming products, whether it's the blue microphone or things like Streamlabs as,
+again, musicians and others have been looking for ways to connect with their fans and with theircommunities. Streamlabs really, of course, was not material for us at all for the year. For the
+quarter it added about 1 point of growth at the total company level and again the earn-out charge
+that we took in the quarter is just an indication that, that growth has improved from our outlook in
+the past quarter.
+A - `Bracken Darrell, Chief Executive Officer `
+But I will say, I love Streamlabs for a couple of reasons, one, it's a really cool business. Yeah, first,
+it's just a really cool business. It's fun to be in the business of really enabling streamers to do what
+they're excited about, whether they're new ones who are just streaming with the 10 people or
+their big time in really making a living doing that, we sort everybody and it's really, I'm learning
+about it, it's a really cool business.
+The second thing I love about it, it's a pure service business. It's our -- really our first pure service
+business. So we're going to school on that and we're trying to figure out how to reapply service
+back in the rest of our businesses and we have projects in the works right now. As I said in the
+Analyst Investor Day we try to do that over time. So that's really fun.
+Q - `Jurgen Wagner, Analyst, Mainfirst Bank
+And --
+A - `Bracken Darrell, Chief Executive Officer `
+And the third thing is, I just love the team. There's such high energy, they are cool, they are
+located in two different places and not located everywhere like we are. But they are -- it's a great
+team of heavy software engineering and they are always come with new ideas. So super fun
+business. I hope you'll hear more about Streamlabs over time because it is -- it's been a really
+good one for us and I think it's really critical that we learn to play well in a service environment and
+that we build great software products, as well as hardware.
+Q - `Jurgen Wagner, Analyst, Mainfirst Bank
+And how big could it be, let's say, in three years, four years, five years out?
+A - `Bracken Darrell, Chief Executive Officer `
+We're so hesitant to give answers like that. You need to do and then say, rather than say and then
+do. So I think it's -- I think it, but I think it's really exciting and I don't know yet. But we will be sure
+to tell when we do. Okay.
+Operator
+All right, Torsten, your line is now open.
+A - `Bracken Darrell, Chief Executive Officer `
+Torsten.
+Q - `Torsten Sauter, Analyst, Kepler Cheuvreux `
+Yeah. Hi. Good morning, everybody and --
+A - `Bracken Darrell, Chief Executive Officer `Good morning.
+Q - `Torsten Sauter, Analyst, Kepler Cheuvreux `
+-- congratulations to dealing with the crisis well. Yeah. To be honest, I have two questions -- a set
+of a question here. First, maybe on distribution, I say that in your distribution you seem to offset
+the decline in brick-and-mortar channels pretty well with the move to online. And now a few
+questions derived from this. I mean has the switch created any new cluster risk exposures
+towards bigger platforms and also all (Multiple Speaker)
+A - `Bracken Darrell, Chief Executive Officer `
+What do you mean cluster risk, the bigger problem?
+Q - `Torsten Sauter, Analyst, Kepler Cheuvreux `
+Amazon, for example, being a big player already, a big channel for you. I mean basically thinking
+about your mid-term positioning as a player on those platforms. Your capability to position your
+products as well, is that price as well.
+A - `Bracken Darrell, Chief Executive Officer `
+Yeah.
+Q - `Torsten Sauter, Analyst, Kepler Cheuvreux `
+Because these platforms are big and they -- the channel seems to be more consolidated to me
+than the brick-and-mortar channel?
+A - `Bracken Darrell, Chief Executive Officer `
+Yeah.
+Q - `Torsten Sauter, Analyst, Kepler Cheuvreux `
+And more sophisticated as well?
+A - `Bracken Darrell, Chief Executive Officer `
+Yeah. Well, let me answer that one quickly before you go to the next on that we will keep us
+externally in the logic flow.
+Q - `Torsten Sauter, Analyst, Kepler Cheuvreux `
+Yeah.
+A - `Bracken Darrell, Chief Executive Officer `
+Yeah. So we obviously got a lot more online this quarter. But this is new for us. We started this in
+China about five years ago, when -- I don't know how many of you know this, in China, the IT
+malls, as they were called, collapsed one day, not exactly one day, but close. And all that business
+moved online and all that online business generating even more attention online and suddenly
+the China marketing from about 13% online to 70% online. And so we became really good at
+marketing and executing online businesses and staff differently and all methodology [ph] kind of
+the whole thing.So that's the thing that we learned and we have actually been organizing ourselves internally of
+the last two years really talk about this much to take that same model into the rest of the world.
+So we're better and better, I would say, in managing online customers like Amazon or the
+marketplace. So I feel really good about where we are. Their consolidation is it good, bad and
+different. I would say there's still a lot of -- I mean, it is still a relatively small part of our overall
+universe. But they're an open playing field and we like that. We think we can win in a fair fight. So
+we like the growth of online sales and I think we're going to do well.
+A - `Nate Olmstead, Chief Financial Officer `
+Yeah. On that, I think, we're still well diversified in terms of our go-to-market channels and their
+strengths and weaknesses to each of them, but I think as Bracken said, continuing to be a good
+partner with those customers and there is some great things that you can do online that are
+harder to do or much more expensive to do in stores. So it's important for us to stay nimble and
+shift investments to capture those opportunities as they arise.
+Q - `Torsten Sauter, Analyst, Kepler Cheuvreux `
+Okay. Very clear. Thanks. And maybe another one that really helps understanding at least for me
+the -- to contextualize the situation around video collaboration. How do you see built-in video
+cameras that many laptops, for example, are already equipped with when they sold, right? I
+mean look at me, I'm just calling in from my 2016 laptop, no additional equipment. I don't know
+how the quality is, of course, and video and stuff. But I can -- do you really need all this stuff, I
+mean, how big is this unmet demand really?
+A - `Bracken Darrell, Chief Executive Officer `
+Yeah. There's a couple of things. So you do get a higher quality video experience. I'm using one
+of our video cameras and I hope I look okay. But it really -- you really can't do a side by side
+comparison for most built-in laptops. You will see a significant difference. So, you do get a higher
+quality picture. You look better. And why is that? It's because a lot of the -- there -- I won't even
+go into why. But the bottom line is that's usually the case.
+The second thing is, if you -- once you get -- once your (inaudible) kind of established, you usually,
+if you have a laptop, your laptops kind of built-in here, and then you got screen up there. Well,
+you end up looking either up like this, which is kind of weird or you're constantly going back and
+forth. So once you are there -- you're in there, you are screening, a lot of screens don't have
+built-in video camera.
+So there is a need for webcams and I think it was going to be a need to welcome the long term
+for all the dynamic, all the regions of the dynamics that this business is always generated a need
+for webcam. But there will all kinds of people, all kinds of different solutions and today we've got
+a really nice position in all of them and we have a lot of scale and we keep -- we will be investing.
+A - `Nate Olmstead, Chief Financial Officer `
+Torsten, I would say too, I think, there's room for both solutions. I don't have to use my external
+webcam exclusively, just like I don't need to use my laptop webcam exclusively. And as Bracken
+said, I think, as you set up a home office, maybe you've got a monitor because you're working at
+your desk for more than just 20 minutes doing email. It's definitely a better experience to have
+that external webcam.
+Q - `Torsten Sauter, Analyst, Kepler Cheuvreux `Okay. Got it. Thanks.
+A - `Bracken Darrell, Chief Executive Officer `
+We're obviously pro webcams.
+A - `Ben Lu, Vice President, Investor Relations `
+Thank you, Bracken. I think that ends all the Q&A for this call.
+A - `Bracken Darrell, Chief Executive Officer `
+Okay. Well, I'm going to, in this rare moment. I'm actually going to say a few things here to close.
+So I hope it doesn't come up right away. We've never been -- Logitech's never been so integral
+to what matters, whether it's doctors and patients or students and teachers or gamers to each
+other or creators to their audiences, it's exciting to be playing in this role right now. There were
+so many people need us and need help. These are exceptional times, and we have exceptional
+opportunities. The late any drove of Intel saying, he is a very famous CEO of Intel for many years
+as a quote. So it's in a crisis, the weak fail, the good survive and the great improves. And I can
+assure you we are going to improve. We've had five years of nearly double-digit growth or
+better, we are worth eight times more today than we were eight years ago. We as a leader or a
+mundelein to you in virtually every category we're in and we're going to enter more as we further
+exploit the growth in these categories.
+I have never been as energized as I am now, even if it's dark macro period, the light has turned
+bright on in Logitech. We can help so many people now in so many different ways. So stay tuned.
+It's going to be an exciting year. It is a dark period, but I think we can really do a lot of good here.
+Thanks a lot for doing our first video call. Sorry for the glitches. We will get better I promise.

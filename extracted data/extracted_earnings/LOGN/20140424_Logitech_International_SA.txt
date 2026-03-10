@@ -1,0 +1,481 @@
+Q4 2014 Earnings Call
+
+Presentation
+Operator
+Good day. And welcome to the Logitech Fourth Quarter financial results conference call.
+(Operator Instructions). This call is being recorded for replay purposes and may not be
+reproduced in whole or in part without written authorization from Logitech. I would like to
+introduce your host for today's call, Mr. `Joe Greenhalgh, VP, Treasury and IR, Vice President of Investor Relations and
+Corporate Treasurer at Logitech.
+`Joe Greenhalgh, VP, Treasury and IR
+Welcome to the Logitech conference call to discuss the Company's financial results for the Fourth
+Quarter ended March 31, 2014. The press release, our prepared remarks and slides, as well as
+the live webcast of this call, are all available online at logitech.com. As noted in our press release,
+we published our prepared remarks on our website in advance of this call. Those remarks are
+intended to serve in place of extended formal comments today and they will not be read on this
+call.
+During the course of this call we may make forward-looking statements, including forward-looking
+statements with respect to future operating results that are being made under the Safe Harbor
+of the Securities Litigation Reform Act of 1995. The forward-looking statements involves risks and
+uncertainties that could actual results to differ materially from those anticipated in the statements.
+Factors that could cause actual results to differ materially include those set forth in Logitech's
+Annual Report on Form 10-K, dated May 30, 2013, and subsequent filings, which are available
+online on the SEC EDGAR database, and in the final paragraph of the press release and prepared
+remarks from Logitech reporting Fourth Quarter financial results for fiscal 2014. The forward-
+looking statements made during this call represent Management's outlook only as of today, and
+the Company undertakes no obligation to update or revise any forward-looking statements as a
+result of new developments or otherwise.
+Please note that today's call will include results reported on both a GAAP and a non-GAAP basis.
+Non-GAAP reporting is provided to help you better understand our business. However, non-GAAPfinancial results are not meant to be considered in isolation or as a substitute for, or superior to,
+GAAP results. Non-GAAP measures have inherent limitations and should be used only in
+conjunction with Logitech's consolidated financial statements prepared in accordance with GAAP.
+Our press release includes a table detailing the non-GAAP measures, together with the
+corresponding GAAP numbers and a reconciliation to GAAP. This information is also posted on
+our Investor Relations website. The slides that accompany this call include both GAAP and non-
+GAAP measures and are also available on our Investor Relations website. We encourage listeners
+to review these items.
+This call is being recorded and will be available for replay on the Logitech website. Joining us
+today are `Bracken Darrell, President, President and Chief Executive Officer, and `Vincent Pilette, VP, Finance, Chief
+Financial Officer. I'd now like to turn the call over to Bracken.
+`Bracken Darrell, President `
+Thanks, Joe, and thanks to all of you for joining us. I'm pleased with our Q4 results, which brought
+fiscal year '14 to a strong conclusion. Q4 was another year of good progress, and we're ahead of
+schedule on our three-year turnaround plan.
+Let me describe a few highlights of fiscal year 2014. We set sales and profitability targets at the
+beginning of this first year of our turnaround plan, and we delivered them. We exceeded our
+sales and profitability outlook. We returned to sales growth, albeit slight for the year and stronger
+for Q4, and we delivered our non-GAAP operating income more than $50 million higher than
+expected, 60% higher than our initial goal.
+We defined a new growth category, aggregating the exciting growth opportunities in PC gaming,
+tablets and other accessories, and mobile speakers. Then, we set growth targets against that
+growth category, and we over-delivered on those targets. Our sales and our growth category
+increased compared to the prior year in all four quarters and by 50% for the full year,
+demonstrating that we can deliver growth beyond our core PC peripherals market.
+We committed at the start of the year to significantly reduce our operating expense footprint
+during fiscal year '14 while continuing to invest in high-growth potential products, and we did it.
+The reduction in our operating expenses was a key driver of our improved profitability. We
+delivered our best cash flow from operations in the last four years. With prudent management of
+our balance sheet, we generated $202 million of operating cash flow and ended the year with a
+cash balance that was $136 million higher than in the prior year.
+Finally, we said we were going to upgrade our innovation and deliver better products than we
+had in the past several years, with an emphasis on design, and I believe we did that, too. We
+hired a Chief Design Officer, upgraded our design organization, and won 21 design awards, more
+than ever in our history, including a Gold IF, eight Good Design awards, and five Red Dot awards.
+While we're pleased with these awards, we measure our real success on consumer purchase
+levels and satisfaction with our products.
+That's my brief look-back at fiscal year '14. Before I comment on priorities for fiscal year '15, I'd
+like to turn it over to Vincent for additional commentary on the quarter and the year.
+`Vincent Pilette, VP, Finance `
+Thank you, Bracken. We're very pleased by the significant progress we made in improving our
+operational execution and reducing our cost structure during fiscal year 2014, which has made usFor the full year, we improve our non-GAAP gross margin by 30 basis points, driven by our supply
+chain cost reduction initiatives and a clear focus on running some categories for profit
+maximization. The gross margin improvement enabled us to fund the expansion of the growth
+category, which now represents about 24% of our retail sales compared to 16% in fiscal year
+2013.
+Quarter after quarter, we have consistently reduced our non-GAAP operating expenses, ending
+the full year at 28.5% of sales compared to 31.6% in fiscal year 2013. In Q4, we delivered our
+lowest non-GAAP operating expense quarter of the year, which as a percent of sales was down
+by over 500 basis points compared to the prior year. For the full year, operating expense was
+down nearly $60 million as we delivered on our savings commitment made earlier this year.
+While we are pleased by our progress in reducing our costs, there is still more work to be done
+to create investment capacity to support future growth and deliver the operating leverage that
+our business model is capable of. We see ongoing opportunities for savings related to our $250
+million annual indirect [ph] procurement spend, as well as our global infrastructure and related
+processes.
+The most recent example of infrastructure savings is the $5 million restructuring charge that we
+booked in Q4. This charge reflects the consolidation of our Silicon Valley campus from two
+buildings down to one. The objective of this consolidation was twofold; first, moving to an open
+space environment to improve our collaboration and speed of execution, and second, reduce our
+facility expenses, going forward. Becoming a faster and more profitable company is one of the
+key priorities of our transformation. We do not currently expect restructuring charges of a similar
+magnitude in fiscal year 2015, but we will continue to seek out and drive infrastructure-related
+savings to generate additional investment capacity.
+We were very pleased with our cash generation in fiscal year 2014, with our strong performance
+in Q4 being a major driver. This quarter, we generated $94 million in cash flow from operations,
+delivering our best Q4 in the last six years. For the full year, cash flow from operations topped
+$200 million for the first time since fiscal 2010, and it was 43% higher than our -- that our non-
+GAAP operating income of $140 million.
+One of the core elements of our business model is our consistent ability to deliver strong cash
+flow on an annual basis, and this will continue to be a key area of focus, going forward. Note that
+in Q1 FY15, cash flow from operations will be impacted by the payout of variable compensations
+linked to our strong performance in FY14.
+Before I turn back to Bracken, I would like to extend my thanks to all employees of Logitech for
+their hard work and dedication in helping the Company make significant progress towards our
+long-term business model.
+On that note, I'll turn back to Bracken.
+`Bracken Darrell, President `
+Thanks, Vincent. I want to highlight several of our key priorities for fiscal year '15. At the top of the
+list is to create sustained growth.
+Starting with PC gaming, we exited fiscal year '14 with strong momentum, with second half sales
+up by 45% over the prior year. Building on that momentum, earlier this month, we launched our
+newest gaming mouse, the G502 Proteus Core Tunable Mouse. This first-of-its-kind mouse has
+already received very favorable reviews, and we're excited about its potential to drive sharegains in fiscal year '15. You can expect to see other innovative new PC gaming products from us in
+the coming months.
+Turning to tablet accessories, our plans assume that the tablet market will continue to grow,
+possibly at a reduced rate, and that sales of our products will benefit from that growth. We'll
+continue to leverage our keyboard expertise as a competitive advantage by developing tablet
+keyboard products that drive increased attach rates for both the Apple and Android platforms.
+We also expect to benefit from higher attach rate on 12-inch tablets should the larger form factor
+prove popular for productivity-related applications.
+We're gradually building momentum in the large and growing tablet case market. While our share
+of tablet keyboards designed for the iPad is over 50%, our table cover share is still in the single
+digits. It's a fragmented market, and we see opportunity for meaningful gains in the coming year.
+Earlier this week, we announced our three newest protective cases for the iPad, and you can
+expect further additions as we move through the fiscal year.
+In mobile speakers, we have simply been thrilled with the strong consumer recession for our
+flagship offering, the UE BOOM. The success of this product, which we launched in just a limited
+number of markets in Q1 of fiscal year '14, was the primary factor in nearly tripling our sales of
+mobile speakers during the year. We significantly expanded distribution as we moved through
+fiscal year '14, positioning us for continued growth and share expansion in fiscal year '15, and
+there's more to come in mobile speakers in the year ahead.
+Another key priority for us in fiscal year '15 is to continue profit maximizing our PC peripheral
+offerings. We achieved margin improvements across most of our PC peripheral lines in fiscal year
+'14, and we're well positioned for more of the same in fiscal year '15. Some of these savings will
+flow to the bottom line, but we'll invest a significant portion in our growth category to support our
+long-term targets. We'll also use some of these savings to plant seeds by making small
+investments in markets with attractive long-term growth where we can create a strong market
+position.
+While we're not planning for improvements in the market for new PCs during fiscal year '15, we
+can't dismiss the possibility that it could be healthier than expected. Should that be the case, we
+expect that our PC peripheral categories would benefit.
+Our significantly improved results in fiscal year '14 demonstrate that we're on the right path, and
+I'm confident in our ability to continue executing our strategy to return to consistent, full-year
+sales growth while becoming a faster, more profitable company. Thus, we're confirming the full-
+year outlook for the fiscal 2015 today that we shared at our March Investor Day, for sales of $2.16
+billion and non-GAAP operating income of $145 million. It's early in the year, and there are many
+uncertainties at this stage, such as tablet growth rates, PC growth rates, and more. However, I
+feel very good about our fiscal year '14 finish, and I'm excited about fiscal year '15.
+And with that, Vincent and I are available now to take your questions. Please follow the
+instructions of the operator. Operator, are you giving instructions? Hello?
+Questions And Answers
+Operator
+(Operator Instructions). `Alexander Peterc, Analyst, Exane BNP Paribas, Exane BNP Paribas.
+Q - `Alexander Peterc, Analyst, Exane BNP Paribas `Yes, hi, hello, thanks for taking my question. Just--.
+A - `Bracken Darrell, President `
+Hi, Alex.
+Q - `Alexander Peterc, Analyst, Exane BNP Paribas `
+Hi, thanks for taking the question, and congratulations for strong results. I'd just like to understand
+here, in light of the slow iPad numbers that Apple reported today, how at ease are you with your
+strong exposure to the Apple camp [ph] here in [ph] tablets, and how do you feel with respect to
+the overall underlying growth there? And would you say your weak tablet accessory quarter is
+solely due to the pro transition [ph]? It has nothing to do with the slow tablets units reported by
+Apple here? And then, second -- and then, I have a follow-up. Thank you.
+A - `Bracken Darrell, President `
+Okay. Okay, we'll let you come back, Alex. I'll answer the first one. Yes, our net sales in tablets
+had really nothing to do with Apple's quarter. In fact, if you look at our underlying sell-out [ph], you
+can see we had a 76% growth in units. And if you could see our -- what we look at underneath
+that, it looked very strong for the quarter. So, our underlying sales were very strong in the tablet
+accessories market.
+We're transitioning. You've seen our last three or four quarters. Our strongest performing
+product has been the ultra-thin keyboard, and we're transitioning out of that product. You saw
+that we restricted sales just so that we could move out that product and be ready for the new
+one so it could flow right into stores.
+Now, your first question, I guess, how does that make us feel about the overall tablet market in
+general, we have so much -- there's such a large installed base on iPads that fit our products. In
+fact, one of our strongest selling keyboard covers is actually the keyboard covers that apply to
+the prior iPad. So, we have a big install base. It looks to us as if a lot of that install base is still
+attracted by keyboard covers, or keyboards, and so we don't see any big issue with delivering a
+strong keyboard cover business in fiscal year 2015.
+That said, we also have -- there's also a natural relationship we think between tablets and PCs,
+and if the tablets go south, the PCs will probably be a little stronger, so I think there's a natural
+counterweight. But, we feel very good about the overall tablet keyboard market still.
+Q - `Alexander Peterc, Analyst, Exane BNP Paribas `
+Okay. And then, just as a quick follow-up, firstly on how you feel about your guidance being only
+marginally above for the current year at the non-GAAP EBIT level with what you just reported?
+Isn't that a little bit like -- I mean, I know you can outperform, but just -- if you could just explain
+your rationale [ph] here of not doing anything [ph] with your guidance.
+Then, finally, you've expanded to more geographies, your SmartPhone accessory. (inaudible)
+learned from these expansions what's working, what's working less well in the new products that
+you've launched, the performance covers and so on. Thanks.
+A - `Bracken Darrell, President `
+Yes, absolutely. Well, when we -- we're not touching the annual guidance right now because we
+just gave it, so it's very early in the year. we haven't even gotten into our First Quarter to speak ofyet. We certainly wouldn't change anything at this point. It's just too early.
+We're also going to; we know that Q1 will be our toughest quarter of the year. We've got very
+strong comps from the year-ago number. You might remember -- those of you who were on the
+call a year ago, you might remember that we had -- we announced last year that we were
+basically completely changing the seasonality of this business as we launched products into all of
+our new growth categories at the same time in Q1, and we had this very unusual seasonal
+strength. We expect to actually be down low single digits in the First Quarter, but we still feel very
+good about the year, and we -- but it's just too early to touch the guidance.
+Q - `Alexander Peterc, Analyst, Exane BNP Paribas `
+Okay, thanks a lot.
+Operator
+`Youssef Essaegh, Analyst, Barclays Capital, Barclays.
+Q - `Youssef Essaegh, Analyst, Barclays Capital `
+Hi there, `Youssef Essaegh, Analyst, Barclays Capital of Barclays. Thanks for taking my questions. So, I have two. The first
+one is regarding the strong trends that you have shown this quarter in PCs. I was just wondering if
+you can give us a little bit of an idea of how is this [ph] sustainable this year. Do you expect
+eventually to start to go back in line with the rest of the market, or is there anything in particular
+that should drive it a little bit higher?
+And then, the second one, if I may, is just to bounce back on the previous question, if you can
+give us a little bit of color on the split between Android and tablet in your sales in keyboards and
+covers, and how do you feel your first strides seem to be Android case market has been so far.
+Thanks.
+A - `Bracken Darrell, President `
+Okay. Well, let me start with your PC question. So, if I understand it correctly, you're asking do we
+-- we finished strongly. We had a good quarter in PCs. We actually finished with a decline of about
+5% or 6%, and the market was down about 8%.
+I think our expectation is that the market for PCs is -- we're assuming a pretty negative view of
+the market for the year, down about 7%, and we're assuming about down 6% for our overall PC
+peripherals market. You can certainly get forecasts right now that are stronger than that. We're
+just not going to count on it. if it comes, we certainly have the capacity to deliver it, and we've
+grown share consistently all year long. And I have no reason to think we won't do it this year, as
+well. We're really well positioned there.
+On the tablet split between Apple and Android, as you know, we just got into this Android market
+about midway through last year. It's very early days. It's still a very small portion of our total
+market, but we feel good about what we've got out there, and we think we're really in a good
+spot. I think it's one of the potential counterweights at some point in the future, even though I'm
+not worried about this year having an impact from Apple tablet sales, certainly as we go into next
+year and the year after, having a stronger attach in the Samsung portfolio would really help us to
+offset that. I think we're going to be positioned to do that.
+Let me go back and answer Alex's first question. He asked about SmartPhones, what we've
+learned so far. It's early days. We launched in -- last quarter, kind of the end -- middle to end oflast quarter. We launched some products into the SmartPhone market, and we described them as
+learning. We're expanding that now. And I would say we're really -- we're learning how that
+market behaves, how the returns process works, how the whole market operates. And so far, I
+think it's a market we can do something in. We continue to work on the portfolio. Stay tuned.
+Q - `Youssef Essaegh, Analyst, Barclays Capital `
+Thanks. Am I still on the line?
+A - `Bracken Darrell, President `
+Yes. Yes, you are.
+Q - `Youssef Essaegh, Analyst, Barclays Capital `
+Yes. Sorry, just very quickly on the PC, so you're not going to count on it for the rest of the year,
+but can you tell us maybe why you did so well in the quarter that just ended in March?
+A - `Bracken Darrell, President `
+Well, I think we've consistently outperformed the overall PC market. And by the way, the PC
+market didn't perform so badly last quarter. It actually had growth on the business side in -- or
+some -- a lot of stability on the business side. The consumer side, that [ph] continues [ph] to be
+weak, or weaker. So, I think we just outperformed the market, and I have no reason to think we
+won't in the future.
+Operator
+`John Bright, Analyst, Avondale Partners, Avondale Partners.
+Q - `John Bright, Analyst, Avondale Partners `
+Thank you. Bracken, on the quarter itself, let me go back to the gross margin question. You talked
+about a small impact from pricing related to the transition on the ultra-thin keyboard cover. Is the
+challenge that you have in that case predicting demand, and is that something that's going to be
+more of a challenge as you're speeding up the Company, looking forward?
+A - `Bracken Darrell, President `
+I think there's -- I think it's probably not actually going to be more and more of a challenge. It's
+going to be less and less of one. We certainly are going to learn our way through different
+categories on how to manage the demand curve. This one in particular, remember, it was our
+largest-selling product, so the ultra-thin does have a big impact on our business. It's becoming
+smaller now as we move to beyond just the ultra-thin keyboard into folios like the fabric skin
+keyboard and others that are doing very well, by the way. So, I think we're going to be less
+dependent on any single product in the future. And I don't expect it to be a big problem, going
+forward, at all.
+Q - `John Bright, Analyst, Avondale Partners `
+Vincent, is it -- when I talk about gross margins for FY15 and then on the long-term basis as well,
+what are you feeling comfortable talking about, either for FY15 ranges, and-or long-term?
+A - `Vincent Pilette, VP, Finance `Yes. So, on March 6, John, you remember we guided the business at a gross margin of 35.2%,
+and the profit maximization categories have a different gross margin than the growth. But, all of
+the savings we're driving from a supply chain, from a procurement perspective, as well as getting
+the effect of scale as we grow certain growth category, makes us comfortable to guide the
+business at 35.2% for FY15, and we're not changing that.
+So, within a couple of the similar points there, that's where I think our business model will land.
+Q - `John Bright, Analyst, Avondale Partners `
+On the buyback, is this a buyback where you can be opportunistic? I think you mentioned in your
+prepared text that you now have all the approvals in place. Can you be opportunistic in where you
+want to buy back more, or is this more of a structured buyback that has price limits set on it?
+A - `Vincent Pilette, VP, Finance `
+So, the buyback, as we mentioned on March 6, we got the Board approval for $250 million
+program over two years that we will run on an opportunistic basis. And that's how we will do it.
+we'll look at different points in the market and valuations and buy at the time.
+Q - `John Bright, Analyst, Avondale Partners `
+Last question; Bracken, you've done a terrific job on the turnaround. And as the Company moves
+from the turnaround mode to the growth mode, you've talked about a lot of the organic
+initiatives in place. Give us a flavor, from an acquisition standpoint, how important that's going to
+be as we look forward.
+A - `Bracken Darrell, President `
+I look at acquisition opportunities every week now, so I'm scanning about -- I'm scanning a huge
+range of companies, products, technologies, week in and week out. And I've -- I wouldn't sit back
+and expect us to do a $400 million or $500 million acquisition, but I think we will find over time
+the right kind of fold-in acquisitions that can give us a position in new markets, new categories,
+that will enable us to grow in high-growth categories.
+So, that's the kind of thing we're really looking at, and I'm optimistic that we'll find some things,
+over time.
+Q - `John Bright, Analyst, Avondale Partners `
+Thank you.
+A - `Bracken Darrell, President `
+Thank you, John.
+Operator
+`Tavis McCourt, Analyst, Raymond James & Associates, Raymond James.
+Q - `Tavis McCourt, Analyst, Raymond James & Associates `
+Hey, guys, thanks for taking my questions, and congratulations on a good finish to the year.First, a housekeeping item. Vincent, can you remind us what we should be using for a GAAP and
+non-GAAP tax rate for fiscal '15? And then, operational question, or maybe strategic, I don't know,
+but obviously you guys have to be really pleased with the UE BOOM specifically in the mobile
+speaker entry this year.
+In terms of where you think you are on a market share basis and the segment of that market that
+you're competing in, obviously that share has probably gone up through the year, but I was just
+trying to get sense of how low the share is today, and are there other areas within mobile
+speakers, or audio more broadly, where you see opportunities to kind of double down on your
+bet here that seems to be working? Thanks.
+A - `Vincent Pilette, VP, Finance `
+Well, I'll quickly get the tax rate out of the way. So, in fiscal '14, we finished with a non-GAAP tax
+rate of 13.2% for $140 million operating profit. The reason to move to non-GAAP is to avoid any
+impact of one-time reserve release. And that's our core operational rate, so it would use the
+same for GAAP and non-GAAP, and I cannot predict different one-time item in our GAAP tax rate
+that can come up during the year.
+A - `Bracken Darrell, President `
+On your strategic question, I guess you're right, it is strategic and operational. Yes, we feel great
+about the UE BOOM, and we're really excited with the overall Bluetooth speaker market. We
+think -- as I think we said when we launched this thing, wires are going to go away and
+everything's going to be wireless.
+And so, we're very excited about it. The UE BOOM has done very, very well, and it's done -- it's in
+different places around the world but it's still a relatively small share compared to what it can be.
+Now, we have markets where it is the number one player, it's the number one performing
+product in the market, but the good news is those are relatively small markets.
+We have strong potential in other markets around the world. We also now have offerings not only
+at the UE BOOM price point, but we have that $199 and $99 and $49, and we're not done yet. So,
+I think we have a lot -- we have strong potential here, going forward, and we like the formula we
+have. And we're going to -- as you said, we're going to double down on it.
+Q - `Tavis McCourt, Analyst, Raymond James & Associates `
+Great. Thanks very much.
+A - `Bracken Darrell, President `
+Thanks, Tavis.
+Operator
+`Michael Foeth, Analyst, Bank Vontobel, Bank Vontobel.
+Q - `Michael Foeth, Analyst, Bank Vontobel
+Yes. Good afternoon. Question on -- for you, Vincent, regarding net working capital. I mean, you
+squeezed out quite a lot of cash from net working capital, and I was wondering how sustainable
+that is and how we should think about net working capital intensity going forward in your business
+model.A - `Vincent Pilette, VP, Finance `
+Yes. So, from a working capital days, we finished the year in the cash conversion cycle of about 29
+days, and it's an improvement of four days year-over-year. You've seen the cash from operation
+generate this year of $202 million. I think in a prudent way moving forward, and for your model,
+our objective is to deliver cash flow from operations at about one-time non-GAAP operating
+profit. That -- the way I would model.
+And from a capital expenditure perspective, we have run rate of about $40 million, and that's for
+maintenance CapEx. And we have enough capacity to deliver the future growth, so I would use a
+similar run rate.
+Q - `Michael Foeth, Analyst, Bank Vontobel
+Okay, excellent. Thank you.
+Operator
+(Operator Instructions). Paul Coster, JPMorgan.
+Q - `Paul Chung, Analyst, JPMorgan `
+Hi, this is `Paul Chung, Analyst, JPMorgan for Paul Coster. Thanks for taking my question. Great quarter, guys. Can you
+give us a little bit more detail on the breakdown between protective covers and keyboard
+tablets? I know you mentioned your market share was in the mid-single-digit on covers, but if
+covers become a higher percentage, can you discuss how the margins will trend?
+A - `Bracken Darrell, President `
+Yes, I'll address that. Today our keyboard covers are the vast majority of that business. So it's
+more 80%, 90%. And the margin equation, though, is very similar between the two, so you would
+-- you can't -- you shouldn't expect a big change as we start to grow the cover market faster.
+Q - `Paul Chung, Analyst, JPMorgan `
+Okay. Got it.
+A - `Bracken Darrell, President `
+But as I said, I'm really optimistic of our ability to do that. And I think it's a big opportunity for us.
+Q - `Paul Chung, Analyst, JPMorgan `
+Okay. And why are you releasing a flurry of new iPad tablet accessories? You know the iPad Air
+has been out for about six months now; why not wait until the new release of the next generation
+where adoption rates are probably most likely the highest?
+A - `Bracken Darrell, President `
+We just saw that we had a big opportunity to launch some products that would accessorize the
+iPad Air in a strong way. So, we're not going to do anything but keep doubling down on
+accessorizing new products in the iPad space, in the Android space. And so, we think that cycles
+are fast enough, and we certainly thought we had an opportunity in the market to take some
+share there that we weren't really participating in.Q - `Paul Chung, Analyst, JPMorgan `
+Okay, thanks. Thanks guys.
+Operator
+`Andrew Humphrey, Analyst, Morgan Stanley, Morgan Stanley.
+Q - `Andrew Humphrey, Analyst, Morgan Stanley `
+Hello. Good afternoon, and thanks for taking my question. Just a couple from me. The targets
+that you've articulated and moved around slightly in the recent Investor Day include some growth
+in your PC keyboard or keyboards and desktop business, which clearly is outperformance versus
+the broader PC market. More recently, I guess you've launched a kind of -- an update on your
+living room product there for keyboards particularly. Can you say is that a sort of thing we should
+be looking to see more of over the next few years in terms of outperformance in the keyboard
+business versus the broader PC market?
+My second question is on the Americas business in particular, your sell-through that was about
+10percentage point higher than sell into the channel. Can you give us a bit more color on what's
+behind that? Is that a function of looking to purge the channel a bit on tablet accessories ahead
+of new product launches?
+And finally, I wonder if you could go into a bit more detail on the strength that you've seen in
+gaming this quarter and the puts and takes behind that.
+A - `Bracken Darrell, President `
+Sure. On the keyboard question, yes, there are two different areas where we see growth in
+keyboards. One of them, as you said, is keyboard for TVs, and you're right, we did launch a new
+keyboard that has illuminated keys, which is great. And we're not done yet there. It's a pretty
+interesting space, the long-term growth potential there. We also see a couple of other areas in
+the key growth segment that I don't want to get into specifically for competitive reasons, but we
+think there are opportunities there.
+You answered your own question on the sell-through, sell-through versus sell-in in the Americas.
+You're exactly right, it relates to a full discussion we had about tablets earlier. And third question
+was?
+Q - `Andrew Humphrey, Analyst, Morgan Stanley `
+The strength in gaming.
+A - `Bracken Darrell, President `
+Yes, strength in gaming. I think in the first half of the year, we said, boy, we expect to start a little
+slow, and we managed to do that very effectively, especially in Q2. But, we said we'd pick it up in
+the back half once we started to launch some really meaningful new products. But, we're
+launching meaningful new products, and we're seeing a difference there. And I expect that to
+continue right into next year.
+Q - `Andrew Humphrey, Analyst, Morgan Stanley `
+That's great. Thank you.A - `Bracken Darrell, President `
+Thank you.
+Operator
+`Joern Iffert, Analyst, UBS, UBS.
+Q - `Joern Iffert, Analyst, UBS `
+Thanks for taking my question. And please apologize my ignorance. It's on your three-year
+profitability plan. The non-GAAP EBIT of $185 million by fiscal year 2016, just to get a better
+feeling for savings and investments, can you roughly give us a split what will be the contribution
+from further maximizing profitability in mice, keyboards, and what will be the contribution of your
+growth areas here? Is it 50-50? Is it more focused on maximizing the current cash cows [ph]?
+That would be the first question.
+And second question would be what is your general dividend policy and payout targets for the
+next couple of years? Thanks.
+A - `Vincent Pilette, VP, Finance `
+Hey, Joern, this is Vincent. I'll take an attempt at both.
+So, the $185 million of operating profit targets for fiscal 2016, the third year of our turnaround
+would really come from the growth category becoming a much bigger piece of our portfolio. And
+as you've seen in our top line target, we finished the year now, the full year up 1%, next year that
+growth accelerate slightly, and then we continue to accelerate as the growth category become a
+bigger piece of the portfolio. Maybe just slight margin improvement, but that's pretty much
+(inaudible) in some of growing or scanning [ph] the gross categories and improving the margin
+there.
+And then, from an operating expense perspective, for sure we bring the profit maximization
+category to deliver more profit, but we really expect to invest some of that to fuel the growth
+and fund the growth category. So that's on the $185 million.
+And then, the second question is around dividend. So, we clarified our capital allocation
+framework at the Investor Day. As I mentioned, the number one usage for cash would be for
+tuck-in acquisition, and Bracken mentioned that he and the management team are really very
+active reviewing the different opportunities there.
+Secondly, we would do the annual dividends. The amount is normally clarified during the proxy in
+July and then ratified by shareholder at the AGM meeting in September, and so expect
+information over the summer around that topic. And then, we have the $250 million buyback
+program for opportunistically purchase -- share repurchase.
+Q - `Joern Iffert, Analyst, UBS `
+All right, thank you very much.
+A - `Bracken Darrell, President `
+Thanks, Joern.Operator
+`Youssef Essaegh, Analyst, Barclays Capital, Barclays.
+Q - `Youssef Essaegh, Analyst, Barclays Capital `
+Hey there, sorry, I jumped back in the queue. Just a quick question again on the guidance. Do you
+take into account the potential revenue from new products like the one you described earlier as a
+-- that was [ph] in learning mode at the moment? Like, basically is there going to be a new
+category added to the already long list that you have at the movement that you take already into
+account in your guidance as it is now?
+A - `Bracken Darrell, President `
+No, we don't, it's not in the guidance. But, as we prove that out, we will come back and talk to you
+about that, but it's not in the guidance currently.
+A - `Vincent Pilette, VP, Finance `
+And that is consistent with we always said and reaffirmed in March. The current turnaround plan
+targets are based on the current business we have, maximizing profit for the PC category and
+doubling down on the three growth opportunities; tablets, music, and PC gaming.
+Q - `Youssef Essaegh, Analyst, Barclays Capital `
+Thank you.
+Operator
+Thank you. It appears there are no further questions. At this time, I will turn the conference back
+over to Mr. Darrell for closing remarks.
+A - `Bracken Darrell, President `
+Well, thank you all for participating today. I'm really thrilled with the quarter and the year, and I'm
+really proud of what the team here has done, and every employee. But, I'm so excited, and we
+can do so much more. We've entered the next phase for Logitech. I'm more enthusiastic than I've
+been since I joined the Company. I think we're going to continue to evolve it into a long-term
+growth engine.
+The landscape in which we play continues to be dynamic, but we've never had so many
+opportunities. We expect to expand the scope of our growth category periodically, adding to our
+long-term growth potential, that and-or healthier PC market, both could benefit us in this fiscal
+year. Our team's focused on delivering our full-year targets for fiscal year '15 while building an
+amazing company for the years to follow. And we'll certainly keep you updated on our progress.
+Thanks again.
+Operator
+That concludes our conference call for today. You may now all disconnect. Thank you.

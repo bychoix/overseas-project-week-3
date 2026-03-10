@@ -1,0 +1,696 @@
+Q4 2014 Earnings Call
+
+Operator
+Good day. My name is Stephanie and I will be your conference operator today. At this time, I
+would like to welcome everyone to the Nokia Fourth Quarter and Full Year 2014 Earnings
+Conference Call. All lines have been placed on mute to prevent any background noise. After the
+speakers' remarks, there will be a question-and-answer session.
+I would now like to turn the call over to `Matt Shimao, Head-Investor Relations, Head of Investor Relations. Mr. Shimao, you
+may begin.
+`Matt Shimao, Head-Investor Relations `
+Ladies and gentlemen, welcome to Nokia's fourth quarter 2014 conference call. I'm `Matt Shimao, Head-Investor Relations,
+Head of Nokia Investor Relations. `Rajeev Suri, President & Chief Executive Officer, President and CEO, and `Timo Ihamuotila, Chief Financial Officer & Executive Vice President, EVP and
+Group CFO, are here in Espoo with me today.
+During this call, we'll be making forward-looking statements regarding the future business and
+financial performance of Nokia and its industry. These statements are predictions that involve
+risks and uncertainties. Actual results may therefore differ materially from the results we currently
+expect. Factors that could cause such differences can be both external, such as general economic
+and industry conditions, as well as internal operating factors. We have identified these in more
+detail in the Risk Factors section of our 20-F for 2013, and in our results report for Q4 and full year
+2014 issued today.
+Please note that our results release, the complete interim report with tables, and theresults information. Our complete results reports with tables available on our website includes a
+detailed explanation of the content of the non-IFRS information, and a reconciliation between the
+non-IFRS and the reported information.
+With that, Rajeev, over to you.
+`Rajeev Suri, President & Chief Executive Officer `
+Thank you, Matt, and thank you all of you for joining.
+In the fourth quarter of 2014, Nokia again showed great performance with robust profitability and
+strong year-on-year growth for the second straight quarter across all three of our businesses. At
+the group level, we delivered net sales in the quarter of €3.8 billion, a 43.5% non-IFRS gross
+margin and a non-IFRS operating profit of €524 million or 13.8% of sales. For 2014, the board of
+directors is proposing a dividend of €0.14 per share.
+These results are a great way to cap a truly transformative year for Nokia, one where we finalized
+the sale of our Devices & Services business to Microsoft and began a new chapter in our history.
+In 2015, Nokia celebrates its 150-year anniversary. As we prepare to do that, I'm confident in the
+strategic choices we have made for our three businesses and believe we have a solid foundation
+from which we can tap the opportunities of the programmable world.
+In terms of our businesses, let me start with Networks, which notched another strong quarter and
+is moving fast to capture opportunities in LTE, our unique small cells offering, and the transition to
+virtualization and the telco cloud. Net sales were up 8% year-on-year at €3.4 billion, and up 14%
+versus the third quarter. At constant currency, Networks' net sales would have increased 8% year-
+on-year and 11% sequentially.
+For the full year, sales were basically flat compared to 2013. At constant currency, Networks' net
+sales would have increased 2% year-on-year, and growth would have been 5% year-on-year
+excluding the divestment of businesses not consistent with our strategic focus, the exiting of
+certain customer contracts and countries, and foreign exchange fluctuations.
+Pleasingly, in the fourth quarter, we were once again able to show growth does not have to come
+at the cost of profitability. Non-IFRS gross margin reached 38.2% and non-IFRS operating margin
+was 14%, both very strong. We now have delivered seven consecutive quarters with non-IFRS
+gross margin over 36%, with four straight quarters topping 38%. And our non-IFRS operating
+margin was the second best in the history of the business.
+During the quarter, our deal momentum in Networks continued, and we announced important
+contracts with customers such as China Mobile, Mobily in Saudi Arabia, and Tata DOCOMO and
+Bharti Airtel in India. For the year, the total value of business we won grew strongly versus 2013.
+Our win rate increased, and our overall sales pipeline expanded.
+Our business mix during the quarter was 52% Mobile Broadband versus 47% for Global Services,
+returning to a more normal balance after the spike we saw in Mobile Broadband in Q3. We have
+talked in the past about returning Global Services to growth, and in Q4 we delivered just that, the
+first year-on-year sales increase since the fourth quarter of 2012, combined with its seventh
+consecutive quarter of double-digit non-IFRS operating profit.
+Within Services, systems integration was far and away the best performer, with stellar
+improvement in sales. It is pleasing to see this from a business which is critically important to our
+telco cloud and virtualization strategy. I would also note that we appointed Igor Leprince to runGlobal Services at the start of November, and he is already showing his value and his
+determination to maintain and build on our services momentum.
+Mobile Broadband performed very well in both growth and profitability. Sales rose 13% year-on-
+year, while the non-IFRS operating margin was 12.5%, up some 500 basis points from the same
+quarter in 2013. As I look back at the year overall for Mobile Broadband, I'm particularly pleased
+with two things: the massive transformation that took place during 2014, and our performance in
+core networks.
+In terms of transformation, some brief highlights. First, we significantly increased our R&D
+capacity through our focus on efficiency and effectiveness. This was partly achieved by a massive
+shift of work from subcontractors to internal resources, as subcontractors simply are unable to
+match our levels of quality and efficiency.
+Second, we increased our competitiveness by improving the strength of our product portfolio
+and continuing our momentum in quality. From LTE to small cells to LTE-Advanced to core
+networks and beyond, we feel quite good about our position. Third, we improved our agility,
+allowing us to better respond to customer demands. Automation is key to this, so we can focus
+people where we need them most. And as just one example, we have massively increased the
+automated testing of software code over the past several years.
+Even while making all these changes, the employee engagement scores in Mobile Broadband
+remain very strong, among the highest of the large organizations in the company and overall,
+attrition was at a good level, far below what we have seen in previous years.
+Turning to core networks. Revenue growth and gross margin in this area was significantly ahead
+of the Networks business as a whole. Growth was robust in key areas like Customer Experience
+Management, Operations Support Systems, and Liquid Core, which is our next-generation core
+product. While much of the attention is on data traffic today, voice services still matter. We saw a
+ramp-up of Voice over LTE, VoLTE, in 2014, and believe it will become more mainstream in the
+current year. VoLTE delivers 15 times the efficiency of traditional network architecture, allowing call
+volumes to expand while reducing total bandwidth demands.
+Then there is Voice over Wi-Fi which, like VoLTE, is a new means of providing voice service, in this
+case extending the use of Wi-Fi to complement 4G networks. We see opportunities in this space
+and good momentum building, given the new devices in the market that support Voice over Wi-Fi
+capability.
+Security is also a hot topic, and our security group sits within our core networks business line,
+even if it covers other parts of our portfolio. We are taking a holistic approach to the issue and
+using the same rigorous methodology that we used for our quality program to embed security
+into all of our products and services. Just like we believe we have been able to start to
+differentiate by quality, we see an opportunity to differentiate in the security space.
+To further this ambition, we've opened a Mobile Broadband Security Center in Berlin, designed to
+be a hub of leading expertise focused on ensuring robust telco security. This growing momentum
+in core networks has led to a number of very exciting new opportunities in North America and
+other regions that we expect will come to fruition in the future.
+I have mentioned in previous calls that we are placing a high priority on partnering and we are
+now starting to show some momentum. There is still plenty of work to be done but we have
+gone through a detailed process to select our top strategic partners and put in place a robustsystem for our cooperation with them. We have progressed with testing of new products to
+expand into our portfolio and won a number of excellent new customer deals.
+Then, to our regions. All showed sequential growth with annual growth seen in North America,
+Europe, Middle East and Africa, and Asia Pacific. North America was the absolute standout
+performer with sales rising 95% year-on-year thanks to LTE network deployments, strong core
+network performance, services, and our recent acquisition of SAC Wireless. This was truly broad-
+based growth with an increase in sales to almost all customers including T-Mobile, Sprint, Verizon,
+U.S. Cellular, some other small operators, plus a rise in our Canadian business.
+Our unique macro parity approach to small cells continued to get traction as we began
+deployments for a major customer in a large metropolitan area. We are pleased to be proactively
+working with Google on the possibilities of opening up the ecosystem around 3.5 gigahertz
+spectrum for Mobile Broadband in the United States. Given our expertise in 3.5 gigahertz
+technologies and our approach to small cells, we believe there is great opportunity to be had
+using a shared access approach.
+While we were pleased with the quarter and momentum, we continue to watch North America
+closely given the ongoing spectrum auctions and the developing operator competitive
+environment. Europe's sales remained strong after a good showing in the third quarter, rising 4%
+year-on-year, thanks to higher network deployments in Southern and Eastern Europe.
+In Asia Pacific, net sales were roughly flat year-on-year as network deployments in Vietnam,
+Myanmar, and India offset lower activity in Japan. Middle East and Africa was up 4% year-on-year
+and 25% sequentially due to higher network deployments and despite the ongoing challenges
+related to the political and security environment in several countries.
+Greater China slipped 3% versus a year ago due to the timing of major TD-LTE projects. I know
+some of you may be surprised to see this, but Q4 2013 was a time of very large roll-outs, and I
+would also note that on a full-year basis, Greater China was up 16% year-on-year. In Latin America,
+net sales fell 9% year-on-year, primarily due to lower managed services activity in Brazil, but
+partially offset by higher network deployments in Colombia. As I said on the last call, we are still
+not out of the woods in Latin America and our efforts to improve performance there continue.
+As I think some of you are aware, at the end of the first quarter we are planning to boost
+efficiency in our customer operations unit by uniting all our regions under Ashish Chowdhary, who
+has delivered superbly in Asia, Middle East and Africa and will now bring greater standardization
+and consistency across the globe. We think this move will allow us to better serve our increasing
+number of customers with global operations, and also anticipate and proactively address long-
+term market opportunities.
+Before moving on to HERE, just to comment on the first quarter. While we believe our fourth
+quarter results show that our business momentum is good, I would also remind you that the first
+quarter of 2014 was a bit unusual given the higher than usual software sales that we called out at
+that time. While the market remains competitive, as in previous quarters we believe that our
+continued relentless focus on costs and productivity put us in a strong position to continue to win.
+In fact, we recently kicked off a program called Smarter that is designed to deliver further
+improvements to our cost base by addressing fully 90% of our total spend.
+To sum up, despite the strong performance, we are not complacent, and we will continue to
+drive the efficiency while also making the necessary investments in our priority growth areas.Onto HERE. Last quarter, I shared with you the appointment of Sean Fernback to lead HERE, as
+well as highlighted adjustments we were making to our strategy. I'm pleased to say that Sean is
+now moving fast to execute those changes and put HERE on a path to stronger profitability. It is
+still early days, of course, but directionally, the progress is good.
+We certainly saw progress in the fourth quarter. The momentum in our automotive business is
+excellent and we have won strong support for our customers in that segment. During the quarter,
+we also clearly benefited from a very competitive product offering and the good work of our
+strong sales team. In the past months, I've met with a number of my counterparts in leading car
+companies and increasingly they see us as a far better partner than others to whom they would
+have to surrender their customer data and relationships.
+This support is reflected in the company's results in the fourth quarter. For HERE as a whole, sales
+were strong at €292 million, up 15% year-on-year. Automotive was the biggest driver of this
+growth, followed by Microsoft becoming a more significant licensee of HERE's services.
+We also had higher sales in our small but growing enterprise segment, and in the quarter we
+launched a new online self-service portal to enable efficient sales to customers, an example of
+smart innovation as we seek to further expand.
+From a profitability perspective, HERE delivered a non-IFRS operating margin of 6.8%, up from
+roughly break-even sequentially but down year-on-year. Operating expenses were up both
+sequentially and year-on-year. Both Sean and I believe there is more we can do to optimize the
+business and reduce costs while still investing to meet the needs of our targeted customers. I
+would expect to see the benefits of those actions starting to appear over the course of 2015.
+Timo will cover this in more detail in his prepared comments.
+Highlights in the quarter for HERE included an agreement with Baidu, the leading Chinese
+language Internet search provider, to power its new desktop and mobile map services outside of
+China. HERE made its Android beta app available for all compatible Android smartphones and
+made it available for download through Google Play. To-date, we have seen over 3 million
+downloads, and this beta app has been received well by users, scoring an average of 4.4 stars
+from around 50,000 ratings in the Google Play Store. HERE also launched Predictive Traffic, a new
+traffic forecasting product that can anticipate future traffic conditions in real-time.
+And shortly after the end of the quarter at CES in Las Vegas, HERE and BMW announced their
+collaboration to create connected driver experiences and demonstrated the first results of their
+joint work, which is keeping pace with the changes in the fast moving electronics industry. All in all,
+good momentum in the market for HERE, we have plenty of work to do internally, but our focus
+on execution and cost discipline is rapidly improving.
+Now to Nokia Technologies, which had sales of €149 million in the quarter, up 23% year-on-year.
+As I'm sure some of you will have noted that operating expenses were also up. This reflects
+ongoing investments in the business, in line with our long-term strategy and is something we
+highlighted at our Capital Markets Day in November. That said, excluding litigation costs, which
+can be quite lumpy, we do not expect increases in Technologies' operating expenses to be of a
+similar magnitude in future quarters, as we are now starting to have more of the needed
+business infrastructure and development projects in place.
+We are putting the increased spending to good use. We invested in business activities, including
+launching our new brand licensing effort, and we exceeded our internal goal for patent filings in
+2014. We also increased activities related to anticipated and ongoing patent licensing cases. Ourshort-, medium- and long-term opportunities. We are accelerating our efforts in this area in a
+smart way.
+The highlight of the quarter was the launch of the Nokia N1 tablet in November. We were pleased
+by the positive reviews and feedback from consumers and media alike, as well as the reception
+we saw in China when the N1 started selling earlier this month. We think this reflects the excellent
+design of the product and gives a taste of the long-term potential of our brand licensing model.
+Finally, we also saw good progress in less visible areas where we continue to innovate, areas
+such as imaging, audio codecs and sensors, where we are doing some quite interesting things
+with graphene that could be used in a wide range of applications, particularly in the medical
+space.
+Before sharing some concluding remarks, I will now hand the call over to Timo.
+`Timo Ihamuotila, Chief Financial Officer & Executive Vice President `
+Thank you, Rajeev. I would like to start by spending the next few minutes discussing some of the
+trends within operating expenses.
+In Q4, continuing operations non-IFRS OpEx increased 11% year-over-year and 12% sequentially.
+This compares to continuing operations net sales growth of 9% and 14%, respectively. On a year-
+on-year basis, the higher OpEx was driven by increases in all three of our businesses.
+Looking at Nokia Technologies, non-IFRS OpEx increased by 28% sequentially, primarily due to
+investments in business activities which target new and significant long-term growth
+opportunities, including seasonally higher costs related to patent filings. For example, we
+exceeded our annual patent filing target with almost 40% of our annual patent filings made in Q4.
+In addition, the higher sequential OpEx was also driven by increased activities related to ongoing
+and anticipated patent licensing cases. For example, we increased our reverse engineering
+capabilities as we prepare for future patent licensing negotiations. We believe that these
+investments are key building blocks in driving longer-term value across the Technologies
+business. However, it is important to emphasize that we have a very prudent and disciplined
+approach in determining how much and where we are investing, all with the aim of maximizing
+the long-term cash generation potential. As I have commented in the past, I believe we have a
+tremendous opportunity to create value in Nokia Technologies.
+Moving on to Nokia Networks, where non-IFRS OpEx increased by 7% in Q4 compared to the
+year-ago quarter. R&D expenses grew by 8% year-on-year. This was primarily driven by our
+continued investments in targeted growth areas, most notably LTE, small cells, and telco cloud
+while reducing investments in mature technologies.
+As Rajeev commented, we remain highly focused on driving further cost efficiencies within Nokia
+Networks aimed at further increasing our overall R&D capacity as well as further improving
+general and administrative productivity. We have already begun to implement new programs and
+processes aimed at increasing productivity, which we believe will allow us to reinvest more into
+future growth opportunities. Coupled with our continued focus on quality and innovation, we
+believe that the unique operating model we have built and are further refining will continue to be
+a key enabler of Nokia Networks' targets.
+Finally, on HERE, where Q4 non-IFRS OpEx increased by 21% year-on-year. Consistent with its
+sharpened focus, HERE has increased investment levels in targeted growth areas, such as theconnected car and enterprise segments. In addition, HERE's Q4 OpEx was also impacted by
+higher incentive accruals as well as higher expenses related to the acquisition of Medio.
+As I commented last quarter, we are focused on improving HERE's overall OpEx efficiency to
+drive growth and strengthen its financial performance. During Q4, HERE initiated a cost reduction
+program intended to improve overall operational efficiency. Related to this program, HERE
+recorded charges of approximately €30 million and had related cash outflows of approximately
+€12 million in the fourth quarter. In total, we estimate that the cumulative charges related to the
+cost reduction program and related cash outflows will amount to approximately €30 million.
+HERE's progress on reducing costs has resulted in greater visibility to the level of efficiencies that
+we believe are achievable. When combined with HERE's leading market position and positive
+industry trends, we have raised HERE's 2015 non-IFRS operating margin outlook from between
+5% and 10% to between 7% and 12%.
+Overall, I believe that we are making the right investment decisions to support our longer term
+strategic objectives across all three of our businesses. At the same time, I'm committed to
+ensuring that we remain highly returns-oriented and continue to focus on operational excellence.
+We have not, and will not, lose sight of this.
+Turning to foreign exchange and hedging, which has been very topical, given the movements in
+FX rates relative to the euro. At a high level, we are well balanced in terms of our euro net sales
+and cost exposures. In 2014, approximately 30% of our net sales were euro-denominated,
+compared to approximately 35% of our costs. Therefore, everything else being equal, a
+weakening euro relative to all other foreign exchange exposures is positive for our overall net
+sales, but negative for our operating costs, with the overall impact on our non-IFRS operating
+profit being relatively small.
+In terms of the U.S. dollar, we are naturally hedged, given that approximately one-third of our net
+sales and costs are U.S.-dollar denominated. Our other primary foreign currency exposures are in
+the Japanese yen and Chinese yuan. In 2014, approximately 10% of our net sales, predominantly
+Nokia Networks, were in Japanese yen; this compared to approximately 5% of our costs. Our
+overall net exposures are typically hedged based on forecasted cash flows, up to a 12-month
+hedging horizon. For the majority of these hedges, hedge accounting is applied to reduce
+income statement volatility.
+Turning back to our Q4 2014 results. Continuing Operations' year-on-year net sales growth of 9%
+benefited slightly from foreign exchange movements, as the benefit from a stronger dollar was
+offset by a weaker yen. Sequentially, foreign exchange movements benefited Nokia's reported
+net sales growth of 14% by approximately 3%, driven by general euro weakness relative to our
+non-euro-denominated sales. All in all, looking ahead, the recent euro weakness should provide
+some sequential tailwind to our Q1 2015 net sales development, but have a relatively small
+impact on our non-IFRS operating profit.
+Turning to our cash performance during Q4. On a sequential basis, Nokia's gross cash increased
+by approximately €80 million, with a quarter-ending balance of approximately €7.7 billion. Net cash
+and other liquid assets was approximately flat, with a quarter-ending balance of €5 billion.
+Looking at the primary drivers of the movements in our net cash balance in Q4, cash inflows from
+operating activities were offset by cash outflows from financing activities. Foreign exchange rate
+had an approximately €50 million negative translation impact on net cash.
+Nokia's adjusted net profit before changes in net working capital was €609 million in the fourthoperations was €224 million. In Q4, Nokia's continuing operations had net working capital cash
+outflows of approximately €60 million, primarily related to restructuring-related cash outflows at
+Nokia Networks. Excluding this, cash flow from net working capital was relatively stable, as the
+negative cash impact from increases in receivables was offset by the positive impact from
+increases in payables and decreases in inventories.
+Continuing operations had cash outflows of approximately €40 million related to net financial
+income and expenses, approximately €100 million primarily related to foreign exchange hedging
+outflows, and approximately €100 million related to taxes. These continuing operations had cash
+outflows related to net working capital and taxes totaling approximately €80 million.
+From a financing cash flow perspective, outflows were primarily due to share buybacks, which
+totaled approximately €210 million in Q4. During the fourth quarter, we repurchased
+approximately 31 million shares. By the end of fourth quarter, we had completed approximately
+one-third of our two-year, €1.25 billion share buyback program, which we continue to expect to be
+completed by the end of Q2 2016.
+Nokia also acquired subsidiary shares from a non-controlling interest holder and paid dividend to
+non-controlling interest holders during the fourth quarter, totaling approximately €50 million.
+Finally, from an investing cash flow perspective, cash outflows of approximately €90 million
+related to Continuing Operations capital expenditures. This was more than offset by discontinued
+operations' inflows of approximately €140 million from proceeds related to the sale of our former
+Devices business to Microsoft. Of the expected approximately €5 billion total net cash impact
+from the proceeds related to the Microsoft transaction, we can now confirm that we have
+substantially received the €5 billion by the end of Q4.
+Finally, I would like to spend a few moments on our guidance and the dividend proposal for 2014.
+First, on Nokia Networks. For Q1 2015, we expect net sales and non-IFRS operating margin to
+decline seasonally compared to the fourth quarter 2014. In addition to the drivers listed in today's
+press release, please note that Nokia Networks' Q4 2014 non-IFRS operating margin benefited
+from approximately €25 million of non-recurring IPR income, so there is a bit of a sequential
+margin headwind to consider as you model Q1.
+Second, on Nokia Technologies. At our Capital Markets Day last November, we provided our full-
+year 2015 outlook for non-IFRS operating expenses to increase meaningfully on year-on-year
+basis. Today, we have updated this to mean that we expect Nokia Technologies' quarterly non-
+IFRS operating expenses in 2015 to be approximately in line with the fourth quarter 2014 level,
+which was €69 million. As previously mentioned, these investments are targeted at new and
+significant long-term growth opportunities, as well as increased activities related to patent
+licensing cases.
+For HERE, I already covered the increased non-IFRS operating margin outlook for the full year
+2015 in my earlier remarks.
+Lastly, on the dividend. In line with the board's previous commitment to pay a dividend of at least
+€0.11 in 2014, it has proposed to pay a dividend of €0.14. Regarding the thought process that went
+into the dividend proposal, the board considered the earnings generated in 2014, the current
+strength of the balance sheet, our existing plans under our ongoing capital structure optimization
+program, and the potential sources and uses of cash in the foreseeable future.
+In closing, I'm pleased with how we ended 2014 and with the progress we have made in all three
+of our businesses. We plan to continue to invest efficiently and smartly in the right areas wherereturned approximately €1.8 billion to shareholders as part of our capital structure optimization
+program.
+And with that, I'll hand over to Matt for Q&A.
+`Matt Shimao, Head-Investor Relations `
+Thank you, Timo. For the Q&A session, please limit yourself to one question only. Stephanie,
+please go ahead.
+Q&A
+Operator
+Thank you. Ladies and gentlemen, we will now conduct the question-and-answer session. We ask
+that you limit yourself to one question in the interest of time. Your first question comes from the
+line of Kulbinder Garcha with Credit Suisse. Your line is open.
+Q - `Kulbinder S. Garcha, Analyst, Credit Suisse Securities (USA) LLC (Broker) `
+Thanks. My question is for Rajeev on the outlook for the Networks business versus in terms of
+growth in 2015. You mentioned, like, very high levels of win rates, winning more business last year
+than this year. And I'm just trying to understand that as you look into 2015, what are the drivers by
+region that we should maybe think about? Because it sounds like you are quite confident in the
+outlook for the growth. I'm trying to think is it just contracts won't (31:14) give you that visibility? Is
+it more business you have to win? I'm trying to think how strong the revenue growth might be as
+we go through this year.
+A - `Rajeev Suri, President & Chief Executive Officer `
+Thank you, Kulbinder. So let me give you some regional color. So the positive drivers that we see
+are from North America, India, parts of Asia-Pacific, particularly Southeast Asia, Middle East and
+Africa as we are starting to go to new countries, and potentially also Latin America. Other
+markets like China are expected to continue to have a big build-out of LTE roll-out in the second
+phase but of course we have to remember 2014 was big too. And then that's how I see kind of
+from a regional point of view.
+And this is all based on two things. One is the total value business that we won last year, which
+was substantially higher than 2013, which plays into some confidence. Like I said, the win rate has
+been higher which means that we target a certain deal size and we win more of that. And, of
+course, the fact that we are seeing this growth a little bit more broad-based, so it's not just
+contained to a couple of regions, and we're seeing it also from a portfolio point of view it being
+Mobile Broadband, Global Services, and within Mobile Broadband, radio and core, more
+balanced.
+A - `Matt Shimao, Head-Investor Relations `
+Thank you, Kulbinder. Stephanie, we'll take our next question.
+Operator
+Your next question comes from the line of `Gareth Jenkins, Analyst, UBS Ltd. (Broker) with UBS. Your line is open.
+Q - `Gareth Jenkins, Analyst, UBS Ltd. (Broker) `Yeah, thanks. A quick one on Networks margins through 2015. Are you reminding us about the
+software strength in Q1 2014 because you think that margins will be down year-over-year in the
+first quarter and obviously we've got your guidance for the full year, but how is the shape of
+2015? Thanks.
+A - `Timo Ihamuotila, Chief Financial Officer & Executive Vice President `
+So, Timo, here. Thanks, Gareth, for the question. So for the Q1 margins, we are not implying any
+particular level, we're simply going through that we would have such a headwind when you
+compare it to Q1 last year. On the other hand, we also said that we would have a bit of a tailwind
+coming from FX, so those were really the two additional points we mentioned besides the other
+drivers.
+A - `Matt Shimao, Head-Investor Relations `
+Thank you, Gareth. Stephanie, next question, please.
+Operator
+Your next question comes from the line of `Alexander Peterc, Analyst, Exane Ltd. with Exane BNP. Your line is open.
+Q - `Alexander Peterc, Analyst, Exane Ltd. `
+Yes, hi, and thanks for taking the question. I would just like to come back really on Technologies'
+OpEx here. I'd just like to understand if the hike we witnessed is a one-off, and with that, you're
+going to have the base to build the revenue growth in this division for the next couple of years, or
+will you continue to increase OpEx here as revenue grows in future periods? Thanks.
+A - `Rajeev Suri, President & Chief Executive Officer `
+Thank you, Alexander. Let me just take that and Timo can add on that. So first of all, when I look at
+Nokia as a group I believe Nokia Technologies presents strong potential for value creation in the
+long-term. And these are all purposeful, thoughtfully considered investments that I have
+evaluated in detail, and I've come to the conclusion that they are necessary and important for us
+to capture the long-term potential of this business. I believe that by investing in continued patent
+generation, investing in licensing activities in Nokia Technologies, we can drive the IP licensing
+business further. And I also believe that as we expand our activities in Technologies licensing and
+brand licensing, we can also in turn increase the potential by increasing the pie for our core IP
+licensing business.
+A - `Timo Ihamuotila, Chief Financial Officer & Executive Vice President `
+Yeah, and if we look at kind of like further than 2015, so we are not saying that we would expect a
+similar trend to continue, because we are simply as we've said earlier managing this in a way that
+when we find new opportunities which work, we are willing to put more money behind them. If
+some of these opportunities will not work, we will kill them fast. And that's why it is difficult for us
+to say that the OpEx would be in a certain trend. That's not how we think about the business. This
+is a lumpy business, which you need to think about on longer term, and that's why we manage it.
+And that's why I want to also say that when we are giving this €69 million per quarter guidance
+kind of, or approximately there, of course there can be lower quarters, there's going to be also
+higher quarters, but approximately we expect to be on that level.
+A - `Matt Shimao, Head-Investor Relations `Thank you, Alex. Stephanie, we'll take our next question, please.
+Operator
+Your next question comes from the line of Sandeep Deshpande with JPMorgan. Your line is open.
+Q - `Sandeep S. Deshpande, Analyst, JPMorgan Securities Plc `
+Thanks for letting me on. I have a question again on the Technology business. When we look at
+the Technology revenues at Nokia, the growth has come entirely from the Microsoft deal. At the
+same time, many of your peers in IP have seen a growth from other players in the handset
+market who were unlicensed before. You yourself have talked about seven or eight players who
+are major handset vendors in the top 15 who are not licensed. Have you worked on those players
+at all? And how do you see this licensing business growing? Are we entirely waiting for Samsung
+arbitration result? Or are there other deals which are in the pipeline which we should hopefully
+hear of in the next 15 months to 18 months? Thanks.
+A - `Rajeev Suri, President & Chief Executive Officer `
+Thanks, Sandeep. So the way we drive the IP licensing part of the business is, of course, to look at
+our pipeline. And there's a pipeline of targets. The way we look at it, some of them will be pull-
+(36:55)based in conjunction with brand licensing and technology licensing. Some of them will be
+achieved through arbitration, some through litigation, but we're always looking at a range, sort of
+target companies to work with and partner with. And it is not just Samsung. So we are building this
+for the medium- and long-term.
+A - `Timo Ihamuotila, Chief Financial Officer & Executive Vice President `
+Yeah. And when we look at some of these investments, what we are now doing, they are really to
+increase capacity to work on this. So please remember also that even six months, seven months
+ago, Technologies was more of a research unit than a business, which we are now, I think, very
+rapidly turning into a business. And yes, we are working with many potential customers to Nokia
+Technologies who are using our innovation at the moment and not paying for it.
+But I want to also remind you about the timeline. So again, as we have discussed earlier, you
+negotiate first for some time, you either come to a conclusion or not, you might then go to
+arbitration, which could be a faster route to a resolution, or you might even end up with legal
+means, which then will take even in a fast process easily from when you start, 9 months, 12
+months, even 18 months to a resolution. So that is just the dynamics of the business.
+Q - `Sandeep S. Deshpande, Analyst, JPMorgan Securities Plc `
+Thank you.
+A - `Matt Shimao, Head-Investor Relations `
+Thank you, Sandeep. Stephanie, we'll take the next question.
+Operator
+Your next question comes from the line of Kai Korschelt with Merrill Lynch. Your line is open.
+Q - `Kai F. Korschelt, Analyst, Bank of America Merrill Lynch `Yeah, thank you, gents. My first question is just connecting on the IPR licensing opportunity. It
+looks like Qualcomm is making some progress on essentially establishing a licensing framework
+for standard essential patents in China. So I'm just wondering is this something that you would
+also see as opportunity this year, because I believe currently you're not really collecting anything
+from the region. Thank you.
+A - `Timo Ihamuotila, Chief Financial Officer & Executive Vice President `
+Yeah, I think – Timo here. Thanks, Kai, for the question. So I think there have been certain
+developments lately both in China as well as in India, which at least indicate that those markets
+could become a bit more receptive to IP holders both locally but also to global IP holders. And, of
+course, my intuitive thinking here would be that in China, when Chinese companies create more
+IP themselves, the IP environment (39:27) will become more in line with the global setup. But, I
+would say, short-term, that continues to be a more difficult opportunity for a company like us
+which has opportunities also on the global arena.
+A - `Matt Shimao, Head-Investor Relations `
+Thanks, Kai. Stephanie, we'll take our next single question please.
+Operator
+Your next question comes from the line of Andrew Gardiner with Barclays. Your line is open.
+Q - `Andrew M. Gardiner, Analyst, Barclays Capital Securities Ltd. `
+Thank you very much. Another one on the Technologies area, I'm afraid. Since your discussion of
+the business at the Capital Markets Day, we've seen a bit of more movement in the mobile
+patent space, if you will. I mean the Nortel patents in Rockstar effectively being went (40:10)
+down and sold to RPX much less than was paid for coming out of the bankruptcy. Ericsson and
+Apple now entering into litigation over their agreements or inability to reach a new one. I'm just
+wondering on sort of your view on a higher level of all of this. I mean is this activity implied at the
+outlook for monetization of the patents? Is it even more challenging than earlier anticipated? I
+mean not to say anything about the quality of your portfolio, of course, but just that this is proving
+even more challenging to monetize. Thank you.
+A - `Rajeev Suri, President & Chief Executive Officer `
+Thanks, Andrew. No, I don't believe that there is an overall weakening of the IP licensing regime.
+There are always puts and takes and one has to work through them. But I believe actually there's
+very good medium- and long-term potential in this business.
+A - `Timo Ihamuotila, Chief Financial Officer & Executive Vice President `
+Yeah, and it's really something where you have to build a position for the long-term. Still
+repeating what we had said earlier. So we have been building this, even if it was more on the
+defensive mode since 1990s when we had our, call it, first discussions with Motorola. And in that
+sense, it is not easy to build it up from scratch, especially if you don't have an R&D unit which is
+supporting you on the patent filings and all that. So this is really a long-term effort. And I think for
+companies like ourselves and other companies who are really investing a lot in R&D, this is a real
+opportunity which definitely hasn't deteriorated.
+A - `Matt Shimao, Head-Investor Relations `Thank you, Andrew. Stephanie, next question, please.
+Operator
+Your next question comes from the line of Francois Meunier with Morgan Stanley. Your line is
+open.
+Q - `Francois A. Meunier, Analyst, Morgan Stanley & Co. International Plc `
+Yes. A question about the Networks margin guidance for 2015, I think in the past 18 months, the
+guidance for margins has always proved to be quite conservative. And I wonder, given everything
+which plays into your favor this year, even the currencies, the U.S., new contracts and everything,
+how can really margins go down this year? It just feels really strange to me.
+A - `Timo Ihamuotila, Chief Financial Officer & Executive Vice President `
+Timo here. Thanks, Francois. So let's again repeat what we had said when we gave the guidance.
+So, this is our new long-term target guidance, 8% to 11%, and we said that this year, we would
+expect to be in line with that guidance. We have also said that, if we execute well, we could be
+operating around the higher end of the guidance. And then, if there would be a significant
+competitive pressure come into the market, which has happened from time-to-time in this
+business and Rajeev, of course, knows this a lot better than I do, having managed and lived
+through it, then we could see a margin deterioration more towards the lower end of the range.
+A - `Matt Shimao, Head-Investor Relations `
+Thank you, Francois. We'll take our next question, please, Stephanie.
+Operator
+Your next question comes from the line of Stuart Jeffrey with Nomura. Your line is open.
+Q - `Stuart A. Jeffrey, Analyst, Nomura Securities International, Inc. `
+Hi. Thanks very much. I had a question, also on Networks. You called out core network growth
+versus radio. I was wondering if you could elaborate on that a little bit. It sounded as if maybe
+you're looking for core network's growth to outstrip radio, given your comments on VoLTE and
+Voice over Wi-Fi. Is that the case? And is there any meaningful gross margin implication from that?
+I always think of core network gross margins as being somewhat higher than radio. Thanks.
+A - `Rajeev Suri, President & Chief Executive Officer `
+True (43:40). But I think it's going to be balanced across radio and core. That's what we see.
+That's what we also saw in this quarter. So of course, FD-LTE moving into some regions to
+coverage, other regions in capacity, there's TD-LTE rollouts that still will continue. But we are
+seeing particular momentum in next-generation core, which is this IMS/VoLTE, Voice over Wi-Fi,
+analytics, which is Customer Experience Management, OSS, but I think it's going to be broad-
+based and balanced, from a portfolio point of view.
+A - `Matt Shimao, Head-Investor Relations `
+Thank you, Stuart. Stephanie, we'll take our next single question please.
+OperatorYour next question comes from the line of Richard Kramer with Arete Research. Your line is open.
+Q - `Richard A. Kramer, Analyst, Arete Research Services LLP `
+Thank you. No one's really asked yet about HERE, and at the CMD, you mentioned how it was
+refocusing away from consumer Internet services to a B2B business. And it's interesting to me
+that you've given the HERE team a slightly different set of incentives in the program than the rest
+of your Nokia team. Can you talk about whether you think now it's the time where you'd see a
+material acceleration in the HERE business because of all the attention that's being paid to
+connected car, and how you think about that business over the medium term if – certainly, as
+you've very quickly taken cost out? Thanks.
+A - `Timo Ihamuotila, Chief Financial Officer & Executive Vice President `
+Thanks, Richard. Timo here. Why don't I answer the incentive question, because there might be a
+bit of a misunderstanding, maybe. So, of course, all our businesses are driven by their own
+results. The results are driven by the targets, what are given to HERE on top line, margin, and so
+forth. But you might be referring to the comment where we said that HERE OpEx was up because
+of slightly higher incentive accruals and that is, on a year-on-year basis, driven more by the fact
+that, call it, we who came from the old Nokia side didn't really perform in two years, three years,
+and incentives thus were virtually zero, or very low.
+And now the company has performed 2014, so we will have, call it, normal – more normal
+situation. That's why this is not called out in Network. It doesn't mean that the structure, its assets
+itself would (45:55) be massively different, but of course it's driven by the right parameters,
+which we want to drive more business.
+A - `Rajeev Suri, President & Chief Executive Officer `
+Yeah, and on the HERE performance as such, yes, we are seeing strong momentum in
+automotive. It's driven by a couple of things. Vehicle sales have trended well, and take-up rates as
+well, in terms of the embedded navigation in cars. Our competitiveness has strengthened as
+well, our product competitiveness, our customer relationships, and that's important too. So we're
+more sticky. And then there is a positive driver by way of operational efficiency, which we've only
+just begun to embark on. And we saw some of that in Q4, but that's going to continue to
+strengthen. So look at the combination of this, and that's partly why we raised the guidance that
+we did. Connected driving, yes, we are in early stages. We are partnering with many of the
+customers, early RFPs (46:48) and so on, but that, in terms of revenue impact and so on, it's a
+more medium-term impact.
+A - `Timo Ihamuotila, Chief Financial Officer & Executive Vice President `
+Maybe I'll give just a quick number snippet into this. So if you look at these take-up rates which we
+are giving, so Q4, they went up from 3.2 million vehicles to 3.9 million vehicles. That's 22% growth.
+And we also had 22% growth year-on-year. So this is actually quite a long and sustained trend
+which we are at the moment observing.
+A - `Matt Shimao, Head-Investor Relations `
+Thank you, Richard, for the question on HERE. Stephanie, we'll take the next question, please.
+Operator
+Your next question comes from the line of `Mark Sue, Analyst, RBC Capital Markets LLC with RBC. Your line is open.Q - `Mark Sue, Analyst, RBC Capital Markets LLC `
+Thank you. In the smartphone market, we're seeing two concentrations. One is the dominance of
+Apple and also the concentration of growth in China, where IPR is not as respected. So perhaps
+your thoughts on just how you see the opportunity set going forward, what other markets you
+can monetize? And also just, as we look at non-traditional markets, your ability to monetize
+outside of this concentration that we're seeing? Thank you.
+A - `Rajeev Suri, President & Chief Executive Officer `
+Yeah. So – thank you, Mark. So there are, of course, other targets in terms of handset players
+beyond Apple and Samsung, and some, even when the Chinese players go global, they're also
+longer-term targets. So there is more potential, within the core business of IP licensing, to expand
+the pipeline, if you like, and also to find a mix of arbitration, negotiation, litigation.
+Second, as we said, technology licensing is a new opportunity for us, where we build technology
+that we can license. And we have a lot of technology: audio, video codecs, and sensors, and
+graphene, and a lot of stuff that we have in camera technology and so on. And that can be done
+within the device space and beyond the device space. And we are forming early partnerships,
+getting deals beyond the device space to kind of get the precedent rates, so that we can benefit
+from that downstream. And we could even build technology in completely adjacent areas like
+medical and so on where we don't necessarily make a product but just license the technology
+because other people need it.
+And then there's brand licensing. So I've always said that I look at brand licensing, technology
+licensing, and IP licensing going together in the medium- and long-term. And brand licensing will
+actually – every time we do a brand licensing deal, you have to do an IP deal. So that opens up –
+kind of it's like a channel to further IP licensing as well. So if you look at the long-term, you've got
+to drive the three in tandem to some extent. In the short-term, it's IP licensing alone. In the long-
+term, it's kind of in tandem.
+A - `Timo Ihamuotila, Chief Financial Officer & Executive Vice President `
+If I may, again, just a very short comment on China, first of all. So it's true that the market is
+growing in China, but simultaneous that the Chinese vendors are pushing to be outside China.
+And often when you then come to agreement, if you would, you do it on a global scale. So that's
+also one possibility to kind of like enter China without necessarily having a massive litigation on
+the local grounds, so to say. And then Apple, of course, is the current licensee and we will discuss
+with them when the time is right.
+A - `Matt Shimao, Head-Investor Relations `
+Thank you, Mark. Stephanie, next single question, please.
+Operator
+Your next question comes from the line of Pierre Ferragu with Bernstein. Your line is open.
+Q - `Pierre C. Ferragu, Analyst, Sanford C. Bernstein & Co. LLC `
+Hi. Thank you for taking my question. On the networking front and the profitability of your Mobile
+Broadband business, so we've seen some volatility in gross margin in last year that was mostly
+related, of course, to product mix. Is it something that we should expect to continue this year?hurt your profits (50:45) this year. I was wondering what your perspective is specifically in the U.S.
+as one of your competitors seemed to have discussed lately the opportunity for them to come
+back at one of your – actually probably your largest client there. Is there a risk that in order to
+keep your position in the U.S., you'll have to be very, very aggressive on pricing to defend what
+you're getting (51:09) so far. Thank you.
+A - `Rajeev Suri, President & Chief Executive Officer `
+Yeah, Pierre, I'm not sure if I agree with this volatility in gross margin necessarily because I think
+we've now, as I said, delivered seven consecutive quarters with non-IFRS gross margin over 36%
+and four straight quarters in the range of topping 38%. So to some extent, it's actually been a bit
+stable. On the...
+A - `Matt Shimao, Head-Investor Relations `
+Competitive dynamics particularly in Japan and pricing.
+A - `Timo Ihamuotila, Chief Financial Officer & Executive Vice President `
+And U.S.
+A - `Rajeev Suri, President & Chief Executive Officer `
+Competitive dynamics, you mentioned sort of tightening of – if – we, of course – I'm saying, if
+there would be tightening of competitive dynamics, so as (51:44) there would be price intensity in
+the market, then potentially we could go to the low-end of the range, and if you execute well
+we're at (51:49) the high-end of the range. So we're not saying that there is that dynamic playing
+out yet. In Japan, in U.S., we're not necessarily using pricing as a card, as I've always said that
+pricing will only be a card in very select cases. And even in those select cases, I think we have this
+continuous improvement, Smarter program, and efficiency is something that we deploy to offset
+any such thing. And we still have our big pricing volumes (52:15) around the world in a very
+centralized way to price in the company as well. So I look at this thing as being balanced and
+there is more room for continuous improvement for Nokia Networks.
+A - `Matt Shimao, Head-Investor Relations `
+Thank you, Pierre. Stephanie, next question, please.
+Operator
+As a reminder, we ask that you limit yourself to one question in the interest of time. Your next
+question comes from the line of Ehud Gelblum with Citigroup. Your line is open.
+Q - `Ehud A. Gelblum, Analyst, Citigroup Global Markets, Inc. (Broker) `
+Hey, thank you. Good afternoon, Rajeev. My question I wanted to take it back to the Networks for
+a little bit and again talk about the pace of operating margin. You had in Mobile Broadband a nice
+ramp as the year went on, as the Sprint contract came in and your North America business
+primarily through Sprint was strong in the second half of the year and really helped your operating
+margin on the Mobile Broadband side.
+Can you give us a sense as to how far along are you in that Sprint contract? How much more is
+there to go as we get into next year? And does that mean, I'd imagine it peaks either now or the
+next couple quarters. Does that mean that if we were to look at the pace of operating margin inMobile Broadband next year, forget about the numbers, but actually the pace of it, does it not
+have the same back-end loaded kind of ramp that we saw this year? And is it more, kind of,
+stable as the year goes on? Or how should we view the ups and downs of that Sprint contract vis-
+à-vis what the margin does? Thanks.
+A - `Rajeev Suri, President & Chief Executive Officer `
+Thank you, Ehud. So actually, no, it was not just driven by Sprint in Q4. In fact, Sprint was
+sequentially weaker from Q3 to Q4. And it was broad-based. So we saw that in Canada, growth.
+We saw it in Verizon. And we saw it in T-Mobile and we saw it in Sprint. And in Q3, it was also
+Sprint and T-Mobile. So we saw it broad-based. And it is still early days for Sprint as they embark
+on this Vision program and there's a lot of runway. Then there's going to be capacity and carrier
+aggregation, LTE-Advanced and so on. But the important thing is we saw balanced growth in Q4,
+and I expect to see more of that balance going forward as well.
+A - `Matt Shimao, Head-Investor Relations `
+Thank you, Ehud. Stephanie, we'll take our next question.
+Operator
+Your next question comes from the line of `Tim Long, Analyst, BMO Capital Markets (United States) with BMO Capital Markets. Your line is open.
+Q - `Tim Long, Analyst, BMO Capital Markets (United States) `
+Thank you. Just wanted to touch on the Service business. Pretty nice recovery on the revenue line
+last quarter. Could you talk a little bit about that? Was there anything big, new, one-time in there?
+And do we think after two big down-years we can start to see this business growing like you
+expect the overall Networks to grow? Thank you.
+A - `Rajeev Suri, President & Chief Executive Officer `
+Thank you. Yes, we expect to see that sort of rising momentum in Global Services because we're
+done with a lot of the contract exits and country exits that was basically strategically driven in the
+last couple years. So there are two things we saw in Q4. One is our chosen targeted segments
+have grown well, like systems integration, which is quite critical to core networks deployment and
+VoLTE and IMS and Customer Experience Management. All that is, in fact, in the future going to
+be driven by system integration rather than as an effect of core networks. So that's one.
+Second is, as we saw Mobile Broadband business turn to growth in the last few quarters, there's
+a lag effect when services, attach services, starts to grow as well. And given that MBB has grown
+now for the last couple quarters, we should see that lag effect continuing. And we should also
+see some of the professional services like SI to be a segment of strength for us.
+A - `Matt Shimao, Head-Investor Relations `
+Thank you, Tim. Stephanie, we'll now take our last question for today.
+Operator
+Certainly. Your last question comes from the line of `Johannes Schaller, Analyst, Deutsche Bank AG (Broker) with Deutsche Bank. Your
+line is open.
+Q - `Johannes Schaller, Analyst, Deutsche Bank AG (Broker) `Yeah. Hi there. Thanks for letting me on. One of your peers commented on a lot of very high
+margin software spending, specifically in Europe in the fourth quarter. Now given that you haven't
+really commented on that and your gross margins also don't really show any of that in Q4. I was
+just wondering how we should think about that. Is that an impact that is for you already behind us?
+Or is that something still to come? Or is it something that will not really impact you because
+you're exposed to different customer set in Europe? Thank you.
+A - `Rajeev Suri, President & Chief Executive Officer `
+Yeah, thanks, Johannes. No, specifically on Europe, we didn't see any such sort of one-off nature
+effect that you're point to for software. We saw growth again there. And we saw a great deal
+momentum in 2014 overall. So I'd call it that we came back in Europe, but not particularly the one-
+off effect that you're pointing to.
+A - `Matt Shimao, Head-Investor Relations `
+Well, thanks, everyone, for your great questions. With that, I'd like to turn the call back over to
+Rajeev for some closing remarks.
+A - `Rajeev Suri, President & Chief Executive Officer `
+Thanks, Matt, and Timo. And thanks again to all of you for joining.
+Overall, the fourth quarter was a very good one for Nokia with growth across all three businesses.
+And we ended the year with a solid platform in place, a platform on which we will build in the
+coming months and years.
+My thanks to the many hardworking people at Nokia who made this possible. While some of you
+may have concerns about the OpEx increases in the quarter, I do not share those concerns given
+the underlying detail and our future expectations. To be very clear about my position on this
+topic, first, we plan to continue to invest in line with our long-term strategy to ensure we can
+compete in existing businesses and build new ones. This is a must for any technology business,
+and we are certainly no exception. Where we believe there are compelling opportunities, we will
+not shy away from pursuing those opportunities.
+Second, we will strive to ensure that every euro we spend has maximum impact. We will be very
+focused on cost discipline across the company. The transformational work that we did in 2014 in
+our Mobile Broadband segment is a good example of this approach, and we will not back away
+from these efforts, even if they are hard.
+With that, thanks for your time and attention. Matt, back to you.
+A - `Matt Shimao, Head-Investor Relations `
+Ladies and gentlemen, this concludes our conference call. I would like to remind you that during
+the conference call today we have made a number of forward-looking statements that involve
+risks and uncertainties. Actual results may therefore differ materially from the results currently
+expected. Factors that could cause such differences can be both external such as general,
+economic, and industry conditions, as well as internal operating factors. We have identified these
+in more detail in the Risk Factors section of our 20-F for 2013 and in our results report for Q4 and
+full year 2014 issued today. Thank you.
+OperatorThis concludes today's conference call. You may now disconnect.

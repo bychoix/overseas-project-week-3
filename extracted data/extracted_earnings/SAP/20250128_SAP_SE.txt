@@ -1,0 +1,612 @@
+Y 2024 Earnings Call
+
+Presentation
+`Monika Schaller, Chief Communications Officer `
+Good morning, good afternoon, good evening, and a very warm welcome. Thank you for joining
+us here live in Walldorf and thank you to everyone who is joining us virtually. I'm `Monika Schaller, Chief Communications Officer,
+Chief Communications Officer. All numbers you're going to see today are non-IFRS and growth
+rates in percentage points changes are non-IFRS at constant currencies. Our CEO `Christian Klein, Chief Executive Officer
+will kick it off, followed by our CFO, `Dominik Asam, Chief Financial Officer. Later on you have the opportunity to ask
+questions. Should you ask questions virtually, please also give your name and outlet.
+And with that, let's not waste any time. Over to you, Christian.
+`Christian Klein, Chief Executive Officer `
+Yeah. Thank you, Monika. Welcome everyone here on site at our headquarter and of course also
+welcome to everyone joining us worldwide. In a moment, we will deep-dive in on our numbers.
+We will talk about more about our earnings today, but just attending my fifth WEF, World
+Economic Forum Davos, obviously also please allow me to share a bit of the dominant topics in
+Davos on the C-suite, but of course also with our political leaders. AI and Europe's
+competitiveness were of course a big topic.
+And when we look at the economic situation, I mean, for sure the US and China have large tech
+players. We in Europe have one, and these tech players in the US and China are very dominating
+when it comes to AI infrastructure and when it comes to large language models. And yes, for sure
+we see it, AI is a very transformative technology and it's very key that we apply AI so that our
+industries remain competitive. And with everything what is happening around us, I have to say the
+wake-up call for Europe is loud and clear.
+Now, there was also a lot of talk how should the response look like from Europe and Germany.
+And my strong advice also to our political leaders is not to copy the US, Chinese playbook. We in
+Europe have very strong industries, and we don't need the European Union or the German
+government to subsidize new hardware factories or products which are not competitive. This isBut what is also very key for us on the private sector is that the Union, the European Union, finally
+becomes a union. We don't have the framework to invest and drive innovation. I mean, just to
+give you a few examples on the digitization, which is so key for all of the industries, not only SAP, I
+mean, we have one AI and Data Act for Europe, but we have 27 in each member state. So with
+adding one more, you are adding bureaucracy, you are adding regulation, and you kill innovation
+before it's actually going into adoption.
+When we are talking in the United States about the sovereign cloud, we talk about one. And in
+this one sovereign cloud, it's also SAP software included software, which is also developed in
+Europe. So we should come together and find a very pragmatic definition about how this one
+European sovereign cloud should look like and how to run our workloads, and that it doesn't
+matter maybe so much where every piece of hardware is coming from; security questions, fair;
+where the data resides, very fair, but we need one sovereign cloud, not 27. I mean, think about it.
+We are a multinational. We can -- we make choices of investments in our labs in the US, in China,
+in India everywhere, but for our startups, it's, again, a big obstacle to scale. And most importantly,
+what we need across Europe are bold and fast decisions.
+Now asking us asking what SAP can contribute. Sometimes it's a bit forgotten. We have a large
+tech company in Europe and that is SAP. And what is the advantage of SAP? And looking at
+yesterday's news about the scale of AI infrastructure and the costs coming down and
+performance going up, I would say SAP has the big competitive advantage that we have business
+data no other tech company has. We are sitting at the nexus between business and technology,
+the value creation, how a Mercedes, how our German industry giants improve their cash flow,
+improve the resiliency of the supply chain is not happening on the infrastructure layer. It's about
+infusing AI in their supply chain, in their finance, in their HR software, and this is what this is about.
+And just to give you a flavor, we made the mess. We would be willing also to invest over EUR40
+billion in R&D and cloud operations in Europe only, SAP, EUR40 billion. But what we need, as
+everyone else, is the union we just talked about, and it's really imperative now that we take
+actions both in the public and in the private sector.
+Talking about SAP. So we are climbing this mountain. I hope you can see it. It was sometimes a
+very steep mountain. In the first two years, there were a lot of doubts can SAP pull it off. And I
+have to say, I come later to that, I'm very proud about the team, customers and partners on how
+we mastered that.
+And when you look at our outlook for 2025, I would say it's a very confident and bold outlook
+because even beyond 2025, we actually see a continuing cloud acceleration, and we also see
+that our customers like the speed of innovation. Who wants to sit on an eight-year old on-
+premise release with outdated components and is completely decoupled from the innovations
+we are shipping in our business suite each and every quarter?
+Agentic AI. I mean, I just talked about it, what SAP can do, and I would say the AI strategy of SAP
+was spot on; to focus on business data, to focus on things like knowledge graph, to do a lot of
+R&D invest on places where SAP has a unique competitive edge. Just yesterday, and there is a
+demo actually out there, you can see it, we showed a German CFO on how to collect cash faster
+by multiple agents playing together with Joule sitting on top to provide various recommendations
+on how to collect cash faster. Is it an issue on the logistical side? There is the agent for logistics. Is
+it an issue on the procurement side? There is this agent for the procurement. There is also the
+agent for sales. And all of them talk to each other. So cash collection will not only become more
+automated; you actually also see more value in collecting cash faster. And that is the next age of
+AI.And then 2025, and I hope you have some time for us on February 13, we worked on the next
+breakthrough innovation for a long, long time and now we are ready to launch it. And 2025 will be
+the year of data and I will come in a second to this big launch we are going to have in February.
+Now, Q4 was strong. I mean, you have seen it; cloud revenue expanded once again by 27%. The
+most important figure is for me, the current cloud backlog, and 29% think about that. I mean, the
+base is getting larger and larger, and when you make the mass work, you see that these
+percentage points are not getting easier. Still we accelerated the CCB throughout the year and
+so that gives us of course a lot of resiliency. And this EUR63 billion of total cloud backlog, which
+we already have signed in the books, but not yet realized as revenue of course gives SAP the
+resiliency in times where the macro is of course not always easier.
+So 2024, we achieved all our cloud goals. We doubled the cloud revenue since 2020. And I would
+say looking at the quotes, there is no SaaS company growing faster than SAP and the recurring
+revenue share of 63% of course again gives us the resiliency on the top line, but as well as on the
+bottom line.
+Four years ago, we pulled this transformation off. There were some doubts, but first and
+foremost I don't want to miss the opportunity here and we have laid on an employee all-hands.
+Maybe I really have to say I have to thank our 100,000 employees. And I know the speed of
+change at SAP was fast. People of course always said hey, there is another change, but
+everything what we pulled off from strategy to execution landed in these numbers. And the tech
+sector moves unbelievably fast and I know we requested and asked our employees a lot, but
+they delivered. And so this is their success story.
+And of course, we have a big ecosystem of partners. We are nothing without our partners. And
+so also they are following their strategy, they are helping us on the execution side, be it in
+development, in services and sales. So kudos to also to our over 20,000 partners. And last but
+not least, thanks to our customers for the trust, who are always sometimes, in economic tough
+times, investing in our software as a sign of trust, seeing the value and this is of course also a big
+thank you to all of our 400,000 customers.
+You see some of the plans, I mean, I mentioned in the earnings call this morning, we signed two
+large energy companies. And actually what is so important also with these customers, their
+business model is changing, and so they are not only going on this RISE journey with because
+they want to be only in the cloud, what SAP is doing is transforming their business models,
+helping them to run new businesses at scale, simplifying business processes, and of course, AI,
+as I said, is already in 50% of our deals, is a major value driver for customers signing in these
+days.
+We had major go-lives; IBM, General Motors, super, super important of course. In the cloud, we
+walk with the customers every step, and customer satisfaction is key, adoption is key. This is also
+what we infused into the DNA of SAP over the last four years.
+Now, numbers are up. 2024 is a great year in the technology space. There is no time to rest. So
+what we have to do is we are raising the bar. We need new ideas, we need new ways to
+accelerate our growth and of course to also expand our operating profit. Not only in 2025; we are
+in for the mid and for the long-term.
+So let me quickly talk about some of the levers we are pulling off. First, I talked about product
+innovation. This sunshine, half sunshine, it's shining because it's integrated. I mean, four years
+back, we were heavily criticized, and now we are beating a lot of best of breed because everyintegrated on one consistent data module. And that is -- this is the foundation with BTP. And now
+we delivered already 130 GenAI use cases, over 1,000 Narrow AI use cases and over -- Joule
+already has 1,300 skills where end users can work with their language in translating and
+automating activities what they are doing on a day-to-day basis, which is a massive boost on
+productivity. And in 2025, we are doubling down again.
+Now, I talked about this exciting announcement. Let me quickly talk about it. Today, no matter
+which customer, they invest a ton of money. IT money to overcome data silos and you can build
+data lakes, which is good. You can put a lot of data in a lake. That doesn't mean that your data fits
+to each other. That is actually the biggest challenge of all of our customers.
+And SAP has the commercial definition of all material, of all financial flows of employee tasks in
+our solutions. And what we are doing, we are opening this up to break silos so that customers,
+partners, we can match semantically all data, structured, unstructured, SAP, non-SAP data
+because only then you cannot only run your business better and you can steer your business
+better, you can also exploit even more value out of AI.
+And especially when you talk about these agents, they won't talk to each other if you have 20
+different agents from all kinds of technology players. They need to talk one language
+semantically. And I would really like to invite you to our Business Unleashed event on February 13.
+Commercials, matters. I mean, we needed to make it easier for our customers to sell, to buy, to
+adopt and consume our portfolio. So with every RISE and GROW contract, our customers are now
+having the benefit to consume all of our business suite in the cloud, so they can start with finance,
+they can start with HR or supply chain. It's up to them. And this flexibility is key. And then they can
+go into their transformation journey based on their priorities, but they can land and expand
+without again and again having the commercial negotiations. And of course, the integration
+makes it easier to plug in and play. So land and expand is key for our customers and it will get way
+easier product wise and commercial wise.
+Now, simplification. Such a company, and also to be credible to our customers, obviously we need
+to walk the talk. So you cannot go out and say, hey, here is Business AI and it will help you to drive
+productivity. Of course, we have to use it by our own to gain more productivity, but also to show
+our customers how we are running SAP. And when you would walk around in our labs, here and
+everywhere in the world, 20,000 SAP developers are already using Joule for developer. And
+what we are seeing is that they can produce code faster by 20%.
+AI-assisted contract validation. We are closing a ton of new business. So salespeople, finance
+people, a lot of billing, shared service people are working on this business. And with Joule for
+quote-to-cash, we actually could reduce the average contract booking time by 75%. So while we
+are growing our business, we can actually equip our people with AI to do their job way more
+productive than before.
+And we have numerous examples; delivery, finance, HR, in sales, in consulting, with tool for
+consultant, which will also help us to really make SAP more simple, and of course, also more
+productive.
+People. And when you are a tech company, it's all about your people. And this year will also be
+the year of reskilling and learning. It was always a priority, but now so many job profiles are
+changing because of AI. So 15% of the working time of our employees should be freed up to
+dedicate to learning and development. And no matter if you are in development, in sales,
+consulting, everywhere, AI will change your job. And it's important to also continuously reskill ourWe also hire new people. I mean, you have heard all the news about our transformation. It's also
+important that we added 9,000 people; data scientists, focused AI. We added also more go-to-
+market people in places where SAP is growing that fast, but we have not yet the footprint as
+some in our mature markets. That is where we are also increasing our workforce.
+And then Gina and team pulled off a new cultural transformation. Best is never done. We talked
+about performance, which matters. And I hope it's also getting now more common in Germany
+that you can talk about performance. And we need performance and we need to equip our
+people with the skills. Then we also need to help them to drive even better performance going
+forward. And that is something very important when you want to compete with a lot of
+technology companies around the world. And so there will be a dedicated program also around
+that to really equip our people with the skills to also make sure that our leaders can drive the
+change and that of course, at the end, we also have a workforce which also can drive SAP into the
+future. And we are very proud about what our people have delivered in 2024.
+Now, when you talk about leadership, we also announced some leadership changes this morning,
+starting with Sebastian. Sebastian Steinhaeuser started as Head of Strategy four years ago. In the
+meantime, he lives and breathes SAP. We gave him last year already more responsibilities on
+combining our operations teams, IT processes to not only drive strategy, but also strategy to
+execution. And we found together with the Supervisory Board actually that we want to make this
+an Executive Board position. Why? Change needs to happen across SAP, and it's very important
+that we connect the dots end-to-end, and that's why we elevate Sebastian to the Executive
+Board.
+Also we're going to announce Philipp Herzig as our new CTO. Philipp, great visioner. He's a great
+pioneer also in driving new innovation even before AI. Now in AI, he did a great job, which also is
+a testament of the results we are reporting this morning. And now he assumes more
+responsibility, and in this responsibility, he will look into topics like quantum and others and always
+will make sure that in three to five years SAP is still very competitive in applying this technology in
+our portfolio to drive value for our customers, focusing on the mid, on the long-term.
+Now Chief Revenue Officer, both Jan Gilg and Manos Raptopoulos, will actually be the two in the
+box for our customer success organization. Jan will focus on Americas and our global suite. Manos
+will focus on EMEA, APAC and MEE and both will report into me because we want to continue with
+the successful transformation of our go-to-market function we started in 2024.
+Marketing will actually remain with Ada. Ada Agrait will now become our new Chief Marketing
+Officer. We are very happy with Ada. Ada built great bridges to sales, digitized our marketing. The
+marketing funnel is working extremely well, and so we are very happy with the team, and Ada will
+be our new Chief Marketing Officer. And that is actually it from the personnel from the leadership
+side.
+Look, the past four years, I guess, we have proven very much that we can turn an ambitious plan
+into reality. Now we are raising the bar. We are confident, we built a very strong foundation, and
+now it's about a continuous profitable growth journey for 2025 and beyond.
+With that, over to you Dominik.
+`Dominik Asam, Chief Financial Officer `
+Thank you very much, Christian, and of course, thanks to all of you for joining us here this
+morning. Given it's early in the year, I would also like to wish everyone good health, peace and
+success in 2025.SAP's strong finish to 2024 once again demonstrates great resilience in a year that presented
+new challenges and opportunities. We not only delivered on our financial commitments for the
+year, but also built strong momentum that positions us firmly on track to achieve our stated
+financial goals for 2025 and beyond.
+2024 was a year of transformation, highlighted by both top and bottom line growth as well as
+exceptional free cash flow strength. Our success in cloud revenue and robust non-IFRS operating
+profit throughout the year reflect the effectiveness of our strategic growth initiatives and our
+relentless focus on operational efficiency.
+Customers worldwide continue to choose RISE with SAP as their solution of choice for their end-
+to-end business transformation in large-scale enterprises, while small and medium-sized
+companies rely on GROW with SAP to drive their growth and innovation. This is reflected in strong
+order intake and large cloud transactions with a volume greater than EUR5 million, contributing
+63% to our cloud order entry for the full year and an impressive 68% in Q4.
+Now let me provide more details around our financial highlights. CCB, current cloud backlog,
+reached EUR18.1 billion, up 29%. Total cloud backlog for the year grew even at 40% to EUR63.3
+billion. Cloud revenue grew 26% year-on-year, supported by cloud revenue growth of 27% in Q4,
+primarily driven by the strong performance of Cloud ERP suite. It had an impressive year,
+demonstrating its role as SAP's core driver of growth, with an increase of 34% in 2024, up from
+33% in the prior year. Cloud ERP suite reached 84% of total cloud revenue in Q4, underscoring its
+growing contribution to our success. Software licenses revenue decreased by 21%.
+Finally, total revenue for the full year exceeded EUR34 billion, up 10%. This performance was
+mainly driven by strong growth in cloud revenue and resilience of our support business, reflecting
+the ongoing progress of our strategic pivot towards cloud-based solutions.
+Now, moving down the income statement, our non-IFRS cloud gross margin for the year
+continued its upward trend from last year and expanded by 1.4 percentage points to 73.3%,
+driving cloud gross profit up by 28%. In the fourth quarter, non-IFRS operating profit was 24% up.
+Operating profit growth in Q4 was mainly driven by the strong performance in SAP software
+licenses and support business as well as disciplined execution of the 2024 transformation
+program. For the fiscal year, we delivered outstanding operating profit growth of 26% year-over-
+year, reaching EUR8.2 billion.
+The IFRS effective tax rate for the full year was 34% and the non-IFRS tax rate was 32%, as
+previously guided.
+Free cash flow for the full year was down 19% to EUR4.1 billion, exceeding the revised outlook
+range of EUR3.5 billion to EUR4 billion. Recall that on top of payouts for restructuring of EUR2.5
+billion, we also absorbed EUR0.2 billion of cash-out for compliance-related settlement matters
+and fully discontinued SAP-triggered financing weighing on free cash flow with another couple of
+hundred million euro.
+On the other hand, we received a couple of hundred million euro from customers for receivables
+due in 2025 already before the turn of the year, which, in combination with strong profitability,
+enabled us to slightly exceed even the upper end of the previously guided range of EUR3.5
+billion to EUR4 billion.
+Non-IFRS basic earnings per share in fiscal year 2024 increased by 22% to EUR4.53, but that then
+brings us to the outlook, the future.As you've likely seen in the quarterly statement published earlier today, we have provided that
+year's outlook by now. Four years ago, SAP outlined bold long-term goals to guide our transition
+toward cloud-based solutions. Today we are proud that this year's outlook solidly aligns with the
+ambitions we set in 2020, demonstrating the progress we've made in executing our strategy.
+Before I move on, I want to provide an update on our compensation metrics and foreign
+exchange hedging strategy that we will adopt going forward. As of 2025, we'll enhance our
+compensation framework by incorporating free cash flow as a metric alongside non-IFRS
+operating profit. This will ensure heightened attention towards working capital and other key
+drivers of free cash flow.
+Additionally, to reduce foreign exchange related impacts on free cash flow, we have further
+developed our hedging strategy, in particular for the US dollar. As a reminder, we currently
+provide all income statement KPIs that are relevant for compensation purposes on a constant
+currency basis.
+Free cash flow has been and will continue to be provided on a nominal currency basis, as unlike
+the compensation relevant income statement KPIs, it does include the result from foreign
+exchange hedges. We continue implementing a hedging strategy with a lead time of up to one
+year to mitigate the risks from US dollar-euro exchange rate fluctuations in free cash flow. By
+aligning hedging instruments with forecasted cash flows and maintaining a one-to-one hedge
+ratio wherever possible, we aim to reduce volatility and minimize the impact of exchange rate
+fluctuations on that free cash flow KPI.
+This approach is by now largely completed and reflected already in the free cash flow outlook we
+have provided today. So while the average exchange rate for 2024, and as a result, the constant
+currency exchange rate underlying our outlook for income statement KPIs for 2025 is 1.08, that's
+the euro-US dollar exchange rate, the spot rate today at year-end and even today is at 1.04, and
+that's relevant for the CCB. But the forward rate of our hedge portfolio for free cash flow for
+2025 logically sits somewhere in the middle, at around 1.06.
+In summary, we delivered on our key objectives for 2024, achieving strong top and bottom line
+results while demonstrating resilience in a dynamic environment. Customers continue to choose
+our solutions to help transform their businesses into more intelligent, sustainable enterprises, as
+reflected in our cloud performance across all regions of the world. With our foundations now
+firmly established, in 2025, we must remain vigilant in our execution to sustain growth and set the
+stage for long-term success for years to come.
+I also want to thank all the hardworking employees we had and both those who remain with us
+and also those who have moved on. We deeply appreciate their contribution to helping SAP
+thrive and navigate this transformational year. And we remain optimistic about the opportunities
+ahead, confident that our commitment to innovation and disciplined operating strategy will
+continue to drive results.
+Thank you and we will now be happy to take your questions.
+Questions And Answers
+A - `Monika Schaller, Chief Communications Officer `
+Thank you, Dominik. Thank you, Christian. With this, we are moving into the Q&A session. As
+pointed out before, please say your name and the outlet. I'll take a first virtual question and then
+the next one goes to Heidi. Christian, you mentioned our EUR40 billion investment in AI. We havea question from . Do you envision a European Stargate? Would you participate in such
+efforts? And if so, why hasn't Europe's biggest tech company done so yet?
+A - `Christian Klein, Chief Executive Officer `
+Oh, we have done a lot. We invested, but sadly, we are investing in each country, not in one
+Europe. And so you heard probably about Delos. And Delos is not a marketing campaign. I mean,
+we had our best engineers and still working on a sovereign cloud for Germany. And there's so
+much talk about sovereign clouds here, sovereign clouds there. At the end, what a BSI told us
+they want to have cloud, but completely decoupled from a global network. Now when you're an
+engineer, know how cloud works, this is damn complex and this is high requirements on data
+security, and rightfully, rightfully, actually higher requirements than what we have seen in
+Washington for our sovereign cloud there.
+Now we do almost the same in France. Italy wants the same, Spain wants the same, so -- but
+does this scale? No, it doesn't scale, and it's also not possible because at the end, you are
+competing with US tech players who have also a home market which scales. And we are
+benefiting of course also from a strong US. So with regard to the EUR40 billion, that is not set in
+stone. We want to invest, and that is actually a clear increase. But what we need is of course a
+framework where we're not asking for money. What we are asking for is a framework where it's
+really good for SAP to invest and take startups with us. Of course, that should be not exclusive.
+That is a platform which really should run and digitize public sector and private sector.
+We have many regulated industries who don't want to move one-to-one to a public cloud. Fair,
+but do we now need to build the 28th sovereign cloud here in Germany? And then you have all
+this -- in every member state, even here in Germany, you can -- Europe, then comes Germany
+and then there is not one on the federal. I mean, then comes the states of Germany. And when
+everyone orders software and interpret somehow data security rules by their own, I mean,
+obviously nothing can fit together. It's a pretty simple logic.
+And that is my ask and that requires honestly also bold decisions. Will all your people like that
+when you take something away and centralize it? No. I mean, in SAP, the change was also
+sometimes required some tough decisions, but again, don't think so much about the election in
+four years. Think about what this country needs and this country and this Europe needs more
+Europe, more federal with regard to digitization, but time to act is really now and we are
+investing, but we have choice and we want to invest further, but again, not only we; everyone on
+the private sector needs this framework.
+A - `Monika Schaller, Chief Communications Officer `
+Thank you. `Heidi Rohde, Journalist, Borsen-Zeitung, Borsen-Zeitung.
+Q - `Heidi Rohde, Journalist, Borsen-Zeitung
+Hi, good morning. Just if you look at the numbers, very impressive numbers. Still the share seems
+to take a break, even a small dip. So what do you make out of it? Is this a reaction to yesterday's
+news when west is getting in doubt about the perspective of the western tech industry regarding
+to AI progress? What is your view on that?
+And the second question, if I may, is about the management changes you've mentioned. You
+have a new CTO who is obviously a visionary, as I understood, but he is still not member of the
+top management, but part of the broader consultancy team, as I understood. So does that mean
+that in a company founded by Hasso Plattner, the CTO is no longer so important?A - `Christian Klein, Chief Executive Officer `
+Hasso, he would be happy if he would be still in the Supervisory Board. He would be happy with
+the solution we found. And let me quickly illustrate why. I mean, first, talking about the news
+yesterday, I mean, yeah, of course, our share developed really well, and Dominik always reminds
+me rightfully what happens today is of course important, but even more important is that we're
+delivering on our promises mid and long-term. And what we have guided today is, in my eyes, a
+very ambitious outlook in a macroeconomic environment, which is not easy. And when you look at
+the kind of growth rates, I would say you can need to look really a long time and you will not find a
+SaaS company with similar growth rates than SAP.
+Now, yesterday's news was also around -- and there is a big debate also here in Germany, do we
+not miss a hardware company or compute who is really playing on AI infrastructure. Yesterday
+actually was the day where we showed, where someone showed that AI infrastructure will scale,
+it will become commodity. It's of course very important because without this infrastructure, you
+cannot run the GenAI modules, but more and more players entering the markets and there will
+be not one large language model. So yesterday was actually a good day for SAP because it
+proved what we always said; we invest our R&D money into building the strongest AI foundations
+for businesses. And what businesses need is not only unstructured content. They need the
+business data. They need agents who talk to each other semantically. That is what SAP is about.
+And last but not least, not every company, also not here, the German Mittelstand, has actually
+hundreds of data scientists sitting around and making this AI work. So also by embedding AI into
+our software and delivering out of the box, that's what you can't do in on-prem, is actually 100%
+the right strategy.
+And then with regard to Philipp, look, Philipp, even before he became the Head of AI of SAP, had
+a really impressive career. He was very fundamental in making sure that our cloud business suite
+is the suite we are looking at today. It's complex things. We are running complex business
+processes. And Philipp was one of the masterminds behind making integration work, making
+extensibility work, and giving us the strong foundation that he entered into the AI role.
+And now why did we say CTO will still work very closely together with the CEO and will become
+part of the extended Board, which is a very crucial function, which, by the way, a lot of US tech
+companies have as well? Philipp will be now involved also in a lot of decisions around how much
+do we bet on quantum, how much do we bet on certain other technology innovations which are
+going to hit us in three to five years. He will be involved in decisions on do we invest into a
+startup, into a unicorn. He will be involved into M&A. And all of these topics obviously require a
+close collaboration with the CEO. And that's why we said, hey, why do we want to break
+something which worked so well on AI? And that's how we then came to this setup. And we will
+have a very powerful and empowered CTO, and even more important, we have found the right
+candidate in Philipp.
+A - `Monika Schaller, Chief Communications Officer `
+Thank you. I will take a question from the virtual audience before we continue with `Angela Maier, Journalist, The Market/NZZ
+and then Reuters. Dominik, this one is for you and it's about current cloud backlog. Dominik, the
+question is, your release says that the current cloud backlog will grow slower this year than last.
+Why?
+A - `Dominik Asam, Chief Financial Officer `I mean, first of all, there is a more technical effect, which is we have recently consolidated an
+acquisition called WalkMe, which added a good percentage point to current cloud backlog. And
+just mathematically, once you then wait for more than a year in the basis you compare to, it's also
+added and then that kind of increment is falling away.
+The other thing is, of course, the base is growing bigger and bigger, and 29% is extremely high
+number. We need a lower rate to still sustain acceleration in total revenue growth because the
+cloud revenues are currently below CCB. So we have some room to sustain cloud revenue
+growth. And as I mentioned, in my introductory remarks, the question what is really driving cloud
+revenue growth is all about the Cloud ERP suite. 84% of the revenues at 30% plus growth rates
+for 12 quarters in a row, we think that this will sustain itself. So from that perspective, I think these
+are extremely strong numbers and underpin the commitments we've made to see acceleration in
+total revenue growth in both '26 and 2027.
+A - `Christian Klein, Chief Executive Officer `
+And maybe one point to add. Look, also -- looking at our sales numbers, I mean, 2024 was a
+record year, I would say the best in SAP's history. Now, when you are setting targets, I mean,
+Dominik and I discussed also about how aggressive do we also want to plan the numbers and
+customers bought a lot of software. Still there is enormous potential in our installed base. Only
+40% so far have started the journey. The others will follow. The pipeline is really good.
+But of course, you also want to focus now on the customers who invested into a software. It's
+also about building a healthy business. So we also said in the target setting, let's also focus on
+adoption because we are here for the mid and the long-term. It's always easy to preload invest
+and to stimulate further sales, but I guess it's also important in the cloud that we found the right
+balance. And now the base is becoming bigger and bigger. So one plus one is two is -- it's a high
+growth rate, but when you have a million plus a million, the growth rate becomes a bit more
+challenging. That's the thing about percentage growth rates.
+And I would say it's also about the balance and also signal to our teams on the go-to-market side,
+yes, we want to win more customers and we are winning. Our win rates are way up, but what is
+also very important is adoption, especially around AI. When we walk into Sapphire, I want to see
+these customers on stage. I don't only want to feed into a hype. I want to see adoption. And that
+was also a little bit about the target setting. And of course, if we can prove ourselves that we can
+do more, of course we can do more, but I would say this was a reasonable target, an ambitious
+target, especially when you also look at our competition.
+A - `Monika Schaller, Chief Communications Officer `
+Thank you. `Angela Maier, Journalist, The Market/NZZ?
+Q - `Angela Maier, Journalist, The Market/NZZ
+`Angela Maier, Journalist, The Market/NZZ, The Market/NZZ. Two questions, if you allow. First on your -- could you give us your
+view on your M&A strategy? So your liquidity is growing, your valuation is growing, so maybe
+could be time for a bigger deal. So do you have any gap in your product portfolio? So please, the
+first question.
+And the second, in the analyst call, you said that you have offered transformation credits in Q4 to
+convince all the big customers. So what exactly are these transformation credits? And did you
+give more of them in Q4 than in the previous quarters? Thank you.A - `Christian Klein, Chief Executive Officer `
+Yeah. I mean, last question first. Every tech company, and I really underscore every tech company,
+works with migration credits. It's -- and actually when you look at it, it's also way more healthy than
+to give discounts because when you can hold up your price, this is where you see recurring
+revenues for the long-term. And so that's why every tech company also uses migration credits
+more as an incentive to actually convince customers to move ahead. So -- and that was actually
+not a big change compared to previous quarters. Obviously, Q4 is bigger from a volume
+perspective. I mean, that is clear, but it was now not actually a big uptick.
+Now, prices actually and multiples on customers actually pay us this much maintenance and pay us
+this much in the cloud actually developed very healthy. That is also, for me, the most important
+indicator for the long-term that we have really a healthy development in our customer base when
+it comes to pricing. But of course, customers challenge us. I mean, they are not buying this AI use
+cases lightly. They want to see value. And there we also said, hey, we want to have a
+consumption-based, an outcome-based commercial module to prove our customers that we are
+doing the right thing. So on the commercial side, actually we are very happy with the progress
+and the trend we have seen in the last year actually. Yeah.
+M&A. Look, M&A, the good piece is looking at the pipeline for this year and looking at the
+momentum. Now we are launching in February 13, a big thing, a new offering which will also
+further drive organic growth. So there is no need yet for us to acquire revenue to do any kind of
+moves just to keep up our accelerated total revenue growth. This is what we will do organically.
+Now, can we rule out acquisitions like we did with LeanIX, with WalkMe? If it fits really well and it
+serves our customers' needs and actually it fills a white space in the portfolio, we wouldn't rule it
+out, but there is no immediate need now to buy something. Think about it; everyone also asks us
+why you are not acquiring an AI company, large language models. Yesterday was a good day
+maybe to show that we did well not to do it, but rather build on our organic platform. And I guess
+this is always the balance what you have to strike. We don't want to just acquire for further
+accelerating our growth. The pipeline is good enough, strong enough.
+A - `Monika Schaller, Chief Communications Officer `
+Thank you. Reuters?
+Q - `Hakan Ersen, Journalist, Thomson Reuters
+`Hakan Ersen, Journalist, Thomson Reuters from Reuters. Going back to the DeepSeek, did you have a chance to assess what
+the AI can achieve? And would you incorporate it into SAP, given that it's a Chinese company and
+there's always issues with data security? And a quick question. You mentioned that 2024 was a
+record year for SAP. Did you mean that just in regard to the sales or overall?
+A - `Christian Klein, Chief Executive Officer `
+I mean, 2024 record year, I mean, first of all, I mean, look at where we are coming from and we
+should never take it granted that this company does such a turnaround in just four years. And I
+would say no matter if you now look at order entry, revenue, health of business, I really
+underscore health of business, the renewal rates are way better, way better than four years ago.
+And so customer satisfaction, I mean, these are all the indicators where I can see this was really a
+fantastic year. And yes, in terms of numbers and order entry and everything, it was definitely a
+record year.Now, with regard to DeepSeek, look, we of course also have, in China for China, various
+technology players. I mean, all the multinationals we run still do business in China. And of course,
+we are also using local technology in China for China. We don't use Chinese technology always
+outside of China and that is also customer's choice honestly, but we want, definitely want to
+always adhere to the several sovereign clouds standards where we have too many in Europe, but
+we want to adhere to that because we want to respect our customers' data, their security
+requirements, et cetera. And so yes, but oftentimes we use the Chinese technology in China.
+And so -- and on the large language model side, performance wise, this module is great. We
+have tested it as well. Philipp and team have tested it as we test many other modules. But just to
+give you a European example, Mistral AI also does a fantastic job. Their module is also great, I
+mean, not yet at the cost, but they are serving different use cases. So we are testing all of these
+modules and we are using them in different use cases. There is not one LLM fitting all of our
+manufacturing use cases or finance use cases, HR use cases. So we are agnostic, and that
+yesterday, I guess, was really a day where it has been proven that this is the right strategy.
+A - `Monika Schaller, Chief Communications Officer `
+Thank you. Trying to get the order right. Yes.
+Q - `Robin Wille, Journalist, Deutsche Presse-Agentur `
+`Robin Wille, Journalist, Deutsche Presse-Agentur, Deutsche Presse-Agentur. Two questions. Hope that's okay. First one, I mean,
+summarizing what you just said, almost everything looks pretty good. However, what potential
+risks do you see that could negatively impact your business this year, I don't know, looking at the
+global economy or political changes in the US or also in Germany?
+And the second question regarding your restructuring program. This should be completed at the
+beginning of this year, it was said. In Germany, around 3,500 employees left the company in this
+context, but up to 10,000 jobs worldwide are said to be affected. What is the current status
+here? So how many employees have now left the company in this context? And in general,
+looking at your restructuring programs, was that it for now?
+A - `Christian Klein, Chief Executive Officer `
+Yeah. Coming to your first question, Robin, first, I mean, the risks -- I mean, obviously, I mean,
+when I look four years back, we delivered on our promise, but this promise included a Russian
+market which was pretty sizable. We couldn't really foresee what -- how COVID will impact us and
+still we delivered.
+And I mean, looking at geopolitics right now, I mean, a lot of discussion around tariffs and other
+things, I mean, it's hard to predict, but the good piece is in this world, SAP is super-resilient. I
+mean, we have a very high recurring revenue share. We have a very strong customer base who is
+loyal, who actually use our products. And so that is actually a good foundation to have.
+I mean, obviously, when you look at risks, I mean, we want a strong German economy. I mean,
+when Germany is strong, it also is to the benefit of SAP. We want to see this economy here
+thriving, but the same is true for some other markets we are playing in. And of course, you cannot
+always predict what will happen, but we feel very safe and bold about the outlook we have given.
+And your second question, sorry, Robin, was about? Transformational restructuring. Yeah. So
+some people left. We added 9,000 new jobs. Yes. The last wave of the restructuring will happen
+now in Q1. Then this program is finished; we are finished for the year. Now, look at all of ourcompetitors. I mean, sometimes here in Germany, we are making up that oh, there is
+restructuring. They restructure every year, every year. And so while I am not saying we will
+restructure again this year, for this year, we are then done after Q1.
+I mean, can you rule it out? No. But the tech sector is moving so fast. I mean, at the end of the
+day, you need to stay competitive and sometimes you have to make these very tough calls. For
+the time being, I don't see any further restructuring on the horizon, but I also want to say if in one,
+two, three, four years, whatever SAP needs, we will make these decisions.
+And again, it's of course never easy to make these decisions, but we are also doing this for the
+100,000 employees who are staying. They need to work for a winning company. They need to
+work for SAP who is in also for the mid and the long term. So while these measures are never
+easy, sometimes they are necessary, but for this year after Q1, we are done. Yes.
+A - `Monika Schaller, Chief Communications Officer `
+Thank you. We have three more questions in the room. Please stick to one question with regards
+to time, if we manage, I'll get you in Capital, FT and then FAZ and (inaudible) if we manage.
+A - `Christian Klein, Chief Executive Officer `
+Maybe also shorter answers.
+A - `Monika Schaller, Chief Communications Officer `
+I would never say this.
+A - `Christian Klein, Chief Executive Officer `
+You can.
+Q - `Hannah Schwar, Journalist, Capital Magazine `
+Okay. Good morning. `Hannah Schwar, Journalist, Capital Magazine from Capital Magazine. I believe we have a small
+anniversary today. It's your fifth annual press conference as like the only CEO. You talked a lot
+today about your team and the progress you've done. Can you talk a little bit about how you look
+back on your personal performance and the road taken?
+A - `Christian Klein, Chief Executive Officer `
+Personal, that's a hard question. I would rather prefer others to judge it. Look, anniversary, actually
+it always reminds me about the birthday of my daughter. She will hear that for her life long that
+this was the night where I had to escape from the hospital and come here for this press
+conference.
+But again, I would say personally you have to always challenge yourself. I mean, I am also not the
+type of person who sits here and says, hey, great year, now let's lean back. I mean, as a CEO
+sometimes, but also I would say as the CFO, you need to be almost paranoid a bit about what
+happens in the world, what technological innovations can come. You already -- as great this day is,
+you're already thinking ahead about what has to come in 12, 24 months. That is my job. And of
+course, there is a ton of pressure, but you have to deliver and this is what we are in for.
+And personally, I have to say yes, I learned my lessons. I mean, you're always personally also
+developing yourself. I have a lot of support for my team. Without that, it would be impossible, butneed some time for yourself, for the family, for doing sports. It's very important, but then how
+much time do you spend internally, how much time do you spend with research, with universities,
+with customers and so on, and so you personally develop. And so that was a journey also for
+myself. And this journey is never ended. I mean, I tell this also to our employees, the moment we
+rest and be satisfied and just celebrate each other how great we are, at that moment, we are
+running a big risk. And so that is the kind of mentality what we have to have, especially in this
+sector, who is moving so fast. Yeah.
+And then these bold decisions, look, this is -- sometimes, I had to learn that as well, you're doing
+decisions and you know sometimes the media won't like it, people won't like it, customers, but I
+even would say when you look now at the customers to say innovation only, AI in the cloud, I
+mean, trust me, it's also to the best for our customers. And of course, some customers said,
+yeah, but why can I not have it singular for myself? It won't work, it won't create the value. And we
+also need to move forward as a company and innovate where everyone is innovating in the cloud.
+All the tech players in the US made this shift for some time. And so you need to strike the
+balance and you have to make those decisions, and these decisions are never easy. And I had to
+learn also honestly how to make these decisions and stay resilient and stay course, which is never
+easy when you have always this quarterly pressure, but I am not alone in this.
+A - `Monika Schaller, Chief Communications Officer `
+Thank you. FT.
+Q - `Florian Muller, Journalist, Financial Times
+Can you share a little bit -- `Florian Muller, Journalist, Financial Times, FT. Can you share a little bit more on why you decided
+to create this extended Board? And can you maybe also share some information on the
+departure of Juergen Mueller? Are there any updates from the company side?
+A - `Christian Klein, Chief Executive Officer `
+Yeah. The extended Board, I mean, of course, we are also looking at, together with the
+Supervisory Board, first of all, I mean, looking at setups of other tech companies. And my ask to
+the Supervisory Board and of course talking to Dominik and the team, Gina, was, hey, our day has
+24 hours, and this is, in the meantime, a very sizable company and we need scale. And then when
+you're looking at the extended Board, it's for us now a great place where Ada comes in for
+marketing, Dan Beck comes in from the US talking about success factors end-to-end with our two
+go-to-market Chief Revenue Officers, and we will discuss a lot of portfolio topics, M&A,
+investments in research.
+And it's very good to have this diverse team together and making decisions. And also it allows us,
+as an Executive Board, to scale because you are reaching at certain point your limit, and this
+extended Board is really allowing us to scale and make faster decisions.
+On Juergen, I have to say, the Supervisory Board, we made a decision and now it's actually you
+have to reach out to Juergen or someone else to see where we stand. I am busy with running this
+company.
+A - `Monika Schaller, Chief Communications Officer `
+So with that, Freytag.
+Q - `Bernd Freytag, Journalist, Frankfurter AllgemeineOkay. `Bernd Freytag, Journalist, Frankfurter Allgemeine, Frankfurter Allgemeine. Could you give us some insights about your talks
+with the Deutsche Borse concerning the weight in the DAX? Will you stay in Germany if the
+person doesn't change their rules?
+A - `Dominik Asam, Chief Financial Officer `
+It's a little bit of a pity that we kind of outgrow the DAX. There was a cap at 10%. We were
+successfully negotiating that up to 15%. Now we kind of bust that gap -- that cap again. I think it's
+simply a result of the digital economy taking a larger and larger share of the economy at large. If
+you look at the top 10 market caps on the planet, in 1980, there was only one, which was IBM in
+technology. In 2000, there were four. It was Microsoft, still around today in that bucket, Intel,
+Cisco, and one European company called Nokia. And today there's actually eight, if you include
+Tesla, because it's also a technology company. So you see how the digital economy is really
+taking a larger and larger share. And we don't find it very intuitive that you then cap that digital
+technology only because in one country, it's concentrated on one company, in this case, SAP.
+But the good news is our strong efforts to attract US Investors are bearing fruit. We spend more
+time there and there is a huge demand in the US in terms of capital to be allocated. If you think
+about the 3,000 billions being invested in the biggest tech companies, if you only kind of are
+able to attract a tiny share of that, that more than offsets that point of view. But in total, I think it's
+more about the general regulatory environment, how conducive is the regulation in Europe for a
+company like SAP. We just mentioned one topic like that cap in the DAX and there are many other
+things that hopefully the wayback [ph] call we receive from the United States will resonate and
+then give us some opportunities to thrive even better in the future.
+A - `Monika Schaller, Chief Communications Officer `
+Thank you, Dominik. Last question, (inaudible). Short question, short answer.
+Q - Unidentified Participant
+Hi, Michael (inaudible). One question. You are really bullish on your approach towards AI. Can you
+give or will you give some certain numbers how this AI use cases influence your revenue?
+A - `Christian Klein, Chief Executive Officer `
+I mean, Michael, yeah, I mean, we talked today about the 50% of AI use cases embedded in the
+deals. What is, I guess, fair to say, when you buy a supply chain or an HR software from SAP, I
+mean, there is a certain bookings impact already in the CCB, and of course, it will go very fast
+because we embed it, also be turned into revenue.
+And so when you look at the overall CCB growth and how well this is developing and the kind of
+acceleration, what you can see, of course one strong, the strongest lever is AI. So we don't break
+out revenue numbers, but I guess 34,000 customers using AI, and I underscore using, is actually
+a pretty strong testament that there is a lot of value. And when you look at now the next wave of
+AI and we have prepared there an early glimpse around Agentic AI and SAP cash collection
+example, you see how we are sitting really at this nexus between business and technology. And
+so we are very confident and the outlook we have given, the acceleration on total revenue is, a
+lot of that is of course also related to AI.
+A - `Monika Schaller, Chief Communications Officer `
+Yeah. Thank you very much. We are running out of time. Thank you very much for everyone joiningmyself. Thank you very much for joining us. Have a great day. And for everyone here in the room
+and we go off link now, we would love to invite you to join Christian and Dominik for some food
+and drinks outside, and we have something very special.
